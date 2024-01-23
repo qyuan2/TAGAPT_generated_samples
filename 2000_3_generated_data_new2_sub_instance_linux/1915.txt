@@ -1,0 +1,67 @@
+21
+MP*-tee
+MF-shell.cgi
+SF-access.txt
+SF-password-hash.sh
+MP-sed
+TP*-less
+TF-pd.c
+MF-data.zip
+MP-hostname
+MP-bash 
+SF-td.c
+MP-ls
+SF-etc.tar.gz
+MF-at.a
+SF-user.r
+MF-cron.h
+MP*-sed
+MF-ret.c
+MF-raft-medium-directories.txt
+MF-s.cfg
+MP*-sudo
+43
+0 1 RD-1
+0 2 WR-1
+0 3 WR-1
+0 4 UK-1
+5 1 WR-2
+5 2 RD-2
+5 3 WR-2
+5 6 RD-2
+5 7 WR-2
+8 1 UK-2
+9 2 WR-2
+9 3 WR-2
+5 9 IJ-2
+9 6 RD-2
+9 7 WR-2
+5 10 EX-2
+9 10 RD-2
+11 2 RD-2
+11 3 WR-2
+5 11 UK-2
+9 12 RD-2
+9 13 WR-2
+9 14 WR-2
+9 15 EX-2
+16 6 CD-3
+16 7 EX-3
+16 10 RD-3
+16 12 RD-3
+16 13 RD-3
+16 14 RD-3
+16 15 WR-3
+9 17 EX-2
+16 17 WR-3
+9 18 CD-2
+16 18 WR-3
+9 19 WR-2
+16 19 EX-3
+20 10 RD-4
+20 12 WR-4
+20 13 WR-4
+20 14 WR-4
+20 15 WR-4
+16 20 UK-3
+

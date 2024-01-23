@@ -1,0 +1,38 @@
+12
+MP*-vim
+TP*-rev
+MF-password-hash.sh
+TP*-cat
+MF-Users.tar.gz
+MF-pwquality.c
+MP*-lsof
+TP-dd
+MF-password-hash.sh
+TF-raw.githubusercontent.c
+MP-chmod
+MF-victim-shred.txt
+23
+0 1 FR-1
+0 2 EX-1
+1 2 RD-2
+0 3 IJ-1
+1 3 IJ-2
+3 2 UK-3
+0 4 RD-1
+1 4 RD-2
+0 5 EX-1
+1 5 WR-2
+0 6 FR-1
+1 6 IJ-2
+6 4 RD-4
+6 5 EX-4
+0 7 IJ-1
+1 7 UK-2
+0 8 WR-1
+6 8 EX-4
+0 9 RD-1
+6 9 WR-4
+0 10 FR-1
+10 4 UK-4
+6 11 UK-4
+

@@ -1,0 +1,52 @@
+16
+MP*-nl
+MF-cron.a
+MP*-bash
+TP*-bash
+MP-ls
+TF-pd.c
+MP-curl
+TF-inetd.c
+MF-lighttpd.c
+SF-settings.php
+MP-ip
+MP*-find
+MF-art.sh
+TF-target.example.c
+SO-127.0.0.1
+MP-cat
+33
+0 1 RD-1
+0 2 FR-1
+2 1 RD-2
+0 3 FR-1
+3 1 EX-3
+2 3 IJ-2
+0 4 FR-1
+4 1 WR-3
+2 4 UK-2
+0 5 WR-1
+3 5 WR-3
+0 6 FR-1
+6 1 UK-3
+0 7 WR-1
+3 7 WR-3
+0 8 EX-1
+3 8 RD-3
+0 9 WR-1
+3 9 EX-3
+0 10 FR-1
+3 10 UK-3
+11 5 WR-4
+11 7 WR-4
+11 8 RD-4
+11 9 WR-4
+11 12 EX-4
+11 13 WR-4
+11 14 ST-4
+15 5 WR-4
+15 7 RD-4
+15 8 WR-4
+15 9 WR-4
+11 15 UK-4
+

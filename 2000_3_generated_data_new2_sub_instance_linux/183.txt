@@ -1,0 +1,76 @@
+19
+MP*-sh
+MF-2017.pl
+TP*-cat
+SF-raft-large-directories.txt
+SF-Users.tar.gz
+MP*-less
+SF-1.zip
+SF-subprocess.c
+SO-192.168.206.136
+TP-ls
+MP-cat
+MP-perl
+MP-ip
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+TP-netstat
+MP*-cat
+MF-image.php
+MF-raft-medium-directories.txt
+MP-ls
+54
+0 1 WR-1
+0 2 IJ-1
+2 1 EX-2
+0 3 WR-1
+2 3 RD-2
+0 4 WR-1
+2 4 WR-2
+0 5 FR-1
+5 1 WR-3
+2 5 IJ-2
+5 3 WR-3
+5 4 EX-3
+0 6 WR-1
+2 6 WR-2
+5 6 RD-3
+0 7 WR-1
+2 7 RD-2
+5 7 CD-3
+0 8 ST-1
+2 8 ST-2
+5 8 ST-3
+0 9 FR-1
+9 1 EX-3
+2 9 IJ-2
+9 3 WR-3
+9 4 EX-3
+5 9 IJ-3
+9 6 RD-3
+9 7 RD-3
+9 8 ST-3
+0 10 FR-1
+10 1 UK-3
+2 11 FR-2
+11 3 RD-3
+11 4 UK-3
+2 12 FR-2
+12 3 WR-3
+5 12 UK-3
+9 13 ST-3
+14 6 WR-3
+14 7 CD-3
+8 14 RF-3
+9 14 IJ-3
+13 14 RF-3
+15 6 RD-4
+15 7 CD-4
+8 15 RF-3
+9 15 IJ-3
+13 15 RF-3
+14 15 UK-3
+9 16 WR-3
+9 17 RD-3
+18 8 ST-4
+9 18 UK-3
+

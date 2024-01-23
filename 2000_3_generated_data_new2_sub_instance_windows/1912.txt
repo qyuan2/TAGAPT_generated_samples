@@ -1,0 +1,81 @@
+23
+MP*-сsrss.exe 
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9BE4.tmp
+TF-SecHex-GUI.dll
+MP*-ipconfig.exe
+TP-hh.exe
+MP-ipconfig.exe
+TF-C:\Program Files\appdata\local\temp\rpvbh
+MP-ns967A.tmp
+SF-C:\Windows\System32\cscript
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+TP*-conhost.exe
+MP-HxD.exe
+TP-ExplorerSuite.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MF-sc.exe
+MF-\Users\admin\AppData\Local\Temp\tmp8520.tmp
+MP-cmdkey.exe
+TP*-BFB9.exe
+TF-C:\Users\admin\AppData\Local\Temp\tmpA5B6.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+MP-filezilla.exe 
+MP-nethtsrv.exe
+55
+0 1 ST-1
+0 2 EX-1
+0 3 WR-1
+0 4 FR-1
+4 1 ST-2
+4 2 RD-2
+4 3 WR-2
+0 5 FR-1
+1 5 RF-1
+5 2 RD-2
+5 3 WR-2
+4 5 IJ-2
+0 6 FR-1
+1 6 RF-1
+6 2 RD-2
+6 3 WR-2
+4 6 UK-2
+0 7 WR-1
+5 7 WR-2
+0 8 UK-1
+5 9 RD-2
+5 10 WR-2
+1 11 RF-1
+11 2 WR-3
+11 3 WR-3
+5 11 IJ-2
+11 7 RD-3
+11 9 WR-3
+11 10 UK-3
+12 2 CD-3
+12 3 WR-3
+5 12 IJ-2
+12 7 WR-3
+12 9 WR-3
+13 3 WR-3
+5 13 UK-2
+12 14 ST-3
+12 15 EX-3
+12 16 WR-3
+17 7 UK-3
+18 9 WR-4
+12 18 IJ-3
+14 18 RF-3
+18 15 RD-4
+18 16 RD-4
+12 19 RD-3
+18 19 WR-4
+20 12 RF-3
+20 18 RF-4
+12 21 FR-3
+21 14 ST-4
+21 15 RD-4
+21 16 RD-4
+18 21 UK-4
+12 22 UK-3
+

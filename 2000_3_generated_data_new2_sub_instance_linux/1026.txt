@@ -1,0 +1,47 @@
+15
+MP*-ls
+TP-cat
+MP-cat
+MP-chmod
+MP-nl
+MF-e.c
+MF-atomic.sh
+MP*-ifconfig
+MF-AutoSUID.sh
+SF-p.c
+MP*-head
+MF-target.example.c
+TF-journald.c
+MP*-find
+MP-vim
+29
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+0 4 FR-1
+3 4 UK-1
+0 5 RD-1
+0 6 WR-1
+0 7 FR-1
+7 5 RD-2
+7 6 RD-2
+0 8 RD-1
+7 8 RD-2
+0 9 WR-1
+7 9 WR-2
+0 10 FR-1
+10 5 WR-3
+10 6 EX-3
+10 8 WR-3
+10 9 EX-3
+7 11 RD-2
+10 11 EX-3
+7 12 UK-2
+13 5 WR-4
+13 6 CD-4
+13 8 WR-4
+13 9 EX-4
+10 13 UK-3
+14 5 UK-4
+

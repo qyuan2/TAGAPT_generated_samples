@@ -1,0 +1,38 @@
+11
+MP*-New Client.exe 
+SF-C:\Users\admin\AppData\Local\Temp\hh
+MF-C:\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+MF-\Windows\system32\wbengine.exe
+SO-https://vision.fn-pz.com
+MF-M:\SOFTWARE\Classes\.wav
+TP*-DllHost.exe 
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+TP*-WScript.exe
+MF-C:\Users\admin\AppData\Local\Temp\444444
+TP*-jerkoff.exe 
+24
+0 1 WR-1
+0 2 CD-1
+0 3 EX-1
+0 4 ST-1
+0 5 WR-1
+0 6 FR-1
+6 1 RD-2
+6 2 WR-2
+6 3 WR-2
+4 6 RF-1
+6 5 WR-2
+0 7 ST-1
+6 7 ST-2
+0 8 IJ-1
+8 1 WR-3
+8 2 UK-3
+0 9 WR-1
+6 9 RD-2
+0 10 FR-1
+10 1 EX-4
+10 3 WR-4
+4 10 RF-1
+10 5 WR-4
+6 10 UK-2
+

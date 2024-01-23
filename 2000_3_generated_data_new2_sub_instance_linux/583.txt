@@ -1,0 +1,71 @@
+21
+MP*-sed
+MF-raft-medium-directories.txt
+SO-http://192.168.206.137:8080/robots.txt
+TP-dirb
+MP*-cat
+MF-backsup.sh
+SF-data.zip
+MF-echo-art-fish.sh
+TP*-uname
+MF-pwquality.c
+MF-backsup.sh
+MF-Discovery.sh
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP-less
+SF-s.c
+MP-curl
+MP-grep
+MP*-feroxbuster
+MF-e.c
+TF-resolv.c
+MP-ls
+47
+0 1 WR-1
+2 0 RF-1
+0 3 IJ-1
+3 1 UK-1
+0 4 FR-1
+2 4 RF-2
+0 5 RD-1
+4 5 WR-2
+0 6 WR-1
+4 6 EX-2
+0 7 RD-1
+4 7 EX-2
+0 8 IJ-1
+8 2 ST-3
+4 8 IJ-2
+8 5 RD-3
+8 6 WR-3
+8 7 RD-3
+0 9 WR-1
+4 9 WR-2
+8 9 RD-3
+0 10 EX-1
+4 10 WR-2
+8 10 EX-3
+4 11 EX-2
+8 11 WR-3
+4 12 ST-2
+12 8 RF-2
+4 13 UK-2
+8 14 RD-3
+15 5 UK-3
+16 6 RD-3
+16 7 WR-3
+8 16 UK-3
+17 7 WR-4
+17 9 WR-4
+17 10 WR-4
+17 11 WR-4
+12 17 RF-2
+17 14 WR-4
+17 18 WR-4
+17 19 RD-4
+20 10 WR-4
+20 11 RD-4
+20 12 ST-4
+20 14 WR-4
+17 20 UK-4
+

@@ -1,0 +1,101 @@
+27
+MP*-ns9510.tmp
+MF-C:\Users\admin\AppData\Local\Temp\3ec1f323b5\danke.exe
+TF-C:\Users\admin\Downloads\Scanned_file_PO23_Jan
+TP-ns98F0.tmp 
+SF-C:\Windows\Temp\xordump
+SF-C:\Users\admin\AppData\Local\Temp\qgcrmeck.exe
+TP-KMSpico_setup.tmp
+MF-\Users\admin\AppData\Local\Temp\is-HOVH3.tmp\vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+MP-facttura.exe
+MF-\Users\admin\AppData\Local\Temp\bltf.exe.INFECTED.dll
+MF-C:\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6
+MF-C:\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8
+TP*-InstaBotPro (1).exe 
+MF-C:\Program Files\VideoLAN\VLC\vlc.exe
+MF-C:\Windows\System32\schtasks
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+TF-\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv.bat
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+TP-java.exe
+MF-C:\Users\admin\AppData\Local\Temp\analyssifilename
+TP*-Protected.exe
+SF-C:\Users\admin\AppData\Local\Temp\xobpf7op
+MP-OneDrive.exe 
+MF-%systemdrive%\Users\Public\Desktop
+MF-rump_private.jpg
+MP*-wscript.exe 
+MF-C:\Windows\System32\Notepad
+71
+0 1 RD-1
+0 2 RD-1
+0 3 IJ-1
+3 1 EX-1
+3 2 WR-1
+0 4 EX-1
+3 4 RD-1
+0 5 WR-1
+3 5 WR-1
+0 6 FR-1
+6 1 RD-1
+6 2 WR-1
+3 6 IJ-1
+6 4 RD-1
+6 5 RD-1
+0 7 RD-1
+3 7 WR-1
+6 7 WR-1
+0 8 UK-1
+3 9 WR-1
+6 9 WR-1
+3 10 WR-1
+6 10 RD-1
+3 11 RD-1
+6 11 CD-1
+12 2 RD-2
+3 12 IJ-1
+12 4 RD-2
+12 5 RD-2
+6 12 IJ-1
+12 7 RD-2
+12 9 EX-2
+12 10 RD-2
+12 11 WR-2
+3 13 WR-1
+6 13 RD-1
+12 13 WR-2
+6 14 RD-1
+12 14 RD-2
+15 6 RF-1
+15 12 RF-2
+6 16 EX-1
+12 16 WR-2
+17 12 RF-2
+18 9 RD-2
+18 10 WR-2
+18 11 WR-2
+12 18 IJ-2
+18 13 WR-2
+18 14 WR-2
+15 18 RF-2
+18 16 WR-2
+18 17 ST-2
+12 19 EX-2
+18 19 CD-2
+20 10 WR-3
+20 11 WR-3
+12 20 UK-2
+18 21 WR-2
+22 13 RD-3
+22 14 EX-3
+22 15 ST-3
+22 16 UK-3
+18 23 WR-2
+18 24 WR-2
+25 17 ST-4
+18 25 IJ-2
+25 19 RD-4
+25 21 CD-4
+25 23 UK-4
+18 26 WR-2
+

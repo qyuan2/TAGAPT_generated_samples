@@ -1,0 +1,52 @@
+15
+MP-cat
+MP*-nl
+MF-passwd.zip
+TP-cat
+TF-http.c
+TP*-awk
+MF-journald.c
+SO-192.168.2.102
+SO-192.168.10.128
+SF-s.c
+TP*-uname
+SO-192.168.206.137
+MP-ls
+MP-less
+MP*-grep
+34
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+0 3 UK-1
+1 4 RD-1
+1 5 FR-1
+5 2 WR-2
+5 4 RD-2
+1 6 WR-1
+5 6 WR-2
+7 1 RF-1
+5 7 ST-2
+8 1 RF-1
+8 5 RF-2
+1 9 WR-1
+5 9 WR-2
+1 10 IJ-1
+10 2 WR-3
+10 4 WR-3
+5 10 UK-2
+1 11 ST-1
+12 2 WR-3
+12 4 CD-3
+12 6 UK-3
+13 4 WR-3
+13 7 ST-3
+13 8 ST-4
+13 9 WR-3
+13 11 ST-4
+7 14 RF-2
+8 14 RF-4
+14 9 WR-4
+11 14 RF-4
+13 14 UK-3
+

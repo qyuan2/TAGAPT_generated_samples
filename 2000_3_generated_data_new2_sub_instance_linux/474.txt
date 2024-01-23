@@ -1,0 +1,104 @@
+26
+MP*-dd
+SF-da-ks.cfg
+SF-1.txt
+SF-access.htm
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP*-sh
+TP-less
+MP-chmod 
+MF-ttpd.c
+MP-pr
+MP-dd
+TP*-awk
+SO-192.168.10.128
+MP-bash
+MP-cat
+SO-192.168.37.130
+MP-head
+MP-uname
+MP-grep
+MP*-paste
+SO-192.168.37.130
+SF-journald.c
+MF-da-ks.cfg
+MP-ifconfig
+TP-iptables
+MP-whoami
+75
+0 1 WR-1
+0 2 EX-1
+0 3 EX-1
+0 4 ST-1
+0 5 FR-1
+5 1 WR-2
+5 2 CD-2
+5 3 EX-2
+4 5 RF-1
+0 6 FR-1
+6 1 WR-2
+6 2 RD-2
+6 3 EX-2
+4 6 RF-1
+5 6 IJ-2
+0 7 FR-1
+7 1 WR-2
+7 2 RD-2
+0 8 RD-1
+5 8 CD-2
+6 8 WR-2
+0 9 FR-1
+9 1 EX-2
+9 2 WR-2
+9 3 WR-2
+9 4 ST-2
+5 9 UK-2
+10 1 RD-2
+10 2 RD-2
+10 3 RD-2
+4 10 RF-1
+6 10 IJ-2
+10 8 RD-2
+11 2 WR-3
+11 3 EX-3
+11 4 ST-3
+6 11 IJ-2
+11 8 WR-3
+10 11 IJ-2
+12 6 RF-2
+10 12 ST-3
+11 12 ST-3
+13 3 WR-3
+4 13 RF-1
+6 13 IJ-2
+13 8 RD-3
+11 13 UK-3
+4 14 RF-1
+6 14 UK-2
+10 15 ST-3
+16 8 RD-3
+10 16 UK-2
+17 8 WR-3
+17 12 ST-3
+17 15 ST-4
+18 8 EX-3
+12 18 RF-3
+15 18 RF-3
+17 18 UK-3
+19 12 ST-4
+15 19 RF-4
+20 19 RF-4
+19 21 WR-4
+19 22 WR-4
+23 15 ST-4
+19 23 UK-4
+24 15 ST-4
+20 24 RF-4
+24 21 EX-4
+24 22 RD-4
+15 25 RF-4
+25 20 ST-4
+25 21 CD-4
+25 22 WR-4
+24 25 UK-4
+

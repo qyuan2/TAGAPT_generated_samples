@@ -1,0 +1,51 @@
+17
+MP*-sudo
+SF-T1027-004-test.c
+MF-raj.txt
+TF-lighttpd.c
+MP*-rm
+MP-nl
+TP*-perl
+MP-chmod
+MP*-nl
+MF-at.a
+SO-192.168.10.130
+SF-etc.tar.gz
+MF-e.c
+MP-grep
+SF-victim-shred.txt
+SF-inetd.c
+SO-192.168.10.130
+31
+0 1 WR-1
+0 2 RD-1
+0 3 EX-1
+0 4 FR-1
+4 1 WR-2
+4 2 RD-2
+4 3 WR-2
+5 1 EX-2
+5 2 RD-2
+5 3 WR-2
+4 5 UK-2
+6 1 RD-3
+6 2 EX-3
+6 3 WR-3
+7 1 UK-3
+8 2 WR-4
+8 3 EX-4
+6 8 IJ-3
+6 9 WR-3
+8 9 WR-4
+6 10 ST-3
+8 10 ST-4
+6 11 WR-3
+8 11 CD-4
+6 12 RD-3
+8 12 WR-4
+6 13 IJ-3
+8 13 UK-4
+6 14 WR-3
+6 15 RD-3
+16 6 RF-3
+

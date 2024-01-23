@@ -1,0 +1,52 @@
+14
+MP*-ns9AE8.tmp
+TP*-jerkoff.exe 
+MF-C:\Users\admin\AppData\Local\Hydro\Hydro
+TP-WsatConfig.exe
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+SF-C:\Program Files\Google\Chrome\Application\chrome.exe
+MF-\Users\admin\AppData\Local\Temp\qgcrmeck.exe
+MP*-attrib.exe
+MF-C:\Users\admin\AppData\Local\Temp\Keygen.a
+MP*-wusa.exe
+MP-nsBDC5.tmp
+SF-C:\Windows\SysWOW64\help
+MP-ns9510.tmp
+MP-schtasks.exe
+35
+0 1 FR-1
+0 2 WR-1
+1 2 EX-2
+0 3 UK-1
+1 4 ST-2
+1 5 WR-2
+1 6 EX-2
+1 7 IJ-2
+7 2 RD-3
+7 4 ST-3
+7 5 WR-3
+7 6 WR-3
+1 8 WR-2
+7 8 RD-3
+1 9 FR-2
+9 2 RD-4
+9 4 ST-4
+9 5 WR-4
+9 6 RD-4
+7 9 UK-3
+1 10 FR-2
+10 2 WR-4
+4 10 RF-2
+10 5 EX-4
+10 6 WR-4
+10 8 EX-4
+1 11 RD-2
+10 11 RD-4
+12 2 WR-4
+4 12 RF-2
+12 5 UK-4
+13 4 ST-4
+13 6 WR-4
+13 8 RD-4
+10 13 UK-4
+

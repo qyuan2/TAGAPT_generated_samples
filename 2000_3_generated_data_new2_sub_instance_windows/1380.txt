@@ -1,0 +1,53 @@
+20
+MP*-python.exe
+MF-C:\Users\admin\AppData\Local\Temp\GfQBLiiemEPjpaWCZk\DnaohH
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+TF-C:\Windows\Temp\lsass_dump.dmp
+SO-80.0.0.0
+TP*-Skype.exe 
+SF-C:\savesdllNetdhcp\qx9KHAz9bJA4BG9Lx1IKFuftLcE
+SF-c:\windows\system32\msiexec.exe
+MF-\Users\admin\MicrosoftUpdate.exe
+TP*-wusa.exe
+MF-C:\Users\admin\Desktop\a6197937-992f-4d8c-a192-64a545a288e7.pdf
+MF-\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+MF-\Users\admin\AppData\Local\Temp\Client.pdf
+MP-AcroRd32.exe
+SO-https://access-message.top/secure-login
+MF-C:\Program files\appdata\local\temp\deprive
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=jsp
+TF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns958E.tmp
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+MP*-wbengine.exe
+30
+0 1 WR-1
+2 0 RF-1
+0 3 WR-1
+4 0 RF-1
+0 5 FR-1
+5 1 WR-2
+5 2 ST-2
+5 3 WR-2
+4 5 RF-2
+5 6 WR-2
+5 7 WR-2
+5 8 CD-2
+9 1 UK-3
+5 10 RD-2
+5 11 WR-2
+5 12 RD-2
+5 13 IJ-2
+13 6 WR-3
+13 7 RD-3
+13 8 EX-3
+13 10 WR-3
+13 11 WR-3
+13 12 RD-3
+13 14 ST-3
+13 15 WR-3
+13 16 ST-3
+13 17 RD-3
+13 18 ST-3
+19 12 EX-4
+13 19 UK-3
+

@@ -1,0 +1,110 @@
+31
+MP*-EF98.exe
+SO-hxxp://68.183.9[.]9/get.php
+TP-adidnsdump.exe
+MF-EXb1648.38642\XClient.exe
+SF-C:\Users\admin\AppData\Local\Temp\fast1nject.exe
+MP-buidl.exe 
+MF-C:\Users\admin\AppData\Local\Temp\IMPORTANTE
+MF-C:\Users\admin\Desktop\authroot
+MP-ns9872.tmp 
+TP-Invoice.exe 
+SO-192.168.1.1
+SO-edcb@topsoe.com
+MF-\Users\admin\AppData\Local\Temp\authrootstl.cab
+MF-C:\Users\admin\Desktop\test
+MF-files\appdata\local\temp\14612.bmp
+MP*-secedit.exe
+MP*-ns958E.tmp 
+TF-C:\Program Files\Microsoft Office\Office14\POWERPNT
+SF-C:\Users\admin\AppData\Local\Temp\OneDrive
+MF-C:\Users\admin\AppData\Local\Temp\Poison
+MP-cacls.exe 
+MP-7za.exe
+MF-DC\Reader\AcroCEF\debug.log
+MP-ns9AE8.tmp
+MF-C:\Windows\SysWOW64\сsrss.exe
+TP*-DnaohH
+TF-\Windows\system32\regsvr32.exe
+MF-C:\Users\admin\AppData\Roaming\skmt
+TF-C:\Program files\appdata\local\temp\32440
+MF-CompMgmtLauncher.exe
+MP-xcopy.exe
+76
+1 0 RF-1
+0 2 IJ-1
+1 2 RF-1
+0 3 RD-1
+2 3 EX-1
+0 4 RD-1
+2 4 CD-1
+0 5 FR-1
+5 1 ST-1
+2 5 IJ-1
+5 3 UK-1
+0 6 RD-1
+2 6 EX-1
+0 7 RD-1
+2 7 RD-1
+0 8 FR-1
+8 1 ST-1
+2 8 UK-1
+0 9 FR-1
+1 9 RF-1
+9 4 WR-1
+9 6 WR-1
+9 7 WR-1
+0 10 ST-1
+10 9 RF-1
+11 9 RF-1
+9 12 WR-1
+9 13 EX-1
+9 14 EX-1
+15 6 RD-2
+15 7 WR-2
+9 15 IJ-1
+15 10 ST-2
+11 15 RF-2
+15 12 WR-2
+15 13 WR-2
+15 14 RD-2
+16 6 WR-3
+16 7 WR-3
+9 16 IJ-1
+10 16 RF-2
+16 11 ST-3
+16 12 WR-3
+16 13 UK-3
+9 17 WR-1
+15 17 RD-2
+9 18 WR-1
+15 18 UK-2
+9 19 UK-1
+10 20 RF-2
+11 20 RF-3
+20 12 RD-3
+20 14 RD-3
+20 17 WR-3
+11 21 RF-3
+21 12 RD-3
+21 14 RD-3
+21 17 RD-3
+20 22 CD-3
+21 22 WR-3
+23 17 WR-3
+20 23 UK-3
+21 24 EX-3
+25 17 WR-4
+21 25 IJ-3
+25 22 WR-4
+25 24 EX-4
+21 26 EX-3
+25 26 RD-4
+21 27 WR-3
+25 27 RD-4
+25 28 EX-4
+25 29 WR-4
+30 22 WR-4
+30 24 WR-4
+25 30 UK-4
+

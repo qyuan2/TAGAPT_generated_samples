@@ -1,0 +1,53 @@
+18
+MP*-build2.exe 
+SO-hxxp://155.138.252[.]221/get.php
+MP*-jerkoff.exe 
+SF-C:\Users\admin\Desktop
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+MF-C:\Users\admin\AppData\Local\Temp\AB083F1294796B947DE5390EC853243E
+MF-Firefox\firefox.exe
+MP-863e7c22c771e4005197ae28363584f8.exe 
+MF-\Users\admin\AppData\Local\Temp\RESF360.tmp
+SO-hxxp://sacramentos[.]ru/get.php'))|powershell
+MP*-is-Q2MHB.tmp
+SF-C:\Users\admin\AppData\Local\Temp\Payroll_2022
+SO-162.252.214.4
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym
+MF-C:\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+MF-C:\Program Files\Google\Chrome\Application\chrome
+MF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+MP*-ping.exe
+32
+1 0 RF-1
+0 2 FR-1
+1 2 RF-2
+0 3 RD-1
+2 3 RD-2
+0 4 ST-1
+2 4 ST-2
+0 5 WR-1
+2 5 WR-2
+0 6 WR-1
+2 6 RD-2
+0 7 UK-1
+2 8 RD-2
+2 9 ST-2
+10 1 ST-3
+10 3 RD-3
+10 4 ST-3
+10 5 WR-3
+10 6 WR-3
+10 8 WR-3
+10 9 ST-3
+2 11 WR-2
+10 11 RD-3
+12 2 RF-2
+10 12 ST-3
+10 13 WR-3
+10 14 WR-3
+10 15 WR-3
+10 16 WR-3
+17 8 WR-4
+17 9 ST-4
+10 17 UK-3
+

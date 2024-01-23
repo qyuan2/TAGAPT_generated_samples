@@ -1,0 +1,82 @@
+24
+MP-less
+MF-ttpd.c
+TP-bash 
+MF-pd.c
+MP-ftp
+MP-ls
+TF-T1070.006-reference.txt
+MP-tail
+TP*-less
+TP-cat
+SO-192.168.2.102
+MP-perl
+MF-target.example.c
+TP-touch
+SF-journald.c
+TP-grep
+SF-f.r
+MP*-sudo
+MP-ls
+TF-0*.txt
+MP*-cat
+TF-secret.c
+TP*-curl
+MF-raft-large-directories.txt
+55
+0 1 WR-1
+0 2 FR-1
+2 1 UK-1
+0 3 RD-1
+0 4 UK-1
+5 3 RD-1
+5 6 EX-1
+7 3 EX-1
+5 7 UK-1
+8 3 WR-1
+8 6 WR-1
+9 3 EX-1
+9 6 WR-1
+8 9 IJ-1
+10 8 RF-1
+9 10 ST-1
+11 3 WR-1
+11 6 CD-1
+8 11 IJ-1
+9 11 IJ-1
+11 10 ST-1
+8 12 UK-1
+13 3 WR-1
+13 6 WR-1
+9 13 IJ-1
+10 13 RF-1
+11 13 IJ-1
+9 14 RD-1
+11 14 WR-1
+13 14 WR-1
+15 6 WR-1
+9 15 UK-1
+11 16 WR-1
+13 16 WR-1
+17 10 ST-2
+13 17 IJ-1
+17 14 EX-2
+17 16 RD-2
+18 10 ST-2
+11 18 UK-1
+13 19 EX-1
+17 19 WR-2
+20 10 ST-3
+13 20 IJ-1
+20 14 RD-3
+20 16 RD-3
+17 20 UK-2
+13 21 RD-1
+13 22 FR-1
+22 14 WR-4
+22 16 WR-4
+22 19 RD-4
+22 21 RD-4
+13 23 RD-1
+22 23 UK-4
+

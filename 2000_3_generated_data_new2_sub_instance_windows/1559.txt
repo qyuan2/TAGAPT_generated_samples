@@ -1,0 +1,90 @@
+23
+MP*-Dkeyauth.tmp 
+MF-\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64.dll
+MF-\Users\admin\AppData\Roaming\SysInfoTool\data.xml
+MP*-words[1].txt.exe
+MF-C:\Users\admin\AppData\Local\Temp\3ec1f323b5\danke
+MP-vaultcmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\test
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+TP-VRAPP.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+MF-C:\Users\admin\AppData\Local\Temp\c3c6a5675d32fe330b83debceb63d60e
+MF-\Users\admin\AppData\Local\Temp\LZ4-SOFT.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+SF-C:\Users\admin\AppData\Local\Temp\script
+MP*-keygen.exe
+MP*-FACTURA COMERCIAL_70051.pdf.exe
+MP-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+MF-C:\Users\admin\AppData\Local\Temp\system_file.exe
+MP-n4054738.exe
+MF-C:\savesdllNetdhcp\dwm.exe
+TP-Heapman45.exe 
+MF-C:\Users\Public\audiodg
+MP-setup_avrokeyboard_5.6.0.exe
+64
+0 1 WR-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-2
+3 2 RD-2
+0 4 WR-1
+3 4 WR-2
+0 5 FR-1
+5 1 WR-2
+5 2 RD-2
+5 4 WR-2
+0 6 RD-1
+3 6 WR-2
+5 6 WR-2
+0 7 ST-1
+3 7 ST-2
+5 7 ST-2
+0 8 IJ-1
+8 1 UK-2
+9 0 RF-1
+9 3 RF-2
+9 5 RF-2
+0 10 RD-1
+3 10 WR-2
+5 10 WR-2
+3 11 RD-2
+5 11 WR-2
+12 3 RF-2
+5 12 ST-2
+3 13 RD-2
+5 13 WR-2
+14 4 WR-3
+14 6 RD-3
+7 14 RF-2
+14 9 ST-3
+14 10 WR-3
+14 11 WR-3
+14 12 ST-3
+14 13 RD-3
+5 15 FR-2
+15 6 EX-4
+7 15 RF-2
+15 9 ST-4
+15 10 RD-4
+15 11 RD-4
+12 15 RF-3
+15 13 WR-4
+16 6 UK-4
+14 17 WR-3
+15 17 RD-4
+18 9 ST-4
+18 10 EX-4
+18 11 UK-4
+14 19 WR-3
+15 19 EX-4
+20 10 RD-4
+20 12 ST-4
+20 13 RD-4
+14 20 IJ-3
+15 20 UK-4
+14 21 WR-3
+22 12 ST-4
+22 13 RD-4
+14 22 UK-3
+

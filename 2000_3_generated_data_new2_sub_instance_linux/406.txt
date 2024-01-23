@@ -1,0 +1,57 @@
+16
+MP*-uname
+MF-rockyou.txt
+TP-cat
+MF-common.txt
+SO-192.168.206.137
+TP-find
+MP-nc
+MF-raft-large-directories.txt
+SF-ufw.c
+MP*-bash
+TP*-tail
+TP*-cat
+MF-alertConfigField.php
+MF-subprocess.c
+MF-etc.tar.gz
+MP-tail
+38
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 WR-1
+2 3 UK-1
+0 4 ST-1
+0 5 IJ-1
+5 1 WR-1
+5 4 ST-1
+0 6 FR-1
+6 1 EX-1
+4 6 RF-1
+5 6 UK-1
+0 7 WR-1
+0 8 WR-1
+0 9 FR-1
+9 1 WR-2
+9 4 ST-2
+9 7 RD-2
+9 8 WR-2
+0 10 IJ-1
+10 1 RD-3
+4 10 RF-1
+10 7 RD-3
+10 8 RD-3
+9 10 IJ-2
+11 1 WR-4
+11 4 ST-4
+11 7 WR-4
+11 8 EX-4
+9 11 IJ-2
+10 11 UK-3
+9 12 WR-2
+9 13 WR-2
+9 14 WR-2
+15 7 WR-4
+15 8 WR-4
+9 15 UK-2
+

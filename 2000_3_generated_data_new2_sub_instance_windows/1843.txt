@@ -1,0 +1,41 @@
+13
+MP*-SSLplus.exe
+MF-C:\Windows\System32\NOTEPAD
+MP*-863e7c22c771e4005197ae28363584f8.exe 2620
+TP-ns9318.tmp
+SF-C:\Users\admin\AppData\Local\Temp\is-NIBPL.tmp
+MF-C:\Path\AtomicRedTeam.dll
+MF-\Users\admin\AppData\Local\Temp\8be41efd6e6ace53b8c59344be2ba91fe41003987a8e38484b20760d7c400a42.zip
+MP*-PC_Cleaner__5509.exe 
+MP*-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+TF-c:\Windows\system32\vssadmin.exe
+SF-C:\Program Files\Windows Media Player\wmpnscfg.exe
+MF-clients2.google.c
+MP-Xd.exe
+25
+0 1 RD-1
+0 2 FR-1
+2 1 WR-2
+0 3 IJ-1
+3 1 RD-2
+2 3 UK-2
+0 4 CD-1
+0 5 RD-1
+0 6 WR-1
+0 7 FR-1
+7 1 WR-3
+7 4 CD-3
+7 5 WR-3
+7 6 UK-3
+0 8 FR-1
+8 1 WR-4
+8 4 WR-4
+8 5 WR-4
+0 9 WR-1
+8 9 RD-4
+0 10 UK-1
+8 11 WR-4
+12 4 EX-4
+12 5 RD-4
+8 12 UK-4
+

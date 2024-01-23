@@ -1,0 +1,140 @@
+36
+MP*-nsCCFE.tmp
+MF-C:\Windows\system32\SearchProtocolHost.exe
+TF-storage.m
+MF-C:\Windows\system32\nethtsrv.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42AMD64
+MP*-del.exe
+SF-C:\Users\admin\AppData\Local\Temp\program2.py
+TF-C:\Users\admin\AppData\Local\Temp\w2wwpl2p
+MF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd.zip
+TP-ns921C.tmp
+TF-\Users\admin\AppData\Local\Hydro\Hydro.jar
+SF-C:\Users\admin\AppData\Local\Temp\Xworm
+MP-Outflank-Dumpert.exe
+TP-Redline Activate.exe 
+MP-mmc.exe
+TP*-C3B1.exe
+TP-AdobeTray.exe
+MF-C:\Users\admin\AppData\Local\Temp\ss_protected.exe
+MP-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MF-C:\Users\admin\AppData\Local\Temp\EUC0BF.tmp
+MF-C:\Users\admin\AppData\Local\Temp\GLJC215
+TP-ns996E.tmp
+MP-obiokmgf6.exe
+SF-C:\Users\admin\AppData\Local\Temp\VRAPP.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+MP-6248.exe
+TP-regsvr32.exe
+MF-C:\Users\admin\AppData\Local\Temp\iphoneanalyzer
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\nsA317.tmp
+TP*-vaultcmd.exe
+MP-TrustedInstaller.exe
+SF-C:\Users\admin\AppData\Local\Temp\PO
+MF-\Users\admin\Downloads\crypto-js.js
+MP-prevhost.exe
+MF-\Users\admin\AppData\Local\Temp\IXP002.TMP\p2602380.exe
+MP-cacls.exe
+101
+0 1 RD-1
+0 2 RD-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 1 WR-2
+5 2 RD-2
+5 3 WR-2
+5 4 CD-2
+0 6 WR-1
+5 6 RD-2
+0 7 WR-1
+5 7 EX-2
+0 8 WR-1
+5 8 RD-2
+0 9 IJ-1
+9 1 RD-2
+9 2 CD-2
+9 3 UK-2
+0 10 WR-1
+5 10 RD-2
+5 11 RD-2
+12 2 WR-2
+12 4 WR-2
+12 6 WR-2
+12 7 WR-2
+12 8 WR-2
+12 10 EX-2
+12 11 WR-2
+13 4 WR-2
+5 13 UK-2
+14 4 WR-2
+14 6 WR-2
+14 7 EX-2
+14 8 WR-2
+14 10 RD-2
+14 11 WR-2
+12 14 UK-2
+15 6 WR-3
+15 7 WR-3
+15 8 EX-3
+15 10 EX-3
+15 11 RD-3
+16 6 RD-3
+16 7 WR-3
+16 8 WR-3
+16 10 WR-3
+16 11 WR-3
+15 16 IJ-3
+15 17 EX-3
+16 17 WR-3
+18 8 EX-3
+18 10 EX-3
+18 11 WR-3
+15 18 IJ-3
+16 18 IJ-3
+18 17 EX-3
+15 19 WR-3
+16 19 UK-3
+15 20 RD-3
+18 20 RD-3
+21 11 WR-3
+15 21 IJ-3
+21 17 EX-3
+18 21 IJ-3
+21 20 WR-3
+15 22 IJ-3
+22 17 WR-3
+18 22 UK-3
+15 23 WR-3
+21 23 RD-3
+15 24 ST-3
+21 24 ST-3
+15 25 FR-3
+25 17 WR-3
+25 20 EX-3
+21 25 UK-3
+26 17 WR-3
+26 20 WR-3
+26 23 EX-3
+26 24 ST-4
+26 27 RD-3
+26 28 RD-3
+29 20 RD-4
+29 23 RD-4
+24 29 RF-4
+26 29 IJ-3
+29 27 WR-4
+29 28 WR-4
+30 20 WR-4
+30 23 EX-4
+24 30 RF-4
+26 30 IJ-3
+30 27 UK-4
+26 31 RD-3
+29 31 WR-4
+26 32 UK-3
+33 23 UK-4
+29 34 EX-4
+35 28 WR-4
+29 35 UK-4
+

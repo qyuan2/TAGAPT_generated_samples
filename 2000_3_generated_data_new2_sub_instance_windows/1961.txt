@@ -1,0 +1,26 @@
+10
+MP*-nbtstat.exe
+SF-C:\Users\admin\AppData\Roaming\Nixware.exe
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32
+MF-C:\Users\admin\AppData\Local\Temp\sandbox-installer-windows10-home.bat
+MP*-GLJC215.tmp
+TP*-lsass.exe
+MF-\ServerComponenthostNet\z3dzg.bat
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+MF-DIa3024.46869\ChristmasCard.doc
+TP*-ma grosse bite.exe 
+13
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 FR-1
+4 1 UK-2
+5 2 WR-3
+5 3 RD-3
+5 6 RD-3
+5 7 ST-3
+5 8 WR-3
+9 2 EX-4
+9 3 WR-4
+5 9 UK-3
+

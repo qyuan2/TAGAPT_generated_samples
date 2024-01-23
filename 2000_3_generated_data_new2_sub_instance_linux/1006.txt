@@ -1,0 +1,131 @@
+34
+MP*-uname
+MF-v.c
+SF-pd.c
+MP-nl
+MP-xwd
+SF-s.c
+SF-logrotate.c
+MP-sh
+MP-touch
+MP*-less
+MF-te.c
+TP*-uname
+TP-awk
+MF-atomic.log
+TP-cat
+MF-0*.txt
+SO-192.168.206.136
+MF-access.htm
+MP-sed
+MP-nl
+SO-123.6.44.67
+MF-lighttp.c
+MF-common.txt
+SO-192.168.1.1
+TF-cron.h
+MP-rev
+MP-chmod
+MP*-dpkg
+SO-192.168.10.131
+SF-robots.txt
+MF-T1070.004-test.txt
+TP-dirb
+TP-grep
+SF-backsup.sh
+94
+0 1 WR-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-1
+3 2 EX-1
+0 4 FR-1
+4 1 RD-1
+4 2 EX-1
+0 5 RD-1
+3 5 WR-1
+4 5 WR-1
+0 6 WR-1
+3 6 UK-1
+0 7 UK-1
+8 1 WR-1
+8 2 WR-1
+4 8 UK-1
+9 1 WR-2
+9 2 WR-2
+9 5 WR-2
+9 10 RD-2
+11 1 EX-3
+11 2 WR-3
+11 5 RD-3
+9 11 IJ-2
+11 10 WR-3
+12 2 RD-3
+12 5 RD-3
+9 12 IJ-2
+12 10 RD-3
+11 12 IJ-3
+9 13 EX-2
+11 13 WR-3
+12 13 WR-3
+14 5 WR-3
+9 14 IJ-2
+14 10 RD-3
+11 14 UK-3
+9 15 WR-2
+12 15 WR-3
+16 9 RF-2
+12 16 ST-3
+9 17 RD-2
+12 17 EX-3
+9 18 FR-2
+18 10 WR-3
+12 18 IJ-3
+18 13 UK-3
+9 19 FR-2
+19 10 WR-3
+12 19 IJ-3
+19 15 EX-3
+16 19 RF-3
+19 17 WR-3
+12 20 ST-3
+19 20 ST-3
+12 21 WR-3
+19 21 EX-3
+12 22 WR-3
+19 22 WR-3
+23 19 RF-3
+19 24 WR-3
+25 15 EX-3
+16 25 RF-3
+25 17 WR-3
+19 25 UK-3
+26 16 ST-3
+26 17 WR-3
+20 26 RF-3
+26 21 WR-3
+26 22 RD-3
+23 26 RF-3
+26 24 CD-3
+27 17 WR-4
+27 20 ST-4
+27 21 WR-4
+27 22 WR-4
+27 23 ST-4
+27 24 RD-4
+26 28 ST-4
+27 28 ST-4
+26 29 WR-3
+27 29 WR-4
+26 30 WR-3
+27 30 RD-4
+31 22 WR-4
+31 23 ST-4
+31 24 EX-4
+26 31 IJ-3
+27 31 UK-4
+26 32 FR-3
+28 32 RF-4
+32 29 UK-4
+26 33 RD-3
+

@@ -1,0 +1,53 @@
+15
+MP*-sed
+TF-d.c
+SO-192.168.206.0
+MF-T1027-004-test.c
+SO-http://192.168.0.134/passwd
+TP*-cat
+MF-log.c
+MF-ttpd.c
+MF-subprocess.c
+MP*-paste
+MF-www.google.c
+TF-LinEnum.sh
+SO-192.168.37.130
+TP*-python
+MF-target.example.c
+35
+0 1 RD-1
+0 2 ST-1
+0 3 RD-1
+0 4 ST-1
+0 5 FR-1
+5 1 WR-2
+2 5 RF-1
+5 3 EX-2
+4 5 RF-1
+0 6 RD-1
+5 6 RD-2
+0 7 WR-1
+5 7 WR-2
+0 8 RD-1
+5 8 RD-2
+0 9 FR-1
+9 1 CD-3
+2 9 RF-1
+9 3 WR-3
+9 4 ST-3
+5 9 IJ-2
+9 6 EX-3
+9 7 WR-3
+9 8 WR-3
+0 10 WR-1
+5 10 WR-2
+9 10 WR-3
+5 11 RD-2
+9 11 UK-3
+12 5 RF-2
+4 13 RF-1
+5 13 IJ-2
+13 6 CD-4
+13 7 UK-4
+5 14 WR-2
+

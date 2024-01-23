@@ -1,0 +1,93 @@
+30
+MP*-cat
+MP-cat
+MF-settings.php
+MP-ftp
+MF-user.r
+MF-passwd.zip
+MP-wpscan
+MF-rockyou.txt
+TP-dd
+MF-T1003.008.txt
+TP*-bash
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+TP-sed
+MF-access.txt
+TF-inetd.c
+SF-resolv.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-f.r
+MP-bash 
+TP*-sed
+TP*-tail
+MF-raw.githubusercontent.c
+TF-da-ks.cfg
+MF-access.htm
+MF-da-ks.cfg
+TF-pd.c
+TP-nl
+MF-0*.txt
+MF-s.c
+SF-www.google.c
+60
+0 1 FR-1
+0 2 WR-1
+1 2 RD-1
+0 3 FR-1
+1 3 UK-1
+0 4 WR-1
+0 5 WR-1
+0 6 FR-1
+6 2 CD-1
+6 4 UK-1
+0 7 WR-1
+0 8 IJ-1
+8 2 UK-1
+0 9 EX-1
+0 10 IJ-1
+10 5 WR-2
+10 7 RD-2
+10 9 WR-2
+10 11 ST-2
+12 5 RD-2
+12 7 WR-2
+12 9 RD-2
+10 12 IJ-2
+12 11 ST-2
+10 13 UK-2
+12 14 RD-2
+12 15 WR-2
+16 12 RF-2
+12 17 RD-2
+18 9 RD-2
+18 11 ST-2
+12 18 UK-2
+19 9 RD-3
+19 11 ST-3
+19 14 WR-3
+19 15 WR-3
+16 19 RF-3
+19 17 EX-3
+20 11 ST-4
+20 14 EX-4
+20 15 WR-4
+16 20 RF-4
+20 17 RD-4
+19 20 IJ-3
+19 21 WR-3
+20 21 WR-4
+19 22 WR-3
+20 22 WR-4
+19 23 EX-3
+20 23 EX-4
+19 24 CD-3
+20 24 CD-4
+19 25 UK-3
+26 16 ST-4
+26 17 WR-4
+20 26 IJ-4
+26 21 UK-4
+20 27 WR-4
+20 28 WR-4
+20 29 UK-4
+

@@ -1,0 +1,56 @@
+13
+MP*-cat
+MF-bash_completion.sh
+MF-logrotate.c
+MF-test.txt
+TP*-awk
+MP*-more
+MF-cron.a
+SF-passwd.zip
+TP-tail
+MP-paste
+TP*-rev
+SO-192.168.206.137
+TP-chmod
+40
+0 1 RD-1
+0 2 WR-1
+0 3 RD-1
+0 4 IJ-1
+4 1 WR-2
+4 2 WR-2
+4 3 RD-2
+0 5 FR-1
+5 1 RD-3
+5 2 RD-3
+5 3 EX-3
+4 5 IJ-2
+0 6 RD-1
+4 6 WR-2
+5 6 RD-3
+0 7 WR-1
+4 7 RD-2
+5 7 WR-3
+0 8 IJ-1
+8 1 EX-3
+8 2 EX-3
+8 3 WR-3
+4 8 UK-2
+0 9 FR-1
+9 1 WR-3
+9 2 RD-3
+9 3 WR-3
+5 9 UK-3
+0 10 FR-1
+10 1 CD-4
+10 2 RD-4
+10 3 EX-4
+10 6 WR-4
+10 7 RD-4
+10 11 ST-4
+12 2 EX-4
+12 3 RD-4
+12 6 WR-4
+12 7 WR-4
+10 12 UK-4
+

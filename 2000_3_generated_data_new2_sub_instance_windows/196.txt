@@ -1,0 +1,46 @@
+11
+MP*-IBM_Centosi.exe 
+SF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus.ocx
+MF-C:\Users\admin\AppData\Local\Temp\nscB9BA.tmp
+SF-C:\Program Files\PC Cleaner\PCCleaner
+MF-TEMP\T1059.005.out.txt
+MP*-reg.exe
+MP*-Order Confirmation.exe 
+MF-system.net.service
+MF-C:\Windows\System32\WScript
+MP*-mozilla.exe 
+TP-ONENOTE.EXE
+32
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 RD-1
+0 5 FR-1
+5 1 RD-2
+5 2 WR-2
+5 3 WR-2
+5 4 WR-2
+0 6 FR-1
+6 1 RD-3
+6 2 EX-3
+6 3 WR-3
+6 4 WR-3
+0 7 WR-1
+5 7 EX-2
+6 7 RD-3
+0 8 WR-1
+5 8 WR-2
+6 8 WR-3
+0 9 FR-1
+9 1 WR-4
+9 2 WR-4
+9 3 WR-4
+9 4 RD-4
+5 9 UK-2
+0 10 IJ-1
+10 1 WR-4
+10 2 WR-4
+10 3 RD-4
+10 4 WR-4
+6 10 UK-3
+

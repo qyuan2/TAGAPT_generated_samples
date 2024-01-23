@@ -1,0 +1,50 @@
+14
+MP*-cat
+MF-cron.m
+MF-T1027-004-test.c
+MP*-chmod 
+TF-syslog.c
+TP-tac
+SO-8.8.8.8
+TF-ret.c
+SF-sysctl.c
+SF-cron.a
+MP*-stat
+SF-0*.txt
+MP-paste
+MP*-cat
+33
+0 1 RD-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-2
+3 2 UK-2
+0 4 RD-1
+0 5 FR-1
+5 1 WR-2
+5 4 WR-2
+0 6 ST-1
+5 6 ST-2
+0 7 RD-1
+5 7 WR-2
+0 8 WR-1
+5 8 RD-2
+5 9 WR-2
+10 1 RD-3
+10 4 WR-3
+5 10 IJ-2
+6 10 RF-2
+10 7 RD-3
+10 8 WR-3
+10 9 RD-3
+5 11 WR-2
+10 11 RD-3
+12 4 WR-3
+5 12 UK-2
+13 4 WR-4
+13 6 ST-4
+13 7 RD-4
+13 8 RD-4
+13 9 WR-4
+10 13 UK-3
+

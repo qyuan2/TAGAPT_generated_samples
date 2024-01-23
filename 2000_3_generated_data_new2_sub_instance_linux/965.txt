@@ -1,0 +1,47 @@
+18
+MP*-cat
+MF-lighttp.c
+TP*-cat
+TF-s.c
+MP-tee
+MF-p.c
+TP-halt
+TP-less
+MP-netstat
+MP*-more
+MP*-tee
+MP-ifconfig
+MF-1.zip
+MP-nl
+SF-victim-gzip.txt
+TF-resolv.c
+MF-cron.a
+TP-rev
+26
+0 1 WR-1
+0 2 FR-1
+2 1 WR-2
+0 3 RD-1
+2 3 RD-2
+0 4 FR-1
+4 1 UK-2
+0 5 WR-1
+2 5 WR-2
+0 6 UK-1
+2 7 UK-2
+8 5 RD-2
+9 5 EX-3
+10 5 WR-4
+11 5 RD-4
+8 11 UK-2
+9 12 RD-3
+10 12 EX-4
+13 5 WR-4
+9 13 UK-3
+10 14 RD-4
+10 15 RD-4
+10 16 WR-4
+10 17 IJ-4
+17 12 EX-4
+17 14 UK-4
+

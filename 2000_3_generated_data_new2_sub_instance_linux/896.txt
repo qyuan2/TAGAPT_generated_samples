@@ -1,0 +1,79 @@
+22
+MP*-sed
+MP*-cat
+SO-192.168.10.135
+MP-cat
+MF-passwd.zip
+MP-grep
+SO-192.168.206.136
+SF-apache2.c
+SO-192.168.1.1
+SO-192.168.10.129
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-robots.txt
+TP-cat
+MP-ifconfig
+SF-Users.tar.gz
+MP-sed
+MF-art.sh
+MF-flag3.txt
+MF-resolv.c
+MP*-awk
+MF-syslog.c
+MP*-ifconfig
+54
+0 1 FR-1
+0 2 ST-1
+1 2 ST-2
+0 3 FR-1
+1 3 UK-2
+0 4 WR-1
+0 5 FR-1
+2 5 RF-2
+5 4 CD-2
+0 6 ST-1
+5 6 ST-2
+0 7 RD-1
+5 7 WR-2
+8 0 RF-1
+8 5 RF-2
+9 0 RF-1
+9 5 RF-2
+0 10 ST-1
+10 5 RF-1
+5 11 WR-2
+2 12 RF-2
+12 4 RD-2
+5 12 IJ-2
+12 6 ST-2
+12 7 WR-2
+12 8 ST-2
+9 12 RF-2
+10 12 RF-1
+12 11 WR-2
+13 4 UK-2
+5 14 WR-2
+12 14 WR-2
+5 15 FR-2
+6 15 RF-2
+15 7 WR-2
+8 15 RF-2
+15 9 ST-2
+15 10 ST-3
+15 11 WR-2
+12 15 IJ-2
+15 14 RD-2
+12 16 WR-2
+15 16 EX-2
+12 17 WR-2
+15 17 RD-2
+12 18 WR-2
+15 18 WR-2
+19 9 ST-3
+10 19 RF-3
+19 11 RD-3
+12 19 UK-2
+15 20 WR-2
+21 14 WR-4
+15 21 UK-2
+

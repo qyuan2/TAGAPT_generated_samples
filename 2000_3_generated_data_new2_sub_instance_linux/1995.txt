@@ -1,0 +1,97 @@
+25
+MP*-netstat
+SF-target.example.c
+TF-raw.githubusercontent.c
+MF-secret.c
+MF-os.exe
+TP-sed
+MP-dirb
+MP-echo
+SO-192.168.10.128
+TF-ufw.c
+MF-T1070.006-reference.txt
+MP-ls
+TP-cat
+TF-access.htm
+MP*-bash
+MF-ufw.c
+SF-inetd.c
+TP*-netstat
+TP*-wpscan
+TP-ls
+MP-awk
+MP-pr
+MP-more
+SF-secret.c
+TP-paste
+69
+0 1 WR-1
+0 2 RD-1
+0 3 RD-1
+0 4 EX-1
+0 5 IJ-1
+5 1 WR-1
+5 2 UK-1
+0 6 FR-1
+6 1 EX-1
+6 3 WR-1
+6 4 UK-1
+0 7 FR-1
+7 1 RD-1
+7 3 RD-1
+0 8 ST-1
+7 8 ST-2
+0 9 RD-1
+7 9 RD-1
+7 10 EX-1
+11 3 RD-1
+11 8 ST-2
+11 9 RD-1
+11 10 CD-1
+12 3 WR-1
+7 12 IJ-1
+12 8 ST-2
+12 9 WR-1
+12 10 EX-1
+11 12 UK-1
+7 13 RD-1
+8 14 RF-2
+14 9 WR-2
+14 10 WR-2
+14 13 WR-2
+7 15 RD-1
+14 15 WR-2
+7 16 WR-1
+14 16 WR-2
+7 17 IJ-1
+17 8 ST-3
+17 9 WR-3
+17 10 WR-3
+17 13 WR-3
+14 17 IJ-2
+17 15 WR-3
+17 16 WR-3
+8 18 RF-1
+18 9 RD-4
+18 10 RD-4
+18 13 WR-4
+14 18 IJ-2
+18 15 RD-4
+18 16 WR-4
+17 18 IJ-3
+19 9 WR-4
+19 10 WR-4
+19 13 WR-4
+14 19 IJ-2
+19 15 UK-4
+20 10 UK-4
+21 13 RD-4
+14 21 UK-2
+22 13 CD-4
+22 16 RD-4
+17 22 IJ-3
+18 22 UK-4
+17 23 EX-3
+24 16 RD-4
+17 24 UK-3
+

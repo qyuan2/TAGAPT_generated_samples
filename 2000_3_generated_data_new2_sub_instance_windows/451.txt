@@ -1,0 +1,40 @@
+11
+MP*-WScript.exe 
+MF-\Users\admin\AppData\Local\Temp\Ransomware.RedBoot.zip
+TP*-findstr.exe
+TP*-Entry.exe 
+MP-MicrosoftEdgeUpdate.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmp8520
+MF-\Users\admin\AppData\Local\Temp\PO-465514-180820.doc
+MP*-tshark.exe
+MF-C:\Users\admin\Desktop\RunDRT
+MP-jww825a.tmp 
+MP-radmin scanner.exe 
+26
+0 1 WR-1
+0 2 IJ-1
+2 1 EX-2
+0 3 FR-1
+3 1 WR-3
+2 3 IJ-2
+0 4 FR-1
+4 1 RD-3
+2 4 UK-2
+0 5 RD-1
+3 5 WR-3
+0 6 WR-1
+3 6 UK-3
+0 7 FR-1
+7 1 WR-4
+7 5 WR-4
+0 8 WR-1
+7 8 WR-4
+0 9 FR-1
+9 1 RD-4
+9 5 WR-4
+7 9 UK-4
+0 10 FR-1
+10 1 WR-4
+10 5 RD-4
+10 8 UK-4
+

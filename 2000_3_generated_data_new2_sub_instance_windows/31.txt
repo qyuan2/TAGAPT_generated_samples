@@ -1,0 +1,72 @@
+19
+MP*-nsBC6C.tmp
+MF-%USERPROFILE%\desktop\T1037.001
+MF-C:\Windows\System32\cscript
+SO-80.0.0.0
+MF-C:\ServerComponenthostNet\z3dzg.bat
+SO-80.0.0.0
+MP-setup_avrokeyboard_5.6.0.exe
+TF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym
+TP-863e7c22c771e4005197ae28363584f8.exe 
+MF-srss.exe
+MF-\Users\admin\AppData\Local\Temp\fcexploit.pdf
+MF-\Users\admin\AppData\Local\Temp\MDE_File_Sample_88a7f68e7ffeccdba9450ae5dc5ebed3255357385e013c8383105831ad72c9e8.zip
+TP*-aafg31.exe 
+MF-C:\Program Files\Orcus\Orcus
+MF-\Users\admin\AppData\Local\Microsoft\EdgeUpdate\Install\{46A0A62B-1F4F-4D54-A968-BB635F8FA37A}\EDGEMITMP_4BF74.tmp\setup.exe
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MF-C:\Users\admin\AppData\Local\Temp\compile
+TP*-06e0e36f91e621e79712673923e57daf3fcf232bb3151c122891ded30466293a.exe 
+TP*-ExplorerSuite.exe
+50
+0 1 RD-1
+0 2 WR-1
+0 3 ST-1
+0 4 EX-1
+5 0 RF-1
+0 6 FR-1
+6 1 EX-1
+6 2 WR-1
+6 3 ST-1
+6 4 WR-1
+6 5 ST-1
+0 7 UK-1
+8 1 RD-1
+8 2 WR-1
+3 8 RF-1
+8 4 RD-1
+5 8 RF-1
+6 8 IJ-1
+6 9 EX-1
+8 9 WR-1
+6 10 RD-1
+8 10 WR-1
+6 11 RD-1
+8 11 WR-1
+12 2 EX-2
+12 3 ST-2
+12 4 RD-2
+5 12 RF-1
+6 12 IJ-1
+8 12 IJ-1
+12 9 WR-2
+12 10 RD-2
+12 11 WR-2
+6 13 RD-1
+8 13 RD-1
+12 13 RD-2
+6 14 WR-1
+8 14 WR-1
+12 14 WR-2
+8 15 ST-2
+15 12 RF-2
+8 16 WR-1
+12 16 EX-2
+8 17 IJ-1
+17 9 RD-3
+17 10 WR-3
+17 11 UK-3
+18 9 WR-4
+18 10 EX-4
+12 18 UK-2
+

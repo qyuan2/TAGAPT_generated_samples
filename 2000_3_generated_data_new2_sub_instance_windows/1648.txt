@@ -1,0 +1,37 @@
+11
+MP*-KMSpico_setup.exe
+MP*-nsD38B.tmp
+SO-127.0.0.1
+MF-\Windows\System32\reg.exe
+MF-\Path\AtomicRedTeam.dll
+MF-C:\Users\admin\Desktop\CompPkgSrv
+MP-ns958E.tmp 
+SF-C:\Users\admin\AppData\Local\Temp\ursnif
+MP*-Fastfoood.exe
+MP*-nanodump.x64.exe
+MP-winhost.exe
+23
+0 1 FR-1
+2 0 RF-1
+2 1 RF-2
+0 3 EX-1
+1 3 WR-2
+0 4 WR-1
+1 4 RD-2
+0 5 WR-1
+1 5 RD-2
+0 6 FR-1
+1 6 UK-2
+0 7 WR-1
+0 8 FR-1
+8 2 ST-3
+8 3 WR-3
+8 4 WR-3
+8 5 RD-3
+8 7 WR-3
+0 9 FR-1
+9 2 ST-4
+9 3 RD-4
+9 4 UK-4
+0 10 UK-1
+

@@ -1,0 +1,91 @@
+22
+MP*-AdobeARM.exe
+TP*-dkeyauth.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Purchase_ORDERS087
+SF-C:\Users\admin\AppData\Local\Temp\hf1ji2lv.cmd
+MF-C:\Users\admin\AppData\Roaming\1.bat
+MF-C:\Users\admin\Desktop\HxDSetup.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-igfxsrvc.dll
+MP-dvRzzWRPw.exe
+MP*-cvtres.exe
+TF-\Users\Public\coinmarketcap\coinmarketcap.vb
+TP-Scanned_file_PO23_Jan.exe 
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Network\mstsca
+MP-RdrCEF.exe
+TF-Default_File_Path.ps1
+MP*-saves.exe
+MF-C:\Users\admin\AppData\Local\Temp\G88QGQzA.htm
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe
+MP-oneetx.exe 
+66
+0 1 FR-1
+0 2 EX-1
+1 2 EX-2
+0 3 WR-1
+1 3 WR-2
+0 4 WR-1
+1 4 RD-2
+0 5 RD-1
+1 5 RD-2
+6 0 RF-1
+6 1 RF-2
+0 7 EX-1
+1 7 WR-2
+0 8 FR-1
+1 8 IJ-2
+8 2 WR-2
+8 3 WR-2
+8 4 RD-2
+8 5 WR-2
+8 6 ST-3
+8 7 WR-2
+0 9 FR-1
+1 9 IJ-2
+9 2 CD-3
+9 3 WR-3
+9 4 RD-3
+9 5 CD-3
+6 9 RF-3
+9 7 CD-3
+8 9 UK-2
+0 10 UK-1
+1 11 IJ-2
+11 2 WR-3
+11 3 WR-3
+11 4 WR-3
+11 5 WR-3
+6 11 RF-3
+11 7 EX-3
+11 12 EX-3
+13 3 WR-3
+13 4 WR-3
+13 5 WR-3
+6 13 RF-3
+13 7 CD-3
+11 13 IJ-3
+13 12 WR-3
+11 14 WR-3
+13 14 UK-3
+15 5 WR-4
+6 15 RF-2
+15 7 WR-4
+11 15 IJ-3
+15 12 WR-4
+11 16 WR-3
+15 16 RD-4
+17 11 RF-3
+15 17 ST-4
+18 11 RF-3
+18 15 RF-4
+11 19 ST-3
+15 19 ST-4
+11 20 EX-3
+15 20 CD-4
+11 21 IJ-3
+21 12 CD-4
+15 21 UK-4
+

@@ -1,0 +1,51 @@
+17
+MP*-facttura.exe
+MP-AcroRd32.exe 
+MF-C:\Users\admin\AppData\Roaming\expo
+MP-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+SF-C:\Program files\appdata\local\temp\5491
+MF-Stable\crash_count.txt
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce
+MP*-Order Confirmation.exe 
+MF-Injector\Sunset.exe
+SF-C:\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+MP*-cvtres.exe
+SF-C:\Windows\system32\ROUTE
+SO-hxxp://avirona.ru/7-ZIP.html
+TF-C:\WINDOWS\system32\scrobj.dll
+SF-C:\Users\admin\Desktop\11492515294.zip
+MP*-EasyValorant.exe 
+MF-C:\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023
+31
+0 1 FR-1
+0 2 WR-1
+1 2 EX-1
+0 3 FR-1
+1 3 UK-1
+0 4 WR-1
+0 5 WR-1
+0 6 UK-1
+7 2 RD-2
+7 4 WR-2
+7 5 EX-2
+7 8 WR-2
+7 9 WR-2
+10 2 RD-3
+10 4 RD-3
+10 5 RD-3
+10 8 WR-3
+10 9 WR-3
+7 11 WR-2
+10 11 RD-3
+12 7 RF-2
+10 12 ST-3
+7 13 RD-2
+10 13 RD-3
+7 14 RD-2
+10 14 WR-3
+7 15 FR-2
+15 8 EX-4
+15 9 WR-4
+10 15 UK-3
+7 16 WR-2
+

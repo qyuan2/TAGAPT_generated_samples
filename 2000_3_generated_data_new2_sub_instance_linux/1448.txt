@@ -1,0 +1,93 @@
+28
+MP-pr
+MF-victim-shred.txt
+SF-echo-art-fish.sh
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP-cat
+MP*-bash
+MF-Discovery.sh
+TP*-teehee
+SO-192.168.10.128
+MF-passwd.zip
+MF-victim-shred.txt
+SF-test.txt
+TP-nl
+TP*-bash
+SF-ttpd.c
+MF-T1027-004-test.c
+MP-sed
+TP-grep
+SO-192.168.206.137
+SF-flag3.txt
+MF-at.a
+TP*-bash
+MF-0*.txt
+TP-chmod 
+MP-bash 
+TF-access.txt
+MF-flag4.txt
+MP-cat
+62
+0 1 WR-1
+0 2 WR-1
+3 0 RF-1
+0 4 UK-1
+5 1 WR-1
+5 2 RD-1
+3 5 RF-1
+5 6 WR-1
+7 1 WR-2
+7 2 WR-2
+3 7 RF-2
+5 7 IJ-1
+7 6 WR-2
+8 5 RF-1
+8 7 RF-2
+5 9 RD-1
+7 9 WR-2
+5 10 RD-1
+7 10 WR-2
+5 11 RD-1
+7 11 RD-2
+12 2 WR-2
+12 3 ST-3
+5 12 UK-1
+3 13 RF-3
+13 6 RD-3
+7 13 IJ-2
+8 13 RF-3
+13 9 EX-3
+13 10 EX-3
+13 11 WR-3
+7 14 RD-2
+13 14 RD-3
+7 15 RD-2
+13 15 UK-3
+16 6 WR-3
+7 16 UK-2
+8 17 RF-3
+17 9 RD-3
+17 10 WR-3
+17 11 WR-3
+17 14 WR-3
+18 17 RF-3
+17 19 WR-3
+17 20 UK-3
+21 11 EX-4
+21 14 WR-4
+21 18 ST-4
+21 19 WR-4
+21 22 RD-4
+23 14 UK-4
+18 24 RF-4
+24 19 WR-4
+21 24 IJ-4
+24 22 WR-4
+21 25 WR-4
+24 25 RD-4
+21 26 UK-4
+27 18 ST-4
+27 19 WR-4
+27 22 WR-4
+24 27 UK-4
+

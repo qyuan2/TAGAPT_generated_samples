@@ -1,0 +1,40 @@
+11
+MP*-AutoPico.exe
+TF-Activate.exe
+MF-.\ExternalPayloads\mimikatz\x64\mimikatz.exe
+MF-\Users\admin\AppData\Local\Temp\tmp8520.tmp
+MP-vbc.exe
+MF-\Windows\System32\vds.exe
+MP*-reviewref_protected.exe 
+MF-\Users\admin\AppData\Roaming\AppData\AppData.exe
+SO-80.0.0.0
+TP*-ServiceModelReg.exe
+TP*-Entry.exe 
+26
+0 1 EX-1
+0 2 WR-1
+0 3 RD-1
+0 4 FR-1
+4 1 RD-1
+4 2 EX-1
+4 3 UK-1
+0 5 RD-1
+0 6 FR-1
+6 1 RD-2
+6 2 WR-2
+6 5 CD-2
+0 7 WR-1
+6 7 WR-2
+8 0 RF-1
+6 8 ST-2
+0 9 IJ-1
+9 1 WR-3
+9 2 WR-3
+9 5 EX-3
+6 9 UK-2
+0 10 IJ-1
+10 1 CD-4
+10 2 CD-4
+10 5 RD-4
+10 7 UK-4
+

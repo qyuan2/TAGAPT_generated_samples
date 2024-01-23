@@ -1,0 +1,101 @@
+27
+MP*-SSLplus.exe
+MF-C:\Users\admin\AppData\Local\Temp\jww825a
+MP*-HxD.exe
+TP-Setup.exe
+TP-is-3DL5P.tmp
+MP-NOTEPAD.EXE 
+SO-http://199.247.25.79/get.php
+SF-C:\Users\admin\AppData\Roaming\file
+MF-C:\Program Files\Mozilla Firefox\default
+MF-github.c
+MF-C:\Program Files\OneDrive.exe
+MF-msftesql.exe
+SO-http://192.168.10.11/test.ps1
+MF-C:\Users\All Users\audiodg
+SF-C:\Windows\servicing\TrustedInstaller.exe
+SO-hxxp://fiordan.ru/FILM.html
+MP-Reg.exe
+TF-C:\Users\admin\Desktop\Paradox RAT\pr2.exe
+MP-certreq.exe 
+SF-C:\Users\admin\Desktop\script.js
+TF-C:\Users\admin\AppData\Local\Temp\Kulicib.exe
+TF-\Users\Public\audiodg.exe
+SO-http://email.getsailebot.net/c/eJxskL-umzAYR5_GjMh_AQ8MudV1LjRpRGghyWYbE1wZSGNIC09fIXVp1e18n85Zfk0aI9nIJjApijihSUw4DLpUtxAaEnEIMUSS60SzKFKYIk11Ekc8sCmGmMCEIEQgZzBMGq1Ya2JKcUJNiwGFdzN5aZ1R4xQOZgpc2k3TwwOyA1gALObBz8rrp1Um_McFWDTGWb9Buf09wEIOQ7hZgELXhXrsQzkDLDCjmMZJsiGiFDGAhVlyaC47e7L55woV9vAp79Reb3f2bc3QF5vz0Cz52Hycf-p1fB1w12lSLdeSPdTCfzSkeF3xr07WaM2-P-JsuE9yL9bmkneHWni15-RWF5Puub9djvbkvL3W7KUGNylSrZmD_u_m7G69QOrjT1NmUdaLWWHGVM2RXnLeFuFSVxfz9jy158q_Dbv-aK0pSCvcrpSa32_L-1d-r0vH38fgmf5vkN8BAAD__0tnlWU
+SO-8.100.0.203
+MF-\Users\admin\AppData\Local\Temp\IXP002.TMP\a6302410.exe
+TP*-aspnet_compiler.exe
+MP*-reg.exe
+71
+0 1 WR-1
+0 2 FR-1
+2 1 WR-2
+0 3 IJ-1
+3 1 WR-2
+2 3 IJ-2
+0 4 IJ-1
+4 1 WR-2
+2 4 UK-2
+0 5 FR-1
+5 1 WR-2
+3 5 IJ-2
+6 0 RF-1
+3 6 ST-2
+6 5 RF-2
+0 7 EX-1
+3 7 WR-2
+5 7 WR-2
+0 8 WR-1
+3 8 WR-2
+5 8 EX-2
+0 9 RD-1
+3 9 RD-2
+5 9 RD-2
+0 10 WR-1
+3 10 WR-2
+5 10 WR-2
+3 11 WR-2
+5 11 WR-2
+12 3 RF-2
+5 12 ST-2
+3 13 WR-2
+5 13 RD-2
+5 14 RD-2
+15 5 RF-2
+6 16 RF-2
+16 7 WR-2
+16 8 EX-2
+16 9 EX-2
+16 10 WR-2
+16 11 WR-2
+12 16 RF-2
+16 13 RD-2
+16 14 RD-2
+16 15 ST-3
+16 17 RD-2
+18 8 UK-2
+16 19 WR-2
+16 20 WR-2
+16 21 EX-2
+16 22 ST-2
+16 23 ST-3
+16 24 WR-2
+15 25 RF-3
+16 25 IJ-2
+25 17 WR-3
+25 19 WR-3
+25 20 WR-3
+25 21 WR-3
+25 22 ST-3
+23 25 RF-3
+25 24 CD-3
+16 26 FR-2
+26 17 WR-4
+26 19 WR-4
+26 20 WR-4
+26 21 WR-4
+26 22 ST-4
+26 23 ST-4
+26 24 WR-4
+25 26 UK-3
+

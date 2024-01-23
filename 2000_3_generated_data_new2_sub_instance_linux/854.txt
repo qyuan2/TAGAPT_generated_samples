@@ -1,0 +1,47 @@
+15
+MP*-cat
+MF-common.txt
+MF-journald.c
+TP-vi
+TP*-uname
+TF-1.zip
+MF-log.c
+TP*-awk
+MP*-grep
+TF-lv.c
+MP-uname
+MF-kl.ps1
+MF-on.a
+MF-0*.txt
+MP-dd
+29
+0 1 WR-1
+0 2 WR-1
+0 3 IJ-1
+3 1 UK-1
+0 4 IJ-1
+4 2 WR-2
+0 5 EX-1
+4 5 RD-2
+0 6 WR-1
+4 6 UK-2
+0 7 FR-1
+7 2 WR-3
+7 5 WR-3
+0 8 FR-1
+8 2 WR-4
+8 5 RD-4
+7 8 IJ-3
+0 9 RD-1
+7 9 EX-3
+8 9 EX-4
+0 10 UK-1
+7 11 WR-3
+8 11 RD-4
+7 12 WR-3
+8 12 RD-4
+7 13 RD-3
+8 13 UK-4
+14 5 WR-4
+7 14 UK-3
+

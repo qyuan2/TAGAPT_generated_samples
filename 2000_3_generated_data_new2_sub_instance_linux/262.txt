@@ -1,0 +1,43 @@
+13
+MP*-less
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP*-ls
+SF-T1070.006-modification.txt
+TF-T1574.006.c
+MF-syslog.c
+MF-atomic.sh
+SO-192.168.206.137:8080
+MF-1.zip
+MP*-ifconfig
+TF-d.c
+TP*-netstat
+TP-pr
+27
+0 1 ST-1
+0 2 FR-1
+1 2 RF-1
+0 3 RD-1
+2 3 WR-2
+0 4 UK-1
+2 5 WR-2
+2 6 WR-2
+2 7 ST-2
+2 8 WR-2
+9 1 ST-3
+9 3 CD-3
+9 5 WR-3
+9 6 CD-3
+9 7 ST-3
+9 8 EX-3
+2 10 RD-2
+9 10 WR-3
+1 11 RF-1
+2 11 IJ-2
+11 3 WR-4
+11 5 WR-4
+11 6 WR-4
+7 11 RF-3
+11 8 WR-4
+9 11 UK-3
+2 12 UK-2
+

@@ -1,0 +1,177 @@
+43
+MP-crypted.exe 
+MF-C:\Windows\system32\svchost
+MP-7za.exe
+SF-C:\Users\admin\Desktop\VN
+TP-system_file.exe 
+SF-C:\Windows\System32\WScript
+TF-C:\Users\admin\AppData\Local\Temp\SERVIPAGrecibo.zip
+TF-C:\Windows\System32\Curl
+MP*-@WanaDecryptor@.exe 
+SO-hxxp://fiordan.ru/FILM.html
+SO-https://clients2.google.com/cr/report
+MP-AcroRd32.exe
+MF-%temp%\art.bat
+MP-ns9E4A.tmp
+MF-arianat.r
+MF-C:\Program Files\Internet Explorer\iexplore.exe
+TP-6248.exe
+MP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+TP-vdsldr.exe
+MF-C:\Users\admin\AppData\Local\Temp\GfQBLiiemEPjpaWCZk\DnaohH
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+SO-80.0.0.0
+MP-RdrCEF.exe
+TF-Users\{90140000-00A1-0412-0000-0000000FF1CE}-C\services.exe
+TF-C:\Users\admin\AppData\Roaming\LZ4
+MP-setup_avrokeyboard_5.6.0.exe
+MP-nsD0E9.tmp
+TP*-Fastfoood.exe
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+TP*-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+TF-C:\Users\admin\AppData\Local\Temp\oldplayer.exe
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\regsvcs.exe
+MF-\Users\admin\AppData\Local\Temp\73bdfefd546d1a751a77b6de3a36460b6108a06940a1c9dc73c9dfdd78f8f649.zip
+MF--81231.pdf
+MP-School_Project.exe 
+MP-fodhelper.exe
+TP*-sdiagnhost.exe
+MP-EasyValorant.exe 
+SF-C:\Windows\system32\wbengine
+TP-nsD0E9.tmp
+TP-nltest.exe
+MP-ns9B66.tmp 
+TP-DllHost.exe
+131
+0 1 WR-1
+0 2 FR-1
+2 1 EX-1
+0 3 RD-1
+2 3 RD-1
+0 4 UK-1
+2 5 RD-1
+2 6 RD-1
+2 7 UK-1
+8 1 WR-1
+8 3 WR-1
+8 5 RD-1
+8 6 WR-1
+8 9 ST-1
+10 8 RF-1
+11 3 WR-1
+11 5 WR-1
+11 6 UK-1
+8 12 RD-1
+13 3 WR-1
+13 5 UK-1
+8 14 WR-1
+8 15 WR-1
+8 16 IJ-1
+16 9 ST-1
+10 16 RF-1
+16 12 RD-1
+16 14 WR-1
+16 15 EX-1
+8 17 UK-1
+18 9 ST-1
+10 18 RF-1
+18 12 WR-1
+18 14 WR-1
+18 15 WR-1
+16 18 IJ-1
+16 19 RD-1
+18 19 WR-1
+20 16 RF-1
+18 20 ST-1
+21 16 RF-1
+18 21 ST-1
+22 12 RD-1
+22 14 WR-1
+22 15 UK-1
+16 23 WR-1
+18 23 RD-1
+16 24 RD-1
+18 24 WR-1
+16 25 FR-1
+18 25 IJ-1
+25 19 WR-1
+25 20 ST-1
+25 21 ST-1
+25 23 RD-1
+25 24 WR-1
+16 26 IJ-1
+18 26 IJ-1
+26 19 WR-1
+26 20 ST-1
+26 21 ST-1
+26 23 RD-1
+26 24 WR-1
+25 26 UK-1
+18 27 FR-1
+27 19 WR-2
+27 20 ST-2
+27 21 ST-2
+27 23 WR-2
+27 24 WR-2
+28 18 RF-1
+28 27 RF-2
+29 19 RD-3
+29 20 ST-3
+21 29 RF-2
+29 23 RD-3
+29 24 WR-3
+27 29 IJ-2
+28 29 RF-3
+27 30 RD-2
+29 30 WR-3
+27 31 WR-2
+29 31 CD-3
+27 32 WR-2
+29 32 EX-3
+27 33 WR-2
+29 33 WR-3
+34 24 RD-3
+27 34 IJ-2
+28 34 RF-3
+29 34 IJ-3
+34 30 RD-3
+34 31 WR-3
+34 32 RD-3
+34 33 RD-3
+27 35 IJ-2
+28 35 RF-3
+29 35 IJ-3
+35 30 WR-3
+35 31 CD-3
+35 32 EX-3
+35 33 EX-3
+34 35 UK-3
+27 36 IJ-2
+28 36 RF-4
+29 36 IJ-3
+36 30 WR-4
+36 31 WR-4
+36 32 WR-4
+36 33 RD-4
+27 37 FR-2
+28 37 RF-4
+29 37 IJ-3
+37 30 WR-4
+37 31 WR-4
+37 32 EX-4
+37 33 EX-4
+36 37 IJ-4
+29 38 WR-3
+36 38 WR-4
+37 38 EX-4
+29 39 UK-3
+40 30 WR-4
+40 31 WR-4
+40 32 EX-4
+40 33 WR-4
+36 40 UK-4
+41 31 UK-4
+42 32 RD-4
+42 33 WR-4
+37 42 UK-4
+

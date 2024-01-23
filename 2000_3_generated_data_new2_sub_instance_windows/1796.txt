@@ -1,0 +1,62 @@
+21
+MP-dpinst.exe 
+MF-6.9.1.tmp
+SF-C:\Users\admin\AppData\Local\Temp\sample.doc
+MP-regsvcs.exe
+MP*-nsB9BB.tmp
+MF-C:\Program Files\Windows Photo Viewer\PhotoViewer
+TF-C:\Users\admin\AppData\Local\Temp\8
+MP-Outflank-Dumpert.exe
+TP-wevtutil.exe
+MP*-spyeye V1.0.exe 
+MF-pnputil.exe
+SF-C:\Windows\System32\WScript
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+MF-C:\Users\admin\AppData\Local\Temp\Player666.vb
+SF-C:\Users\admin\AppData\Local\Temp\r.rar
+MF-C:\Users\admin\AppData\Local\Temp\sample.doc
+MP*-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+MF-C:\Users\admin\AppData\Local\Temp\sentinelone
+TP-PsExec.exe
+TP-WsatConfig.exe
+MP*-cronos.exe
+38
+0 1 RD-1
+0 2 RD-1
+0 3 UK-1
+4 1 WR-1
+4 2 RD-1
+4 5 WR-1
+4 6 RD-1
+7 1 WR-1
+7 2 WR-1
+4 7 UK-1
+8 1 UK-1
+9 2 RD-2
+9 5 WR-2
+9 6 RD-2
+9 10 RD-2
+9 11 RD-2
+12 9 RF-2
+9 13 WR-2
+9 14 WR-2
+9 15 EX-2
+16 6 RD-3
+16 10 WR-3
+16 11 RD-3
+16 12 ST-3
+16 13 WR-3
+16 14 RD-3
+16 15 WR-3
+9 17 WR-2
+16 17 WR-3
+9 18 IJ-2
+18 10 UK-3
+19 11 WR-3
+12 19 RF-3
+19 13 UK-3
+20 12 ST-4
+20 14 WR-4
+20 15 EX-4
+16 20 UK-3
+

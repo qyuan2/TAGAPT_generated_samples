@@ -1,0 +1,45 @@
+16
+MP*-whois
+TP*-less
+MF-Users.tar.gz
+TP-cat
+TF-journald.c
+MF-raj.txt
+SF-chttp.c
+TF-flag4.txt
+MF-victim-shred.txt
+MP*-cat
+SO-http://192.168.10.128/shell.cgi
+SF-te.c
+MP*-echo
+MF-rockyou.txt
+MF-raj.txt
+MP-cat
+26
+0 1 FR-1
+0 2 WR-1
+1 2 EX-2
+0 3 FR-1
+1 3 UK-2
+0 4 EX-1
+0 5 WR-1
+0 6 RD-1
+0 7 WR-1
+0 8 WR-1
+0 9 FR-1
+9 2 WR-3
+9 4 RD-3
+9 5 EX-3
+9 6 RD-3
+9 7 EX-3
+9 8 RD-3
+9 10 ST-3
+9 11 WR-3
+12 5 RD-4
+12 6 EX-4
+12 7 RD-4
+12 8 UK-4
+9 13 WR-3
+9 14 WR-3
+9 15 UK-3
+

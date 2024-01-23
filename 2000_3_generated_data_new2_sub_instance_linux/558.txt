@@ -1,0 +1,56 @@
+17
+MP*-ls
+MF-log.c
+MP-cat
+MF-2017.pl
+MP-less
+MF-subprocess.c
+MP*-less
+MF-user.r
+MP*-less
+MF-ret.c
+TF-passwd.zip
+MF-os.sys
+MP*-cat
+TP-awk
+SF-image.php
+MP-ifconfig
+TP-grep
+36
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 RD-1
+2 3 RD-1
+0 4 FR-1
+4 1 RD-1
+2 4 UK-1
+0 5 RD-1
+0 6 FR-1
+6 1 RD-2
+6 3 WR-2
+6 5 WR-2
+0 7 WR-1
+6 7 WR-2
+8 1 EX-3
+8 3 WR-3
+8 5 WR-3
+8 7 UK-3
+6 9 WR-2
+6 10 WR-2
+6 11 WR-2
+12 3 WR-4
+12 5 WR-4
+12 9 RD-4
+12 10 CD-4
+12 11 WR-4
+13 5 WR-4
+6 13 UK-2
+12 14 CD-4
+15 9 RD-4
+15 10 EX-4
+15 11 UK-4
+16 9 RD-4
+16 10 RD-4
+12 16 UK-4
+

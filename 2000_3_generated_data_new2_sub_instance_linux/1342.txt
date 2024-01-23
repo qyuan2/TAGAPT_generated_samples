@@ -1,0 +1,240 @@
+65
+MP-ls
+SF-lighttp.c
+TF-http.c
+MP-rev
+MF-test.txt
+MF-os.exe
+MF-www.google.c
+SO-192.168.10.130
+MF-cron.a
+TF-at.a
+SO-192.168.0.134
+MP-echo
+MP-vim
+MP*-echo
+MP-cp
+MP-vim
+TP-mv
+MP-sudo
+MP*-rev
+MF-e2.c
+MP-cat
+MP-sed
+MP-bash
+SO-192.168.37.130
+SO-192.168.206.0
+MF-anaconda-ks.cfg
+MF-LinEnum.sh
+TP-cat
+MP-netstat
+MF-alertConfigField.php
+SF-http.c
+MF-cron.a
+TP-touch
+TP-head
+TP-find
+MP-sudo
+MF-cron.m
+TP-uname
+MP-less
+MP-bash 
+MP-echo
+MP-rm
+MP-pr
+MF-cron.h
+SO-192.168.10.129
+TF-secret.c
+MF-target.example.c
+MF-user.r
+MP-uname
+MF-atomic.sh
+MP*-head
+MF-Users.tar.gz
+TP*-sudo
+MF-pwquality.c
+MF-password-hash.sh
+MF-common.txt
+MP-lsof
+SF-ufw.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+SF-cron.m
+MF-anaconda-ks.cfg
+TP-hostname
+MF-atomic.sh
+TF-CleaingScript.sh
+TP-awk
+172
+0 1 RD-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-1
+3 2 RD-1
+0 4 WR-1
+3 4 WR-1
+3 5 WR-1
+3 6 EX-1
+3 7 ST-1
+3 8 WR-1
+3 9 CD-1
+10 3 RF-1
+11 2 WR-1
+11 4 CD-1
+11 5 WR-1
+11 6 RD-1
+7 11 RF-1
+11 8 RD-1
+11 9 WR-1
+11 10 ST-1
+3 12 UK-1
+13 4 WR-1
+13 5 WR-1
+13 6 RD-1
+13 7 ST-1
+13 8 WR-1
+13 9 RD-1
+10 13 RF-1
+14 5 WR-1
+14 6 WR-1
+14 7 ST-1
+14 8 WR-1
+14 9 UK-1
+15 5 WR-1
+15 6 WR-1
+15 7 ST-1
+15 8 EX-1
+10 15 RF-1
+11 15 UK-1
+16 6 CD-1
+7 16 RF-1
+16 8 WR-1
+16 10 ST-1
+13 16 IJ-1
+17 7 ST-1
+17 8 EX-1
+17 10 ST-1
+13 17 UK-1
+18 8 WR-2
+10 18 RF-1
+16 18 IJ-1
+16 19 RD-1
+18 19 RD-2
+10 20 RF-1
+16 20 UK-1
+18 21 FR-2
+21 19 WR-2
+18 22 UK-2
+21 23 ST-2
+21 24 ST-2
+21 25 RD-2
+21 26 CD-2
+27 19 WR-2
+21 27 IJ-2
+23 27 RF-2
+27 24 ST-2
+27 25 WR-2
+27 26 UK-2
+28 19 RD-2
+23 28 RF-2
+24 28 RF-2
+28 25 RD-2
+21 29 RD-2
+28 29 WR-2
+21 30 EX-2
+28 30 EX-2
+21 31 CD-2
+28 31 EX-2
+23 32 RF-2
+32 24 ST-2
+32 25 RD-2
+28 32 UK-2
+33 23 ST-2
+24 33 RF-2
+33 25 EX-2
+33 29 EX-2
+33 30 WR-2
+33 31 RD-2
+34 24 ST-2
+34 25 WR-2
+34 29 RD-2
+34 30 WR-2
+34 31 RD-2
+33 34 IJ-2
+35 25 WR-2
+35 29 WR-2
+35 30 RD-2
+35 31 UK-2
+33 36 WR-2
+34 36 WR-2
+37 29 UK-2
+38 30 WR-2
+33 38 IJ-2
+34 38 IJ-2
+38 36 RD-2
+39 30 WR-2
+33 39 IJ-2
+34 39 UK-2
+40 30 UK-2
+33 41 FR-2
+41 36 RD-2
+38 41 UK-2
+33 42 IJ-2
+42 36 EX-2
+33 43 WR-2
+42 43 RD-2
+42 44 ST-2
+42 45 WR-2
+42 46 RD-2
+42 47 RD-2
+42 48 FR-2
+48 43 UK-2
+42 49 EX-2
+42 50 FR-2
+50 44 ST-3
+50 45 WR-3
+50 46 WR-3
+50 47 WR-3
+50 49 RD-3
+42 51 WR-2
+50 51 RD-3
+42 52 IJ-2
+52 44 ST-4
+52 45 WR-4
+52 46 WR-4
+52 47 WR-4
+52 49 WR-4
+50 52 IJ-3
+52 51 WR-4
+50 53 WR-3
+52 53 EX-4
+50 54 RD-3
+52 54 RD-4
+50 55 RD-3
+52 55 WR-4
+56 46 WR-4
+56 47 WR-4
+56 49 WR-4
+56 51 EX-4
+52 56 UK-4
+50 57 WR-3
+58 50 RF-3
+50 59 EX-3
+50 60 WR-3
+61 51 EX-4
+61 53 EX-4
+61 54 WR-4
+61 55 WR-4
+61 57 WR-4
+58 61 RF-4
+61 59 RD-4
+61 60 WR-4
+61 62 WR-4
+61 63 WR-4
+64 54 WR-4
+64 55 WR-4
+64 57 WR-4
+64 58 ST-4
+64 59 RD-4
+64 60 CD-4
+61 64 UK-4
+

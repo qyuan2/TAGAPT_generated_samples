@@ -1,0 +1,45 @@
+12
+MP*-nmap.exe
+SF-C:\Users\admin\AppData\Local\Temp\1.bat
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+TF-File.htm.htm
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+MF-\Users\admin\AppData\Local\Temp\tmpF47F.tmp
+SF-%TEMP%\T1010.exe .\T1010\src\T1010.cs
+MF-\Users\admin\AppData\Local\Temp\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7.zip
+MP*-chrome.exe
+SF-%temp%\Windows_Defender_Cleanup.xml
+MP*-nsD62C.tmp
+MP*-rundll32.exe
+30
+0 1 WR-1
+0 2 ST-1
+0 3 RD-1
+4 0 RF-1
+0 5 WR-1
+0 6 EX-1
+0 7 WR-1
+0 8 FR-1
+8 1 WR-2
+2 8 RF-1
+8 3 WR-2
+8 4 ST-2
+8 5 UK-2
+0 9 RD-1
+0 10 FR-1
+10 1 WR-3
+10 2 ST-3
+10 3 EX-3
+10 4 ST-3
+10 6 RD-3
+10 7 WR-3
+10 9 WR-3
+11 1 RD-4
+11 2 ST-4
+11 3 RD-4
+11 4 ST-4
+11 6 WR-4
+11 7 WR-4
+11 9 RD-4
+10 11 UK-3
+

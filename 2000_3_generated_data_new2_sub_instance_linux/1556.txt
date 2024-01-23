@@ -1,0 +1,58 @@
+16
+MP*-cat
+TP-vim
+MF-echo-art-fish.sh
+MP-sed
+TP-awk
+TP*-sed
+MP-chmod 
+MP*-more
+MF-pwquality.c
+TP*-ls
+MP-curl
+MF-access.htm
+SO-192.168.10.130
+TP-cat
+MP-ls
+SF-Discovery.sh
+39
+0 1 IJ-1
+0 2 WR-1
+1 2 RD-1
+0 3 FR-1
+1 3 IJ-1
+3 2 WR-1
+0 4 FR-1
+1 4 UK-1
+0 5 IJ-1
+5 2 WR-2
+3 5 IJ-1
+0 6 FR-1
+6 2 EX-2
+3 6 UK-1
+0 7 FR-1
+7 2 CD-3
+5 7 IJ-2
+0 8 WR-1
+5 8 RD-2
+7 8 RD-3
+0 9 FR-1
+9 2 RD-4
+5 9 IJ-2
+7 9 IJ-3
+9 8 RD-4
+0 10 UK-1
+5 11 WR-2
+7 11 WR-3
+9 11 WR-4
+12 5 RF-2
+12 7 RF-3
+12 9 RF-4
+5 13 IJ-2
+7 13 IJ-3
+13 8 WR-4
+9 13 UK-4
+5 14 IJ-2
+7 14 UK-3
+5 15 WR-2
+

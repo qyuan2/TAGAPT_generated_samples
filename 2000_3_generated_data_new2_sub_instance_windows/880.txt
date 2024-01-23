@@ -1,0 +1,157 @@
+43
+MP*-pdates.exe 
+SF-C:\Windows\SysWOW64\help.exe
+MP-jww825a.tmp 
+MP-obiokmgf6.exe
+MP-ChainRefBroker.exe  
+MF-C:\Users\admin\AppData\Local\Temp\iphoneanalyzer
+MP-CareUEyes_setup.tmp
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MP-MicrosoftUpdate.exe 
+MP-ns9AE8.tmp
+MP-n4054738.exe
+SF-C:\Users\admin\AppData\Local\Temp\sandbox-installer-windows10-home.bat
+TF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta.rar
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Wmic_calc.xsl
+MP-Navicat_Keygen_Patch_v3.7.exe 
+MP-makecab.exe
+MP*-expo.exe
+MP*-ping.exe
+MF-C:\Windows\System32\runas.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+TP*-CareUEyes.exe
+SF-C:\Users\admin\Desktop\WinAPIOverride
+TF-C:\Program files\appdata\local\temp\26012.bmp
+MF-\Users\admin\MicrosoftUpdate.exe
+MP-winhost.exe
+MP-jww825a.exe 
+SO-hxxp://fiordan.ru/FILM.html
+TF-\\live.sysinternals.com\tools\adrestore.exe
+MP-where.exe
+MP-rundll32.exe 
+MF-\Users\admin\Desktop\jerkoff.exe
+SF-C:\Users\admin\AppData\Local\Temp\Kulicib
+MF-\Windows\system32\certreq.exe
+MP-wscript.exe
+MP-timeout.exe
+SF-C:\Windows\SysWOW64\tolkqfys\qgcrmeck.exe
+SF-C:\Users\admin\AppData\Local\Temp\c2dbd1f560dba5050031499cc921b3b7.zip
+TP-regsvcs.exe
+MF-username\Downloads\calc.png
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+MP-nsCFA0.tmp
+TP-PowerShell.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmp52BE.tmp
+111
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 FR-1
+3 1 UK-1
+0 4 FR-1
+0 5 WR-1
+2 5 WR-1
+4 5 WR-1
+0 6 FR-1
+2 6 UK-1
+7 0 RF-1
+7 4 RF-1
+0 8 FR-1
+4 8 UK-1
+0 9 FR-1
+9 5 RD-1
+9 7 ST-2
+0 10 FR-1
+10 5 RD-1
+7 10 RF-1
+9 11 WR-1
+10 11 WR-1
+9 12 WR-1
+10 12 WR-1
+9 13 ST-2
+10 13 ST-2
+14 5 RD-1
+14 7 ST-2
+9 14 UK-1
+15 5 WR-1
+15 7 ST-2
+10 15 UK-1
+7 16 RF-2
+16 11 WR-2
+16 12 CD-2
+13 16 RF-2
+17 7 ST-3
+17 11 RD-3
+17 12 RD-3
+17 13 ST-3
+16 18 WR-2
+17 18 WR-3
+19 16 RF-2
+17 19 ST-3
+20 11 WR-4
+20 12 WR-4
+20 13 ST-4
+16 20 IJ-2
+17 20 IJ-3
+20 18 CD-4
+19 20 RF-3
+16 21 WR-2
+17 21 WR-3
+20 21 WR-4
+16 22 EX-2
+17 22 RD-3
+20 22 EX-4
+16 23 WR-2
+17 23 WR-3
+20 23 RD-4
+16 24 UK-2
+17 25 FR-3
+25 18 RD-4
+25 19 ST-4
+20 25 IJ-4
+25 21 WR-4
+25 22 RD-4
+25 23 RD-4
+17 26 ST-3
+26 20 RF-3
+25 26 ST-4
+17 27 RD-3
+20 27 RD-4
+25 27 RD-4
+28 18 WR-4
+28 19 ST-4
+20 28 IJ-4
+28 21 CD-4
+28 22 EX-4
+28 23 EX-4
+26 28 RF-4
+28 27 WR-4
+19 29 RF-4
+20 29 UK-4
+25 30 UK-4
+28 31 RD-4
+28 32 WR-4
+33 23 WR-4
+26 33 RF-4
+33 27 RD-4
+28 33 UK-4
+26 34 RF-4
+34 27 WR-4
+34 31 WR-4
+34 32 RD-4
+34 35 WR-4
+34 36 WR-4
+37 27 UK-4
+34 38 RD-4
+39 34 RF-4
+40 31 WR-4
+40 32 WR-4
+34 40 UK-4
+41 31 WR-4
+41 32 RD-4
+41 35 EX-4
+41 36 RD-4
+41 38 CD-4
+39 41 RF-4
+41 42 UK-4
+

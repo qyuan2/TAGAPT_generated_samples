@@ -1,0 +1,155 @@
+35
+MP*-tac
+MP-bash
+SO-192.168.37.130
+MF-passwd.zip
+MF-common.txt
+MF-sysctl.c
+SF-syslog.c
+MP-uname
+MF-resolv.c
+SF-chttp.c
+TP-uname
+TP-strings
+MP-chmod
+MP*-ls
+MP-cat
+MF-T1574.006.c
+SF-apache2.c
+TP-uname
+MP-uname
+TP*-paste
+MF-raft-large-directories.txt
+MF-Discovery.sh
+SO-http://192.168.10.128/shell.cgi
+TP-head
+SF-td.c
+SO-192.168.206.0
+SF-2017.pl
+SF-bash_completion.sh
+TP*-pr
+TP-tac
+MF-T1027-004-test.c
+MF-shell.cgi
+TF-password-hash.sh
+MP-more
+MP-awk
+117
+0 1 FR-1
+0 2 ST-1
+2 1 RF-1
+0 3 RD-1
+1 3 WR-1
+0 4 RD-1
+1 4 WR-1
+0 5 WR-1
+1 5 WR-1
+0 6 WR-1
+1 6 RD-1
+0 7 FR-1
+1 7 UK-1
+0 8 WR-1
+0 9 RD-1
+0 10 FR-1
+10 2 ST-1
+10 3 WR-1
+10 4 WR-1
+10 5 RD-1
+10 6 WR-1
+10 8 RD-1
+10 9 WR-1
+11 2 ST-1
+11 3 WR-1
+11 4 RD-1
+11 5 WR-1
+11 6 EX-1
+11 8 WR-1
+11 9 WR-1
+10 11 IJ-1
+2 12 RF-1
+12 3 RD-1
+12 4 WR-1
+12 5 RD-1
+12 6 WR-1
+12 8 RD-1
+12 9 RD-1
+10 12 UK-1
+13 3 RD-2
+13 4 WR-2
+13 5 WR-2
+13 6 CD-2
+13 8 WR-2
+13 9 WR-2
+11 13 IJ-1
+14 4 WR-2
+14 5 RD-2
+14 6 WR-2
+14 8 RD-2
+14 9 WR-2
+11 14 IJ-1
+11 15 EX-1
+13 15 CD-2
+14 15 RD-2
+11 16 WR-1
+13 16 RD-2
+14 16 RD-2
+17 8 EX-2
+17 9 WR-2
+11 17 UK-1
+18 8 WR-2
+18 9 WR-2
+14 18 UK-2
+19 9 EX-3
+13 19 IJ-2
+19 15 WR-3
+19 16 EX-3
+13 20 WR-2
+19 20 WR-3
+13 21 WR-2
+19 21 RD-3
+22 13 RF-2
+22 19 RF-3
+13 23 IJ-2
+23 15 WR-3
+23 16 EX-3
+19 23 IJ-3
+23 20 CD-3
+23 21 WR-3
+23 22 ST-3
+19 24 RD-3
+23 24 WR-3
+19 25 ST-3
+23 25 ST-3
+19 26 WR-3
+23 26 WR-3
+19 27 WR-3
+23 27 RD-3
+19 28 IJ-3
+28 20 RD-4
+28 21 WR-4
+28 22 ST-4
+23 28 IJ-3
+28 24 CD-4
+28 25 ST-4
+28 26 WR-4
+28 27 RD-4
+19 29 IJ-3
+29 20 RD-4
+29 21 RD-4
+29 22 ST-4
+23 29 IJ-3
+29 24 WR-4
+25 29 RF-4
+29 26 UK-4
+23 30 CD-3
+28 30 WR-4
+23 31 EX-3
+28 31 WR-4
+23 32 WR-3
+28 32 WR-4
+23 33 UK-3
+34 24 WR-4
+25 34 RF-4
+34 27 WR-4
+28 34 UK-4
+

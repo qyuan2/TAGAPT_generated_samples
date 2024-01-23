@@ -1,0 +1,41 @@
+14
+MP*-WinRAR.exe 
+MP-EdmGen.exe
+MP-olsptrs.exe 
+TP*-Ayuaey.exe 
+MF-\Users\admin\AppData\Local\Temp\bltf.exe.INFECTED.dll
+MP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+TF-C:\Users\admin\AppData\Local\Temp\Pièce
+MF-C:\Users\admin\AppData\Local\Temp\r.rar
+MF-.\T1218.009\src\T1218.009.cs
+TP*-сsrss.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Платiжна
+SF-C:\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9
+MF-C:\Users\admin\AppData\Local\Temp\CCZZ.bat
+MF-C:\Users\admin\AppData\Local\Temp\444444.png
+24
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+0 4 WR-1
+3 4 WR-2
+0 5 FR-1
+3 5 IJ-2
+5 4 UK-3
+0 6 EX-1
+3 6 RD-2
+0 7 WR-1
+3 7 WR-2
+0 8 WR-1
+3 8 WR-2
+0 9 FR-1
+3 9 IJ-2
+9 6 RD-4
+9 7 UK-4
+0 10 WR-1
+3 10 WR-2
+3 11 RD-2
+3 12 WR-2
+3 13 RD-2
+

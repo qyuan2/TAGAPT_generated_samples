@@ -1,0 +1,65 @@
+14
+MP*-WMIC.exe 
+TP-AIGeneratedRansomware.exe 
+MF-C:\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+MP*-Psiphon.exe
+SO-127.0.0.1
+SF-C:\CrackMapExecWin\crackmapexec
+SF-C:\Users\admin\AppData\Local\Temp\FabFilter_KeyGen
+MF-C:\Program files\appdata\local\temp\19084
+MP*-GLJBD24.tmp
+MF-\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe
+MF-\Users\admin\AppData\Roaming\SysInfoTool\data.xml
+MP-Bill Of Lading.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns929A.tmp
+MP*-Entry.exe 
+48
+0 1 FR-1
+0 2 RD-1
+1 2 WR-1
+0 3 FR-1
+1 3 IJ-1
+3 2 WR-2
+4 0 RF-1
+1 4 ST-1
+3 4 ST-2
+0 5 WR-1
+1 5 EX-1
+3 5 WR-2
+0 6 EX-1
+1 6 RD-1
+3 6 WR-2
+0 7 CD-1
+1 7 EX-1
+3 7 CD-2
+0 8 FR-1
+1 8 IJ-1
+8 2 WR-3
+8 4 ST-3
+8 5 WR-3
+8 6 WR-3
+8 7 WR-3
+0 9 WR-1
+1 9 CD-1
+3 9 WR-2
+8 9 EX-3
+0 10 RD-1
+1 10 WR-1
+3 10 WR-2
+8 10 RD-3
+1 11 IJ-1
+11 2 RD-3
+11 4 ST-3
+11 5 WR-3
+11 6 EX-3
+11 7 EX-3
+11 9 UK-3
+3 12 WR-2
+8 12 RD-3
+3 13 FR-2
+4 13 RF-2
+13 5 WR-4
+13 6 WR-4
+13 7 WR-4
+8 13 UK-3
+

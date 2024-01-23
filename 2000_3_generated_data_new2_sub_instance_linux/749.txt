@@ -1,0 +1,151 @@
+38
+MP-netstat
+SF-journald.c
+SF-subprocess.c
+MF-0*.txt
+MF-td.c
+MP-less
+SF-ufw.log
+MF-raj.txt
+MP-uname
+MF-cron.h
+TP-ps
+TP*-find
+MP*-g++
+MF-http.c
+SF-victim-gzip.txt
+MF-victim-shred.txt
+MP-cat
+MP-cat
+MP-cat
+MF-e.c
+TP-python
+MP-awk
+MF-art.sh
+MF-raft-large-directories.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+SF-f.r
+TP*-rev
+MF-p.c
+TF-raj.txt
+MF-cron.a
+MP-rev
+MP-sed
+SO-192.168.206.137:8080
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-flag3.txt
+MF-AutoSUID.sh
+MP*-grep
+MP-bash
+110
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 UK-1
+5 1 RD-1
+5 2 WR-1
+5 3 WR-1
+5 6 WR-1
+5 7 WR-1
+8 1 WR-1
+8 2 WR-1
+8 3 RD-1
+8 6 RD-1
+8 7 UK-1
+5 9 EX-1
+10 1 WR-1
+10 2 RD-1
+10 3 WR-1
+5 10 UK-1
+11 1 WR-1
+11 2 WR-1
+11 3 WR-1
+11 6 WR-1
+11 9 RD-1
+12 2 EX-2
+12 3 WR-2
+12 6 WR-2
+12 9 WR-2
+11 12 IJ-1
+11 13 WR-1
+12 13 CD-2
+11 14 RD-1
+12 14 RD-2
+11 15 EX-1
+12 15 WR-2
+16 6 WR-2
+16 9 RD-2
+11 16 IJ-1
+12 16 UK-2
+17 9 WR-2
+11 17 IJ-1
+17 13 WR-2
+17 14 EX-2
+17 15 WR-2
+18 9 RD-2
+11 18 IJ-1
+18 13 RD-2
+18 14 WR-2
+18 15 RD-2
+17 18 UK-2
+11 19 RD-1
+11 20 FR-1
+20 13 WR-2
+20 14 WR-2
+20 15 WR-2
+20 19 WR-2
+11 21 IJ-1
+21 13 EX-2
+21 14 RD-2
+21 15 WR-2
+21 19 EX-2
+20 21 IJ-2
+20 22 RD-2
+21 22 WR-2
+20 23 WR-2
+21 23 EX-2
+20 24 ST-3
+21 24 ST-3
+20 25 RD-2
+21 25 EX-2
+26 19 WR-3
+20 26 IJ-2
+21 26 IJ-2
+26 22 EX-3
+26 23 RD-3
+26 24 ST-3
+26 25 RD-3
+20 27 WR-2
+21 27 WR-2
+26 27 EX-3
+20 28 WR-2
+21 28 UK-2
+20 29 WR-2
+26 29 WR-3
+20 30 UK-2
+31 22 WR-3
+31 23 RD-3
+24 31 RF-3
+31 25 EX-3
+26 31 IJ-3
+31 27 RD-3
+31 29 WR-3
+26 32 ST-3
+32 31 RF-3
+26 33 ST-3
+31 33 ST-3
+26 34 WR-3
+31 34 CD-3
+26 35 RD-3
+31 35 WR-3
+26 36 FR-3
+36 27 WR-4
+36 29 RD-4
+36 32 ST-4
+33 36 RF-3
+36 34 EX-4
+36 35 UK-4
+37 27 RD-4
+37 29 EX-4
+31 37 UK-3
+

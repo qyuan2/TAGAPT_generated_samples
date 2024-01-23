@@ -1,0 +1,36 @@
+11
+MP*-ns97F4.tmp
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MF-C:\Browserweb\MDCD8H1
+MF-C:\ProgramData\anydesk.exe
+MF-\Windows\explorer.exe
+TP*-KMSpico_setup.exe
+TP-s4669139.exe
+MF-C:\Program Files\FDRLab\Avi Previewer DEMO\avi_previewer_demo
+MP*-taskhsvc.exe
+TF-\Users\admin\AppData\Local\Temp\IXP002.TMP\o0575127.exe
+MP*-v6621467.exe
+22
+0 1 ST-1
+0 2 WR-1
+0 3 WR-1
+0 4 WR-1
+0 5 IJ-1
+5 1 ST-2
+5 2 WR-2
+5 3 UK-2
+0 6 IJ-1
+1 6 RF-1
+6 2 UK-2
+0 7 RD-1
+0 8 FR-1
+8 1 ST-3
+8 4 WR-3
+8 7 EX-3
+0 9 WR-1
+8 9 WR-3
+10 1 ST-4
+10 4 WR-4
+10 7 RD-4
+8 10 UK-3
+

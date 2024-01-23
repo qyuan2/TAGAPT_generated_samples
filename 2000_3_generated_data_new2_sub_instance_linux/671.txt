@@ -1,0 +1,50 @@
+15
+MP*-rev
+MF-inetd.c
+MP-bash
+MF-echo-art-fish.sh
+MF-LinEnum.sh
+TP-ssh
+SF-f.r
+MF-e.c
+TP*-netstat
+MF-httpd.c
+TF-da-ks.cfg
+MP*-more
+MF-syslog.c
+MF-T1003.008.txt
+TP*-uname
+32
+0 1 EX-1
+0 2 FR-1
+2 1 RD-1
+0 3 WR-1
+2 3 EX-1
+0 4 WR-1
+2 4 WR-1
+0 5 IJ-1
+5 1 RD-1
+2 5 UK-1
+0 6 WR-1
+0 7 WR-1
+8 1 WR-2
+8 3 EX-2
+8 4 WR-2
+8 6 WR-2
+8 7 WR-2
+8 9 WR-2
+8 10 WR-2
+11 3 WR-3
+11 4 WR-3
+11 6 WR-3
+11 7 WR-3
+11 9 RD-3
+11 10 WR-3
+11 12 WR-3
+11 13 EX-3
+14 6 RD-4
+14 7 RD-4
+14 9 RD-4
+14 10 WR-4
+11 14 UK-3
+

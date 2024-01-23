@@ -1,0 +1,57 @@
+18
+MP*-rm
+SO-192.168.206.137
+MP-cat
+TP*-cat
+SF-raft-medium-directories.txt
+MP-cat
+MP-tail
+MP-dirb
+TP*-cat
+MP-chmod
+TF-apache2.c
+TP-echo
+TP-python3
+MP*-cd
+MF-raft-large-directories.txt
+MF-shell.cgi
+MP-dd
+MF-journald.c
+36
+0 1 ST-1
+0 2 UK-1
+3 1 ST-2
+3 4 EX-2
+1 5 RF-1
+3 5 IJ-2
+5 4 WR-2
+1 6 RF-1
+3 6 IJ-2
+6 4 RD-2
+5 6 UK-2
+1 7 RF-1
+3 7 IJ-2
+7 4 WR-2
+1 8 RF-1
+3 8 IJ-2
+8 4 WR-3
+7 8 IJ-2
+1 9 RF-1
+3 9 UK-2
+7 10 EX-2
+8 10 EX-3
+11 1 ST-3
+11 4 UK-3
+7 12 FR-2
+8 12 UK-3
+7 13 FR-2
+13 10 EX-4
+7 14 WR-2
+13 14 EX-4
+7 15 WR-2
+13 15 RD-4
+7 16 FR-2
+16 10 WR-4
+13 16 UK-4
+7 17 WR-2
+

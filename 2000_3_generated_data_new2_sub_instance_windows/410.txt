@@ -1,0 +1,39 @@
+12
+MP*-02867fa8b443043ec0fe6af211c852aa.exe 
+MF-test.xml
+MP*-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+SF-C:\Users\admin\Desktop\MS
+MP-Dkeyauth.tmp
+MF-\Windows\System32\notepad.exe
+MP-Xd.exe
+MF-C:\Users\admin\AppData\Local\Temp\WinRAR.exe
+MF-C:\Users\All Users\smss
+MP*-wuauclt.exe
+MF-C:\Program Files\PC Cleaner\PCCNotifications
+MP*-ns967A.tmp 
+24
+0 1 EX-1
+0 2 FR-1
+2 1 RD-2
+0 3 WR-1
+2 3 CD-2
+0 4 FR-1
+4 1 UK-2
+0 5 WR-1
+2 5 RD-2
+0 6 FR-1
+2 6 UK-2
+0 7 RD-1
+0 8 EX-1
+0 9 FR-1
+9 3 EX-3
+9 5 RD-3
+9 7 WR-3
+9 8 EX-3
+9 10 EX-3
+11 3 WR-4
+11 5 WR-4
+11 7 RD-4
+11 8 WR-4
+9 11 UK-3
+

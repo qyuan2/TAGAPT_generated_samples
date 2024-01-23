@@ -1,0 +1,73 @@
+20
+MP*-pr2.exe 
+MP-jerkoff.exe 
+TP-vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+MF-C:\Windows\INF\usbstor
+TF-C:\inetpub\wwwroot
+MP*-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MP*-qgcrmeck.exe
+SF-C:\Users\admin\AppData\Local\Temp\msetup\360TS_Setup.exe
+MF-data_decoder.m
+SO-test@corp.com
+SO-8.100.0.203
+MF-\Windows\Microsoft.Net\Framework\v4.0.30319\MSBuild.exe
+MF-FILM.htm
+MF-Confirmation.exe
+MP-ns9510.tmp
+MP-OlympicDestroyer.exe 
+SO-https://crashstats-collector.opera.com/collector/submit
+SF-C:\Users\admin\AppData\Local\Temp\tmp6B8
+MP*-PO 345678.exe 
+MF-C:\Users\admin\AppData\Local\Temp\file.exe
+50
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 RD-1
+0 5 FR-1
+5 3 RD-2
+5 4 RD-2
+0 6 FR-1
+6 3 RD-3
+6 4 RD-3
+0 7 RD-1
+5 7 RD-2
+6 7 RD-3
+0 8 WR-1
+5 8 WR-2
+6 8 RD-3
+9 0 RF-1
+9 5 RF-2
+9 6 RF-3
+0 10 ST-1
+5 10 ST-2
+10 6 RF-2
+5 11 EX-2
+6 11 WR-3
+5 12 WR-2
+6 12 RD-3
+5 13 RD-2
+6 13 EX-3
+14 4 CD-3
+5 14 UK-2
+6 15 FR-3
+15 7 WR-3
+15 8 WR-3
+15 9 ST-3
+10 15 RF-2
+15 11 RD-3
+15 12 RD-3
+15 13 WR-3
+6 16 ST-3
+15 16 ST-3
+15 17 RD-3
+18 9 ST-4
+10 18 RF-2
+18 11 WR-4
+18 12 WR-4
+18 13 WR-4
+18 16 ST-4
+18 17 EX-4
+18 19 UK-4
+

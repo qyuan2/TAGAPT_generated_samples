@@ -1,0 +1,47 @@
+12
+MP*-PO 345678.exe 
+MP-df1f94243f99b25fea44d17750d24d04.exe 
+MF-\Users\admin\AppData\Local\Temp\getadmin.vb
+SF-C:\CrackMapExecWin\crackmapexec
+SO-192.168.1.1
+TP*-powershell.exe 
+MF-C:\Program Files\Hantek2xx2\Driver\Others\Hantek2D42X86
+TP*-444444.png.png.exe 
+SF-C:\Users\admin\AppData\Local\Temp\MDE_File_Sample_88a7f68e7ffeccdba9450ae5dc5ebed3255357385e013c8383105831ad72c9e8.zip
+SF-C:\Windows\system32\reg
+TF-C:\Windows\SysWOW64\ytqpvkdx
+MP*-ipconfig.exe
+32
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+0 3 EX-1
+1 3 WR-1
+0 4 ST-1
+4 1 RF-1
+0 5 FR-1
+1 5 IJ-1
+5 2 RD-2
+5 3 EX-2
+4 5 RF-1
+0 6 RD-1
+1 6 EX-1
+5 6 WR-2
+0 7 IJ-1
+1 7 IJ-1
+7 2 RD-3
+7 3 RD-3
+7 4 ST-3
+5 7 UK-2
+0 8 WR-1
+1 8 RD-1
+0 9 WR-1
+1 9 WR-1
+0 10 WR-1
+1 10 WR-1
+1 11 FR-1
+11 2 WR-4
+11 3 EX-4
+4 11 RF-3
+11 6 UK-4
+

@@ -1,0 +1,46 @@
+13
+MP-xqGqlVXkyPJD.exe 
+TP*-AcroRd32.exe 
+TF-\Users\admin\AppData\Local\Temp\Heapman45.exe
+MF-C:\Program Files (x86)\GnuPG\bin\gpg.exe
+TP-dkeyauth.exe 
+TF-Files\appdata\local\temp\rpvbh.jar
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+MF-EXa1276.12704\MadInjector\MadInjector.exe
+SF-C:\Users\admin\AppData\Local\Temp\Enquiry
+MP*-saves.exe
+SF-C:\Users\admin\AppData\Local\Temp\B70D.exe
+MP*-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+TP*-file.exe
+30
+0 1 IJ-1
+0 2 WR-1
+1 2 WR-1
+0 3 WR-1
+1 3 WR-1
+0 4 UK-1
+1 5 EX-1
+6 1 RF-1
+1 7 CD-1
+1 8 EX-1
+1 9 IJ-1
+9 2 RD-2
+9 3 WR-2
+9 5 WR-2
+9 6 ST-2
+9 7 RD-2
+9 8 WR-2
+1 10 WR-1
+9 10 WR-2
+1 11 FR-1
+11 2 EX-3
+11 3 CD-3
+11 5 RD-3
+11 6 ST-3
+11 7 EX-3
+11 8 WR-3
+9 11 UK-2
+12 2 WR-4
+12 3 WR-4
+12 5 UK-4
+

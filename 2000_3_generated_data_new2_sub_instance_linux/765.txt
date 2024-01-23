@@ -1,0 +1,66 @@
+18
+MP*-perl
+TF-Users.tar.gz
+MF-e.c
+SO-192.168.10.131
+MF-sysctl.c
+MP-ifconfig
+SF-bash_completion.sh
+TP-nmap
+MF-art.sh
+TP-ls
+MF-T1070.006-reference.txt
+MF-www.google.c
+SO-192.168.2.102
+SO-192.168.206.137
+MP*-cat
+TP*-cat
+SF-1.zip
+MP*-scp
+45
+0 1 RD-1
+0 2 RD-1
+0 3 ST-1
+0 4 WR-1
+0 5 FR-1
+5 1 WR-1
+5 2 WR-1
+3 5 RF-1
+5 4 WR-1
+0 6 UK-1
+7 1 EX-1
+7 2 WR-1
+3 7 RF-1
+7 4 WR-1
+5 7 IJ-1
+5 8 WR-1
+7 8 EX-1
+9 1 UK-1
+5 10 WR-1
+7 10 WR-1
+5 11 RD-1
+7 11 WR-1
+12 5 RF-1
+12 7 RF-1
+5 13 ST-1
+7 13 ST-1
+14 4 WR-2
+7 14 IJ-1
+14 8 CD-2
+14 10 WR-2
+14 11 UK-2
+5 15 IJ-1
+7 15 IJ-1
+15 8 WR-3
+15 10 WR-3
+15 12 ST-3
+15 13 ST-3
+7 16 RD-1
+15 16 WR-3
+7 17 IJ-1
+17 8 RD-4
+17 10 EX-4
+12 17 RF-3
+17 13 ST-4
+15 17 UK-3
+

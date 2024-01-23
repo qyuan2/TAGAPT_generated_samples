@@ -1,0 +1,151 @@
+44
+MP-id
+TP-awk
+TP-awk
+MP-cat
+MF-cron.m
+MF-subprocess.c
+MP-sed
+MP*-cat
+MF-access.txt
+SO-192.168.10.128
+TP-more
+MF-lighttpd.c
+TP-cat
+MF-p.c
+MF-p.c
+MP-grep
+MP-hostname
+MF-target.example.c
+SO-http://192.168.0.134/passwd
+TP-perl
+MP-nmap
+TF-robots.txt
+MF-apache2.c
+MF-lighttp.c
+MP-less
+TP*-grep
+SF-shell.cgi
+MF-0*.txt
+TF-access.htm
+TP-bash
+TF-backsup.sh
+SO-192.168.0.134
+MF-T1113_desktop.png
+MP*-uname
+SF-flag3.txt
+SF-2017.pl
+MF-flag4.txt
+MP*-grep
+SF-d.c
+MP-ls
+MF-lv.c
+MF-raw.githubusercontent.c
+MF-raft-medium-directories.txt
+MP-less
+104
+0 1 FR-1
+0 2 IJ-1
+1 2 UK-1
+0 3 FR-1
+0 4 RD-1
+3 4 WR-1
+0 5 WR-1
+3 5 EX-1
+6 4 WR-1
+6 5 WR-1
+7 4 RD-1
+7 5 WR-1
+6 8 RD-1
+7 8 WR-1
+9 6 RF-1
+7 9 ST-1
+10 4 WR-1
+10 5 UK-1
+6 11 WR-1
+7 11 EX-1
+12 4 WR-1
+6 12 UK-1
+7 13 CD-1
+7 14 WR-1
+7 15 FR-1
+15 8 WR-1
+9 15 RF-1
+15 11 EX-1
+15 13 RD-1
+15 14 EX-1
+7 16 FR-1
+16 8 RD-1
+16 9 ST-1
+16 11 RD-1
+16 13 WR-1
+16 14 WR-1
+7 17 EX-1
+15 17 RD-1
+16 17 UK-1
+15 18 ST-1
+19 9 ST-1
+19 11 RD-1
+19 13 RD-1
+19 14 EX-1
+15 19 UK-1
+20 11 WR-1
+20 13 WR-1
+20 14 WR-1
+20 18 ST-1
+20 21 EX-1
+20 22 WR-1
+20 23 WR-1
+24 14 WR-1
+18 24 RF-1
+20 24 UK-1
+25 18 ST-2
+25 21 WR-2
+25 22 RD-2
+25 23 WR-2
+25 26 RD-2
+25 27 WR-2
+25 28 WR-2
+29 21 EX-2
+29 22 CD-2
+29 23 WR-2
+25 29 IJ-2
+29 26 WR-2
+29 27 EX-2
+29 28 EX-2
+25 30 WR-2
+29 30 WR-2
+25 31 ST-2
+31 29 RF-2
+25 32 RD-2
+29 32 WR-2
+33 23 RD-3
+25 33 IJ-2
+33 26 EX-3
+33 27 WR-3
+33 28 WR-3
+29 33 IJ-2
+33 30 WR-3
+33 31 ST-3
+33 32 WR-3
+25 34 EX-2
+33 34 WR-3
+33 35 RD-3
+33 36 WR-3
+37 28 RD-4
+37 30 RD-4
+31 37 RF-3
+37 32 RD-4
+37 34 WR-4
+37 35 WR-4
+37 36 WR-4
+33 38 CD-3
+37 38 WR-4
+39 30 UK-4
+33 40 EX-3
+37 40 EX-4
+33 41 EX-3
+37 41 UK-4
+33 42 WR-3
+43 34 UK-4
+

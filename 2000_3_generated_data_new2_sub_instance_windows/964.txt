@@ -1,0 +1,203 @@
+48
+MP*-del.exe
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+SF-C:\Users\admin\Desktop\softwarelagswitchc
+MP-WtHgie
+TP-verclsid.exe
+SF-C:\Users\admin\AppData\Local\Temp\FastLane.m
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+TP-KMSpico_setup.tmp
+MP-ExplorerSuite.tmp
+MP-cacls.exe 
+SO-https://8.8.8.8/resolve?name=atomicredteam.$(Get-Random
+SF-C:\Users\admin\AppData\Local\Temp\gagu4gmirt.dll
+TP*-ns9E4A.tmp
+MF-C:\vLocalServerSetup\VPlugin.dll
+MP-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+TP-p2602380.exe
+MF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\vbsstartup
+MP-is-3DL5P.tmp
+MP-WinAPIOverride 6.9.1.tmp
+TF-Files\Hantek2xx2\Driver\Others\Hantek2D42X86.sys
+MF-C:\Program Files\Google\Chrome\Application\chrome.exe
+TP-taskkill.exe
+TP-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+MF-C:\Users\admin\Desktop\Attachment_94259849
+TP-expo.exe
+MF-Files\Java\jre1.8.0_92\bin\java.exe
+MP-shutdown.exe
+TP-dvRzzWRPw.exe
+MP-Enquiry No. 1000341492.exe 
+TF-C:\Users\admin\Desktop\abe2ccc4b4bb38f9e7af5cfe7dcc331c5a3ce286b6995b81cf26e011beba7e90.rtf
+SF-c:\Users\admin\AppData\Local\Temp\CSCDF6A
+MP-procdump.exe
+MF-ZOR-3261778.pdf
+SF-C:\Users\admin\AppData\Local\Temp\925e7e99c5\pdates
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/DumpWCM.ps1
+TF-\Users\admin\AppData\Local\Temp\5033182378119.js
+MP-mstsca.exe 
+TP*-ping.exe
+MP-o0575127.exe
+TP-PO 345678.exe 
+MF-C:\Users\admin\AppData\Local\Temp\splwow64.exe
+MF-C:\Users\admin\AppData\Local\Temp\Setup.zip
+SF-C:\Users\admin\AppData\Local\Temp\OriginalMessage
+MP*-WISPTIS.EXE
+SO-192.168.1.1
+MP-renamer-7.5.exe
+SF-C:\Users\admin\AppData\Local\Temp\winhost
+MP-malware.exe 
+152
+0 1 ST-1
+0 2 RD-1
+0 3 FR-1
+1 3 RF-1
+3 2 EX-1
+0 4 FR-1
+4 1 ST-1
+4 2 RD-1
+3 4 IJ-1
+0 5 EX-1
+3 5 WR-1
+4 5 EX-1
+0 6 ST-1
+6 3 RF-1
+6 4 RF-1
+0 7 IJ-1
+1 7 RF-1
+7 2 WR-1
+3 7 IJ-1
+4 7 IJ-1
+7 5 WR-1
+7 6 ST-1
+0 8 FR-1
+1 8 RF-1
+8 2 WR-1
+4 8 IJ-1
+8 5 WR-1
+6 8 RF-1
+7 8 UK-1
+0 9 UK-1
+3 10 ST-1
+4 10 ST-1
+3 11 WR-1
+4 11 EX-1
+12 2 WR-2
+3 12 IJ-1
+4 12 IJ-1
+12 5 RD-2
+12 6 ST-2
+12 10 ST-2
+12 11 WR-2
+3 13 WR-1
+4 13 RD-1
+12 13 RD-2
+4 14 IJ-1
+14 5 WR-2
+6 14 RF-1
+10 14 RF-2
+14 11 EX-2
+12 14 IJ-2
+14 13 RD-2
+15 5 RD-2
+6 15 RF-1
+10 15 RF-2
+15 11 CD-2
+12 15 IJ-2
+15 13 RD-2
+14 15 UK-2
+12 16 WR-2
+10 17 RF-2
+17 11 RD-2
+12 17 IJ-2
+17 13 RD-2
+17 16 WR-2
+18 10 ST-2
+18 11 RD-2
+12 18 IJ-2
+18 13 WR-2
+18 16 WR-2
+17 18 UK-2
+12 19 RD-2
+12 20 WR-2
+21 11 RD-2
+12 21 IJ-2
+21 13 WR-2
+21 16 WR-2
+21 19 WR-2
+21 20 WR-2
+12 22 UK-2
+21 23 EX-2
+24 16 UK-2
+21 25 WR-2
+26 19 UK-2
+27 20 WR-2
+21 27 IJ-2
+27 23 WR-2
+27 25 WR-2
+28 20 EX-2
+21 28 UK-2
+27 29 WR-2
+27 30 WR-2
+31 23 WR-2
+31 25 WR-2
+27 31 IJ-2
+31 29 EX-2
+31 30 WR-2
+27 32 EX-2
+31 32 RD-2
+27 33 RD-2
+31 33 RD-2
+27 34 ST-2
+31 34 ST-2
+27 35 WR-2
+31 35 WR-2
+27 36 FR-2
+36 29 RD-2
+36 30 EX-2
+31 36 UK-2
+27 37 FR-2
+37 29 EX-3
+37 30 EX-3
+37 32 CD-3
+37 33 RD-3
+37 34 ST-3
+37 35 WR-3
+38 29 EX-3
+38 30 WR-3
+38 32 EX-3
+38 33 EX-3
+38 34 ST-3
+38 35 RD-3
+37 38 IJ-3
+39 29 WR-3
+39 30 RD-3
+39 32 WR-3
+39 33 WR-3
+39 34 ST-3
+39 35 UK-3
+37 40 WR-3
+38 40 RD-3
+37 41 RD-3
+38 41 WR-3
+37 42 RD-3
+38 42 EX-3
+43 33 RD-4
+34 43 RF-3
+37 43 IJ-3
+43 40 WR-4
+43 41 EX-4
+43 42 RD-4
+37 44 ST-3
+44 38 RF-3
+43 44 ST-4
+37 45 FR-3
+38 45 UK-3
+37 46 WR-3
+43 46 WR-4
+37 47 FR-3
+47 40 CD-4
+47 41 WR-4
+47 42 WR-4
+43 47 UK-4
+

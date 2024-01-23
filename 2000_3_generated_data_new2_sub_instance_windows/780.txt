@@ -1,0 +1,53 @@
+14
+MP*-snuvcdsm.exe 
+SF-C:\Users\admin\AppData\Local\Temp\upP
+SF-C:\Program files\appdata\local\temp\32440.doc
+SF-C:\Users\admin\Desktop\AkrienBeta
+SO-8.100.0.203
+MF-C:\Users\admin\AppData\Local\Temp\Pièce
+TP*-olsptrs.exe 
+TF-C:\Users\admin\Desktop\73bdfefd546d1a751a77b6de3a36460b6108a06940a1c9dc73c9dfdd78f8f649
+MP-Entry.exe 
+MP*-hh.exe 
+MP*-T1027.exe
+SF-C:\Users\admin\AppData\Local\Temp\pure.zip
+MP-PDQDeployConsole.exe
+MP-AIGeneratedRansomware.exe 
+36
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 ST-1
+0 5 WR-1
+0 6 IJ-1
+6 1 WR-2
+6 2 WR-2
+6 3 RD-2
+6 4 ST-2
+6 5 EX-2
+0 7 WR-1
+6 7 RD-2
+0 8 FR-1
+8 1 UK-2
+0 9 FR-1
+9 2 WR-3
+9 3 RD-3
+4 9 RF-2
+9 5 WR-3
+6 9 IJ-2
+9 7 WR-3
+0 10 FR-1
+10 2 EX-4
+10 3 WR-4
+10 4 ST-4
+10 5 WR-4
+6 10 IJ-2
+10 7 WR-4
+9 10 UK-3
+6 11 WR-2
+12 2 RD-4
+12 3 UK-4
+13 4 ST-4
+13 5 RD-4
+6 13 UK-2
+

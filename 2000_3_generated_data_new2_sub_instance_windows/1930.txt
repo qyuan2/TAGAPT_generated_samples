@@ -1,0 +1,50 @@
+15
+MP*-net1.exe
+MF-Downloader_LIT-Qg1.tmp
+MP*-Entry.exe 
+MP-wbadmin.exe
+MF-C:\Windows\System32\sdiagnhost.exe
+MF-0-KRP-69032873653.pdf
+MF-C:\Users\Public\coinmarketcap\coinmarketcap
+MF-\Users\admin\AppData\Local\Temp\bltf.exe.INFECTED.dll
+SF-C:\Users\admin\AppData\Local\Temp\iphoneanalyzer
+MF-Files\Bandizip\data\RegDll.x86.exe
+MF-shell32.dll
+SF-%temp%\sam
+SF-C:\Windows\System32\calc
+MP*-Uninstall.exe 
+MP*-Pago fra.exe 
+32
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+0 3 UK-1
+2 4 RD-2
+2 5 WR-2
+2 6 RD-2
+2 7 WR-2
+2 8 WR-2
+2 9 RD-2
+2 10 RD-2
+2 11 WR-2
+2 12 WR-2
+13 4 RD-3
+13 5 WR-3
+13 6 WR-3
+13 7 WR-3
+13 8 EX-3
+13 9 EX-3
+13 10 RD-3
+13 11 WR-3
+13 12 WR-3
+14 4 WR-4
+14 5 WR-4
+14 6 WR-4
+14 7 WR-4
+14 8 WR-4
+14 9 WR-4
+14 10 EX-4
+14 11 WR-4
+14 12 WR-4
+13 14 UK-3
+

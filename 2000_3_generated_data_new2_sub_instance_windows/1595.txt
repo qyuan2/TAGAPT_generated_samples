@@ -1,0 +1,54 @@
+13
+MP*-taskmgr.exe
+MP-DllHost.exe
+MF-C:\Users\admin\AppData\Roaming\yonr\yonr.exe
+MF-C:\Windows\System32\notepad
+TF-\Users\admin\AppData\Local\Temp\b79gpxd8.cmd
+MP-mmc.exe
+SF-C:\Users\admin\Desktop
+MF-C:\Program files\appdata\local\temp\desert
+TP*-net1.exe
+MP-Reg.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42AMD64
+MP*-obiokmgf6.exe
+MP*-audiodg.exe 
+38
+0 1 FR-1
+0 2 EX-1
+1 2 RD-1
+0 3 WR-1
+1 3 WR-1
+0 4 WR-1
+1 4 WR-1
+0 5 FR-1
+1 5 UK-1
+0 6 WR-1
+0 7 EX-1
+0 8 FR-1
+8 2 WR-2
+8 3 WR-2
+8 4 CD-2
+8 6 WR-2
+8 7 WR-2
+0 9 FR-1
+9 2 WR-2
+9 3 WR-2
+9 4 WR-2
+9 6 WR-2
+9 7 WR-2
+8 9 UK-2
+0 10 EX-1
+11 2 EX-3
+11 3 WR-3
+11 4 WR-3
+11 6 RD-3
+11 7 WR-3
+11 10 WR-3
+12 2 WR-4
+12 3 RD-4
+12 4 RD-4
+12 6 RD-4
+12 7 WR-4
+12 10 EX-4
+11 12 UK-3
+

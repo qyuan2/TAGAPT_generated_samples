@@ -1,0 +1,50 @@
+17
+MP*-ursnif.exe
+MP-SecuriteInfo.com
+MP-AppLaunch.exe
+MF-\Users\admin\Desktop\tasksche.exe
+MF-PathToAtomicsFolder\T1555.003\bin\LaZagne.exe
+MP-ma grosse bite.exe 
+MP*-Tudehluxjc.exe 
+MP-GUP.exe
+MF-google.c
+SF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv
+TF-Exproler.exe
+MF-C:\Users\admin\AppData\Local\Temp\upP.vb
+TP*-driverquery.exe 
+MF-\Users\admin\AppData\Local\Temp\Payroll_2022.vb
+SF-C:\Windows\SysWOW64\cmd.exe
+MF-C:\Program Files\Microsoft\Edge\Application\msedge
+MP*-prevhost.exe
+30
+0 1 FR-1
+0 2 FR-1
+0 3 EX-1
+1 3 UK-1
+0 4 CD-1
+2 4 EX-1
+0 5 UK-1
+2 6 FR-1
+6 4 WR-2
+2 7 FR-1
+7 4 WR-2
+6 7 UK-2
+2 8 EX-1
+2 9 WR-1
+2 10 RD-1
+2 11 EX-1
+2 12 FR-1
+12 4 RD-3
+12 8 RD-3
+12 9 RD-3
+12 10 RD-3
+12 11 WR-3
+12 13 WR-3
+12 14 RD-3
+12 15 WR-3
+16 8 WR-4
+16 9 WR-4
+16 10 WR-4
+16 11 WR-4
+12 16 UK-3
+

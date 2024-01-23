@@ -1,0 +1,28 @@
+9
+MP*-Document.pdf_Slayed.scr.exe
+MP-meatspin full.exe
+MP-mstsca.exe 
+MP*-malware.exe 
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+SF-C:\Recovery\345b46fe
+SF-C:\Users\All Users\Documents\audiodg.exe
+TP*-anydesk.exe
+MP*-is-Q2MHB.tmp
+16
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+0 4 ST-1
+3 4 ST-2
+0 5 WR-1
+3 5 UK-2
+0 6 RD-1
+0 7 IJ-1
+4 7 RF-2
+7 6 WR-3
+0 8 FR-1
+4 8 RF-2
+8 6 WR-4
+7 8 UK-3
+

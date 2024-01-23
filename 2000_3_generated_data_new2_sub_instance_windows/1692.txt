@@ -1,0 +1,65 @@
+15
+MP*-expo.exe
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+MP*-Register-CimProvider.exe
+MF-C:\Users\Public\Videos\Sample Videos\lsass.exe
+TP-system_file.exe 
+SF-C:\Users\admin\AppData\Local\Temp\sentinelone
+MF-C:\Users\admin\AppData\Local\Temp\UN.php
+SO-https://access-message.top/secure-login
+MP*-nmap.exe
+TF-.\T1218\src\T1218.txt
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+MP-863e7c22c771e4005197ae28363584f8.exe 2620
+MP*-wscript.exe
+TF-.\ExternalPayloads\PsExec.exe
+MP-xcopy.exe
+47
+1 0 RF-1
+0 2 FR-1
+2 1 ST-2
+0 3 EX-1
+2 3 WR-2
+0 4 IJ-1
+1 4 RF-2
+2 4 IJ-2
+4 3 WR-2
+0 5 RD-1
+2 5 UK-2
+0 6 CD-1
+4 6 WR-2
+0 7 ST-1
+7 4 RF-1
+0 8 FR-1
+1 8 RF-2
+8 3 WR-3
+4 8 IJ-2
+8 6 RD-3
+8 7 ST-3
+0 9 WR-1
+4 9 EX-2
+8 9 RD-3
+10 0 RF-1
+10 4 RF-2
+10 8 RF-3
+1 11 RF-2
+11 3 WR-3
+4 11 IJ-2
+11 6 RD-3
+11 7 ST-3
+8 11 UK-3
+12 3 RD-4
+4 12 IJ-2
+12 6 WR-4
+12 7 ST-4
+12 9 WR-4
+10 12 RF-4
+4 13 WR-2
+12 13 WR-4
+4 14 IJ-2
+14 6 WR-4
+14 7 ST-4
+14 9 RD-4
+10 14 RF-4
+12 14 UK-4
+

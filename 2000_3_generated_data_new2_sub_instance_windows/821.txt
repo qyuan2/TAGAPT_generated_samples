@@ -1,0 +1,114 @@
+30
+MP-wbengine.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+TF-\Users\admin\AppData\Local\Temp\prism-0.8-win32.exe
+MP*-mimikatz.exe
+MP-wmic.exe
+TP*-fsutil.exe
+SO-https://clients2.google.com/cr/report
+TP-SecuriteInfo.com
+MP-hh.exe
+MP-vbs.exe
+MP*-jsc.exe
+TF-\Windows\System32\regsvr32.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-HOVH3.tmp
+MF-\Client.pdf
+TF-Downloader.zip
+TF-C:\Users\admin\AppData\Local\Temp\file
+TF-C:\MSOCache\All Users\cmd
+MP*-schtasks.exe 
+MF-C:\Users\admin\AppData\Local\Temp\vbs.exe
+TF-C:\Users\User\appdata\local\temp\9140
+SF-C:\Users\admin\AppData\Local\Temp\GLJBD24.tmp
+MP-ns9DCC.tmp 
+MP-nsD232.tmp
+TP-OriginalBuild.exe.exe 
+MF-C:\Windows\System32\schtasks.exe
+MF-\Windows\system32\AutoRun.exe
+TF-\Users\admin\AppData\Local\Temp\is-FJCES.tmp\CareUEyes_setup.tmp
+MF-C:\Program Files\appdata\local\temp\deep
+MF-C:\Users\admin\AppData\Local\Temp
+MP-MSBuild.exe
+81
+1 0 RF-1
+0 2 EX-1
+0 3 FR-1
+1 3 RF-1
+3 2 EX-1
+0 4 FR-1
+4 1 ST-1
+4 2 UK-1
+0 5 FR-1
+5 1 ST-2
+3 5 IJ-1
+6 0 RF-1
+6 3 RF-1
+6 5 RF-2
+0 7 IJ-1
+1 7 RF-1
+3 7 IJ-1
+5 7 IJ-2
+7 6 ST-2
+0 8 FR-1
+1 8 RF-1
+5 8 UK-2
+0 9 FR-1
+9 1 ST-2
+3 9 UK-1
+0 10 FR-1
+1 10 RF-1
+10 6 ST-3
+7 10 IJ-2
+7 11 WR-2
+10 11 WR-3
+7 12 UK-2
+10 13 WR-3
+10 14 RD-3
+10 15 WR-3
+10 16 WR-3
+10 17 FR-3
+17 11 WR-4
+17 13 CD-4
+17 14 WR-4
+17 15 WR-4
+17 16 WR-4
+10 18 WR-3
+17 18 WR-4
+10 19 WR-3
+17 19 WR-4
+10 20 RD-3
+17 20 WR-4
+21 11 RD-4
+21 13 WR-4
+21 14 WR-4
+21 15 WR-4
+21 16 WR-4
+17 21 UK-4
+22 13 WR-4
+22 14 EX-4
+22 15 RD-4
+22 16 EX-4
+22 18 WR-4
+22 19 WR-4
+22 20 RD-4
+23 13 RD-4
+23 14 WR-4
+23 15 WR-4
+23 16 WR-4
+23 18 WR-4
+23 19 RD-4
+23 20 EX-4
+22 23 IJ-4
+22 24 WR-4
+23 24 WR-4
+22 25 WR-4
+23 25 WR-4
+22 26 RD-4
+23 26 RD-4
+22 27 WR-4
+23 27 WR-4
+22 28 UK-4
+29 19 WR-4
+29 20 CD-4
+23 29 UK-4
+

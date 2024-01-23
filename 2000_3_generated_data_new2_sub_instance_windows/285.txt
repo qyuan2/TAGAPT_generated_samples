@@ -1,0 +1,31 @@
+9
+MP*-ns9B66.tmp 
+MF-toker.wav
+TF-C:\Users\admin\AppData\Local\Temp\is-9DRF4.tmp
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+TF-C:\Program Files\Hantek2xx2\STTubeDevice30.dll
+MP*-StormKittyBuild.exe 
+SO-10.0.0.00000
+MP*-certutil
+MP*-control.exe
+19
+0 1 WR-1
+0 2 RD-1
+0 3 ST-1
+0 4 RD-1
+0 5 FR-1
+5 1 WR-2
+5 2 WR-2
+3 5 RF-1
+5 4 RD-2
+0 6 ST-1
+6 5 RF-1
+0 7 FR-1
+7 1 EX-3
+0 8 FR-1
+8 1 RD-4
+8 2 RD-4
+8 3 ST-4
+8 4 RD-4
+5 8 UK-2
+

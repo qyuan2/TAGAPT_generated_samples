@@ -1,0 +1,37 @@
+11
+MP*-dd
+MF-f.r
+MP*-grep
+MP*-awk
+MF-flag3.txt
+SO-192.168.1.1
+MF-T1574.006.c
+MF-os.exe
+SF-anaconda-ks.cfg
+MF-Users.tar.gz
+TP*-last
+23
+0 1 EX-1
+0 2 FR-1
+2 1 WR-2
+0 3 FR-1
+3 1 RD-3
+0 4 RD-1
+2 4 WR-2
+3 4 WR-3
+0 5 ST-1
+2 5 ST-2
+3 5 ST-3
+0 6 WR-1
+2 6 WR-2
+3 6 WR-3
+0 7 WR-1
+2 7 UK-2
+0 8 WR-1
+3 8 WR-3
+0 9 RD-1
+3 9 WR-3
+0 10 IJ-1
+10 1 WR-4
+3 10 UK-3
+

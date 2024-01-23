@@ -1,0 +1,142 @@
+43
+MP-ls
+MP-perl
+MF-p.c
+MP-cat
+MP-ifconfig
+MP-curl
+MP-vim
+MP-awk
+MP-ls
+MP-cat
+TF-resolv.c
+TP-cat
+SF-e2.c
+SF-www.google.c
+MF-te.c
+MP-awk
+MP*-less
+MF-s.c
+TF-access.txt
+MP*-grep
+MP-uname
+MF-pd.c
+SF-1.zip
+MF-s.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP-paste
+SO-123.6.44.67
+TP-ifconfig
+MF-settings.php
+MP-cat
+MP*-cat
+MP*-awk
+MF-e.c
+MF-HTML ( .chm ) files
+TP-ls
+MP-paste
+SO-192.168.47.134:4444
+MF-0*.txt
+MF-echo-art-fish.sh
+SO-192.168.10.130
+MP-netstat
+MF-2017.pl
+TP-uname
+96
+0 1 FR-1
+0 2 WR-1
+1 2 RD-1
+0 3 UK-1
+1 4 FR-1
+4 2 WR-1
+1 5 FR-1
+5 2 RD-1
+4 5 UK-1
+1 6 FR-1
+6 2 RD-1
+1 7 FR-1
+7 2 WR-1
+1 8 FR-1
+8 2 WR-1
+7 8 UK-1
+1 9 UK-1
+6 10 WR-1
+11 2 WR-1
+6 11 IJ-1
+11 10 UK-1
+6 12 WR-1
+6 13 WR-1
+6 14 EX-1
+6 15 UK-1
+16 12 RD-1
+16 13 RD-1
+16 14 RD-1
+16 17 WR-1
+16 18 WR-1
+19 12 WR-2
+19 13 WR-2
+19 14 RD-2
+19 17 RD-2
+19 18 WR-2
+20 12 WR-2
+20 13 UK-2
+16 21 EX-1
+19 21 WR-2
+16 22 WR-1
+19 22 EX-2
+16 23 RD-1
+19 23 WR-2
+16 24 ST-1
+19 24 ST-2
+16 25 UK-1
+26 19 RF-2
+27 17 RD-2
+27 18 CD-2
+19 27 IJ-2
+27 21 WR-2
+27 22 EX-2
+27 23 UK-2
+19 28 WR-2
+19 29 FR-2
+29 21 EX-2
+29 22 WR-2
+24 29 RF-2
+29 26 ST-2
+29 28 UK-2
+30 21 RD-3
+30 22 CD-3
+30 24 ST-3
+30 26 ST-3
+31 21 RD-4
+31 22 RD-4
+24 31 RF-2
+26 31 RF-3
+30 32 RD-3
+31 32 WR-4
+30 33 EX-3
+31 33 WR-4
+34 24 ST-4
+26 34 RF-3
+30 34 UK-3
+35 26 ST-4
+35 32 WR-4
+35 33 UK-4
+31 36 ST-4
+31 37 WR-4
+31 38 WR-4
+31 39 ST-4
+31 40 FR-4
+40 32 RD-4
+36 40 RF-4
+40 37 RD-4
+40 38 RD-4
+39 40 RF-4
+31 41 CD-4
+40 41 RD-4
+42 32 WR-4
+36 42 RF-4
+42 37 RD-4
+42 38 WR-4
+39 42 RF-4
+40 42 UK-4
+

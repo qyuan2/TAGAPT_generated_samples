@@ -1,0 +1,96 @@
+29
+MP*-SearchProtocolHost.exe
+MP-Swift 45,097.90.exe 
+MP-cmdkey.exe
+MP-Orcus.exe 
+SF-C:\Windows\System32\wbem\WMIC
+MF-C:\Program Files\CCleaner\Setup
+TP-wscript.exe
+MP*-StormKittyBuild.exe 
+TP-AcroRd32.exe
+SF-C:\Users\admin\AppData\Local\Temp\jojo11
+SO-127.0.0.1
+MF-\Users\User\appdata\local\temp\rpvbh.jar
+MF-%TEMP%\test.bin
+TP-nsBDC5.tmp
+MF-\Users\admin\Desktop\DOC77412.jpg
+MP-Locker mr robot.exe 
+SF-C:\Program Files\Hantek2xx2\STDFU
+TP-n4054738.exe
+MF-C:\Users\admin\Desktop\HxDSetup.exe
+SF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo
+MP*-anydesk.exe
+MF-\Desktop\YOUR_FILES.txt
+TF-C:\Users\admin\AppData\Local\Temp\WinRAR
+TP*-chrome.exe 
+MF-C:\Users\admin\Desktop\DOC
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/mshta.sct').Exec();close
+MF-C:\Windows\system32\taskmgr.exe
+SF-C:\Users\User\appdata\local\temp\rpvbh
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+64
+0 1 FR-1
+0 2 UK-1
+1 3 FR-1
+1 4 RD-1
+3 4 RD-1
+1 5 EX-1
+3 5 RD-1
+1 6 UK-1
+3 7 FR-1
+7 4 EX-2
+7 5 UK-2
+3 8 FR-1
+8 4 WR-2
+3 9 WR-1
+8 9 CD-2
+3 10 ST-1
+10 8 RF-1
+3 11 WR-1
+8 11 EX-2
+3 12 WR-1
+8 12 RD-2
+3 13 UK-1
+8 14 CD-2
+8 15 FR-2
+15 9 WR-2
+15 10 ST-2
+15 11 EX-2
+15 12 WR-2
+15 14 WR-2
+8 16 WR-2
+15 16 CD-2
+8 17 UK-2
+15 18 RD-2
+15 19 RD-2
+10 20 RF-1
+20 11 WR-3
+20 12 WR-3
+20 14 WR-3
+20 16 CD-3
+20 18 RD-3
+20 19 WR-3
+15 21 WR-2
+20 21 WR-3
+15 22 WR-2
+20 22 WR-3
+23 14 WR-4
+15 23 IJ-2
+23 16 EX-4
+23 18 WR-4
+23 19 CD-4
+20 23 IJ-3
+23 21 RD-4
+23 22 RD-4
+15 24 RD-2
+20 24 WR-3
+23 24 EX-4
+25 15 RF-2
+25 20 RF-3
+23 25 ST-4
+20 26 RD-3
+23 26 UK-4
+20 27 WR-3
+28 19 WR-4
+20 28 UK-3
+

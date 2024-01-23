@@ -1,0 +1,90 @@
+25
+MP*-sudo
+MF-subprocess.c
+MF-T1070.004-test.txt
+MF-AutoSUID.sh
+MF-1.zip
+MP-dd
+MP-grep
+MP-cat
+MP-awk
+TP*-bash
+TP-more
+SF-raft-large-directories.txt
+SO-192.168.2.102
+TF-T1003.008.txt
+TF-T1070.006-reference.txt
+TF-cron.a
+TP*-bash 
+MF-T1027-004-test.c
+TF-T1070.006-reference.txt
+SO-192.168.206.0
+TP*-nmap
+MP-cat
+TP-ls
+MP-curl
+MP-awk
+62
+0 1 WR-1
+0 2 EX-1
+0 3 RD-1
+0 4 WR-1
+0 5 FR-1
+5 1 UK-1
+0 6 FR-1
+6 2 WR-1
+6 3 WR-1
+6 4 WR-1
+0 7 UK-1
+8 2 RD-1
+8 3 WR-1
+8 4 WR-1
+6 8 UK-1
+9 2 RD-2
+9 3 WR-2
+9 4 RD-2
+10 2 EX-2
+10 3 RD-2
+10 4 WR-2
+9 10 IJ-2
+9 11 RD-2
+10 11 WR-2
+12 9 RF-2
+10 12 ST-2
+9 13 RD-2
+10 13 WR-2
+9 14 CD-2
+10 14 EX-2
+9 15 WR-2
+10 15 RD-2
+10 16 FR-2
+16 11 CD-3
+12 16 RF-2
+16 13 WR-3
+16 14 WR-3
+16 15 RD-3
+10 17 WR-2
+16 17 WR-3
+10 18 WR-2
+16 18 EX-3
+19 10 RF-2
+19 16 RF-3
+20 11 RD-4
+12 20 RF-2
+20 13 WR-4
+20 14 WR-4
+20 15 CD-4
+16 20 UK-3
+12 21 RF-2
+21 13 UK-4
+22 14 RD-4
+22 15 UK-4
+23 14 RD-4
+23 17 WR-4
+23 18 RD-4
+19 23 RF-4
+24 17 WR-4
+24 18 EX-4
+24 19 ST-4
+23 24 UK-4
+

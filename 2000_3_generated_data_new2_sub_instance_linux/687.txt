@@ -1,0 +1,63 @@
+18
+MP*-more
+TP*-bash
+TF-user.r
+MF-ron.a
+TP-less
+MF-e.c
+TP-sed
+MP*-cat
+MF-echo-art-fish.sh
+MP-tac
+TP-tac
+TF-td.c
+TP*-cat
+SF-lighttpd.c
+MF-resolv.c
+MF-e2.c
+MP-cat
+TP-cat
+42
+0 1 IJ-1
+0 2 WR-1
+1 2 WR-2
+0 3 WR-1
+1 3 WR-2
+0 4 FR-1
+1 4 IJ-2
+4 2 RD-2
+4 3 WR-2
+0 5 WR-1
+1 5 UK-2
+0 6 IJ-1
+6 2 RD-2
+6 3 EX-2
+4 6 IJ-2
+0 7 FR-1
+7 2 WR-3
+7 3 WR-3
+4 7 IJ-2
+6 7 IJ-2
+0 8 RD-1
+4 8 WR-2
+6 8 EX-2
+7 8 UK-3
+0 9 UK-1
+10 2 WR-3
+10 3 WR-3
+4 10 UK-2
+6 11 WR-2
+12 2 WR-4
+12 3 WR-4
+6 12 IJ-2
+12 11 RD-4
+6 13 WR-2
+12 13 WR-4
+6 14 RD-2
+12 14 WR-4
+6 15 EX-2
+12 15 WR-4
+6 16 UK-2
+17 11 WR-4
+12 17 UK-4
+

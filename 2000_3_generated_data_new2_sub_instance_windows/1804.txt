@@ -1,0 +1,81 @@
+24
+MP*-02867fa8b443043ec0fe6af211c852aa.exe 
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+TP*-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+TF-\Users\admin\AppData\Local\Temp\IBM_LINUX.exe
+MF-C:\Users\admin\Desktop\Biling
+TP-file.exe
+MP-v6621467.exe
+SF-C:\Users\admin\AppData\Local\Temp\Rar
+MP-powershell.exe 
+MP*-Order list.exe 
+SF-C:\Users\admin\Desktop\WinAPIOverride
+MF-Fixtures.rar
+MF-files\appdata\local\temp\32440.doc
+TF-C:\Users\admin\Desktop\shun2463
+MF-\Users\admin\AppData\Roaming\CareUEyes\CareUEyes.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP*-EvaPKO
+TF-sam.sav
+MF-C:\Users\admin\AppData\Local\Temp\Packing
+TF-C:\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928.csv
+MP-ONENOTE.EXE
+MP-pcalua.exe
+MP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+MP-mspaint.exe
+54
+0 1 ST-1
+0 2 FR-1
+2 1 ST-2
+0 3 WR-1
+2 3 EX-2
+0 4 RD-1
+2 4 RD-2
+0 5 IJ-1
+1 5 RF-1
+2 5 IJ-2
+5 3 RD-2
+5 4 WR-2
+0 6 FR-1
+1 6 RF-1
+2 6 UK-2
+0 7 WR-1
+5 7 UK-2
+8 1 ST-2
+8 3 RD-2
+8 4 RD-2
+9 1 ST-3
+9 3 RD-3
+9 4 WR-3
+8 10 RD-2
+9 10 WR-3
+8 11 WR-2
+9 11 WR-3
+8 12 RD-2
+9 12 WR-3
+8 13 UK-2
+9 14 WR-3
+9 15 ST-3
+9 16 FR-3
+16 10 WR-4
+16 11 RD-4
+16 12 EX-4
+16 14 EX-4
+16 15 ST-4
+9 17 WR-3
+16 17 UK-4
+9 18 EX-3
+9 19 WR-3
+20 10 EX-4
+20 11 UK-4
+21 12 UK-4
+22 14 RD-4
+15 22 RF-4
+22 18 WR-4
+22 19 WR-4
+23 14 WR-4
+15 23 RF-4
+23 18 WR-4
+23 19 CD-4
+22 23 UK-4
+

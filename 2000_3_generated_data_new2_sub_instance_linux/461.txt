@@ -1,0 +1,90 @@
+29
+MP*-grep
+MF-shell.cgi
+MF-e.c
+MF-lighttpd.c
+MF-io.r
+TP*-df
+MP-bash
+MP-paste
+MF-secret.c
+TF-passwd.zip
+MP-grep
+SF-d.c
+MF-rockyou.txt
+MP-pr
+MP*-ifconfig
+MP-cat
+MP-uname
+SO-192.168.206.136
+MP-cat
+MP-less
+MP-mv
+TF-settings.php
+MF-T1074.001_discovery.log
+MP*-touch
+SF-flag4.txt
+SF-v.c
+MF-ron.a
+MF-flag4.txt
+MP-ls
+58
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 EX-1
+0 5 IJ-1
+5 1 WR-2
+5 2 WR-2
+5 3 RD-2
+5 4 EX-2
+0 6 FR-1
+6 1 WR-2
+6 2 WR-2
+6 3 EX-2
+6 4 RD-2
+5 6 IJ-2
+0 7 UK-1
+5 8 WR-2
+6 8 EX-2
+5 9 RD-2
+6 9 EX-2
+10 1 WR-2
+10 2 RD-2
+10 3 WR-2
+10 4 RD-2
+5 10 IJ-2
+6 10 UK-2
+5 11 WR-2
+5 12 CD-2
+13 3 RD-2
+13 4 WR-2
+5 13 UK-2
+14 8 WR-3
+14 9 WR-3
+14 11 RD-3
+14 12 RD-3
+15 8 UK-3
+16 9 WR-3
+16 11 RD-3
+16 12 UK-3
+17 14 RF-3
+18 11 WR-3
+18 17 ST-3
+14 19 FR-3
+14 20 FR-3
+17 20 RF-3
+18 20 UK-3
+14 21 RD-3
+14 22 WR-3
+17 23 RF-3
+23 21 RD-4
+23 22 WR-4
+23 24 RD-4
+23 25 CD-4
+23 26 WR-4
+23 27 WR-4
+28 21 WR-4
+28 22 WR-4
+23 28 UK-4
+

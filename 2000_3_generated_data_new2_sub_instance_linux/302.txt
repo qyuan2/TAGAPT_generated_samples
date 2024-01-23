@@ -1,0 +1,35 @@
+11
+MP*-find
+SO-192.168.2.102
+SO-192.168.10.133
+MP*-ls
+MF-pwquality.c
+MP*-uname
+TF-logrotate.c
+MF-AutoSUID.sh
+MP-sh
+SO-192.168.206.136
+MP*-find
+21
+0 1 ST-1
+2 0 RF-1
+0 3 FR-1
+3 1 ST-2
+2 3 RF-2
+0 4 WR-1
+3 4 EX-2
+0 5 FR-1
+5 1 ST-3
+2 5 RF-3
+5 4 WR-3
+0 6 RD-1
+3 6 UK-2
+0 7 RD-1
+5 7 WR-3
+0 8 UK-1
+5 9 ST-3
+10 1 ST-4
+10 2 ST-4
+10 4 EX-4
+5 10 UK-3
+

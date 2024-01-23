@@ -1,0 +1,50 @@
+14
+MP-netstat
+MP*-awk
+MF-alertConfigField.php
+SO-192.168.206.137:8080
+TF-td.c
+MP*-php
+MF-backsup.sh
+MP-less
+MF-rockyou.txt
+MP*-cat
+MF-p.c
+TP*-tail
+TP-less
+MP-awk
+33
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+3 0 RF-1
+3 1 RF-1
+0 4 UK-1
+1 5 FR-1
+5 2 WR-2
+5 3 ST-2
+1 6 EX-1
+5 6 WR-2
+1 7 FR-1
+7 2 WR-2
+3 7 RF-2
+5 7 UK-2
+1 8 WR-1
+1 9 FR-1
+9 2 EX-3
+9 3 ST-3
+9 6 RD-3
+9 8 UK-3
+1 10 EX-1
+1 11 IJ-1
+11 2 RD-4
+11 3 ST-4
+11 6 RD-4
+11 10 EX-4
+12 2 WR-4
+3 12 RF-2
+12 6 UK-4
+3 13 RF-2
+13 10 RD-4
+11 13 UK-4
+

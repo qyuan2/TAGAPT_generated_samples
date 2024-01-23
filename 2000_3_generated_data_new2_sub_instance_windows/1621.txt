@@ -1,0 +1,72 @@
+19
+MP*-gpresult.exe
+MF-files\documents\jury.mp3
+TP*-forfiles.exe
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+MF-C:\Users\admin\AppData\Local\Temp\jww825a.exe
+TF-C:\Users\admin\AppData\Local\Temp\tmp99E0
+MF-C:\Users\Public\Pictures\deep
+MF-C:\Users\admin\AppData\Local\Temp\renamer
+MP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+TP-AdFind.exe
+TP*-ipconfig.exe
+SF-C:\Users\admin\AppData\Local\Temp\peplus.m
+MF-C:\Users\admin\AppData\Local\Temp\AnyDesk
+MF-C:\Users\admin\AppData\Local\Temp\is-G3M3S.tmp
+MP*-CCleanerBugReport.exe
+MP-AdobeTray.exe
+TP-OUTLOOK.EXE
+MP-winhost.exe
+TP-ntdsutil.exe
+50
+0 1 WR-1
+0 2 FR-1
+2 1 EX-2
+3 0 RF-1
+2 3 ST-2
+0 4 WR-1
+2 4 RD-2
+0 5 WR-1
+2 5 WR-2
+0 6 EX-1
+2 6 WR-2
+0 7 WR-1
+2 7 RD-2
+0 8 FR-1
+8 1 RD-2
+2 8 UK-2
+0 9 FR-1
+9 1 EX-2
+9 3 ST-2
+9 4 WR-2
+9 5 WR-2
+9 6 UK-2
+0 10 IJ-1
+10 1 EX-3
+10 3 ST-3
+10 4 RD-3
+10 5 WR-3
+10 7 RD-3
+10 11 RD-3
+10 12 WR-3
+10 13 UK-3
+14 4 WR-4
+14 5 RD-4
+14 7 EX-4
+14 11 WR-4
+14 12 RD-4
+15 5 WR-4
+15 7 WR-4
+15 11 CD-4
+15 12 WR-4
+14 15 UK-4
+16 7 WR-4
+16 11 WR-4
+16 12 EX-4
+17 7 WR-4
+17 11 RD-4
+17 12 RD-4
+16 17 UK-4
+18 11 RD-4
+18 12 UK-4
+

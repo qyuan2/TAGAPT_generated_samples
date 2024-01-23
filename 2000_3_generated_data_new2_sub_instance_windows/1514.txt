@@ -1,0 +1,40 @@
+11
+MP*-softwarelagswitchc.exe 
+TP*-saves.exe
+TF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo
+MF-\Users\admin\AppData\Local\Temp\sgic_info.c
+SO-199.247.25.79
+MP-WsatConfig.exe
+MP*-Spora.exe 
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+TP*-nslookup.exe
+MF-Order.htm
+MP-certutil.exe
+26
+0 1 FR-1
+0 2 WR-1
+1 2 WR-2
+0 3 RD-1
+1 3 WR-2
+4 0 RF-1
+1 4 ST-2
+0 5 FR-1
+1 5 IJ-2
+5 2 UK-2
+0 6 FR-1
+1 6 IJ-2
+6 3 RD-3
+4 6 RF-2
+7 0 RF-1
+1 7 ST-2
+7 6 RF-2
+0 8 FR-1
+1 8 IJ-2
+8 3 WR-4
+4 8 RF-2
+6 8 UK-3
+0 9 WR-1
+1 9 WR-2
+0 10 FR-1
+1 10 UK-2
+

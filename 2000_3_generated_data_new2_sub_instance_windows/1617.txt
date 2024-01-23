@@ -1,0 +1,53 @@
+16
+MP*-schtasks.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9CE0.tmp
+MF-C:\ServerComponenthostNet\z3dzg.bat
+MF-C:\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928.csv
+MF-C:\Users\admin\AppData\Local\Temp\de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+SO-42.021.871.591
+MF-C:\Program Files\Bandizip\Bandizip
+MP*-xcopy.exe
+TP*-powershell.exe
+MP-0IuqaJTsFmOw8k4.exe
+MF-\Users\admin\AppData\Local\Temp\D18C.exe
+MP*-vlc.exe
+SF-C:\Users\User\appdata\local\temp\deep
+MF-\T1106.exe
+MF-C:\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539.doc
+MF-C:\Users\admin\AppData\Local\Temp\TRUST
+34
+0 1 WR-1
+0 2 CD-1
+0 3 WR-1
+0 4 RD-1
+0 5 ST-1
+0 6 WR-1
+0 7 FR-1
+7 1 RD-2
+7 2 WR-2
+7 3 RD-2
+7 4 RD-2
+7 5 ST-2
+7 6 WR-2
+0 8 FR-1
+8 1 WR-3
+8 2 RD-3
+8 3 RD-3
+8 4 WR-3
+5 8 RF-2
+8 6 EX-3
+7 8 IJ-2
+0 9 UK-1
+7 10 RD-2
+8 10 WR-3
+11 2 EX-4
+11 3 WR-4
+11 4 WR-4
+11 5 ST-4
+11 6 WR-4
+8 11 UK-3
+7 12 WR-2
+7 13 WR-2
+7 14 WR-2
+7 15 WR-2
+

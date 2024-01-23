@@ -1,0 +1,51 @@
+15
+MP*-python
+SF-secret.c
+SF-user.r
+MF-target.example.c
+MF-image.php
+MP-grep
+SF-2017.pl
+MP-less
+TF-s.c
+SF-atomic.sh
+SO-192.168.10.128
+MP*-more
+MP*-tac
+MF-passwd.zip
+MP*-rsync
+33
+0 1 WR-1
+0 2 RD-1
+0 3 CD-1
+0 4 WR-1
+0 5 FR-1
+5 1 WR-1
+5 2 WR-1
+5 3 EX-1
+5 4 RD-1
+0 6 WR-1
+5 6 WR-1
+0 7 UK-1
+5 8 WR-1
+5 9 RD-1
+10 5 RF-1
+11 1 RD-2
+11 2 WR-2
+11 3 WR-2
+11 4 RD-2
+11 6 WR-2
+11 8 WR-2
+11 9 RD-2
+11 10 ST-2
+12 2 WR-3
+12 3 RD-3
+12 4 RD-3
+5 12 UK-1
+11 13 EX-2
+14 6 WR-4
+14 8 RD-4
+14 9 WR-4
+10 14 RF-2
+11 14 UK-2
+

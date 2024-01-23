@@ -1,0 +1,51 @@
+14
+MP*-less
+MF-ret.c
+SO-192.168.1.1
+SO-atomic@target.example
+MF-da-ks.cfg
+MP*-ls
+MF-ufw.c
+MF-flag3.txt
+MF-Users.tar.gz
+MP*-uname
+MP-cat
+MP*-cat
+MF-logrotate.c
+TP-cat
+34
+0 1 EX-1
+2 0 RF-1
+0 3 ST-1
+0 4 RD-1
+0 5 FR-1
+5 1 EX-2
+2 5 RF-2
+3 5 RF-1
+5 4 WR-2
+0 6 WR-1
+5 6 RD-2
+5 7 WR-2
+5 8 WR-2
+9 1 WR-3
+2 9 RF-3
+3 9 RF-1
+9 4 WR-3
+5 9 UK-2
+10 1 EX-3
+10 2 ST-3
+10 3 ST-3
+10 4 RD-3
+10 6 EX-3
+10 7 UK-3
+2 11 RF-3
+3 11 RF-1
+11 4 RD-4
+11 6 WR-4
+11 8 EX-4
+11 12 WR-4
+13 4 WR-4
+13 6 RD-4
+13 8 RD-4
+11 13 UK-4
+

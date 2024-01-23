@@ -1,0 +1,211 @@
+53
+MP*-vLocalServerSetup.tmp
+SO-hxxp://avirona.ru/7-ZIP.html
+MF-saves.exe
+TP*-ns9C62.tmp
+MP-conhost.exe
+MF-\Windows\System32\wusa.exe
+SF-C:\Users\Public\Videos\videotv
+MP-OriginalBuild.exe.exe 
+TF-\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+MF-\Users\admin\AppData\Local\Temp\is-BOFPB.tmp
+MF-C:\Users\admin\Desktop\Screenshot
+MF-C:\Users\admin\AppData\Local\Temp\Enquiry
+MF-C:\Users\admin\AppData\Local\Temp\b79gpxd8
+MP-bcdedit.exe
+MF-order.zip
+TP-wmic.exe
+MP-444444.png.png.exe 
+TP-CCleanerBugReport.exe
+TP-vlliugwu.exe 
+MP-jww825a.exe 
+TP-GLJBD24.tmp
+TP*-Перечень юридических лиц и физических лиц в рамках уклонения, сумы уклонения.exe 
+MF-\Users\admin\AppData\Local\Temp\keygen.exe
+SF-C:\Windows\System32\regsvr32.exe
+MP-wusa.exe
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+SF-C:\Users\admin\AppData\Local\Temp\tmp99E0.tmp
+TP-cvtres.exe
+TF-\Windows\System32\wscript.exe
+MP-d6405410.exe
+MP-Protected.exe
+TP-NdSvr.exe
+MF-\Windows\System32\diskshadow.exe
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+MF-\Users\User\8527.ico.vb
+MF-Desktop\Skype.exe
+MP*-oldplayer.exe 
+MP-C3B1.exe
+MP-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+MF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv.bat
+MP-takeown.exe
+TP-360TS_Setup.exe
+MP-ns9EC8.tmp 
+TF-1.txt
+SF-C:\Users\admin\AppData\Local\Temp\server.exe
+MF-.\ExternalPayloads\T1551.006_timestomp.txt
+MP-ns996E.tmp
+MP-jww825a.tmp 
+MF-chrome.m
+MF-C:\Program files\appdata\local\temp\14612.bmp
+TF-C:\Users\Public\Music\tvplaylist.mov
+MF-RemoteCertTrust.ps1
+MP-@WanaDecryptor@.exe 
+155
+0 1 ST-1
+0 2 WR-1
+0 3 IJ-1
+1 3 RF-1
+3 2 RD-2
+0 4 FR-1
+1 4 RF-1
+4 2 WR-2
+3 4 IJ-2
+0 5 RD-1
+3 5 RD-2
+4 5 WR-2
+0 6 WR-1
+3 6 WR-2
+4 6 RD-2
+0 7 FR-1
+1 7 RF-1
+7 2 EX-2
+3 7 IJ-2
+7 5 WR-2
+7 6 RD-2
+0 8 EX-1
+3 8 EX-2
+4 8 WR-2
+7 8 WR-2
+0 9 CD-1
+3 9 UK-2
+0 10 RD-1
+4 10 WR-2
+7 10 RD-2
+4 11 WR-2
+7 11 CD-2
+4 12 WR-2
+7 12 UK-2
+4 13 FR-2
+13 5 WR-2
+13 6 RD-2
+13 8 RD-2
+13 10 WR-2
+13 11 RD-2
+4 14 UK-2
+15 5 UK-2
+16 6 CD-2
+16 8 EX-2
+16 10 UK-2
+17 8 WR-2
+17 11 WR-2
+13 17 IJ-2
+18 8 RD-2
+18 11 EX-2
+13 18 IJ-2
+17 18 IJ-2
+19 11 WR-2
+13 19 UK-2
+20 11 WR-2
+17 20 IJ-2
+18 20 IJ-2
+21 11 WR-3
+17 21 IJ-2
+18 21 IJ-2
+20 21 IJ-2
+17 22 EX-2
+18 22 WR-2
+20 22 RD-2
+21 22 WR-3
+17 23 CD-2
+18 23 EX-2
+20 23 UK-2
+17 24 FR-2
+18 24 IJ-2
+21 24 IJ-3
+24 22 RD-3
+17 25 IJ-2
+18 25 IJ-2
+21 25 IJ-3
+25 22 WR-3
+24 25 UK-3
+17 26 RD-2
+18 26 RD-2
+21 26 WR-3
+17 27 FR-2
+18 27 UK-2
+21 28 WR-3
+21 29 IJ-3
+29 22 WR-3
+29 26 RD-3
+29 28 RD-3
+21 30 FR-3
+30 22 WR-3
+30 26 WR-3
+30 28 WR-3
+29 30 UK-3
+21 31 IJ-3
+31 22 WR-3
+31 26 WR-3
+31 28 WR-3
+31 32 WR-3
+31 33 ST-4
+31 34 EX-3
+31 35 RD-3
+36 26 RD-4
+36 28 RD-4
+31 36 IJ-3
+36 32 WR-4
+33 36 RF-4
+36 34 EX-4
+36 35 EX-4
+37 28 EX-4
+31 37 IJ-3
+37 32 RD-4
+37 33 ST-4
+37 34 WR-4
+37 35 UK-4
+38 28 WR-4
+31 38 UK-3
+36 39 EX-4
+40 32 RD-4
+33 40 RF-4
+40 34 RD-4
+36 40 UK-4
+41 32 WR-4
+41 33 ST-4
+41 34 WR-4
+41 39 WR-4
+42 32 WR-4
+42 33 ST-4
+42 34 RD-4
+42 39 WR-4
+41 42 IJ-4
+41 43 RD-4
+42 43 WR-4
+41 44 RD-4
+42 44 WR-4
+41 45 EX-4
+42 45 RD-4
+46 39 WR-4
+41 46 IJ-4
+42 46 UK-4
+47 39 WR-4
+41 47 IJ-4
+47 43 EX-4
+47 44 EX-4
+47 45 RD-4
+41 48 WR-4
+47 48 WR-4
+41 49 RD-4
+47 49 EX-4
+41 50 WR-4
+47 50 WR-4
+41 51 WR-4
+47 51 WR-4
+52 43 RD-4
+52 44 WR-4
+52 45 EX-4
+47 52 UK-4
+

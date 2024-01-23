@@ -1,0 +1,62 @@
+20
+MP*-n4054738.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+MP*-rundll32.exe 
+TF-\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64.dll
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+MP-mstsca.exe 
+MP*-TrustedInstaller.exe
+MP-Setup.bin.exe 
+MF-C:\Users\Public\coinmarketcap\1.bat
+TF-test.png
+MP-New Client.exe
+MP*-Cleaner.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+TF-\WINDOWS\system32\scrobj.dll
+MP-help.exe
+TP-default-browser-agent.exe
+MF-\Microsoft\Edge\Application\msedge.exe
+MP-AdobeARM.exe
+MP-v6621467.exe
+TP-Reg.exe
+39
+0 1 ST-1
+0 2 FR-1
+2 1 ST-2
+0 3 EX-1
+2 3 RD-2
+0 4 WR-1
+2 4 EX-2
+0 5 FR-1
+1 5 RF-1
+2 5 UK-2
+0 6 FR-1
+6 1 ST-3
+6 3 WR-3
+6 4 WR-3
+0 7 FR-1
+1 7 RF-1
+7 3 WR-3
+7 4 RD-3
+6 7 UK-3
+0 8 RD-1
+0 9 WR-1
+0 10 UK-1
+1 11 RF-1
+11 3 WR-4
+11 4 EX-4
+11 8 WR-4
+11 9 RD-4
+11 12 ST-4
+11 13 RD-4
+14 4 WR-4
+14 8 RD-4
+14 9 UK-4
+15 8 UK-4
+11 16 UK-4
+12 17 RF-4
+17 13 UK-4
+12 18 RF-4
+19 12 ST-4
+18 19 UK-4
+

@@ -1,0 +1,75 @@
+18
+MP*-id
+TP-bash
+TF-2017.pl
+MP-cat
+MP-find
+SF-subprocess.c
+MP*-cat
+MF-Discovery.sh
+MF-image.php
+TP*-less
+MF-1.txt
+TF-ufw.c
+TP*-cat
+SF-T1070.006-modification.txt
+MF-password-hash.sh
+TP-tee
+MP-cat
+TP-cat
+54
+0 1 IJ-1
+0 2 RD-1
+1 2 WR-1
+0 3 FR-1
+1 3 UK-1
+0 4 FR-1
+4 2 WR-1
+0 5 CD-1
+4 5 WR-1
+0 6 FR-1
+6 2 RD-2
+6 5 WR-2
+0 7 WR-1
+4 7 WR-1
+6 7 WR-2
+0 8 WR-1
+4 8 WR-1
+6 8 WR-2
+0 9 IJ-1
+9 2 WR-3
+4 9 IJ-1
+9 5 RD-3
+6 9 IJ-2
+9 7 WR-3
+9 8 WR-3
+0 10 WR-1
+4 10 UK-1
+6 11 WR-2
+9 11 RD-3
+12 2 RD-4
+12 5 RD-4
+6 12 IJ-2
+12 7 RD-4
+12 8 EX-4
+9 12 IJ-3
+12 11 WR-4
+6 13 RD-2
+9 13 WR-3
+12 13 RD-4
+6 14 EX-2
+9 14 RD-3
+12 14 WR-4
+15 5 WR-4
+6 15 IJ-2
+15 7 RD-4
+15 8 RD-4
+9 15 IJ-3
+15 11 RD-4
+12 15 UK-4
+6 16 FR-2
+16 7 CD-4
+16 8 UK-4
+17 7 CD-4
+9 17 UK-3
+

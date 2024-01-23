@@ -1,0 +1,78 @@
+22
+MP-awk
+MP*-netstat
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+SF-target.example.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-CleaingScript.sh
+TP-pr
+MP*-cat
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-password-hash.sh
+MP*-paste
+TP*-sed
+MF-secret.c
+TP-sed
+SF-common.txt
+MF-cron.h
+MP-dd
+TP-cat
+TP-reboot
+TP-cat
+MF-logrotate.c
+TF-inetd.c
+53
+0 1 FR-1
+2 0 RF-1
+2 1 RF-1
+0 3 WR-1
+1 3 RD-1
+0 4 ST-1
+4 1 RF-1
+0 5 RD-1
+1 5 WR-1
+0 6 UK-1
+1 7 FR-1
+2 7 RF-2
+7 3 RD-2
+7 4 ST-2
+7 5 WR-2
+8 1 RF-1
+7 8 ST-2
+1 9 EX-1
+7 9 RD-2
+1 10 FR-1
+10 2 ST-3
+10 3 WR-3
+10 4 ST-3
+10 5 EX-3
+10 8 ST-3
+10 9 EX-3
+1 11 IJ-1
+11 2 ST-4
+11 3 WR-4
+11 4 ST-4
+11 5 WR-4
+7 11 IJ-2
+8 11 RF-2
+11 9 UK-4
+7 12 WR-2
+10 12 UK-3
+13 3 EX-4
+4 13 RF-1
+13 5 UK-4
+7 14 RD-2
+7 15 CD-2
+7 16 UK-2
+17 8 ST-4
+17 14 CD-4
+17 15 RD-4
+8 18 RF-2
+18 14 WR-4
+18 15 EX-4
+17 18 UK-4
+19 14 WR-4
+19 15 RD-4
+19 20 WR-4
+19 21 UK-4
+

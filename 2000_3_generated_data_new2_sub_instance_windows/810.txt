@@ -1,0 +1,49 @@
+12
+MP*-keygen.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+SF-C:\savesdllNetdhcp\System.exe
+MF-\Windows\System32\notepad.exe
+MF-C:\Users\admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+TP*-ns99EC.tmp
+MP-RtkBtManServ.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+MP*-nsA395.tmp
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+MF-\Users\admin\AppData\Local\Temp\C3B1.exe
+MP*-words[1].txt.exe
+34
+1 0 RF-1
+0 2 RD-1
+0 3 WR-1
+0 4 EX-1
+0 5 FR-1
+1 5 RF-2
+5 2 WR-2
+5 3 WR-2
+5 4 WR-2
+0 6 FR-1
+6 1 ST-2
+6 2 WR-2
+6 3 WR-2
+6 4 RD-2
+5 6 IJ-2
+0 7 ST-1
+5 7 ST-2
+7 6 RF-2
+0 8 FR-1
+1 8 RF-2
+8 2 WR-3
+8 3 WR-3
+8 4 WR-3
+5 8 IJ-2
+6 8 UK-2
+9 0 RF-1
+9 5 RF-2
+0 10 WR-1
+5 10 WR-2
+11 1 ST-4
+11 2 RD-4
+11 3 RD-4
+11 4 EX-4
+5 11 UK-2
+

@@ -1,0 +1,68 @@
+19
+MP*-paste
+TP-tee
+SF-art.sh
+MF-password-hash.sh
+MF-anaconda-ks.cfg
+MF-user.r
+MP-ifconfig
+SO-192.168.2.102
+MP-find
+TF-data.zip
+MP*-cat
+MF-lighttpd.c
+SF-lighttpd.c
+MF-data.zip
+TP*-nl
+TP-sed
+TP*-sed
+SF-shell.cgi
+MP-sudo
+46
+0 1 FR-1
+0 2 RD-1
+1 2 WR-1
+0 3 RD-1
+1 3 WR-1
+0 4 WR-1
+1 4 WR-1
+0 5 WR-1
+1 5 CD-1
+0 6 FR-1
+1 6 IJ-1
+6 2 WR-1
+6 3 WR-1
+6 4 WR-1
+6 5 EX-1
+0 7 ST-1
+1 7 ST-1
+7 6 RF-1
+0 8 UK-1
+1 9 WR-1
+6 9 WR-1
+1 10 FR-1
+10 2 RD-2
+10 3 RD-2
+10 4 WR-2
+10 5 RD-2
+7 10 RF-1
+10 9 UK-2
+1 11 WR-1
+6 11 RD-1
+6 12 RD-1
+6 13 WR-1
+14 4 RD-3
+14 5 WR-3
+6 14 UK-1
+15 5 RD-3
+15 7 ST-3
+15 11 WR-3
+15 12 UK-3
+16 7 ST-4
+16 11 CD-4
+16 13 WR-4
+16 17 CD-4
+18 11 WR-4
+18 13 WR-4
+16 18 UK-4
+

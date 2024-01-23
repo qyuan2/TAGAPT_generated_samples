@@ -1,0 +1,78 @@
+21
+MP*-sed
+SO-192.168.10.129
+MF-sysctl.c
+TP-nl
+MP-rev
+SO-192.168.2.102
+MP-grep
+SO-192.168.10.128
+MP-bash
+MP*-sh
+MF-2017.pl
+MP*-cp
+MF-e2.c
+MP-less
+MP-uname
+MP*-bash
+MF-secret.c
+MF-secret.c
+TF-T1574.006.c
+MF-syslog.c
+MP-less
+54
+0 1 ST-1
+0 2 CD-1
+0 3 IJ-1
+1 3 RF-1
+3 2 RD-1
+0 4 FR-1
+4 1 ST-1
+4 2 WR-1
+3 4 IJ-1
+5 0 RF-1
+5 3 RF-1
+5 4 RF-1
+0 6 FR-1
+1 6 RF-1
+6 2 EX-1
+3 6 IJ-1
+4 6 UK-1
+0 7 ST-1
+7 3 RF-1
+0 8 UK-1
+1 9 RF-1
+9 2 WR-2
+3 9 IJ-1
+5 9 RF-2
+9 7 ST-2
+3 10 WR-1
+9 10 WR-2
+1 11 RF-1
+11 2 WR-3
+3 11 IJ-1
+5 11 RF-3
+11 7 ST-3
+11 10 UK-3
+3 12 EX-1
+9 12 EX-2
+3 13 IJ-1
+13 5 ST-3
+7 13 RF-2
+9 13 UK-2
+14 5 ST-3
+14 7 ST-3
+14 12 RD-3
+5 15 RF-3
+7 15 RF-2
+15 12 EX-4
+14 16 RD-3
+15 16 WR-4
+14 17 WR-3
+15 17 WR-4
+14 18 RD-3
+15 18 UK-4
+14 19 WR-3
+20 12 WR-4
+14 20 UK-3
+

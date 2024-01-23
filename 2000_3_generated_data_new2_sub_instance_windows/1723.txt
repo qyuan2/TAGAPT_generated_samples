@@ -1,0 +1,85 @@
+28
+MP*-saves.exe
+TP-Dkeyauth.exe 
+MP-del.exe
+MF-C:\Program Files\CCleaner\CCleanerBugReport.exe
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+MF-nam10.safelinks.protection.outlook.c
+SF-C:\Users\admin\AppData\Local\Temp\ursnif
+MP*-firefox.exe 
+MF-C:\IDontExist
+MF-\Windows\System32\reg.exe
+MP-xnoobx.cc.exe 
+TF-C:\Edge.js
+MP*-jojo11.exe 
+MP-file.exe
+SF-%temp%\Windows_Defender_Verification.xml
+MF-C:\Edge.js
+TF-C:\Windows\System32X86\windowspowershell\v1
+MF-C:\Users\admin\AppData\Local\Temp\RtkBtManServ
+MF-\Users\admin\AppData\Local\Temp\is-R0T56.tmp\is-Q2MHB.tmp
+MP-BFB9.exe
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+SF-C:\Users\admin\AppData\Local\Temp\tmp91F1
+TF-C:\Users\admin\AppData\Local\Google\Chrome\User
+MP-WScript.exe
+TF-\Users\admin\AppData\Local\Temp\TeamViewer_Setup.exe
+SF-C:\Users\admin\AppData\Local\Temp\script.js
+TF-C:\Users\admin\AppData\Local\fvjhioojuu.vb
+TP-powershell.exe 
+54
+0 1 IJ-1
+0 2 UK-1
+1 3 EX-1
+1 4 ST-1
+1 5 RD-1
+1 6 RD-1
+1 7 FR-1
+7 3 WR-2
+7 4 ST-2
+7 5 WR-2
+7 6 WR-2
+1 8 RD-1
+7 8 WR-2
+1 9 WR-1
+7 9 WR-2
+1 10 IJ-1
+10 3 WR-2
+10 4 ST-2
+10 5 WR-2
+10 6 EX-2
+10 8 UK-2
+1 11 EX-1
+7 11 WR-2
+12 3 WR-3
+12 4 ST-3
+12 5 WR-3
+12 6 EX-3
+12 9 CD-3
+12 11 WR-3
+13 3 WR-3
+13 4 ST-3
+13 5 EX-3
+13 6 RD-3
+7 13 UK-2
+12 14 WR-3
+12 15 WR-3
+12 16 WR-3
+12 17 RD-3
+12 18 WR-3
+19 11 WR-3
+12 19 UK-3
+20 11 RD-4
+20 14 RD-4
+20 15 RD-4
+20 16 WR-4
+20 17 WR-4
+20 18 EX-4
+20 21 WR-4
+20 22 WR-4
+23 15 UK-4
+20 24 RD-4
+20 25 RD-4
+20 26 RD-4
+20 27 UK-4
+

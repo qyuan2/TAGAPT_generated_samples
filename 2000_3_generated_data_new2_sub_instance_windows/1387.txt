@@ -1,0 +1,172 @@
+44
+MP-wuauclt.exe
+MF-C:\Users\admin\AppData\Roaming
+MP-nsA317.tmp
+MP-Dkeyauth.exe 
+MP*-oneetx.exe
+MF-pitshopautopartsus.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MF-\Users\admin\AppData\Local\Temp\20af4c29ba1c8ced4a86fc73c0ad7b7c.exe
+MF-c:\windows\system32\calc
+TF-\Windows\system32\WerFault.exe
+TP-n4054738.exe
+TP-pr2.exe 
+MP-AnyDesk-a444ebcf.exe 
+MP-mstsca.exe 
+TP-DataSvcUtil.exe
+MP*-c9923098.exe
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+SO-test@corp.com
+MF-\Users\admin\AppData\Local\Temp\Ekstre.XLS.a
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MF-C:\Users\admin\AppData\Local\Temp\9215.tmp
+TF-C:\Users\admin\AppData\Local\Temp\EBDE
+TP*-rundll32.exe
+TF-Firefox\firefox.exe
+MP*-nsD0E9.tmp
+MF-C:\Users\Public\Pictures\deep-thoughted.ppt
+TF-C:\Users\admin\Desktop\readme
+MP-Ayuaey.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Fwd_
+MF-get.php
+MF-C:\Windows\system32\WerFault
+SF-C:\Users\admin\AppData\Local\Temp\is-A62RJ.tmp
+MF-C:\savesdllNetdhcp\dwm.exe
+MP-ytfovlym.exe
+MP-spnet_state.exe
+SO-10.0.0.00000
+MF-EXb2492.33244\5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe
+MP-nsC903.tmp
+TF-C:\Users\admin\Desktop\AIGeneratedRansomware.exe
+MF-pcalua.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\Reader_sl.exe
+SF-C:\Users\admin\AppData\Local\Temp\program2.py
+SF-C:\Users\admin\AppData\Local\Temp\spyeye
+MP-nscB9BA.tmp
+125
+0 1 RD-1
+0 2 FR-1
+2 1 RD-1
+0 3 FR-1
+3 1 WR-1
+2 3 UK-1
+0 4 FR-1
+4 1 EX-1
+0 5 EX-1
+4 5 RD-1
+6 0 RF-1
+6 4 RF-1
+0 7 WR-1
+4 7 WR-1
+0 8 WR-1
+4 8 RD-1
+0 9 RD-1
+4 9 WR-1
+0 10 FR-1
+10 1 WR-1
+4 10 IJ-1
+10 5 WR-1
+6 10 RF-1
+10 7 UK-1
+11 1 RD-1
+4 11 IJ-1
+11 5 WR-1
+6 11 RF-1
+11 8 RD-1
+11 9 WR-1
+4 12 FR-1
+12 5 WR-1
+6 12 RF-1
+12 8 WR-1
+12 9 WR-1
+11 12 IJ-1
+4 13 FR-1
+13 5 UK-1
+4 14 IJ-1
+6 14 RF-1
+14 8 RD-1
+14 9 RD-1
+11 14 UK-1
+15 6 ST-2
+15 8 WR-2
+15 9 WR-2
+16 12 RF-1
+15 16 ST-2
+12 17 ST-1
+15 17 ST-2
+12 18 RD-1
+15 18 WR-2
+19 12 RF-1
+19 15 RF-2
+12 20 RD-1
+15 20 WR-2
+12 21 RD-1
+15 21 EX-2
+12 22 FR-1
+15 22 IJ-2
+16 22 RF-2
+22 17 ST-3
+22 18 EX-3
+19 22 RF-3
+22 20 EX-3
+22 21 WR-3
+15 23 WR-2
+22 23 RD-3
+15 24 FR-2
+16 24 RF-2
+24 17 ST-4
+24 18 WR-4
+24 19 ST-4
+24 20 WR-4
+24 21 WR-4
+22 24 IJ-3
+24 23 WR-4
+15 25 EX-2
+22 25 WR-3
+24 25 EX-4
+22 26 WR-3
+24 26 WR-4
+27 17 ST-4
+27 18 RD-4
+19 27 RF-4
+27 20 RD-4
+27 21 RD-4
+22 27 UK-3
+24 28 EX-4
+24 29 WR-4
+24 30 RD-4
+24 31 EX-4
+24 32 WR-4
+33 23 WR-4
+24 33 UK-4
+34 25 WR-4
+34 26 WR-4
+34 28 WR-4
+34 29 WR-4
+34 30 RD-4
+34 31 WR-4
+34 32 WR-4
+34 35 ST-4
+34 36 WR-4
+37 28 EX-4
+37 29 EX-4
+37 30 WR-4
+37 31 WR-4
+37 32 WR-4
+37 35 ST-4
+37 36 EX-4
+34 38 WR-4
+37 38 WR-4
+34 39 RD-4
+37 39 WR-4
+34 40 RD-4
+37 40 WR-4
+34 41 RD-4
+37 41 WR-4
+34 42 WR-4
+37 42 WR-4
+34 43 FR-4
+35 43 RF-4
+43 36 WR-4
+37 43 UK-4
+

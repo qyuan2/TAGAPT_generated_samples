@@ -1,0 +1,93 @@
+24
+MP*-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MF-C:\Users\admin\Desktop\HxDSetup.exe
+MP-EXCEL.EXE
+MF-C:\Windows\system32\WerFault.exe
+MF-Downloader.zip
+TP-Entry.exe 
+SF-C:\Users\admin\AppData\Local\Temp\vLocalServerSetup.exe
+MF-\service-list.txt
+TP-Psiphon.exe
+TP-ExplorerSuite.tmp
+MP*-DllHost.exe
+MF-full.exe
+MP-KMSpico_setup.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+MP*-ns9E4A.tmp
+MP-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+MP-wmpnscfg.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmp493A.tmp
+MF-C:\Users\admin\AppData\Local\Temp\sandbox
+MP-ns967A.tmp
+MP*-dkeyauth.exe 
+SO-hxxp://motoristo[.]ru/get.php'))|powershell
+MP-Bandizip.exe
+66
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 EX-1
+2 3 WR-1
+0 4 WR-1
+2 4 UK-1
+0 5 FR-1
+5 1 EX-1
+5 3 WR-1
+0 6 WR-1
+5 6 RD-1
+0 7 WR-1
+5 7 WR-1
+0 8 IJ-1
+8 1 RD-1
+8 3 WR-1
+5 8 UK-1
+0 9 IJ-1
+9 1 WR-1
+9 3 RD-1
+9 6 WR-1
+9 7 CD-1
+0 10 FR-1
+10 1 WR-2
+10 3 WR-2
+10 6 WR-2
+10 7 WR-2
+9 10 IJ-1
+9 11 WR-1
+10 11 WR-2
+12 3 WR-2
+12 6 EX-2
+12 7 RD-2
+9 12 IJ-1
+10 12 UK-2
+9 13 ST-3
+9 14 ST-3
+15 6 WR-3
+15 7 RD-3
+9 15 IJ-1
+15 11 RD-3
+13 15 RF-3
+15 14 ST-3
+16 6 WR-3
+16 7 WR-3
+9 16 IJ-1
+16 11 UK-3
+17 7 WR-3
+9 17 IJ-1
+17 13 ST-3
+14 17 RF-3
+15 17 UK-3
+9 18 CD-1
+9 19 EX-1
+20 13 ST-3
+20 14 ST-3
+20 18 UK-3
+13 21 RF-3
+14 21 RF-3
+21 19 WR-4
+21 22 ST-4
+13 23 RF-3
+14 23 RF-3
+23 19 CD-4
+21 23 UK-4
+

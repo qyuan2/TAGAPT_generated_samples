@@ -1,0 +1,52 @@
+18
+MP*-grep
+MF-Users.tar.gz
+MP*-find
+MP-more
+MF-apache2.c
+MP-tail
+MF-raj.txt
+MF-raft-medium-directories.txt
+MP*-tee
+MF-target.example.c
+MP-test
+MP-chmod 
+MP-cat
+MP*-bash
+MF-flag3.txt
+MF-e2.c
+MF-target.example.c
+MP-ls
+31
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+0 3 FR-1
+3 1 RD-2
+0 4 EX-1
+2 4 UK-2
+0 5 FR-1
+5 1 RD-2
+3 5 UK-2
+0 6 WR-1
+0 7 RD-1
+0 8 FR-1
+8 1 WR-3
+8 6 WR-3
+8 7 WR-3
+0 9 WR-1
+8 9 WR-3
+0 10 UK-1
+11 1 CD-3
+11 6 UK-3
+12 7 WR-3
+8 12 UK-3
+13 7 WR-4
+13 9 RD-4
+13 14 CD-4
+13 15 WR-4
+13 16 WR-4
+17 7 WR-4
+17 9 WR-4
+13 17 UK-4
+

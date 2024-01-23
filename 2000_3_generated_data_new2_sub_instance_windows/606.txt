@@ -1,0 +1,112 @@
+27
+MP*-a6302410.exe
+MF-\Users\admin\AppData\Local\Temp\819cebc553434a1b12318d80f63ebd96.exe
+MF-RAT\test.exe
+MF-\Users\admin\AppData\Local\Temp\Xenos_2.3.2.7z
+MF-C:\Users\admin\AppData\Local\Temp\Player666
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+MP*-ExplorerSuite.exe
+MP*-pktmon.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9423.tmp
+MP-1.sfx.exe 
+MF-C:\Users\admin\AppData\Local\Temp\script.ps1
+MF-C:\Users\admin\Desktop\readme
+MP-certutil
+MF-\IDontExist.dll
+TP-cipher.exe
+TP-RegAsm.exe
+TP-operasetup.exe
+MP-pr2.exe 
+SO-hxxp://155.138.252[.]221/get.php
+MP*-main_bin.exe 
+MP-T1027.exe
+TF-\Windows\Microsoft.Net\Framework\v4.0.30319\MSBuild.exe
+MP-KMSpico_setup.exe
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+TF-\Users\admin\AppData\Local\Temp\analyssifilename.doc
+MF-\Users\admin\AppData\Local\Temp\207aa4515d\oneetx.exe
+82
+0 1 RD-1
+0 2 RD-1
+0 3 WR-1
+0 4 RD-1
+5 0 RF-1
+6 0 RF-1
+0 7 FR-1
+7 1 WR-2
+7 2 WR-2
+7 3 RD-2
+7 4 EX-2
+5 7 RF-2
+6 7 RF-2
+0 8 FR-1
+8 1 WR-3
+8 2 WR-3
+8 3 EX-3
+8 4 WR-3
+5 8 RF-3
+8 6 ST-3
+0 9 RD-1
+7 9 WR-2
+8 9 WR-3
+0 10 FR-1
+10 1 CD-3
+10 2 WR-3
+10 3 WR-3
+10 4 WR-3
+10 5 ST-3
+6 10 RF-3
+8 10 UK-3
+7 11 WR-2
+7 12 WR-2
+13 3 EX-3
+13 4 WR-3
+5 13 RF-3
+6 13 RF-3
+13 9 WR-3
+13 11 WR-3
+13 12 EX-3
+7 14 EX-2
+13 14 WR-3
+15 5 ST-3
+15 6 ST-3
+7 15 IJ-2
+15 9 RD-3
+15 11 RD-3
+15 12 WR-3
+13 15 IJ-3
+15 14 CD-3
+6 16 RF-3
+7 16 IJ-2
+16 9 EX-3
+16 11 WR-3
+16 12 RD-3
+13 16 UK-3
+7 17 UK-2
+18 9 WR-3
+18 11 WR-3
+18 12 EX-3
+18 14 RD-3
+15 18 IJ-3
+19 15 RF-3
+19 18 RF-3
+20 11 WR-4
+20 12 EX-4
+20 14 WR-4
+15 20 IJ-3
+20 19 ST-4
+21 11 CD-4
+21 12 WR-4
+21 14 RD-4
+15 21 IJ-3
+18 21 UK-3
+15 22 WR-3
+20 22 WR-4
+23 14 UK-4
+24 15 RF-3
+24 20 RF-4
+15 25 WR-3
+20 25 WR-4
+20 26 UK-4
+

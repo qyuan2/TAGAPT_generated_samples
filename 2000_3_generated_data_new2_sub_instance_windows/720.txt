@@ -1,0 +1,79 @@
+19
+MP*-OUTLOOK.EXE 
+MP-mofcomp.exe
+MF-TEMP\key.log
+MF-Switch.m
+SF-C:\Windows\System32\msdtc.exe
+MP*-z0200670.exe
+SO-https://clients2.google.com/cr/report
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+MF-C:\Users\Public\coinmarketcap\1.bat
+MF-\Users\admin\Desktop\softwarelagswitchc.exe
+SO-hxxp://157.245.99[.]132/get.php
+MF-\Users\admin\Desktop\Dkx0i5ipj.README.txt
+SF-c:\Windows\system32\vssadmin.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+TF-C:\Users\admin\AppData\Roaming\1.bat
+TP*-default-browser-agent.exe
+TP*-javaw.exe 
+MP-netsh.exe
+MP-AppLaunch.exe
+57
+0 1 FR-1
+0 2 RD-1
+1 2 UK-1
+0 3 EX-1
+0 4 EX-1
+0 5 FR-1
+5 3 WR-2
+5 4 WR-2
+6 0 RF-1
+6 5 RF-2
+0 7 EX-1
+5 7 EX-2
+0 8 WR-1
+5 8 RD-2
+0 9 RD-1
+5 9 RD-2
+5 10 ST-2
+5 11 WR-2
+5 12 WR-2
+5 13 ST-2
+5 14 WR-2
+5 15 IJ-2
+6 15 RF-3
+15 7 CD-3
+15 8 RD-3
+15 9 WR-3
+10 15 RF-2
+15 11 RD-3
+15 12 RD-3
+15 13 ST-3
+15 14 WR-3
+16 6 ST-4
+16 7 WR-4
+16 8 WR-4
+16 9 WR-4
+16 10 ST-4
+16 11 RD-4
+16 12 RD-4
+13 16 RF-3
+16 14 WR-4
+15 16 UK-3
+17 7 WR-4
+17 8 EX-4
+17 9 CD-4
+10 17 RF-2
+17 11 EX-4
+17 12 WR-4
+17 13 ST-4
+17 14 WR-4
+18 8 RD-4
+18 9 WR-4
+10 18 RF-2
+18 11 WR-4
+18 12 WR-4
+18 13 ST-4
+18 14 RD-4
+17 18 UK-4
+

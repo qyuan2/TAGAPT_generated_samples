@@ -1,0 +1,65 @@
+20
+MP*-bitsadmin.exe
+MF-C:\Windows\System32\runas
+SF-C:\Users\admin\AppData\Local\Temp\phish_alert_sp2_2
+SF-C:\Browserweb\csrss
+MP-updater.exe
+TP*-shun2463.txt.exe 
+TF-C:\Users\admin\AppData\Local\Temp\test
+MF-C:\Users\admin\AppData\Local\Temp\Rar
+MP-1.sfx.exe 
+SF-C:\Users\Public\Videos\Sample Videos\lsass
+MP-ipconfig.exe
+SF-%temp%\Windows_Defender_Cleanup.xml
+MF-\Users\admin\AppData\Local\Temp\SecuriteInfo.com.PUA.Win32.XchouWallpaper.B.component.8575.4442.exe
+SF-C:\Users\admin\AppData\Local\Temp\system_file
+MF-.\T1221\src\Calculator.doc
+MP*-test de fdp.exe 
+MF-097.90.exe
+MF-C:\Users\admin\AppData\Local\Temp\RE_PENDING
+MF-C:\Users\admin\AppData\Local\Temp\putty
+MP*-863e7c22c771e4005197ae28363584f8.exe 
+42
+0 1 RD-1
+0 2 WR-1
+0 3 WR-1
+0 4 UK-1
+5 1 WR-2
+5 2 RD-2
+5 3 WR-2
+5 6 RD-2
+5 7 WR-2
+8 2 WR-2
+8 3 WR-2
+5 8 IJ-2
+8 6 RD-2
+8 7 WR-2
+5 9 EX-2
+8 9 RD-2
+10 2 RD-2
+10 3 WR-2
+5 10 UK-2
+8 11 RD-2
+8 12 WR-2
+8 13 WR-2
+8 14 EX-2
+15 6 CD-3
+15 7 EX-3
+15 9 RD-3
+15 11 RD-3
+15 12 RD-3
+15 13 RD-3
+15 14 WR-3
+8 16 EX-2
+15 16 WR-3
+8 17 CD-2
+15 17 WR-3
+8 18 WR-2
+15 18 EX-3
+19 9 RD-4
+19 11 WR-4
+19 12 WR-4
+19 13 WR-4
+19 14 WR-4
+15 19 UK-3
+

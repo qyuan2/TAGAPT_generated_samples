@@ -1,0 +1,70 @@
+20
+MP*-nsA19D.tmp
+SO-hxxp://avirona.ru/7-ZIP.html
+TP-installd.exe
+MP-jww825a.tmp
+MF-Userinit.exe
+TP-SearchIndexer.exe
+MP-xcopy.exe
+MF-Kfc.vb
+MP*-icacls.exe
+MF-C:\Program Files\P E Analytics Pvt Ltd\PEPlus\PEPlusLauncher_V2.exe
+MF-\Users\Public\Music\mediatv.mov
+MF-.\test.ps1
+TP-RegDll.x86.exe
+MP*-taskdl.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+SF-C:\savesdllNetdhcp\System.exe
+MP-nsA317.tmp
+MP*-GUP.exe
+MF-\Users\admin\AppData\Local\Temp\B47C.exe
+47
+0 1 ST-1
+0 2 FR-1
+1 2 RF-1
+0 3 FR-1
+3 1 ST-1
+2 3 IJ-1
+0 4 WR-1
+2 4 RD-1
+3 4 RD-1
+5 1 ST-1
+2 5 IJ-1
+3 5 IJ-1
+5 4 UK-1
+6 1 ST-1
+2 6 IJ-1
+3 6 UK-1
+2 7 RD-1
+1 8 RF-1
+2 8 IJ-1
+8 7 WR-2
+2 9 WR-1
+8 9 CD-2
+2 10 WR-1
+8 10 WR-2
+2 11 WR-1
+8 11 RD-2
+12 7 UK-2
+8 13 FR-2
+13 9 RD-3
+13 10 WR-3
+13 11 WR-3
+8 14 ST-2
+14 13 RF-2
+8 15 FR-2
+15 9 UK-3
+8 16 WR-2
+13 16 WR-3
+8 17 FR-2
+17 10 WR-3
+17 11 CD-3
+13 17 UK-3
+8 18 FR-2
+18 10 WR-4
+18 11 WR-4
+18 14 ST-4
+18 16 EX-4
+18 19 UK-4
+

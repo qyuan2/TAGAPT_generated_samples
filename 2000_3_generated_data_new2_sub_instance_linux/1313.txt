@@ -1,0 +1,182 @@
+44
+MP-grep
+MF-target.example.c
+MP-paste
+MF-raj.txt
+SF-www.google.c
+TP-dd
+SF-resolv.c
+TF-robots.txt
+TF-linux.txt
+MP*-sed
+SO-192.168.159.128
+SO-192.168.47.134:4444
+MP-sh
+MF-victim-shred.txt
+MP-curl
+MF-at.a
+MF-Discovery.sh
+TP-ssh
+MP-ls
+TP-awk
+MF-access.htm
+SO-192.168.1.1
+SO-192.168.1.1
+MP-netstat
+TF-art.sh
+TF-inetd.c
+MP-bash
+MP-cat
+TP*-less
+SO-192.168.10.128
+TP*-uname
+TF-image.php
+MF-ron.a
+MF-target.example.c
+MF-password-hash.sh
+MP-nl
+MP-bash
+TP*-head
+MP-cat
+SF-T1070.006-modification.txt
+TP-sed
+TP-ls
+MP-grep
+TP-cat
+135
+0 1 WR-1
+0 2 FR-1
+2 1 EX-1
+0 3 RD-1
+2 3 RD-1
+0 4 RD-1
+2 4 RD-1
+0 5 UK-1
+2 6 RD-1
+2 7 RD-1
+2 8 UK-1
+9 1 WR-1
+9 3 RD-1
+9 4 WR-1
+9 6 RD-1
+9 7 WR-1
+9 10 ST-1
+11 9 RF-1
+12 3 EX-1
+12 4 WR-1
+12 6 WR-1
+12 7 UK-1
+9 13 RD-1
+14 4 WR-1
+14 6 UK-1
+9 15 WR-1
+9 16 WR-1
+9 17 IJ-1
+17 10 ST-1
+11 17 RF-1
+17 13 RD-1
+17 15 WR-1
+17 16 EX-1
+9 18 UK-1
+19 10 ST-1
+11 19 RF-1
+19 13 WR-1
+19 15 WR-1
+19 16 WR-1
+17 19 IJ-1
+17 20 RD-1
+19 20 WR-1
+21 17 RF-1
+19 21 ST-1
+22 17 RF-1
+19 22 ST-1
+23 13 RD-1
+23 15 WR-1
+23 16 UK-1
+17 24 WR-1
+19 24 RD-1
+17 25 RD-1
+19 25 WR-1
+17 26 FR-1
+19 26 IJ-1
+26 20 WR-1
+26 21 ST-1
+26 22 ST-1
+26 24 RD-1
+26 25 WR-1
+17 27 IJ-1
+19 27 IJ-1
+27 20 WR-1
+27 21 ST-1
+27 22 ST-1
+27 24 RD-1
+27 25 WR-1
+26 27 UK-1
+19 28 FR-1
+28 20 WR-2
+28 21 ST-2
+28 22 ST-2
+28 24 WR-2
+28 25 WR-2
+29 19 RF-1
+29 28 RF-2
+30 20 RD-3
+30 21 ST-3
+22 30 RF-2
+30 24 RD-3
+30 25 WR-3
+28 30 IJ-2
+29 30 RF-3
+28 31 RD-2
+30 31 WR-3
+28 32 WR-2
+30 32 CD-3
+28 33 WR-2
+30 33 EX-3
+28 34 WR-2
+30 34 WR-3
+35 25 RD-3
+28 35 IJ-2
+29 35 RF-3
+30 35 IJ-3
+35 31 RD-3
+35 32 WR-3
+35 33 RD-3
+35 34 RD-3
+28 36 IJ-2
+29 36 RF-3
+30 36 IJ-3
+36 31 WR-3
+36 32 CD-3
+36 33 EX-3
+36 34 EX-3
+35 36 UK-3
+28 37 IJ-2
+29 37 RF-4
+30 37 IJ-3
+37 31 WR-4
+37 32 WR-4
+37 33 WR-4
+37 34 RD-4
+28 38 FR-2
+29 38 RF-4
+30 38 IJ-3
+38 31 WR-4
+38 32 WR-4
+38 33 EX-4
+38 34 EX-4
+37 38 IJ-4
+30 39 WR-3
+37 39 WR-4
+38 39 EX-4
+30 40 UK-3
+41 31 WR-4
+41 32 WR-4
+41 33 EX-4
+41 34 WR-4
+37 41 UK-4
+42 32 UK-4
+43 33 RD-4
+43 34 WR-4
+38 43 UK-4
+

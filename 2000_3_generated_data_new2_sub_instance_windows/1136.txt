@@ -1,0 +1,43 @@
+14
+MP*-EQNEDT32.EXE
+MP-wbadmin.exe
+MF-1.doc
+MF-\Users\admin\AppData\Local\Temp\BFB9.exe
+SF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+MF-\Users\admin\AppData\Local\Temp\aafg31.exe
+MF-C:\Windows\System32\diskshadow
+SF-C:\MSOCache\All Users\wmpnetwk.exe
+SO-https://go.microsoft.com/fwlink/p/?LinkId=2124703
+MP*-Skype.exe 
+MF-%temp%\nanodump.x64.exe 
+MP*-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+MP-MadInjector\MadInjector.exe 
+MP*-ns9423.tmp 
+26
+0 1 FR-1
+0 2 WR-1
+1 2 EX-1
+0 3 UK-1
+1 4 RD-1
+1 5 WR-1
+1 6 RD-1
+1 7 RD-1
+1 8 ST-1
+1 9 FR-1
+9 2 UK-2
+1 10 RD-1
+1 11 FR-1
+11 4 RD-3
+11 5 RD-3
+11 6 WR-3
+11 7 CD-3
+11 8 ST-3
+11 10 WR-3
+12 4 UK-3
+13 5 WR-4
+13 6 RD-4
+13 7 EX-4
+8 13 RF-3
+13 10 WR-4
+11 13 UK-3
+

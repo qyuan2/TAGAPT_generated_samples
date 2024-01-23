@@ -1,0 +1,179 @@
+50
+MP-MicrosoftEdgeWebview2Setup.exe
+TP-msiexec.exe
+MF-C:\Windows\System32\control
+MP-default-browser-agent.exe
+MP-file.exe 
+MP-wbadmin.exe
+MF-C:\Users\admin\Downloads\MincedCrackexe_cyb3a
+SF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04.exe
+TP-DataSvcUtil.exe
+MP*-cronos.exe
+TP*-where.exe
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Network\mstsca.exe
+MP-cvtres.exe
+MF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64
+TP-jojo11.exe 
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\WsatConfig.exe
+MF-\Users\admin\Adobe\AdobeTray.exe
+SF-C:\Windows\System32\slui
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns929A.tmp
+MP-TrustedInstaller.exe
+MF-\Windows\system32\verclsid.exe
+MP*-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MP-WtHgie
+MF-C:\Program Files (x86)\GnuPG\bin\gpg
+MF-test.txt
+MF-\Users\Public\coinmarketcap\coinmarketcap.vb
+MF-PathToAtomicsFolder\T1090.003\src\Psiphon.bat
+SO-45.63.100.72
+SF-C:\Program Files\Mozilla Firefox\default-browser-agent.exe
+MP-NOTEPAD.EXE
+MF-fltmc.exe
+SO-test@corp.com
+MF-Userinit.exe
+MF-evil.txt
+TP*-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MP-DATOS DE ARCHIVOS No 7879746161364.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9510.tmp
+MF-C:\Users\admin\AppData\Local\Temp\oldplayer.exe
+MF-use.txt
+MP-TruffleSnout.exe
+MP-microsoft.workflow.compiler.exe
+MF-C:\Users\admin\AppData\Local\Temp\ExplorerSuite
+MF-Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64.sys
+MP-IEmode.exe 
+MF-%tmp%\T1106.exe
+MP-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+MP-ie_to_edge_stub.exe
+SF-C:\Users\admin\AppData\Local\Temp\Order
+SF-C:\Program Files\Microsoft\Skype for Desktop\Skype.exe
+MF-C:\Users\admin\Desktop\tasksche
+126
+0 1 IJ-1
+0 2 WR-1
+1 2 WR-1
+0 3 FR-1
+1 3 UK-1
+0 4 FR-1
+4 2 WR-1
+0 5 UK-1
+4 6 WR-1
+4 7 WR-1
+8 2 WR-1
+4 8 UK-1
+9 2 WR-1
+9 6 RD-1
+9 7 WR-1
+10 2 WR-2
+10 6 EX-2
+10 7 RD-2
+9 10 IJ-1
+9 11 CD-1
+10 11 RD-2
+12 2 UK-2
+9 13 WR-1
+10 13 WR-2
+14 6 CD-2
+14 7 WR-2
+9 14 IJ-1
+10 14 IJ-2
+14 11 WR-2
+14 13 RD-2
+9 15 WR-1
+10 15 RD-2
+14 15 RD-2
+9 16 WR-1
+10 16 EX-2
+14 16 CD-2
+9 17 RD-1
+10 17 WR-2
+14 17 WR-2
+9 18 WR-1
+10 18 EX-2
+14 18 RD-2
+9 19 FR-1
+10 19 IJ-2
+19 11 WR-2
+19 13 WR-2
+14 19 UK-2
+10 20 RD-2
+21 11 WR-3
+21 13 WR-3
+21 15 WR-3
+21 16 EX-3
+21 17 CD-3
+21 18 RD-3
+21 20 WR-3
+22 13 RD-3
+22 15 WR-3
+22 16 UK-3
+21 23 WR-3
+21 24 WR-3
+21 25 WR-3
+21 26 WR-3
+21 27 ST-3
+21 28 WR-3
+29 20 RD-3
+29 23 WR-3
+29 24 WR-3
+29 25 RD-3
+29 26 EX-3
+29 27 ST-3
+29 28 WR-3
+21 30 RD-3
+29 30 WR-3
+21 31 ST-3
+29 31 ST-4
+29 32 WR-3
+29 33 WR-3
+34 24 WR-4
+34 25 RD-4
+34 26 EX-4
+27 34 RF-3
+34 28 WR-4
+29 34 IJ-3
+34 30 EX-4
+31 34 RF-4
+34 32 WR-4
+34 33 WR-4
+35 25 EX-4
+35 26 WR-4
+27 35 RF-3
+35 28 RD-4
+35 30 UK-4
+29 36 WR-3
+34 36 EX-4
+29 37 RD-3
+34 37 RD-4
+29 38 WR-3
+34 38 WR-4
+29 39 FR-3
+39 31 ST-4
+39 32 WR-4
+39 33 WR-4
+34 39 UK-4
+40 31 ST-4
+40 32 WR-4
+40 33 WR-4
+40 36 RD-4
+40 37 WR-4
+40 38 EX-4
+40 41 WR-4
+40 42 WR-4
+43 33 UK-4
+40 44 WR-4
+45 36 EX-4
+45 37 WR-4
+45 38 RD-4
+45 41 EX-4
+45 42 RD-4
+45 44 WR-4
+46 36 EX-4
+46 37 UK-4
+40 47 RD-4
+45 47 EX-4
+40 48 RD-4
+45 48 UK-4
+40 49 UK-4
+

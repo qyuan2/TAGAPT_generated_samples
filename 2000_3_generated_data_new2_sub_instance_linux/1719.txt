@@ -1,0 +1,92 @@
+28
+MP*-df
+MF-backsup.sh
+SF-atomic.sh
+MP-cat
+SF-password-hash.sh
+TP-nl
+MP-bash 
+MP*-dpkg
+TF-Users.tar.gz
+TP-grep
+MP-awk
+MP*-sed
+MP-cat
+MF-CleaingScript.sh
+TP*-g++
+TP-sudo
+TF-victim-shred.txt
+TP-uname
+MP-bash
+SF-syslog.c
+MP-sh
+MF-passwd.zip
+SO-http://192.168.10.129/image.php?FUZZ=something
+TP-less
+MF-resolv.c
+MP-sh
+MF-passwd.zip
+SF-T1070.006-reference.txt
+61
+0 1 WR-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-1
+3 2 WR-1
+0 4 EX-1
+3 4 WR-1
+0 5 FR-1
+5 1 WR-1
+5 2 EX-1
+3 5 UK-1
+0 6 UK-1
+7 1 EX-2
+7 2 RD-2
+7 4 WR-2
+7 8 WR-2
+9 1 RD-2
+9 2 RD-2
+9 4 WR-2
+7 9 UK-2
+10 1 RD-2
+10 2 WR-2
+10 4 WR-2
+10 8 WR-2
+11 1 WR-3
+11 2 WR-3
+11 4 RD-3
+11 8 RD-3
+12 2 RD-3
+12 4 WR-3
+12 8 RD-3
+10 12 UK-2
+11 13 WR-3
+14 4 WR-4
+14 8 CD-4
+11 14 IJ-3
+14 13 WR-4
+15 8 UK-4
+11 16 WR-3
+14 16 WR-4
+11 17 IJ-3
+17 13 RD-4
+14 17 IJ-4
+17 16 WR-4
+11 18 FR-3
+18 13 WR-4
+14 18 UK-4
+11 19 WR-3
+17 19 EX-4
+11 20 FR-3
+20 13 UK-4
+11 21 RD-3
+17 21 WR-4
+17 22 ST-4
+23 16 WR-4
+17 23 IJ-4
+23 19 UK-4
+17 24 WR-4
+25 16 UK-4
+17 26 RD-4
+17 27 EX-4
+

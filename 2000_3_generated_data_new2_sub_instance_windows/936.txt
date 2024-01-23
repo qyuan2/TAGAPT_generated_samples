@@ -1,0 +1,53 @@
+16
+MP*-a6302410.exe
+TP-query.exe
+MP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+TF-rundll32.exe
+MP-CasPol.exe
+SF-C:\Users\admin\Desktop\APP
+MP-ExplorerSuite.exe
+TF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo
+SF-C:\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67.exe
+MP*-kkkkk.exe 
+MP*-prism-0.8-win32.exe 
+MP*-RegDll.x86.exe
+MP-NdSvr.exe
+MF-.\T1218.009\src\T1218.009.cs
+TF-windir\system32\mshta.exe
+MP-cmdkey.exe
+34
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 FR-1
+4 3 WR-1
+0 5 EX-1
+4 5 RD-1
+0 6 FR-1
+6 3 WR-1
+4 6 UK-1
+0 7 WR-1
+0 8 WR-1
+0 9 FR-1
+9 3 EX-2
+9 5 RD-2
+9 7 WR-2
+9 8 RD-2
+0 10 FR-1
+10 3 RD-3
+10 5 WR-3
+10 7 EX-3
+10 8 RD-3
+9 10 UK-2
+11 3 WR-4
+11 5 WR-4
+11 7 WR-4
+11 8 RD-4
+12 5 RD-4
+12 7 UK-4
+11 13 WR-4
+11 14 EX-4
+15 8 WR-4
+11 15 UK-4
+

@@ -1,0 +1,44 @@
+14
+MP*-head
+MF-1.zip
+TF-AutoSUID.sh
+SO-192.168.206.0
+SO-atomic@target.example
+MP*-dpkg
+MP-netstat
+MF-cron.a
+SF-victim-shred.txt
+MF-T1003.008.txt
+TF-v.c
+MP*-cat
+MP*-hostname
+TF-alertConfigField.php
+27
+0 1 EX-1
+0 2 RD-1
+0 3 ST-1
+0 4 ST-1
+0 5 FR-1
+5 1 RD-2
+5 2 WR-2
+3 5 RF-1
+4 5 RF-1
+0 6 UK-1
+5 7 WR-2
+5 8 EX-2
+5 9 RD-2
+5 10 WR-2
+11 1 RD-3
+11 2 WR-3
+11 3 ST-3
+4 11 RF-1
+5 11 UK-2
+12 2 RD-4
+3 12 RF-1
+12 4 ST-4
+12 7 WR-4
+12 8 WR-4
+12 9 WR-4
+12 10 RD-4
+12 13 UK-4
+

@@ -1,0 +1,54 @@
+13
+MP*-nsBDC5.tmp
+TF-C:\Users\admin\AppData\Local\Temp\sentinelone
+SO-http://www.velux.de/kundendienstbedingungen
+MF-C:\Users\admin\Desktop\readme.xml
+SO-192.168.1.1
+MF-PathToAtomicsFolder\T1546\bin\AltWinSock2DLL.dll
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MP*-setspn.exe
+MF-files\appdata\local\temp\14612.bmp
+MP-Exloader_Installer.vmp.exe 
+TP-findstr.exe
+MP*-mstsca.exe 
+TP*-E63F.exe
+38
+0 1 RD-1
+0 2 ST-1
+0 3 RD-1
+0 4 ST-1
+0 5 RD-1
+6 0 RF-1
+0 7 FR-1
+7 1 WR-2
+7 2 ST-2
+7 3 RD-2
+4 7 RF-1
+7 5 WR-2
+7 6 ST-2
+0 8 WR-1
+7 8 WR-2
+0 9 FR-1
+9 1 RD-2
+9 2 ST-2
+9 3 WR-2
+9 4 ST-2
+9 5 CD-2
+9 6 ST-2
+7 9 UK-2
+0 10 UK-1
+11 1 WR-3
+11 2 ST-3
+11 3 WR-3
+11 4 ST-3
+11 5 RD-3
+6 11 RF-2
+11 8 CD-3
+2 12 RF-1
+12 3 EX-4
+4 12 RF-2
+12 5 WR-4
+6 12 RF-2
+12 8 RD-4
+11 12 UK-3
+

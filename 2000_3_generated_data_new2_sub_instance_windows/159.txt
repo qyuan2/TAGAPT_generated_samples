@@ -1,0 +1,53 @@
+16
+MP-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+MF-C:\Program Files\Windows Photo Viewer\PhotoViewer
+MF-C:\Users\admin\AppData\Local\Temp\Host
+MP-dpinst.exe 
+TP*-LogTransport2.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-G3M3S.tmp
+MF-files\29630.ico.vb
+MP*-jerkoff.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Player666
+MP*-RdrCEF.exe 
+SF-C:\Users\admin\AppData\Local\Temp\vmware
+TF-C:\Users\admin\Desktop\Attachment_94259849
+SF-%temp%\secrets 
+TP-Order Confirmation.exe 
+MF-C:\Program Files\Microsoft\Edge\Application\msedge
+MP*-nbtstat.exe
+34
+0 1 RD-1
+0 2 RD-1
+0 3 UK-1
+4 1 RD-1
+4 2 WR-1
+4 5 WR-1
+4 6 WR-1
+7 1 RD-2
+7 2 CD-2
+4 7 IJ-1
+7 5 WR-2
+7 6 WR-2
+4 8 RD-1
+7 8 UK-2
+9 1 RD-3
+9 2 RD-3
+4 9 IJ-1
+9 5 CD-3
+9 6 CD-3
+4 10 WR-1
+9 10 CD-3
+4 11 WR-1
+9 11 RD-3
+4 12 WR-1
+9 12 RD-3
+4 13 FR-1
+13 5 EX-3
+13 6 WR-3
+9 13 UK-3
+4 14 EX-1
+15 5 WR-4
+15 6 WR-4
+15 10 WR-4
+15 11 UK-4
+

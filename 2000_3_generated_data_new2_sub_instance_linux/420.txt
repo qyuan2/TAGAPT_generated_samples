@@ -1,0 +1,79 @@
+21
+MP*-dd
+MP-uname
+SF-at.a
+MP*-python3
+SF-syslog.c
+SO-192.168.206.0
+TF-1.txt
+MP-wfuzz
+MF-2017.pl
+MP-sed
+TF-td.c
+TF-settings.php
+SF-target.example.c
+MF-2017.pl
+MF-T1074.001_discovery.log
+TP-uname
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-rev
+SF-Users.tar.gz
+MP*-vim
+MP-cp
+55
+0 1 FR-1
+0 2 UK-1
+1 3 FR-1
+1 4 UK-1
+5 3 RF-2
+3 6 WR-2
+3 7 FR-2
+7 5 ST-2
+7 6 WR-2
+3 8 EX-2
+7 8 WR-2
+3 9 FR-2
+5 9 RF-2
+9 6 EX-2
+9 8 WR-2
+3 10 RD-2
+7 10 WR-2
+9 10 WR-2
+3 11 WR-2
+7 11 WR-2
+9 11 WR-2
+3 12 WR-2
+7 12 CD-2
+9 12 WR-2
+3 13 WR-2
+7 13 RD-2
+9 13 WR-2
+7 14 WR-2
+9 14 WR-2
+5 15 RF-2
+15 6 RD-2
+7 15 IJ-2
+15 8 WR-2
+9 15 IJ-2
+15 10 UK-2
+7 16 ST-2
+16 9 RF-2
+7 17 FR-2
+17 8 EX-3
+17 11 RD-3
+17 12 WR-3
+17 13 WR-3
+17 14 WR-3
+17 16 ST-3
+9 18 WR-2
+17 18 RD-3
+9 19 FR-2
+19 11 RD-4
+19 12 WR-4
+19 13 WR-4
+19 14 EX-4
+19 16 ST-4
+17 19 UK-3
+20 11 WR-4
+20 12 UK-4
+

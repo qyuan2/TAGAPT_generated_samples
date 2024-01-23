@@ -1,0 +1,124 @@
+31
+MP-cat
+MF-httpd.c
+TF-rockyou.txt
+SF-CleaingScript.sh
+TF-ron.a
+TP-cat
+SO-192.168.10.135
+MP-tee
+SO-192.168.206.136
+MP-less
+SO-192.168.47.134:4444
+SF-backsup.sh
+TP*-sed
+MF-os.sys
+TP-masscan
+SO-127.0.0.1:8080
+SO-192.168.47.134:4444
+SF-raw.githubusercontent.c
+MF-Users.tar.gz
+MF-victim-shred.txt
+MP*-ls
+MP-cat
+TP*-ls
+MP-uname
+MP-less
+MP*-find
+MF-journald.c
+MP-awk
+MP-cat
+MF-da-ks.cfg
+MP-sed
+90
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 1 RD-1
+5 2 EX-1
+5 3 EX-1
+5 4 EX-1
+6 0 RF-1
+5 6 ST-1
+0 7 FR-1
+7 1 WR-1
+7 2 WR-1
+7 3 EX-1
+7 4 WR-1
+5 7 IJ-1
+7 6 ST-1
+8 0 RF-1
+8 5 RF-1
+8 7 RF-1
+0 9 UK-1
+5 10 ST-1
+10 7 RF-1
+5 11 WR-1
+7 11 RD-1
+12 2 WR-1
+12 3 RD-1
+12 4 EX-1
+5 12 IJ-1
+12 6 ST-1
+7 12 IJ-1
+12 8 ST-1
+10 12 RF-1
+12 11 RD-1
+5 13 RD-1
+7 13 WR-1
+12 13 WR-1
+14 4 RD-1
+5 14 UK-1
+15 7 RF-1
+12 15 ST-1
+7 16 ST-1
+12 16 ST-1
+7 17 RD-1
+12 17 WR-1
+12 18 WR-1
+12 19 EX-1
+20 10 ST-2
+20 11 WR-2
+12 20 IJ-1
+20 13 EX-2
+15 20 RF-1
+20 16 ST-2
+20 17 RD-2
+20 18 RD-2
+20 19 WR-2
+21 11 EX-2
+12 21 UK-1
+22 13 WR-3
+15 22 RF-1
+16 22 RF-1
+22 17 WR-3
+22 18 RD-3
+22 19 RD-3
+20 22 UK-2
+23 13 WR-3
+15 23 RF-1
+23 16 ST-3
+23 17 WR-3
+23 18 WR-3
+23 19 RD-3
+15 24 RF-1
+16 24 RF-1
+24 17 UK-3
+25 15 ST-4
+16 25 RF-1
+25 18 WR-4
+25 19 CD-4
+23 26 RD-3
+25 26 WR-4
+27 18 WR-4
+27 19 WR-4
+23 27 UK-3
+28 18 WR-4
+28 19 EX-4
+28 26 WR-4
+25 29 UK-4
+30 26 RD-4
+28 30 UK-4
+

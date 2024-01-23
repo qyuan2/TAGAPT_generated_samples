@@ -1,0 +1,102 @@
+27
+MP*-is-Q2MHB.tmp
+MF-C:\Program Files\Microsoft\Skype for Desktop\Skype
+MP-InstaBotPro (1).exe 
+MF-EXb3868.24079\tasksche.exe
+TF-list.exe
+TF-C:\Windows\system32\schtasks.exe
+MF-C:\Users\User\appdata\local\temp\9140
+MF-\Windows\system32\rundll32.exe
+MP-regsvcs.exe
+MP-meatspin full.exe
+MP*-reviewref_protected.exe 
+TF-\Windows\System32\mshta.exe
+MF-.\T1218.007\bin\T1218.007_VBScript.m
+MF-places.sql
+MP*-regsvcs.exe
+TP*-TruffleSnout.exe
+MP-WinRAR.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MP-Exloader_Installer.vmp.exe 
+SF-HKEY_CURRENT_USER\SOFTWARE\Classes\AtomicTest
+MP-nsCA5C.tmp
+MF-C:\Windows\system32\installd.exe
+TP-crackmapexec.exe
+MP-csc.exe
+MP-words[1].txt.exe
+TF-C:\Users\admin\AppData\Local\Temp\TagGen.dll
+TP-RtkBtManServ.exe
+72
+0 1 RD-1
+0 2 FR-1
+2 1 RD-1
+0 3 EX-1
+2 3 RD-1
+0 4 WR-1
+2 4 WR-1
+0 5 WR-1
+2 5 WR-1
+0 6 WR-1
+2 6 RD-1
+0 7 UK-1
+8 1 EX-1
+2 8 UK-1
+9 1 EX-1
+9 3 WR-1
+9 4 WR-1
+9 5 WR-1
+9 6 UK-1
+10 1 EX-2
+10 3 WR-2
+10 4 RD-2
+10 5 WR-2
+10 11 EX-2
+10 12 WR-2
+10 13 RD-2
+14 4 WR-3
+14 5 RD-3
+14 11 CD-3
+14 12 RD-3
+14 13 WR-3
+15 5 RD-4
+10 15 IJ-2
+15 11 WR-4
+15 12 RD-4
+15 13 RD-4
+14 15 IJ-3
+10 16 FR-2
+16 11 RD-4
+16 12 WR-4
+16 13 WR-4
+14 16 UK-3
+17 10 RF-2
+15 17 ST-4
+10 18 FR-2
+18 11 RD-4
+18 12 WR-4
+18 13 CD-4
+15 18 UK-4
+10 19 RD-2
+10 20 FR-2
+20 11 WR-4
+20 12 WR-4
+20 13 WR-4
+17 20 RF-4
+20 19 WR-4
+20 21 UK-4
+22 12 WR-4
+22 13 CD-4
+22 17 ST-4
+22 19 RD-4
+23 13 EX-4
+23 17 ST-4
+23 19 WR-4
+22 23 IJ-4
+17 24 RF-4
+24 19 EX-4
+22 24 UK-4
+23 25 RD-4
+17 26 RF-4
+26 19 EX-4
+23 26 UK-4
+

@@ -1,0 +1,93 @@
+27
+MP*-v6621467.exe
+SF-C:\Users\admin\AppData\Local\Temp\Ashraf
+MP-CareUEyes.exe
+SF-C:\Program Files\OneDrive
+MF-C:\Users\admin\AppData\Local\Temp\Bill
+MF-C:\Users\admin\AppData\Local\Temp\is
+MF-C:\Users\admin\AppData\Local\Temp\crack
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+MF-C:\Windows\System32\cmd.exe
+TP-slui.exe
+TF-C:\Users\admin\AppData\Local\Temp\system
+MF-\RerSpacer710\RerSpacer710.exe
+MF-C:\Users\admin\AppData\Local\Temp\RESF360.tmp
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+MP-DIXRAT.exe 
+MP*-D18C.exe
+MF-\Users\admin\Desktop\installer.exe
+MP*-nslookup.exe
+MP-n4054738.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp91F1.tmp
+MF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv.bat
+MP-nvvsvc.exe 
+MF-C:\Users\admin\Desktop\MS
+MP-ping.exe
+MP-WtHgie
+MF-C:\Users\admin\AppData\LocalLow\Microsoft\Internet Explorer\DOMStore\reviewref_protected
+TP-OlympicDestroyer.exe 
+63
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 WR-1
+2 3 WR-1
+0 4 WR-1
+2 4 EX-1
+0 5 RD-1
+2 5 UK-1
+0 6 WR-1
+0 7 FR-1
+7 1 WR-2
+7 3 WR-2
+7 4 EX-2
+7 6 RD-2
+0 8 WR-1
+7 8 RD-2
+0 9 FR-1
+9 1 RD-2
+9 3 CD-2
+9 4 RD-2
+9 6 UK-2
+0 10 EX-1
+7 10 WR-2
+7 11 WR-2
+7 12 WR-2
+7 13 ST-2
+14 4 EX-2
+7 14 UK-2
+15 8 WR-3
+15 10 WR-3
+15 11 RD-3
+15 12 WR-3
+15 13 ST-3
+15 16 RD-3
+17 8 EX-4
+17 10 WR-4
+17 11 RD-4
+17 12 RD-4
+13 17 RF-3
+17 16 WR-4
+18 8 WR-4
+18 10 RD-4
+18 11 RD-4
+18 12 WR-4
+13 18 RF-3
+15 18 UK-3
+17 19 WR-4
+17 20 RD-4
+21 11 WR-4
+21 12 RD-4
+21 13 ST-4
+21 16 WR-4
+21 19 EX-4
+21 20 UK-4
+17 22 UK-4
+23 13 ST-4
+23 16 RD-4
+23 19 RD-4
+24 16 UK-4
+23 25 WR-4
+26 19 RD-4
+23 26 UK-4
+

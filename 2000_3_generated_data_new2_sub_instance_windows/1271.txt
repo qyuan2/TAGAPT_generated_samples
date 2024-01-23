@@ -1,0 +1,392 @@
+100
+MP-grep
+MF-access.txt
+MP-wfuzz
+MP-sftp
+SF-anaconda-ks.cfg
+SF-test.txt
+SO-192.168.159.128
+MP-bash
+MF-CleaingScript.sh
+MF-anaconda-ks.cfg
+MF-T1003.008.txt
+MF-test.txt
+MP-tac
+MP*-cat
+SO-192.168.10.128
+MP-nl
+SO-atomic@target.example
+SF-T1027-004-test.c
+MF-te.c
+SO-192.168.10.128
+MF-1.txt
+MP-ls
+TP-netstat
+TP*-head
+MF-CleaingScript.sh
+TP*-less
+TF-Hostname_UserName.txt
+MF-e.c
+MF-shell.cgi
+MF-anaconda-ks.cfg
+MP*-uname
+MF-password-hash.sh
+TP-bash
+SO-192.168.10.128
+TF-da-ks.cfg
+MF-anaconda-ks.cfg
+SF-log.c
+MF-backsup.sh
+SF-raft-large-directories.txt
+MF-log.c
+TP-cat
+MP-ls
+SF-1.zip
+MF-te.c
+SF-v.c
+MF-e.c
+MP-nl
+MP-netstat
+MP-clang++
+MF-LinEnum.sh
+MP-cat
+SO-http://192.168.10.129/image.php?FUZZ=something
+TP-less
+TP-ls
+MF-log.c
+SO-192.168.10.135
+TF-art.sh
+SF-common.txt
+MP-cp
+TP-awk
+SF-apache2.c
+MP-less
+SF-http.c
+MF-cron.a
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP-su
+MF-data.zip
+MF-logrotate.c
+MP-netstat
+TP-cat
+MP-cat
+SO-192.168.206.137:8080
+SF-data.zip
+MF-cron.m
+MF-T1574.006.c
+MP-cat
+MP-dd
+SF-test.txt
+MF-raj.txt
+MP-ftp
+MP-pr
+SO-192.168.206.0
+MF-echo-art-fish.sh
+SO-192.168.10.135
+MP-cat
+TF-T1070.006-modification.txt
+MP-cat
+MP-cat
+MF-1.txt
+MP-chmod 
+TP-wget 
+TF-AutoSUID.sh
+MF-apache2.c
+MF-user.r
+MP-sudo
+MP-sudo
+MP-more
+MP-less
+TF-AutoSUID.sh
+MP-cat
+289
+0 1 CD-1
+0 2 FR-1
+2 1 WR-1
+0 3 FR-1
+3 1 WR-1
+0 4 RD-1
+2 4 WR-1
+3 4 EX-1
+0 5 EX-1
+2 5 EX-1
+3 5 UK-1
+0 6 ST-1
+2 6 ST-1
+0 7 FR-1
+7 1 WR-1
+7 4 WR-1
+7 6 ST-1
+0 8 WR-1
+2 8 WR-1
+7 8 WR-1
+0 9 WR-1
+2 9 WR-1
+7 9 WR-1
+0 10 RD-1
+2 10 RD-1
+7 10 WR-1
+2 11 EX-1
+7 11 RD-1
+2 12 FR-1
+12 4 WR-1
+6 12 RF-1
+12 8 RD-1
+12 9 WR-1
+12 10 WR-1
+12 11 RD-1
+13 4 WR-1
+13 6 ST-1
+13 8 WR-1
+13 9 WR-1
+13 10 EX-1
+13 11 RD-1
+14 7 RF-1
+12 14 ST-1
+13 14 ST-1
+15 6 ST-1
+7 15 UK-1
+12 16 ST-1
+16 13 RF-1
+12 17 WR-1
+13 17 RD-1
+12 18 WR-1
+13 18 EX-1
+19 12 RF-1
+13 19 ST-1
+12 20 CD-1
+13 20 WR-1
+21 11 RD-1
+12 21 UK-1
+13 22 FR-1
+14 22 RF-1
+22 16 ST-1
+22 17 RD-1
+22 18 UK-1
+13 23 IJ-1
+14 23 RF-1
+16 23 RF-1
+23 17 WR-2
+23 19 ST-2
+23 20 WR-2
+23 24 WR-2
+25 16 ST-3
+25 17 RD-3
+25 19 ST-3
+25 20 WR-3
+23 25 IJ-2
+25 24 RD-3
+23 26 RD-2
+25 26 WR-3
+23 27 RD-2
+25 27 WR-3
+23 28 RD-2
+25 28 WR-3
+23 29 CD-2
+25 29 WR-3
+30 20 RD-4
+23 30 IJ-2
+30 24 RD-4
+25 30 IJ-3
+30 26 WR-4
+30 27 RD-4
+30 28 WR-4
+30 29 RD-4
+23 31 WR-2
+25 31 WR-3
+30 31 CD-4
+23 32 IJ-2
+32 24 EX-4
+25 32 IJ-3
+32 26 RD-4
+32 27 WR-4
+32 28 RD-4
+32 29 EX-4
+30 32 IJ-4
+32 31 WR-4
+23 33 ST-2
+33 25 RF-2
+33 30 RF-2
+33 32 RF-2
+25 34 WR-3
+30 34 RD-4
+32 34 UK-4
+25 35 WR-3
+30 35 WR-4
+30 36 WR-4
+30 37 WR-4
+30 38 CD-4
+30 39 EX-4
+30 40 FR-4
+40 31 RD-4
+33 40 RF-2
+40 35 WR-4
+40 36 WR-4
+40 37 WR-4
+40 38 WR-4
+40 39 WR-4
+41 31 RD-4
+33 41 RF-2
+41 35 WR-4
+41 36 EX-4
+41 37 EX-4
+41 38 WR-4
+41 39 EX-4
+40 41 IJ-4
+40 42 RD-4
+41 42 WR-4
+40 43 RD-4
+41 43 EX-4
+40 44 WR-4
+41 44 RD-4
+40 45 WR-4
+41 45 RD-4
+46 36 WR-4
+46 37 RD-4
+46 38 RD-4
+46 39 WR-4
+40 46 UK-4
+47 37 EX-4
+47 38 CD-4
+47 39 WR-4
+47 42 RD-4
+47 43 WR-4
+47 44 EX-4
+47 45 WR-4
+48 38 RD-4
+48 39 WR-4
+41 48 UK-4
+47 49 WR-4
+50 42 WR-4
+50 43 WR-4
+50 44 CD-4
+50 45 RD-4
+50 49 WR-4
+47 51 ST-4
+51 50 RF-4
+52 42 RD-4
+52 43 WR-4
+52 44 UK-4
+53 43 WR-4
+53 45 WR-4
+47 53 UK-4
+50 54 WR-4
+55 50 RF-4
+50 56 WR-4
+50 57 CD-4
+58 49 WR-4
+50 58 UK-4
+59 49 WR-4
+51 59 RF-4
+59 54 WR-4
+55 59 RF-4
+59 56 WR-4
+59 57 WR-4
+59 60 EX-4
+61 51 ST-4
+61 54 WR-4
+55 61 RF-4
+61 56 RD-4
+61 57 RD-4
+59 61 IJ-4
+61 60 WR-4
+59 62 WR-4
+61 62 WR-4
+59 63 WR-4
+61 63 RD-4
+59 64 ST-4
+64 61 RF-4
+65 55 ST-4
+65 56 WR-4
+65 57 CD-4
+59 65 IJ-4
+65 60 UK-4
+59 66 WR-4
+61 66 WR-4
+59 67 RD-4
+61 67 RD-4
+59 68 IJ-4
+61 68 UK-4
+59 69 IJ-4
+69 62 RD-4
+69 63 EX-4
+64 69 RF-4
+69 66 WR-4
+69 67 WR-4
+70 62 RD-4
+70 63 RD-4
+64 70 RF-4
+70 66 WR-4
+70 67 EX-4
+69 70 IJ-4
+71 69 RF-4
+71 70 RF-4
+69 72 EX-4
+70 72 WR-4
+69 73 CD-4
+70 73 WR-4
+69 74 EX-4
+70 74 RD-4
+75 66 WR-4
+75 67 UK-4
+76 66 CD-4
+69 76 UK-4
+70 77 WR-4
+70 78 WR-4
+70 79 FR-4
+71 79 RF-4
+79 72 WR-4
+79 73 EX-4
+79 74 WR-4
+79 77 EX-4
+79 78 WR-4
+70 80 UK-4
+81 79 RF-4
+79 82 WR-4
+83 79 RF-4
+84 74 WR-4
+84 77 UK-4
+79 85 EX-4
+86 78 WR-4
+79 86 UK-4
+87 78 RD-4
+87 81 ST-4
+87 82 WR-4
+83 87 RF-4
+87 85 WR-4
+87 88 WR-4
+89 81 ST-4
+89 82 WR-4
+83 89 RF-4
+89 85 EX-4
+89 88 EX-4
+81 90 RF-4
+90 82 CD-4
+90 83 ST-4
+90 85 UK-4
+87 91 RD-4
+89 91 WR-4
+87 92 EX-4
+89 92 WR-4
+87 93 WR-4
+89 93 WR-4
+87 94 FR-4
+94 88 EX-4
+94 91 RD-4
+94 92 RD-4
+94 93 RD-4
+87 95 UK-4
+96 88 WR-4
+96 91 EX-4
+96 92 WR-4
+96 93 CD-4
+97 88 EX-4
+97 91 UK-4
+89 98 CD-4
+94 98 WR-4
+96 98 WR-4
+89 99 FR-4
+99 92 RD-4
+99 93 WR-4
+94 99 UK-4
+

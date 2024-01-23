@@ -1,0 +1,130 @@
+36
+MP*-ONENOTE.EXE
+MF-C:\Windows\system32\config\system
+MF-C:\Users\admin\AppData\Local\Temp\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7.zip
+TF-C:\Users\admin\AppData\Local\Temp\Media
+SF-C:\Windows\system32\ntvdm
+MP*-AkrienBetarar_cDyIa.exe 
+SF-C:\Users\admin\AppData\Local\Temp\8
+MF-C:\Users\admin\AppData\Local\Temp\Exloader_Installer
+TP*-MadInjector\MadInjector.exe 
+MF-\Users\admin\AppData\Local\Temp\de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+TF-C:\Windows\System32\taskkill
+MP-nsD232.tmp
+MP-EXE_temp2.exe 
+TF-C:\Users\admin\AppData\Local\Temp\is-R0T56.tmp
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns99EC.tmp
+TP-df1f94243f99b25fea44d17750d24d04.exe
+MF-%USERPROFILE%\Desktop\YOUR_FILES.txt
+TP*-ns9D4E.tmp
+MF-\Users\admin\AppData\Local\Temp\Document.pdf_Slayed.scr.exe
+MF-C:\Users\admin\AppData\Local\84ef6d24-ce7f-44e4-a5ae-1d47d92bf287\build2.exe
+MP-SearchFilterHost.exe
+MF-\Windows\System32\taskkill.exe
+MF-C:\Users\admin\AppData\Local\Temp\putty
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9DCC.tmp
+MP-executable.3044.exe 
+TP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MP-d6405410.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+MP-makecab.exe
+MF-\Windows\system32\icacls.exe
+MP-client32.exe
+MF-github.c
+MF-fi.b
+MF-\Users\admin\Downloads\MDE_File_Sample_bc548dd6003002ec5d288b30d1802e3bb6bcbfde4d8d8a40fc7fb5a9e21a3c09.zip
+TP-NOTEPAD.EXE
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+91
+0 1 RD-1
+0 2 EX-1
+0 3 EX-1
+0 4 WR-1
+0 5 FR-1
+5 1 RD-2
+5 2 RD-2
+5 3 RD-2
+5 4 RD-2
+0 6 WR-1
+5 6 WR-2
+0 7 RD-1
+5 7 RD-2
+0 8 FR-1
+8 1 WR-3
+8 2 WR-3
+8 3 WR-3
+8 4 WR-3
+5 8 IJ-2
+8 6 WR-3
+8 7 RD-3
+0 9 WR-1
+5 9 RD-2
+8 9 EX-3
+0 10 EX-1
+5 10 WR-2
+8 10 WR-3
+11 1 WR-3
+11 2 UK-3
+12 3 RD-3
+12 4 WR-3
+5 12 UK-2
+8 13 EX-3
+8 14 RD-3
+15 6 RD-3
+15 7 EX-3
+8 15 IJ-3
+15 9 CD-3
+15 10 UK-3
+8 16 RD-3
+17 7 EX-4
+8 17 IJ-3
+17 9 WR-4
+17 13 RD-4
+17 14 WR-4
+17 16 EX-4
+8 18 WR-3
+17 18 RD-4
+17 19 WR-4
+20 13 WR-4
+20 14 WR-4
+20 16 CD-4
+17 20 IJ-4
+20 18 WR-4
+20 19 WR-4
+17 21 EX-4
+20 21 CD-4
+17 22 UK-4
+20 23 WR-4
+24 14 WR-4
+24 16 WR-4
+24 18 WR-4
+24 19 RD-4
+24 21 WR-4
+24 23 RD-4
+25 16 RD-4
+25 18 WR-4
+25 19 RD-4
+20 25 IJ-4
+25 21 EX-4
+25 23 WR-4
+24 25 IJ-4
+26 16 EX-4
+26 18 RD-4
+26 19 RD-4
+20 26 UK-4
+27 24 RF-4
+25 27 ST-4
+28 18 UK-4
+24 29 RD-4
+25 29 WR-4
+30 21 RD-4
+30 23 WR-4
+24 30 UK-4
+25 31 EX-4
+25 32 WR-4
+25 33 RD-4
+25 34 FR-4
+34 27 ST-4
+34 29 UK-4
+25 35 ST-4
+

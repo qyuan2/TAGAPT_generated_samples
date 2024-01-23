@@ -1,0 +1,73 @@
+22
+MP*-C:\Program Files\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+TP-ruby.exe
+MF-\Users\admin\AppData\Local\Temp\EasyValorant.exe
+MF-C:\Users\admin\Desktop\fd4289d63cda962af120a59a1f3a389f
+MF-C:\Users\admin\AppData\Local\Temp\program2
+MP-regasm.exe
+MP-KMSpico_setup.exe
+MF-C:\Users\admin\AppData\Local\Temp\r.rar
+MP*-KLSetup.exe.scr
+TP*-auditpol.exe
+MP*-ns9FC4.tmp
+MP-Ziraat Bankasi Swift Mesaji.exe 
+MP-PO 345678.exe 
+MP-ns967A.tmp
+MF-\Users\admin\AppData\Local\Temp\tmpF47F.tmp
+MF-C:\Users\admin\bebulnhx.exe
+TF-C:\Program Files\FDRLab\Avi Previewer DEMO\avi_previewer_demo
+MP-snuvcdsm.exe 
+MP-csc.exe
+MF-C:\Windows\System32\taskkill
+MP-468C.exe
+MP-ntdsutil.exe
+48
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+0 3 UK-1
+1 4 WR-1
+1 5 FR-1
+5 2 EX-1
+5 4 RD-1
+1 6 IJ-1
+6 2 EX-1
+6 4 WR-1
+5 6 UK-1
+1 7 WR-1
+1 8 FR-1
+8 2 CD-2
+8 4 WR-2
+8 7 WR-2
+1 9 FR-1
+9 2 EX-3
+9 4 WR-3
+9 7 RD-3
+8 9 IJ-2
+1 10 IJ-1
+10 2 EX-4
+10 4 WR-4
+10 7 WR-4
+8 10 UK-2
+1 11 IJ-1
+11 2 EX-4
+11 4 WR-4
+11 7 UK-4
+12 2 UK-4
+13 4 RD-4
+9 13 IJ-3
+9 14 EX-3
+13 14 EX-4
+9 15 RD-3
+13 15 WR-4
+9 16 RD-3
+13 16 WR-4
+9 17 UK-3
+13 18 FR-4
+18 14 WR-4
+18 15 UK-4
+13 19 EX-4
+13 20 UK-4
+21 14 WR-4
+21 16 UK-4
+

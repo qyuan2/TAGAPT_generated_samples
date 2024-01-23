@@ -1,0 +1,131 @@
+36
+MP-Reader_sl.exe
+MP-D911.exe
+MF-C:\Windows\system32\regsvr32
+MP-WinRAR.exe
+MF-C:\Users\admin\Desktop\tasksche.exe
+MP-JJSploit.exe 
+MP-JJSploit.exe 
+SF-HKLM\SYSTEM\CurrentControlSet\Services
+TP*-Dkeyauth.tmp 
+MF-\Users\admin\MicrosoftUpdate.exe
+SF-C:\Users\admin\Downloads\beetle
+TP-words[1].txt.exe
+MP*-cacls.exe
+SF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\vbsstartup.vb
+MF-C:\Users\admin\AppData\Local\Temp\tb.ps1
+TP-ns9A6A.tmp 
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+MP-icacls.exe
+MF-C:\Users\admin\AppData\Roaming\olsptrs\olsptrs
+MF-\Users\admin\AppData\Roaming\olsptrs\olsptrs.exe
+SF-C:\Users\Public\coinmarketcap\coinmarketcap.vb
+TF-attached.htm
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+TF-\yWorks.dll
+MF-C:\Users\admin\AppData\Local\Temp\57C8EDB95DF3F0AD4EE2DC2B8CFD4157.cab
+MP-cmstp.exe
+MF-\Users\Public\coinmarketcap\coinmarketcap.ps1
+MP-bebulnhx.exe
+MF-C:\Users\admin\Downloads\Tl-36500547.7z
+TF-\adobe\arm.dat
+SO-80.0.0.0
+MP*-PO 345678.exe 
+TF-\Windows\sysnative\cmd.exe
+MP-Dieselmotorers.exe
+MF-3893.bmp
+MP-pestudio.exe 
+92
+0 1 FR-1
+0 2 WR-1
+1 2 RD-1
+0 3 UK-1
+1 4 WR-1
+1 5 FR-1
+5 2 RD-1
+5 4 WR-1
+1 6 FR-1
+6 2 WR-1
+6 4 CD-1
+5 6 UK-1
+1 7 RD-1
+1 8 IJ-1
+8 2 RD-1
+8 4 WR-1
+8 7 RD-1
+1 9 RD-1
+8 9 WR-1
+1 10 WR-1
+8 10 RD-1
+1 11 FR-1
+11 2 WR-1
+11 4 EX-1
+11 7 CD-1
+8 11 UK-1
+12 2 WR-2
+12 4 CD-2
+12 7 WR-2
+12 9 RD-2
+12 10 WR-2
+12 13 WR-2
+12 14 WR-2
+15 7 RD-2
+15 9 RD-2
+15 10 WR-2
+12 15 IJ-2
+15 13 WR-2
+15 14 WR-2
+16 7 EX-3
+16 9 WR-3
+16 10 RD-3
+16 13 WR-3
+16 14 RD-3
+15 16 IJ-2
+17 7 WR-3
+17 9 RD-3
+17 10 RD-3
+17 13 WR-3
+17 14 WR-3
+15 17 UK-2
+12 18 RD-2
+16 18 CD-3
+12 19 WR-2
+16 19 RD-3
+12 20 RD-2
+16 20 RD-3
+12 21 WR-2
+16 21 RD-3
+22 13 UK-3
+16 23 RD-3
+16 24 WR-3
+16 25 FR-3
+25 18 RD-3
+25 19 EX-3
+25 20 EX-3
+25 21 CD-3
+25 23 EX-3
+25 24 RD-3
+25 26 EX-3
+27 18 UK-3
+25 28 WR-3
+25 29 WR-3
+25 30 ST-4
+31 21 RD-4
+31 23 WR-4
+31 24 RD-4
+31 26 RD-4
+31 28 WR-4
+31 29 WR-4
+30 31 RF-4
+25 32 WR-3
+31 32 WR-4
+33 23 WR-4
+33 24 WR-4
+25 33 UK-3
+31 34 WR-4
+35 26 WR-4
+35 28 WR-4
+35 29 CD-4
+30 35 RF-4
+31 35 UK-4
+

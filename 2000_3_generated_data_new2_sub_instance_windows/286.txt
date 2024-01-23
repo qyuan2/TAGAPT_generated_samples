@@ -1,0 +1,31 @@
+10
+MP*-Перечень юридических лиц и физических лиц в рамках уклонения, сумы уклонения.exe 
+MP*-OriginalBuild.exe.exe 
+TF-C:\Users\admin\Downloads\MDE_File_Sample_bc548dd6003002ec5d288b30d1802e3bb6bcbfde4d8d8a40fc7fb5a9e21a3c09.zip
+MP*-CareUEyes_setup.exe
+SF-C:\Users\admin\AppData\Local\Temp\Rar
+MP-regsvr32.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+SF-C:\Users\admin\AppData\Local\Temp\TRANSFR
+MP*-pktmon.exe
+MP-ProcessHacker.exe 
+18
+0 1 FR-1
+0 2 RD-1
+1 2 WR-2
+0 3 FR-1
+3 2 EX-3
+0 4 WR-1
+1 4 EX-2
+3 4 RD-3
+0 5 FR-1
+1 5 UK-2
+0 6 ST-1
+6 3 RF-1
+0 7 WR-1
+3 7 EX-3
+0 8 FR-1
+8 2 RD-4
+3 8 UK-3
+0 9 UK-1
+

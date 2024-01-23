@@ -1,0 +1,78 @@
+24
+MP-WinRAR.exe 
+TF-C:\Windows\system32\cacls.exe
+MP-updater.exe
+TP*-xqGqlVXkyPJD.exe 
+TF-C:\Users\admin\AppData\Local\Hakcxztmbwrcgd\pryosys
+TF-\Users\admin\AppData\Local\Temp\Setup.bin.exe
+MP-Перечень юридических лиц и физических лиц в рамках уклонения, сумы уклонения.exe 
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+MP-vbc.exe
+TP-adidnsdump.exe
+MP-FTPServer.exe 
+TP-df1f94243f99b25fea44d17750d24d04.exe
+TP*-ns9423.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\c3c6a5675d32fe330b83debceb63d60e
+MF-C:\Program Files\Bandizip\data\RegDll
+TF-test.xml
+TF-C:\Windows\system32\ROUTE
+SO-https://download.anydesk.com/AnyDesk.exe
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe
+MF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+MP-IBM_Centosi.exe 
+MP*-DataSvcUtil.exe
+SF-C:\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8.exe
+MP*-danke.exe 
+51
+0 1 EX-1
+0 2 UK-1
+3 1 WR-1
+3 4 EX-1
+3 5 WR-1
+6 1 RD-1
+3 6 IJ-1
+6 4 RD-1
+6 5 RD-1
+7 3 RF-1
+7 6 RF-1
+8 1 RD-1
+3 8 IJ-1
+8 4 WR-1
+8 5 RD-1
+6 8 UK-1
+9 1 RD-1
+3 9 UK-1
+10 1 RD-1
+10 4 WR-1
+10 5 RD-1
+10 7 ST-1
+11 1 WR-1
+11 4 WR-1
+11 5 EX-1
+11 7 ST-1
+10 11 UK-1
+12 4 RD-2
+12 5 RD-2
+12 7 ST-2
+12 13 WR-2
+12 14 CD-2
+12 15 EX-2
+12 16 WR-2
+12 17 ST-2
+12 18 IJ-2
+18 13 UK-2
+12 19 WR-2
+12 20 UK-2
+21 14 RD-3
+21 15 WR-3
+21 16 WR-3
+21 17 ST-3
+21 19 RD-3
+21 22 RD-3
+23 14 WR-4
+23 15 RD-4
+23 16 WR-4
+17 23 RF-3
+23 19 WR-4
+21 23 UK-3
+

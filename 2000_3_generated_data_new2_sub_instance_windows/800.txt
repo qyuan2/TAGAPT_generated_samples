@@ -1,0 +1,40 @@
+13
+MP*-runas.exe
+MP*-Poison.scr 
+MF-C:\Users\admin\AppData\Local\Temp\some_malicious_file.b
+MP-wmpnscfg.exe
+SF-HKLM\Software\Microsoft\Windows\CurrentVersion\WINEVT\Channels\Microsoft-Windows-Windows
+SF-C:\Users\admin\Desktop\11492515294.zip
+MF-C:\Users\admin\AppData\Local\Temp\Request
+TP-vLocalServerSetup.exe
+MP-Caspol.exe
+TF-\Users\admin\AppData\Roaming\CareUEyes\CareUEyes.exe
+SF-C:\Users\admin\AppData\Local\Temp\yapars
+TP*-ns996E.tmp
+MP*-DataSvcUtil.exe
+24
+0 1 FR-1
+0 2 WR-1
+1 2 RD-2
+0 3 UK-1
+1 4 RD-2
+1 5 RD-2
+1 6 WR-2
+1 7 FR-2
+7 2 RD-2
+7 4 CD-2
+7 5 WR-2
+7 6 RD-2
+1 8 UK-2
+7 9 WR-2
+7 10 WR-2
+11 2 WR-3
+11 4 EX-3
+11 5 WR-3
+11 6 RD-3
+7 11 UK-2
+12 2 WR-4
+12 4 WR-4
+12 5 RD-4
+12 6 UK-4
+

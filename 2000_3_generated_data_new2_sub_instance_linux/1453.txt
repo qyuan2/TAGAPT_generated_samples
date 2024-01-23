@@ -1,0 +1,109 @@
+31
+MP-sudo
+MP-sed
+MP-ps
+MF-2017.pl
+MF-LinEnum.sh
+MF-syslog.c
+SO-192.168.10.129
+MF-T1027-004-test.c
+TF-raw.githubusercontent.c
+MP*-less
+SO-127.0.0.1:8080
+TF-on.a
+MF-p.c
+MF-pwquality.c
+SF-image.php
+MF-loot.txt
+TP-sed
+MF-T1003.008.txt
+MF-io.r
+MP*-cat
+MP*-ls
+MP-tar
+TF-CleaingScript.sh
+MF-f.r
+MP-ls
+MP*-grep
+MP-paste
+SO-192.168.10.128
+SO-192.168.1.1
+TF-rockyou.txt
+MP-netstat
+75
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 EX-1
+0 4 WR-1
+0 5 EX-1
+6 0 RF-1
+0 7 WR-1
+0 8 CD-1
+0 9 FR-1
+9 3 RD-1
+9 4 WR-1
+9 5 RD-1
+9 6 ST-1
+9 7 RD-1
+9 8 WR-1
+10 9 RF-1
+9 11 EX-1
+9 12 CD-1
+9 13 WR-1
+9 14 RD-1
+9 15 WR-1
+16 6 ST-1
+16 7 WR-1
+16 8 WR-1
+9 16 IJ-1
+10 16 RF-1
+16 11 WR-1
+16 12 RD-1
+16 13 RD-1
+16 14 WR-1
+16 15 RD-1
+9 17 WR-1
+16 17 WR-1
+9 18 RD-1
+16 18 EX-1
+10 19 RF-2
+19 11 EX-2
+19 12 WR-2
+19 13 RD-2
+19 14 EX-2
+19 15 EX-2
+16 19 IJ-1
+20 11 WR-3
+20 12 WR-3
+20 13 RD-3
+20 14 WR-3
+20 15 WR-3
+16 20 IJ-1
+20 17 RD-3
+20 18 WR-3
+21 12 RD-3
+21 13 WR-3
+21 14 RD-3
+21 15 WR-3
+16 21 UK-1
+20 22 WR-3
+20 23 WR-3
+24 15 CD-3
+24 17 WR-3
+24 18 WR-3
+20 24 UK-3
+25 17 WR-4
+25 18 EX-4
+25 22 WR-4
+25 23 WR-4
+26 17 EX-4
+26 18 WR-4
+26 22 WR-4
+26 23 UK-4
+25 27 ST-4
+25 28 ST-4
+25 29 WR-4
+30 22 WR-4
+25 30 UK-4
+

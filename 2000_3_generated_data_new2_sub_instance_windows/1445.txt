@@ -1,0 +1,81 @@
+28
+MP*-PC_Cleaner__5509.exe 
+MP-kkkkk.exe 
+MP-ns9510.tmp
+MP-Host.exe 
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\jsc.exe
+MF-yiueea.exe
+SO-https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object
+MP-nsCA5C.tmp
+SO-https://slpbridge.com/storage/images/debug2.ps1
+TP-schtasks.exe 
+MF-C:\Users\admin\Desktop\HxDSetup.exe
+MP-GLJBD24.tmp
+MP*-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+MF-\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+MF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd
+TP-INV 88000354.exe 
+MP*-damianocrnofj6793.exe
+SF-C:\Users\admin\AppData\Local\Temp\b79gpxd8
+MP-Invoice.exe 
+TP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MF-EXa3488.14018\malware.exe
+TP*-DataSvcUtil.exe
+MP-xwizard.exe 
+MF-C:\Program files\8527.ico
+SO-https://www.youtube.com/@Omnidev_
+MF-C:\Users\admin\AppData\Local\Temp\6248.exe
+MP-vbs.exe
+MF-C:\Windows\system32\rundll32
+50
+0 1 FR-1
+0 2 UK-1
+1 3 FR-1
+1 4 WR-1
+3 4 WR-1
+1 5 EX-1
+3 5 RD-1
+1 6 ST-1
+3 6 ST-1
+1 7 FR-1
+3 7 UK-1
+1 8 ST-1
+1 9 FR-1
+9 4 UK-1
+1 10 WR-1
+1 11 FR-1
+11 5 EX-1
+11 6 ST-1
+11 8 ST-1
+11 10 WR-1
+12 5 EX-2
+12 6 ST-2
+12 8 ST-2
+12 10 WR-2
+12 13 EX-2
+12 14 WR-2
+6 15 RF-1
+15 8 ST-2
+15 10 WR-2
+12 15 UK-2
+16 8 ST-3
+16 10 WR-3
+16 13 RD-3
+16 14 WR-3
+16 17 WR-3
+18 10 UK-3
+19 13 WR-3
+19 14 UK-3
+16 20 WR-3
+21 13 WR-4
+16 21 IJ-3
+21 17 CD-4
+21 20 WR-4
+22 13 RD-4
+16 22 UK-3
+21 23 RD-4
+24 21 RF-4
+21 25 WR-4
+26 17 UK-4
+21 27 UK-4
+

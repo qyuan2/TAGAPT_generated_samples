@@ -1,0 +1,35 @@
+12
+MP*-cat
+TP-nl
+SO-192.168.159.128
+MP-find
+MF-bash_completion.sh
+TP*-head
+MP*-dd
+SF-flag4.txt
+MF-cron.h
+MF-chttp.c
+MP*-sed
+SF-subprocess.c
+20
+0 1 IJ-1
+2 0 RF-1
+1 2 ST-1
+0 3 UK-1
+1 4 WR-1
+1 5 FR-1
+2 5 RF-1
+5 4 EX-2
+1 6 IJ-1
+6 2 ST-3
+6 4 RD-3
+5 6 UK-2
+1 7 WR-1
+1 8 RD-1
+1 9 WR-1
+1 10 FR-1
+10 2 ST-4
+10 4 RD-4
+10 7 UK-4
+1 11 WR-1
+

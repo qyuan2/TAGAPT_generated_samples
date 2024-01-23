@@ -1,0 +1,61 @@
+18
+MP*-bozon.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/wmicscript.xsl
+SF-C:\Windows\System32\sdiagnhost.exe
+MF-Default_File_Path.ps1
+TP-cronos.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+SF-C:\Windows\System32\powercfg
+TP*-Client.exe 
+TP-ns9510.tmp
+TP*-iexplore.exe 
+MF-files\java\jre1.8.0_301\bin\javaw.exe
+MF-\Windows\system32\wbengine.exe
+TF-C:\Windows\system32\certutil
+MF-C:\Users\admin\AppData\Local\Temp\SYSTEM
+MF-C:\Users\admin\AppData\Local\Temp\mail
+MF-C:\Users\admin\Desktop\tokertokertoker
+MP*-AdFind.exe 
+MF-\temp\atomictestfile.txt
+40
+1 0 RF-1
+0 2 WR-1
+0 3 WR-1
+0 4 IJ-1
+1 4 RF-1
+4 2 EX-1
+4 3 WR-1
+0 5 ST-1
+4 5 ST-2
+0 6 CD-1
+4 6 WR-1
+0 7 FR-1
+1 7 RF-2
+7 2 WR-2
+7 3 EX-2
+4 7 IJ-1
+5 7 RF-2
+7 6 RD-2
+0 8 UK-1
+9 1 ST-3
+9 2 UK-3
+4 10 WR-1
+7 10 WR-2
+4 11 RD-1
+7 11 WR-2
+4 12 WR-1
+7 12 WR-2
+4 13 EX-1
+7 13 EX-2
+4 14 EX-1
+7 14 RD-2
+7 15 WR-2
+16 6 EX-4
+7 16 IJ-2
+16 10 WR-4
+16 11 RD-4
+16 12 WR-4
+16 13 WR-4
+16 14 UK-4
+7 17 WR-2
+

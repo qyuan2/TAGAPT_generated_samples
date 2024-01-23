@@ -1,0 +1,36 @@
+12
+MP*-whoami
+MF-0*.txt
+MF-p.c
+MF-T1574.006.c
+MF-password-hash.sh
+TP-nmap
+TP*-cat
+MF-T1070.004-test.txt
+MP*-ifconfig
+TF-pwquality.c
+MF-T1003.008.txt
+MP*-bash
+21
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 WR-1
+0 5 UK-1
+6 1 RD-2
+6 2 WR-2
+6 3 RD-2
+6 4 WR-2
+6 7 UK-2
+8 1 RD-3
+8 2 WR-3
+8 3 WR-3
+8 4 RD-3
+8 9 WR-3
+8 10 EX-3
+11 1 EX-4
+11 2 WR-4
+11 3 RD-4
+11 4 WR-4
+8 11 UK-3
+

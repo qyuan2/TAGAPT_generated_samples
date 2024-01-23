@@ -1,0 +1,40 @@
+11
+MP*-SearchProtocolHost.exe
+MP*-takeown.exe
+MF-C:\Users\admin\AppData\Local\Temp\34.zip
+MF-C:\Users\admin\Desktop\Default_File_Path
+MF-\Desktop\YOUR_FILES.txt
+SF-C:\Windows\system32\cmd.exe
+MF-T1218.007_JScript.m
+MP-cacls.exe 
+MP*-xcopy.exe
+MF-C:\Users\admin\AppData\Local\Temp\73bdfefd546d1a751a77b6de3a36460b6108a06940a1c9dc73c9dfdd78f8f649.zip
+TP*-Navicat_Keygen_Patch_v3.7.exe 
+26
+0 1 FR-1
+0 2 CD-1
+1 2 WR-2
+0 3 WR-1
+1 3 RD-2
+0 4 CD-1
+1 4 RD-2
+0 5 WR-1
+1 5 WR-2
+0 6 RD-1
+1 6 EX-2
+0 7 FR-1
+1 7 UK-2
+0 8 FR-1
+8 2 WR-3
+8 3 RD-3
+8 4 RD-3
+8 5 EX-3
+8 6 UK-3
+0 9 RD-1
+0 10 FR-1
+10 2 RD-4
+10 3 WR-4
+10 4 WR-4
+10 5 EX-4
+10 9 UK-4
+

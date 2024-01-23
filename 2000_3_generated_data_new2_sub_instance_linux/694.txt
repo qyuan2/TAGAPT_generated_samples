@@ -1,0 +1,33 @@
+11
+MP*-sudo
+SF-image.php
+MF-victim-shred.txt
+TF-resolv.c
+MF-subprocess.c
+MP*-cat
+MF-os.exe
+MP-cat
+TP*-nl
+SF-common.txt
+MP*-iptables
+19
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 RD-1
+0 5 FR-1
+5 1 RD-2
+5 2 RD-2
+5 3 CD-2
+5 4 WR-2
+0 6 WR-1
+5 6 RD-2
+0 7 UK-1
+8 1 WR-3
+8 2 UK-3
+5 9 WR-2
+10 1 WR-4
+10 3 WR-4
+10 4 WR-4
+5 10 UK-2
+

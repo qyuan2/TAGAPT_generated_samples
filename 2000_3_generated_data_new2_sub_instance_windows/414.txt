@@ -1,0 +1,32 @@
+10
+MP*-v6621467.exe
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+TP*-nsA317.tmp
+MF-\Users\admin\AppData\Local\Temp\Dkeyauth.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns958E.tmp
+MP-regsvr32 .exe
+TF-\Users\admin\AppData\Local\Temp\is-KO305.tmp\vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9AE8.tmp
+MP-putty.exe
+MP*-MicrosoftUpdate.exe 
+19
+0 1 FR-1
+0 2 FR-1
+1 2 IJ-2
+0 3 RD-1
+1 3 EX-2
+2 3 RD-3
+0 4 WR-1
+1 4 WR-2
+2 4 WR-3
+0 5 FR-1
+1 5 UK-2
+0 6 RD-1
+2 6 WR-3
+0 7 EX-1
+2 7 WR-3
+0 8 FR-1
+2 8 UK-3
+0 9 FR-1
+9 3 UK-4
+

@@ -1,0 +1,90 @@
+24
+MP*-nbtstat.exe
+MP-iexplore.exe
+MP-Order Confirmation.exe 
+MF-arianat.r
+TP-PC_Cleaner__5509.exe 
+SF-%temp%\secrets 
+TP*-ns9CE0.tmp
+MP-obiokmgf6.exe
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+MF-\Windows\System32\control.exe
+SF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86.sys
+TP-ProcessHacker.exe 
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1218.007/bin/T1218.007_JScript.msi
+SF-C:\Program Files\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate
+TP-ngen.exe
+TP-GLJC215.tmp
+MP*-RegAsm.exe
+SF-C:\Users\admin\AppData\Local\Temp\207aa4515d\oneetx.exe
+MP*-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+MP-taskkill.exe
+MF-%temp%\Windows_Defender_Verification.xml
+SF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+TF-C:\Users\admin\AppData\Local\Temp\EasyValorant.exe
+TP-lsass.exe
+63
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 RD-1
+0 4 FR-1
+4 3 WR-1
+0 5 UK-1
+6 3 RD-2
+4 6 IJ-1
+7 3 WR-2
+4 7 UK-1
+8 3 WR-2
+6 8 IJ-2
+6 9 RD-2
+8 9 CD-2
+6 10 RD-2
+8 10 CD-2
+11 3 EX-2
+6 11 IJ-2
+8 11 IJ-2
+11 9 EX-2
+11 10 RD-2
+12 6 RF-2
+8 12 ST-2
+11 12 ST-2
+6 13 RD-2
+8 13 WR-2
+11 13 RD-2
+6 14 UK-2
+8 15 IJ-2
+15 9 WR-2
+15 10 EX-2
+11 15 IJ-2
+12 15 RF-2
+15 13 WR-2
+8 16 FR-2
+16 9 RD-3
+16 10 WR-3
+11 16 IJ-2
+16 12 ST-3
+16 13 WR-3
+15 16 IJ-2
+8 17 WR-2
+11 17 WR-2
+15 17 WR-2
+16 17 WR-3
+8 18 FR-2
+18 9 EX-4
+18 10 WR-4
+11 18 IJ-2
+12 18 RF-3
+18 13 EX-4
+15 18 IJ-2
+16 18 UK-3
+19 9 WR-4
+19 10 UK-4
+11 20 RD-2
+15 20 WR-2
+11 21 WR-2
+15 21 EX-2
+15 22 WR-2
+23 13 WR-4
+15 23 UK-2
+

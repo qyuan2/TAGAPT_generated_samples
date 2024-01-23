@@ -1,0 +1,123 @@
+28
+MP*-dd
+MF-te.c
+MF-cron.m
+MF-ron.a
+TF-shell.cgi
+MF-logrotate.c
+TP*-dnsdomainname
+MF-ron.a
+TP-awk
+MF-www.google.c
+SO-192.168.206.137:8080
+SF-apache2.c
+MP*-tac
+MP-awk
+MP-bash
+MP-cat
+TP-less
+MF-shell.cgi
+MP-ifconfig
+TP*-ftp
+TP-cat
+MF-atomic.log
+TF-lighttpd.c
+MP-ls
+MF-art.sh
+MP-sed
+MF-at.a
+MP-cat
+92
+0 1 EX-1
+0 2 WR-1
+0 3 WR-1
+0 4 EX-1
+0 5 RD-1
+0 6 IJ-1
+6 1 RD-2
+6 2 WR-2
+6 3 WR-2
+6 4 EX-2
+6 5 RD-2
+0 7 EX-1
+6 7 WR-2
+0 8 IJ-1
+8 1 EX-2
+8 2 WR-2
+8 3 WR-2
+8 4 CD-2
+8 5 RD-2
+6 8 IJ-2
+8 7 RD-2
+0 9 WR-1
+6 9 WR-2
+8 9 WR-2
+0 10 ST-1
+10 6 RF-1
+8 10 ST-2
+6 11 WR-2
+8 11 RD-2
+12 2 WR-3
+12 3 WR-3
+12 4 WR-3
+12 5 WR-3
+6 12 IJ-2
+12 7 RD-3
+8 12 IJ-2
+12 9 WR-3
+10 12 RF-2
+12 11 RD-3
+13 3 RD-3
+13 4 CD-3
+13 5 WR-3
+6 13 IJ-2
+13 7 RD-3
+8 13 IJ-2
+13 9 WR-3
+13 10 ST-3
+13 11 WR-3
+12 13 UK-3
+14 4 RD-3
+14 5 EX-3
+6 14 IJ-2
+14 7 WR-3
+8 14 UK-2
+15 5 WR-3
+6 15 UK-2
+16 7 WR-3
+16 9 WR-3
+10 16 RF-3
+16 11 WR-3
+16 17 WR-3
+18 9 EX-3
+18 10 ST-3
+18 11 WR-3
+16 18 IJ-3
+18 17 RD-3
+19 9 WR-4
+10 19 RF-3
+19 11 RD-4
+16 19 IJ-3
+19 17 WR-4
+18 19 IJ-3
+20 10 ST-4
+20 11 RD-4
+16 20 IJ-3
+20 17 UK-4
+16 21 WR-3
+18 21 WR-3
+19 21 WR-4
+16 22 EX-3
+18 22 WR-3
+19 22 WR-4
+16 23 IJ-3
+18 23 UK-3
+16 24 CD-3
+19 24 WR-4
+16 25 IJ-3
+19 25 UK-4
+16 26 WR-3
+27 21 WR-4
+27 22 WR-4
+27 24 UK-4
+

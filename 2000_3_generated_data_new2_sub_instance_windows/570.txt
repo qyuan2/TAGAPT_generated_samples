@@ -1,0 +1,76 @@
+22
+MP*-svchost.exe
+TP*-control.exe
+MF-C:\Users\admin\AppData\Local\Temp\Payroll_2022
+MP-ns9423.tmp 
+TF-C:\Users\admin\AppData\Local\Temp\Notepad
+TF-C:\Users\admin\AppData\Local\Temp\XClient
+TP-splwow64.exe
+MP*-Ziraat Bankasi Swift Mesaji.exe 
+MP-Dkeyauth.tmp 
+MF-C:\savesdllNetdhcp\explorer.exe
+MF-\Users\o.korol\AppData\Roaming\battery\battery.dat
+TF-C:\Users\admin\AppData\Local\Temp\qgcrmeck
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MF-RAT\test.exe
+MP-POWERPNT.EXE
+MP*-ping.exe
+MF-%temp%\bitsadmin1_flag.ps1
+MF-C:\Users\User\8527.ico
+TF-.*\.sys
+MF-\ServerComponenthostNet\z3dzg.bat
+SF-C:\Users\Public\Pictures\deep-thoughted.ppt
+TP-spnet_state.exe
+51
+0 1 FR-1
+0 2 WR-1
+1 2 RD-2
+0 3 FR-1
+1 3 IJ-2
+3 2 WR-2
+0 4 EX-1
+1 4 WR-2
+3 4 WR-2
+0 5 EX-1
+1 5 WR-2
+3 5 RD-2
+0 6 FR-1
+1 6 IJ-2
+6 2 WR-2
+3 6 IJ-2
+6 4 RD-2
+6 5 UK-2
+0 7 FR-1
+1 7 IJ-2
+7 2 WR-3
+7 4 EX-3
+0 8 FR-1
+1 8 IJ-2
+8 2 RD-3
+3 8 UK-2
+0 9 CD-1
+1 9 RD-2
+7 9 WR-3
+0 10 WR-1
+1 10 WR-2
+7 10 WR-3
+1 11 RD-2
+7 11 CD-3
+12 7 RF-3
+7 13 RD-3
+14 4 RD-3
+7 14 UK-3
+15 9 EX-4
+15 10 WR-4
+15 11 RD-4
+12 15 RF-4
+15 13 WR-4
+15 16 WR-4
+15 17 CD-4
+15 18 WR-4
+15 19 WR-4
+15 20 WR-4
+21 12 ST-4
+21 13 WR-4
+15 21 UK-4
+

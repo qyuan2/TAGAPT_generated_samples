@@ -1,0 +1,79 @@
+21
+MP*-tasklist.exe
+MP-adidnsdump.exe
+SF-C:\Program Files\Hantek2xx2\Driver\Others\Hantek2D42X86.sys
+MP*-Heapman45.exe 
+SF-C:\Users\admin\AppData\Local\Temp\P
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+TF-\Users\admin\AppData\Local\Temp\finance.exe
+MP-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+MF-Files\Setup\Setup\setup.bat
+MP-shutdown.exe
+TF-C:\Users\admin\AppData\Local\Temp\tmp15B6
+TF-\Users\admin\AppData\Local\Temp\3ec1f323b5\danke.exe
+SF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe
+MF-C:\Users\admin\AppData\Local\Temp\Media
+MF-2.a
+TP-mmc.exe
+SO-42.021.871.591
+MP*-avi_previewer_demo.exe
+SF-C:\Program files\29630
+MP*-notepad++.exe
+MP-PC_Cleaner__5509.exe 
+55
+0 1 FR-1
+0 2 UK-1
+1 3 FR-1
+1 4 UK-1
+5 3 RF-2
+3 6 WR-2
+3 7 FR-2
+7 5 ST-2
+7 6 WR-2
+3 8 EX-2
+7 8 WR-2
+3 9 FR-2
+5 9 RF-2
+9 6 EX-2
+9 8 WR-2
+3 10 RD-2
+7 10 WR-2
+9 10 WR-2
+3 11 WR-2
+7 11 WR-2
+9 11 WR-2
+3 12 WR-2
+7 12 CD-2
+9 12 WR-2
+3 13 WR-2
+7 13 RD-2
+9 13 WR-2
+7 14 WR-2
+9 14 WR-2
+5 15 RF-2
+15 6 RD-2
+7 15 IJ-2
+15 8 WR-2
+9 15 IJ-2
+15 10 UK-2
+7 16 ST-2
+16 9 RF-2
+7 17 FR-2
+17 8 EX-3
+17 11 RD-3
+17 12 WR-3
+17 13 WR-3
+17 14 WR-3
+17 16 ST-3
+9 18 WR-2
+17 18 RD-3
+9 19 FR-2
+19 11 RD-4
+19 12 WR-4
+19 13 WR-4
+19 14 EX-4
+19 16 ST-4
+17 19 UK-3
+20 11 WR-4
+20 12 UK-4
+

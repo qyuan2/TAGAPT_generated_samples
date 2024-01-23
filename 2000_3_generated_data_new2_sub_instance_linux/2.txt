@@ -1,0 +1,93 @@
+27
+MP*-grep
+MF-LinEnum.sh
+MP*-git
+SF-anaconda-ks.cfg
+TF-resolv.c
+TP-uname
+MF-raft-large-directories.txt
+SO-192.168.47.155
+MF-2017.pl
+SF-image.php
+SF-1.zip
+MP-nl
+SF-bash_completion.sh
+MP*-ip
+MP-cat
+SO-192.168.10.131
+MP-cat
+MF-f.r
+MP*-ls
+MF-target.example.c
+TP-less
+MF-1.zip
+SF-settings.php
+SO-192.168.206.137
+MP-bash
+MF-td.c
+MF-syslog.c
+63
+0 1 WR-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 WR-2
+0 4 WR-1
+2 4 WR-2
+0 5 FR-1
+5 1 RD-2
+2 5 IJ-2
+5 3 UK-2
+0 6 WR-1
+2 6 WR-2
+0 7 ST-1
+7 2 RF-1
+0 8 WR-1
+2 8 WR-2
+0 9 RD-1
+2 9 UK-2
+0 10 UK-1
+11 1 RD-2
+11 4 RD-2
+11 6 WR-2
+7 11 RF-1
+11 8 RD-2
+11 12 WR-2
+13 4 EX-3
+13 6 WR-3
+13 7 ST-3
+13 8 RD-3
+13 12 CD-3
+14 4 RD-3
+14 6 UK-3
+11 15 ST-2
+13 15 ST-3
+16 7 ST-3
+16 8 RD-3
+11 16 UK-2
+13 17 WR-3
+18 8 WR-4
+18 12 RD-4
+18 15 ST-4
+18 17 RD-4
+13 19 WR-3
+18 19 WR-4
+20 12 WR-4
+13 20 IJ-3
+20 15 ST-4
+20 17 RD-4
+18 20 IJ-4
+20 19 WR-4
+13 21 EX-3
+18 21 WR-4
+20 21 UK-4
+13 22 WR-3
+18 22 RD-4
+13 23 ST-3
+23 18 RF-3
+15 24 RF-3
+24 17 WR-4
+24 19 UK-4
+18 25 WR-4
+18 26 WR-4
+

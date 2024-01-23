@@ -1,0 +1,95 @@
+28
+MP-7za.exe
+SF-C:\Users\admin\AppData\Local\Temp\phish_alert_sp2_2
+MP*-operasetup.exe
+TF-C:\Windows\SysWow64\regsvr32.exe
+MP-svchost.exe
+TP-Purchase_ORDERS087.scr
+MF-Session.pdf
+TP-test.exe 
+TF-C:\Users\admin\AppData\Local\Temp\C3B1.exe
+MF-C:\Users\admin\AppData\Local\Temp\Xd.exe
+SF-C:\Users\admin\AppData\Local\Temp\samplex.doc
+MF-C:\Program Files\VideoLAN\VLC\vlc.exe
+TF-C:\Windows\system32\AutoRun.exe
+MP-renamer-7.5.exe
+TP*-regasm.exe
+MF-C:\Users\admin\AppData\Local\Temp\258b43c67a7efc08f60e52641b445ef9
+MP*-ngen.exe
+TF-C:\Users\admin\AppData\Local\Temp\Invoice
+MP-PC_Cleaner__5509.exe 
+SO-test@corp.com
+TP*-rundll32.exe 
+MF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\vbsstartup.vb
+MF-C:\Windows\System32\WScript.exe
+TF-\Users\admin\AppData\Local\Temp\RESF360.tmp
+SO-192.168.10.11
+MP-MpCmdRun.exe
+MF-C:\Windows\System32\cmd.exe
+TF-C:\Users\admin\Desktop\Paradox RAT\pr2.exe
+64
+0 1 RD-1
+0 2 FR-1
+2 1 EX-1
+0 3 RD-1
+2 3 RD-1
+0 4 UK-1
+5 1 EX-1
+2 5 IJ-1
+5 3 WR-1
+2 6 WR-1
+5 6 RD-1
+7 1 WR-1
+2 7 UK-1
+5 8 WR-1
+5 9 RD-1
+5 10 WR-1
+5 11 WR-1
+5 12 WR-1
+13 3 RD-1
+5 13 UK-1
+14 6 EX-2
+14 8 RD-2
+14 9 WR-2
+14 10 WR-2
+14 11 EX-2
+14 12 WR-2
+14 15 WR-2
+16 6 EX-3
+16 8 WR-3
+16 9 WR-3
+16 10 WR-3
+16 11 EX-3
+16 12 RD-3
+14 16 IJ-2
+16 15 WR-3
+14 17 WR-2
+16 17 WR-3
+18 8 WR-3
+18 9 RD-3
+18 10 RD-3
+18 11 RD-3
+18 12 WR-3
+14 18 UK-2
+19 16 RF-3
+20 10 EX-4
+20 11 RD-4
+20 12 WR-4
+20 15 EX-4
+16 20 IJ-3
+20 17 EX-4
+20 19 ST-4
+16 21 RD-3
+20 21 RD-4
+16 22 RD-3
+20 22 EX-4
+16 23 WR-3
+20 23 CD-4
+24 16 RF-3
+24 20 RF-4
+25 15 RD-4
+25 17 UK-4
+16 26 WR-3
+20 26 RD-4
+20 27 UK-4
+

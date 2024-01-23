@@ -1,0 +1,38 @@
+11
+MP*-echo
+SO-127.0.0.1:8080
+MP*-less
+MP-sed
+TF-art.sh
+SO-127.0.0.1:8080
+SO-http://192.168.10.129/image.php?FUZZ=something
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TP*-wpscan
+MP*-uname
+MF-ron.a
+24
+0 1 ST-1
+0 2 FR-1
+1 2 RF-1
+0 3 FR-1
+1 3 RF-1
+2 3 UK-2
+0 4 WR-1
+5 0 RF-1
+6 0 RF-1
+0 7 ST-1
+0 8 FR-1
+1 8 RF-1
+8 4 CD-3
+8 5 ST-3
+6 8 RF-3
+8 7 ST-3
+0 9 FR-1
+9 1 ST-4
+9 4 WR-4
+5 9 RF-3
+9 6 ST-4
+7 9 RF-3
+8 9 UK-3
+0 10 WR-1
+

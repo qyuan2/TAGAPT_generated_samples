@@ -1,0 +1,40 @@
+13
+MP*-awk
+MF-LinEnum.sh
+MF-anaconda-ks.cfg
+MF-raj.txt
+MF-chttp.c
+MF-T1003.008.txt
+TP*-cat
+SF-p.c
+MF-Discovery.sh
+SO-192.168.10.135
+MF-victim-shred.txt
+SF-settings.php
+MP*-localectl
+24
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 EX-1
+0 5 EX-1
+0 6 IJ-1
+6 1 RD-2
+6 2 EX-2
+6 3 RD-2
+6 4 RD-2
+6 5 WR-2
+0 7 WR-1
+6 7 WR-2
+0 8 EX-1
+6 8 RD-2
+0 9 ST-1
+9 6 RF-1
+0 10 WR-1
+6 10 CD-2
+6 11 WR-2
+12 3 WR-4
+12 4 WR-4
+12 5 WR-4
+6 12 UK-2
+

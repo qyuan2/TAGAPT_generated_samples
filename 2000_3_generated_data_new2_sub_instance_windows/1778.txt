@@ -1,0 +1,60 @@
+17
+MP*-slapd.exe
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\IrSatorLauncher.exe
+MP*-default-browser-agent.exe
+MP-vbs.exe
+MF-PLAZMA.htm
+TP-WerFault.exe
+SF-HKLM\sam
+TF-C:\vLocalServerSetup\VPlugin
+SF-C:\Users\admin\AppData\Local\Temp\Host
+TF-C:\Users\admin\Desktop\CompPkgSrv
+TP*-certutil.exe
+MP*-D911.exe
+TP-nbtstat.exe
+MP-net.exe
+TP-ROUTE.EXE
+MP-nsCFA0.tmp
+MF-C:\Windows\SysWOW64\ytqpvkdx
+40
+0 1 CD-1
+0 2 FR-1
+2 1 CD-2
+0 3 FR-1
+3 1 EX-2
+0 4 WR-1
+2 4 RD-2
+3 4 WR-2
+0 5 FR-1
+5 1 RD-2
+2 5 IJ-2
+3 5 UK-2
+0 6 WR-1
+2 6 RD-2
+0 7 WR-1
+2 7 RD-2
+2 8 WR-2
+2 9 UK-2
+10 1 WR-3
+10 4 EX-3
+10 6 WR-3
+10 7 WR-3
+10 8 WR-3
+11 4 EX-4
+11 6 WR-4
+11 7 CD-4
+11 8 WR-4
+10 11 UK-3
+12 4 WR-4
+12 6 WR-4
+12 7 CD-4
+12 8 WR-4
+13 4 WR-4
+13 6 UK-4
+14 7 WR-4
+14 8 RD-4
+12 14 UK-4
+15 7 EX-4
+15 8 RD-4
+15 16 UK-4
+

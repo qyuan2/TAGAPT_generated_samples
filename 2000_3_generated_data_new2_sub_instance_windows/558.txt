@@ -1,0 +1,56 @@
+17
+MP*-wevtutil.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmpCD64.tmp
+MP-certutil
+MF-C:\Users\admin\AppData\Local\Temp\sample.doc
+MP-OriginalBuild.exe.exe 
+MF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves
+MP*-Notepad Soft.exe 
+MF-Default_File_Path.ps1
+MP*-nsA395.tmp
+MF-C:\Program Files\Microsoft\Skype for Desktop\Skype.exe
+TF-C:\program files\java\jre1
+MF-C:\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6.zip
+MP*-AdobeARM.exe
+TP-cscript.exe
+SF-C:\Users\admin\AppData\Local\Temp\Ekstre
+MP-vssadmin.exe
+TP-nsD62C.tmp
+36
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 RD-1
+2 3 RD-1
+0 4 FR-1
+4 1 RD-1
+2 4 UK-1
+0 5 RD-1
+0 6 FR-1
+6 1 RD-2
+6 3 WR-2
+6 5 WR-2
+0 7 WR-1
+6 7 WR-2
+8 1 EX-3
+8 3 WR-3
+8 5 WR-3
+8 7 UK-3
+6 9 WR-2
+6 10 WR-2
+6 11 WR-2
+12 3 WR-4
+12 5 WR-4
+12 9 RD-4
+12 10 CD-4
+12 11 WR-4
+13 5 WR-4
+6 13 UK-2
+12 14 CD-4
+15 9 RD-4
+15 10 EX-4
+15 11 UK-4
+16 9 RD-4
+16 10 RD-4
+12 16 UK-4
+

@@ -1,0 +1,47 @@
+15
+MP*-cat
+MF-atomic.log
+SF-test.txt
+TF-e2.c
+MP-systemd
+SF-Users.tar.gz
+SF-subprocess.c
+MP*-sed
+MP*-grep
+SF-2017.pl
+MF-raft-medium-directories.txt
+MF-target.example.c
+MF-alertConfigField.php
+MF-sysctl.c
+MP*-bash
+29
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 FR-1
+4 1 UK-1
+0 5 CD-1
+0 6 WR-1
+0 7 FR-1
+7 2 RD-2
+7 3 EX-2
+7 5 RD-2
+7 6 RD-2
+0 8 FR-1
+8 2 RD-3
+8 3 EX-3
+8 5 WR-3
+8 6 RD-3
+0 9 RD-1
+7 9 EX-2
+8 9 WR-3
+0 10 WR-1
+7 10 RD-2
+8 10 EX-3
+7 11 WR-2
+8 11 UK-3
+7 12 WR-2
+7 13 EX-2
+14 6 WR-4
+7 14 UK-2
+

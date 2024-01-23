@@ -1,0 +1,86 @@
+23
+MP*-DllHost.exe 
+SF-C:\Windows\System32\sdiagnhost
+SF-C:\Users\admin\AppData\Local\Temp\Setup.zip
+MF-DumpWCM.ps1
+TP*-Purchase_ORDERS087.scr
+MP*-anydesk.exe
+MF-cipher.exe
+MF-C:\MSOCache\All Users\{90140000-002C-0410-0000-0000000FF1CE}-C\lsass.exe
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\Reader_sl.exe
+MP-AcroRd32.exe 
+TP-E63F.exe
+MP-AcroRd32.exe 
+TF-C:\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023.pdf
+MF-C:\Users\admin\AppData\Local\Temp\tmpA5B6.tmp
+MF-%temp%\nanodump.x64.exe 
+MP-DriverFiles_8a39eacf3b01f2a8c3032697a9824211.exe 
+MF-%temp%\SAMvss
+MF-\Users\admin\AppData\Local\Temp\RES3BD2.tmp
+MF-C:\Users\admin\Adobe\AdobeTray.exe
+SO-http://199.247.25.79/get.php
+MP-863e7c22c771e4005197ae28363584f8.exe 
+TP-msbuild.exe
+MP*-WinSat.exe
+60
+0 1 WR-1
+0 2 RD-1
+0 3 WR-1
+0 4 IJ-1
+4 1 WR-2
+4 2 EX-2
+4 3 WR-2
+0 5 FR-1
+5 1 RD-3
+5 2 WR-3
+5 3 RD-3
+4 5 IJ-2
+0 6 WR-1
+4 6 WR-2
+5 6 WR-3
+0 7 CD-1
+4 7 RD-2
+5 7 WR-3
+0 8 WR-1
+4 8 EX-2
+5 8 RD-3
+9 1 WR-3
+9 2 RD-3
+9 3 WR-3
+4 9 UK-2
+10 1 RD-3
+10 2 RD-3
+10 3 WR-3
+5 10 IJ-3
+10 6 CD-3
+10 7 WR-3
+10 8 EX-3
+11 2 WR-3
+11 3 WR-3
+5 11 UK-3
+10 12 RD-3
+10 13 WR-3
+10 14 RD-3
+15 6 WR-3
+15 7 WR-3
+15 8 WR-3
+10 15 IJ-3
+15 12 UK-3
+10 16 WR-3
+10 17 EX-3
+10 18 WR-3
+10 19 ST-3
+10 20 IJ-3
+20 13 UK-3
+21 14 WR-3
+21 16 WR-3
+21 17 RD-3
+21 18 WR-3
+19 21 RF-3
+22 14 RD-4
+22 16 WR-4
+22 17 WR-4
+22 18 EX-4
+19 22 RF-3
+21 22 UK-3
+

@@ -1,0 +1,119 @@
+36
+MP*-cronos.exe
+SF-C:\Users\admin\AppData\Local\Temp\finance
+TF-Users\{90140000-0018-041F-0000-0000000FF1CE}-C\SearchFilterHost.exe
+MF-\Users\admin\AppData\Roaming\AppData\AppData.exe
+MP*-PDQDeployConsole.exe
+MP-wmic.exe
+TF-\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67.exe
+MF-C:\Users\admin\AppData\Local\Temp\OriginalBuild
+MF-C:\Windows\System32\vdsldr.exe
+TP-shutdown.exe
+MP*-sc.exe
+SF-C:\Users\User\appdata\local\temp\rpvbh
+MF-\Users\admin\AppData\Local\Temp\alg.exe
+MF-%temp%\temp_T1027.zip\T1027.exe
+MF-\Users\admin\AppData\Local\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+MF-\Users\admin\AppData\Local\Temp\IEmode.exe
+TF-\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+SF-C:\Program files\appdata\local\temp\20342.bmp
+TP*-nsA19D.tmp
+MF-C:\Users\admin\AppData\Local\Temp\rPedidodeOfertadePre__o_USP2307
+MF-C:\Program Files\KMSpico\UninsHs
+TP-Host.exe 
+TP-adidnsdump.exe
+MF-files\8527.ico.vb
+MF-C:\Windows\hh
+MP-gsecdump.exe
+MF-C:\Users\admin\AppData\Local\Temp\MV
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+MP-obiokmgf6.exe
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\7za.exe
+SF-C:\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV
+SF-c:\Users\admin\AppData\Local\Temp\CSCDF6A
+TP-y6493242.exe
+TF-C:\Users\admin\AppData\Local\Temp\is-N3R60.tmp
+SF-C:\Users\admin\AppData\Local\Temp\BFB9
+MF-\Users\admin\Desktop\sozszwYnuqgbJM5CJDQgFn.zip
+80
+0 1 RD-1
+0 2 WR-1
+0 3 WR-1
+0 4 FR-1
+4 1 WR-2
+4 2 RD-2
+4 3 EX-2
+0 5 FR-1
+5 1 RD-2
+5 2 RD-2
+5 3 UK-2
+0 6 RD-1
+4 6 EX-2
+0 7 RD-1
+4 7 EX-2
+0 8 EX-1
+4 8 RD-2
+0 9 IJ-1
+9 1 EX-2
+9 2 WR-2
+4 9 UK-2
+10 1 WR-3
+10 2 WR-3
+10 6 WR-3
+10 7 RD-3
+10 8 EX-3
+10 11 WR-3
+10 12 WR-3
+10 13 CD-3
+10 14 WR-3
+10 15 RD-3
+10 16 RD-3
+10 17 RD-3
+18 8 WR-4
+10 18 IJ-3
+18 11 WR-4
+18 12 WR-4
+18 13 RD-4
+18 14 WR-4
+18 15 WR-4
+18 16 WR-4
+18 17 WR-4
+10 19 WR-3
+18 19 CD-4
+10 20 EX-3
+18 20 RD-4
+21 11 RD-4
+21 12 WR-4
+21 13 EX-4
+21 14 RD-4
+21 15 WR-4
+21 16 EX-4
+21 17 UK-4
+22 12 RD-4
+22 13 RD-4
+22 14 EX-4
+22 15 WR-4
+22 16 UK-4
+18 23 WR-4
+18 24 EX-4
+25 15 WR-4
+18 25 IJ-4
+25 19 UK-4
+18 26 RD-4
+18 27 ST-4
+18 28 IJ-4
+28 20 RD-4
+28 23 WR-4
+28 24 EX-4
+28 26 WR-4
+27 28 RF-4
+28 29 EX-4
+28 30 RD-4
+28 31 WR-4
+32 23 RD-4
+32 24 WR-4
+32 26 UK-4
+28 33 EX-4
+28 34 RD-4
+28 35 EX-4
+

@@ -1,0 +1,33 @@
+12
+MP*-id
+MF-pwquality.c
+TP-echo 
+MP-bash 
+MF-robots.txt
+SF-password-hash.sh
+MP*-more
+MP*-cat
+MP*-uname
+SF-backsup.sh
+TP-bash 
+MP-ls
+18
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 UK-1
+2 4 RD-1
+2 5 WR-1
+6 1 WR-2
+2 6 IJ-1
+6 4 WR-2
+6 5 UK-2
+7 1 WR-3
+2 7 UK-1
+8 1 WR-4
+8 4 RD-4
+8 9 WR-4
+10 1 UK-4
+11 4 RD-4
+8 11 UK-4
+

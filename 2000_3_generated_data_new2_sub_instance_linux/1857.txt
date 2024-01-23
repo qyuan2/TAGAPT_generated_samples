@@ -1,0 +1,59 @@
+16
+MP*-cat
+MF-log.c
+SO-8.8.8.8
+TF-1.zip
+MF-flag4.txt
+MF-art.sh
+TP-tail
+MP-ifconfig
+SF-test.txt
+MF-victim-shred.txt
+MF-rockyou.txt
+MP*-paste
+MP-ifconfig
+TP*-nl
+MP*-rev
+MF-T1027-004-test.c
+40
+0 1 RD-1
+2 0 RF-1
+0 3 WR-1
+0 4 RD-1
+0 5 CD-1
+0 6 IJ-1
+6 1 RD-1
+6 2 ST-2
+6 3 RD-1
+6 4 RD-1
+6 5 WR-1
+0 7 FR-1
+7 1 EX-1
+2 7 RF-1
+7 3 WR-1
+7 4 WR-1
+7 5 RD-1
+6 7 IJ-1
+0 8 WR-1
+6 8 RD-1
+7 8 WR-1
+0 9 WR-1
+6 9 RD-1
+7 9 WR-1
+0 10 WR-1
+6 10 WR-1
+7 10 WR-1
+11 1 WR-2
+2 11 RF-2
+11 3 EX-2
+11 4 UK-2
+2 12 RF-2
+12 3 UK-2
+13 5 RD-3
+6 13 UK-1
+14 5 RD-4
+14 8 RD-4
+14 9 EX-4
+14 10 UK-4
+7 15 WR-1
+

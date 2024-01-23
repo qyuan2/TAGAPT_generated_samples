@@ -1,0 +1,129 @@
+30
+MP*-whoami
+SF-rockyou.txt
+TP-tac
+MP-bash
+MP-sh
+TP-ls
+MF-v.c
+TP-paste
+MF-lighttp.c
+SF-backsup.sh
+MF-cron.m
+MP-who
+MP-ifconfig
+SF-Users.tar.gz
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-ufw.c
+MP-cat
+MP-df
+MF-v.c
+TP*-touch
+SO-192.168.37.130
+SO-192.168.0.134
+MF-raft-large-directories.txt
+MF-0*.txt
+MF-access.txt
+TP*-less
+SF-raft-medium-directories.txt
+MP*-grep
+TP-uname
+MP-dd
+96
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 FR-1
+3 1 WR-1
+2 3 UK-1
+0 4 FR-1
+4 1 RD-1
+0 5 FR-1
+5 1 RD-1
+4 5 IJ-1
+0 6 WR-1
+4 6 WR-1
+5 6 EX-1
+0 7 IJ-1
+7 1 WR-1
+4 7 IJ-1
+5 7 IJ-1
+7 6 WR-1
+0 8 RD-1
+4 8 RD-1
+5 8 RD-1
+7 8 EX-1
+0 9 RD-1
+4 9 WR-1
+5 9 WR-1
+7 9 WR-1
+0 10 EX-1
+4 10 WR-1
+5 10 WR-1
+7 10 UK-1
+11 1 RD-1
+4 11 UK-1
+5 12 FR-1
+12 6 RD-1
+12 8 WR-1
+12 9 RD-1
+5 13 RD-1
+12 13 WR-1
+14 5 RF-1
+12 14 ST-2
+5 15 WR-1
+12 15 WR-1
+16 6 RD-1
+16 8 RD-1
+16 9 WR-1
+12 16 UK-1
+17 8 WR-1
+17 9 EX-1
+17 13 EX-1
+17 14 ST-2
+17 15 WR-1
+17 18 WR-1
+19 9 WR-2
+19 13 WR-2
+14 19 RF-2
+19 15 RD-2
+17 19 IJ-1
+19 18 EX-2
+20 19 RF-2
+21 19 RF-2
+19 22 WR-2
+19 23 WR-2
+19 24 WR-2
+25 18 WR-3
+19 25 IJ-2
+25 20 ST-3
+21 25 RF-3
+25 22 RD-3
+25 23 EX-3
+25 24 EX-3
+19 26 WR-2
+25 26 WR-3
+27 18 WR-4
+19 27 IJ-2
+20 27 RF-3
+27 21 ST-4
+27 22 WR-4
+27 23 WR-4
+27 24 EX-4
+25 27 IJ-3
+27 26 RD-4
+19 28 IJ-2
+28 20 ST-4
+28 21 ST-4
+28 22 WR-4
+28 23 RD-4
+28 24 WR-4
+25 28 UK-3
+29 20 ST-4
+21 29 RF-4
+29 22 WR-4
+29 23 RD-4
+29 24 RD-4
+29 26 RD-4
+27 29 UK-4
+

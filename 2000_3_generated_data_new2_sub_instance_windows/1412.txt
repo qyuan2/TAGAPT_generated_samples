@@ -1,0 +1,50 @@
+14
+MP-nsA21B.tmp
+MP*-WMIC.exe 
+TF-C:\Users\admin\AppData\Local\Temp\Renewal
+SF-C:\Users\admin\AppData\Local\Temp\D911
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+SF-c:\Backup
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MF-basitsana.c
+TP*-operasetup.exe
+MP*-c3c6a5675d32fe330b83debceb63d60e.exe 
+MP-jNRtlw
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MP-CCleanerBugReport.exe
+MP*-AcroRd32.exe
+33
+0 1 FR-1
+0 2 UK-1
+1 3 WR-1
+1 4 ST-1
+1 5 RD-1
+6 1 RF-1
+1 7 RD-1
+1 8 FR-1
+8 3 WR-2
+8 4 ST-2
+8 5 WR-2
+6 8 RF-2
+8 7 RD-2
+1 9 FR-1
+9 3 WR-3
+9 4 ST-3
+9 5 RD-3
+6 9 RF-3
+9 7 RD-3
+8 9 IJ-2
+1 10 UK-1
+11 8 RF-2
+11 9 RF-3
+12 3 EX-3
+12 4 ST-3
+12 5 EX-3
+12 6 ST-3
+12 7 WR-3
+8 12 UK-2
+13 5 WR-4
+6 13 RF-3
+13 7 WR-4
+9 13 UK-3
+

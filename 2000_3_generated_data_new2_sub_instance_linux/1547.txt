@@ -1,0 +1,181 @@
+55
+MP-vim
+TP-awk
+SF-at.a
+MP-cat
+MF-www.google.c
+MF-flag3.txt
+SO-http://192.168.10.128/shell.cgi
+MP-cat
+TP-netstat
+MP-awk
+TP-sudo
+MP-cat
+MP-uname
+MP-less
+MF-atomic.log
+TP-bash
+SF-f.r
+MF-te.c
+SF-flag4.txt
+MP-awk
+MP-uname
+MP-nl
+MP-grep
+TP-cat
+MP*-dd
+MF-raj.txt
+SF-e.c
+SF-T1070.004-test.txt
+MF-td.c
+MF-cron.m
+SO-192.168.10.131
+MF-io.r
+SO-atomic@target.example
+SF-T1003.008.txt
+SF-syslog.c
+TP-cat
+MP*-touch
+SF-v.c
+MP-dd
+MP-grep
+TP-cat
+MF-LinEnum.sh
+MP*-vi
+SF-www.google.c
+SO-192.168.10.129
+SO-192.168.159.128
+MF-da-ks.cfg
+SO-192.168.206.137
+TF-echo-art-fish.sh
+MP*-grep
+TF-raft-large-directories.txt
+MF-shell.cgi
+SF-os.exe
+TF-target.example.c
+TP-echo 
+123
+0 1 IJ-1
+0 2 WR-1
+1 2 WR-1
+0 3 FR-1
+1 3 UK-1
+0 4 EX-1
+0 5 WR-1
+0 6 ST-1
+7 2 WR-1
+7 4 WR-1
+7 5 EX-1
+6 7 RF-1
+8 2 RD-1
+8 4 WR-1
+8 5 WR-1
+6 8 RF-1
+7 8 IJ-1
+9 2 RD-1
+9 4 WR-1
+9 5 WR-1
+6 9 RF-1
+7 9 UK-1
+10 2 WR-1
+10 4 WR-1
+10 5 RD-1
+6 10 RF-1
+8 10 IJ-1
+11 4 WR-1
+11 5 WR-1
+6 11 RF-1
+8 11 UK-1
+12 4 CD-1
+12 5 RD-1
+6 12 RF-1
+10 12 UK-1
+13 5 RD-1
+6 13 RF-1
+13 14 WR-1
+13 15 IJ-1
+15 14 UK-1
+13 16 RD-1
+13 17 EX-1
+13 18 UK-1
+19 16 RD-1
+19 17 UK-1
+20 16 RD-1
+21 16 RD-1
+22 16 RD-1
+20 22 UK-1
+23 16 WR-1
+21 23 UK-1
+24 16 WR-1
+24 25 WR-1
+24 26 WR-1
+24 27 WR-1
+24 28 WR-1
+24 29 EX-1
+24 30 ST-1
+24 31 EX-1
+32 24 RF-1
+24 33 EX-1
+24 34 RD-1
+35 25 RD-1
+35 26 WR-1
+35 27 RD-1
+35 28 RD-1
+35 29 RD-1
+30 35 RF-1
+35 31 WR-1
+35 32 ST-1
+35 33 WR-1
+35 34 RD-1
+36 26 RD-2
+36 27 EX-2
+36 28 WR-2
+36 29 WR-2
+36 30 ST-2
+36 31 WR-2
+36 32 ST-2
+36 33 RD-2
+36 34 RD-2
+35 36 IJ-1
+35 37 EX-1
+36 37 UK-2
+38 28 EX-2
+38 29 EX-2
+30 38 RF-1
+38 31 UK-2
+39 29 RD-2
+30 39 RF-1
+39 32 ST-2
+39 33 UK-2
+40 30 ST-2
+40 32 ST-2
+40 34 UK-2
+35 41 WR-1
+42 32 ST-3
+35 42 IJ-1
+42 41 EX-3
+35 43 EX-1
+42 43 RD-3
+35 44 ST-3
+44 42 RF-3
+35 45 ST-1
+42 45 ST-3
+42 46 WR-3
+47 42 RF-3
+42 48 WR-3
+49 41 EX-4
+49 43 EX-4
+44 49 RF-3
+49 45 ST-4
+49 46 WR-4
+49 47 ST-4
+49 48 RD-4
+42 50 UK-3
+49 51 WR-4
+49 52 EX-4
+49 53 RD-4
+54 46 EX-4
+54 47 ST-4
+54 48 RD-4
+49 54 UK-4
+

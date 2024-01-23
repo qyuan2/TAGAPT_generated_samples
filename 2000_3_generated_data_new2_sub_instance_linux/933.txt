@@ -1,0 +1,73 @@
+20
+MP*-sed
+SF-backsup.sh
+MP-more
+MF-flag4.txt
+MF-s.c
+MF-image.php
+SF-os.sys
+MP-cat
+MP*-bash 
+TP*-pr
+SF-s.c
+SO-192.168.47.134:4444
+SO-http://192.168.206.137:8080/robots.txt
+MF-T1574.006.c
+MF-ufw.c
+MF-art.sh
+TF-inetd.c
+MP-cat
+MP*-less
+MP-uname
+50
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 RD-1
+2 3 WR-1
+0 4 RD-1
+2 4 WR-1
+0 5 RD-1
+2 5 WR-1
+0 6 RD-1
+2 6 UK-1
+0 7 FR-1
+7 1 WR-1
+7 3 WR-1
+7 4 UK-1
+0 8 FR-1
+8 1 RD-2
+8 3 RD-2
+8 5 WR-2
+0 9 IJ-1
+9 1 EX-3
+9 3 WR-3
+9 5 EX-3
+8 9 IJ-2
+0 10 WR-1
+8 10 WR-2
+9 10 WR-3
+11 8 RF-2
+9 11 ST-3
+12 8 RF-2
+9 12 ST-3
+8 13 RD-2
+9 13 EX-3
+8 14 RD-2
+9 14 UK-3
+8 15 RD-2
+8 16 WR-2
+8 17 FR-2
+17 10 UK-3
+18 11 ST-4
+18 12 ST-4
+18 13 WR-4
+18 15 WR-4
+18 16 EX-4
+11 19 RF-3
+19 12 ST-4
+19 13 RD-4
+19 15 WR-4
+19 16 RD-4
+18 19 UK-4
+

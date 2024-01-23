@@ -1,0 +1,59 @@
+16
+MP*-rm
+MF-Users.tar.gz
+MF-www.google.c
+TP-bash
+SF-T1070.006-reference.txt
+MF-syslog.c
+MF-httpd.c
+MP-ls
+MF-rc.common file
+MP*-cat
+MP*-dnsdomainname
+MP*-awk
+MF-echo-art-fish.sh
+MF-journald.c
+MP-awk
+MF-cron.m
+40
+0 1 WR-1
+0 2 EX-1
+0 3 FR-1
+3 1 WR-1
+3 2 WR-1
+0 4 EX-1
+3 4 RD-1
+0 5 WR-1
+3 5 EX-1
+0 6 RD-1
+3 6 WR-1
+0 7 UK-1
+3 8 WR-1
+9 1 RD-2
+9 2 RD-2
+3 9 IJ-1
+9 4 RD-2
+9 5 WR-2
+9 6 RD-2
+9 8 WR-2
+10 1 RD-3
+10 2 WR-3
+3 10 IJ-1
+10 4 WR-3
+10 5 EX-3
+10 6 UK-3
+11 1 WR-4
+11 2 WR-4
+3 11 IJ-1
+11 4 EX-4
+11 5 WR-4
+11 8 WR-4
+9 11 UK-2
+3 12 RD-1
+3 13 UK-1
+14 4 CD-4
+14 5 EX-4
+14 8 CD-4
+14 12 RD-4
+14 15 UK-4
+

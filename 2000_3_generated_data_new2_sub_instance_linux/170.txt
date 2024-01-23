@@ -1,0 +1,81 @@
+26
+MP*-bash
+SO-192.168.10.131
+MF-AutoSUID.sh
+MF-etc.tar.gz
+SF-bash_completion.sh
+SO-192.168.10.129
+MP*-teehee
+SF-http.c
+SO-192.168.10.131
+MF-io.r
+MP-echo
+MF-LinEnum.sh
+TF-passwd.zip
+SF-2017.pl
+MF-folders/files
+MP*-tee
+MP*-sed
+MF-T1070.006-access.txt
+SO-http://192.168.0.134/passwd
+MF-lighttp.c
+MF-v.c
+TF-LinEnum.sh
+TF-linux.txt
+SO-192.168.47.134:4444
+MF-2017.pl
+TF-victim-gzip.txt
+52
+0 1 ST-1
+0 2 WR-1
+0 3 WR-1
+0 4 WR-1
+5 0 RF-1
+0 6 FR-1
+6 1 ST-2
+6 2 WR-2
+6 3 RD-2
+6 4 RD-2
+5 6 RF-2
+0 7 WR-1
+6 7 RD-2
+8 0 RF-1
+6 8 ST-2
+0 9 EX-1
+6 9 EX-2
+0 10 UK-1
+6 11 WR-2
+6 12 RD-2
+6 13 RD-2
+6 14 WR-2
+5 15 RF-3
+15 7 WR-3
+15 8 ST-3
+15 9 WR-3
+15 11 RD-3
+15 12 WR-3
+15 13 WR-3
+15 14 WR-3
+6 16 FR-2
+16 7 WR-4
+8 16 RF-2
+16 9 WR-4
+16 11 RD-4
+16 12 WR-4
+16 13 RD-4
+16 14 WR-4
+15 17 WR-3
+16 17 WR-4
+15 18 ST-3
+18 16 RF-3
+15 19 WR-3
+16 19 WR-4
+15 20 EX-3
+16 20 RD-4
+15 21 WR-3
+16 21 RD-4
+15 22 UK-3
+16 23 ST-4
+16 24 WR-4
+16 25 UK-4
+

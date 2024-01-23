@@ -1,0 +1,56 @@
+16
+MP*-installd.exe
+MP*-Paranoid Checker.exe 
+MF-\Users\o.korol\AppData\Roaming\battery\battery.dat
+MF-C:\Users\Public\Music\mediatv.mov
+SF-C:\Windows\explorer.exe
+TP-ns9510.tmp
+MF-C:\Users\admin\AppData\Roaming\SysInfoTool\data
+MF-\Users\admin\AppData\Local\Temp\is-3DL5P.tmp\OperaSetup_UNO.exe
+SO-1.2.840.113556
+MP-ns996E.tmp
+MF-C:\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost.exe
+TP*-863e7c22c771e4005197ae28363584f8.exe 2620
+TP*-FISCALIA GENERAL DE LA NACION --.exe 
+TF-www.facebook.c
+MF-C:\Users\admin\AppData\Local\Temp\system_file
+MF-C:\program files\java\jre1
+37
+0 1 FR-1
+0 2 RD-1
+1 2 RD-2
+0 3 RD-1
+1 3 WR-2
+1 4 WR-2
+1 5 IJ-2
+5 2 WR-2
+5 3 RD-2
+5 4 RD-2
+1 6 WR-2
+5 6 WR-2
+1 7 WR-2
+5 7 WR-2
+8 1 RF-2
+5 8 ST-2
+1 9 UK-2
+5 10 RD-2
+11 2 EX-3
+11 3 WR-3
+11 4 WR-3
+5 11 IJ-2
+11 6 RD-3
+11 7 RD-3
+11 8 ST-3
+11 10 CD-3
+12 3 RD-4
+12 4 RD-4
+5 12 IJ-2
+12 6 WR-4
+12 7 RD-4
+8 12 RF-3
+12 10 WR-4
+11 12 UK-3
+5 13 WR-2
+5 14 RD-2
+5 15 RD-2
+

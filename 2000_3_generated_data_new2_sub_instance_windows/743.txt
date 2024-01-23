@@ -1,0 +1,48 @@
+15
+MP*-ONENOTE.EXE
+TF-C:\Program files\appdata\local\temp\32440
+TF-C:\Windows\system32\regsvr32
+MF-C:\Users\Public\Pictures\deep
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+SF-C:\Users\admin\AppData\Local\Temp\LZ4-SOFT.exe
+MP*-MpCmdRun.exe
+MP*-del.exe
+SF-C:\Users\admin\AppData\Local\Temp\VALENCIA12
+MF-C:\savesdllNetdhcp\System
+MF-c:\windows\system32\msiexec
+TF-OI.vb
+MF-C:\Program Files\Mozilla Firefox\browser
+MF-C:\Users\admin\AppData\Roaming\1.bat
+MP*-hh.exe
+30
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 ST-1
+0 5 WR-1
+0 6 FR-1
+6 1 RD-2
+6 2 RD-2
+6 3 WR-2
+4 6 RF-1
+6 5 WR-2
+0 7 FR-1
+7 1 WR-3
+7 2 WR-3
+7 3 WR-3
+4 7 RF-1
+7 5 RD-3
+0 8 EX-1
+6 8 WR-2
+7 8 UK-3
+0 9 WR-1
+6 9 WR-2
+0 10 WR-1
+6 10 RD-2
+6 11 WR-2
+6 12 WR-2
+6 13 WR-2
+4 14 RF-1
+14 5 WR-4
+6 14 UK-2
+

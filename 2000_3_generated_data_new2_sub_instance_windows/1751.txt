@@ -1,0 +1,87 @@
+22
+MP*-EvaPKO
+MP*-cacls.exe
+TP-wbengine.exe
+MF-DC\Reader\LogTransport2.exe
+MF-C:\Users\admin\AppData\Local\Temp\EF98
+SF-C:\Users\admin\Desktop\readme.xml
+MP-NOTEPAD.EXE 
+SO-https://slpbridge.com/storage/images/debug2.ps1
+SF-C:\Users\admin\AppData\Local\Temp\CreateStudio_Setup
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+MP-xcopy.exe
+MF-C:\Users\admin\AppData\Local\Temp\Host
+MP*-InstaBotPro (1).exe 
+MF-C:\Users\admin\AppData\Local\Temp\mail
+MF-PathToAtomicsFolder\T1059.003\src\t1059.003_cmd.cmd
+MP-nsB9BB.tmp
+MP-facttura.exe
+TP*-Poison.scr 
+TF-\Windows\Microsoft.NET\Framework\v2.0.50727\regsvcs.exe
+SF-%temp%\art.bat
+MP-p2602380.exe
+TP-PowerShell.exe
+62
+0 1 FR-1
+0 2 IJ-1
+1 2 IJ-2
+0 3 EX-1
+1 3 WR-2
+2 3 EX-2
+0 4 RD-1
+1 4 WR-2
+2 4 RD-2
+0 5 WR-1
+1 5 WR-2
+2 5 WR-2
+0 6 FR-1
+2 6 UK-2
+0 7 ST-1
+7 1 RF-1
+0 8 RD-1
+1 8 WR-2
+0 9 ST-1
+1 9 ST-2
+0 10 UK-1
+1 11 WR-2
+12 3 WR-3
+12 4 WR-3
+12 5 WR-3
+12 7 ST-3
+12 8 WR-3
+9 12 RF-2
+12 11 EX-3
+12 13 EX-3
+12 14 EX-3
+15 5 WR-3
+7 15 RF-3
+15 8 RD-3
+15 9 ST-3
+15 11 WR-3
+12 15 UK-3
+7 16 RF-3
+16 8 EX-3
+9 16 RF-3
+16 11 CD-3
+16 13 WR-3
+16 14 WR-3
+17 7 ST-4
+17 8 RD-4
+17 9 ST-4
+17 11 RD-4
+17 13 EX-4
+17 14 WR-4
+16 17 IJ-3
+16 18 WR-3
+17 18 EX-4
+16 19 WR-3
+17 19 WR-4
+20 11 WR-4
+20 13 WR-4
+20 14 EX-4
+16 20 UK-3
+21 11 WR-4
+21 13 WR-4
+21 14 WR-4
+17 21 UK-4
+

@@ -1,0 +1,43 @@
+14
+MP*-Curl.exe
+MP*-crackmapexec.exe
+MF-c:\temp\atomictestfile
+MP-sc.exe
+MP*-setup.exe
+MF-email.getsailebot.net
+SF-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\microphone\NonPackaged\C
+MF-C:\Users\admin\Desktop\tokertokertoker
+MF-\Users\admin\AppData\Local\Temp\PO-REF67340982.rtf
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe
+MF-C:\Users\admin\AppData\Local\Temp\XClient.exe
+MF-C:\Windows\system32\WinSat.exe
+SO-https://clients2.google.com/cr/report
+TP*-setspn.exe
+26
+0 1 FR-1
+0 2 RD-1
+1 2 WR-2
+0 3 FR-1
+1 3 UK-2
+0 4 FR-1
+4 2 EX-3
+0 5 CD-1
+4 5 WR-3
+0 6 RD-1
+4 6 RD-3
+0 7 WR-1
+4 7 WR-3
+0 8 RD-1
+4 8 WR-3
+0 9 EX-1
+4 9 EX-3
+4 10 EX-3
+4 11 EX-3
+4 12 ST-3
+4 13 IJ-3
+13 5 WR-4
+13 6 WR-4
+13 7 RD-4
+13 8 RD-4
+13 9 UK-4
+

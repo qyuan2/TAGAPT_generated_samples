@@ -1,0 +1,38 @@
+13
+MP*-avi_previewer_demo.exe
+SF-C:\Users\admin\Desktop\AkrienBeta
+MP*-ytfovlym.exe
+TP*-icacls.exe
+MP*-VRAPP.exe 
+TF-CmD.exe
+TF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsD0E9.tmp
+SF-C:\Users\admin\Downloads\crypto
+MF-C:\Program Files\CCleaner\Setup
+TF-\Users\admin\AppData\Local\Temp\is-170NV.tmp
+MF-\Users\admin\AppData\Local\Temp\LZ4-SOFT.exe
+MF-\Users\admin\AppData\Local\Temp\XClient.exe
+MF-\RerSpacer710\RerSpacer710.exe
+22
+0 1 EX-1
+0 2 FR-1
+2 1 RD-2
+0 3 IJ-1
+3 1 WR-3
+2 3 UK-2
+0 4 FR-1
+4 1 WR-4
+0 5 WR-1
+4 5 WR-4
+0 6 WR-1
+4 6 EX-4
+0 7 WR-1
+4 7 EX-4
+0 8 RD-1
+4 8 RD-4
+0 9 WR-1
+4 9 WR-4
+0 10 EX-1
+4 10 EX-4
+4 11 WR-4
+4 12 UK-4
+

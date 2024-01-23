@@ -1,0 +1,153 @@
+40
+MP-MicrosoftUpdate.exe 
+SO-https://www.youtube.com/@Omnidev_
+TP-oneetx.exe
+MP-pestudio.exe 
+MF-C:\Users\admin\Desktop\installer.exe
+MF-esentutl.exe
+MF-\Windows\System32\rundll32.exe
+MF-windir\WinSxS\x86_microsoft-windows-errorreportingfaults_31bf3856ad364e35_4.0.9600.16384_none_a13f7e283339a050\WerFault.exe
+SF-C:\Users\admin\AppData\Local\Temp\Purchase_ORDERS087.scr
+MF-3893.bmp
+MP-crack.exe 
+MF-scrobj.dll
+SF-C:\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863
+MP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+MF-\Users\admin\AppData\Local\Temp\is-NIBPL.tmp\HxDSetup.tmp
+SF-C:\Windows\Temp\lsass_dump.dmp
+MP-net1.exe
+MP-soa PDF.exe
+MF-C:\Windows\SysWOW64\svchost.exe
+MF-Explorer\DOMStore\reviewref_protected.exe
+MP-Spora.exe 
+SO-199.247.25.79
+MF-C:\Users\admin\AppData\Local\Temp\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7.zip
+MP-cipher.exe
+MF-C:\Program files\appdata\roaming\battery\battery.cmd
+TP*-DnaohH
+MP-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\CasPol.exe
+SF-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend
+MF-\Atomic-license.txt
+TP*-nsA317.tmp
+MF-C:\Program Files\AnyDesk\AnyDesk
+MP*-mozilla.exe 
+MP-driverquery.exe 
+MF-\Windows\SysWOW64\ytqpvkdx\vlliugwu.exe
+MF-C:\Users\admin\AppData\Roaming\damianoh68951
+MP-audiodg.exe 
+MF-ieadvpack.dll
+MF-C:\Users\All Users\audiodg
+SF-C:\Program files\30802
+110
+1 0 RF-1
+0 2 FR-1
+1 2 RF-1
+0 3 UK-1
+2 4 EX-1
+2 5 RD-1
+2 6 WR-1
+2 7 EX-1
+2 8 WR-1
+2 9 WR-1
+10 1 ST-1
+2 10 IJ-1
+10 4 WR-1
+10 5 UK-1
+2 11 WR-1
+2 12 RD-1
+13 4 WR-1
+13 6 WR-1
+13 7 WR-1
+13 8 RD-1
+13 9 RD-1
+13 11 RD-1
+13 12 WR-1
+13 14 EX-1
+13 15 RD-1
+16 6 RD-1
+16 7 WR-1
+16 8 EX-1
+16 9 RD-1
+16 11 WR-1
+16 12 WR-1
+16 14 RD-1
+16 15 WR-1
+17 7 WR-1
+17 8 RD-1
+17 9 RD-1
+17 11 RD-1
+17 12 UK-1
+13 18 WR-1
+16 18 RD-1
+13 19 RD-1
+16 19 WR-1
+20 11 WR-1
+20 14 CD-1
+20 15 RD-1
+16 20 UK-1
+21 13 RF-1
+13 22 WR-1
+13 23 FR-1
+23 14 EX-1
+23 15 WR-1
+23 18 RD-1
+23 19 EX-1
+21 23 RF-1
+23 22 RD-1
+23 24 EX-1
+25 15 WR-2
+25 18 EX-2
+25 19 EX-2
+21 25 RF-2
+25 22 WR-2
+23 25 IJ-1
+25 24 RD-2
+26 18 WR-2
+26 19 WR-2
+26 21 ST-2
+26 22 EX-2
+23 26 UK-1
+25 27 WR-2
+25 28 WR-2
+25 29 WR-2
+30 21 ST-3
+30 22 WR-3
+30 24 RD-3
+25 30 IJ-2
+30 27 WR-3
+30 28 RD-3
+30 29 WR-3
+25 31 WR-2
+30 31 WR-3
+32 22 WR-4
+32 24 WR-4
+25 32 IJ-2
+32 27 WR-4
+32 28 WR-4
+32 29 WR-4
+30 32 IJ-3
+32 31 WR-4
+33 24 WR-4
+25 33 IJ-2
+33 27 WR-4
+33 28 WR-4
+33 29 WR-4
+30 33 IJ-3
+33 31 WR-4
+32 33 UK-4
+25 34 WR-2
+30 34 WR-3
+25 35 EX-2
+30 35 RD-3
+36 27 WR-4
+36 28 EX-4
+36 29 WR-4
+30 36 IJ-3
+36 31 EX-4
+36 34 WR-4
+36 35 RD-4
+30 37 UK-3
+36 38 WR-4
+36 39 UK-4
+

@@ -1,0 +1,64 @@
+17
+MP*-Document.pdf_Slayed.scr.exe
+MF-C:\Windows\System32\mshta
+MF-ZOR-3261778.pdf
+MF-files\ntuser.dat.tmcontainer.a
+MP-Rar.exe
+SO-192.168.1.1
+TP*-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+MP-New Client.exe
+MP-ns9318.tmp
+MF-C:\Browserweb\csrss
+MP*-Tags.exe 
+MP-wmic.exe
+MP-OneDrive.exe 
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+TF-sqlwriter.exe
+MP-expo.exe
+44
+0 1 WR-1
+0 2 WR-1
+0 3 CD-1
+0 4 FR-1
+4 1 WR-1
+4 2 UK-1
+5 0 RF-1
+0 6 FR-1
+6 1 WR-2
+6 3 RD-2
+6 5 ST-2
+0 7 FR-1
+7 1 RD-3
+7 3 CD-3
+7 5 ST-3
+6 7 IJ-2
+0 8 FR-1
+8 1 WR-3
+8 3 WR-3
+5 8 RF-2
+6 8 IJ-2
+7 8 UK-3
+0 9 FR-1
+9 1 EX-3
+9 3 WR-3
+5 9 RF-2
+6 9 IJ-2
+0 10 RD-1
+6 10 RD-2
+9 10 WR-3
+11 1 WR-4
+11 3 EX-4
+5 11 RF-2
+6 11 IJ-2
+11 10 WR-4
+12 3 WR-4
+5 12 RF-2
+6 12 UK-2
+13 5 ST-4
+9 13 UK-3
+11 14 ST-4
+11 15 EX-4
+16 10 RD-4
+11 16 UK-4
+

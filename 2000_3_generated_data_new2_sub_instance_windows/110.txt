@@ -1,0 +1,48 @@
+14
+MP*-notepad++.exe 
+MF-gmail.us21.list-manage.c
+TP*-anydesk.exe
+SF-C:\Users\admin\AppData\Local\Temp\oldplayer.exe
+SO-8.100.0.203
+TP-hh.exe 
+MF-C:\Program Files\P E Analytics Pvt Ltd\PEPlus\PEPlusLauncher_V2
+SF-c:\*.b
+MF-c:\Backup
+TP-RdrCEF.exe 
+SF-C:\Users\admin\AppData\Local\Temp\facttura
+TP*-taskmgr.exe
+MP*-FrequencyMeasurement.exe
+MP-jNRtlw
+31
+0 1 WR-1
+0 2 FR-1
+2 1 EX-2
+0 3 WR-1
+2 3 WR-2
+4 0 RF-1
+4 2 RF-2
+0 5 FR-1
+5 1 EX-2
+2 5 UK-2
+0 6 RD-1
+0 7 WR-1
+0 8 EX-1
+0 9 IJ-1
+9 1 RD-2
+9 3 UK-2
+0 10 EX-1
+11 1 RD-3
+11 4 ST-3
+11 6 WR-3
+11 7 EX-3
+11 8 UK-3
+4 12 RF-3
+12 6 RD-4
+12 7 RD-4
+12 10 WR-4
+4 13 RF-3
+13 6 WR-4
+13 7 RD-4
+13 10 WR-4
+12 13 UK-4
+

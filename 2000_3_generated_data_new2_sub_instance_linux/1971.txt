@@ -1,0 +1,171 @@
+42
+MP-cat
+MP-ls
+MP-ls
+SF-inetd.c
+TF-victim-shred.txt
+MP*-sed
+MF-at.a
+TP-uname
+MF-s.c
+TP-bash 
+SO-http://192.168.10.128/shell.cgi
+MP-bash 
+MF-password-hash.sh
+TP-less
+MP-dd
+MP*-masscan
+MF-f.r
+MP-whoami
+SO-192.168.10.130
+MP-cd
+MF-p.c
+MF-T1070.006-modification.txt
+MP-ls
+TP-awk
+SF-http.c
+MF-v.c
+MP-ls
+MF-resolv.c
+MP-cat
+MP-uname
+TP*-awk
+MP-ls
+MF-s.c
+SO-192.168.47.155
+MF-art.sh
+SF-target.example.c
+SO-192.168.2.102
+MP-hash-identifier
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TP-more
+MP*-sed
+SF-flag4.txt
+126
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 3 RD-1
+5 4 RD-1
+0 6 RD-1
+5 6 WR-1
+0 7 FR-1
+7 3 EX-1
+7 4 EX-1
+5 7 IJ-1
+7 6 RD-1
+0 8 RD-1
+5 8 CD-1
+7 8 WR-1
+0 9 UK-1
+10 5 RF-1
+7 10 ST-1
+11 3 WR-1
+11 4 EX-1
+11 6 WR-1
+7 11 IJ-1
+11 8 WR-1
+10 11 RF-1
+5 12 EX-1
+7 12 RD-1
+11 12 WR-1
+13 3 WR-1
+13 4 WR-1
+5 13 IJ-1
+13 6 WR-1
+7 13 IJ-1
+13 8 RD-1
+10 13 RF-1
+11 13 UK-1
+14 4 WR-1
+14 6 UK-1
+7 15 FR-1
+15 8 WR-2
+10 15 RF-1
+15 12 RD-2
+7 16 WR-1
+15 16 WR-2
+17 8 WR-2
+17 10 ST-2
+17 12 WR-2
+17 16 RD-2
+18 15 RF-2
+18 17 RF-2
+19 10 ST-2
+19 12 CD-2
+19 16 UK-2
+15 20 WR-2
+17 20 WR-2
+15 21 RD-2
+17 21 WR-2
+15 22 FR-2
+17 22 UK-2
+15 23 FR-2
+23 18 ST-2
+23 20 WR-2
+23 21 RD-2
+15 24 WR-2
+23 24 RD-2
+15 25 RD-2
+23 25 WR-2
+18 26 RF-2
+26 20 UK-2
+23 27 WR-2
+18 28 RF-2
+28 21 EX-2
+23 28 IJ-2
+28 24 WR-2
+28 25 WR-2
+28 27 RD-2
+29 21 WR-2
+23 29 IJ-2
+29 24 EX-2
+29 25 RD-2
+29 27 WR-2
+28 29 UK-2
+30 21 WR-3
+23 30 IJ-2
+30 24 RD-3
+30 25 EX-3
+30 27 EX-3
+31 21 WR-3
+23 31 IJ-2
+31 24 WR-3
+31 25 RD-3
+31 27 RD-3
+30 31 IJ-3
+23 32 EX-2
+30 32 RD-3
+31 32 WR-3
+33 23 RF-2
+30 33 ST-3
+31 33 ST-3
+30 34 WR-3
+31 34 WR-3
+30 35 WR-3
+31 35 RD-3
+36 30 RF-3
+31 36 ST-3
+37 27 WR-3
+30 37 UK-3
+31 38 ST-3
+31 39 FR-3
+39 32 CD-3
+39 33 ST-3
+39 34 EX-3
+39 35 WR-3
+39 36 ST-4
+39 38 ST-3
+31 40 FR-3
+40 32 RD-4
+40 33 ST-4
+40 34 EX-4
+40 35 WR-4
+36 40 RF-4
+40 38 ST-4
+39 40 UK-3
+31 41 WR-3
+

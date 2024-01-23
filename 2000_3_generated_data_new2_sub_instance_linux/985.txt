@@ -1,0 +1,39 @@
+12
+MP*-vi
+MF-art.sh
+TP-paste
+SF-raft-medium-directories.txt
+MF-cron.a
+SO-http://192.168.206.137:8080/robots.txt
+MP*-ls
+SF-AutoSUID.sh
+MP*-python3
+MP*-ifconfig
+SF-http.c
+MP-awk
+24
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 WR-1
+2 3 UK-1
+0 4 RD-1
+5 0 RF-1
+6 1 WR-2
+6 4 EX-2
+5 6 RF-2
+6 7 WR-2
+8 1 WR-3
+8 4 WR-3
+5 8 RF-3
+6 8 UK-2
+9 1 WR-4
+9 4 WR-4
+9 5 ST-4
+9 7 WR-4
+9 10 WR-4
+11 4 WR-4
+11 5 ST-4
+11 7 RD-4
+9 11 UK-4
+

@@ -1,0 +1,37 @@
+13
+MP*-sftp
+TF-logrotate.c
+SF-inetd.c
+MP-grep
+MP*-awk
+MF-ufw.log
+SO-8.8.8.8
+MF-logrotate.c
+SO-192.168.37.130
+SF-raj.txt
+MF-lighttp.c
+MP*-cat
+TP*-sed
+21
+0 1 RD-1
+0 2 RD-1
+0 3 UK-1
+4 1 EX-2
+4 2 EX-2
+4 5 WR-2
+4 6 ST-2
+4 7 CD-2
+4 8 ST-2
+4 9 RD-2
+4 10 WR-2
+4 11 FR-2
+11 5 WR-3
+11 6 ST-3
+11 7 WR-3
+8 11 RF-2
+11 9 UK-3
+4 12 IJ-2
+12 5 WR-4
+12 6 ST-4
+12 7 UK-4
+

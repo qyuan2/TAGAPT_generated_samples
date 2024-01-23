@@ -1,0 +1,79 @@
+25
+MP*-bash
+MF-anaconda-ks.cfg
+MF-os.sys
+SF-log.c
+MP*-ip
+SO-192.168.47.134:4444
+SF-flag3.txt
+MF-user.r
+TP-tac
+MF-secret.c
+MF-AutoSUID.sh
+MF-raw.githubusercontent.c
+MP-less
+MP-awk
+MP*-tee
+TP-find
+MP*-tac
+MF-Users.tar.gz
+MF-secret.c
+MP-uname
+MF-httpd.c
+SF-at.a
+MP-cat
+TF-cron.a
+SF-alertConfigField.php
+51
+0 1 WR-1
+0 2 RD-1
+0 3 UK-1
+4 1 WR-2
+4 2 EX-2
+4 5 ST-2
+4 6 WR-2
+4 7 WR-2
+8 1 WR-2
+8 2 RD-2
+4 8 IJ-2
+8 5 ST-2
+8 6 WR-2
+8 7 CD-2
+4 9 EX-2
+8 9 WR-2
+4 10 WR-2
+8 10 WR-2
+4 11 WR-2
+8 11 RD-2
+12 2 CD-2
+4 12 UK-2
+13 5 ST-2
+13 6 UK-2
+14 5 ST-3
+14 7 WR-3
+8 14 IJ-2
+14 9 EX-3
+14 10 WR-3
+14 11 WR-3
+15 5 ST-3
+15 7 WR-3
+8 15 UK-2
+16 7 CD-4
+16 9 WR-4
+16 10 RD-4
+16 11 EX-4
+14 17 WR-3
+16 17 EX-4
+14 18 WR-3
+16 18 EX-4
+19 9 EX-4
+19 10 EX-4
+19 11 UK-4
+14 20 WR-3
+16 20 RD-4
+14 21 WR-3
+16 21 WR-4
+14 22 UK-3
+16 23 RD-4
+16 24 WR-4
+

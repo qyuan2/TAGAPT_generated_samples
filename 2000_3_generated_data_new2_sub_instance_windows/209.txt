@@ -1,0 +1,57 @@
+19
+MP*-Dkeyauth.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Ayuaey.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+MP-shutdown.exe
+MP-bcdedit.exe
+MF-C:\Users\admin\AppData\Local\Temp\Poison
+MP*-EFT Remittance copy.exe 
+SO-test@corp.com
+MP-nsD0E9.tmp
+MF-C:\Users\admin\AppData\Local\Temp\is-O3P43.tmp
+MF-PathToAtomicsFolder\T1218.011\src\akteullen.vb
+MP*-client32.exe
+MP*-yiueea.exe 
+MF-PathToAtomicsFolder\T1546\bin\AltWinSock2DLL.dll
+MF-Files\appdata\roaming\reflect.rar
+MF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-\Users\admin\AppData\Local\Hydro\Hydro.jar
+MP-jsc.exe
+35
+0 1 EX-1
+0 2 ST-1
+0 3 FR-1
+3 1 RD-1
+3 2 ST-1
+0 4 FR-1
+4 1 CD-1
+4 2 ST-1
+3 4 UK-1
+0 5 RD-1
+0 6 FR-1
+6 1 WR-2
+6 2 ST-2
+6 5 RD-2
+0 7 ST-1
+7 6 RF-1
+0 8 FR-1
+8 1 UK-2
+6 9 WR-2
+6 10 WR-2
+11 2 ST-3
+11 5 RD-3
+6 11 UK-2
+12 5 WR-4
+7 12 RF-1
+12 9 WR-4
+12 10 WR-4
+12 13 WR-4
+12 14 WR-4
+12 15 WR-4
+12 16 ST-4
+12 17 WR-4
+18 9 EX-4
+18 10 WR-4
+12 18 UK-4
+

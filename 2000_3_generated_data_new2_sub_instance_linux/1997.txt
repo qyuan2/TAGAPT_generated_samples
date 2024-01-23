@@ -1,0 +1,61 @@
+18
+MP*-nl
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+SF-robots.txt
+MF-T1003.008.txt
+TP-bash
+SO-192.168.37.130
+SF-flag3.txt
+TP*-dd
+TP-ls
+TP*-rev
+MF-rockyou.txt
+MF-p.c
+TF-password-hash.sh
+MF-httpd.c
+MF-T1574.006.c
+MF-cron.h
+MP*-tac
+MF-common.txt
+40
+1 0 RF-1
+0 2 WR-1
+0 3 WR-1
+0 4 IJ-1
+1 4 RF-1
+4 2 EX-1
+4 3 WR-1
+0 5 ST-1
+4 5 ST-2
+0 6 CD-1
+4 6 WR-1
+0 7 FR-1
+1 7 RF-2
+7 2 WR-2
+7 3 EX-2
+4 7 IJ-1
+5 7 RF-2
+7 6 RD-2
+0 8 UK-1
+9 1 ST-3
+9 2 UK-3
+4 10 WR-1
+7 10 WR-2
+4 11 RD-1
+7 11 WR-2
+4 12 WR-1
+7 12 WR-2
+4 13 EX-1
+7 13 EX-2
+4 14 EX-1
+7 14 RD-2
+7 15 WR-2
+16 6 EX-4
+7 16 IJ-2
+16 10 WR-4
+16 11 RD-4
+16 12 WR-4
+16 13 WR-4
+16 14 UK-4
+7 17 WR-2
+

@@ -1,0 +1,66 @@
+18
+MP*-tac
+TP-whoami
+SF-T1574.006.c
+TP-git
+SF-target.example.c
+SF-data.zip
+MF-data.tar.gz
+MP*-bash
+MF-d.c
+MF-pwquality.c
+SO-192.168.37.130
+MP-arp-scan
+MP*-cat
+TP-tac
+MP-ls
+MF-subprocess.c
+MP*-sudo
+MP-head
+45
+0 1 IJ-1
+0 2 WR-1
+1 2 WR-1
+0 3 IJ-1
+1 3 UK-1
+0 4 WR-1
+0 5 WR-1
+0 6 WR-1
+0 7 FR-1
+7 2 WR-2
+7 4 WR-2
+7 5 EX-2
+7 6 RD-2
+0 8 WR-1
+7 8 WR-2
+0 9 RD-1
+7 9 WR-2
+0 10 ST-1
+7 10 ST-2
+11 2 WR-2
+11 4 RD-2
+11 5 UK-2
+12 2 WR-3
+12 4 EX-3
+12 6 RD-3
+12 8 CD-3
+12 9 WR-3
+12 10 ST-3
+13 4 EX-3
+13 6 RD-3
+7 13 IJ-2
+13 8 RD-3
+13 9 UK-3
+14 4 WR-3
+14 6 RD-3
+7 14 UK-2
+12 15 WR-3
+16 6 WR-4
+16 8 WR-4
+10 16 RF-3
+16 15 WR-4
+17 8 WR-4
+10 17 RF-3
+17 15 EX-4
+16 17 UK-4
+

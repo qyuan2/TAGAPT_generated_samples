@@ -1,0 +1,42 @@
+12
+MP*-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+SF-C:\Windows\system32\prevhost
+MP*-PDQDeployConsole.exe
+MF-C:\Users\admin\Desktop\Remittance_1021395_092023_111928
+MF-PathToAtomicsFolder\T1574.008\bin\calc.cs
+MF-\Users\admin\AppData\Roaming\yonr\yonr.exe
+MF-test1.txt
+TF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\nsA299.tmp
+MF-C:\Users\Public
+SF-C:\Users\admin\AppData\Local\Temp\tb
+TP*-firefox.exe 
+TP*-jww825a.exe 
+27
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+0 3 WR-1
+2 3 RD-2
+0 4 WR-1
+2 4 WR-2
+0 5 WR-1
+2 5 EX-2
+0 6 WR-1
+2 6 EX-2
+0 7 WR-1
+2 7 WR-2
+0 8 WR-1
+2 8 WR-2
+0 9 WR-1
+2 9 UK-2
+0 10 IJ-1
+10 1 WR-3
+10 3 RD-3
+10 4 UK-3
+11 1 WR-4
+11 3 WR-4
+11 5 WR-4
+11 6 WR-4
+11 7 WR-4
+11 8 UK-4
+

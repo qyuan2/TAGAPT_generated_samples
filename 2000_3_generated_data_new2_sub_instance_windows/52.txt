@@ -1,0 +1,110 @@
+29
+MP-vLocalServerSetup.exe
+SF-C:\Users\admin\AppData\Local\Temp\b
+MF-C:\Users\admin\Desktop\a6197937
+MF-C:\Users\Public\coinmarketcap\1.bat
+MP-adidnsdump.exe
+MP-School_Project.exe 
+TP-shutdown.exe
+MP-School_Project.exe 
+SF-C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+MF-C:\Program Files\FileZilla FTP Client\filezilla.exe
+MF-\Users\admin\Downloads\Scanned_file_PO23_Jan.exe
+SF-C:\Users\admin\Desktop\installer.exe
+TP*-MMFbbhOyNS.exe
+TF-Menu\Programs\StartUp\vbsstartup.vb
+TP-ns9C62.tmp
+SF-c:\Users\admin\AppData\Local\Temp\CSCF236.tmp
+TP-PsExec.exe
+SO-80.0.0.0
+MF-system.net.service
+SF-C:\Windows\System32\Curl
+TP-ns9423.tmp 
+MP*-Curl.exe
+MF-\Windows\System32\bitsadmin.exe
+MP*-ns9EC8.tmp 
+SF-C:\Windows\system32\vssvc.exe
+MP*-snuvcdsm.exe 
+MF-hh.exe
+MF-\Users\admin\AppData\Local\Temp\sample-store-survey-questionnaire-retail.zip
+MP-ExplorerSuite.exe
+78
+0 1 WR-1
+0 2 CD-1
+0 3 EX-1
+0 4 UK-1
+5 1 WR-1
+5 2 WR-1
+5 3 UK-1
+6 1 RD-1
+6 2 WR-1
+7 1 WR-1
+7 2 UK-1
+6 8 EX-1
+6 9 RD-1
+6 10 EX-1
+6 11 UK-1
+12 8 WR-1
+12 9 RD-1
+12 10 RD-1
+12 13 WR-1
+14 8 WR-1
+14 9 WR-1
+14 10 RD-1
+12 14 IJ-1
+14 13 WR-1
+12 15 WR-1
+14 15 WR-1
+16 8 WR-1
+16 9 RD-1
+16 10 EX-1
+12 16 IJ-1
+16 13 RD-1
+14 16 IJ-1
+16 15 EX-1
+17 12 RF-1
+14 17 ST-1
+17 16 RF-1
+12 18 WR-1
+14 18 EX-1
+16 18 WR-1
+12 19 RD-1
+14 19 RD-1
+16 19 WR-1
+20 10 WR-1
+12 20 IJ-1
+20 13 RD-1
+14 20 UK-1
+12 21 IJ-1
+21 13 WR-2
+21 15 RD-2
+16 21 IJ-1
+17 21 RF-1
+21 18 WR-2
+21 19 WR-2
+12 22 WR-1
+16 22 RD-1
+21 22 RD-2
+23 13 WR-3
+23 15 WR-3
+16 23 IJ-1
+23 17 ST-3
+23 18 RD-3
+23 19 WR-3
+23 22 WR-3
+16 24 RD-1
+21 24 RD-2
+23 24 RD-3
+25 15 EX-4
+16 25 IJ-1
+25 17 ST-4
+25 18 WR-4
+25 19 RD-4
+21 25 UK-2
+16 26 WR-1
+23 26 WR-3
+23 27 EX-3
+28 19 RD-4
+28 22 EX-4
+23 28 UK-3
+

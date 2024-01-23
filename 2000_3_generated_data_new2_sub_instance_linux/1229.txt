@@ -1,0 +1,50 @@
+13
+MP*-tac
+TP-cat
+MF-logrotate.c
+SF-apache2.c
+TF-pd.c
+TF-ufw.c
+MF-ret.c
+MF-shell.cgi
+MP*-curl
+MP-cat
+MP*-dd
+MP*-more
+MP-scp
+34
+0 1 FR-1
+0 2 EX-1
+1 2 RD-1
+0 3 RD-1
+1 3 WR-1
+0 4 UK-1
+1 5 WR-1
+1 6 WR-1
+1 7 RD-1
+1 8 IJ-1
+8 2 CD-2
+8 3 WR-2
+8 5 RD-2
+8 6 EX-2
+8 7 RD-2
+1 9 FR-1
+9 2 WR-2
+9 3 UK-2
+1 10 IJ-1
+10 2 RD-3
+10 5 RD-3
+10 6 WR-3
+10 7 WR-3
+1 11 IJ-1
+11 2 CD-4
+11 5 WR-4
+11 6 WR-4
+11 7 RD-4
+10 11 UK-3
+12 2 WR-4
+12 5 WR-4
+12 6 WR-4
+12 7 CD-4
+8 12 UK-2
+

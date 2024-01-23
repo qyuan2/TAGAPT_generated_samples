@@ -1,0 +1,55 @@
+15
+MP*-java.exe
+MF-\Microsoft\Edge\Application\msedge.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MF-C:\Users\admin\AppData\Local\EsetSecurity\Перечень
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MP*-Reader_sl.exe
+MF-C:\Users\admin\AppData\Local\Temp\Lagnybussynotaires
+MP-ns9510.tmp
+MP*-vds.exe
+TP*-nsA12F.tmp
+SO-https://clients2.google.com/cr/report
+TP-explorer.exe 
+MF-\Windows_Defender_Cleanup.xml
+MP-Scan20230717_newshipment 202333pdf.exe
+MP-WinRAR.exe
+37
+0 1 WR-1
+0 2 ST-1
+0 3 WR-1
+4 0 RF-1
+0 5 FR-1
+5 1 WR-2
+2 5 RF-1
+5 3 RD-2
+5 4 ST-2
+0 6 RD-1
+5 6 WR-2
+0 7 FR-1
+7 1 RD-2
+2 7 RF-1
+7 3 UK-2
+0 8 FR-1
+8 1 WR-3
+2 8 RF-1
+8 4 ST-3
+5 8 UK-2
+0 9 FR-1
+9 1 WR-4
+2 9 RF-1
+4 9 RF-2
+9 6 RD-4
+0 10 ST-1
+10 9 RF-1
+11 1 RD-4
+11 2 ST-4
+4 11 RF-2
+11 6 UK-4
+9 12 UK-4
+13 4 ST-4
+10 13 RF-1
+4 14 RF-2
+14 10 ST-4
+13 14 UK-4
+

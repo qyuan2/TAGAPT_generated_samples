@@ -1,0 +1,46 @@
+12
+MP*-grep
+MF-0*.txt
+TP-nl
+MF-ret.c
+MF-T1574.006.c
+MF-rc.common file
+SO-192.168.10.131
+MP*-cat
+MP*-tac
+TF-victim-gzip.txt
+MF-pd.c
+MP*-prel
+31
+0 1 WR-1
+0 2 IJ-1
+2 1 WR-1
+0 3 WR-1
+2 3 WR-1
+0 4 EX-1
+2 4 WR-1
+0 5 EX-1
+2 5 RD-1
+6 0 RF-1
+2 6 ST-1
+0 7 FR-1
+7 1 RD-2
+2 7 IJ-1
+7 3 EX-2
+7 4 WR-2
+7 5 WR-2
+6 7 RF-1
+0 8 FR-1
+8 1 RD-3
+2 8 UK-1
+0 9 WR-1
+7 9 WR-2
+0 10 WR-1
+7 10 RD-2
+11 1 RD-4
+11 3 RD-4
+11 4 WR-4
+11 5 RD-4
+11 6 ST-4
+7 11 UK-2
+

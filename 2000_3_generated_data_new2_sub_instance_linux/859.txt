@@ -1,0 +1,51 @@
+13
+MP*-tee
+MP-sudo
+MF-T1003.008.txt
+SF-resolv.c
+MF-pwquality.c
+TP*-awk
+MF-atomic.log
+TP*-uname
+SF-www.google.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-0*.txt
+MP*-dd
+MP-bash
+35
+0 1 FR-1
+0 2 RD-1
+1 2 WR-1
+1 3 WR-1
+1 4 WR-1
+1 5 FR-1
+5 2 CD-2
+5 3 RD-2
+5 4 EX-2
+1 6 EX-1
+5 6 WR-2
+1 7 FR-1
+7 2 WR-3
+7 3 RD-3
+7 4 WR-3
+5 7 IJ-2
+7 6 WR-3
+1 8 WR-1
+5 8 RD-2
+7 8 RD-3
+9 1 RF-1
+5 9 ST-2
+7 9 ST-3
+1 10 WR-1
+5 10 WR-2
+7 10 WR-3
+11 2 RD-4
+11 3 WR-4
+11 4 WR-4
+5 11 IJ-2
+11 6 WR-4
+7 11 UK-3
+12 3 RD-4
+12 4 EX-4
+5 12 UK-2
+

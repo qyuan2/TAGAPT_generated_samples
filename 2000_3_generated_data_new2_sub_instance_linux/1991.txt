@@ -1,0 +1,113 @@
+30
+MP*-cat
+SO-192.168.159.128
+SO-192.168.206.0
+MF-logrotate.c
+SO-http://192.168.0.134/passwd
+MP*-cat
+SO-192.168.10.133
+MP-cat
+MF-cron.h
+MP-ls
+SF-access.htm
+SO-http://192.168.10.128/shell.cgi
+MF-raw.githubusercontent.c
+MF-lv.c
+TF-lighttpd.c
+MF-LinEnum.sh
+MP-dmesg
+MP-paste
+MP*-bash
+SO-192.168.206.137:8080
+MP-more
+SO-192.168.10.135
+MF-T1027-004-test.c
+MF-resolv.c
+MP-sed
+TF-0*.txt
+TP*-pr
+MP-more
+MF-alertConfigField.php
+TP-hydra
+80
+0 1 ST-1
+2 0 RF-1
+0 3 WR-1
+0 4 ST-1
+0 5 FR-1
+1 5 RF-1
+5 2 ST-2
+5 3 WR-2
+5 4 ST-2
+0 6 ST-1
+6 5 RF-1
+0 7 FR-1
+7 1 ST-2
+2 7 RF-2
+7 3 RD-2
+7 4 ST-2
+5 7 UK-2
+0 8 WR-1
+0 9 FR-1
+1 9 RF-1
+2 9 RF-2
+9 3 RD-2
+4 9 RF-2
+6 9 RF-1
+9 8 EX-2
+0 10 UK-1
+11 9 RF-2
+9 12 EX-2
+9 13 RD-2
+9 14 WR-2
+9 15 WR-2
+16 6 ST-2
+16 8 WR-2
+16 11 ST-2
+16 12 EX-2
+16 13 EX-2
+16 14 RD-2
+16 15 WR-2
+17 8 WR-2
+9 17 UK-2
+18 11 ST-3
+18 12 WR-3
+18 13 WR-3
+18 14 RD-3
+18 15 WR-3
+19 18 RF-3
+20 11 ST-3
+20 12 WR-3
+20 13 UK-3
+21 18 RF-3
+18 22 WR-3
+18 23 WR-3
+24 15 RD-3
+19 24 RF-3
+24 21 ST-4
+24 22 EX-3
+24 23 WR-3
+18 25 CD-3
+24 25 WR-3
+18 26 FR-3
+19 26 RF-4
+26 21 ST-4
+26 22 RD-4
+26 23 WR-4
+24 26 IJ-3
+26 25 WR-4
+18 27 FR-3
+19 27 RF-4
+27 21 ST-4
+27 22 WR-4
+27 23 RD-4
+24 27 UK-3
+18 28 WR-3
+26 28 WR-4
+29 19 ST-4
+21 29 RF-4
+29 22 WR-4
+29 23 EX-4
+29 25 RD-4
+26 29 UK-4
+

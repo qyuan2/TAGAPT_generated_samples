@@ -1,0 +1,53 @@
+18
+MP*-cat
+SO-192.168.47.155
+MP*-awk
+SF-robots.txt
+SO-atomic@target.example
+MF-secret.c
+MF-te.c
+MP-less
+MF-ttpd.c
+SO-http://192.168.0.134/passwd
+MP*-teehee
+SF-1.zip
+SO-atomic@target.example
+MF-s.c
+MF-ufw.c
+MF-rc.common file
+MF-www.google.c
+MP*-less
+32
+1 0 RF-1
+0 2 FR-1
+1 2 RF-2
+0 3 RD-1
+2 3 RD-2
+0 4 ST-1
+2 4 ST-2
+0 5 WR-1
+2 5 WR-2
+0 6 WR-1
+2 6 RD-2
+0 7 UK-1
+2 8 RD-2
+2 9 ST-2
+10 1 ST-3
+10 3 RD-3
+10 4 ST-3
+10 5 WR-3
+10 6 WR-3
+10 8 WR-3
+10 9 ST-3
+2 11 WR-2
+10 11 RD-3
+12 2 RF-2
+10 12 ST-3
+10 13 WR-3
+10 14 WR-3
+10 15 WR-3
+10 16 WR-3
+17 8 WR-4
+17 9 ST-4
+10 17 UK-3
+

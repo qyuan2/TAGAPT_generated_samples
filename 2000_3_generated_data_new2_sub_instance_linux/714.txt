@@ -1,0 +1,40 @@
+10
+MP*-ifconfig
+MF-s.c
+MP*-paste
+MF-1.zip
+SO-http://192.168.10.128/shell.cgi
+MF-image.php
+SF-secret.c
+MP-less
+MP*-bash
+MP*-echo 
+27
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+0 3 WR-1
+2 3 WR-2
+4 0 RF-1
+2 4 ST-2
+0 5 WR-1
+2 5 WR-2
+0 6 WR-1
+2 6 WR-2
+0 7 FR-1
+7 1 WR-2
+2 7 UK-2
+0 8 FR-1
+8 1 CD-3
+8 3 WR-3
+8 4 ST-3
+8 5 RD-3
+8 6 WR-3
+0 9 FR-1
+9 1 WR-4
+9 3 RD-4
+4 9 RF-2
+9 5 WR-4
+9 6 WR-4
+8 9 UK-3
+

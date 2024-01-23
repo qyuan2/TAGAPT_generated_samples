@@ -1,0 +1,189 @@
+49
+MP*-grep
+TP-uname
+SO-192.168.159.128
+MP-sh
+MF-passwd.zip
+MP-nl
+MF-sysctl.c
+MP-awk
+MP-sed
+MF-T1574.006.c
+SO-192.168.37.130
+MP-tail
+MF-at.a
+MP-bash
+MP-uname
+MP-less
+MP*-cat
+SO-192.168.206.137
+MF-cron.h
+MF-T1574.006.c
+SF-os.sys
+MP*-ls
+MP-uname
+SO-8.8.8.8
+SF-ufw.c
+MF-on.a
+TP-rev
+MP*-sed
+MP-ifconfig
+MP-bash
+SF-T1574.006.c
+MF-access.htm
+MF-T1003.008.txt
+SF-os.sys
+TF-data.zip
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP-sudo
+MF-target.example.c
+MF-test.txt
+MP-find
+SO-192.168.10.128
+MF-T1070.006-reference.txt
+MF-atomic.log
+MP-bash
+SF-1.zip
+MF-ufw.c
+MF-da-ks.cfg
+SF-flag4.txt
+TP-who
+137
+0 1 FR-1
+0 2 ST-1
+1 2 ST-1
+0 3 FR-1
+1 3 IJ-1
+3 2 ST-1
+0 4 WR-1
+1 4 EX-1
+3 4 RD-1
+0 5 FR-1
+1 5 IJ-1
+5 2 ST-1
+3 5 UK-1
+0 6 WR-1
+1 6 RD-1
+0 7 FR-1
+1 7 UK-1
+0 8 FR-1
+2 8 RF-1
+8 4 EX-1
+8 6 WR-1
+0 9 WR-1
+8 9 WR-1
+0 10 ST-1
+10 8 RF-1
+11 2 ST-1
+11 4 RD-1
+11 6 RD-1
+11 9 RD-1
+10 11 RF-1
+8 12 UK-1
+13 4 RD-1
+13 6 RD-1
+13 9 EX-1
+10 13 RF-1
+14 4 WR-1
+14 6 EX-1
+14 9 RD-1
+10 14 RF-1
+11 14 UK-1
+15 6 WR-1
+15 9 RD-1
+10 15 RF-1
+13 15 UK-1
+16 6 CD-2
+16 9 EX-2
+10 16 RF-1
+16 17 ST-2
+16 18 RD-2
+16 19 WR-2
+16 20 WR-2
+16 21 FR-2
+17 21 RF-2
+21 18 WR-3
+21 19 RD-3
+21 20 WR-3
+16 22 FR-2
+22 17 ST-3
+22 18 RD-3
+22 19 CD-3
+22 20 WR-3
+23 16 RF-2
+23 21 RF-3
+23 22 RF-3
+16 24 WR-2
+21 24 WR-3
+22 24 WR-3
+16 25 WR-2
+21 25 CD-3
+22 25 RD-3
+16 26 IJ-2
+26 17 ST-3
+26 18 RD-3
+26 19 WR-3
+26 20 RD-3
+21 26 IJ-3
+22 26 IJ-3
+26 23 ST-4
+26 24 WR-3
+26 25 UK-3
+27 17 ST-4
+27 18 RD-4
+27 19 WR-4
+27 20 WR-4
+23 27 RF-4
+27 24 RD-4
+28 18 WR-4
+28 19 WR-4
+28 20 WR-4
+21 28 UK-3
+29 19 WR-4
+29 20 WR-4
+22 29 UK-3
+27 30 WR-4
+27 31 EX-4
+27 32 WR-4
+27 33 RD-4
+27 34 RD-4
+27 35 ST-4
+27 36 FR-4
+36 30 WR-4
+36 31 WR-4
+36 32 WR-4
+36 33 WR-4
+36 34 WR-4
+36 35 ST-4
+27 37 CD-4
+36 37 EX-4
+36 38 WR-4
+39 30 RD-4
+39 31 RD-4
+39 32 WR-4
+39 33 CD-4
+39 34 RD-4
+39 35 ST-4
+39 37 UK-4
+36 40 ST-4
+36 41 RD-4
+36 42 WR-4
+43 33 WR-4
+43 34 RD-4
+43 35 ST-4
+43 38 RD-4
+43 40 ST-4
+43 41 WR-4
+43 42 RD-4
+36 44 WR-4
+43 44 EX-4
+36 45 WR-4
+43 45 EX-4
+36 46 WR-4
+43 46 WR-4
+43 47 WR-4
+48 40 ST-4
+48 41 WR-4
+48 42 EX-4
+43 48 UK-4
+

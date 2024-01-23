@@ -1,0 +1,70 @@
+18
+MP*-taskhsvc.exe
+MF-\Windows\Temp\lsass_dump.dmp
+MP*-OUTLOOK.EXE
+SF-C:\Users\All Users\Documents\audiodg
+SO-https://vision.fn-pz.com
+MF-C:\Users\admin\AppData\Local\Temp\tmp4503.tmp
+MF-C:\Users\admin\AppData\Local\Temp\u2qkihjw.cmd
+MF-calc.exe
+MP-EXCEL.EXE
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+TP*-MincedCrackexe_cyb3a.exe 
+TF-C:\Program Files\Bandizip\Bandizip
+MP-cmd.exe
+SF-C:\Users\admin\AppData\Local\Temp\sentinelone
+MP-aafg31.exe 
+MP-Psiphon.exe
+MP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+49
+0 1 RD-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 RD-2
+0 4 ST-1
+2 4 ST-2
+0 5 WR-1
+2 5 WR-2
+0 6 WR-1
+2 6 WR-2
+0 7 RD-1
+2 7 WR-2
+0 8 FR-1
+8 1 WR-2
+2 8 UK-2
+0 9 ST-1
+10 0 RF-1
+11 1 WR-3
+11 3 WR-3
+4 11 RF-2
+11 5 RD-3
+11 6 WR-3
+11 7 WR-3
+11 9 ST-3
+10 11 RF-3
+11 12 WR-3
+13 3 RD-3
+4 13 RF-2
+13 5 EX-3
+13 6 EX-3
+13 7 WR-3
+9 13 RF-3
+13 10 ST-3
+11 13 IJ-3
+13 12 WR-3
+11 14 RD-3
+13 14 EX-3
+15 5 WR-3
+15 6 UK-3
+16 7 RD-3
+16 9 ST-3
+16 10 ST-3
+11 16 UK-3
+17 7 WR-4
+17 9 ST-4
+17 10 ST-4
+17 12 WR-4
+13 17 UK-3
+

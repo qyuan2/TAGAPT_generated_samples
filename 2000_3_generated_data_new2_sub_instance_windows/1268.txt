@@ -1,0 +1,76 @@
+23
+MP*-locale
+SF-cron.a
+TP-dd
+MP-cat
+MF-subprocess.c
+MF-password-hash.sh
+MP-bash
+MP-awk
+SO-192.168.0.134
+MF-sysctl.c
+MP-cat
+TP*-iptables
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP-less
+TP*-tail
+MF-logrotate.c
+TP*-vim
+MF-common.txt
+SF-inetd.c
+MF-locale.c
+MF-syslog.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP-grep
+50
+0 1 WR-1
+0 2 IJ-1
+2 1 EX-1
+0 3 FR-1
+3 1 EX-1
+2 3 UK-1
+0 4 WR-1
+0 5 RD-1
+0 6 FR-1
+6 1 RD-1
+6 4 EX-1
+6 5 RD-1
+0 7 FR-1
+7 1 RD-1
+7 4 WR-1
+7 5 RD-1
+6 7 UK-1
+0 8 ST-1
+0 9 RD-1
+0 10 FR-1
+10 1 RD-1
+10 4 UK-1
+11 1 EX-2
+11 5 WR-2
+8 11 RF-1
+11 9 RD-2
+11 12 ST-2
+13 5 WR-2
+8 13 RF-1
+13 9 WR-2
+11 13 UK-2
+14 5 WR-3
+8 14 RF-1
+14 9 WR-3
+14 12 ST-3
+14 15 WR-3
+16 8 ST-4
+16 9 CD-4
+16 12 ST-4
+14 16 IJ-3
+16 15 EX-4
+14 17 RD-3
+16 17 WR-4
+14 18 EX-3
+16 18 UK-4
+14 19 WR-3
+14 20 RD-3
+21 14 RF-3
+22 12 ST-4
+14 22 UK-3
+

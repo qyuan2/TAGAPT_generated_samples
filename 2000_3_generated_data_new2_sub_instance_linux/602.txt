@@ -1,0 +1,41 @@
+13
+MP*-sed
+MF-sysctl.c
+MF-lighttp.c
+MP*-more
+SF-f.r
+SF-on.a
+SF-1.zip
+MF-resolv.c
+MF-os.exe
+MP*-cat
+MF-log.c
+MF-www.google.c
+MP*-dd
+25
+0 1 RD-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-2
+3 2 RD-2
+0 4 WR-1
+3 4 EX-2
+0 5 CD-1
+3 5 RD-2
+0 6 WR-1
+3 6 RD-2
+0 7 WR-1
+3 7 RD-2
+0 8 EX-1
+3 8 EX-2
+0 9 FR-1
+9 1 CD-3
+9 2 RD-3
+9 4 CD-3
+9 5 UK-3
+0 10 CD-1
+3 10 WR-2
+3 11 WR-2
+12 2 WR-4
+3 12 UK-2
+

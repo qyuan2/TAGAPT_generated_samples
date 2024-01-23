@@ -1,0 +1,119 @@
+34
+MP*-KMSpico_setup.exe
+SF-C:\Users\All Users\smss
+MF-C:\Windows\System32\cmd.exe
+MF-\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6.zip
+TP*-ma grosse bite.exe 
+MF-C:\Users\admin\AppData\Local\Temp\finance
+TP-nbtstat.exe
+MF-C:\Users\admin\AppData\Local\Temp\FicheroAnalsis1.rar
+MP-explorer.exe
+MF-C:\Users\admin\Desktop\WinAPIOverride
+MF-%USERPROFILE%\T1560.001
+SF-C:\Windows\system32\taskmgr.exe
+MF-\WINDOWS\system32\scrobj.dll
+MF-C:\Users\admin\AppData\Local\Temp\w2wwpl2p.cmd
+MF-C:\Users\admin\Desktop\NikkiBeach Project ADS\Nikki
+TP-msiexec.exe
+TP*-netsh.exe
+SF-C:\Windows\system32\shell32.dll
+MF-\Users\admin\AppData\Local\Temp\tmp28A8.tmp
+TP-xordump.exe 
+MP-Notepad Soft.exe 
+TP-ns9B66.tmp 
+TP-default-browser-agent.exe
+MP*-rundll32.exe 
+MF-\Users\admin\AppData\Local\Temp\5EAD.exe
+TF-\Users\admin\AppData\Local\Temp\000001.tmp
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9423.tmp
+TF-C:\Windows\System32\vdsldr
+TP-schtasks.exe 
+MP-ntvdm.exe
+MF-C:\Users\admin\AppData\Local\Temp\IMPORTANTE
+MP-AutoPico.exe
+TF-C:\Users\admin\AppData\Local\Temp\444444.png
+SF-C:\Users\admin\AppData\Local\Temp\Dieselmotorers.exe
+82
+0 1 CD-1
+0 2 WR-1
+0 3 WR-1
+0 4 FR-1
+4 1 WR-2
+4 2 EX-2
+4 3 RD-2
+0 5 RD-1
+4 5 CD-2
+0 6 FR-1
+6 1 EX-2
+6 2 WR-2
+6 3 WR-2
+4 6 IJ-2
+6 5 WR-2
+0 7 WR-1
+4 7 RD-2
+6 7 RD-2
+0 8 FR-1
+8 1 WR-2
+8 2 WR-2
+8 3 WR-2
+4 8 IJ-2
+8 5 WR-2
+6 8 UK-2
+0 9 WR-1
+4 9 WR-2
+0 10 RD-1
+4 10 RD-2
+4 11 RD-2
+4 12 WR-2
+4 13 RD-2
+4 14 CD-2
+15 5 CD-2
+15 7 RD-2
+15 9 WR-2
+15 10 CD-2
+15 11 RD-2
+15 12 WR-2
+15 13 UK-2
+16 7 WR-3
+16 9 WR-3
+16 10 WR-3
+16 11 WR-3
+16 12 RD-3
+16 14 WR-3
+16 17 CD-3
+16 18 WR-3
+19 9 WR-3
+19 10 WR-3
+19 11 UK-3
+20 10 WR-3
+20 12 WR-3
+20 14 RD-3
+16 20 IJ-3
+20 17 EX-3
+20 18 RD-3
+21 12 UK-3
+22 14 WR-3
+16 22 IJ-3
+22 17 RD-3
+22 18 EX-3
+20 22 UK-3
+23 14 WR-4
+16 23 IJ-3
+23 17 EX-4
+23 18 WR-4
+16 24 RD-3
+23 24 WR-4
+16 25 UK-3
+23 26 RD-4
+23 27 RD-4
+28 18 UK-4
+23 29 FR-4
+29 24 WR-4
+29 26 UK-4
+23 30 WR-4
+23 31 FR-4
+31 24 WR-4
+31 27 UK-4
+23 32 RD-4
+23 33 RD-4
+

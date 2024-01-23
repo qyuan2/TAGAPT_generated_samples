@@ -1,0 +1,105 @@
+31
+MP*-Paranoid Checker.exe 
+MP-secedit.exe
+MF-C:\Users\admin\AppData\Local\Hydro\Hydro.jar
+MF-output_mysecpol.txt
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+MP-FISCALIA GENERAL DE LA NACION --.exe 
+MP-Dkeyauth.tmp 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+TP*-WINWORD.EXE
+MP-Notepad.exe
+MP-lk.exe 
+MP-AcroRd32.exe 
+MF-C:\Users\admin\Desktop\abe2ccc4b4bb38f9e7af5cfe7dcc331c5a3ce286b6995b81cf26e011beba7e90
+TF-\Users\admin\AppData\Roaming\StackTrace\Entry.exe
+MP*-ipconfig.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+MP-setup.exe 
+MF-C:\Users\admin\AppData\Local\Temp\is-G3M3S.tmp
+TF-\Windows_Defender_Verification.xml
+MP*-javaw.exe 
+TF-\temp\atomictestfile.txt
+MP-file.exe 
+TP-system_file.exe 
+TP-sitool.exe
+MF-C:\Program Files\AsLocal\2
+MF-C:\Program Files\Microsoft\Skype for Desktop\Skype.exe
+MP-keygen.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+SF-C:\Program Files\Windows Defender\MpCmdRun
+MF-C:\Users\admin\AppData\Local\Temp\IXP002
+MF-.\ExternalPayloads\PsExec.exe
+71
+0 1 FR-1
+0 2 WR-1
+1 2 RD-1
+0 3 EX-1
+1 3 UK-1
+4 0 RF-1
+0 5 FR-1
+5 2 RD-1
+5 4 ST-1
+0 6 FR-1
+6 2 EX-1
+4 6 RF-1
+5 6 UK-1
+7 0 RF-1
+0 8 IJ-1
+8 2 RD-2
+8 4 ST-2
+8 7 ST-2
+0 9 FR-1
+9 2 RD-2
+9 4 ST-2
+9 7 ST-2
+8 9 UK-2
+0 10 FR-1
+10 2 RD-2
+10 4 ST-2
+7 10 RF-2
+11 2 EX-2
+11 4 ST-2
+7 11 RF-2
+11 12 EX-2
+11 13 UK-2
+7 14 RF-2
+14 12 WR-3
+14 15 ST-3
+7 16 RF-2
+16 12 WR-3
+16 15 ST-3
+14 17 WR-3
+16 17 RD-3
+14 18 EX-3
+16 18 EX-3
+19 12 WR-4
+15 19 RF-3
+19 17 RD-4
+19 18 RD-4
+14 20 WR-3
+16 20 WR-3
+19 20 WR-4
+21 12 EX-4
+15 21 RF-3
+16 21 UK-3
+22 12 UK-4
+14 23 IJ-3
+23 15 ST-4
+23 17 WR-4
+23 18 UK-4
+14 24 CD-3
+19 24 WR-4
+19 25 WR-4
+26 17 EX-4
+26 20 EX-4
+26 24 RD-4
+26 25 WR-4
+19 27 ST-4
+26 27 ST-4
+19 28 WR-4
+26 28 EX-4
+19 29 WR-4
+26 29 WR-4
+26 30 UK-4
+

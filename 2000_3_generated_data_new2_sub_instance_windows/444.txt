@@ -1,0 +1,65 @@
+20
+MP*-iexplore.exe
+MP*-some_malicious_file.bin.exe
+SO-https://pasalaganando.com/?utm_source=crm&utm_medium=email&utm_campaign=bancolombia_10_pct_facturacion
+MP*-Invoice.exe 
+TP*-Psiphon.exe
+TF-C:\Users\admin\AppData\Local\Temp\UpdateService.bat
+MP-AdobeARM.exe
+TP-Order specification.exe
+MF-advpack.dll
+TP-NOTEPAD.EXE
+MF-C:\vLocalServerSetup\VPlugin.dll
+SO-hxxp://68.183.9[.]9/get.php
+MF-\Users\Public\coinmarketcap\1.bat
+MP-TruffleSnout.exe
+MF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04.exe
+TF-legosa.exe
+TP-T1027.exe
+SF-C:\Users\Public\coinmarketcap\1
+MP-0IuqaJTsFmOw8k4.exe
+TP-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+42
+0 1 FR-1
+0 2 ST-1
+2 1 RF-1
+0 3 FR-1
+3 2 ST-3
+0 4 IJ-1
+1 4 IJ-2
+2 4 RF-3
+3 4 IJ-3
+0 5 RD-1
+1 5 WR-2
+3 5 CD-3
+4 5 RD-4
+0 6 FR-1
+6 2 ST-4
+3 6 UK-3
+0 7 IJ-1
+1 7 UK-2
+0 8 WR-1
+4 8 RD-4
+0 9 UK-1
+4 10 WR-4
+4 11 ST-4
+4 12 RD-4
+4 13 IJ-4
+13 5 WR-4
+13 8 CD-4
+13 10 WR-4
+13 11 ST-4
+13 12 RD-4
+4 14 RD-4
+13 14 WR-4
+13 15 RD-4
+16 8 EX-4
+16 10 RD-4
+11 16 RF-4
+16 12 UK-4
+13 17 EX-4
+18 8 WR-4
+18 10 UK-4
+19 11 ST-4
+13 19 UK-4
+

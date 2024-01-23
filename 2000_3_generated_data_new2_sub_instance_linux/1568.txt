@@ -1,0 +1,33 @@
+11
+MP*-dirb
+MP*-sh
+SF-etc.tar.gz
+SO-atomic@target.example
+TF-td.c
+MP*-find
+TF-syslog.c
+MF-settings.php
+TF-image.php
+TP-awk
+MP*-cat
+19
+0 1 FR-1
+0 2 WR-1
+1 2 EX-2
+3 0 RF-1
+1 3 ST-2
+0 4 UK-1
+1 5 FR-2
+5 2 WR-3
+5 3 ST-3
+1 6 WR-2
+5 6 WR-3
+1 7 WR-2
+5 7 WR-3
+1 8 EX-2
+5 8 WR-3
+1 9 UK-2
+10 2 WR-4
+3 10 RF-2
+5 10 UK-3
+

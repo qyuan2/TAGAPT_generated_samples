@@ -1,0 +1,105 @@
+25
+MP*-grep
+MP-nl
+MP-truncate 
+SO-192.168.2.102
+MF-httpd.c
+MP-pr
+MF-inetd.c
+TP-cat
+MF-robots.txt
+SO-192.168.10.129
+TP-sudo
+MP-cat
+TP*-cat
+SO-127.0.0.1:8080
+MP-rev
+MP*-ftp
+TP*-sed
+MF-Users.tar.gz
+MF-p.c
+MP-cat
+SF-bash_completion.sh
+MF-flag3.txt
+TF-passwd.zip
+MP-ls
+MP-head
+77
+0 1 FR-1
+0 2 FR-1
+0 3 ST-1
+1 3 ST-1
+3 2 RF-1
+0 4 EX-1
+1 4 WR-1
+2 4 RD-1
+0 5 FR-1
+1 5 UK-1
+0 6 WR-1
+2 6 EX-1
+0 7 IJ-1
+2 7 UK-1
+0 8 RD-1
+9 0 RF-1
+0 10 IJ-1
+10 3 ST-1
+10 4 RD-1
+10 6 RD-1
+10 8 WR-1
+10 9 ST-1
+11 3 ST-1
+11 4 EX-1
+11 6 RD-1
+11 8 UK-1
+12 3 ST-2
+12 4 CD-2
+12 6 WR-2
+12 9 ST-2
+10 12 IJ-1
+10 13 ST-2
+12 13 ST-2
+14 4 WR-2
+14 6 RD-2
+14 9 ST-2
+10 14 IJ-1
+12 14 IJ-2
+13 14 RF-2
+15 6 WR-3
+15 9 ST-3
+10 15 IJ-1
+12 15 IJ-2
+13 15 RF-2
+14 15 UK-2
+16 6 RD-4
+16 9 ST-4
+10 16 IJ-1
+12 16 IJ-2
+16 13 ST-4
+10 17 RD-1
+12 17 RD-2
+16 17 EX-4
+10 18 WR-1
+12 18 RD-2
+16 18 WR-4
+9 19 RF-2
+10 19 IJ-1
+12 19 IJ-2
+19 13 ST-4
+16 19 UK-4
+10 20 RD-1
+12 20 WR-2
+12 21 WR-2
+12 22 WR-2
+23 13 ST-4
+23 17 WR-4
+23 18 RD-4
+23 20 WR-4
+23 21 WR-4
+23 22 WR-4
+24 17 WR-4
+24 18 WR-4
+24 20 RD-4
+24 21 WR-4
+24 22 WR-4
+23 24 UK-4
+

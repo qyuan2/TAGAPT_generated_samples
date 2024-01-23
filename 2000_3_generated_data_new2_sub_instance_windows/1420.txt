@@ -1,0 +1,115 @@
+29
+MP*-AnyDesk-a444ebcf.exe 
+SF-C:\Users\admin\AppData\Local\Temp\phish_alert_sp2_2
+MF-sqlservr.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+SF-C:\Users\admin\AppData\Local\Temp\yeni
+SF-C:\Windows\system32\shell32.dll
+MP*-ChainRefBroker.exe  
+SF-C:\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6.zip
+SF-C:\Windows\SysWOW64\help.exe
+TP-GLJC215.tmp
+MP-fltmc.exe
+MF-C:\Users\admin\AppData\Local\Temp\5033182378119
+MF-C:\Windows\SysWOW64\сsrss.exe
+MF-\Users\admin\AppData\Local\Temp\IXP001.TMP\l9614701.exe
+MP-Curl.exe
+SF-C:\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023
+TP-p2602380.exe
+TP*-suifsc.exe 
+MF-Files\Java\jre1.8.0_271\bin\javaw.exe
+MP*-notepad++.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug.log
+MF-C:\Users\admin\AppData\Local\Temp\is-3OMT0.tmp
+SF-C:\Users\admin\AppData\Local\Temp\bfsvc.exe
+MF-\Users\admin\AppData\Local\Temp\renamer-7.5.exe
+TP-Dkeyauth.tmp 
+TP-Ziraat Bankasi Swift Mesaji.exe 
+MF-C:\Users\admin\AppData\Roaming\AppData\AppData.exe
+MF-C:\Program Files\Orcus\Orcus
+MF-\Users\admin\AppData\Roaming\SysInfoTool\data.xml
+83
+0 1 WR-1
+0 2 RD-1
+0 3 ST-1
+0 4 WR-1
+0 5 WR-1
+0 6 FR-1
+6 1 WR-2
+6 2 WR-2
+6 3 ST-2
+6 4 WR-2
+6 5 WR-2
+0 7 EX-1
+6 7 WR-2
+0 8 RD-1
+6 8 WR-2
+0 9 IJ-1
+9 1 RD-2
+9 2 WR-2
+9 3 ST-2
+9 4 RD-2
+9 5 RD-2
+6 9 IJ-2
+9 7 EX-2
+9 8 WR-2
+0 10 FR-1
+10 1 EX-2
+10 2 RD-2
+3 10 RF-1
+10 4 RD-2
+10 5 CD-2
+6 10 UK-2
+9 11 WR-2
+9 12 RD-2
+9 13 RD-2
+14 4 WR-2
+14 5 UK-2
+9 15 RD-2
+16 7 WR-2
+16 8 WR-2
+9 16 IJ-2
+16 11 WR-2
+16 12 EX-2
+16 13 WR-2
+16 15 WR-2
+17 7 WR-3
+17 8 WR-3
+9 17 IJ-2
+17 11 EX-3
+17 12 RD-3
+17 13 WR-3
+17 15 WR-3
+16 17 IJ-2
+9 18 RD-2
+16 18 WR-2
+17 18 WR-3
+9 19 FR-2
+19 11 WR-4
+19 12 WR-4
+19 13 WR-4
+19 15 WR-4
+16 19 IJ-2
+17 19 IJ-3
+19 18 WR-4
+16 20 RD-2
+17 20 EX-3
+19 20 RD-4
+16 21 WR-2
+17 21 RD-3
+19 21 WR-4
+16 22 WR-2
+17 22 RD-3
+19 22 WR-4
+16 23 CD-2
+17 23 WR-3
+19 23 RD-4
+24 15 WR-4
+16 24 UK-2
+25 15 UK-4
+17 26 RD-3
+19 26 RD-4
+17 27 WR-3
+19 27 RD-4
+19 28 UK-4
+

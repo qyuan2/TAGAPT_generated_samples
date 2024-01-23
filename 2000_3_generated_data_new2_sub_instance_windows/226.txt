@@ -1,0 +1,85 @@
+25
+MP*-msbuild.exe
+MP*-cvtres.exe
+MP-suifsc.exe 
+MP-ExplorerSuite.exe
+MP-netsh.exe
+MF-c:\windows\system32\msiexec
+MP-malware.exe 
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+TP-OlympicDestroyer.exe 
+TP-oldplayer.exe 
+MP-cacls.exe
+MF-C:\Users\admin\AppData\Local\Temp\Outstanding
+SF-C:\Windows\SysWOW64\cmd.exe
+MF-\Users\admin\Desktop\poorname.rtf
+MF-C:\Program Files\Microsoft Office\Office14\OUTLOOK
+MP*-OriginalBuild.exe.exe 
+TP*-net.exe
+MP-fast1nject.exe 
+MP-notepad++.exe
+MF-regsvr32.exe
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+TP-Powershell.exe
+MF-windir\System32\WindowsPowerShell\v1.0\powershell.exe
+MP-Nikki Project.scr
+57
+0 1 FR-1
+0 2 UK-1
+1 3 FR-2
+1 4 FR-2
+3 4 UK-2
+1 5 WR-2
+1 6 FR-2
+6 5 EX-2
+1 7 EX-2
+6 7 RD-2
+8 1 RF-2
+6 8 ST-2
+1 9 IJ-2
+9 5 WR-2
+6 9 IJ-2
+9 7 WR-2
+9 8 ST-2
+1 10 FR-2
+10 5 CD-2
+6 10 UK-2
+1 11 FR-2
+11 5 UK-2
+9 12 WR-2
+9 13 WR-2
+9 14 RD-2
+9 15 EX-2
+16 7 RD-3
+8 16 RF-2
+9 16 IJ-2
+16 12 WR-3
+16 13 RD-3
+16 14 WR-3
+16 15 WR-3
+17 7 WR-4
+8 17 RF-2
+9 17 IJ-2
+17 12 WR-4
+17 13 EX-4
+17 14 EX-4
+17 15 WR-4
+16 17 IJ-3
+18 8 ST-4
+9 18 UK-2
+19 12 WR-4
+19 13 RD-4
+19 14 WR-4
+19 15 WR-4
+16 19 UK-3
+17 20 CD-4
+21 17 RF-4
+22 12 WR-4
+22 13 WR-4
+22 14 WR-4
+22 15 UK-4
+17 23 RD-4
+24 14 RD-4
+17 24 UK-4
+

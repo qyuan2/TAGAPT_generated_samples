@@ -1,0 +1,139 @@
+36
+MP-cat
+SO-192.168.10.128
+MF-settings.php
+SF-passwd.zip
+MP-ls
+SF-at.a
+MP-cat
+MP*-grep
+MP-netstat
+SF-http.c
+TP*-uname
+SF-chttp.c
+TP-head
+MF-passwd.zip
+SO-192.168.2.102
+TP-clang
+MF-T1070.006-modification.txt
+MF-os.exe
+MF-lighttpd.c
+MF-atomic.log
+TP*-sed
+MP-ftp
+MP-bash
+MP-cat
+SF-pwquality.c
+MF-passwd.zip
+MF-Users.tar.gz
+TF-atomic.log
+SO-192.168.10.129
+TP-bash
+MF-e.c
+MP*-logname
+MF-cron.a
+MP-cat
+MP-find
+MP-cat
+100
+0 1 ST-1
+0 2 EX-1
+0 3 EX-1
+0 4 FR-1
+1 4 RF-1
+4 2 WR-1
+4 3 RD-1
+0 5 WR-1
+4 5 WR-1
+0 6 FR-1
+6 1 ST-1
+6 2 WR-1
+6 3 WR-1
+4 6 UK-1
+0 7 FR-1
+7 1 ST-1
+7 2 WR-1
+7 3 RD-1
+7 5 WR-1
+0 8 FR-1
+8 1 ST-1
+8 2 WR-1
+8 3 WR-1
+8 5 RD-1
+7 8 UK-1
+0 9 WR-1
+0 10 FR-1
+1 10 RF-1
+10 2 WR-2
+10 3 RD-2
+10 5 RD-2
+10 9 WR-2
+10 11 RD-2
+12 2 WR-2
+12 3 RD-2
+12 5 RD-2
+12 9 UK-2
+10 13 CD-2
+14 10 RF-2
+15 5 WR-2
+10 15 IJ-2
+15 11 WR-2
+15 13 WR-2
+14 15 RF-2
+10 16 WR-2
+15 16 EX-2
+10 17 RD-2
+15 17 WR-2
+10 18 WR-2
+15 18 WR-2
+15 19 WR-2
+20 11 RD-3
+20 13 RD-3
+14 20 RF-3
+15 20 IJ-2
+20 16 RD-3
+20 17 WR-3
+20 18 RD-3
+20 19 EX-3
+21 13 WR-3
+14 21 RF-3
+15 21 UK-2
+22 13 RD-3
+22 14 ST-3
+22 16 UK-3
+14 23 RF-3
+23 17 RD-3
+23 18 RD-3
+23 19 RD-3
+20 23 IJ-3
+20 24 RD-3
+23 24 EX-3
+20 25 EX-3
+23 25 RD-3
+20 26 WR-3
+23 26 EX-3
+20 27 EX-3
+23 27 WR-3
+20 28 ST-3
+23 28 ST-3
+29 19 WR-3
+20 29 UK-3
+23 30 WR-3
+23 31 FR-3
+31 24 WR-4
+31 25 CD-4
+31 26 RD-4
+31 27 WR-4
+31 28 ST-4
+31 30 WR-4
+23 32 RD-3
+31 32 EX-4
+23 33 UK-3
+34 24 RD-4
+34 25 UK-4
+35 26 WR-4
+35 27 RD-4
+28 35 RF-4
+35 30 EX-4
+31 35 UK-4
+

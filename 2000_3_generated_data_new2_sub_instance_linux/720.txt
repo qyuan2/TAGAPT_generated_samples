@@ -1,0 +1,79 @@
+19
+MP*-dmesg
+MP-find
+MF-T1003.008.txt
+MF-cron.m
+SF-common.txt
+MP*-tee
+SO-http://192.168.206.137:8080/robots.txt
+MF-inetd.c
+MF-password-hash.sh
+MF-CleaingScript.sh
+SO-192.168.206.0
+MF-atomic.log
+SF-settings.php
+SO-192.168.10.128
+TF-rockyou.txt
+TP*-grep
+TP*-nl
+MP-more
+MP-cat
+57
+0 1 FR-1
+0 2 RD-1
+1 2 UK-1
+0 3 EX-1
+0 4 EX-1
+0 5 FR-1
+5 3 WR-2
+5 4 WR-2
+6 0 RF-1
+6 5 RF-2
+0 7 EX-1
+5 7 EX-2
+0 8 WR-1
+5 8 RD-2
+0 9 RD-1
+5 9 RD-2
+5 10 ST-2
+5 11 WR-2
+5 12 WR-2
+5 13 ST-2
+5 14 WR-2
+5 15 IJ-2
+6 15 RF-3
+15 7 CD-3
+15 8 RD-3
+15 9 WR-3
+10 15 RF-2
+15 11 RD-3
+15 12 RD-3
+15 13 ST-3
+15 14 WR-3
+16 6 ST-4
+16 7 WR-4
+16 8 WR-4
+16 9 WR-4
+16 10 ST-4
+16 11 RD-4
+16 12 RD-4
+13 16 RF-3
+16 14 WR-4
+15 16 UK-3
+17 7 WR-4
+17 8 EX-4
+17 9 CD-4
+10 17 RF-2
+17 11 EX-4
+17 12 WR-4
+17 13 ST-4
+17 14 WR-4
+18 8 RD-4
+18 9 WR-4
+10 18 RF-2
+18 11 WR-4
+18 12 WR-4
+18 13 ST-4
+18 14 RD-4
+17 18 UK-4
+

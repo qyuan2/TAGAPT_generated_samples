@@ -1,0 +1,50 @@
+20
+MP*-awk
+MP-ls
+MP-echo
+MP-cat
+SO-http://192.168.10.129/image.php?FUZZ=something
+TF-flag3.txt
+MP*-dd
+MP-find
+MP-cat
+MP*-python
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-head
+MF-e.c
+SF-pwquality.c
+MF-v.c
+SF-resolv.c
+MF-flag4.txt
+SF-ufw.c
+TF-flag3.txt
+MF-test.txt
+27
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+0 4 ST-1
+4 3 RF-1
+0 5 WR-1
+3 5 UK-1
+0 6 FR-1
+6 4 ST-2
+0 7 FR-1
+4 7 RF-2
+6 7 UK-2
+0 8 UK-1
+4 9 RF-2
+9 10 ST-3
+4 11 RF-2
+11 10 ST-4
+9 12 RD-3
+11 12 WR-4
+9 13 UK-3
+11 14 WR-4
+11 15 WR-4
+11 16 EX-4
+11 17 WR-4
+11 18 EX-4
+11 19 EX-4
+

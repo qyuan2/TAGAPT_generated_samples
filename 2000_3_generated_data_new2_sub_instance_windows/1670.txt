@@ -1,0 +1,53 @@
+13
+MP*-sdiagnhost.exe
+SO-https://filetransfer.io/data-package/UR2whuBv/download
+MF-C:\Windows\Temp\xordump.exe
+MF-.\T1027.004\src\calc.cs
+MP*-nsA0C0.tmp 
+SF-C:\Users\admin\AppData\Local\Temp\IMPORTANTE
+MF-C:\Windows\system32\verclsid.exe
+SF-C:\Program Files\KMSpico\UninsHs.exe
+MF-\Users\Public\coinmarketcap\coinmarketcap.ps1
+TP*-Kulicib.exe 
+MP-DriversHood.exe
+SF-c:\programdata\allthethingsx64
+MP*-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+37
+1 0 RF-1
+0 2 WR-1
+0 3 WR-1
+0 4 FR-1
+4 1 ST-2
+4 2 WR-2
+4 3 RD-2
+0 5 WR-1
+4 5 WR-2
+0 6 RD-1
+4 6 EX-2
+0 7 WR-1
+4 7 WR-2
+0 8 EX-1
+4 8 RD-2
+0 9 FR-1
+9 1 ST-3
+9 2 WR-3
+9 3 RD-3
+4 9 IJ-2
+9 5 WR-3
+9 6 RD-3
+9 7 WR-3
+9 8 RD-3
+0 10 FR-1
+10 1 ST-3
+10 2 CD-3
+10 3 RD-3
+4 10 UK-2
+9 11 EX-3
+12 2 RD-4
+12 3 WR-4
+12 5 WR-4
+12 6 RD-4
+12 7 RD-4
+12 8 WR-4
+9 12 UK-3
+

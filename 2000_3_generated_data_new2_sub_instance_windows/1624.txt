@@ -1,0 +1,77 @@
+20
+MP*-KMSpico_setup.exe
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+MF-C:\Users\admin\Desktop\DOC
+MF-C:\Windows\system32\taskmgr.exe
+MP*-IBM_LINUX.exe 
+MP-secedit.exe
+MP-n4054738.exe
+TP-dw20.exe
+MP-Tags.exe 
+SF-C:\Users\admin\AppData\Local\Temp\is-170NV.tmp
+MF-\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+MF-C:\Users\admin\AppData\Local\Temp\setup.exe
+MP-819cebc553434a1b12318d80f63ebd96.exe 
+MF-files\30802.ico.vb
+MP*-MMFbbhOyNS.exe
+MF-C:\Windows\System32\NOTEPAD
+TP*-nbtstat.exe
+MF-script1.vb
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1218.007/bin/T1218.007_JScript.msi
+MP-Dkeyauth.exe 
+54
+1 0 RF-1
+0 2 WR-1
+0 3 WR-1
+0 4 FR-1
+4 1 ST-2
+4 2 WR-2
+4 3 RD-2
+0 5 FR-1
+5 1 ST-2
+5 2 RD-2
+5 3 EX-2
+0 6 FR-1
+6 1 ST-2
+6 2 RD-2
+6 3 EX-2
+4 6 UK-2
+0 7 IJ-1
+7 1 ST-2
+7 2 WR-2
+7 3 CD-2
+5 7 UK-2
+0 8 FR-1
+1 8 RF-2
+8 2 RD-2
+8 3 RD-2
+0 9 WR-1
+8 9 WR-2
+0 10 WR-1
+8 10 CD-2
+8 11 RD-2
+12 2 WR-2
+12 3 UK-2
+8 13 CD-2
+8 14 FR-2
+14 9 RD-3
+14 10 WR-3
+14 11 RD-3
+14 13 RD-3
+8 15 WR-2
+14 15 RD-3
+8 16 FR-2
+16 9 RD-4
+16 10 EX-4
+16 11 WR-4
+16 13 RD-4
+14 16 UK-3
+8 17 RD-2
+8 18 ST-2
+19 9 WR-4
+19 10 WR-4
+19 11 WR-4
+19 13 WR-4
+19 15 EX-4
+19 17 UK-4
+

@@ -1,0 +1,43 @@
+13
+MP*-cat
+MP-head
+MP-pr
+SF-e.c
+TP-ifconfig
+MP-tcpdump 
+TF-inetd.c
+TP*-more
+MF-d.c
+TP*-cat
+MP*-less
+MP-echo
+MP-tee
+27
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 EX-1
+0 4 FR-1
+4 3 CD-1
+0 5 FR-1
+5 3 CD-1
+4 5 UK-1
+0 6 WR-1
+0 7 IJ-1
+7 3 RD-2
+7 6 WR-2
+0 8 RD-1
+7 8 RD-2
+0 9 FR-1
+9 3 RD-3
+9 6 RD-3
+7 9 UK-2
+0 10 FR-1
+10 3 RD-4
+10 6 RD-4
+10 8 WR-4
+11 3 UK-4
+12 6 RD-4
+12 8 WR-4
+10 12 UK-4
+

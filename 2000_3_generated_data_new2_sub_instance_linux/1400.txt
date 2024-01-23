@@ -1,0 +1,132 @@
+34
+MP-who
+MF-resolv.c
+MP-dd
+TP-sed
+MP-less
+TF-flag4.txt
+MF-s.cfg
+MF-td.c
+MP-tee
+TP-cat
+MF-image.php
+SF-p.c
+MF-etc.tar.gz
+MP-cat
+TP-paste
+MP-ls
+MP-dnsdomainname
+MP-sh
+MF-pwquality.c
+TP-sudo
+SO-192.168.206.137
+TP*-grep
+SF-sysctl.c
+MF-common.txt
+SO-192.168.206.0
+MF-ret.c
+MP*-bash
+MF-logrotate.c
+TP*-nl
+MP*-tee
+MP-awk
+MF-f.r
+MP-bash
+MP-cat
+95
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 IJ-1
+3 1 WR-1
+2 3 IJ-1
+0 4 UK-1
+2 5 WR-1
+3 5 WR-1
+2 6 WR-1
+3 6 EX-1
+2 7 WR-1
+3 7 WR-1
+8 1 WR-1
+3 8 IJ-1
+8 5 WR-1
+8 6 EX-1
+8 7 RD-1
+9 1 WR-1
+2 9 UK-1
+3 10 RD-1
+8 10 EX-1
+3 11 WR-1
+8 11 WR-1
+3 12 CD-1
+8 12 WR-1
+13 5 RD-1
+13 6 RD-1
+13 7 RD-1
+8 13 UK-1
+14 5 EX-1
+14 6 WR-1
+14 7 WR-1
+14 10 RD-1
+14 11 UK-1
+15 6 RD-1
+15 7 WR-1
+15 10 WR-1
+15 12 CD-1
+16 7 EX-1
+16 10 WR-1
+16 12 RD-1
+15 16 UK-1
+17 10 WR-1
+17 12 EX-1
+17 18 WR-1
+19 10 UK-1
+20 17 RF-1
+21 12 RD-1
+17 21 IJ-1
+21 18 WR-1
+20 21 RF-1
+17 22 WR-1
+21 22 CD-1
+17 23 CD-1
+21 23 WR-1
+24 17 RF-1
+24 21 RF-1
+21 25 WR-1
+26 18 CD-2
+26 20 ST-2
+21 26 IJ-1
+26 22 WR-2
+26 23 RD-2
+24 26 RF-2
+26 25 WR-2
+21 27 RD-1
+26 27 EX-2
+20 28 RF-2
+21 28 IJ-1
+28 22 WR-3
+28 23 WR-3
+24 28 RF-3
+28 25 RD-3
+26 28 IJ-2
+28 27 WR-3
+29 20 ST-4
+21 29 IJ-1
+29 22 EX-4
+29 23 WR-4
+24 29 RF-4
+29 25 CD-4
+29 27 WR-4
+28 29 IJ-3
+30 22 RD-4
+30 23 EX-4
+24 30 RF-4
+30 25 RD-4
+30 27 WR-4
+28 30 UK-3
+29 31 EX-4
+32 25 EX-4
+32 27 WR-4
+29 32 UK-4
+33 25 UK-4
+

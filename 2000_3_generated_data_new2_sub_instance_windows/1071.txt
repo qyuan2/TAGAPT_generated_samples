@@ -1,0 +1,58 @@
+14
+MP*-makecab.exe
+MP*-runas.exe
+MF-\Users\admin\AppData\Local\Hydro\Hydro.jar
+SF-C:\Windows\Temp\T1027
+TF-\Users\admin\AppData\Roaming\sMURZJ0sQ\MMFbbhOyNS.exe
+TP*-makecab.exe
+TF-C:\Users\Public\coinmarketcap\imcq.ps1
+MP-ping.exe
+MP-Powershell.exe
+SF-C:\Windows\Temp\lsass
+MP*-powershell.exe
+TP-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+MP-TruffleSnout.exe
+TP-AdobeARM.exe
+41
+0 1 FR-1
+0 2 WR-1
+1 2 RD-2
+0 3 WR-1
+1 3 WR-2
+0 4 WR-1
+1 4 EX-2
+0 5 IJ-1
+1 5 IJ-2
+5 2 RD-3
+5 3 RD-3
+5 4 WR-3
+0 6 WR-1
+1 6 RD-2
+5 6 EX-3
+0 7 FR-1
+7 2 CD-3
+7 3 RD-3
+7 4 WR-3
+5 7 IJ-3
+7 6 UK-3
+0 8 FR-1
+1 8 UK-2
+0 9 WR-1
+5 9 RD-3
+0 10 FR-1
+10 2 RD-4
+10 3 WR-4
+10 4 WR-4
+5 10 IJ-3
+10 9 EX-4
+11 2 RD-4
+11 3 RD-4
+11 4 RD-4
+5 11 UK-3
+12 2 WR-4
+12 3 RD-4
+12 4 WR-4
+12 9 WR-4
+10 12 UK-4
+13 3 UK-4
+

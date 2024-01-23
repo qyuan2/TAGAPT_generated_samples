@@ -1,0 +1,43 @@
+13
+MP*-awk
+TP*-cat
+SO-192.168.206.137
+MF-robots.txt
+MF-T1074.001_discovery.log
+TF-secret.c
+MF-raft-medium-directories.txt
+SO-192.168.2.102
+MF-s.c
+TP*-nmap
+TF-raj.txt
+MF-secret.c
+TP*-dirb
+27
+0 1 IJ-1
+0 2 ST-1
+1 2 ST-2
+0 3 RD-1
+1 3 WR-2
+0 4 EX-1
+1 4 RD-2
+0 5 UK-1
+1 6 WR-2
+1 7 ST-2
+1 8 WR-2
+1 9 IJ-2
+9 2 ST-3
+9 3 WR-3
+9 4 CD-3
+9 6 WR-3
+9 7 ST-3
+9 8 WR-3
+1 10 UK-2
+9 11 EX-3
+12 2 ST-4
+12 3 WR-4
+12 4 RD-4
+12 6 EX-4
+7 12 RF-3
+12 8 WR-4
+9 12 UK-3
+

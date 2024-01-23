@@ -1,0 +1,41 @@
+11
+MP*-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+MP*-NOTEPAD.EXE 
+MF-\Users\Public\Pictures\deep-thoughted.ppt
+SF-C:\Edge
+MF-C:\Program Files\Microsoft Office\Office14\EXCEL
+MF-Users\audiodg.exe
+TP-nsBB14.tmp
+TP-damianocrnofj6793.exe
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsBDC5.tmp
+MP*-vlc.exe
+TP*-PING.EXE
+27
+0 1 FR-1
+0 2 WR-1
+1 2 WR-2
+0 3 RD-1
+1 3 RD-2
+0 4 WR-1
+1 4 WR-2
+0 5 EX-1
+1 5 WR-2
+0 6 FR-1
+1 6 IJ-2
+6 2 WR-2
+6 3 UK-2
+0 7 IJ-1
+1 7 UK-2
+0 8 CD-1
+0 9 FR-1
+9 2 RD-3
+9 4 WR-3
+9 5 RD-3
+9 8 WR-3
+0 10 IJ-1
+10 2 RD-4
+10 4 RD-4
+10 5 WR-4
+10 8 WR-4
+9 10 UK-3
+

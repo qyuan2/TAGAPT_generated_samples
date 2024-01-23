@@ -1,0 +1,53 @@
+18
+MP*-services.exe
+MP*-ns996E.tmp
+MF-adrestore.exe
+MF-\Users\admin\AppData\Roaming\JavaNetworkServices86\dKEseX3QhmleytdFWRInDTBBZv.bat
+SF-C:\Program Files\CCleaner
+MP-python.exe
+MF-\yWorks.dll
+MF-\Users\admin\AppData\Local\Temp\IXP002.TMP\a6302410.exe
+SF-C:\savesdllNetdhcp\qx9KHAz9bJA4BG9Lx1IKFuftLcE
+TF-C:\Program Files\Bandizip\data\RegDll
+TF-C:\ProgramData\Oracle\Java
+MP*-taskkill.exe
+MF-c:\windows\system32\msiexec
+MP-regsvr32.exe
+MF-C:\programdata\asc
+MF-C:\Users\All Users\smss.exe
+MP*-AppLaunch.exe
+MP-WinAPIOverride 6.9.1.tmp
+32
+0 1 FR-1
+0 2 WR-1
+1 2 RD-2
+0 3 WR-1
+1 3 WR-2
+0 4 WR-1
+1 4 CD-2
+0 5 FR-1
+1 5 UK-2
+0 6 WR-1
+0 7 WR-1
+0 8 WR-1
+0 9 WR-1
+0 10 WR-1
+11 2 WR-3
+11 3 WR-3
+11 4 RD-3
+11 6 WR-3
+11 7 RD-3
+11 8 RD-3
+11 9 EX-3
+11 10 RD-3
+11 12 WR-3
+13 3 RD-3
+13 4 UK-3
+11 14 WR-3
+11 15 WR-3
+16 8 RD-4
+16 9 WR-4
+16 10 UK-4
+17 9 WR-4
+11 17 UK-3
+

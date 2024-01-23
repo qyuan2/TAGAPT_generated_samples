@@ -1,0 +1,48 @@
+16
+MP-cat
+SO-192.168.47.155
+TF-T1574.006.c
+MP*-halt
+MF-apache2.c
+MF-raw.githubusercontent.c
+MF-e2.c
+MP-more
+TP*-dd
+MF-inetd.c
+MP*-awk
+MP*-perl
+MF-at.a
+MF-T1574.006.c
+MF-password-hash.sh
+MP-whoami
+29
+1 0 RF-1
+0 2 UK-1
+3 1 ST-1
+3 4 WR-1
+3 5 WR-1
+3 6 RD-1
+1 7 RF-1
+3 7 UK-1
+1 8 RF-1
+8 4 WR-2
+8 5 WR-2
+8 6 WR-2
+8 9 WR-2
+1 10 RF-1
+10 4 RD-3
+10 5 WR-3
+10 6 RD-3
+8 10 UK-2
+1 11 RF-1
+11 4 RD-4
+11 5 EX-4
+11 6 WR-4
+11 9 RD-4
+11 12 WR-4
+11 13 WR-4
+11 14 CD-4
+15 6 EX-4
+15 9 WR-4
+11 15 UK-4
+

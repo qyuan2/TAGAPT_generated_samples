@@ -1,0 +1,29 @@
+11
+MP*-dd
+TP-less
+TP-sed
+MF-s.c
+MP-sudo
+MP*-less
+MF-/etc/sudoers file
+SF-CleaingScript.sh
+MF-resolv.c
+MP*-dd
+MP*-rpm
+15
+0 1 FR-1
+0 2 IJ-1
+1 2 UK-1
+0 3 WR-1
+0 4 UK-1
+5 3 WR-2
+5 6 CD-2
+5 7 WR-2
+5 8 RD-2
+9 3 RD-3
+5 9 UK-2
+10 3 WR-4
+10 6 WR-4
+10 7 RD-4
+10 8 UK-4
+

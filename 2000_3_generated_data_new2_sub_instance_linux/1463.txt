@@ -1,0 +1,158 @@
+40
+MP-uname
+MP-ifconfig
+MP-cat
+SF-flag4.txt
+MP-cat
+MP-curl
+TP-sed
+SF-f.r
+MF-ipn_success.php
+MP-sed
+TP-hydra
+TF-linux.txt
+MF-cron.a
+MF-at.a
+MF-linux.txt
+MP-dd
+TF-T1574.006.c
+TP*-less
+SF-settings.php
+TP-bash 
+MF-image.php
+MF-2017.pl
+MF-log.c
+MP-netstat
+SF-te.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP*-tee
+TF-atomic.log
+MF-v.c
+MF-linux.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP-id
+MF-p.c
+MP-dd
+MP*-less
+MF-anaconda-ks.cfg
+MP*-uname
+MP-sed
+TF-raft-medium-directories.txt
+MP-netstat
+115
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 FR-1
+4 3 RD-1
+0 5 UK-1
+6 3 RD-1
+4 6 IJ-1
+4 7 WR-1
+6 7 WR-1
+4 8 WR-1
+6 8 WR-1
+9 3 CD-1
+4 9 UK-1
+10 3 RD-1
+6 10 IJ-1
+10 7 RD-1
+10 8 WR-1
+6 11 WR-1
+10 11 WR-1
+6 12 WR-1
+10 12 RD-1
+6 13 WR-1
+10 13 UK-1
+6 14 WR-1
+6 15 IJ-1
+15 7 WR-1
+15 8 WR-1
+15 11 UK-1
+6 16 WR-1
+17 7 EX-1
+17 8 WR-1
+17 12 WR-1
+17 14 WR-1
+17 16 RD-1
+17 18 EX-1
+19 12 RD-1
+19 14 WR-1
+19 16 WR-1
+17 19 IJ-1
+19 18 EX-1
+17 20 RD-1
+19 20 WR-1
+17 21 WR-1
+19 21 WR-1
+17 22 WR-1
+19 22 RD-1
+23 14 WR-1
+23 16 RD-1
+17 23 IJ-1
+23 18 RD-1
+19 23 IJ-1
+23 20 WR-1
+23 21 WR-1
+23 22 CD-1
+17 24 RD-1
+19 24 EX-1
+23 24 WR-1
+25 17 RF-1
+25 19 RF-1
+23 25 ST-2
+26 16 WR-2
+17 26 IJ-1
+26 18 CD-2
+19 26 IJ-1
+26 20 WR-2
+26 21 WR-2
+26 22 WR-2
+26 24 RD-2
+25 26 RF-2
+17 27 EX-1
+19 27 RD-1
+23 27 RD-1
+26 27 WR-2
+19 28 WR-1
+23 28 WR-1
+26 28 EX-2
+19 29 WR-1
+23 29 EX-1
+26 29 RD-2
+23 30 ST-2
+30 26 RF-2
+31 21 RD-2
+31 22 RD-2
+23 31 UK-1
+26 32 EX-2
+33 24 UK-2
+25 34 RF-1
+34 27 WR-3
+34 28 RD-3
+34 29 RD-3
+30 34 RF-2
+34 32 WR-3
+26 35 WR-2
+34 35 RD-3
+26 36 FR-2
+36 27 EX-4
+36 28 RD-4
+36 29 WR-4
+36 30 ST-4
+36 32 WR-4
+36 35 RD-4
+37 27 WR-4
+37 28 WR-4
+37 29 WR-4
+37 30 ST-4
+37 32 WR-4
+37 35 WR-4
+36 37 UK-4
+34 38 WR-3
+39 29 EX-4
+30 39 RF-4
+39 32 WR-4
+34 39 UK-3
+

@@ -1,0 +1,108 @@
+32
+MP*-sed
+MP-cat
+TP-perl
+MF-T1070.004-test.txt
+MF-image.php
+MF-secret.c
+TP*-uname
+MP*-sed
+MP-cat
+SF-password-hash.sh
+MF-T1070.006-reference.txt
+TP-rev
+TP-echo
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TF-apache2.c
+TP-bash
+SO-123.6.44.67
+SF-f.r
+MP-sed
+SF-victim-shred.txt
+TP*-dd
+SF-T1074.001_discovery.log
+MF-access.htm
+TF-echo-art-fish.sh
+MP-dd
+TP-cat
+SF-shell.cgi
+MF-atomic.sh
+TP-cat
+SF-raj.txt
+MF-victim-shred.txt
+TP-dd
+73
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 RD-1
+0 5 WR-1
+0 6 FR-1
+6 3 WR-2
+6 4 CD-2
+6 5 RD-2
+0 7 FR-1
+7 3 RD-3
+7 4 RD-3
+7 5 RD-3
+6 7 IJ-2
+0 8 UK-1
+6 9 RD-2
+7 9 RD-3
+6 10 WR-2
+7 10 RD-3
+11 3 RD-3
+11 4 UK-3
+12 3 WR-3
+12 5 WR-3
+6 12 UK-2
+7 13 ST-3
+7 14 WR-3
+15 5 WR-3
+7 15 IJ-3
+15 9 EX-3
+15 10 EX-3
+15 13 ST-3
+15 14 WR-3
+16 7 RF-3
+15 16 ST-4
+7 17 RD-3
+15 17 EX-3
+18 9 EX-3
+18 10 WR-3
+13 18 RF-3
+18 14 WR-3
+16 18 RF-3
+18 17 WR-3
+18 19 UK-3
+20 13 ST-4
+20 14 WR-4
+20 16 ST-4
+20 17 RD-4
+20 21 RD-4
+20 22 WR-4
+20 23 CD-4
+24 16 ST-4
+24 17 WR-4
+20 24 IJ-4
+24 21 RD-4
+24 22 WR-4
+24 23 RD-4
+16 25 RF-4
+25 17 WR-4
+20 25 UK-4
+24 26 RD-4
+24 27 UK-4
+28 21 WR-4
+28 22 WR-4
+28 23 EX-4
+28 26 RD-4
+28 29 WR-4
+28 30 RD-4
+31 21 RD-4
+31 22 RD-4
+31 23 EX-4
+31 26 WR-4
+28 31 UK-4
+

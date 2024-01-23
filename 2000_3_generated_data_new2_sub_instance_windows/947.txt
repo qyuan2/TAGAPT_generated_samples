@@ -1,0 +1,52 @@
+14
+MP*-WsatConfig.exe
+MF-\Windows\Temp\xordump.exe
+MF-taskdl.exe
+MF-C:\Users\admin\Desktop\Setup\Installer
+MF-C:\Users\admin\AppData\Local\Temp\goose_goose_duck_free
+TP*-Notepad.exe
+SF-C:\Users\admin\AppData\Local\Temp\TeamViewer_Setup
+TP*-EasyValorant.exe 
+SF-C:\Users\admin\AppData\Local\Temp\5158c830d2dfb8a523c3c24077e67fe792346ffa443126ebf2d09ace68f73000.bmp
+MP-XClient.exe 
+MP-is-3DL5P.tmp
+SF-C:\Windows\System32\vdsldr
+SO-https://crashstats-collector.opera.com/collector/submit
+MP*-ns9AE8.tmp
+35
+0 1 WR-1
+0 2 EX-1
+0 3 RD-1
+0 4 EX-1
+0 5 FR-1
+5 1 WR-2
+5 2 WR-2
+5 3 WR-2
+5 4 WR-2
+0 6 WR-1
+5 6 WR-2
+0 7 FR-1
+7 1 RD-3
+7 2 WR-3
+7 3 WR-3
+7 4 WR-3
+5 7 IJ-2
+7 6 WR-3
+0 8 WR-1
+5 8 CD-2
+7 8 WR-3
+0 9 FR-1
+9 1 RD-3
+9 2 UK-3
+0 10 FR-1
+10 1 WR-3
+10 3 EX-3
+10 4 RD-3
+5 10 UK-2
+7 11 RD-3
+7 12 ST-3
+13 3 WR-4
+13 4 EX-4
+13 6 RD-4
+7 13 UK-3
+

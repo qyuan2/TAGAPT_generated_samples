@@ -1,0 +1,48 @@
+14
+MP*-MpCmdRun.exe
+MF-C:\programdata\asc.txt
+MF-onapsis.c
+TF-C:\Users\admin\AppData\Local\Temp\_vnw
+MF-C:\Users\admin\AppData\Local\Temp\sgic_info
+TP*-vdsldr.exe
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MP*-cvtres.exe
+MP-GUP.exe
+SF-C:\programdata\asc.txt
+MP-CareUEyes.exe
+MP*-Caspol.exe
+SF-C:\Users\Public\d2xc185.vb
+MP-auditpol.exe
+31
+0 1 WR-1
+0 2 WR-1
+0 3 EX-1
+0 4 WR-1
+0 5 FR-1
+5 1 RD-2
+5 2 RD-2
+5 3 EX-2
+5 4 RD-2
+6 0 RF-1
+5 6 ST-2
+0 7 FR-1
+7 1 CD-3
+7 2 RD-3
+7 3 WR-3
+7 4 WR-3
+5 7 UK-2
+0 8 FR-1
+8 1 WR-3
+8 2 UK-3
+0 9 UK-1
+10 1 RD-3
+10 3 WR-3
+10 4 UK-3
+11 1 EX-4
+11 3 RD-4
+11 6 ST-4
+11 12 WR-4
+13 3 RD-4
+6 13 RF-2
+11 13 UK-4
+

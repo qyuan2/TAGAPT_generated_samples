@@ -1,0 +1,58 @@
+16
+MP-MpCmdRun.exe
+TF-\Users\admin\AppData\Local\Temp\Saz_Injector.zip
+MF-\Users\admin\Downloads\MDE_File_Sample_bc548dd6003002ec5d288b30d1802e3bb6bcbfde4d8d8a40fc7fb5a9e21a3c09.zip
+SF-C:\Users\admin\AppData\Local\Temp\prism
+SO-1.2.840.113556
+MP*-DllHost.exe
+MF-C:\Users\admin\AppData\Local\Temp\UpdateService.bat
+MF-C:\Users\admin\AppData\Local\84ef6d24
+MF-cmd.exe
+SO-hxxp://194.180.174[.]73/1.txt
+TP*-WinRAR.exe
+TP*-Nnimfltstl.exe 
+MF-specification.exe
+SF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo
+SO-10.0.0.00000
+MP*-runas.exe
+39
+0 1 WR-1
+0 2 EX-1
+0 3 RD-1
+4 0 RF-1
+0 5 FR-1
+5 1 RD-1
+5 2 WR-1
+5 3 RD-1
+4 5 RF-1
+0 6 WR-1
+5 6 CD-1
+0 7 RD-1
+5 7 WR-1
+0 8 WR-1
+5 8 RD-1
+0 9 ST-1
+9 5 RF-1
+0 10 FR-1
+10 1 UK-2
+11 2 WR-3
+11 3 EX-3
+11 4 ST-3
+5 11 IJ-1
+11 6 RD-3
+11 7 RD-3
+11 8 WR-3
+11 9 ST-3
+5 12 RD-1
+11 12 WR-3
+5 13 WR-1
+11 13 RD-3
+5 14 ST-1
+11 14 ST-3
+5 15 FR-1
+15 6 WR-4
+15 7 WR-4
+15 8 RD-4
+15 9 ST-4
+11 15 UK-3
+

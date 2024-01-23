@@ -1,0 +1,100 @@
+24
+MP*-head
+MP-rsync
+MF-AutoSUID.sh
+SO-192.168.0.134
+TP*-nl
+SF-cron.m
+MF-user.r
+MF-ufw.c
+SO-192.168.10.129
+SF-0*.txt
+MF-raft-medium-directories.txt
+MP*-sed
+MP*-cat
+MF-secret.c
+TP-rm
+MF-echo-art-fish.sh
+TP-find
+TP-cat
+MP-echo
+MP-nl
+SO-192.168.37.130
+MP-sh
+MF-etc.tar.gz
+MP-head
+73
+0 1 FR-1
+0 2 RD-1
+1 2 RD-1
+0 3 ST-1
+3 1 RF-1
+0 4 IJ-1
+1 4 IJ-1
+4 2 WR-2
+3 4 RF-1
+0 5 RD-1
+1 5 RD-1
+4 5 WR-2
+0 6 WR-1
+1 6 WR-1
+4 6 WR-2
+0 7 RD-1
+1 7 EX-1
+4 7 WR-2
+0 8 ST-1
+1 8 ST-1
+4 8 ST-2
+0 9 CD-1
+1 9 RD-1
+4 9 UK-2
+0 10 RD-1
+1 10 WR-1
+1 11 FR-1
+11 2 RD-3
+11 3 ST-3
+11 5 RD-3
+11 6 EX-3
+11 7 WR-3
+11 8 ST-3
+11 10 WR-3
+12 2 RD-4
+3 12 RF-1
+12 5 RD-4
+12 6 WR-4
+12 7 RD-4
+12 8 ST-4
+12 10 UK-4
+11 13 RD-3
+14 5 RD-4
+14 6 WR-4
+14 7 RD-4
+8 14 RF-3
+11 14 IJ-3
+14 13 RD-4
+11 15 WR-3
+14 15 RD-4
+16 6 EX-4
+16 7 WR-4
+8 16 RF-3
+11 16 IJ-3
+16 13 UK-4
+8 17 RF-3
+14 17 IJ-4
+17 15 WR-4
+14 18 IJ-4
+18 15 WR-4
+17 18 UK-4
+14 19 IJ-4
+19 15 WR-4
+14 20 ST-4
+19 20 ST-4
+14 21 FR-4
+21 15 WR-4
+19 21 UK-4
+14 22 RD-4
+14 23 FR-4
+23 15 RD-4
+23 20 ST-4
+23 22 UK-4
+

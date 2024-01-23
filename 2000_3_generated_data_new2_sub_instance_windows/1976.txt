@@ -1,0 +1,90 @@
+31
+MP-XClient.exe 
+MP-wevtutil.exe
+MF-7879746161364.exe
+MP-softwarelagswitchc.exe 
+SF-C:\Windows\System32\ipconfig.exe
+MP*-ns9DCC.tmp 
+SO-hxxp://194.180.174[.]73/1.txt
+MF-C:\Users\admin\AppData\Local\Temp\Saz_Injector
+MP-saBSI.exe
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsBC6C.tmp
+MP-notepad++.exe 
+TP-Scan20230717_newshipment 202333pdf.exe
+MF-cipher.exe
+MP*-firefox.exe
+SF-C:\Users\admin\AppData\Local\Temp\123.7z
+MP-PAGO DE FACTURA PENDIENTE.bin.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Test.exe
+TP-B70D.exe
+MP-ns9AE8.tmp
+MP*-tshark.exe
+MF-\Users\admin\AppData\Local\Temp\IXP002.TMP\a6302410.exe
+MF-C:\Users\admin\AppData\Local\Temp\8be41efd6e6ace53b8c59344be2ba91fe41003987a8e38484b20760d7c400a42
+MF-\Users\admin\AppData\Roaming\JavaNetworkServices86\dKEseX3QhmleytdFWRInDTBBZv.bat
+MF-\Users\admin\Desktop\Remittance_1021395_092023_111928.csv.txt
+MF-C:\Users\admin\AppData\Local\Temp\B70D.exe
+MP*-Client.exe 
+TP-xordump.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+MF-Files\appdata\roaming\reflect.rar
+MF-C:\Users\admin\AppData\Local\Temp\sechex-spoofy.zip
+MP-is-091H6.tmp
+56
+0 1 FR-1
+0 2 WR-1
+1 2 EX-1
+0 3 UK-1
+1 4 WR-1
+1 5 FR-1
+5 2 WR-1
+5 4 WR-1
+6 1 RF-1
+6 5 RF-1
+1 7 EX-1
+5 7 RD-1
+1 8 UK-1
+5 9 RD-1
+10 2 EX-1
+10 4 UK-1
+11 2 WR-1
+5 11 IJ-1
+6 11 RF-1
+11 7 UK-1
+5 12 WR-1
+5 13 FR-1
+6 13 RF-2
+13 9 CD-2
+13 12 CD-2
+5 14 WR-1
+13 14 WR-2
+5 15 UK-1
+13 16 RD-2
+17 9 UK-2
+18 12 WR-2
+13 18 UK-2
+19 12 RD-3
+19 14 WR-3
+19 16 WR-3
+19 20 RD-3
+19 21 RD-3
+19 22 EX-3
+19 23 WR-3
+19 24 RD-3
+25 16 CD-4
+25 20 EX-4
+25 21 WR-4
+25 22 RD-4
+25 23 WR-4
+25 24 WR-4
+26 16 WR-4
+19 26 UK-3
+25 27 ST-4
+25 28 WR-4
+25 29 EX-4
+30 21 WR-4
+30 22 WR-4
+30 23 WR-4
+30 24 WR-4
+25 30 UK-4
+

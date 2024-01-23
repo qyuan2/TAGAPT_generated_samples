@@ -1,0 +1,87 @@
+22
+MP*-notepad++.exe
+SO-1.2.840.113556
+MP-ns9D4E.tmp
+MF-\Users\admin\AppData\Local\Temp\tb.png
+MF-C:\Users\admin\Desktop\Paradox RAT\pr2.exe
+SO-http://email.getsailebot.net/c/eJxskL-umzAYR5_GjMh_AQ8MudV1LjRpRGghyWYbE1wZSGNIC09fIXVp1e18n85Zfk0aI9nIJjApijihSUw4DLpUtxAaEnEIMUSS60SzKFKYIk11Ekc8sCmGmMCEIEQgZzBMGq1Ya2JKcUJNiwGFdzN5aZ1R4xQOZgpc2k3TwwOyA1gALObBz8rrp1Um_McFWDTGWb9Buf09wEIOQ7hZgELXhXrsQzkDLDCjmMZJsiGiFDGAhVlyaC47e7L55woV9vAp79Reb3f2bc3QF5vz0Cz52Hycf-p1fB1w12lSLdeSPdTCfzSkeF3xr07WaM2-P-JsuE9yL9bmkneHWni15-RWF5Puub9djvbkvL3W7KUGNylSrZmD_u_m7G69QOrjT1NmUdaLWWHGVM2RXnLeFuFSVxfz9jy158q_Dbv-aK0pSCvcrpSa32_L-1d-r0vH38fgmf5vkN8BAAD__0tnlWU
+MF-C:\Users\admin\AppData\Local\Temp\putty.exe
+MP-slui.exe
+TP-DHL TAX INVOICE 289868063.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Ayuaey
+MF-C:\Users\admin\AppData\Roaming\fertyno12\client32
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+TP*-Order list.exe 
+MP*-query.exe
+SF-%TEMP%\T1010.exe .\T1010\src\T1010.cs
+MF-C:\Users\admin\Desktop\GREENN
+MP*-PowerShell.exe
+MP-B47C.exe
+SO-192.168.10.11
+MF-\Users\admin\AppData\Roaming\.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmp493A
+MP-Dism.exe
+62
+0 1 ST-1
+0 2 FR-1
+1 2 RF-1
+0 3 RD-1
+2 3 WR-1
+0 4 EX-1
+2 4 RD-1
+0 5 ST-1
+5 2 RF-1
+0 6 RD-1
+2 6 WR-1
+0 7 UK-1
+1 8 RF-1
+2 8 IJ-1
+8 3 WR-1
+8 4 WR-1
+8 5 ST-1
+8 6 EX-1
+2 9 WR-1
+8 9 WR-1
+2 10 RD-1
+8 10 EX-1
+2 11 ST-1
+11 8 RF-1
+2 12 IJ-1
+12 3 WR-2
+12 4 WR-2
+5 12 RF-1
+12 6 EX-2
+8 12 IJ-1
+12 9 WR-2
+12 10 RD-2
+11 12 RF-1
+13 3 WR-3
+13 4 EX-3
+13 5 ST-3
+13 6 RD-3
+8 13 IJ-1
+13 9 RD-3
+13 10 WR-3
+11 13 RF-1
+12 13 UK-2
+8 14 RD-1
+8 15 WR-1
+16 6 RD-4
+8 16 IJ-1
+16 9 EX-4
+16 10 RD-4
+16 11 ST-4
+16 14 WR-4
+16 15 WR-4
+8 17 FR-1
+17 9 RD-4
+17 10 UK-4
+18 8 RF-1
+16 18 ST-4
+16 19 CD-4
+16 20 EX-4
+21 11 ST-4
+21 14 EX-4
+21 15 RD-4
+16 21 UK-4
+

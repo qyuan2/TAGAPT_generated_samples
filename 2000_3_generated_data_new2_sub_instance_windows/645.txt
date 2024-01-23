@@ -1,0 +1,34 @@
+10
+MP*-DATOS DE ARCHIVOS No 7879746161364.exe
+MP*-crackmapexec.exe
+MF-C:\Users\admin\Desktop\test
+MP*-del.exe
+SO-https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/email-icon-2x.png
+MF-C:\Users\admin\AppData\Local\Temp\script.js
+MF-C:\Windows\system32\shell32.dll
+SF-C:\Users\admin\AppData\Local\Temp\b79gpxd8
+MP*-regsvr32.exe
+SF-C:\Windows\System32\Notepad
+21
+0 1 FR-1
+0 2 WR-1
+1 2 WR-2
+0 3 FR-1
+3 2 WR-3
+0 4 ST-1
+4 1 RF-1
+4 3 RF-1
+0 5 EX-1
+1 5 WR-2
+3 5 WR-3
+0 6 WR-1
+1 6 WR-2
+3 6 RD-3
+0 7 RD-1
+1 7 WR-2
+3 7 RD-3
+0 8 FR-1
+8 2 WR-4
+3 8 UK-3
+1 9 WR-2
+

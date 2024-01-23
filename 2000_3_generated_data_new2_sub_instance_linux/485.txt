@@ -1,0 +1,55 @@
+15
+MP*-sed
+MF-settings.php
+MP-curl
+TF-flag3.txt
+SO-192.168.206.0
+MF-common.txt
+MF-chttp.c
+TF-inetd.c
+MF-at.a
+MF-T1027-004-test.c
+MP*-awk
+MP*-less
+MP*-pr
+MF-0*.txt
+MF-data.zip
+37
+0 1 CD-1
+0 2 FR-1
+2 1 WR-1
+0 3 RD-1
+2 3 CD-1
+0 4 ST-1
+4 2 RF-1
+0 5 WR-1
+0 6 WR-1
+0 7 RD-1
+0 8 RD-1
+0 9 WR-1
+10 1 EX-2
+10 3 WR-2
+10 4 ST-2
+10 5 RD-2
+10 6 EX-2
+10 7 RD-2
+10 8 RD-2
+10 9 RD-2
+11 3 RD-3
+4 11 RF-1
+11 5 WR-3
+11 6 WR-3
+11 7 WR-3
+11 8 WR-3
+11 9 RD-3
+10 11 UK-2
+12 3 WR-4
+12 4 ST-4
+12 5 WR-4
+12 6 WR-4
+12 7 RD-4
+12 8 RD-4
+12 9 RD-4
+12 13 WR-4
+12 14 UK-4
+

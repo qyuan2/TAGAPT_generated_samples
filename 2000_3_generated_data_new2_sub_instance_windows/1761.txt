@@ -1,0 +1,95 @@
+32
+MP*-setup_avrokeyboard_5.6.0.exe
+SF-C:\Users\admin\AppData\Local\Temp\Uninstall
+TP-dpinst.exe 
+MF-C:\Program files\appdata\local\temp\26012.bmp
+MF-\Users\admin\AppData\Local\Temp\Player666.vb
+MP*-D911.exe
+TP-Dieselmotorers.exe
+MF-pg_ctl.exe
+MP-certutil.exe
+MF-DEMO\avi_previewer_demo.exe
+SF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86
+MF-C:\Users\admin\AppData\Local\Temp\Untitled
+MF-C:\Users\All Users\audiodg.exe
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MP*-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+MP-conhost.exe
+SO-8.8.8.8
+MF-File.htm.htm
+TF-\Users\admin\AppData\Local\Temp\X_Net_Windows.exe
+SO-https://onapsis.com/onapsis-platform
+MF-\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8.exe
+MF-\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d.zip
+MF-%tmp%\T1106.exe
+MP-where.exe
+MP*-dkeyauth.exe 
+MF-C:\Windows\system32\msiexec.exe
+MF-C:\Users\admin\skmt-bankinter-003-03588993232059560257100458.jar
+MF-%tmp%\mimikatz\x64\mimikatz.exe
+TF-C:\Users\admin\AppData\Local\Temp\DOC77412.jpg
+SF-C:\Users\admin\Desktop\Paradox RAT\pr2.exe
+MP-audiodg.exe 
+MP-Radmin.exe
+60
+0 1 RD-1
+0 2 FR-1
+2 1 WR-1
+0 3 WR-1
+2 3 WR-1
+0 4 WR-1
+2 4 EX-1
+0 5 FR-1
+5 1 WR-2
+2 5 IJ-1
+5 3 WR-2
+5 4 WR-2
+0 6 IJ-1
+6 1 RD-2
+2 6 UK-1
+0 7 WR-1
+5 7 WR-2
+0 8 FR-1
+8 1 CD-2
+8 3 WR-2
+8 4 CD-2
+8 7 UK-2
+0 9 WR-1
+5 9 WR-2
+0 10 WR-1
+5 10 RD-2
+5 11 RD-2
+5 12 WR-2
+13 5 RF-2
+14 4 RD-3
+14 9 WR-3
+14 10 WR-3
+14 11 EX-3
+14 12 WR-3
+13 14 RF-3
+5 15 UK-2
+14 16 ST-3
+14 17 RD-3
+14 18 CD-3
+14 19 ST-3
+14 20 WR-3
+14 21 WR-3
+14 22 RD-3
+23 13 ST-3
+14 23 UK-3
+24 16 ST-4
+24 17 WR-4
+24 18 WR-4
+24 19 ST-4
+24 20 RD-4
+24 21 RD-4
+24 22 WR-4
+24 25 WR-4
+24 26 WR-4
+24 27 WR-4
+24 28 WR-4
+24 29 WR-4
+30 21 UK-4
+31 22 WR-4
+24 31 UK-4
+

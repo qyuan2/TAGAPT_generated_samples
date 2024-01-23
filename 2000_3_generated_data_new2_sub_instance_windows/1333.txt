@@ -1,0 +1,170 @@
+41
+MP*-less
+MF-te.c
+MF-s.c
+MF-f.r
+MF-access.txt
+TP-paste
+MF-flag3.txt
+MP*-cat
+MP-cat
+SO-192.168.10.129
+TP-sed
+SO-192.168.47.155:4444
+MF-art.sh
+MF-httpd.c
+TF-e.c
+MF-httpd.c
+MP*-paste
+SF-passwd.zip
+SF-anaconda-ks.cfg
+SF-os.exe
+MF-subprocess.c
+MF-raft-large-directories.txt
+TP-paste
+MF-atomic.log
+MP-curl 
+MP*-sudo
+TF-settings.php
+MP-tac
+TP-bash
+SF-rockyou.txt
+MF-cron.h
+MF-lighttp.c
+MF-atomic.sh
+TP-john
+TP-curl
+TP-nmap
+MF-T1003.008.txt
+MP-bash
+MP-more
+MP-cat
+MP-head
+126
+0 1 WR-1
+0 2 EX-1
+0 3 RD-1
+0 4 RD-1
+0 5 IJ-1
+5 1 UK-1
+0 6 WR-1
+0 7 FR-1
+7 2 WR-2
+7 3 WR-2
+7 4 WR-2
+7 6 RD-2
+0 8 UK-1
+9 7 RF-2
+10 2 RD-2
+10 3 WR-2
+10 4 WR-2
+10 6 UK-2
+7 11 ST-2
+7 12 WR-2
+7 13 RD-2
+7 14 WR-2
+7 15 WR-2
+7 16 FR-2
+16 9 ST-3
+16 11 ST-3
+16 12 RD-3
+16 13 RD-3
+16 14 WR-3
+16 15 RD-3
+16 17 WR-3
+16 18 WR-3
+16 19 CD-3
+16 20 WR-3
+16 21 WR-3
+22 13 WR-3
+22 14 WR-3
+22 15 CD-3
+16 22 IJ-3
+22 17 WR-3
+22 18 EX-3
+22 19 CD-3
+22 20 RD-3
+22 21 WR-3
+16 23 EX-3
+22 23 EX-3
+24 15 RD-3
+16 24 UK-3
+25 17 WR-4
+25 18 CD-4
+25 19 CD-4
+25 20 RD-4
+25 21 WR-4
+22 25 IJ-3
+25 23 WR-4
+22 26 CD-3
+25 26 WR-4
+27 17 CD-4
+27 18 WR-4
+27 19 WR-4
+27 20 WR-4
+27 21 RD-4
+22 27 IJ-3
+27 23 EX-4
+27 26 RD-4
+28 18 EX-4
+28 19 EX-4
+28 20 RD-4
+28 21 CD-4
+22 28 IJ-3
+28 23 RD-4
+25 28 IJ-4
+28 26 WR-4
+27 28 IJ-4
+22 29 WR-3
+25 29 RD-4
+27 29 EX-4
+28 29 WR-4
+22 30 WR-3
+25 30 WR-4
+27 30 WR-4
+28 30 WR-4
+22 31 WR-3
+25 31 RD-4
+27 31 RD-4
+28 31 RD-4
+22 32 RD-3
+25 32 RD-4
+27 32 WR-4
+28 32 WR-4
+33 23 WR-4
+25 33 IJ-4
+33 26 EX-4
+27 33 UK-4
+25 34 IJ-4
+34 26 WR-4
+28 34 IJ-4
+34 29 EX-4
+34 30 CD-4
+34 31 EX-4
+34 32 CD-4
+25 35 IJ-4
+35 26 RD-4
+28 35 IJ-4
+35 29 WR-4
+35 30 WR-4
+35 31 RD-4
+35 32 WR-4
+34 35 UK-4
+28 36 RD-4
+28 37 FR-4
+37 29 UK-4
+28 38 IJ-4
+38 30 WR-4
+38 31 WR-4
+38 32 WR-4
+38 36 RD-4
+39 30 WR-4
+39 31 WR-4
+39 32 WR-4
+39 36 WR-4
+38 39 UK-4
+40 30 RD-4
+40 31 WR-4
+40 32 RD-4
+40 36 UK-4
+

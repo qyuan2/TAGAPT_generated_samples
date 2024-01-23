@@ -1,0 +1,140 @@
+39
+MP*-awk
+SF-syslog.c
+SF-passwd.zip
+MF-pubprn.vbs
+SO-192.168.47.134:4444
+MP-awk
+MF-LinEnum.sh
+SF-log.c
+TP-cat
+SF-T1574.006.c
+MP-tee
+MP-sed
+TP-rev
+TP*-ls
+SF-e2.c
+SF-f.r
+TP-sudo
+MP-perl
+MF-secret.c
+MP*-sudo
+MF-lighttp.c
+MP-teehee
+SO-192.168.10.129
+MF-raft-medium-directories.txt
+SF-apache2.c
+MF-robots.txt
+SF-lighttp.c
+SO-192.168.206.137
+MF-data.zip
+SF-AutoSUID.sh
+TP-cat
+MP*-ln 
+SF-subprocess.c
+MF-/etc/sudoers file
+MP-ls
+MF-at.a
+MP-tar
+MP-awk
+MP-sed
+98
+0 1 WR-1
+0 2 CD-1
+0 3 RD-1
+0 4 ST-1
+0 5 FR-1
+5 1 RD-1
+5 2 RD-1
+5 3 RD-1
+5 4 ST-1
+5 6 WR-1
+5 7 WR-1
+8 1 WR-1
+8 2 RD-1
+8 3 RD-1
+8 4 ST-1
+5 8 IJ-1
+8 6 EX-1
+8 7 RD-1
+5 9 EX-1
+8 9 RD-1
+10 1 WR-1
+10 2 WR-1
+10 3 WR-1
+10 4 ST-1
+5 10 UK-1
+11 2 UK-1
+12 3 EX-1
+4 12 RF-1
+12 6 WR-1
+12 7 WR-1
+8 12 UK-1
+4 13 RF-1
+13 6 WR-2
+13 7 RD-2
+13 9 WR-2
+13 14 WR-2
+13 15 CD-2
+16 6 RD-2
+16 7 WR-2
+16 9 RD-2
+13 16 UK-2
+17 7 EX-2
+17 9 WR-2
+17 14 WR-2
+17 15 RD-2
+17 18 WR-2
+19 9 RD-3
+19 14 WR-3
+19 15 WR-3
+19 18 WR-3
+17 20 RD-2
+19 20 WR-3
+21 14 WR-3
+21 15 UK-3
+22 17 RF-2
+22 19 RF-3
+17 23 EX-2
+19 23 WR-3
+17 24 WR-2
+19 24 RD-3
+17 25 WR-2
+19 25 WR-3
+17 26 WR-2
+19 26 WR-3
+27 17 RF-2
+19 27 ST-3
+19 28 RD-3
+19 29 WR-3
+30 20 RD-3
+30 22 ST-4
+30 23 WR-3
+30 24 WR-3
+30 25 UK-3
+22 31 RF-4
+31 23 WR-4
+31 24 WR-4
+31 26 CD-4
+27 31 RF-3
+31 28 RD-4
+31 29 WR-4
+31 32 WR-4
+31 33 CD-4
+34 26 WR-4
+34 27 ST-4
+34 28 UK-4
+31 35 WR-4
+36 27 ST-4
+36 29 RD-4
+31 36 UK-4
+37 29 RD-4
+37 32 EX-4
+37 33 WR-4
+37 35 WR-4
+38 29 WR-4
+38 32 RD-4
+38 33 WR-4
+38 35 CD-4
+37 38 UK-4
+

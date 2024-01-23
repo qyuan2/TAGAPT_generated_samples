@@ -1,0 +1,87 @@
+27
+MP-is-Q2MHB.tmp
+MF-C:\Program files\cronos
+TP-Outflank-Dumpert.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp91F1.tmp
+MF-\Users\admin\AppData\Local\Temp\tmpCD64.tmp
+MF-C:\Users\admin\AppData\Local\Temp\is-APN6M.tmp
+MP-C3B1.exe
+MP-AdFind.exe
+MP-rPO59687543.exe 
+MP*-Ziraat Bankasi Swift Mesaji.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+TF-C:\Users\admin\AppData\Roaming\damianoh68951
+MP-RdrCEF.exe 
+MP*-AdFind.exe 
+MF-C:\Users\admin\Desktop\7d93b142ab6fca16c0be4c3720a50833
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MP*-WinSat.exe
+TP*-oneetx.exe
+SF-C:\Users\admin\Desktop\SHIPPING
+SO-hxxp://68.183.9[.]9/get.php
+MF-msdt.exe
+MF-C:\Users\Public\Music\mediatv
+SF-C:\Users\Public\coinmarketcap\coinmarketcap.ps1
+TF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9423.tmp
+MF-ordine.zip
+SF-C:\Windows\system32\icacls.exe
+MP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+57
+0 1 EX-1
+0 2 IJ-1
+2 1 RD-1
+0 3 UK-1
+2 4 WR-1
+2 5 RD-1
+6 1 EX-1
+2 6 UK-1
+7 1 WR-1
+7 4 WR-1
+7 5 EX-1
+8 1 RD-1
+8 4 WR-1
+8 5 RD-1
+7 8 UK-1
+9 1 WR-1
+9 4 WR-1
+9 5 RD-1
+10 9 RF-1
+9 11 WR-1
+12 4 CD-1
+12 5 UK-1
+9 13 FR-1
+13 10 ST-2
+13 11 CD-2
+9 14 RD-1
+13 14 RD-2
+15 9 RF-1
+15 13 RF-2
+9 16 FR-1
+16 10 ST-3
+16 11 RD-3
+16 14 WR-3
+16 15 ST-3
+9 17 IJ-1
+17 10 ST-4
+17 11 RD-4
+13 17 IJ-2
+17 14 WR-4
+15 17 RF-3
+16 17 IJ-3
+9 18 UK-1
+13 19 ST-2
+16 19 ST-3
+19 17 RF-3
+13 20 WR-2
+16 20 WR-3
+17 20 UK-4
+13 21 WR-2
+16 21 RD-3
+13 22 WR-2
+16 22 RD-3
+13 23 RD-2
+16 23 RD-3
+16 24 WR-3
+16 25 WR-3
+16 26 UK-3
+

@@ -1,0 +1,27 @@
+10
+MP*-nl
+MF-subprocess.c
+MP-cat
+MP-head
+SF-da-ks.cfg
+MP*-rev
+MP*-grep
+MF-apache2.c
+MF-0*.txt
+MP*-uname
+14
+0 1 RD-1
+0 2 FR-1
+2 1 EX-1
+0 3 UK-1
+2 4 WR-1
+5 1 WR-2
+5 4 RD-2
+6 1 WR-3
+2 6 UK-1
+5 7 WR-2
+5 8 EX-2
+9 1 RD-4
+9 4 WR-4
+5 9 UK-2
+

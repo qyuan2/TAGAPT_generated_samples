@@ -1,0 +1,91 @@
+25
+MP*-cat
+TF-atomic.sh
+MF-raft-medium-directories.txt
+MF-password-hash.sh
+SO-192.168.10.131
+TF-alertConfigField.php
+MF-e.c
+MF-1.zip
+MP*-cat
+TF-inetd.c
+MF-user.r
+MF-echo-art-fish.sh
+TP-less
+MF-T1027-004-test.c
+SO-192.168.10.133
+TP-grep
+MF-atomic.log
+MP*-less
+TF-ufw.log
+MP-cat
+MF-cron.m
+SF-www.google.c
+MP*-cat
+TF-2017.pl
+MP-uname
+63
+0 1 WR-1
+0 2 RD-1
+0 3 WR-1
+4 0 RF-1
+0 5 CD-1
+0 6 RD-1
+0 7 EX-1
+0 8 FR-1
+8 1 RD-2
+8 2 WR-2
+8 3 RD-2
+4 8 RF-2
+8 5 RD-2
+8 6 EX-2
+8 7 RD-2
+0 9 RD-1
+8 9 EX-2
+0 10 RD-1
+8 10 WR-2
+8 11 WR-2
+12 2 WR-2
+12 3 WR-2
+12 4 ST-2
+12 5 WR-2
+12 6 EX-2
+12 7 WR-2
+8 12 IJ-2
+12 9 WR-2
+12 10 RD-2
+12 11 EX-2
+8 13 WR-2
+12 13 RD-2
+8 14 ST-2
+12 14 ST-2
+15 5 EX-2
+15 6 WR-2
+15 7 UK-2
+12 16 RD-2
+17 9 RD-3
+17 10 WR-3
+17 11 WR-3
+12 17 IJ-2
+17 13 EX-3
+14 17 RF-2
+17 16 WR-3
+12 18 RD-2
+17 18 RD-3
+19 10 WR-3
+19 11 UK-3
+12 20 CD-2
+17 20 RD-3
+12 21 RD-2
+17 21 UK-3
+22 13 WR-4
+14 22 RF-2
+22 16 WR-4
+22 18 RD-4
+22 20 WR-4
+22 23 WR-4
+24 16 EX-4
+24 18 RD-4
+24 20 WR-4
+22 24 UK-4
+

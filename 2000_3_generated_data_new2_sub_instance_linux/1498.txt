@@ -1,0 +1,60 @@
+18
+MP*-cat
+MF-os.exe
+MF-pd.c
+MP*-grep
+MP-uname
+MF-on.a
+SF-e2.c
+TP-chmod 
+SF-cron.h
+MF-httpd.c
+MP-netstat
+SO-192.168.206.136
+SF-ron.a
+MP*-chmod
+TP-vi
+MF-LinEnum.sh
+MP-cat
+MP*-sudo
+39
+0 1 WR-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-2
+3 2 RD-2
+0 4 FR-1
+4 1 WR-2
+4 2 UK-2
+0 5 RD-1
+3 5 RD-2
+0 6 WR-1
+3 6 RD-2
+0 7 IJ-1
+7 1 WR-2
+3 7 IJ-2
+7 5 RD-2
+7 6 CD-2
+0 8 WR-1
+3 8 UK-2
+0 9 WR-1
+7 9 EX-2
+0 10 UK-1
+7 11 ST-2
+7 12 WR-2
+13 5 EX-3
+13 6 EX-3
+7 13 IJ-2
+13 9 WR-3
+13 11 ST-3
+13 12 EX-3
+14 5 UK-3
+7 15 WR-2
+13 15 RD-3
+16 6 UK-3
+7 17 FR-2
+17 9 RD-4
+17 11 ST-4
+17 12 EX-4
+13 17 UK-3
+

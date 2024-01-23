@@ -1,0 +1,46 @@
+13
+MP*-head
+SF-alertConfigField.php
+MF-etc.tar.gz
+MF-T1027-004-test.c
+MF-resolv.c
+MF-T1074.001_discovery.log
+SF-subprocess.c
+TF-1.txt
+MP*-uname
+TP*-dpkg
+SO-192.168.206.0
+TF-subprocess.c
+MP*-netstat
+30
+0 1 RD-1
+0 2 WR-1
+0 3 EX-1
+0 4 WR-1
+0 5 RD-1
+0 6 WR-1
+0 7 WR-1
+0 8 FR-1
+8 1 EX-2
+8 2 WR-2
+8 3 WR-2
+8 4 WR-2
+8 5 WR-2
+8 6 RD-2
+8 7 WR-2
+0 9 IJ-1
+9 1 WR-3
+9 2 WR-3
+9 3 WR-3
+9 4 EX-3
+9 5 CD-3
+9 6 UK-3
+0 10 ST-1
+10 8 RF-1
+8 11 EX-2
+12 3 EX-4
+12 4 WR-4
+12 5 WR-4
+12 7 WR-4
+8 12 UK-2
+

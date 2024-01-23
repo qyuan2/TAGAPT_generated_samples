@@ -1,0 +1,57 @@
+14
+MP*-nsCCFE.tmp
+MF-C:\Users\admin\Desktop\Paradox RAT\Updater
+MF-C:\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+MF-Get-UsoClientDLLSystem.ps1
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+TP*-CareUEyes_setup.exe
+TP-468C.exe
+MP*-at.exe
+MF-Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64.sys
+MF-C:\Users\admin\AppData\Local\Temp\tmp52BE
+MF-C:\Users\admin\AppData\Local\Temp\sgic_info
+MP*-Poison.scr 
+MP-Nikki Project.scr
+TP-mmc.exe
+40
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 ST-1
+0 5 IJ-1
+5 1 WR-2
+5 2 WR-2
+5 3 WR-2
+5 4 ST-2
+0 6 IJ-1
+6 1 WR-2
+6 2 WR-2
+6 3 RD-2
+4 6 RF-2
+5 6 UK-2
+0 7 FR-1
+7 1 RD-3
+7 2 WR-3
+7 3 WR-3
+4 7 RF-2
+0 8 WR-1
+7 8 RD-3
+0 9 WR-1
+7 9 EX-3
+0 10 EX-1
+7 10 WR-3
+11 2 RD-4
+11 3 WR-4
+11 4 ST-4
+11 8 WR-4
+11 9 WR-4
+11 10 RD-4
+12 3 RD-4
+12 4 ST-4
+7 12 UK-3
+13 4 ST-4
+13 8 WR-4
+13 9 RD-4
+13 10 WR-4
+11 13 UK-4
+

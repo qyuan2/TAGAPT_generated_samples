@@ -1,0 +1,69 @@
+20
+MP-iptables
+MF-on.a
+TP-netstat
+MP-awk
+MF-alertConfigField.php
+MP-gobuster
+SO-8.8.8.8
+MP-tee
+TP*-ls
+MP-cat
+TP*-ls
+SO-192.168.206.137
+SF-locale.c
+TP-cat
+TP-cat
+MF-lighttp.c
+MP*-sed
+MF-access.txt
+MP-useradd
+MP*-nl
+46
+0 1 WR-1
+0 2 IJ-1
+2 1 UK-1
+0 3 FR-1
+0 4 EX-1
+3 4 RD-1
+0 5 FR-1
+3 5 UK-1
+6 0 RF-1
+0 7 FR-1
+7 4 RD-1
+6 7 RF-1
+0 8 FR-1
+8 4 WR-1
+6 8 RF-1
+7 8 UK-1
+0 9 FR-1
+9 4 EX-1
+6 9 RF-1
+0 10 FR-1
+10 4 WR-2
+10 6 ST-2
+9 10 IJ-1
+11 9 RF-1
+11 10 RF-2
+10 12 WR-2
+13 6 ST-2
+10 13 IJ-2
+13 11 ST-3
+13 12 EX-2
+6 14 RF-2
+10 14 UK-2
+13 15 CD-2
+11 16 RF-3
+16 12 WR-3
+13 16 IJ-2
+16 15 WR-3
+13 17 WR-2
+16 17 EX-3
+11 18 RF-3
+18 12 RD-3
+13 18 UK-2
+11 19 RF-2
+19 12 RD-4
+19 15 RD-4
+16 19 UK-3
+

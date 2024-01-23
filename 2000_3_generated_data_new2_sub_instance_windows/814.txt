@@ -1,0 +1,94 @@
+25
+MP*-Caspol.exe
+TF-C:\Users\admin\AppData\Local\Temp\RunDRT-Office2016.bat
+TP*-suifsc.exe 
+MF-C:\Windows\system32\DllHost.exe
+MP-SSLplus.exe
+TP-Uninstall.exe 
+MP-Skype.exe 
+MP-6248.exe
+SO-74.50.94.156
+MF-\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+MP-soa PDF.exe
+MP-Notepad Soft.exe 
+MP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+MF-\art.bat
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MF-Users\smss.exe
+SO-192.168.5.25
+SO-test@corp.com
+MP-Paranoid Checker.exe 
+MP*-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+TP*-863e7c22c771e4005197ae28363584f8.exe 
+SF-C:\Users\admin\AppData\Local\Temp\tmpF47F
+MP-Order specification.exe
+SF-C:\Users\admin\AppData\Local\Temp\06e0e36f91e621e79712673923e57daf3fcf232bb3151c122891ded30466293a
+MP-WtHgie
+66
+0 1 RD-1
+0 2 IJ-1
+2 1 WR-2
+0 3 WR-1
+2 3 RD-2
+0 4 FR-1
+4 1 WR-2
+2 4 IJ-2
+4 3 WR-2
+0 5 FR-1
+5 1 EX-2
+2 5 IJ-2
+5 3 EX-2
+4 5 IJ-2
+0 6 UK-1
+7 1 WR-2
+2 7 UK-2
+4 8 ST-2
+8 5 RF-2
+4 9 WR-2
+5 9 WR-2
+10 1 WR-2
+4 10 UK-2
+5 11 FR-2
+11 8 ST-2
+11 9 RD-2
+5 12 FR-2
+12 8 ST-2
+12 9 RD-2
+5 13 UK-2
+11 14 ST-2
+12 14 ST-2
+11 15 WR-2
+12 15 WR-2
+16 11 RF-2
+12 16 ST-3
+17 11 RF-2
+12 17 ST-3
+18 9 RD-2
+11 18 UK-2
+12 19 FR-2
+19 14 ST-3
+19 15 WR-3
+16 19 RF-3
+17 19 RF-3
+12 20 FR-2
+20 14 ST-4
+20 15 EX-4
+20 16 ST-4
+20 17 ST-4
+19 20 IJ-3
+12 21 EX-2
+19 21 WR-3
+20 21 RD-4
+12 22 FR-2
+14 22 RF-3
+22 15 RD-4
+16 22 RF-4
+22 17 ST-4
+19 22 UK-3
+20 23 RD-4
+24 14 ST-4
+24 15 WR-4
+16 24 RF-4
+24 17 ST-4
+20 24 UK-4
+

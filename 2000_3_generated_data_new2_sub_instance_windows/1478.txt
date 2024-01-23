@@ -1,0 +1,50 @@
+14
+MP*-facttura.exe
+SF-C:\program files\java\jre1
+MF-\Windows\System32\Curl.exe
+MF-C:\Users\admin\AppData\Local\Temp\INVOICE
+SF-C:\Windows\system32\cacls
+MF-C:\Users\admin\skmt
+MF-message.msg
+MP*-at.exe
+MF-C:\Users\admin\AppData\Local\Temp\836dfa8ecf57ce861f4cacfe4a85572d
+TF-C:\Users\admin\AppData\Local\Temp\Kulicib
+MP*-RdrCEF.exe 
+MF-6.9.1.tmp
+MF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd
+MP*-Outflank-Dumpert.exe
+33
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 WR-1
+0 5 EX-1
+0 6 WR-1
+0 7 FR-1
+7 1 EX-2
+7 2 WR-2
+7 3 WR-2
+7 4 RD-2
+7 5 WR-2
+7 6 CD-2
+0 8 WR-1
+7 8 WR-2
+0 9 RD-1
+7 9 UK-2
+0 10 FR-1
+10 1 WR-3
+10 2 EX-3
+10 3 WR-3
+10 4 WR-3
+10 5 RD-3
+10 6 RD-3
+10 8 WR-3
+10 11 WR-3
+10 12 CD-3
+13 3 EX-4
+13 4 EX-4
+13 5 WR-4
+13 6 WR-4
+13 8 WR-4
+10 13 UK-3
+

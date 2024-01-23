@@ -1,0 +1,64 @@
+18
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+MF-\Users\admin\AppData\Local\Temp\xobpf7op.cmd
+SF-C:\Users\admin\AppData\Local\Temp\msetup\operasetup.exe
+MP-nsA317.tmp
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9D4E.tmp
+SF-C:\Users\admin\AppData\Local\Temp\msetup\360TS_Setup
+TP-Orcus.exe 
+MP*-LZ4-SOFT.exe 
+MF-\Users\Public\coinmarketcap\coinmarketcap.ps1
+MF-C:\Windows\servicing\TrustedInstaller
+MP*-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+MP-explorer.exe
+MF-files\appdata\local\temp\19084.bmp.vb
+MP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+TP-TrustedInstaller.exe
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+MP-DataSvcUtil.exe
+43
+0 1 WR-1
+0 2 EX-1
+0 3 FR-1
+3 1 WR-1
+3 2 WR-1
+0 4 WR-1
+3 4 WR-1
+0 5 WR-1
+3 5 RD-1
+0 6 IJ-1
+6 1 WR-1
+6 2 WR-1
+3 6 UK-1
+0 7 FR-1
+7 1 RD-2
+7 2 WR-2
+7 4 WR-2
+7 5 RD-2
+0 8 WR-1
+7 8 WR-2
+0 9 WR-1
+7 9 RD-2
+0 10 FR-1
+10 1 WR-3
+10 2 RD-3
+10 4 EX-3
+10 5 WR-3
+10 8 RD-3
+10 9 UK-3
+11 1 CD-3
+11 2 WR-3
+11 4 UK-3
+7 12 RD-2
+13 5 WR-4
+13 8 WR-4
+13 12 RD-4
+14 5 WR-4
+7 14 UK-2
+13 15 EX-4
+13 16 ST-4
+17 8 WR-4
+17 12 CD-4
+13 17 UK-4
+

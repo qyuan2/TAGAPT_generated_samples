@@ -1,0 +1,109 @@
+29
+MP-PC_Cleaner__5509.exe 
+MP-pr2.exe 
+MF-C:\Users\admin\AppData\Local\Temp\207aa4515d\oneetx
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MF-C:\Program Files\RerSpacer710\RerSpacer710.exe
+MF-\Users\admin\AppData\Local\Temp\SUNATfacturanopagada.zip
+TP-Caspol.exe
+TP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MF-ping.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MP*-nsBB14.tmp
+TF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth
+MP-Test.exe 
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+SO-hxxp://avirona.ru/7-ZIP.html
+MF-C:\Windows\System32\cscript
+MP-wuauclt.exe
+SF-C:\Program Files\Mozilla Firefox\default-browser-agent.exe
+TP-RdrCEF.exe 
+TP-net.exe
+TF-%windir%\system32\inetsrv\appcmd.exe install module 
+TP*-gsecdump.exe
+MP*-ns996E.tmp
+TF-\Users\admin\AppData\Local\Temp\4game_supp.exe
+MP-ngen.exe
+TF-Users\{90140000-00A1-0412-0000-0000000FF1CE}-C\services.exe
+MF-C:\Users\admin\Desktop\DOC77412
+MF-DC\Reader\AcroCEF\RdrCEF.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86
+77
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+3 0 RF-1
+1 3 ST-1
+0 4 RD-1
+1 4 EX-1
+0 5 RD-1
+1 5 UK-1
+0 6 UK-1
+7 2 WR-1
+3 7 RF-1
+7 4 WR-1
+7 8 WR-1
+7 9 ST-1
+10 2 WR-1
+10 3 ST-1
+10 4 WR-1
+7 10 IJ-1
+10 8 EX-1
+10 9 ST-1
+7 11 WR-1
+10 11 WR-1
+12 2 RD-1
+12 3 ST-1
+12 4 RD-1
+7 12 IJ-1
+12 8 WR-1
+12 9 ST-1
+12 11 CD-1
+3 13 RF-1
+13 4 RD-2
+7 13 IJ-1
+13 8 WR-2
+9 13 RF-1
+13 11 WR-2
+7 14 ST-1
+14 10 RF-1
+14 12 RF-1
+13 14 ST-2
+7 15 UK-1
+16 8 WR-2
+16 9 ST-2
+16 11 EX-2
+16 14 ST-2
+10 17 UK-1
+18 8 RD-2
+9 18 RF-1
+18 11 RD-2
+12 18 UK-1
+9 19 RF-1
+19 11 EX-2
+13 19 IJ-2
+14 19 RF-2
+16 19 UK-2
+13 20 WR-2
+21 11 WR-3
+13 21 IJ-2
+21 14 ST-3
+21 20 RD-3
+13 22 FR-2
+22 14 ST-4
+22 20 WR-4
+21 22 IJ-3
+13 23 WR-2
+21 23 WR-3
+22 23 WR-4
+24 14 ST-4
+24 20 UK-4
+21 25 EX-3
+22 25 WR-4
+21 26 EX-3
+22 26 EX-4
+21 27 RD-3
+22 27 CD-4
+21 28 RD-3
+22 28 UK-4
+

@@ -1,0 +1,55 @@
+18
+MP*-ExplorerSuite.tmp
+SO-192.168.5.25
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+MF-Get-CreateProcessSystemBind.ps1
+MP*-executable.3044.exe 
+MF-GetCredmanCreds.ps1
+TF-C:\Users\admin\AppData\Local\Temp\goose_goose_duck_free.exe
+MF-C:\Windows\system32\schtasks
+TF-google.c
+MP-Outflank-Dumpert.exe
+MP*-NOTEPAD.EXE
+MF-C:\Users\admin\AppData\Local\Temp\Purchase_ORDERS087
+MP*-Powershell.exe
+MP-kkkkk.exe 
+SF-C:\Users\admin\Desktop\AIGeneratedRansomware
+MF-C:\Browserweb\csrss
+TF-\baby\baby.dat
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+34
+0 1 ST-1
+0 2 ST-1
+0 3 EX-1
+0 4 FR-1
+4 1 ST-2
+2 4 RF-1
+4 3 WR-2
+0 5 EX-1
+4 5 RD-2
+0 6 UK-1
+4 7 RD-2
+4 8 CD-2
+1 9 RF-1
+9 2 ST-2
+9 3 WR-2
+9 5 WR-2
+9 7 RD-2
+9 8 WR-2
+1 10 RF-1
+2 10 RF-1
+10 3 WR-3
+4 10 UK-2
+9 11 CD-2
+2 12 RF-1
+12 3 EX-4
+12 5 WR-4
+12 7 RD-4
+12 8 UK-4
+13 3 UK-4
+9 14 WR-2
+9 15 WR-2
+9 16 WR-2
+17 7 WR-4
+9 17 UK-2
+

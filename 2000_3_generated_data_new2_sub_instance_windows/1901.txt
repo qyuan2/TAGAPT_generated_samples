@@ -1,0 +1,109 @@
+30
+MP-SSLplus.exe
+MF-\Users\admin\AppData\Local\Temp\pure.zip
+SF-HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot
+SF-C:\Users\admin\AppData\Local\Temp\ursnif
+SF-C:\Windows\Temp\atomicNotificationPackage.dll
+MF-DC\Reader\AcroCEF\debug.log
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MF-C:\Users\admin\AppData\Local\Temp\VALENCIA12
+MP-EvaPKO
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+MP*-sc.exe
+SF-M:\SOFTWARE\Classes\.wav
+TF-C:\Program files\appdata\local\temp\20342.bmp
+SF-C:\Windows\system32\net1
+TP-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+MP*-ns9AE8.tmp
+MF-C:\Users\admin\AppData\Local\Temp\92132ec45279423b79399f74c5dc0a6d1009261c0dfefad17523e53e9ff8ae15
+MF-C:\Users\admin\Desktop\c2dbd1f560dba5050031499cc921b3b7
+SF-C:\Program Files\P E Analytics Pvt Ltd\PEPlus\PEPlusLauncher_V2.exe
+MF-C:\Program Files\Common Files\Microsoft Shared\EQUATION\EQNEDT32
+MF-C:\Users\admin\Desktop\Cybereason_EDR_TEST_TOOLS.7z
+MP*-сsrss.exe 
+MF-C:\MSOCache\All Users\csrss
+SF-C:\Users\admin\AppData\Local\Temp\tb
+MF-C:\Users\admin\AppData\Local\Temp\8
+MP*-B47C.exe
+TF-\Users\admin\Desktop\jerkoff.exe
+MF-ckc0.blogspot.c
+MF-C:\Users\admin\AppData\Local\Temp\EasyValorant.exe
+MP-TruffleSnout.exe
+76
+0 1 WR-1
+0 2 WR-1
+0 3 CD-1
+0 4 WR-1
+0 5 EX-1
+6 0 RF-1
+0 7 CD-1
+0 8 FR-1
+8 1 WR-1
+8 2 WR-1
+8 3 RD-1
+8 4 UK-1
+9 0 RF-1
+0 10 FR-1
+10 1 WR-1
+10 2 RD-1
+10 3 RD-1
+10 5 WR-1
+6 10 RF-1
+10 7 WR-1
+10 9 ST-1
+10 11 RD-1
+10 12 RD-1
+10 13 WR-1
+14 5 WR-1
+6 14 RF-1
+14 7 WR-1
+14 9 ST-1
+10 14 IJ-1
+14 11 UK-1
+15 5 RD-2
+6 15 RF-2
+15 7 WR-2
+15 9 ST-2
+15 12 WR-2
+15 13 EX-2
+10 16 WR-1
+15 16 WR-2
+10 17 WR-1
+15 17 RD-2
+10 18 WR-1
+15 18 WR-2
+10 19 WR-1
+15 19 RD-2
+10 20 RD-1
+15 20 RD-2
+21 12 WR-3
+21 13 WR-3
+21 16 WR-3
+21 17 WR-3
+21 18 WR-3
+21 19 RD-3
+21 20 EX-3
+15 22 WR-2
+21 22 WR-3
+15 23 WR-2
+21 23 WR-3
+15 24 WR-2
+21 24 RD-3
+15 25 FR-2
+25 16 EX-4
+25 17 RD-4
+25 18 EX-4
+25 19 WR-4
+25 20 RD-4
+25 22 RD-4
+25 23 WR-4
+25 24 RD-4
+21 26 WR-3
+25 26 WR-4
+21 27 RD-3
+25 27 UK-4
+21 28 EX-3
+29 19 RD-4
+29 20 WR-4
+21 29 UK-3
+

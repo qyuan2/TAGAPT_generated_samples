@@ -1,0 +1,144 @@
+38
+MP*-rev
+MP-cat
+MP-paste
+MP-bash
+SF-www.google.c
+TP-cat
+TP-bash
+MP-ufw
+MF-echo-art-fish.sh
+MP-sed
+MP-head
+TP-netstat
+TP-sed
+MP*-perl
+MF-ttpd.c
+MF-d.c
+SF-victim-shred.txt
+MF-atomic.sh
+MF-data.zip
+MP-bash
+TP-cat
+MP-cat
+TP-cat
+MF-log.c
+TP*-wfuzz
+TP*-paste
+SF-shell.cgi
+TP-id
+SO-atomic@target.example
+TP-mknod
+MP-bash
+MF-s.c
+TP-paste
+MP-cat
+MF-rockyou.txt
+MP-more
+TP-cat
+MP-less
+103
+0 1 FR-1
+0 2 FR-1
+0 3 FR-1
+2 3 UK-1
+0 4 RD-1
+1 4 WR-1
+0 5 IJ-1
+1 5 IJ-1
+5 4 RD-1
+0 6 IJ-1
+1 6 UK-1
+0 7 UK-1
+5 8 WR-1
+9 4 RD-1
+5 9 IJ-1
+9 8 UK-1
+10 4 EX-1
+5 10 UK-1
+11 4 WR-1
+12 4 WR-1
+11 12 UK-1
+13 4 WR-2
+13 14 WR-2
+13 15 RD-2
+13 16 RD-2
+13 17 CD-2
+13 18 WR-2
+13 19 FR-2
+19 14 RD-2
+19 15 WR-2
+19 16 EX-2
+19 17 EX-2
+19 18 WR-2
+13 20 FR-2
+20 14 WR-2
+20 15 WR-2
+20 16 EX-2
+20 17 WR-2
+20 18 RD-2
+19 20 IJ-2
+13 21 UK-2
+22 14 WR-2
+22 15 RD-2
+22 16 EX-2
+22 17 WR-2
+22 18 RD-2
+19 22 IJ-2
+20 22 UK-2
+19 23 WR-2
+24 14 RD-3
+24 15 EX-3
+24 16 WR-3
+24 17 WR-3
+24 18 WR-3
+19 24 IJ-2
+24 23 WR-3
+25 15 WR-4
+25 16 WR-4
+25 17 EX-4
+25 18 WR-4
+19 25 IJ-2
+25 23 RD-4
+24 25 IJ-3
+19 26 RD-2
+24 26 RD-3
+25 26 WR-4
+27 17 CD-4
+27 18 WR-4
+19 27 IJ-2
+27 23 EX-4
+24 27 IJ-3
+25 27 UK-4
+19 28 ST-3
+28 24 RF-3
+19 29 FR-2
+29 23 WR-4
+24 29 IJ-3
+29 26 WR-4
+28 29 RF-4
+30 23 EX-4
+24 30 UK-3
+29 31 WR-4
+32 23 RD-4
+32 26 WR-4
+28 32 RF-4
+29 32 UK-4
+33 23 WR-4
+33 26 EX-4
+28 33 RF-4
+33 31 WR-4
+33 34 WR-4
+35 26 WR-4
+28 35 RF-4
+35 31 WR-4
+33 35 UK-4
+36 26 RD-4
+28 36 RF-4
+36 31 WR-4
+36 34 WR-4
+37 28 ST-4
+37 31 CD-4
+37 34 RD-4
+36 37 UK-4
+

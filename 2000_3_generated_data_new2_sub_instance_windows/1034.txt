@@ -1,0 +1,41 @@
+14
+MP*-hh.exe
+MF-C:\Users\admin\AppData\Local\Temp\468C
+TP*-ns9A6A.tmp 
+MP-Paranoid Checker.exe 
+MP*-ns98F0.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\server.exe
+MP*-SecuriteInfo.com
+SF-C:\Browserweb\csrss
+SO-80.0.0.0
+TF-C:\Users\admin\AppData\Local\Temp\capture
+SF-C:\Windows\system32\reg
+MF-C:\Windows\Temp\lsass_dump.dmp
+SF-HKCU\Software\Policies\Microsoft\Windows\PowerShell\ModuleLogging
+MP-installd.exe
+24
+0 1 RD-1
+0 2 FR-1
+2 1 EX-2
+0 3 FR-1
+3 1 RD-2
+2 3 IJ-2
+0 4 FR-1
+4 1 WR-3
+2 4 IJ-2
+3 4 UK-2
+0 5 WR-1
+2 5 UK-2
+0 6 FR-1
+6 1 WR-4
+0 7 WR-1
+6 7 WR-4
+8 0 RF-1
+6 8 ST-4
+0 9 WR-1
+6 9 RD-4
+6 10 WR-4
+6 11 CD-4
+6 12 EX-4
+6 13 UK-4
+

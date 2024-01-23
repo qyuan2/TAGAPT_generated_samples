@@ -1,0 +1,42 @@
+12
+MP*-systemd
+MP-cat
+MP-sed
+TF-alertConfigField.php
+MP*-netstat
+TF-T1027-004-test.c
+MP*-bash
+MP*-paste
+MP-grep
+SF-alertConfigField.php
+TP-id
+MP-less
+27
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 FR-1
+4 3 WR-2
+0 5 WR-1
+4 5 WR-2
+0 6 FR-1
+6 3 WR-3
+6 5 WR-3
+0 7 FR-1
+7 3 EX-4
+7 5 WR-4
+0 8 FR-1
+8 3 WR-4
+4 8 UK-2
+0 9 RD-1
+6 9 EX-3
+7 9 EX-4
+0 10 FR-1
+10 3 WR-4
+10 5 CD-4
+6 10 UK-3
+11 3 EX-4
+11 5 WR-4
+7 11 UK-4
+

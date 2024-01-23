@@ -1,0 +1,73 @@
+20
+MP-wfuzz
+SF-pd.c
+MP*-ssh
+MP-echo
+SF-ron.a
+MF-scripts/tools
+SF-anaconda-ks.cfg
+TP-ls
+SO-192.168.206.136
+SO-192.168.10.128
+SF-common.txt
+SO-192.168.37.130
+SF-loot.txt
+MF-target.example.c
+TP*-grep
+TP-perl
+MP-bash
+TP*-tee
+MP*-more
+MF-AutoSUID.sh
+50
+0 1 RD-1
+0 2 FR-1
+2 1 RD-1
+0 3 FR-1
+3 1 UK-1
+0 4 WR-1
+2 4 WR-1
+0 5 WR-1
+2 5 RD-1
+0 6 UK-1
+2 7 FR-1
+7 4 RD-1
+7 5 RD-1
+2 8 ST-1
+8 7 RF-1
+9 2 RF-1
+7 9 ST-1
+2 10 CD-1
+7 10 WR-1
+2 11 ST-1
+11 7 RF-1
+2 12 RD-1
+7 12 WR-1
+7 13 RD-1
+14 4 WR-2
+14 5 UK-2
+7 15 IJ-1
+15 8 ST-2
+15 9 ST-2
+15 10 RD-2
+11 15 RF-1
+15 12 CD-2
+15 13 WR-2
+7 16 UK-1
+8 17 RF-1
+9 17 RF-2
+17 10 WR-3
+17 11 ST-3
+17 12 WR-3
+17 13 WR-3
+15 17 IJ-2
+18 8 ST-4
+18 9 ST-4
+18 10 WR-4
+11 18 RF-3
+18 12 RD-4
+18 13 WR-4
+15 18 IJ-2
+17 18 UK-3
+15 19 WR-2
+

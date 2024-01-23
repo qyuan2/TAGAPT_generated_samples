@@ -1,0 +1,65 @@
+21
+MP*-ns996E.tmp
+MF-c:\users\public\music\allthethingsx64.dll
+MF-.\T1027.004\src\calc.cs
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+MF-C:\Users\admin\AppData\Local\Temp\3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe
+TP*-vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+MF-bitsadmin.exe
+TP-XClient.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Ashraf
+MP-dvRzzWRPw.exe
+MF-C:\Windows\Temp\T1027
+MF-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\Office Setup Controller\Setup.exe
+MP*-MMFbbhOyNS.exe
+SO-http://www.velux.de/kundendienstbedingungen
+MF-\Users\admin\AppData\Local\Temp\SUNATfacturanopagada.zip
+TF-CSIDL_COMMON_APPDATA\anydesk.exe
+SF-C:\Users\admin\AppData\Local\Temp\Saz_Injector.zip
+SF-C:\Windows\system32\icacls
+TP*-ns9B66.tmp 
+MP-IEmode.exe 
+41
+0 1 WR-1
+0 2 WR-1
+3 0 RF-1
+0 4 RD-1
+0 5 IJ-1
+5 1 WR-2
+5 2 WR-2
+3 5 RF-2
+5 4 CD-2
+6 0 RF-1
+6 5 RF-2
+0 7 WR-1
+5 7 UK-2
+0 8 IJ-1
+8 1 EX-2
+8 2 EX-2
+8 3 ST-2
+8 4 RD-2
+8 6 ST-2
+0 9 WR-1
+8 9 WR-2
+0 10 UK-1
+8 11 EX-2
+8 12 UK-2
+13 3 ST-3
+13 4 WR-3
+6 13 RF-2
+13 9 RD-3
+13 11 WR-3
+13 14 ST-3
+13 15 WR-3
+13 16 WR-3
+13 17 WR-3
+13 18 RD-3
+19 11 WR-4
+13 19 IJ-3
+19 14 ST-4
+19 15 WR-4
+19 16 UK-4
+20 11 WR-4
+13 20 UK-3
+

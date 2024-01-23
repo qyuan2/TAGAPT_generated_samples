@@ -1,0 +1,55 @@
+17
+MP-grep
+MP-cat
+TP-grep
+TP*-ip
+SF-access.htm
+TF-journald.c
+MF-log.c
+SF-e2.c
+MF-T1003.008.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-cat
+MP-sed
+TF-password-hash.sh
+TF-d.c
+MP-locale
+MP*-ip
+MP*-cat
+35
+0 1 FR-1
+0 2 UK-1
+1 3 IJ-1
+1 4 RD-1
+3 4 WR-1
+1 5 RD-1
+3 5 CD-1
+1 6 WR-1
+3 6 RD-1
+1 7 UK-1
+3 8 RD-1
+9 3 RF-1
+3 10 IJ-1
+10 4 WR-2
+10 5 EX-2
+10 6 EX-2
+10 8 RD-2
+9 10 RF-2
+3 11 FR-1
+11 4 RD-2
+11 5 UK-2
+3 12 WR-1
+10 12 EX-2
+3 13 CD-1
+10 13 RD-2
+14 4 UK-2
+15 6 WR-3
+15 8 WR-3
+9 15 RF-3
+15 12 WR-3
+15 13 UK-3
+16 6 WR-4
+16 8 WR-4
+16 9 ST-4
+10 16 UK-2
+

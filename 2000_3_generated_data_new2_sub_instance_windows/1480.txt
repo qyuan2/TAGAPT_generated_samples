@@ -1,0 +1,47 @@
+13
+MP*-IrSatorLauncher.exe 
+TF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\LogTransport2.exe
+MP*-nsCA5C.tmp
+SO-https://vision.fn-pz.com
+MP-dsquery.exe
+MP-ns9423.tmp 
+MP*-nsD62C.tmp
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Mshta_calc.sct").Exec();close
+MF-C:\Users\admin\AppData\Local\Temp\tmp190.tmp
+SF-C:\Users\Public\Music\tvplaylist
+MF-\Windows\System32\sdiagnhost.exe
+MP*-wusa.exe
+MP-prevhost.exe
+31
+0 1 WR-1
+0 2 FR-1
+2 1 EX-2
+0 3 ST-1
+2 3 ST-2
+0 4 FR-1
+4 1 WR-2
+3 4 RF-2
+0 5 FR-1
+5 1 WR-2
+2 5 UK-2
+0 6 FR-1
+6 1 CD-3
+3 6 RF-2
+7 0 RF-1
+4 7 ST-2
+7 6 RF-2
+0 8 WR-1
+4 8 WR-2
+6 8 UK-3
+0 9 WR-1
+4 9 UK-2
+0 10 WR-1
+11 1 WR-4
+11 3 ST-4
+7 11 RF-2
+11 10 WR-4
+12 3 ST-4
+7 12 RF-2
+12 10 EX-4
+11 12 UK-4
+

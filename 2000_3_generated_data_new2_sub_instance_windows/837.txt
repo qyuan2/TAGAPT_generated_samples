@@ -1,0 +1,94 @@
+25
+MP*-shutdown.exe
+TP-Skype.exe 
+TF-\Users\admin\AppData\Local\Temp\UN.php
+TP-nsBC6C.tmp
+MP*-setup_avrokeyboard_5.6.0.exe
+TP-addinutil.exe
+MF-data_decoder.m
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+MP-anydesk.exe
+MF-C:\CrackMapExecWin\crackmapexec.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MF-\Users\admin\AppData\Local\Temp\tb.png
+MF-C:\Users\admin\AppData\Local\Temp\IXP001
+MP-logagent.exe
+MF-C:\Users\admin\AppData\Local\Temp\PO-465514-180820.doc
+SO-8.100.0.203
+MP-svchost.exe
+TP*-Notepad Soft.exe 
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns96F8.tmp
+MF-C:\Users\admin\AppData\Local\Temp\000001
+MF-C:\Users\admin\AppData\Local\Temp\znKToHKMQmKzmtaVpk\jsIXhU
+TP-WINWORD.EXE
+MP-nsA317.tmp
+MP-Updater.exe 
+TP-PO 345678.exe 
+66
+0 1 FR-1
+0 2 RD-1
+1 2 WR-1
+0 3 IJ-1
+1 3 UK-1
+0 4 FR-1
+4 2 WR-2
+0 5 FR-1
+5 2 RD-2
+4 5 IJ-2
+0 6 WR-1
+4 6 RD-2
+5 6 WR-2
+0 7 FR-1
+7 2 RD-3
+5 7 IJ-2
+7 6 RD-3
+0 8 FR-1
+8 2 CD-3
+5 8 UK-2
+0 9 RD-1
+4 9 RD-2
+7 9 RD-3
+10 0 RF-1
+10 4 RF-2
+10 7 RF-3
+4 11 EX-2
+7 11 WR-3
+4 12 RD-2
+7 12 UK-3
+4 13 FR-2
+13 6 RD-3
+13 9 WR-3
+13 10 ST-4
+13 11 WR-3
+4 14 WR-2
+13 14 WR-3
+13 15 ST-3
+16 6 WR-3
+16 9 WR-3
+10 16 RF-3
+16 11 RD-3
+13 16 UK-3
+17 9 WR-4
+10 17 RF-4
+17 11 WR-4
+17 14 WR-4
+17 15 ST-4
+17 18 WR-4
+17 19 WR-4
+17 20 WR-4
+21 11 RD-4
+21 14 WR-4
+21 15 ST-4
+17 21 IJ-4
+21 18 WR-4
+21 19 EX-4
+21 20 WR-4
+22 14 UK-4
+23 15 ST-4
+17 23 UK-4
+24 15 ST-4
+24 18 WR-4
+24 19 WR-4
+24 20 EX-4
+21 24 UK-4
+

@@ -1,0 +1,47 @@
+14
+MP*-head
+TF-1.zip
+TF-shell.cgi
+MF-cron.m
+MF-http.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+SF-d.c
+SO-127.0.0.1
+MP*-less
+MF-data.zip
+MF-victim-shred.txt
+MP*-python3
+MP*-tee
+SF-T1070.006-access.txt
+30
+0 1 RD-1
+0 2 RD-1
+0 3 WR-1
+0 4 EX-1
+5 0 RF-1
+0 6 EX-1
+0 7 ST-1
+0 8 FR-1
+8 1 WR-2
+8 2 RD-2
+8 3 WR-2
+8 4 RD-2
+8 5 ST-2
+8 6 EX-2
+7 8 RF-1
+0 9 RD-1
+8 9 WR-2
+0 10 EX-1
+8 10 WR-2
+11 3 WR-3
+5 11 RF-2
+11 6 EX-3
+7 11 RF-1
+8 11 UK-2
+12 5 ST-4
+12 6 RD-4
+7 12 RF-1
+12 9 WR-4
+12 10 WR-4
+12 13 UK-4
+

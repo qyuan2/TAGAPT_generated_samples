@@ -1,0 +1,56 @@
+19
+MP*-TrustedInstaller.exe
+MP-Curl.exe
+TF-C:\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8.exe
+MP-LogTransport2.exe
+MF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+MP*-tasklist.exe
+MP-nvvsvc.exe 
+MP*-863e7c22c771e4005197ae28363584f8.exe 2620
+MP-appcmd.exe
+MF-asset_store.m
+MP-nscB9BA.tmp
+MP-ns958E.tmp 
+MP-vlc.exe 
+MP*-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+SF-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\webcam\NonPackaged\C
+SO-0.0.0.0
+MF-C:\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+SF-C:\Users\admin\AppData\Local\Temp\sandbox-installer-windows10-home.bat
+MP-fast1nject.exe 
+34
+0 1 FR-1
+0 2 RD-1
+1 2 RD-1
+0 3 UK-1
+1 4 RD-1
+1 5 FR-1
+5 2 WR-2
+5 4 EX-2
+1 6 FR-1
+6 2 EX-2
+6 4 UK-2
+1 7 FR-1
+7 2 RD-3
+1 8 FR-1
+8 2 RD-3
+5 8 UK-2
+1 9 WR-1
+7 9 WR-3
+1 10 FR-1
+10 2 WR-3
+7 10 UK-3
+1 11 FR-1
+11 2 RD-3
+11 9 WR-3
+12 2 WR-3
+12 9 WR-3
+11 12 UK-3
+13 9 RD-4
+13 14 RD-4
+13 15 ST-4
+13 16 WR-4
+13 17 WR-4
+18 9 EX-4
+13 18 UK-4
+

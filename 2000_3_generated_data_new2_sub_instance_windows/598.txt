@@ -1,0 +1,36 @@
+11
+MP*-df1f94243f99b25fea44d17750d24d04.exe 
+TF-C:\Users\Public\coinmarketcap\coinmarketcap
+MF-\Users\admin\AppData\Local\Temp\hh.exe
+MP*-863e7c22c771e4005197ae28363584f8.exe 2620
+MF-\RerSpacer710\RerSpacer710.exe
+MF-data_decoder.m
+MP*-OriginalBuild.exe.exe 
+SF-C:\Users\admin\AppData\Local\Temp\peplus.m
+TP*-installer.exe
+MF-C:\Windows\system32\shell32.dll
+SF-C:\Users\admin\AppData\Local\Temp\Ayuaey
+22
+0 1 WR-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-2
+3 2 EX-2
+0 4 RD-1
+3 4 WR-2
+0 5 WR-1
+3 5 UK-2
+0 6 FR-1
+6 1 WR-3
+6 2 WR-3
+6 4 EX-3
+0 7 RD-1
+6 7 WR-3
+0 8 FR-1
+8 1 RD-4
+8 2 RD-4
+8 4 WR-4
+6 8 UK-3
+0 9 EX-1
+0 10 RD-1
+

@@ -1,0 +1,32 @@
+10
+MP*-setup_avrokeyboard_5.6.0.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+MF-C:\Users\admin\AppData\Local\Temp\4
+MF-C:\MSOCache\All Users\csrss.exe
+MP-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+MP*-Locker mr robot.exe 
+MF-\mimikatz\x64\mimikatz.exe
+MP*-crackmapexec.exe
+SF-C:\MSOCache\All
+TP*-v4130410.exe 
+19
+1 0 RF-1
+0 2 EX-1
+0 3 WR-1
+0 4 UK-1
+5 1 ST-2
+5 2 WR-2
+5 3 CD-2
+5 6 WR-2
+1 7 RF-2
+7 2 WR-3
+7 3 WR-3
+7 6 EX-3
+5 8 RD-2
+7 8 RD-3
+1 9 RF-2
+9 2 EX-4
+9 3 RD-4
+9 6 WR-4
+7 9 UK-3
+

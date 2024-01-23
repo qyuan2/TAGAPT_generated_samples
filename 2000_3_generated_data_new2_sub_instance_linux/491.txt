@@ -1,0 +1,48 @@
+13
+MP*-bash
+TP*-more
+TP-ls
+MP*-grep
+TF-access.txt
+SF-resolv.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+TF-secret.c
+MP-tail
+MF-raft-large-directories.txt
+MF-1.txt
+MP*-awk
+MF-ufw.log
+32
+0 1 IJ-1
+0 2 FR-1
+1 2 IJ-2
+0 3 FR-1
+1 3 IJ-2
+2 3 IJ-2
+0 4 WR-1
+1 4 WR-2
+2 4 RD-2
+3 4 WR-3
+0 5 RD-1
+1 5 WR-2
+2 5 WR-2
+3 5 WR-3
+6 0 RF-1
+6 1 RF-2
+6 2 RF-2
+6 3 RF-3
+0 7 EX-1
+1 7 WR-2
+2 7 WR-2
+3 7 UK-3
+0 8 UK-1
+1 9 WR-2
+2 9 EX-2
+1 10 WR-2
+2 10 RD-2
+1 11 IJ-2
+2 11 IJ-2
+11 4 WR-4
+11 5 UK-4
+2 12 RD-2
+

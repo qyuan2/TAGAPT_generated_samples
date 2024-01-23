@@ -1,0 +1,154 @@
+38
+MP-vlc.exe
+MF-C:\Users\admin\AppData\Local\Temp\WinRAR
+MP-ntvdm.exe
+MP-ma grosse bite.exe 
+MP*-notepad++.exe 
+MF-AnyDesk.exe
+MF-C:\Program Files (x86)\UltraViewer\UltraViewer_Desktop
+SF-C:\Users\admin\AppData\Roaming\olsptrs\olsptrs
+MF-C:\Users\admin\AppData\Local\Temp\tmp6B8
+MF-C:\Users\admin\AppData\Local\Temp\B47C.exe
+MF-\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023.pdf
+TP-filezilla.exe 
+TP-v6621467.exe
+SO-https://clients2.google.com/cr/report
+MP-EQNEDT32.EXE
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+TP-Purchase_ORDERS087.scr
+MP-HxD.exe
+TP-Setup.exe
+TP-rundll32.exe
+TP*-nsBB14.tmp
+SF-C:\Users\admin\AppData\Local\Temp\Cookies1
+MF-vision.fn-pz.c
+TF-C:\Users\admin\AppData\Local\Temp\program2.py
+MF-File.htm.htm
+TP*-WinRAR.exe
+MF-\Users\admin\AppData\Local\Temp\IBM_LINUX.exe
+MP-OUTLOOK.EXE
+SF-C:\Users\admin\AppData\Roaming\XClient
+MP*-softwarelagswitchc.exe 
+MP-New Client.exe 
+MF-C:\Users\admin\AppData\Local\Temp\renamer
+SF-C:\Users\admin\AppData\Local\Temp\TRUST
+SF-C:\Users\admin\Desktop\test.txt
+MF-\Users\admin\AppData\Roaming\obiokmgf6.exe
+SF-C:\Users\admin\Downloads\03b2f267de27dae24de14e2c258a18e6c6d11581e6caee3a6df2b7f42947d898
+MP-nsA299.tmp
+MP-Kulicib.exe 
+113
+0 1 RD-1
+0 2 FR-1
+2 1 WR-1
+0 3 FR-1
+3 1 WR-1
+2 3 UK-1
+4 1 WR-1
+4 5 EX-1
+4 6 WR-1
+4 7 WR-1
+4 8 RD-1
+4 9 WR-1
+4 10 WR-1
+4 11 FR-1
+11 5 WR-1
+11 6 EX-1
+11 7 UK-1
+4 12 IJ-1
+12 5 CD-1
+12 6 RD-1
+12 8 WR-1
+12 9 WR-1
+12 10 WR-1
+4 13 ST-1
+13 12 RF-1
+4 14 FR-1
+14 5 WR-1
+14 6 WR-1
+14 8 WR-1
+14 9 EX-1
+14 10 CD-1
+12 14 IJ-1
+13 14 RF-1
+12 15 ST-1
+14 15 ST-1
+16 6 EX-1
+16 8 WR-1
+16 9 RD-1
+16 10 EX-1
+12 16 IJ-1
+13 16 RF-1
+14 16 IJ-1
+15 16 RF-1
+17 8 WR-1
+17 9 WR-1
+17 10 EX-1
+12 17 UK-1
+18 8 EX-1
+18 9 WR-1
+18 10 WR-1
+18 13 ST-1
+14 18 IJ-1
+15 18 RF-1
+16 18 UK-1
+19 9 EX-1
+19 10 WR-1
+19 13 ST-1
+14 19 IJ-1
+15 19 RF-1
+20 10 RD-2
+20 13 ST-2
+14 20 IJ-1
+20 15 ST-2
+19 20 IJ-1
+14 21 WR-1
+19 21 RD-1
+20 21 WR-2
+14 22 WR-1
+19 22 WR-1
+20 22 RD-2
+14 23 WR-1
+19 23 RD-1
+20 23 RD-2
+14 24 EX-1
+19 24 EX-1
+20 24 WR-2
+15 25 RF-2
+19 25 IJ-1
+20 25 IJ-2
+25 21 EX-3
+25 22 WR-3
+25 23 EX-3
+25 24 UK-3
+19 26 CD-1
+20 26 EX-2
+19 27 IJ-1
+20 27 UK-2
+19 28 RD-1
+19 29 FR-1
+29 21 WR-4
+29 22 RD-4
+29 23 RD-4
+29 26 EX-4
+29 28 WR-4
+30 21 EX-4
+30 22 EX-4
+30 23 WR-4
+30 26 RD-4
+30 28 WR-4
+29 31 WR-4
+30 31 RD-4
+29 32 CD-4
+30 32 WR-4
+29 33 RD-4
+30 33 WR-4
+29 34 RD-4
+30 34 WR-4
+29 35 RD-4
+30 35 WR-4
+36 28 WR-4
+29 36 UK-4
+37 28 EX-4
+30 37 UK-4
+

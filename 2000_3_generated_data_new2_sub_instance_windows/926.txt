@@ -1,0 +1,146 @@
+39
+MP*-C3B1.exe
+MP-wscript.exe 
+MP-nmap.exe
+TP-bitsadmin.exe
+TP-procdump.exe
+MF-C:\Windows\system32\SearchFilterHost
+TF-C:\Users\admin\AppData\Local\Temp\Dkeyauth
+MF-C:\windows\System32\comsvcs
+MP-test de fdp.exe 
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+TP-iexplore.exe 
+MP-X_Net_Windows.exe
+MF-\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe
+TF-\Users\admin\AppData\Local\Temp\alg.exe
+MF-c:\Windows\system32\vssadmin
+MP-csc.exe
+MP-driverquery.exe 
+TP*-Reg.exe
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\IrSatorLauncher.exe
+MF-C:\Users\admin\AppData\Local\Temp\QUOTATION_AUG7FIBA00541
+MF-C:\Users\admin\AppData\Local\Temp\nsf91FB.tmp
+TF-C:\Users\admin\skmt-bankinter-003-03588993232059560257100458.jar
+SF-C:\Users\admin\AppData\Local\Temp\Dropper
+MP*-oneetx.exe
+MF-\windows\system32\cmd.exe
+MP*-UmJajP
+TP-dvRzzWRPw.exe
+TP-nsD62C.tmp
+TP-ns9AE8.tmp
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP-NOTEPAD.EXE 
+SF-C:\Windows\System32\wscript
+SF-C:\Users\Public\Music\tvplaylist.mov
+MP-operasetup.exe
+MP-Dkeyauth.exe
+SF-HKLM\SOFTWARE\Microsoft\Windows
+MP-Ayuaey.exe 
+MF-C:\Windows\system32\cmd.exe
+TP-MV DESPINA.exe 
+104
+0 1 FR-1
+0 2 FR-1
+0 3 FR-1
+1 3 IJ-1
+2 3 UK-1
+0 4 IJ-1
+1 4 IJ-1
+0 5 WR-1
+1 5 RD-1
+4 5 UK-1
+0 6 WR-1
+1 6 UK-1
+0 7 WR-1
+0 8 FR-1
+8 7 UK-1
+0 9 ST-1
+0 10 FR-1
+10 9 ST-2
+11 9 ST-2
+10 11 IJ-1
+10 12 CD-1
+11 12 WR-1
+10 13 RD-1
+11 13 UK-1
+10 14 RD-1
+15 9 ST-2
+10 15 IJ-1
+15 12 EX-1
+15 14 UK-1
+16 9 ST-2
+10 16 UK-1
+9 17 RF-2
+17 12 RD-2
+17 18 RD-2
+17 19 EX-2
+17 20 WR-2
+17 21 WR-2
+17 22 WR-2
+17 23 IJ-2
+23 18 WR-3
+23 19 RD-3
+23 20 WR-3
+23 21 RD-3
+23 22 RD-3
+17 24 WR-2
+23 24 WR-3
+17 25 FR-2
+25 18 EX-4
+25 19 WR-4
+25 20 WR-4
+25 21 WR-4
+25 22 WR-4
+25 24 RD-4
+17 26 IJ-2
+26 18 WR-4
+26 19 EX-4
+26 20 RD-4
+26 21 WR-4
+26 22 RD-4
+23 26 IJ-3
+26 24 WR-4
+25 26 IJ-4
+17 27 FR-2
+27 18 CD-4
+27 19 RD-4
+27 20 WR-4
+27 21 WR-4
+27 22 WR-4
+23 27 UK-3
+28 18 WR-4
+28 19 WR-4
+28 20 RD-4
+28 21 WR-4
+28 22 RD-4
+28 24 WR-4
+25 28 IJ-4
+26 28 IJ-4
+25 29 ST-4
+29 26 RF-4
+28 29 ST-4
+30 20 UK-4
+25 31 WR-4
+26 31 RD-4
+28 31 RD-4
+25 32 RD-4
+26 32 WR-4
+28 32 WR-4
+33 24 WR-4
+25 33 UK-4
+34 24 RD-4
+26 34 IJ-4
+28 34 UK-4
+26 35 WR-4
+26 36 FR-4
+36 29 ST-4
+36 31 CD-4
+36 32 WR-4
+36 35 EX-4
+36 37 EX-4
+38 29 ST-4
+38 31 WR-4
+38 32 WR-4
+38 35 WR-4
+36 38 UK-4
+

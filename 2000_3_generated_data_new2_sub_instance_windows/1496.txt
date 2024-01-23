@@ -1,0 +1,124 @@
+31
+MP-taskmgr.exe
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_11072023_4555438639_from.js
+TF-\vLocalServerSetup\VPlugin.dll
+SF-C:\Users\admin\AppData\Local\Temp\Group
+TF-conhost.exe
+TP-del.exe
+SO-https://download.anydesk.com/AnyDesk.exe
+MP-jojo11.exe 
+SO-192.168.5.25
+MP-ntvdm.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+SF-C:\Users\admin\AppData\Local\Temp\Group
+TP*-Redline Activate.exe 
+MF-C:\Users\admin\AppData\Local\Temp\UN
+TP-WinAPIOverride 6.9.1.tmp
+SO-hxxp://sacramentos[.]ru/get.php'))|powershell
+SO-80.0.0.0
+SF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04
+MF-EXa3468.21389\Xenos.exe
+MF-C:\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539
+MP*-Dkeyauth.tmp
+MP-radmin scanner.exe 
+TP*-softwarelagswitchc.exe 
+MP-words[1].txt.exe
+MP-Psiphon.exe
+MP*-ns9423.tmp 
+MF-%temp%\sam
+MP-yonr.exe 
+MP-GLJBD24.tmp
+MF-C:\Users\admin\AppData\Local\Temp\solicitud
+MP-updater.exe
+90
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 1 RD-1
+5 2 EX-1
+5 3 EX-1
+5 4 EX-1
+6 0 RF-1
+5 6 ST-1
+0 7 FR-1
+7 1 WR-1
+7 2 WR-1
+7 3 EX-1
+7 4 WR-1
+5 7 IJ-1
+7 6 ST-1
+8 0 RF-1
+8 5 RF-1
+8 7 RF-1
+0 9 UK-1
+5 10 ST-1
+10 7 RF-1
+5 11 WR-1
+7 11 RD-1
+12 2 WR-1
+12 3 RD-1
+12 4 EX-1
+5 12 IJ-1
+12 6 ST-1
+7 12 IJ-1
+12 8 ST-1
+10 12 RF-1
+12 11 RD-1
+5 13 RD-1
+7 13 WR-1
+12 13 WR-1
+14 4 RD-1
+5 14 UK-1
+15 7 RF-1
+12 15 ST-1
+7 16 ST-1
+12 16 ST-1
+7 17 RD-1
+12 17 WR-1
+12 18 WR-1
+12 19 EX-1
+20 10 ST-2
+20 11 WR-2
+12 20 IJ-1
+20 13 EX-2
+15 20 RF-1
+20 16 ST-2
+20 17 RD-2
+20 18 RD-2
+20 19 WR-2
+21 11 EX-2
+12 21 UK-1
+22 13 WR-3
+15 22 RF-1
+16 22 RF-1
+22 17 WR-3
+22 18 RD-3
+22 19 RD-3
+20 22 UK-2
+23 13 WR-3
+15 23 RF-1
+23 16 ST-3
+23 17 WR-3
+23 18 WR-3
+23 19 RD-3
+15 24 RF-1
+16 24 RF-1
+24 17 UK-3
+25 15 ST-4
+16 25 RF-1
+25 18 WR-4
+25 19 CD-4
+23 26 RD-3
+25 26 WR-4
+27 18 WR-4
+27 19 WR-4
+23 27 UK-3
+28 18 WR-4
+28 19 EX-4
+28 26 WR-4
+25 29 UK-4
+30 26 RD-4
+28 30 UK-4
+

@@ -1,0 +1,91 @@
+27
+MP-bash
+MF-victim-shred.txt
+MP-ls
+TP-awk
+MP-grep
+TP*-uname
+MP-ls
+MP-echo 
+MF-flag3.txt
+TP*-less
+TP-ls
+SF-da-ks.cfg
+MF-linux.txt
+SF-settings.php
+MP*-cat
+TP-netstat
+MP-vi
+MF-alertConfigField.php
+TP-cat
+MP-cat
+MF-victim-shred.txt
+MP*-nl
+SF-flag3.txt
+MF-shell.cgi
+MF-T1070.006-reference.txt
+MP-tail
+MP-uname
+61
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 UK-1
+4 1 EX-1
+2 4 UK-1
+5 1 WR-1
+6 1 WR-1
+5 6 IJ-1
+7 1 WR-1
+5 7 IJ-1
+6 7 UK-1
+5 8 WR-1
+9 1 WR-2
+5 9 IJ-1
+9 8 WR-2
+10 1 RD-2
+5 10 IJ-1
+10 8 CD-2
+9 10 IJ-2
+5 11 EX-1
+9 11 WR-2
+10 11 WR-2
+5 12 WR-1
+9 12 EX-2
+10 12 WR-2
+5 13 WR-1
+9 13 WR-2
+10 13 CD-2
+5 14 FR-1
+14 8 CD-3
+9 14 IJ-2
+10 14 IJ-2
+14 11 WR-3
+14 12 WR-3
+14 13 WR-3
+5 15 FR-1
+15 8 WR-3
+9 15 IJ-2
+10 15 UK-2
+16 8 WR-3
+9 16 UK-2
+14 17 WR-3
+18 11 WR-3
+18 12 WR-3
+18 13 WR-3
+14 18 UK-3
+19 11 RD-3
+19 12 WR-3
+19 13 WR-3
+19 17 EX-3
+19 20 WR-3
+21 13 RD-4
+21 17 RD-4
+21 20 CD-4
+21 22 WR-4
+21 23 WR-4
+21 24 EX-4
+25 20 RD-4
+21 25 UK-4
+26 20 UK-4
+

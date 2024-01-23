@@ -1,0 +1,68 @@
+21
+MP*-shutdown.exe
+TF-C:\Program Files\Hantek2xx2\Driver\Others\Hantek2D42AMD64.sys
+SO-http://www.velux.de/ueber-velux/datenschutz
+MF-%temp%\T1140_calc.txt
+TP-build3.exe 
+MF-\Users\admin\AppData\Roaming\.exe
+MF-\Users\admin\Desktop\tasksche.exe
+MF-C:\Users\admin\AppData\Local\Temp\irknanu4
+TF-C:\Users\admin\Desktop\Cybereason_EDR_TEST_TOOLS.7z
+SF-C:\Users\admin\AppData\Local\Microsoft\Windows\675C164A48CAABAED03C522F8DB787B373FB4DE2.exe
+SO-test@corp.com
+MP*-ONENOTE.EXE
+MP*-kkkkk.exe 
+MF-C:\Users\admin\AppData\Local\Temp\AnyDesk
+MF-C:\Users\Public\Music\mediatv
+TF-\temp\atomictestfile.txt
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+MP*-taskdl.exe
+TF-8527.ico.vb
+MF-C:\Users\admin\AppData\Local\Temp\Player666
+MP-nsD232.tmp
+44
+0 1 EX-1
+2 0 RF-1
+0 3 RD-1
+0 4 FR-1
+4 1 RD-1
+2 4 RF-1
+4 3 UK-1
+0 5 RD-1
+0 6 RD-1
+0 7 WR-1
+0 8 RD-1
+0 9 WR-1
+0 10 ST-1
+11 1 EX-2
+2 11 RF-2
+11 5 WR-2
+11 6 RD-2
+11 7 RD-2
+11 8 WR-2
+11 9 WR-2
+10 11 RF-1
+12 2 ST-3
+12 5 EX-3
+12 6 WR-3
+12 7 WR-3
+12 8 WR-3
+12 9 EX-3
+12 10 ST-3
+11 13 WR-2
+12 13 EX-3
+11 14 WR-2
+12 14 CD-3
+11 15 RD-2
+12 15 WR-3
+16 11 RF-2
+16 12 RF-3
+17 7 WR-4
+17 8 WR-4
+17 9 RD-4
+17 10 ST-4
+11 17 UK-2
+12 18 RD-3
+12 19 WR-3
+12 20 UK-3
+

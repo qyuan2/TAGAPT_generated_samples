@@ -1,0 +1,62 @@
+20
+MP*-certreq.exe 
+MF-\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023.pdf
+MF-C:\Users\admin\AppData\Local\Temp\InstaBotPro
+TF-C:\Users\admin\Desktop\abe2ccc4b4bb38f9e7af5cfe7dcc331c5a3ce286b6995b81cf26e011beba7e90
+MP*-firefox.exe
+MP-timeout.exe
+SO-45.63.100.72
+SF-C:\CrackMapExecWin\crackmapexec
+SO-http://www.velux.de/ueber-velux/datenschutz
+MP*-MicrosoftEdgeUpdate.exe 
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=jsp
+TP*-secedit.exe
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\IrSatorLauncher
+SO-42.021.871.591
+MF-\Users\admin\AppData\Roaming\Microsoft\Network\mstsca.exe
+MF-C:\Windows\system32\ntvdm
+TF-C:\Users\All Users\Documents\audiodg.exe
+MF-C:\Users\admin\Desktop\mincedcrack.exe
+MP-Reg.exe
+MP-SearchIndexer.exe
+39
+0 1 WR-1
+0 2 RD-1
+0 3 WR-1
+0 4 FR-1
+4 1 WR-2
+4 2 WR-2
+4 3 RD-2
+0 5 FR-1
+5 1 EX-2
+5 2 RD-2
+5 3 UK-2
+0 6 ST-1
+6 4 RF-1
+0 7 EX-1
+4 7 WR-2
+8 0 RF-1
+8 4 RF-2
+0 9 FR-1
+9 1 RD-3
+9 2 WR-3
+4 9 UK-2
+10 0 RF-1
+11 1 RD-4
+11 2 WR-4
+11 6 ST-4
+11 7 RD-4
+8 11 RF-4
+10 11 RF-4
+11 12 WR-4
+11 13 ST-4
+11 14 RD-4
+11 15 WR-4
+11 16 WR-4
+11 17 RD-4
+8 18 RF-4
+18 10 ST-4
+11 18 UK-4
+19 10 ST-4
+19 12 UK-4
+

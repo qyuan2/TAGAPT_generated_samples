@@ -1,0 +1,110 @@
+28
+MP*-PING.EXE
+MP-vaultcmd.exe
+SF-C:\Program files\30802
+TF-C:\Users\admin\AppData\Local\Temp\c2dbd1f560dba5050031499cc921b3b7
+SO-https://onapsis.com/onapsis-platform
+TP-wmpnscfg.exe
+MP-InstallUtil.exe
+TP-Dkeyauth.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\tmp28A8
+MF-C:\Users\admin\AppData\Local\Temp\D18C
+MF-\Users\admin\AppData\Local\Temp\042da877d3\yiueea.exe
+TP*-SSLplus.exe
+MF-C:\Users\admin\AppData\Local\Temp\system_file
+MF-\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe
+TP-AdobeTray.exe
+TF-chrome.m
+TP-anydesk.exe
+TP*-819cebc553434a1b12318d80f63ebd96.exe 
+MF-C:\Users\Public\Pictures\deep
+MP*-setup_avrokeyboard_5.6.0.exe
+MP-EBDE.exe
+SF-C:\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a
+SF-%temp%\nanodump.x64.exe 
+MP-icacls.exe
+TF-.\ExternalPayloads\msxsl.exe
+SO-http://hiqsolution.com/kiner.exe','C:\Users\admin\AppData\Roaming\mozilla.exe');Start-Process
+MF-taskkill.exe
+SO-test@poscoplantec.co
+79
+0 1 FR-1
+0 2 WR-1
+1 2 RD-1
+0 3 RD-1
+1 3 WR-1
+0 4 ST-1
+1 4 ST-1
+0 5 IJ-1
+1 5 IJ-1
+5 2 WR-1
+5 3 RD-1
+4 5 RF-1
+0 6 UK-1
+1 7 FR-1
+7 2 WR-1
+7 3 EX-1
+7 4 ST-1
+5 7 IJ-1
+1 8 WR-1
+5 8 WR-1
+7 8 RD-1
+1 9 WR-1
+5 9 CD-1
+7 9 CD-1
+1 10 WR-1
+5 10 UK-1
+1 11 FR-1
+11 2 WR-2
+11 3 WR-2
+11 4 ST-2
+7 11 IJ-1
+11 8 WR-2
+11 9 RD-2
+7 12 RD-1
+11 12 WR-2
+7 13 WR-1
+11 13 WR-2
+14 4 ST-2
+7 14 UK-1
+11 15 WR-2
+16 8 WR-2
+16 9 WR-2
+11 16 UK-2
+17 8 WR-3
+17 9 RD-3
+17 12 WR-3
+17 13 RD-3
+17 15 WR-3
+17 18 WR-3
+19 9 WR-4
+19 12 EX-4
+19 13 RD-4
+19 15 WR-4
+17 19 IJ-3
+19 18 RD-4
+20 12 WR-4
+20 13 EX-4
+20 15 WR-4
+17 20 IJ-3
+20 18 WR-4
+17 21 WR-3
+19 21 RD-4
+20 21 EX-4
+17 22 WR-3
+19 22 WR-4
+20 22 RD-4
+23 13 WR-4
+23 15 WR-4
+17 23 IJ-3
+23 18 RD-4
+20 23 UK-4
+17 24 RD-3
+19 24 RD-4
+25 17 RF-3
+25 19 RF-4
+17 26 WR-3
+19 26 EX-4
+27 17 RF-3
+19 27 ST-4
+

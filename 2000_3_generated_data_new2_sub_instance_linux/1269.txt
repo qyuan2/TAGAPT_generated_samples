@@ -1,0 +1,93 @@
+25
+MP-head
+SO-192.168.206.136
+MF-loot.txt
+MF-httpd.c
+MP-cat
+MP-nl
+TP*-more
+MP-tee
+SO-192.168.10.133
+SF-access.txt
+SO-192.168.206.137
+TP-grep
+TP*-uname
+TP-tail
+SF-s.c
+MF-Users.tar.gz
+MF-d.c
+MF-settings.php
+MF-http.c
+MF-v.c
+TF-image.php
+MP*-id
+MP*-ssh
+MF-os.exe
+MP-nl
+65
+0 1 ST-1
+0 2 EX-1
+0 3 EX-1
+0 4 FR-1
+4 1 ST-1
+4 2 RD-1
+4 3 RD-1
+0 5 UK-1
+6 1 ST-1
+6 2 WR-1
+6 3 RD-1
+4 6 IJ-1
+1 7 RF-1
+7 2 RD-1
+7 3 WR-1
+6 7 IJ-1
+8 4 RF-1
+8 6 RF-1
+7 8 ST-1
+4 9 RD-1
+6 9 UK-1
+4 10 ST-1
+7 10 ST-1
+1 11 RF-1
+11 2 CD-1
+11 3 RD-1
+4 11 UK-1
+12 2 WR-2
+12 3 WR-2
+7 12 IJ-1
+8 12 RF-1
+10 12 RF-1
+13 3 UK-2
+7 14 RD-1
+12 14 RD-2
+7 15 RD-1
+12 15 EX-2
+7 16 WR-1
+12 16 WR-2
+7 17 WR-1
+12 17 RD-2
+12 18 EX-2
+12 19 WR-2
+12 20 RD-2
+12 21 FR-2
+21 14 WR-3
+21 15 CD-3
+21 16 WR-3
+21 17 EX-3
+21 18 WR-3
+21 19 RD-3
+21 20 UK-3
+22 14 WR-4
+22 15 WR-4
+22 16 WR-4
+22 17 WR-4
+22 18 RD-4
+22 19 RD-4
+22 23 WR-4
+24 15 RD-4
+24 16 WR-4
+24 17 WR-4
+24 18 WR-4
+24 19 WR-4
+22 24 UK-4
+

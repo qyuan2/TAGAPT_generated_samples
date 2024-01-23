@@ -1,0 +1,51 @@
+16
+MP*-cat
+SO-192.168.47.134:4444
+MP-setenforce 
+MF-cron.h
+MP-sudo
+MP*-cat
+MP-clang
+MP-cat
+MP*-cat
+MP*-ls
+TF-backsup.sh
+MF-LinEnum.sh
+SF-image.php
+TF-0*.txt
+MP-cat
+TP-grep
+32
+1 0 RF-1
+0 2 FR-1
+1 2 RF-1
+0 3 EX-1
+2 3 WR-1
+0 4 FR-1
+4 1 ST-2
+2 4 UK-1
+0 5 FR-1
+5 1 ST-2
+5 3 WR-2
+0 6 FR-1
+1 6 RF-2
+6 3 UK-2
+0 7 FR-1
+7 1 ST-2
+5 7 UK-2
+0 8 FR-1
+8 1 ST-3
+0 9 FR-1
+1 9 RF-2
+0 10 EX-1
+8 10 CD-3
+9 10 WR-4
+8 11 RD-3
+9 11 UK-4
+8 12 WR-3
+8 13 RD-3
+8 14 UK-3
+15 10 RD-4
+15 12 EX-4
+15 13 UK-4
+

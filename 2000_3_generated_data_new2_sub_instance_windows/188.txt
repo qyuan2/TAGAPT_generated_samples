@@ -1,0 +1,102 @@
+29
+MP*-Document.pdf_Slayed.scr.exe
+MF-Client.exe
+MF-.\ExternalPayloads\ammyy.exe
+MP*-DIXRAT.exe 
+MP-863e7c22c771e4005197ae28363584f8.exe 
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MF-C:\ProgramData\Oracle\Java
+MF-net.exe
+TF-C:\Users\admin\Desktop\disallowedcert
+MF-C:\MSOCache\All
+MF-C:\Windows\Diagnostics\Index\AeroDiagnostic
+MP*-CareUEyes_setup.tmp
+MP-msxsl.exe
+MP*-0b358566ef3d811318615ad96c082cf1.exe 
+TF-C:\Users\admin\AppData\Local\Temp\RESDEBF
+MF-C:\Users\admin\AppData\Local\Temp\authrootstl.cab
+TF-C:\Users\admin\Desktop\11492515294
+MF-go.microsoft.c
+MF-C:\Users\admin\AppData\Local\Temp\sechex-spoofy.zip
+SF-C:\Windows\System32\rundll32.exe
+MF-powerview.ps1
+MF-\Users\admin\AppData\Local\fvjhioojuu.vb
+MP-WinAPIOverride 6.9.1.tmp
+MP-LZ4-SOFT.exe 
+SF-C:\Users\admin\AppData\Local\Temp\OneDrive.exe
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym
+MF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild.exe
+MF-powershell.exe
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+70
+0 1 WR-1
+0 2 EX-1
+0 3 FR-1
+3 1 WR-2
+3 2 WR-2
+0 4 FR-1
+4 1 WR-2
+4 2 CD-2
+5 0 RF-1
+3 5 ST-2
+5 4 RF-2
+0 6 CD-1
+3 6 RD-2
+4 6 WR-2
+0 7 EX-1
+3 7 WR-2
+4 7 UK-2
+0 8 RD-1
+3 8 WR-2
+0 9 RD-1
+3 9 RD-2
+3 10 RD-2
+11 2 EX-3
+11 5 ST-3
+11 6 WR-3
+11 8 WR-3
+11 9 WR-3
+11 10 EX-3
+3 12 UK-2
+13 5 ST-4
+13 6 RD-4
+13 8 RD-4
+13 9 RD-4
+13 10 WR-4
+11 14 RD-3
+13 14 WR-4
+11 15 WR-3
+13 15 WR-4
+11 16 RD-3
+13 16 RD-4
+11 17 WR-3
+13 17 WR-4
+11 18 RD-3
+13 18 EX-4
+11 19 CD-3
+13 19 RD-4
+11 20 RD-3
+13 20 EX-4
+13 21 WR-4
+13 22 FR-4
+22 14 WR-4
+22 15 RD-4
+22 16 WR-4
+22 17 WR-4
+22 18 EX-4
+22 19 RD-4
+22 20 WR-4
+22 21 WR-4
+23 14 RD-4
+23 15 WR-4
+23 16 WR-4
+23 17 WR-4
+23 18 UK-4
+22 24 WR-4
+22 25 RD-4
+22 26 WR-4
+22 27 RD-4
+28 20 CD-4
+28 21 WR-4
+22 28 UK-4
+

@@ -1,0 +1,41 @@
+12
+MP*-cat
+MF-te.c
+TP*-cat
+MF-shell.cgi
+MF-shell.cgi
+MP*-grep
+MP*-less
+TF-rockyou.txt
+TP-w
+MP-paste
+SF-v.c
+TF-flag3.txt
+26
+0 1 WR-1
+0 2 IJ-1
+2 1 WR-2
+0 3 WR-1
+2 3 WR-2
+0 4 CD-1
+2 4 WR-2
+0 5 FR-1
+5 1 RD-3
+2 5 IJ-2
+5 3 WR-3
+5 4 UK-3
+0 6 FR-1
+6 1 RD-4
+2 6 IJ-2
+6 3 WR-4
+0 7 RD-1
+2 7 WR-2
+6 7 RD-4
+0 8 UK-1
+9 1 RD-4
+2 9 IJ-2
+9 3 EX-4
+6 9 UK-4
+2 10 WR-2
+2 11 UK-2
+

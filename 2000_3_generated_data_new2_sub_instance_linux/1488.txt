@@ -1,0 +1,51 @@
+14
+MP*-more
+MP*-dd
+SO-http://192.168.10.128/shell.cgi
+MP*-john
+SO-192.168.0.134
+MP-pr
+MF-td.c
+MF-rc.common
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP-ls
+SF-v.c
+SO-192.168.10.131
+MP*-sed
+MP-tar
+34
+0 1 FR-1
+2 0 RF-1
+1 2 ST-2
+0 3 FR-1
+2 3 RF-2
+4 0 RF-1
+4 1 RF-2
+3 4 ST-3
+0 5 UK-1
+1 6 EX-2
+3 6 WR-3
+1 7 WR-2
+3 7 RD-3
+1 8 ST-2
+3 8 ST-3
+1 9 FR-2
+2 9 RF-2
+3 9 UK-3
+1 10 WR-2
+1 11 ST-2
+12 2 ST-4
+4 12 RF-3
+12 6 EX-4
+12 7 RD-4
+12 8 ST-4
+12 10 RD-4
+11 12 RF-2
+4 13 RF-3
+13 6 WR-4
+13 7 WR-4
+8 13 RF-4
+13 10 RD-4
+13 11 ST-4
+12 13 UK-4
+

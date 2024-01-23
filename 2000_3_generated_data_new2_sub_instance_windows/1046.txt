@@ -1,0 +1,51 @@
+12
+MP*-wmic.exe
+SO-https://mindigital-shde.gr
+MF-slpbridge.c
+MF-\temp_T1027.zip\T1027.exe
+TF-\Users\admin\AppData\Local\Temp\Heapman45.exe
+TP*-ns9E4A.tmp
+SF-C:\Users\admin\AppData\Local\Temp\TagGen
+SF-C:\Users\admin\AppData\Local\Temp\ap-file-ernie.jpg
+MP*-firefox.exe
+MP-jww825a.tmp
+TF-C:\Users\admin\AppData\Roaming\Microsoft\Skype
+MP*-jsc.exe
+36
+0 1 ST-1
+0 2 WR-1
+0 3 CD-1
+0 4 WR-1
+0 5 FR-1
+1 5 RF-1
+5 2 WR-2
+5 3 WR-2
+5 4 WR-2
+0 6 RD-1
+5 6 CD-2
+0 7 RD-1
+5 7 RD-2
+0 8 FR-1
+8 1 ST-3
+8 2 WR-3
+8 3 RD-3
+8 4 WR-3
+5 8 IJ-2
+8 6 EX-3
+8 7 WR-3
+0 9 FR-1
+9 1 ST-3
+9 2 EX-3
+9 3 RD-3
+9 4 WR-3
+5 9 UK-2
+0 10 WR-1
+8 10 EX-3
+1 11 RF-1
+11 2 WR-4
+11 3 RD-4
+11 4 EX-4
+11 6 WR-4
+11 7 EX-4
+8 11 UK-3
+

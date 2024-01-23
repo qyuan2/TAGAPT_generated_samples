@@ -1,0 +1,86 @@
+22
+MP*-filezilla.exe 
+MF-2023-08-03.jpg
+SF-C:\Users\admin\Desktop\EXE_temp2.exe
+TF-Files\Hantek2xx2\STDFUFiles.dll
+MF-C:\Program Files\RerSpacer710\RerSpacer710.exe
+MP*-Ayuaey.exe 
+MP-schtasks.exe
+SF-C:\Users\admin\AppData\Local\Temp\xx.vb
+MP-PO 345678.exe 
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MP*-сsrss.exe 
+TP-Notepad.exe
+TF-C:\Users\admin\AppData\Roaming\FutureTekICT SSLplus\ActivexInstaller\SSLplusInstaller
+MP*-bitsadmin.exe
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\regsvcs.exe
+TF-C:\Program files\java\jre1
+MF-C:\Users\admin\AppData\Local\Temp\tmp28A8.tmp
+SF-C:\Users\admin\AppData\Local\Temp\sample.doc
+SF-C:\Windows\SysWOW64\cmd
+SO-80.0.0.0
+SF-C:\Users\admin\AppData\Local\Temp\msetup\360TS_Setup
+SF-C:\Program Files\FDRLab\Avi Previewer DEMO\avi_previewer_demo
+61
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 1 RD-2
+5 2 EX-2
+5 3 RD-2
+5 4 WR-2
+0 6 FR-1
+6 1 UK-2
+0 7 RD-1
+5 7 EX-2
+0 8 FR-1
+8 2 RD-2
+8 3 RD-2
+8 4 WR-2
+8 7 WR-2
+9 0 RF-1
+9 5 RF-2
+8 9 ST-3
+0 10 FR-1
+10 2 WR-3
+10 3 UK-3
+11 2 EX-3
+11 4 RD-3
+5 11 IJ-2
+11 7 WR-3
+8 11 IJ-2
+9 11 RF-3
+5 12 WR-2
+8 12 WR-2
+11 12 EX-3
+13 4 WR-4
+13 7 RD-4
+13 9 ST-4
+11 13 IJ-3
+13 12 WR-4
+5 14 RD-2
+8 14 EX-2
+11 14 EX-3
+13 14 WR-4
+5 15 RD-2
+8 15 WR-2
+11 15 WR-3
+13 15 WR-4
+8 16 RD-2
+11 16 WR-3
+13 16 EX-4
+8 17 RD-2
+11 17 RD-3
+13 17 WR-4
+8 18 RD-2
+11 18 WR-3
+13 18 RD-4
+11 19 ST-3
+13 19 ST-4
+11 20 EX-3
+13 20 WR-4
+11 21 WR-3
+13 21 UK-4
+

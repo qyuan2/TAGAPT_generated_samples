@@ -1,0 +1,73 @@
+19
+MP*-ls
+SF-art.sh
+SO-192.168.47.134:4444
+MP-bash
+SF-www.google.c
+TP*-ufw
+TP-sudo
+MP-sudo
+MP-grep
+MF-td.c
+SF-e.c
+MF-passwd.zip
+TP*-netstat
+MF-victim-shred.txt
+TP*-cat
+MP-ftp
+MF-pd.c
+MP-cat
+MP-less
+51
+0 1 WR-1
+0 2 ST-1
+0 3 FR-1
+3 1 RD-1
+2 3 RF-1
+0 4 WR-1
+3 4 WR-1
+0 5 IJ-1
+5 1 WR-2
+5 2 ST-2
+3 5 UK-1
+0 6 FR-1
+6 1 WR-2
+2 6 RF-1
+6 4 WR-2
+0 7 FR-1
+7 1 RD-2
+2 7 RF-1
+7 4 RD-2
+6 7 UK-2
+0 8 FR-1
+8 1 WR-2
+2 8 RF-1
+8 4 WR-2
+0 9 EX-1
+8 9 WR-2
+0 10 RD-1
+8 10 WR-2
+8 11 RD-2
+2 12 RF-1
+12 4 WR-3
+8 12 IJ-2
+12 9 WR-3
+12 10 RD-3
+12 11 WR-3
+8 13 WR-2
+12 13 WR-3
+8 14 FR-2
+14 9 WR-4
+14 10 RD-4
+14 11 RD-4
+12 14 IJ-3
+14 13 UK-4
+8 15 FR-2
+15 9 UK-4
+8 16 CD-2
+12 16 WR-3
+8 17 FR-2
+17 10 UK-4
+18 11 RD-4
+12 18 UK-3
+

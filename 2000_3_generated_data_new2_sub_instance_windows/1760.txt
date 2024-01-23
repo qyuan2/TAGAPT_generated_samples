@@ -1,0 +1,35 @@
+12
+MP*-TrustedInstaller.exe
+TF-C:\Users\admin\AppData\Local\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+MP*-vds.exe
+TF-msmdsrv.exe
+MF-C:\Windows\system32\nethtsrv
+MP*-audiodg.exe 
+MF-C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc
+MF-sqlbrowser.exe
+MF-.\ExternalPayloads\T1059.003_script.bat
+SO-https://access-message.top/secure-login
+SF-C:\Users\admin\AppData\Local\Temp\KS
+MP*-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+20
+0 1 CD-1
+0 2 FR-1
+2 1 RD-2
+0 3 RD-1
+2 3 UK-2
+0 4 RD-1
+0 5 FR-1
+5 1 WR-3
+5 4 WR-3
+0 6 WR-1
+5 6 WR-3
+0 7 WR-1
+5 7 WR-3
+0 8 RD-1
+5 8 WR-3
+9 0 RF-1
+5 9 ST-3
+5 10 WR-3
+11 4 WR-4
+5 11 UK-3
+

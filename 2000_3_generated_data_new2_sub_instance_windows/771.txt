@@ -1,0 +1,66 @@
+20
+MP*-RtkBtManServ.exe
+TP-vLocalServerSetup.tmp
+SF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd
+SF-C:\ServerComponenthostNet\z3dzg
+TP*-RtkBtManServ.exe
+MF-C:\Users\admin\AppData\Local\Temp\6248
+MF-C:\Users\admin\AppData\Local\Temp\goose_goose_duck_free.exe
+MF-C:\Program Files\1691272481_0\360TS_Setup.exe
+MF-\Windows\System32\inetsrv\appcmd.exe
+MF-C:\Windows\PCHEALTH\ERRORREP\QSIGNOFF\audiodg
+MF-C:\Users\admin\AppData\Roaming\FutureTekICT SSLplus\ActivexInstaller\SSLplusInstaller
+TF-adrestore2.exe
+MF-C:\Users\admin\AppData\Local\Temp\kkkkk.exe
+MP*-vbs.exe
+MF-files\30802.ico.vb
+MF-C:\Users\admin\AppData\Local\Temp\468C
+SF-C:\Users\admin\AppData\Local\Temp\000001.tmp
+MP*-xwizard.exe 
+MF-Users\{90140000-002C-0410-0000-0000000FF1CE}-C\lsass.exe
+MP-pr2.exe 
+43
+0 1 FR-1
+0 2 UK-1
+1 3 WR-1
+1 4 IJ-1
+4 3 WR-2
+1 5 EX-1
+4 5 WR-2
+1 6 WR-1
+4 6 RD-2
+1 7 EX-1
+4 7 RD-2
+1 8 EX-1
+4 8 RD-2
+1 9 EX-1
+4 9 WR-2
+1 10 WR-1
+4 10 EX-2
+1 11 EX-1
+4 11 RD-2
+4 12 UK-2
+13 3 WR-3
+13 5 WR-3
+13 6 RD-3
+13 7 WR-3
+13 8 RD-3
+13 9 WR-3
+13 10 WR-3
+13 11 RD-3
+13 14 WR-3
+13 15 RD-3
+13 16 WR-3
+17 8 WR-4
+17 9 WR-4
+17 10 WR-4
+17 11 WR-4
+17 14 EX-4
+17 15 WR-4
+17 16 RD-4
+17 18 EX-4
+19 14 RD-4
+19 15 WR-4
+19 16 RD-4
+17 19 UK-4
+

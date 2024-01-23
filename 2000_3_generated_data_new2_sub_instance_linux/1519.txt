@@ -1,0 +1,138 @@
+37
+MP*-sed
+MF-user.r
+TF-ufw.c
+MP-paste
+MF-cron.m
+SF-cron.m
+TP-cat
+MF-logrotate.c
+MF-shell.cgi
+MF-ron.a
+MP-tac
+MP-bash 
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-test.txt
+SF-1.zip
+MP-grep
+MP*-head
+TP-sed
+MF-cron.m
+MP-more
+MP*-nl
+TP-grep
+MF-1.zip
+MF-data.zip
+MF-cron.a
+MF-e.c
+SF-v.c
+MF-echo-art-fish.sh
+TP-tac
+MP-cat
+SF-cron.h
+TP-bash
+MP*-vi
+MF-log.c
+MF-ufw.log
+MF-echo-art-fish.sh
+MF-raft-large-directories.txt
+98
+0 1 WR-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-1
+3 2 CD-1
+0 4 WR-1
+3 4 WR-1
+0 5 RD-1
+3 5 RD-1
+0 6 IJ-1
+6 1 RD-1
+6 2 WR-1
+3 6 IJ-1
+6 4 WR-1
+6 5 EX-1
+0 7 RD-1
+3 7 WR-1
+6 7 UK-1
+0 8 RD-1
+3 8 WR-1
+0 9 CD-1
+3 9 EX-1
+0 10 FR-1
+10 1 WR-1
+10 2 RD-1
+3 10 UK-1
+11 1 WR-1
+11 2 WR-1
+11 4 EX-1
+11 5 CD-1
+11 8 WR-1
+11 9 WR-1
+12 11 RF-1
+11 13 RD-1
+11 14 EX-1
+15 5 RD-1
+15 8 RD-1
+15 9 RD-1
+11 15 UK-1
+16 8 WR-2
+16 9 EX-2
+16 12 ST-2
+16 13 EX-2
+16 14 WR-2
+17 8 RD-2
+17 9 UK-2
+16 18 EX-2
+12 19 RF-2
+19 13 WR-2
+19 14 WR-2
+19 18 WR-2
+12 20 RF-2
+20 13 RD-3
+20 14 WR-3
+20 18 RD-3
+12 21 RF-2
+21 13 CD-3
+21 14 EX-3
+16 21 IJ-2
+21 18 EX-3
+19 21 UK-2
+16 22 RD-2
+20 22 EX-3
+16 23 RD-2
+20 23 WR-3
+16 24 WR-2
+20 24 WR-3
+16 25 WR-2
+20 25 RD-3
+20 26 WR-3
+20 27 WR-3
+28 18 RD-3
+20 28 UK-3
+29 22 EX-3
+29 23 RD-3
+29 24 WR-3
+29 25 RD-3
+29 26 WR-3
+29 27 WR-3
+29 30 WR-3
+31 22 WR-3
+31 23 CD-3
+31 24 WR-3
+31 25 WR-3
+31 26 WR-3
+31 27 EX-3
+29 31 UK-3
+32 22 WR-4
+32 23 WR-4
+32 24 WR-4
+32 25 RD-4
+32 26 RD-4
+32 27 RD-4
+32 30 EX-4
+32 33 EX-4
+32 34 CD-4
+32 35 WR-4
+32 36 UK-4
+

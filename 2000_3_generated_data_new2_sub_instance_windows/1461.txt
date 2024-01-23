@@ -1,0 +1,108 @@
+30
+MP*-Locker mr robot.exe 
+MF-C:\Windows\System32\calc
+MP-adidnsdump.exe
+TF-\Users\admin\AppData\Local\Temp\aafg31.exe
+MF-C:\Users\admin\AppData\Local\Temp\Outstanding
+MF-\Users\admin\AppData\Local\Temp\Heapman45.exe
+MF-C:\Users\admin\AppData\Local\Temp\Ziraat
+MF-C:\Windows\system32\mspaint
+SF-C:\Users\admin\AppData\Local\Temp\vmware
+TF-\Windows\system32\msiexec.exe
+TP*-X_Net_Windows.exe
+MF-C:\Windows\system32\cmd.exe
+MF-Client\filezilla.exe
+MF-C:\Users\admin\Desktop\jerkoff
+TP-cvtres.exe
+MP-bb.exe 
+MP*-damianocrnofj6793.exe
+MP-0b358566ef3d811318615ad96c082cf1.exe 
+SF-C:\Users\User\29630.ico
+MF-IE1.jpg
+MF-C:\Path\AtomicRedTeam.dll
+MP*-schtasks.exe
+TF-aug23-1.zip
+SO-http://192.168.10.11/test.ps1
+TP-nsA0C0.tmp 
+MF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\cred64.dll
+SO-199.247.25.79
+MP-xordump.exe 
+MP-radmin scanner.exe 
+SF-C:\Users\admin\Desktop\APP
+75
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 WR-1
+2 3 UK-1
+0 4 WR-1
+0 5 WR-1
+0 6 RD-1
+0 7 RD-1
+0 8 RD-1
+0 9 UK-1
+10 1 WR-2
+10 4 WR-2
+10 5 RD-2
+10 6 RD-2
+10 7 RD-2
+10 8 CD-2
+10 11 CD-2
+10 12 RD-2
+10 13 WR-2
+14 4 WR-2
+14 5 RD-2
+14 6 WR-2
+14 7 WR-2
+14 8 EX-2
+10 14 IJ-2
+14 11 EX-2
+14 12 RD-2
+14 13 RD-2
+15 5 CD-2
+15 6 CD-2
+15 7 CD-2
+15 8 RD-2
+10 15 IJ-2
+15 11 WR-2
+15 12 RD-2
+15 13 WR-2
+14 15 UK-2
+16 6 RD-3
+16 7 RD-3
+16 8 WR-3
+10 16 IJ-2
+16 11 WR-3
+16 12 WR-3
+16 13 WR-3
+17 7 WR-3
+17 8 RD-3
+10 17 UK-2
+16 18 WR-3
+16 19 WR-3
+16 20 WR-3
+21 11 WR-4
+21 12 RD-4
+21 13 WR-4
+21 18 RD-4
+21 19 WR-4
+21 20 RD-4
+16 22 UK-3
+23 21 RF-4
+24 18 WR-4
+24 19 RD-4
+24 20 WR-4
+21 24 IJ-4
+23 24 RF-4
+21 25 WR-4
+24 25 EX-4
+26 21 RF-4
+24 26 ST-4
+27 18 WR-4
+27 19 WR-4
+27 20 EX-4
+23 27 RF-4
+24 27 UK-4
+28 19 UK-4
+21 29 WR-4
+

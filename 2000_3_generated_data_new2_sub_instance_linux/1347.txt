@@ -1,0 +1,97 @@
+24
+MP*-bash
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MF-access.txt
+SO-192.168.206.137
+TF-access.htm
+TP*-ifconfig
+TP-awk
+MF-atomic.log
+MP-wpscan
+MF-cron.h
+MP-cat
+MP-grep
+TP*-grep
+MF-syslog.c
+MF-victim-shred.txt
+SF-image.php
+MP*-awk
+MP-cat
+MP-tail
+MP-dd
+MF-echo-art-fish.sh
+MF-passwd.zip
+SF-2017.pl
+TP-uname
+70
+0 1 ST-1
+0 2 WR-1
+0 3 ST-1
+0 4 WR-1
+0 5 IJ-1
+5 1 ST-2
+5 2 WR-2
+5 3 ST-2
+5 4 WR-2
+0 6 FR-1
+1 6 RF-1
+6 2 WR-2
+3 6 RF-2
+6 4 EX-2
+5 6 IJ-2
+0 7 RD-1
+5 7 WR-2
+6 7 WR-2
+0 8 FR-1
+1 8 RF-1
+8 2 CD-2
+3 8 RF-2
+8 4 WR-2
+5 8 UK-2
+0 9 WR-1
+6 9 WR-2
+0 10 FR-1
+1 10 RF-1
+10 2 WR-2
+10 3 ST-2
+10 4 WR-2
+6 10 IJ-2
+10 7 WR-2
+10 9 EX-2
+1 11 RF-1
+11 2 RD-2
+11 3 ST-2
+11 4 UK-2
+12 2 WR-3
+12 3 ST-3
+6 12 IJ-2
+12 7 WR-3
+12 9 WR-3
+10 12 IJ-2
+6 13 RD-2
+10 13 RD-2
+12 13 RD-3
+6 14 EX-2
+10 14 EX-2
+12 14 WR-3
+6 15 WR-2
+10 15 EX-2
+12 15 WR-3
+6 16 IJ-2
+16 7 RD-4
+16 9 RD-4
+10 16 UK-2
+17 7 RD-4
+17 9 WR-4
+12 17 IJ-3
+17 13 RD-4
+17 14 RD-4
+17 15 WR-4
+18 9 RD-4
+12 18 UK-3
+19 13 UK-4
+17 20 CD-4
+17 21 WR-4
+17 22 EX-4
+17 23 UK-4
+

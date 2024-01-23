@@ -1,0 +1,49 @@
+13
+MP*-wscript.exe 
+TP*-OriginalBuild.exe.exe 
+TP*-Entry.exe 
+MF-.\T1010\src\T1010.cs
+MF-\Users\admin\Desktop\script.js
+SF-c:\Backup
+MP-MsiExec.exe
+MP-dsquery.exe
+MP-Paranoid Checker.exe 
+SF-HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC
+MP-Skype.exe 
+MF-C:\Users\admin\Desktop\NilfiskServiceTool
+MP*-adidnsdump.exe
+33
+0 1 FR-1
+0 2 FR-1
+1 2 IJ-2
+0 3 WR-1
+1 3 WR-2
+2 3 EX-3
+0 4 WR-1
+1 4 CD-2
+2 4 EX-3
+0 5 WR-1
+1 5 WR-2
+2 5 WR-3
+0 6 FR-1
+1 6 IJ-2
+2 6 IJ-3
+6 3 RD-3
+6 4 RD-3
+6 5 EX-3
+0 7 FR-1
+1 7 IJ-2
+2 7 UK-3
+0 8 FR-1
+1 8 UK-2
+0 9 WR-1
+6 9 RD-3
+10 3 RD-3
+10 4 WR-3
+10 5 WR-3
+10 9 UK-3
+6 11 WR-3
+12 4 WR-4
+12 5 CD-4
+6 12 UK-3
+

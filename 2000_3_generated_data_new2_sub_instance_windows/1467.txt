@@ -1,0 +1,100 @@
+30
+MP-javaw.exe
+MF-go.microsoft.c
+MP-cmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\9215.tmp
+MF-C:\Users\admin\AppData\Local\Temp\Xworm
+SF-C:\Users\admin\AppData\Local\Temp\123
+MP*-forfiles.exe
+MF-\windows\System32\comsvcs.dll
+MF-danke.exe
+MF-unzip.m
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MP-CE5F.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+TP-oneetx.exe 
+MP-ns9BE4.tmp
+MP*-Dkeyauth.tmp
+MF-\Users\admin\AppData\Local\Temp\OriginalBuild.exe.exe
+MP*-RdrCEF.exe 
+TP-CareUEyes.exe
+TF-C:\Program Files\Mozilla Firefox\browser
+MF-C:\Users\admin\AppData\Local\Temp\VALENCIA12
+TF-\Users\admin\AppData\Local\Temp\FastLane.m
+SF-HKCU\Software\Microsoft\Windows
+MF-C:\Program Files\KMSpico\scripts\Install_Task.cmd
+MF-C:\Users\admin\AppData\Local\Temp\splwow64
+TP-reg.exe
+SF-C:\Users\admin\Desktop\EXE_temp2.exe
+MP*-saves.exe
+MF-\Windows\system32\cacls.exe
+MP-takeown.exe
+67
+0 1 RD-1
+0 2 FR-1
+2 1 RD-1
+0 3 UK-1
+2 4 WR-1
+2 5 RD-1
+6 1 RD-1
+6 4 WR-1
+6 5 WR-1
+2 7 WR-1
+6 7 WR-1
+2 8 WR-1
+6 8 CD-1
+2 9 WR-1
+6 9 WR-1
+2 10 ST-1
+10 6 RF-1
+11 1 WR-1
+2 11 UK-1
+12 6 RF-1
+13 4 WR-1
+13 5 EX-1
+6 13 UK-1
+14 4 RD-1
+14 5 WR-1
+14 7 WR-1
+14 8 EX-1
+14 9 UK-1
+15 5 EX-2
+15 7 WR-2
+15 8 WR-2
+15 10 ST-2
+12 15 RF-2
+15 16 CD-2
+17 7 CD-3
+17 8 WR-3
+17 10 ST-3
+17 12 ST-3
+15 17 UK-2
+18 8 WR-3
+18 10 ST-3
+12 18 RF-3
+18 16 WR-3
+18 19 RD-3
+18 20 WR-3
+18 21 RD-3
+18 22 WR-3
+18 23 WR-3
+18 24 WR-3
+25 16 UK-3
+18 26 RD-3
+18 27 FR-3
+27 19 RD-4
+27 20 RD-4
+27 21 WR-4
+27 22 WR-4
+27 23 RD-4
+27 24 RD-4
+27 26 WR-4
+18 28 EX-3
+27 28 UK-4
+29 19 WR-4
+29 20 RD-4
+29 21 WR-4
+29 22 WR-4
+29 23 WR-4
+29 24 UK-4
+

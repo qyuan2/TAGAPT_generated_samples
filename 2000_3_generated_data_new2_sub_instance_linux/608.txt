@@ -1,0 +1,148 @@
+39
+MP-ls
+MF-T1070.006-modification.txt
+MP-cat
+MP-bash
+TF-at.a
+SF-http.c
+MP-chmod
+MP-find
+SF-journald.c
+MP-systemctl
+MP*-cat
+TP*-grep
+MP-bash
+SO-http://192.168.0.134/passwd
+MP-cat
+MF-raj.txt
+MF-data.zip
+MF-flag3.txt
+SO-192.168.0.134
+MP*-rev
+TP*-tail
+MF-cron.m
+MP-tail
+SF-user.r
+MF-access.txt
+MF-os.exe
+MP-whoami
+MF-backsup.sh
+TP-ls
+MP-bash
+TF-T1003.008.txt
+MF-AutoSUID.sh
+MP-tail
+MP-less
+SF-at.a
+MP-less
+MF-log.c
+MP-more
+MP-bash
+106
+0 1 RD-1
+0 2 FR-1
+2 1 RD-1
+0 3 FR-1
+3 1 RD-1
+2 3 UK-1
+0 4 WR-1
+0 5 EX-1
+0 6 FR-1
+6 1 RD-1
+6 4 RD-1
+6 5 RD-1
+0 7 UK-1
+6 8 EX-1
+9 1 WR-1
+9 4 WR-1
+9 5 RD-1
+6 9 UK-1
+10 1 RD-1
+10 4 RD-1
+10 5 WR-1
+10 8 CD-1
+11 1 WR-2
+11 4 WR-2
+11 5 WR-2
+11 8 RD-2
+10 11 IJ-1
+12 4 RD-2
+12 5 UK-2
+13 10 RF-1
+11 13 ST-2
+14 4 WR-2
+14 8 WR-2
+11 14 UK-2
+10 15 RD-1
+10 16 WR-1
+10 17 RD-1
+10 18 ST-1
+10 19 FR-1
+13 19 RF-2
+19 15 WR-3
+19 16 CD-3
+19 17 WR-3
+19 18 ST-3
+10 20 IJ-1
+13 20 RF-2
+20 15 WR-4
+20 16 RD-4
+20 17 WR-4
+20 18 ST-4
+19 20 IJ-3
+19 21 RD-3
+20 21 RD-4
+22 13 ST-4
+22 15 RD-4
+22 16 UK-4
+19 23 EX-3
+20 23 RD-4
+19 24 WR-3
+20 24 WR-4
+19 25 EX-3
+20 25 WR-4
+26 17 WR-4
+26 18 ST-4
+20 26 UK-4
+19 27 EX-3
+28 18 ST-4
+19 28 IJ-3
+28 21 WR-4
+28 23 WR-4
+28 24 WR-4
+28 25 WR-4
+28 27 RD-4
+19 29 UK-3
+28 30 WR-4
+28 31 RD-4
+32 23 EX-4
+32 24 WR-4
+32 25 CD-4
+32 27 RD-4
+28 32 IJ-4
+32 30 RD-4
+32 31 RD-4
+33 23 RD-4
+33 24 CD-4
+33 25 RD-4
+33 27 EX-4
+28 33 IJ-4
+33 30 RD-4
+33 31 CD-4
+32 33 UK-4
+28 34 RD-4
+35 25 WR-4
+35 27 UK-4
+28 36 EX-4
+28 37 FR-4
+37 30 WR-4
+37 31 RD-4
+37 34 WR-4
+37 36 WR-4
+28 38 FR-4
+38 30 EX-4
+38 31 WR-4
+38 34 WR-4
+38 36 WR-4
+37 38 UK-4
+

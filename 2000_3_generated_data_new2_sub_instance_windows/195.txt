@@ -1,0 +1,110 @@
+27
+MP-ns9AE8.tmp
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MF-C:\program files\java\jre1
+MF-C:\Users\admin\Desktop\DOC77412.jpg
+MP*-nsBC6C.tmp
+MP-TrustedInstaller.exe
+MP-@WanaDecryptor@.exe 
+TP*-Explorer.EXE
+MF-C:\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+MP-taskdl.exe
+MF-C:\Users\admin\AppData\Local\Temp\PENDÊNCIAS
+SO-192.168.1.1
+MP-test.exe 
+TP-pdates.exe 
+MF-C:\Users\admin\AppData\Local\Temp\vLocalServerSetup.exe
+MP-ns9BE4.tmp
+TP*-nsA19D.tmp
+TF-pdates.exe
+SF-C:\Windows\System32X86\windowspowershell\v1
+MP-cacls.exe
+SF-C:\Users\admin\AppData\Local\Temp\goose_goose_duck_free.exe
+TF-C:\Users\admin\AppData\Local\Temp\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7.zip
+MF-\Users\admin\AppData\Local\Temp\Payroll_2022.vb
+TP*-cmd.exe 
+MP-AdFind.exe 
+MP-nsCFA0.tmp
+MP-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+80
+0 1 ST-1
+0 2 CD-1
+0 3 WR-1
+0 4 FR-1
+4 1 ST-1
+4 2 EX-1
+4 3 RD-1
+0 5 FR-1
+5 1 ST-1
+5 2 WR-1
+5 3 UK-1
+0 6 FR-1
+6 1 ST-1
+6 2 WR-1
+4 6 UK-1
+1 7 RF-1
+7 2 RD-2
+7 8 RD-2
+9 1 ST-2
+9 2 WR-2
+7 9 IJ-2
+9 8 RD-2
+7 10 RD-2
+9 10 WR-2
+11 7 RF-2
+11 9 RF-2
+7 12 FR-2
+12 8 WR-2
+9 12 UK-2
+7 13 FR-2
+13 8 WR-2
+13 10 WR-2
+13 11 ST-3
+7 14 WR-2
+13 14 RD-2
+7 15 UK-2
+16 8 CD-3
+16 10 WR-3
+16 11 ST-3
+13 16 IJ-2
+16 14 RD-3
+13 17 RD-2
+16 17 RD-3
+13 18 RD-2
+16 18 WR-3
+19 10 WR-3
+11 19 RF-3
+13 19 IJ-2
+19 14 WR-3
+16 19 UK-3
+13 20 WR-2
+13 21 RD-2
+13 22 EX-2
+13 23 FR-2
+23 14 WR-4
+23 17 WR-4
+23 18 WR-4
+23 20 CD-4
+23 21 WR-4
+23 22 WR-4
+24 14 CD-4
+24 17 EX-4
+24 18 RD-4
+24 20 RD-4
+24 21 WR-4
+24 22 EX-4
+23 24 IJ-4
+25 17 WR-4
+25 18 RD-4
+25 20 RD-4
+25 21 WR-4
+25 22 RD-4
+23 25 IJ-4
+24 25 UK-4
+26 17 WR-4
+26 18 WR-4
+26 20 EX-4
+26 21 WR-4
+26 22 RD-4
+23 26 UK-4
+

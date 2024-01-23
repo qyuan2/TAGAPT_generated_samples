@@ -1,0 +1,161 @@
+41
+MP*-tail
+MF-lighttp.c
+MF-httpd.c
+MF-Users.tar.gz
+MP-cat
+MP-cat
+SF-httpd.c
+MP-awk
+TP-netstat
+SO-192.168.1.1
+MP-netstat
+TP-awk
+MF-LinEnum.sh
+TP-cat
+MF-ret.c
+MP-tail
+MP*-echo
+MP-sed
+MP-dd
+TP*-ifconfig
+MF-raft-medium-directories.txt
+MF-ron.a
+TP*-cat
+MF-victim-shred.txt
+TP-less
+MP-paste
+SF-backsup.sh
+MF-www.google.c
+MF-cron.a
+SO-192.168.37.130
+MP-pr
+MP-less
+SO-192.168.10.128
+TP-vim
+MF-da-ks.cfg
+MF-victim-shred.txt
+TF-anaconda-ks.cfg
+SF-atomic.sh
+SF-f.r
+TP-dirb
+MP-uname
+117
+0 1 WR-1
+0 2 RD-1
+0 3 WR-1
+0 4 FR-1
+4 1 WR-1
+4 2 WR-1
+4 3 EX-1
+0 5 FR-1
+5 1 CD-1
+5 2 EX-1
+5 3 RD-1
+4 5 UK-1
+0 6 RD-1
+0 7 FR-1
+7 1 EX-1
+7 2 WR-1
+7 3 RD-1
+7 6 CD-1
+0 8 IJ-1
+8 1 WR-1
+8 2 UK-1
+0 9 ST-1
+7 9 ST-1
+0 10 FR-1
+10 1 EX-1
+10 3 EX-1
+10 6 RD-1
+10 9 ST-1
+11 1 WR-1
+11 3 EX-1
+11 6 WR-1
+7 11 IJ-1
+11 9 ST-1
+10 11 UK-1
+7 12 EX-1
+13 3 WR-1
+13 6 WR-1
+7 13 IJ-1
+13 9 ST-1
+13 12 WR-1
+7 14 RD-1
+13 14 UK-1
+15 6 WR-1
+9 15 RF-1
+15 12 RD-1
+16 6 RD-2
+16 9 ST-2
+16 12 WR-2
+7 17 FR-1
+17 9 ST-2
+17 12 EX-2
+15 17 UK-1
+18 9 ST-2
+18 12 WR-2
+9 19 RF-2
+19 12 WR-3
+16 19 IJ-2
+18 19 IJ-2
+16 20 WR-2
+18 20 WR-2
+19 20 RD-3
+16 21 RD-2
+18 21 CD-2
+19 21 EX-3
+16 22 FR-2
+18 22 IJ-2
+19 22 IJ-3
+22 20 RD-4
+22 21 RD-4
+16 23 WR-2
+18 23 RD-2
+19 23 RD-3
+22 23 WR-4
+16 24 FR-2
+18 24 UK-2
+16 25 FR-2
+19 25 IJ-3
+25 20 WR-4
+25 21 UK-4
+19 26 WR-3
+22 26 CD-4
+19 27 RD-3
+22 27 WR-4
+19 28 EX-3
+22 28 RD-4
+29 22 RF-4
+30 20 WR-4
+22 30 IJ-4
+30 23 WR-4
+30 26 UK-4
+22 31 FR-4
+31 23 RD-4
+31 27 RD-4
+31 28 RD-4
+31 29 ST-4
+32 22 RF-4
+32 31 RF-4
+33 23 RD-4
+33 27 WR-4
+33 28 EX-4
+33 29 ST-4
+31 33 IJ-4
+32 33 RF-4
+31 34 WR-4
+33 34 RD-4
+31 35 EX-4
+33 35 RD-4
+31 36 WR-4
+33 36 RD-4
+31 37 WR-4
+33 37 RD-4
+31 38 WR-4
+33 38 WR-4
+39 29 ST-4
+31 39 UK-4
+40 32 ST-4
+33 40 UK-4
+

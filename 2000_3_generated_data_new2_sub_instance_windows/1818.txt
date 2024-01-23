@@ -1,0 +1,50 @@
+13
+MP*-chrome.exe
+SO-https://drimby.top/wndfi
+MF-C:\Windows\system32\HJK.vb
+SF-C:\Windows\System32\wbem\WMIC
+MF-C:\Users\admin\AppData\Local\Temp\Cookies2
+TP*-msedge.exe
+MP*-nsA12F.tmp
+TF-C:\Users\admin\AppData\Local\Temp\is-NIBPL.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+MF-C:\Program Files (x86)\GnuPG\bin\gpg
+MP-ProcessHacker.exe 
+TP-certutil
+MP*-SearchProtocolHost.exe
+34
+0 1 ST-1
+0 2 RD-1
+0 3 WR-1
+0 4 EX-1
+0 5 IJ-1
+1 5 RF-1
+5 2 WR-2
+5 3 WR-2
+5 4 WR-2
+0 6 FR-1
+1 6 RF-1
+6 2 RD-3
+6 3 EX-3
+6 4 RD-3
+5 6 IJ-2
+0 7 WR-1
+5 7 WR-2
+6 7 WR-3
+8 0 RF-1
+8 5 RF-2
+8 6 RF-3
+0 9 RD-1
+5 9 WR-2
+6 9 WR-3
+0 10 UK-1
+11 1 ST-3
+11 2 WR-3
+11 3 RD-3
+11 4 RD-3
+5 11 UK-2
+12 2 EX-4
+12 3 WR-4
+12 4 EX-4
+6 12 UK-3
+

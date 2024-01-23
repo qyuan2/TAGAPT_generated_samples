@@ -1,0 +1,43 @@
+14
+MP*-cat
+MF-rockyou.txt
+TP-less
+TF-resolv.c
+MF-apache2.c
+TP-bash
+MP-bash
+TF-inetd.c
+TP*-tail
+MF-LinEnum.sh
+MF-Users.tar.gz
+MP*-awk
+TF-T1003.008.txt
+MP*-ftp
+26
+0 1 WR-1
+0 2 IJ-1
+2 1 RD-1
+0 3 UK-1
+2 4 RD-1
+5 1 RD-1
+2 5 IJ-1
+5 4 WR-1
+6 1 WR-1
+2 6 UK-1
+5 7 EX-1
+8 1 CD-2
+8 4 WR-2
+5 8 IJ-1
+8 7 WR-2
+5 9 RD-1
+8 9 EX-2
+5 10 RD-1
+8 10 WR-2
+11 1 WR-3
+11 4 WR-3
+5 11 UK-1
+8 12 RD-2
+13 4 RD-4
+13 7 EX-4
+8 13 UK-2
+

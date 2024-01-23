@@ -1,0 +1,58 @@
+17
+MP*-less
+MF-pd.c
+MF-0*.txt
+SF-httpd.c
+TF-flag4.txt
+MP*-uname
+SO-192.168.10.129
+MF-0*.txt
+MF-on.a
+TP*-cat
+TP*-cat
+SO-192.168.206.0
+TF-T1574.006.c
+SO-192.168.2.102
+MP-ls
+MF-T1027-004-test.c
+SF-T1070.004-test.txt
+38
+0 1 EX-1
+0 2 WR-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 1 RD-2
+5 2 RD-2
+5 3 RD-2
+5 4 WR-2
+0 6 ST-1
+5 6 ST-2
+0 7 CD-1
+5 7 RD-2
+0 8 WR-1
+5 8 RD-2
+0 9 FR-1
+9 1 RD-3
+9 2 RD-3
+9 3 WR-3
+9 4 WR-3
+5 9 IJ-2
+9 6 ST-3
+9 7 EX-3
+9 8 RD-3
+0 10 FR-1
+10 1 CD-4
+10 2 WR-4
+10 3 RD-4
+10 4 WR-4
+5 10 UK-2
+9 11 ST-3
+9 12 EX-3
+13 9 RF-3
+14 4 CD-4
+6 14 RF-2
+14 7 UK-4
+9 15 RD-3
+9 16 RD-3
+

@@ -1,0 +1,76 @@
+25
+MP*-cd
+TP-less
+TP-tee
+MP-grep
+SF-cron.a
+SF-lighttp.c
+MP-awk
+MP-find
+MP-cat
+MP-ftp
+MP*-nl
+SO-192.168.10.130
+SO-http://192.168.10.128/shell.cgi
+TF-robots.txt
+TP*-bash
+TP-sudo
+MF-inetd.c
+MF-T1070.006-modification.txt
+TP*-tac
+SO-192.168.10.130
+MF-alertConfigField.php
+MF-T1070.006-reference.txt
+MF-e.c
+MF-d.c
+SO-192.168.2.102
+48
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+0 4 CD-1
+3 4 WR-1
+0 5 CD-1
+3 5 WR-1
+0 6 FR-1
+6 4 RD-1
+6 5 WR-1
+0 7 FR-1
+3 7 UK-1
+0 8 UK-1
+9 4 UK-1
+10 5 WR-2
+10 11 ST-2
+10 12 ST-2
+10 13 EX-2
+14 5 RD-3
+10 14 IJ-2
+14 11 ST-3
+12 14 RF-2
+14 13 EX-3
+10 15 FR-2
+15 11 ST-3
+12 15 RF-2
+15 13 WR-3
+14 15 IJ-3
+10 16 WR-2
+14 16 WR-3
+15 16 EX-3
+10 17 WR-2
+14 17 RD-3
+15 17 WR-3
+10 18 IJ-2
+11 18 RF-2
+18 12 ST-4
+18 13 EX-4
+14 18 UK-3
+19 10 RF-2
+19 15 RF-3
+10 20 RD-2
+15 20 WR-3
+15 21 RD-3
+15 22 EX-3
+15 23 WR-3
+15 24 ST-3
+

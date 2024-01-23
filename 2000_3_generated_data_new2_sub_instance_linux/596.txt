@@ -1,0 +1,98 @@
+27
+MP*-bash
+TP-dd
+TP-ls
+SF-echo-art-fish.sh
+MP*-awk
+MF-robots.txt
+MF-subprocess.c
+MF-atomic.log
+MP-shred
+MP-grep
+TP*-cat
+MP-cat
+MP-more
+MP-vi
+MF-2017.pl
+MF-secret.c
+MP-bash
+MP*-echo
+TP-mknod
+MP-uname
+MF-f.r
+SF-d.c
+MP-less
+MF-T1070.006-reference.txt
+MF-2017.pl
+MP-tee
+MP-cat
+68
+0 1 IJ-1
+0 2 FR-1
+1 2 IJ-1
+0 3 RD-1
+1 3 RD-1
+2 3 RD-1
+0 4 FR-1
+1 4 IJ-1
+2 4 IJ-1
+4 3 WR-2
+0 5 WR-1
+1 5 WR-1
+2 5 EX-1
+4 5 RD-2
+0 6 CD-1
+1 6 WR-1
+2 6 RD-1
+4 6 CD-2
+0 7 WR-1
+1 7 WR-1
+2 7 RD-1
+4 7 WR-2
+0 8 UK-1
+1 9 FR-1
+2 9 IJ-1
+9 3 WR-2
+4 9 UK-2
+1 10 IJ-1
+2 10 IJ-1
+10 3 WR-3
+10 5 WR-3
+10 6 WR-3
+10 7 WR-3
+1 11 UK-1
+2 12 FR-1
+12 3 WR-3
+12 5 WR-3
+12 6 WR-3
+12 7 WR-3
+10 12 UK-3
+13 3 WR-3
+13 5 RD-3
+13 6 WR-3
+13 7 WR-3
+13 14 WR-3
+13 15 RD-3
+16 6 WR-3
+16 7 EX-3
+13 16 UK-3
+17 7 WR-4
+17 14 RD-4
+17 15 WR-4
+18 14 RD-4
+18 15 UK-4
+19 14 CD-4
+17 20 WR-4
+19 20 RD-4
+17 21 EX-4
+19 21 UK-4
+22 14 WR-4
+22 20 CD-4
+17 23 WR-4
+22 23 WR-4
+17 24 WR-4
+22 24 CD-4
+17 25 UK-4
+26 20 RD-4
+22 26 UK-4
+

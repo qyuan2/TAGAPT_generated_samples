@@ -1,0 +1,34 @@
+13
+MP*-wscript.exe 
+TP-WinAPIOverride 6.9.1.exe
+MP-firefox.exe 
+MP*-svchost.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+SF-HKEY_CURRENT_USER\SOFTWARE\Classes\AtomicTest
+MP*-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLED.EXE
+MP*-XClient.exe 
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+SF-C:\Users\admin\AppData\Local\Temp\dav.bat
+MF-\Users\admin\AppData\Local\Temp\tb.ps1
+SF-C:\Windows\System32\rundll32
+MP-secedit.exe
+18
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+4 0 RF-1
+4 3 RF-2
+3 5 UK-2
+6 4 ST-3
+7 4 ST-4
+8 6 RF-3
+7 8 ST-4
+6 9 WR-3
+7 9 WR-4
+6 10 RD-3
+7 10 WR-4
+6 11 UK-3
+12 4 ST-4
+7 12 UK-4
+

@@ -1,0 +1,37 @@
+11
+MP*-ftp
+MF-raft-large-directories.txt
+MF-art.sh
+MP-cat
+MP-echo
+MP-cat
+MP*-awk
+MF-subprocess.c
+TP*-awk
+TP*-sudo
+TP-cat
+23
+0 1 WR-1
+0 2 RD-1
+0 3 UK-1
+4 1 WR-1
+4 2 RD-1
+5 1 WR-1
+5 2 WR-1
+4 5 UK-1
+6 1 WR-2
+6 2 WR-2
+6 7 RD-2
+8 1 WR-3
+8 2 RD-3
+6 8 IJ-2
+8 7 WR-3
+9 1 RD-4
+9 2 EX-4
+6 9 IJ-2
+9 7 RD-4
+8 9 UK-3
+10 1 EX-4
+10 2 RD-4
+6 10 UK-2
+

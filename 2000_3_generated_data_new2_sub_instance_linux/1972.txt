@@ -1,0 +1,32 @@
+11
+MP*-sh
+MP*-dd
+MP*-netstat
+TF-subprocess.c
+MP-sed
+TP*-less
+MP-rev
+MP-ls
+TF-etc.tar.gz
+MP-awk
+MP-tee
+18
+0 1 FR-1
+0 2 FR-1
+0 3 EX-1
+1 3 EX-2
+2 3 RD-3
+0 4 UK-1
+1 5 IJ-2
+2 5 IJ-3
+5 3 WR-4
+1 6 FR-2
+2 6 UK-3
+1 7 FR-2
+7 3 WR-4
+5 7 UK-4
+1 8 UK-2
+9 3 RD-4
+10 3 WR-4
+9 10 UK-4
+

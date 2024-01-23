@@ -1,0 +1,58 @@
+16
+MP*-cat
+MF-target.example.c
+MP-grep
+SF-flag4.txt
+MP-paste
+MP*-sed
+TP-cat
+TF-rockyou.txt
+TP-tac
+MF-te.c
+MF-passwd.zip
+MP-dd
+TP*-more
+TF-lighttpd.c
+MF-cron.a
+MP*-find
+39
+0 1 EX-1
+0 2 FR-1
+2 1 WR-1
+0 3 WR-1
+2 3 RD-1
+0 4 FR-1
+4 1 RD-1
+2 4 UK-1
+0 5 FR-1
+5 1 RD-2
+5 3 WR-2
+0 6 IJ-1
+6 1 WR-2
+6 3 WR-2
+5 6 IJ-2
+0 7 WR-1
+5 7 RD-2
+6 7 WR-2
+0 8 UK-1
+5 9 RD-2
+6 9 EX-2
+5 10 RD-2
+6 10 WR-2
+11 3 EX-2
+5 11 UK-2
+12 3 RD-3
+6 12 IJ-2
+12 7 WR-3
+12 9 RD-3
+12 10 WR-3
+6 13 EX-2
+12 13 WR-3
+6 14 WR-2
+12 14 RD-3
+6 15 FR-2
+15 7 WR-4
+15 9 RD-4
+15 10 RD-4
+12 15 UK-3
+

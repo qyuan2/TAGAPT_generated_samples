@@ -1,0 +1,127 @@
+36
+MP*-ProcessHacker.exe 
+MP-regsvcs.exe
+MF-\Windows\System32\inetsrv\appcmd.exe
+SF-C:\Users\admin\AppData\Local\Temp\upP.vb
+MF-C:\Users\admin\AppData\Local\Temp\EasyValorant
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+SF-C:\Windows\System32\DriverStore\Temp
+TP- ldifde.exe 
+MP-olsptrs.exe 
+MF-C:\Users\admin\AppData\Local\Temp\is-BOFPB.tmp
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+TP-XClient.exe 
+TP*-ns9FC4.tmp
+MF-C:\Users\admin\AppData\Local\Temp\ODA
+MP-B47C.exe
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.010/src/RegSvr32.sct
+MP-powercfg.exe
+MP-system_file.exe 
+MP-cronos.exe
+MP*-crack.exe 
+MF-C:\Users\admin\AppData\Local\Temp\FrequencyMeasurement.exe
+SF-C:\Users\admin\Desktop\Paradox
+SF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd
+MF-C:\Users\admin\Desktop\Client.exe
+MF-C:\Program files\cronos.exe
+TP*-cmdkey.exe
+MF-\Users\admin\AppData\Local\Temp\Media.vb
+SO-199.247.25.79
+TF-C:\Users\admin\AppData\Roaming\sMURZJ0sQ\MMFbbhOyNS.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+MF-\Users\admin\AppData\Local\Temp\MyAccountSummary.zip
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsD232.tmp
+MF-C:\Users\admin\Desktop\sozszwYnuqgbJM5CJDQgFn
+MP-nscB9BA.tmp
+MP-Curl.exe
+88
+0 1 FR-1
+0 2 WR-1
+1 2 UK-1
+0 3 WR-1
+0 4 RD-1
+5 0 RF-1
+0 6 RD-1
+0 7 FR-1
+7 3 RD-1
+7 4 WR-1
+5 7 RF-1
+7 6 WR-1
+0 8 FR-1
+8 3 WR-1
+8 4 WR-1
+5 8 RF-1
+8 6 WR-1
+7 8 UK-1
+0 9 WR-1
+0 10 ST-1
+11 3 RD-1
+11 4 UK-1
+12 3 WR-2
+5 12 RF-2
+12 6 RD-2
+12 9 EX-2
+10 12 RF-1
+12 13 WR-2
+14 5 ST-2
+14 6 WR-2
+14 9 RD-2
+10 14 RF-1
+12 14 IJ-2
+14 13 RD-2
+5 15 RF-2
+15 6 RD-2
+15 9 EX-2
+15 10 ST-2
+12 15 IJ-2
+15 13 WR-2
+14 15 UK-2
+12 16 ST-2
+17 9 WR-2
+10 17 RF-2
+12 17 IJ-2
+17 13 WR-2
+17 16 ST-2
+18 9 WR-2
+10 18 RF-2
+12 18 IJ-2
+18 13 EX-2
+18 16 ST-2
+17 18 UK-2
+19 9 RD-2
+19 10 ST-2
+12 19 UK-2
+20 10 ST-3
+20 13 EX-3
+20 16 ST-3
+20 21 CD-3
+20 22 WR-3
+20 23 WR-3
+20 24 WR-3
+20 25 RD-3
+16 26 RF-2
+20 26 IJ-3
+26 21 WR-4
+26 22 RD-4
+26 23 WR-4
+26 24 WR-4
+26 25 WR-4
+20 27 RD-3
+26 27 CD-4
+28 20 RF-3
+26 28 ST-4
+20 29 WR-3
+26 29 WR-4
+30 20 RF-3
+30 26 RF-4
+26 31 WR-4
+26 32 WR-4
+26 33 WR-4
+34 24 RD-4
+34 25 WR-4
+26 34 IJ-4
+34 27 UK-4
+35 25 WR-4
+26 35 UK-4
+

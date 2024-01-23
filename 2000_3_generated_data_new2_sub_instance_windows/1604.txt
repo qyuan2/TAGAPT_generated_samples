@@ -1,0 +1,80 @@
+24
+MP- ldifde.exe 
+SF-C:\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a
+MP-vbc.exe
+MP-SearchIndexer.exe
+MF-\Users\admin\AppData\Local\Temp\msetup\operasetup.exe
+MP-New Client.exe
+MP*-Powershell.exe
+SF-C:\Users\admin\Downloads\beetle-cab\beetle-cab\arc.7z
+MF-reg.exe
+MF-\Users\admin\AppData\Local\Temp\splwow64.exe
+MP-Paranoid Checker.exe 
+MF-\Users\admin\AppData\Local\Temp\compile.vb
+TP-wusa.exe
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+MP-regsvcs.exe
+MP*-CareUEyes.exe
+SF-C:\Users\All Users\Documents\audiodg.exe
+TP*-CareUEyes_setup.exe
+TF-C:\Users\admin\AppData\Local\Temp\IEmode
+MP*-Dropper.exe 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+MF-C:\Users\admin\AppData\Local\Temp\DS
+TF-C:\Windows\Temp\atomicNotificationPackage.dll
+TP-test de fdp.exe 
+53
+0 1 WR-1
+0 2 UK-1
+3 1 WR-1
+3 4 CD-1
+5 1 RD-1
+3 5 UK-1
+6 1 RD-1
+6 4 WR-1
+6 7 WR-1
+6 8 RD-1
+6 9 WR-1
+10 1 WR-1
+10 4 WR-1
+10 7 UK-1
+6 11 WR-1
+12 4 RD-1
+6 12 IJ-1
+12 8 EX-1
+12 9 CD-1
+12 11 CD-1
+6 13 EX-1
+12 13 RD-1
+14 4 EX-1
+6 14 UK-1
+15 8 WR-2
+15 9 EX-2
+15 11 RD-2
+12 15 IJ-1
+15 13 WR-2
+12 16 RD-1
+15 16 WR-2
+17 8 WR-3
+17 9 WR-3
+17 11 CD-3
+12 17 IJ-1
+17 13 RD-3
+15 17 UK-2
+12 18 WR-1
+19 9 WR-4
+19 11 RD-4
+12 19 IJ-1
+19 13 WR-4
+19 16 RD-4
+19 18 WR-4
+20 12 RF-1
+20 19 RF-4
+12 21 RD-1
+19 21 WR-4
+12 22 WR-1
+19 22 RD-4
+23 16 WR-4
+23 18 RD-4
+19 23 UK-4
+

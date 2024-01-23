@@ -1,0 +1,36 @@
+12
+MP*-pr
+TP-bash
+SF-ttpd.c
+MP-dd
+MF-rockyou.txt
+MF-rockyou.txt
+SF-flag4.txt
+MP*-more
+MF-etc.tar.gz
+MF-p.c
+MP*-rev
+MP*-cat
+21
+0 1 IJ-1
+0 2 WR-1
+1 2 EX-1
+0 3 UK-1
+1 4 EX-1
+1 5 WR-1
+1 6 WR-1
+1 7 FR-1
+7 2 RD-2
+7 4 RD-2
+7 5 RD-2
+7 6 WR-2
+1 8 WR-1
+7 8 WR-2
+1 9 UK-1
+10 2 RD-3
+10 4 UK-3
+11 2 WR-4
+11 5 RD-4
+11 6 EX-4
+7 11 UK-2
+

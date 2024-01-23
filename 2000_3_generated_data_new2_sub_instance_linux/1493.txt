@@ -1,0 +1,78 @@
+20
+MP*-ls
+SF-Users.tar.gz
+MP*-more
+TP-curl
+TP-head
+MP-echo
+MF-1.zip
+TP-cat
+TP-more
+MP-paste
+MF-f.r
+MP-less
+MF-httpd.c
+MF-2017.pl
+SO-127.0.0.1
+MP-tac
+MF-passwd.zip
+SO-192.168.10.130
+TP*-cat
+MP*-dpkg
+55
+0 1 RD-1
+0 2 FR-1
+2 1 RD-2
+0 3 IJ-1
+3 1 EX-2
+2 3 IJ-2
+0 4 FR-1
+4 1 RD-2
+2 4 UK-2
+5 1 RD-2
+3 5 IJ-2
+3 6 WR-2
+5 6 WR-2
+7 1 WR-2
+3 7 IJ-2
+5 7 IJ-2
+7 6 RD-2
+8 1 WR-2
+3 8 IJ-2
+5 8 UK-2
+9 1 CD-2
+3 9 IJ-2
+9 6 EX-2
+7 9 IJ-2
+3 10 RD-2
+7 10 RD-2
+9 10 WR-2
+3 11 FR-2
+11 6 RD-2
+7 11 UK-2
+3 12 WR-2
+9 12 WR-2
+9 13 RD-2
+9 14 ST-2
+15 6 CD-2
+15 10 RD-2
+15 12 RD-2
+15 13 WR-2
+15 14 ST-2
+9 16 EX-2
+15 16 UK-2
+9 17 ST-2
+9 18 IJ-2
+18 10 RD-3
+18 12 WR-3
+18 13 WR-3
+18 14 ST-3
+18 17 ST-3
+9 19 FR-2
+19 10 CD-4
+19 12 RD-4
+19 13 RD-4
+14 19 RF-3
+19 17 ST-4
+18 19 UK-3
+

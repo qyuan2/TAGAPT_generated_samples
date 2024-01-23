@@ -1,0 +1,32 @@
+11
+MP*-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+TP*-msdt.exe
+MF-C:\Users\admin\AppData\Local\Temp\factura
+TP-Enquiry No. 1000341492.exe 
+MP*-nvvsvc.exe 
+SF-C:\Users\admin\AppData\Local\Temp\VRAPP.exe
+MF-C:\Users\admin\AppData\Local\Temp\system_file.exe
+TP*-addinutil.exe
+MP-WINWORD.EXE
+MF-\Windows\System32\mshta.exe
+MF-C:\Windows\System32\rundll32.exe
+18
+0 1 IJ-1
+0 2 RD-1
+1 2 WR-2
+0 3 IJ-1
+1 3 UK-2
+0 4 FR-1
+4 2 EX-3
+0 5 WR-1
+4 5 WR-3
+0 6 CD-1
+4 6 WR-3
+0 7 FR-1
+7 2 RD-4
+4 7 UK-3
+0 8 FR-1
+8 2 UK-4
+0 9 CD-1
+0 10 WR-1
+

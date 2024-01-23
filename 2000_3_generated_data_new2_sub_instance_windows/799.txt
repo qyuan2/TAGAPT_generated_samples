@@ -1,0 +1,40 @@
+11
+MP*-vssvc.exe
+SF-C:\Users\admin\AppData\Local\Temp\123.7z
+MP*-gjarow.exe 
+MF-\Users\admin\AppData\Local\Temp\yapars.zip
+SF-C:\Windows\system32\NOTEPAD
+TF-\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9.zip
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9B66.tmp
+MF-C:\Users\admin\AppData\Local\Temp\Ayuaey.exe
+MP*-C:\Windows\System32\msiexec.exe
+MF-\UltraViewer\UltraViewer_Desktop.exe
+MP*-NOTEPAD.EXE
+26
+0 1 RD-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 WR-2
+0 4 WR-1
+2 4 WR-2
+0 5 EX-1
+2 5 WR-2
+0 6 WR-1
+2 6 UK-2
+0 7 RD-1
+0 8 FR-1
+8 1 EX-3
+8 3 RD-3
+8 4 RD-3
+8 5 WR-3
+8 7 RD-3
+0 9 WR-1
+8 9 EX-3
+10 1 WR-4
+10 3 WR-4
+10 4 WR-4
+10 5 WR-4
+10 7 WR-4
+8 10 UK-3
+

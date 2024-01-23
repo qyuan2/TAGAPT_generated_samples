@@ -1,0 +1,72 @@
+19
+MP*-cat
+MF-LinEnum.sh
+SF-common.txt
+MF-2017.pl
+SO-192.168.10.130
+MF-syslog.c
+TP*-pr
+MP-paste
+TF-AutoSUID.sh
+TF-cron.h
+MP*-tac
+TF-apache2.c
+MF-td.c
+MP*-awk
+MF-common.txt
+MF-v.c
+MF-cron.m
+TP-tac
+MF-backsup.sh
+50
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+4 0 RF-1
+0 5 WR-1
+0 6 IJ-1
+6 1 CD-2
+6 2 WR-2
+6 3 WR-2
+6 4 ST-2
+6 5 WR-2
+0 7 FR-1
+7 1 CD-2
+7 2 EX-2
+7 3 WR-2
+7 4 ST-2
+7 5 WR-2
+6 7 UK-2
+0 8 WR-1
+0 9 RD-1
+0 10 FR-1
+10 1 CD-3
+10 2 RD-3
+10 3 WR-3
+4 10 RF-2
+10 5 WR-3
+10 8 WR-3
+10 9 RD-3
+10 11 WR-3
+10 12 RD-3
+13 3 WR-4
+4 13 RF-2
+13 5 EX-4
+13 8 RD-4
+13 9 EX-4
+13 11 WR-4
+13 12 CD-4
+10 14 RD-3
+13 14 CD-4
+10 15 WR-3
+13 15 WR-4
+10 16 RD-3
+13 16 CD-4
+17 8 EX-4
+17 9 EX-4
+10 17 IJ-3
+17 11 RD-4
+17 12 CD-4
+13 17 UK-4
+10 18 WR-3
+

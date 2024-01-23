@@ -1,0 +1,185 @@
+51
+MP*-uname
+MF-f.r
+MP-echo
+MF-T1070.006-reference.txt
+TP-cat
+MP-sed
+MP*-uname
+SF-syslog.c
+MF-robots.txt
+TP-sudo
+TP-less
+MF-echo-art-fish.sh
+SF-chttp.c
+MP-rm
+SO-192.168.37.130
+MF-atomic.sh
+MP-tee
+MP-cat
+MF-common.txt
+TP-uname
+TP-nl
+MP*-netstat
+TP*-uname
+SO-192.168.10.131
+SF-t.c
+SF-0*.txt
+TP-cat
+MF-da-ks.cfg
+MP-strings
+TP-less
+MF-ufw.c
+MP-sed
+MP-find
+TF-LinEnum.sh
+MF-test.txt
+MP-less
+MP-awk
+MF-www.google.c
+TP-zip
+MP-vim
+TP-teehee
+MP-cat
+MF-1.txt
+MF-Discovery.sh
+TP-cat
+TP-chmod
+MF-access.txt
+SO-192.168.2.102
+MP-more
+MF-victim-shred.txt
+MF-T1027-004-test.c
+131
+0 1 RD-1
+0 2 FR-1
+2 1 RD-1
+0 3 RD-1
+2 3 RD-1
+0 4 IJ-1
+4 1 UK-1
+0 5 FR-1
+2 5 UK-1
+0 6 FR-1
+6 3 WR-2
+0 7 WR-1
+6 7 WR-2
+0 8 WR-1
+6 8 EX-2
+0 9 FR-1
+9 3 WR-2
+6 9 IJ-2
+9 7 WR-2
+9 8 WR-2
+0 10 FR-1
+10 3 WR-2
+6 10 IJ-2
+10 7 WR-2
+10 8 WR-2
+9 10 IJ-2
+6 11 WR-2
+9 11 WR-2
+10 11 WR-2
+6 12 EX-2
+9 12 EX-2
+10 12 RD-2
+13 3 EX-2
+6 13 UK-2
+9 14 ST-2
+10 14 ST-2
+9 15 UK-2
+16 7 RD-2
+16 8 UK-2
+17 7 CD-2
+10 17 IJ-2
+17 11 WR-2
+17 12 EX-2
+17 14 ST-3
+10 18 WR-2
+17 18 RD-2
+10 19 UK-2
+20 11 WR-2
+20 12 CD-2
+20 14 ST-3
+17 20 UK-2
+21 11 WR-3
+21 12 CD-3
+14 21 RF-3
+21 18 WR-3
+22 12 RD-4
+22 14 ST-4
+22 18 WR-4
+21 22 IJ-3
+23 21 RF-3
+23 22 RF-4
+21 24 WR-3
+22 24 WR-4
+21 25 WR-3
+22 25 WR-4
+26 18 RD-4
+21 26 IJ-3
+22 26 IJ-4
+26 23 ST-4
+26 24 CD-4
+26 25 WR-4
+21 27 WR-3
+22 27 WR-4
+26 27 EX-4
+28 18 WR-4
+22 28 IJ-4
+28 23 ST-4
+28 24 UK-4
+21 29 IJ-3
+22 29 IJ-4
+29 23 ST-4
+29 25 RD-4
+26 29 UK-4
+21 30 WR-3
+22 30 WR-4
+21 31 FR-3
+22 31 IJ-4
+23 31 RF-4
+31 25 UK-4
+22 32 FR-4
+23 32 RF-4
+32 27 WR-4
+32 30 RD-4
+32 33 WR-4
+32 34 RD-4
+35 27 RD-4
+35 30 WR-4
+35 33 WR-4
+35 34 EX-4
+36 27 WR-4
+36 30 EX-4
+32 36 UK-4
+35 37 EX-4
+38 30 UK-4
+39 33 CD-4
+39 34 EX-4
+35 39 UK-4
+40 33 EX-4
+40 34 WR-4
+40 37 RD-4
+41 33 WR-4
+41 34 UK-4
+40 42 RD-4
+40 43 EX-4
+44 37 WR-4
+40 44 IJ-4
+44 42 CD-4
+44 43 WR-4
+45 37 WR-4
+40 45 IJ-4
+45 42 CD-4
+45 43 UK-4
+40 46 WR-4
+44 46 WR-4
+47 40 RF-4
+44 47 ST-4
+40 48 IJ-4
+48 42 RD-4
+44 48 UK-4
+40 49 RD-4
+40 50 RD-4
+

@@ -1,0 +1,58 @@
+18
+MP*-taskdl.exe
+MF-C:\Windows\System32\mshta.exe
+MP*-D911.exe
+SO-http://www.velux.de/ueber-velux/datenschutz
+MF-\Windows\explorer.exe
+MP-fast1nject.exe 
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns958E.tmp
+TP*-Setup.exe
+SF-C:\Users\Public\d2xc185.vb
+MF-C:\Users\admin\AppData\Local\Temp\GLJC215.tmp
+MF-C:\Users\admin\AppData\Local\Temp\tmp6B8.tmp
+TP-setspn.exe
+MP*-Invoice.exe 
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MP-468C.exe
+MP-nscB9BA.tmp
+MP-D911.exe
+MP-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+37
+0 1 RD-1
+0 2 FR-1
+2 1 WR-2
+0 3 ST-1
+3 2 RF-1
+0 4 WR-1
+2 4 CD-2
+0 5 FR-1
+5 1 EX-2
+2 5 UK-2
+0 6 WR-1
+0 7 IJ-1
+7 1 WR-3
+7 3 ST-3
+7 4 WR-3
+7 6 UK-3
+0 8 CD-1
+0 9 RD-1
+0 10 WR-1
+11 1 UK-3
+3 12 RF-1
+12 4 RD-4
+12 8 CD-4
+12 9 RD-4
+12 10 EX-4
+12 13 ST-4
+14 8 UK-4
+15 9 EX-4
+15 10 WR-4
+12 15 UK-4
+16 9 RD-4
+16 10 RD-4
+16 13 ST-4
+17 9 WR-4
+17 10 EX-4
+13 17 RF-4
+16 17 UK-4
+

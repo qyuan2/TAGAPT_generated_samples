@@ -1,0 +1,51 @@
+15
+MP*-Scanned_file_PO23_Jan.exe 
+SF-C:\Program Files\OneDrive
+SF-C:\Windows\INF\usbstor
+MF-list.exe
+MF-\Users\admin\AppData\Local\Temp\OriginalMessage.txt
+MP-IBM_LINUX.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Authenticator
+MP-AutoPico.exe
+TF-C:\Users\admin\Desktop\authroot
+SF-C:\Users\admin\AppData\Local\Temp\r.rar
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Wmic_calc.xsl
+MP*-file.exe 
+MP*-4900.exe
+MF-C:\Windows\Temp\lsass_dump
+MP*-cmd.exe
+33
+0 1 WR-1
+0 2 RD-1
+0 3 CD-1
+0 4 WR-1
+0 5 FR-1
+5 1 WR-1
+5 2 WR-1
+5 3 EX-1
+5 4 RD-1
+0 6 WR-1
+5 6 WR-1
+0 7 UK-1
+5 8 WR-1
+5 9 RD-1
+10 5 RF-1
+11 1 RD-2
+11 2 WR-2
+11 3 WR-2
+11 4 RD-2
+11 6 WR-2
+11 8 WR-2
+11 9 RD-2
+11 10 ST-2
+12 2 WR-3
+12 3 RD-3
+12 4 RD-3
+5 12 UK-1
+11 13 EX-2
+14 6 WR-4
+14 8 RD-4
+14 9 WR-4
+10 14 RF-2
+11 14 UK-2
+

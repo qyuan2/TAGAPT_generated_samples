@@ -1,0 +1,65 @@
+21
+MP*-paste
+MF-shell.cgi
+MF-password-hash.sh
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-os.exe
+TP*-cat
+SO-192.168.2.102
+MF-password-hash.sh
+TP-cat
+SF-www.google.c
+MP-awk
+MF-data.zip
+MF-image.php
+MP*-wfuzz
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-T1070.006-access.txt
+TF-target.example.c
+SF-raj.txt
+SF-password-hash.sh
+TP*-tcpdump 
+MP-cat
+41
+0 1 WR-1
+0 2 WR-1
+3 0 RF-1
+0 4 RD-1
+0 5 IJ-1
+5 1 WR-2
+5 2 WR-2
+3 5 RF-2
+5 4 CD-2
+6 0 RF-1
+6 5 RF-2
+0 7 WR-1
+5 7 UK-2
+0 8 IJ-1
+8 1 EX-2
+8 2 EX-2
+8 3 ST-2
+8 4 RD-2
+8 6 ST-2
+0 9 WR-1
+8 9 WR-2
+0 10 UK-1
+8 11 EX-2
+8 12 UK-2
+13 3 ST-3
+13 4 WR-3
+6 13 RF-2
+13 9 RD-3
+13 11 WR-3
+13 14 ST-3
+13 15 WR-3
+13 16 WR-3
+13 17 WR-3
+13 18 RD-3
+19 11 WR-4
+13 19 IJ-3
+19 14 ST-4
+19 15 WR-4
+19 16 UK-4
+20 11 WR-4
+13 20 UK-3
+

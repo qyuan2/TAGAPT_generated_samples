@@ -1,0 +1,92 @@
+25
+MP*-uname
+SO-192.168.37.130
+MF-syslog.c
+MF-access.htm
+MP-ls
+MF-httpd.c
+TP-awk
+TF-v.c
+MF-at.a
+MF-www.google.c
+SF-p.c
+MF-os.exe
+MP*-gobuster
+TP-find
+SF-settings.php
+SF-CleaingScript.sh
+MP*-cd
+MF-www.google.c
+SO-192.168.10.128
+MP-crontab
+TP*-netstat
+SO-8.8.8.8
+SO-192.168.47.155
+MF-logrotate.c
+SF-os.exe
+64
+0 1 ST-1
+0 2 WR-1
+0 3 RD-1
+0 4 FR-1
+1 4 RF-1
+4 2 EX-1
+4 3 EX-1
+0 5 EX-1
+4 5 WR-1
+0 6 IJ-1
+6 1 ST-1
+6 2 WR-1
+6 3 RD-1
+4 6 IJ-1
+6 5 WR-1
+0 7 WR-1
+4 7 WR-1
+6 7 WR-1
+0 8 RD-1
+4 8 RD-1
+6 8 WR-1
+0 9 WR-1
+4 9 RD-1
+6 9 WR-1
+0 10 RD-1
+4 10 EX-1
+6 10 EX-1
+4 11 RD-1
+6 11 WR-1
+12 2 RD-2
+12 3 RD-2
+12 5 WR-2
+6 12 IJ-1
+12 7 WR-2
+12 8 UK-2
+13 3 WR-2
+4 13 UK-1
+6 14 WR-1
+6 15 WR-1
+6 16 FR-1
+16 7 RD-3
+16 9 CD-3
+16 10 CD-3
+16 11 RD-3
+16 14 RD-3
+16 15 WR-3
+16 17 CD-3
+18 16 RF-3
+19 9 WR-3
+19 10 WR-3
+19 11 WR-3
+19 14 WR-3
+19 15 RD-3
+16 19 UK-3
+20 10 WR-4
+20 11 WR-4
+20 14 WR-4
+20 15 RD-4
+20 17 EX-4
+20 18 ST-4
+21 20 RF-4
+20 22 ST-4
+20 23 WR-4
+20 24 UK-4
+

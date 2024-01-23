@@ -1,0 +1,80 @@
+21
+MP*-gpt4all-installer-win64.exe 
+MF-\Users\admin\AppData\Local\Temp\IMG_4096.HEIC.jpg
+MP-msbuild.exe
+TF-%temp%\deleteme_T1551.004
+SF-C:\Users\admin\AppData\Local\Temp\compile.vb
+MP-Nikki Project.scr
+MP*-OriginalBuild.exe.exe 
+TP-olsptrs.exe 
+MP*-talkworld.exe 
+MF-C:\Users\admin\AppData\Local\Temp\fcexploit.pdf
+TF-\Users\admin\Desktop\tasksche.exe
+MP-d6405410.exe
+TP-CareUEyes.exe
+MF-C:\Users\admin\AppData\Local\Temp\LZ4
+MP-keygen.exe
+MF-C:\Users\admin\AppData\Local\Temp\8
+MF-gpj.exe
+TP*-pestudio.exe 
+MF-\Users\admin\AppData\Local\Temp\06ad76f4b19be8706f98441d926142af824bd2983217f6c2c02201dbb07d0224.zip
+MF-\Users\admin\AppData\Local\Temp\yapars.zip
+MP-crackmapexec.exe
+56
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 WR-1
+2 3 WR-1
+0 4 RD-1
+2 4 WR-1
+0 5 FR-1
+5 1 WR-1
+2 5 UK-1
+0 6 FR-1
+6 1 RD-2
+6 3 WR-2
+6 4 RD-2
+0 7 IJ-1
+7 1 WR-2
+7 3 WR-2
+7 4 WR-2
+6 7 IJ-2
+0 8 FR-1
+8 1 RD-3
+8 3 CD-3
+8 4 RD-3
+7 8 IJ-2
+0 9 RD-1
+6 9 WR-2
+7 9 EX-2
+8 9 EX-3
+0 10 RD-1
+6 10 WR-2
+7 10 WR-2
+8 10 WR-3
+11 1 RD-3
+11 3 CD-3
+11 4 RD-3
+6 11 UK-2
+12 3 WR-3
+12 4 RD-3
+7 12 IJ-2
+12 9 UK-3
+7 13 WR-2
+7 14 FR-2
+14 10 RD-3
+14 13 WR-3
+7 15 WR-2
+14 15 RD-3
+7 16 RD-2
+14 16 UK-3
+17 10 RD-4
+17 13 EX-4
+17 15 RD-4
+17 18 RD-4
+17 19 WR-4
+20 13 RD-4
+20 15 RD-4
+17 20 UK-4
+

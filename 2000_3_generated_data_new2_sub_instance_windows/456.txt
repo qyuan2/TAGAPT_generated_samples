@@ -1,0 +1,61 @@
+17
+MP-New Client.exe 
+MF-\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9.zip
+MF-email-icon-2x.png
+MF-localappdata\Microsoft\WindowsApps\Get-Variable.exe
+TF-C:\Windows\system32\schtasks
+MF-C:\Users\admin\AppData\Local\Temp\alg
+TP*-AdobeARM.exe
+TP-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+MF-C:\Users\admin\Desktop\_
+TP-nsCCFE.tmp
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+MP*-ns9423.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\sgic_info.c
+MF-\Users\admin\AppData\Local\Temp\tmp91F1.tmp
+MF-\TalkWorld\talkworld.exe
+TP*-Dkeyauth.tmp 
+TP*-WtHgie
+41
+0 1 RD-1
+0 2 EX-1
+0 3 RD-1
+0 4 RD-1
+0 5 WR-1
+0 6 IJ-1
+6 1 RD-1
+6 2 EX-1
+6 3 WR-1
+6 4 EX-1
+6 5 WR-1
+0 7 IJ-1
+7 1 EX-1
+7 2 UK-1
+0 8 WR-1
+6 8 WR-1
+0 9 UK-1
+10 6 RF-1
+11 1 RD-2
+11 3 RD-2
+11 4 WR-2
+11 5 EX-2
+6 11 IJ-1
+11 8 WR-2
+10 11 RF-2
+6 12 WR-1
+11 12 WR-2
+6 13 RD-1
+11 13 WR-2
+6 14 EX-1
+11 14 EX-2
+15 5 WR-3
+6 15 IJ-1
+15 8 WR-3
+15 10 ST-3
+11 15 IJ-2
+15 12 UK-3
+6 16 FR-1
+16 8 RD-4
+16 10 ST-4
+11 16 UK-2
+

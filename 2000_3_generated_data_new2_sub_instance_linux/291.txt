@@ -1,0 +1,80 @@
+20
+MP*-cat
+MP-sudo
+SF-flag4.txt
+TP-bash
+MP-cat
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP*-less
+MF-te.c
+MF-ufw.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+TP-ifconfig
+SF-echo-art-fish.sh
+MF-resolv.c
+TP*-bash 
+TP*-bash
+MF-inetd.c
+MF-cron.a
+TF-access.htm
+MP-rpm
+MP-vim
+57
+0 1 FR-1
+0 2 WR-1
+1 2 RD-1
+0 3 IJ-1
+1 3 IJ-1
+3 2 WR-1
+0 4 FR-1
+1 4 UK-1
+0 5 ST-1
+5 3 RF-1
+0 6 FR-1
+6 2 RD-2
+3 6 IJ-1
+6 5 ST-2
+0 7 RD-1
+3 7 RD-1
+6 7 WR-2
+0 8 WR-1
+3 8 WR-1
+6 8 RD-2
+0 9 ST-1
+3 9 ST-1
+6 9 ST-2
+0 10 IJ-1
+10 2 RD-2
+3 10 IJ-1
+5 10 RF-2
+6 10 UK-2
+3 11 RD-1
+3 12 WR-1
+3 13 FR-1
+5 13 RF-2
+13 7 WR-3
+13 8 WR-3
+9 13 RF-2
+13 11 WR-3
+13 12 WR-3
+14 5 ST-4
+14 7 RD-4
+14 8 WR-4
+9 14 RF-2
+14 11 EX-4
+14 12 RD-4
+13 14 IJ-3
+13 15 UK-3
+14 16 WR-4
+14 17 UK-4
+18 8 WR-4
+9 18 RF-2
+18 11 WR-4
+18 12 WR-4
+18 16 RD-4
+9 19 RF-2
+19 11 WR-4
+19 12 RD-4
+19 16 WR-4
+18 19 UK-4
+

@@ -1,0 +1,42 @@
+12
+MP*-netstat
+SO-192.168.0.134
+MP*-cat
+MP-cat
+SF-settings.php
+TF-s.c
+MP*-paste
+MP-grep
+MF-ttpd.c
+TP-cat
+MP*-id
+MP-cat
+27
+0 1 ST-1
+0 2 FR-1
+2 1 ST-2
+0 3 FR-1
+1 3 RF-1
+2 3 UK-2
+0 4 RD-1
+0 5 RD-1
+0 6 FR-1
+1 6 RF-1
+6 4 WR-3
+6 5 EX-3
+0 7 FR-1
+1 7 RF-1
+7 4 UK-3
+0 8 WR-1
+6 8 WR-3
+0 9 IJ-1
+9 1 ST-3
+9 5 WR-3
+6 9 UK-3
+1 10 RF-1
+10 5 RD-4
+10 8 RD-4
+11 5 RD-4
+11 8 WR-4
+10 11 UK-4
+

@@ -1,0 +1,52 @@
+14
+MP*-nc
+MF-lighttpd.c
+SF-etc.tar.gz
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-chttp.c
+SO-192.168.10.131
+MP-more
+MP*-head
+MP*-cat
+MF-flag3.txt
+MF-data.zip
+TF-lighttpd.c
+TP-vim
+TP*-less
+35
+0 1 CD-1
+0 2 CD-1
+0 3 ST-1
+0 4 WR-1
+0 5 ST-1
+0 6 FR-1
+6 1 RD-1
+6 2 UK-1
+0 7 FR-1
+7 1 WR-2
+3 7 RF-1
+7 4 WR-2
+5 7 RF-1
+0 8 FR-1
+8 1 RD-3
+8 3 ST-3
+8 4 WR-3
+8 5 ST-3
+0 9 WR-1
+7 9 WR-2
+8 9 WR-3
+0 10 WR-1
+7 10 RD-2
+8 10 WR-3
+7 11 RD-2
+8 11 RD-3
+3 12 RF-1
+12 4 WR-3
+12 5 ST-3
+7 12 IJ-2
+8 12 UK-3
+13 3 ST-4
+13 4 WR-4
+5 13 RF-3
+7 13 UK-2
+

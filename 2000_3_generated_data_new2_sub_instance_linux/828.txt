@@ -1,0 +1,64 @@
+13
+MP*-ls
+SF-common.txt
+TP-uname
+MF-shell.cgi
+SO-192.168.10.128
+SF-pwquality.c
+MF-log.c
+MF-common.txt
+TP*-prel
+MP*-scp
+TP*-rev
+MP-sed
+TP-sed
+48
+0 1 EX-1
+0 2 FR-1
+2 1 WR-1
+0 3 WR-1
+2 3 RD-1
+4 0 RF-1
+2 4 ST-1
+0 5 EX-1
+2 5 RD-1
+0 6 EX-1
+2 6 EX-1
+0 7 WR-1
+2 7 RD-1
+0 8 FR-1
+8 1 EX-2
+2 8 IJ-1
+8 3 WR-2
+8 4 ST-2
+8 5 RD-2
+8 6 WR-2
+8 7 WR-2
+0 9 FR-1
+9 1 WR-3
+2 9 IJ-1
+9 3 RD-3
+4 9 RF-1
+9 5 RD-3
+9 6 EX-3
+9 7 RD-3
+8 9 IJ-2
+0 10 FR-1
+10 1 RD-4
+2 10 IJ-1
+10 3 RD-4
+10 4 ST-4
+10 5 WR-4
+10 6 EX-4
+10 7 CD-4
+8 10 UK-2
+11 1 WR-4
+2 11 IJ-1
+11 3 WR-4
+11 4 ST-4
+11 5 RD-4
+11 6 RD-4
+11 7 RD-4
+9 11 UK-3
+2 12 UK-1
+

@@ -1,0 +1,96 @@
+28
+MP*-Caspol.exe
+MF-C:\Users\admin\AppData\Roaming\1.bat
+SF-C:\Users\admin\AppData\Local\Temp\LZ4-SOFT.exe
+SF-C:\Windows\System32\schtasks
+MF-C:\Users\admin\AppData\Local\Temp\skmt-bankinter-003-03588993232059560257100458.jar
+MP-setup.exe
+SF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42AMD64
+MP-Dieselmotorers.exe
+TF-C:\Program files\appdata\local\temp\10805.bmp
+MF-C:\Users\admin\AppData\Local\Temp\jojo11.exe
+SO-https://slpbridge.com/storage/images/debug2.ps1
+MF-\Windows\system32\taskmgr.exe
+SO-http://pitshopautopartsus.com
+TP*-services.exe
+TP-hh.exe 
+SO-192.168.10.11
+SO-https://mindigital-shde.gr
+SF-C:\Users\All Users\Documents\audiodg.exe
+MP-ns97F4.tmp
+SF-C:\Users\admin\AppData\Local\Temp\35ee7903
+MP-ns9BE4.tmp
+MP-java.exe
+MF-C:\Program files\appdata\local\temp\10805.bmp
+MP-fltmc.exe
+MP*-slui.exe
+TP*-KMSpico_setup.exe 
+MP-buidl.exe 
+MF-C:\Program files\appdata\roaming\battery\battery
+65
+0 1 RD-1
+0 2 WR-1
+0 3 WR-1
+0 4 RD-1
+0 5 FR-1
+5 1 WR-1
+5 2 RD-1
+5 3 WR-1
+5 4 WR-1
+0 6 WR-1
+5 6 RD-1
+0 7 FR-1
+7 1 UK-1
+0 8 UK-1
+5 9 WR-1
+10 5 RF-1
+5 11 EX-1
+12 5 RF-1
+13 3 RD-2
+13 4 WR-2
+5 13 IJ-1
+13 6 CD-2
+13 9 WR-2
+13 10 ST-2
+13 11 WR-2
+12 13 RF-2
+14 4 EX-2
+5 14 UK-1
+13 15 ST-2
+16 13 RF-2
+13 17 EX-2
+18 9 WR-2
+18 10 ST-2
+18 11 UK-2
+13 19 WR-2
+20 10 ST-2
+20 12 ST-2
+13 20 UK-2
+21 12 ST-2
+21 15 ST-2
+21 16 ST-2
+21 17 WR-2
+21 19 WR-2
+21 22 WR-2
+15 23 RF-2
+23 16 ST-2
+23 17 WR-2
+23 19 WR-2
+21 23 UK-2
+15 24 RF-2
+24 16 ST-3
+24 17 WR-3
+24 19 WR-3
+24 22 WR-3
+25 15 ST-4
+16 25 RF-3
+25 17 WR-4
+25 19 RD-4
+25 22 WR-4
+24 25 UK-3
+26 16 ST-4
+26 17 WR-4
+26 19 RD-4
+26 22 RD-4
+26 27 UK-4
+

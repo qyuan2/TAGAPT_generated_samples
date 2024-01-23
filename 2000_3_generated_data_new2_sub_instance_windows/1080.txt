@@ -1,0 +1,279 @@
+68
+MP-Invoice for shipping.exe 
+MF-C:\Users\admin\AppData\Local\Temp\keygen.exe
+MF-C:\Users\All Users\Documents\audiodg
+MF-C:\Users\admin\AppData\Local\Temp\setup
+SF-C:\Users\admin\AppData\Local\Temp\Saz_Injector.zip
+TP-build2.exe 
+MP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MF-\Users\admin\AppData\Local\Temp\phish_alert_sp2_2.0.0.0.eml.msg
+TF-\Users\admin\Desktop\open.exe
+TP*-nltest.exe
+MP-diskshadow.exe
+SF-C:\Users\admin\Desktop\Nuovo
+MF-C:\Users\admin\AppData\Local\Temp\ExplorerSuite.exe
+MF-C:\Users\admin\AppData\Local\Temp\CareUEyes_setup
+SO-file://C:\windows\system32\notepad.exe
+MF-C:\Program Files\Microsoft Office\Office14\POWERPNT
+MF-C:\Program Files\CCleaner\CCleanerBugReport
+MP-CareUEyes_setup.exe
+TP-OUTLOOK.EXE 
+SO-10.0.0.00000
+MP-OlympicDestroyer.exe 
+TP*-danke.exe 
+TP-takeown.exe
+MF-C:\Users\admin\AppData\Local\Temp\analyssifilename
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+SF-C:\Windows\system32\taskmgr
+MF-C:\Users\admin\AppData\Local\Temp\msetup\360TS_Setup_Mini_WW
+MP-file.exe 
+MF-\Users\admin\AppData\Local\Temp\keygen.exe
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\form.r
+MP-mimikatz.exe
+TF-C:\Users\admin\AppData\Local\Temp\Player666.vb
+MP-Demande de devis (Universite Paris Cite 2307E.exe 
+SF-C:\Program files\30802
+SO-https://vision.fn-pz.com
+MF-C:\Windows\System32\cscript.exe
+TP-vssvc.exe
+MF-C:\Users\admin\Downloads\PC_Cleaner__5509
+MF-C:\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539
+MP-Heapman45.exe 
+MF-\programdata\asc.txt
+MP-WMIC.exe 
+TF-C:\Program Files\Internet Explorer\iexplore.exe
+MF-C:\Users\admin\AppData\Local\Temp\RESF360
+MF-\Users\admin\Desktop\a6197937-992f-4d8c-a192-64a545a288e7.pdf
+MP-gsecdump.exe
+TP-hh.exe 
+TF-C:\Users\admin\AppData\Roaming\SysInfoTool\data
+MF-C:\Windows\system32\taskmgr
+MF-C:\ProgramData\anydesk
+SF-C:\Users\admin\AppData\Local\Temp\RE_PENDING
+MF-adet.exe
+TP*-AcroRd32.exe 
+MP-Orcus.exe 
+TP-OUTLOOK.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\keygen
+MP*-IrSatorLauncher.exe 
+MF-\Users\admin\AppData\Local\Temp\444444.png.png.exe
+MP-test de fdp.exe 
+TF-C:\Windows\system32\prevhost.exe
+MF-C:\Users\admin\AppData\Local\Temp\MadInjector.zip
+MF-C:\Users\admin\AppData\Roaming\olsptrs\olsptrs
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe
+MF-\Users\admin\AppData\Local\Temp\hh.exe
+MP-ngen.exe
+SF-C:\Users\admin\AppData\Local\Temp\QUOTATION_AUG7FIBA00541
+SF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd.zip
+MP-RegDll.x86.exe
+208
+0 1 CD-1
+0 2 RD-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 1 UK-1
+0 6 FR-1
+6 2 WR-1
+6 3 UK-1
+0 7 RD-1
+0 8 WR-1
+0 9 IJ-1
+9 2 WR-1
+9 4 EX-1
+9 7 WR-1
+9 8 EX-1
+0 10 FR-1
+10 2 WR-1
+10 4 EX-1
+10 7 RD-1
+10 8 WR-1
+9 10 IJ-1
+9 11 WR-1
+10 11 RD-1
+9 12 WR-1
+10 12 WR-1
+9 13 RD-1
+10 13 EX-1
+14 9 RF-1
+10 14 ST-1
+9 15 WR-1
+10 15 WR-1
+9 16 WR-1
+10 16 WR-1
+17 7 CD-1
+17 8 EX-1
+9 17 UK-1
+18 8 WR-1
+10 18 IJ-1
+18 11 WR-1
+18 12 EX-1
+18 13 WR-1
+14 18 RF-1
+18 15 WR-1
+18 16 RD-1
+10 19 ST-1
+18 19 ST-2
+10 20 FR-1
+20 11 EX-1
+20 12 EX-1
+20 13 RD-1
+20 14 ST-1
+20 15 RD-1
+20 16 WR-1
+18 20 UK-1
+21 11 WR-2
+21 12 WR-2
+21 13 WR-2
+21 14 ST-2
+21 15 WR-2
+21 16 RD-2
+19 21 RF-2
+22 12 WR-2
+22 13 EX-2
+22 14 ST-2
+22 15 RD-2
+22 16 EX-2
+22 19 ST-2
+21 22 IJ-2
+21 23 WR-2
+22 23 EX-2
+24 21 RF-2
+24 22 RF-2
+21 25 EX-2
+22 25 RD-2
+21 26 EX-2
+22 26 WR-2
+27 19 ST-2
+21 27 IJ-2
+22 27 IJ-2
+27 23 WR-2
+24 27 RF-2
+27 25 WR-2
+27 26 RD-2
+21 28 RD-2
+22 28 RD-2
+27 28 CD-2
+21 29 WR-2
+22 29 EX-2
+27 29 RD-2
+21 30 UK-2
+22 31 RD-2
+27 31 RD-2
+22 32 IJ-2
+32 23 WR-2
+32 24 ST-2
+32 25 RD-2
+32 26 WR-2
+32 28 WR-2
+32 29 RD-2
+32 31 WR-2
+27 33 WR-2
+32 33 WR-2
+27 34 ST-2
+34 32 RF-2
+27 35 WR-2
+32 35 CD-2
+36 26 WR-2
+27 36 IJ-2
+36 28 EX-2
+36 29 WR-2
+36 31 RD-2
+32 36 IJ-2
+36 33 RD-2
+36 34 ST-2
+36 35 WR-2
+27 37 WR-2
+32 37 WR-2
+36 37 RD-2
+32 38 RD-2
+36 38 WR-2
+39 31 WR-2
+39 33 WR-2
+39 34 ST-2
+39 35 RD-2
+36 39 IJ-2
+39 37 WR-2
+39 38 WR-2
+36 40 RD-2
+39 40 WR-2
+41 33 WR-2
+34 41 RF-2
+41 35 RD-2
+36 41 UK-2
+39 42 WR-2
+39 43 WR-2
+39 44 WR-2
+45 37 RD-2
+45 38 WR-2
+45 40 UK-2
+46 37 WR-2
+46 38 WR-2
+39 46 IJ-2
+46 42 RD-2
+46 43 RD-2
+46 44 CD-2
+39 47 RD-2
+46 47 WR-2
+39 48 RD-2
+46 48 WR-2
+39 49 WR-2
+46 49 RD-2
+46 50 WR-2
+46 51 WR-2
+52 42 CD-3
+52 43 WR-3
+52 44 EX-3
+46 52 IJ-2
+52 47 RD-3
+52 48 WR-3
+52 49 EX-3
+52 50 WR-3
+52 51 EX-3
+53 43 WR-3
+53 44 WR-3
+46 53 IJ-2
+53 47 EX-3
+53 48 EX-3
+53 49 WR-3
+53 50 UK-3
+54 44 UK-3
+46 55 CD-2
+52 55 RD-3
+46 56 FR-2
+56 47 RD-4
+56 48 WR-4
+56 49 WR-4
+56 51 WR-4
+52 56 IJ-3
+56 55 WR-4
+52 57 RD-3
+56 57 EX-4
+58 48 WR-4
+58 49 RD-4
+58 51 CD-4
+52 58 UK-3
+56 59 WR-4
+56 60 WR-4
+56 61 WR-4
+56 62 RD-4
+56 63 WR-4
+64 55 RD-4
+64 57 RD-4
+64 59 WR-4
+64 60 RD-4
+64 61 WR-4
+64 62 WR-4
+64 63 WR-4
+56 65 CD-4
+64 65 WR-4
+56 66 EX-4
+64 66 WR-4
+67 59 RD-4
+67 60 WR-4
+67 61 RD-4
+67 62 RD-4
+67 63 WR-4
+64 67 UK-4
+

@@ -1,0 +1,38 @@
+12
+MP*-bash
+SF-access.txt
+TP-less
+TF-victim-shred.txt
+MF-settings.php
+TP*-paste
+MF-lighttp.c
+MP*-cat
+MF-LinEnum.sh
+MP*-uname
+MF-inetd.c
+TF-http.c
+23
+0 1 WR-1
+0 2 IJ-1
+2 1 EX-1
+0 3 WR-1
+2 3 WR-1
+0 4 RD-1
+2 4 RD-1
+0 5 IJ-1
+5 1 WR-2
+2 5 IJ-1
+5 3 WR-2
+5 4 WR-2
+2 6 RD-1
+5 6 RD-2
+7 1 EX-3
+2 7 IJ-1
+7 3 RD-3
+7 4 WR-3
+5 7 UK-2
+2 8 RD-1
+9 1 UK-4
+2 10 RD-1
+2 11 WR-1
+

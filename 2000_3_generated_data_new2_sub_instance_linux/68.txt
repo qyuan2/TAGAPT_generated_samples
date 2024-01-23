@@ -1,0 +1,142 @@
+40
+MP*-ifconfig
+MP-cat
+TP-awk
+MF-cron.m
+TP-tail
+SF-on.a
+TF-access.txt
+SF-secret.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TP-ip
+MP-sed
+MP-cat
+MP-wget
+TF-pwquality.c
+TP-nl
+SF-d.c
+MP*-less
+MP-more
+MP-cat
+MF-flag3.txt
+MP-ls
+TP*-awk
+MF-flag3.txt
+SO-127.0.0.1:8080
+MP-uname
+MF-ron.a
+MP-grep
+TP*-tr
+MF-cron.a
+SF-T1070.006-reference.txt
+SO-8.8.8.8
+TF-settings.php
+MP-netstat
+MP-tac
+MF-ufw.c
+MF-raft-large-directories.txt
+MF-common.txt
+MF-p.c
+SF-victim-shred.txt
+SF-passwd.c
+99
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 FR-1
+4 3 WR-1
+0 5 RD-1
+4 5 WR-1
+0 6 EX-1
+4 6 WR-1
+0 7 RD-1
+4 7 WR-1
+8 0 RF-1
+4 8 ST-1
+0 9 IJ-1
+9 3 EX-1
+4 9 IJ-1
+9 5 WR-1
+9 6 RD-1
+9 7 EX-1
+8 9 RF-1
+0 10 FR-1
+10 3 RD-1
+4 10 UK-1
+11 3 WR-1
+11 5 EX-1
+11 6 WR-1
+11 7 RD-1
+11 8 ST-1
+9 11 IJ-1
+12 3 WR-1
+12 5 UK-1
+9 13 WR-1
+11 13 RD-1
+14 6 WR-1
+14 7 RD-1
+14 8 ST-1
+9 14 IJ-1
+11 14 UK-1
+9 15 WR-1
+16 6 WR-2
+16 7 WR-2
+8 16 RF-1
+9 16 IJ-1
+16 13 WR-2
+16 15 WR-2
+17 7 UK-2
+8 18 RF-1
+9 18 UK-1
+16 19 WR-2
+20 13 EX-2
+20 15 RD-2
+16 20 UK-2
+21 13 WR-3
+21 15 CD-3
+21 19 WR-3
+21 22 RD-3
+23 21 RF-3
+24 15 RD-3
+24 19 EX-3
+21 24 IJ-3
+24 22 RD-3
+24 23 ST-3
+21 25 WR-3
+24 25 WR-3
+26 19 EX-3
+21 26 IJ-3
+26 22 UK-3
+27 19 WR-4
+21 27 IJ-3
+23 27 RF-3
+24 27 IJ-3
+27 25 WR-4
+21 28 CD-3
+24 28 WR-3
+27 28 EX-4
+24 29 WR-3
+27 29 RD-4
+24 30 ST-3
+27 30 ST-4
+24 31 WR-3
+27 31 EX-4
+32 23 ST-4
+24 32 UK-3
+33 25 WR-4
+27 33 IJ-4
+33 28 WR-4
+33 29 WR-4
+33 30 ST-4
+33 31 WR-4
+27 34 WR-4
+33 34 RD-4
+27 35 WR-4
+33 35 EX-4
+27 36 WR-4
+33 36 WR-4
+33 37 WR-4
+33 38 WR-4
+33 39 UK-4
+

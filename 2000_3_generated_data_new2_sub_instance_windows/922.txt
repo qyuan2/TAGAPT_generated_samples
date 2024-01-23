@@ -1,0 +1,63 @@
+19
+MP*-client32.exe
+MF-C:\Windows\syswow64\regsvr32
+MP*-nsA19D.tmp
+TF-C:\Users\admin\AppData\Local\Temp\winhlp32
+MF-.\T1071.004\src\T1071-dns-beacon.ps1
+MP-ns9EC8.tmp 
+MF-band.xml
+SF-HKLM\Software\Microsoft\.NETFramework
+TF-C:\Users\admin\AppData\Local\Temp\suifsc.exe
+MP-OUTLOOK.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+TP-tshark.exe
+MP*-keydlls.exe
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MF-C:\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9423.tmp
+MP-bitsadmin.exe
+TP*-Explorer.EXE
+MP-icacls.exe
+41
+0 1 RD-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 RD-2
+0 4 CD-1
+2 4 RD-2
+0 5 FR-1
+5 1 UK-2
+0 6 EX-1
+2 6 RD-2
+0 7 CD-1
+2 7 WR-2
+0 8 EX-1
+2 8 WR-2
+0 9 FR-1
+2 9 UK-2
+0 10 WR-1
+11 3 UK-2
+12 4 EX-3
+12 6 WR-3
+12 7 EX-3
+12 8 WR-3
+12 10 WR-3
+13 12 RF-3
+12 14 RD-3
+12 15 RD-3
+16 7 RD-3
+16 8 WR-3
+16 10 EX-3
+12 16 UK-3
+17 8 RD-4
+17 10 WR-4
+13 17 RF-4
+17 14 WR-4
+17 15 WR-4
+18 10 WR-4
+18 13 ST-4
+18 14 WR-4
+18 15 WR-4
+17 18 UK-4
+

@@ -1,0 +1,45 @@
+13
+MP*-explorer.exe
+SF-C:\Program Files\Bandizip\data\RegDll
+SF-C:\Users\admin\AppData\Local\Temp\IXP002
+MF-C:\Users\admin\AppData\Local\Temp\06ad76f4b19be8706f98441d926142af824bd2983217f6c2c02201dbb07d0224.zip
+MP-query.exe
+MF-\T1564.001.txt
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9423.tmp
+MP-WsatConfig.exe
+MF-C:\Windows\System32\control
+MP*-nsA12F.tmp
+MP*-CompPkgSrv.exe
+MP*-bb.exe 
+29
+0 1 RD-1
+0 2 WR-1
+0 3 EX-1
+0 4 FR-1
+4 1 EX-1
+4 2 WR-1
+4 3 WR-1
+0 5 WR-1
+4 5 WR-1
+0 6 ST-1
+6 4 RF-1
+0 7 WR-1
+4 7 WR-1
+0 8 UK-1
+4 9 EX-1
+10 1 WR-2
+10 2 RD-2
+10 3 WR-2
+10 5 WR-2
+10 6 ST-2
+10 7 WR-2
+10 9 WR-2
+11 2 WR-3
+11 3 RD-3
+4 11 UK-1
+12 3 WR-4
+12 5 EX-4
+12 6 ST-4
+12 7 UK-4
+

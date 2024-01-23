@@ -1,0 +1,78 @@
+20
+MP*-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+SF-C:\Users\admin\AppData\Local\Temp\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7
+MP*-mstsca.exe 
+TP-forfiles.exe
+TP-certutil
+MP-bcdedit.exe
+MF-\Users\admin\AppData\Local\Temp\irknanu4.cmd
+TP-New Client.exe
+TP-ruby.exe
+MP-WMIC.exe 
+MF-\Users\admin\AppData\Local\Temp\setup.exe
+MP-OperaSetup_UNO.exe
+MF-C:\Browserweb\csrss
+MF-C:\Users\admin\Desktop\Client.exe
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MP-test.exe 
+MF-C:\Users\admin\AppData\Local\Temp\KLSetup
+SO-hxxp://157.245.99[.]132/get.php
+TP*-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MP*-vdsldr.exe
+55
+0 1 RD-1
+0 2 FR-1
+2 1 RD-2
+0 3 IJ-1
+3 1 EX-2
+2 3 IJ-2
+0 4 FR-1
+4 1 RD-2
+2 4 UK-2
+5 1 RD-2
+3 5 IJ-2
+3 6 WR-2
+5 6 WR-2
+7 1 WR-2
+3 7 IJ-2
+5 7 IJ-2
+7 6 RD-2
+8 1 WR-2
+3 8 IJ-2
+5 8 UK-2
+9 1 CD-2
+3 9 IJ-2
+9 6 EX-2
+7 9 IJ-2
+3 10 RD-2
+7 10 RD-2
+9 10 WR-2
+3 11 FR-2
+11 6 RD-2
+7 11 UK-2
+3 12 WR-2
+9 12 WR-2
+9 13 RD-2
+9 14 ST-2
+15 6 CD-2
+15 10 RD-2
+15 12 RD-2
+15 13 WR-2
+15 14 ST-2
+9 16 EX-2
+15 16 UK-2
+9 17 ST-2
+9 18 IJ-2
+18 10 RD-3
+18 12 WR-3
+18 13 WR-3
+18 14 ST-3
+18 17 ST-3
+9 19 FR-2
+19 10 CD-4
+19 12 RD-4
+19 13 RD-4
+14 19 RF-3
+19 17 ST-4
+18 19 UK-3
+

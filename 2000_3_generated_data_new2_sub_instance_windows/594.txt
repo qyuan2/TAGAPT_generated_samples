@@ -1,0 +1,78 @@
+19
+MP*-ns9423.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\Test
+MP-MpCmdRun.exe
+MP-TBHD AWB 1ZY0W5038626871089.exe
+MP*-cipher.exe
+MF-C:\Users\admin\AppData\Local\Temp\UpdateService.bat
+SF-C:\Users\User\29630.ico
+MF-MMC20.a
+MP-prism-0.8-win32.exe 
+MF-CSIDL_COMMON_APPDATA\anydesk.exe
+SO-1.2.840.113556
+MF-C:\Users\Public\coinmarketcap\1.bat
+SO-https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object
+TF-C:\Program files\appdata\local\temp\17634.bmp
+MP*-Curl.exe
+MP*-putty.exe
+TP-DllHost.exe
+TP-wuauclt.exe
+MP-Ziraat Bankasi Swift Mesaji.exe 
+56
+0 1 RD-1
+0 2 FR-1
+2 1 WR-1
+0 3 FR-1
+3 1 WR-1
+0 4 FR-1
+4 1 WR-2
+0 5 WR-1
+2 5 WR-1
+3 5 WR-1
+4 5 RD-2
+0 6 EX-1
+2 6 UK-1
+0 7 WR-1
+3 7 WR-1
+4 7 RD-2
+0 8 FR-1
+8 1 WR-2
+3 8 UK-1
+0 9 RD-1
+4 9 WR-2
+0 10 ST-1
+4 10 ST-2
+4 11 WR-2
+12 4 RF-2
+4 13 WR-2
+4 14 FR-2
+14 5 EX-3
+14 7 EX-3
+14 9 WR-3
+10 14 RF-2
+14 11 WR-3
+12 14 RF-3
+14 13 EX-3
+15 5 WR-4
+15 7 RD-4
+15 9 RD-4
+10 15 RF-2
+15 11 RD-4
+15 12 ST-4
+15 13 WR-4
+14 15 UK-3
+16 7 WR-4
+16 9 WR-4
+10 16 RF-2
+16 11 UK-4
+17 7 WR-4
+17 9 RD-4
+17 10 ST-4
+12 17 RF-4
+17 13 WR-4
+18 9 WR-4
+18 10 ST-4
+12 18 RF-4
+18 13 WR-4
+17 18 UK-4
+

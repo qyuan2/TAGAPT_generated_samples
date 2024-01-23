@@ -1,0 +1,38 @@
+11
+MP*-find
+MP*-uname
+SF-data.zip
+TP-netstat
+SF-resolv.c
+SF-image.php
+SF-te.c
+MF-victim-shred.txt
+TP*-ls
+MF-lighttpd.c
+TP*-nl
+24
+0 1 FR-1
+0 2 RD-1
+1 2 RD-2
+0 3 FR-1
+1 3 UK-2
+0 4 RD-1
+0 5 WR-1
+0 6 WR-1
+0 7 RD-1
+0 8 FR-1
+8 2 WR-3
+8 4 CD-3
+8 5 WR-3
+8 6 WR-3
+8 7 WR-3
+0 9 WR-1
+8 9 WR-3
+0 10 FR-1
+10 2 EX-4
+10 4 WR-4
+10 5 RD-4
+10 6 RD-4
+10 7 RD-4
+8 10 UK-3
+

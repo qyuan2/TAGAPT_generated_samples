@@ -1,0 +1,166 @@
+45
+MP-dd
+MP-stat
+MF-raj.txt
+TP-paste
+MP-awk
+SO-atomic@target.example
+MF-cron.h
+MF-T1070.006-access.txt
+MF-folders/files
+MP-cat
+MF-common.txt
+SF-lighttpd.c
+MF-syslog.c
+MP-find
+MP-more
+SO-192.173.28.130
+MF-English.rtf
+MP*-cat
+MP-perl
+MF-journald.c
+TP-head
+MF-d.c
+MP-cat
+SF-pd.c
+MP-head
+MP-pr
+MP-cat
+MP-nmap
+SF-e.c
+SO-192.168.2.102
+SO-192.168.10.130
+MP-curl
+MF-LinEnum.sh
+SO-192.168.10.128
+MP-ls
+TP*-cat
+MP-cat
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP*-perl
+TF-ron.a
+MP*-openssl
+MP-sed
+MF-settings.php
+MP-cat
+MP-cat
+118
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+0 3 IJ-1
+1 3 IJ-1
+3 2 EX-1
+0 4 FR-1
+4 2 WR-1
+3 4 IJ-1
+5 0 RF-1
+5 1 RF-1
+5 3 RF-1
+4 5 ST-1
+0 6 WR-1
+1 6 RD-1
+3 6 EX-1
+4 6 EX-1
+0 7 RD-1
+1 7 WR-1
+3 7 UK-1
+0 8 RD-1
+1 8 RD-1
+4 8 WR-1
+0 9 FR-1
+1 9 UK-1
+0 10 UK-1
+4 11 EX-1
+4 12 WR-1
+4 13 FR-1
+5 13 RF-1
+13 6 WR-1
+13 8 RD-1
+13 11 CD-1
+13 12 EX-1
+4 14 UK-1
+15 13 RF-1
+13 16 UK-1
+17 8 WR-1
+17 11 WR-1
+17 12 WR-1
+15 17 RF-1
+18 8 WR-1
+18 11 WR-1
+18 12 EX-1
+15 18 RF-1
+17 19 RD-1
+18 19 EX-1
+20 11 WR-1
+20 12 RD-1
+15 20 RF-1
+17 20 IJ-1
+18 20 UK-1
+17 21 WR-1
+15 22 RF-1
+22 19 RD-1
+22 21 UK-1
+17 23 RD-1
+17 24 FR-1
+24 19 UK-1
+17 25 FR-1
+25 23 RD-1
+26 23 EX-1
+27 23 UK-1
+25 28 WR-1
+26 28 WR-1
+29 25 RF-1
+26 29 ST-2
+30 25 RF-1
+30 26 RF-1
+31 28 RD-1
+31 29 ST-2
+30 31 RF-1
+25 32 WR-1
+26 32 RD-1
+31 32 WR-1
+25 33 ST-1
+26 33 ST-2
+31 33 ST-2
+25 34 FR-1
+26 34 UK-1
+25 35 IJ-1
+35 28 WR-2
+29 35 RF-2
+30 35 RF-2
+31 35 IJ-1
+35 32 WR-2
+33 35 RF-2
+36 28 WR-2
+29 36 RF-2
+36 30 ST-2
+31 36 UK-1
+35 37 ST-2
+38 28 CD-3
+29 38 RF-1
+30 38 RF-2
+38 32 RD-3
+33 38 RF-1
+35 38 IJ-2
+38 37 ST-3
+35 39 RD-2
+38 39 RD-3
+40 30 ST-4
+40 32 WR-4
+40 33 ST-4
+35 40 IJ-2
+37 40 RF-3
+40 39 RD-4
+41 32 WR-4
+41 33 ST-4
+35 41 UK-2
+38 42 WR-3
+40 42 WR-4
+33 43 RF-4
+43 37 ST-4
+38 43 UK-3
+37 44 RF-3
+44 39 RD-4
+40 44 UK-4
+

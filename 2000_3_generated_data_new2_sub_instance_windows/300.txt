@@ -1,0 +1,33 @@
+12
+MP*-ns967A.tmp 
+SF-C:\Users\admin\AppData\Roaming\fertyno12\client32.exe
+MF-reg.exe
+MP-installd.exe
+MP*-AppLaunch.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+MP-WsatConfig.exe
+MP*-a6302410.exe
+TP-vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+SF-C:\Windows\system32\schtasks
+SF-C:\Users\admin\Desktop\MS
+TP*-cmdkey.exe
+18
+0 1 WR-1
+0 2 RD-1
+0 3 FR-1
+3 1 UK-1
+0 4 FR-1
+4 2 WR-2
+0 5 ST-1
+4 5 ST-2
+0 6 UK-1
+7 2 WR-3
+5 7 RF-2
+8 2 WR-3
+4 8 UK-2
+7 9 WR-3
+7 10 EX-3
+11 2 WR-4
+11 5 ST-4
+7 11 UK-3
+

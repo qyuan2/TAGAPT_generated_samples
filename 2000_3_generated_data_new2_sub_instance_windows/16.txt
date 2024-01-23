@@ -1,0 +1,168 @@
+42
+MP-slapd.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MF-contoso.c
+MP-New Client.exe
+TP-dw20.exe
+TP-B47C.exe
+MF-C:\Users\admin\AppData\Local\Temp\B70D
+MP-iexplore.exe 
+MP-DataSvcUtil.exe
+TF-C:\Users\admin\AppData\Local\Temp\Test
+MF-C:\Program files\appdata\local\temp\22333.doc
+TF-\Users\Public\audiodg.exe
+TP-jsc.exe
+MP*-mimikatz.exe
+MF-C:\Users\admin\AppData\Local\Google\Chrome\User Data\Crashpad
+SF-C:\yWorks.dll
+MF-%temp%\T1222.001_takeown_folder 
+TP*-findstr.exe
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/wmicscript.xsl
+SF-C:\Users\admin\AppData\Local\Temp\is-170NV.tmp
+TF-\Users\admin\AppData\Local\Temp\is-9DRF4.tmp
+SF-C:\Users\admin\skmt-bankinter-003-03588993232059560257100458.jar
+MP-explorer.exe 
+TP-secedit.exe
+SO-hxxp://157.245.99[.]132/get.php
+MP-06e0e36f91e621e79712673923e57daf3fcf232bb3151c122891ded30466293a.exe 
+MF-\Users\admin\AppData\Local\Temp\KS.pdf
+MP-WhatfixWindowsService.exe
+SF-C:\Users\admin\AppData\Local\Temp\Heapman45.exe
+SO-42.021.871.591
+TF-C:\Users\admin\AppData\Local\Temp\TRUST
+SO-hxxp://155.138.252[.]221/get.php
+MF-windir\WinSxS\x86_microsoft-windows-errorreportingfaults_31bf3856ad364e35_4.0.9600.16384_none_a13f7e283339a050\WerFault.exe
+TP-regasm.exe
+SF-C:\Users\admin\AppData\Local\Temp\AnyDesk
+MP*-nsCFA0.tmp
+TP*-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+MP-863e7c22c771e4005197ae28363584f8.exe 
+TP-06e0e36f91e621e79712673923e57daf3fcf232bb3151c122891ded30466293a.exe 
+MF-sqlwriter.exe
+MP-Dkeyauth.exe
+123
+0 1 ST-1
+0 2 CD-1
+0 3 FR-1
+3 1 ST-1
+3 2 CD-1
+0 4 FR-1
+1 4 RF-1
+4 2 WR-1
+3 4 UK-1
+0 5 FR-1
+1 5 RF-1
+5 2 WR-1
+0 6 WR-1
+5 6 RD-1
+0 7 UK-1
+1 8 RF-1
+8 2 WR-1
+5 8 IJ-1
+8 6 RD-1
+5 9 EX-1
+8 9 UK-1
+5 10 EX-1
+5 11 WR-1
+12 2 RD-1
+5 12 UK-1
+13 6 EX-1
+13 10 WR-1
+13 11 WR-1
+13 14 EX-1
+13 15 EX-1
+13 16 EX-1
+17 10 WR-2
+17 11 WR-2
+13 17 IJ-1
+17 14 WR-2
+17 15 WR-2
+17 16 CD-2
+18 10 WR-2
+18 11 WR-2
+13 18 UK-1
+19 17 RF-2
+17 20 EX-2
+17 21 WR-2
+17 22 RD-2
+23 14 UK-2
+24 15 WR-2
+24 16 RD-2
+17 24 IJ-2
+19 24 RF-2
+24 20 EX-2
+24 21 WR-2
+24 22 EX-2
+25 17 RF-2
+24 25 ST-2
+26 16 RD-2
+17 26 IJ-2
+26 19 ST-2
+26 20 CD-2
+26 21 RD-2
+26 22 WR-2
+24 26 IJ-2
+26 25 ST-2
+17 27 RD-2
+24 27 RD-2
+26 27 WR-2
+28 19 ST-2
+28 20 RD-2
+28 21 UK-2
+24 29 RD-2
+26 29 EX-2
+24 30 ST-2
+26 30 ST-2
+24 31 RD-2
+26 31 RD-2
+32 24 RF-2
+32 26 RF-2
+24 33 EX-2
+26 33 WR-2
+24 34 FR-2
+25 34 RF-2
+26 34 IJ-2
+34 27 WR-2
+34 29 EX-2
+34 30 ST-3
+34 31 RD-2
+34 32 ST-2
+34 33 EX-2
+26 35 RD-2
+34 35 WR-2
+26 36 FR-2
+36 27 CD-3
+36 29 RD-3
+30 36 RF-3
+36 31 WR-3
+36 32 ST-3
+36 33 WR-3
+34 36 UK-2
+37 27 RD-4
+37 29 WR-4
+30 37 RF-2
+37 31 WR-4
+32 37 RF-3
+37 33 RD-4
+37 35 RD-4
+38 29 WR-4
+38 30 ST-4
+38 31 RD-4
+38 32 ST-4
+38 33 RD-4
+38 35 WR-4
+37 38 UK-4
+39 29 WR-4
+39 30 ST-4
+39 31 RD-4
+39 32 ST-4
+39 33 WR-4
+39 35 RD-4
+39 40 RD-4
+41 31 EX-4
+41 32 ST-4
+41 33 WR-4
+41 35 RD-4
+39 41 UK-4
+

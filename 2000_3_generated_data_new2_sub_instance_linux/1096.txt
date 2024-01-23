@@ -1,0 +1,29 @@
+11
+MP*-ip
+MF-backsup.sh
+MP-ls
+MP-uname
+MF-passwd.zip
+MF-data.zip
+MP*-cat
+TP*-iptables
+TP*-less
+MP-grep
+MF-rockyou.txt
+15
+0 1 RD-1
+0 2 FR-1
+2 1 WR-1
+0 3 UK-1
+2 4 RD-1
+2 5 WR-1
+6 1 EX-2
+2 6 UK-1
+7 1 EX-3
+7 4 RD-3
+7 5 UK-3
+8 1 EX-4
+8 4 WR-4
+9 1 UK-4
+8 10 UK-4
+

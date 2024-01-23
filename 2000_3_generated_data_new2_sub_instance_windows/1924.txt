@@ -1,0 +1,41 @@
+12
+MP*-Bandizip.exe
+SF-C:\Program Files\AnyDesk\AnyDesk.exe
+TF-www.bing.c
+MF-C:\Windows\System32\notepad
+TF-c:\Users\admin\AppData\Local\Temp\CSCF2B3.tmp
+MF-PsExec.exe
+MF-C:\Users\admin\AppData\Local\Temp\ycard
+TP*-file.exe 
+TF-C:\Users\admin\AppData\Local\Temp\Approval
+MP*-GLJC215.tmp
+TP-mimikatz.exe
+TP*-C:\Windows\System32\msiexec.exe
+26
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 EX-1
+0 5 RD-1
+0 6 RD-1
+0 7 FR-1
+7 1 WR-2
+7 2 RD-2
+7 3 RD-2
+7 4 RD-2
+7 5 WR-2
+7 6 WR-2
+0 8 WR-1
+7 8 RD-2
+0 9 FR-1
+9 1 RD-3
+9 2 EX-3
+9 3 WR-3
+9 4 UK-3
+0 10 UK-1
+11 2 RD-4
+11 3 WR-4
+11 5 EX-4
+11 6 WR-4
+7 11 UK-2
+

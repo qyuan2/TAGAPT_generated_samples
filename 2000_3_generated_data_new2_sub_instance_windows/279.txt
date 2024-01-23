@@ -1,0 +1,44 @@
+13
+MP*-ns921C.tmp
+MF-C:\Users\admin\AppData\Local\Temp\ursnif
+MP*-yonr.exe 
+SF-C:\Users\admin\AppData\Local\Temp\AnyDesk
+MF-C:\Users\admin\AppData\Local\Temp\card
+TP*-ROUTE.EXE
+TF-ping.exe
+MP*-diskshadow.exe
+MF-C:\Users\admin\AppData\Local\Temp\FrequencyMeasurement.exe
+TF-\Users\admin\AppData\Roaming\olsptrs\olsptrs.exe
+SF-C:\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67.exe
+MF-%temp%\deleteme_T1551.004
+TF-%temp%\SAMvss
+28
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+0 3 WR-1
+2 3 CD-2
+0 4 WR-1
+2 4 RD-2
+0 5 IJ-1
+5 1 WR-3
+2 5 IJ-2
+5 3 WR-3
+5 4 WR-3
+0 6 RD-1
+2 6 WR-2
+5 6 RD-3
+0 7 FR-1
+7 1 WR-4
+7 3 WR-4
+7 4 WR-4
+5 7 UK-3
+0 8 CD-1
+2 8 WR-2
+0 9 WR-1
+2 9 EX-2
+0 10 WR-1
+2 10 WR-2
+2 11 WR-2
+2 12 WR-2
+

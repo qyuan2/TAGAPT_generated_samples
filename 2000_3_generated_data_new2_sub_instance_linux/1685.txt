@@ -1,0 +1,68 @@
+21
+MP*-dd
+MF-art.sh
+MP*-grep
+MF-flag3.txt
+MP-awk
+SF-2017.pl
+MP-cat
+SF-robots.txt
+TP*-awk
+MF-httpd.c
+MP-w
+MP-bash
+MF-raj.txt
+TF-da-ks.cfg
+TP-grep
+MF-T1070.006-reference.txt
+MP*-crontab
+MF-syslog.c
+MF-test.txt
+SF-chttp.c
+MF-sysctl.c
+44
+0 1 WR-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 WR-2
+0 4 FR-1
+4 1 WR-2
+2 4 UK-2
+0 5 RD-1
+0 6 FR-1
+6 1 EX-2
+6 3 UK-2
+0 7 WR-1
+0 8 IJ-1
+8 1 EX-3
+8 5 RD-3
+8 7 WR-3
+0 9 WR-1
+8 9 UK-3
+0 10 FR-1
+10 1 RD-3
+10 5 RD-3
+10 7 WR-3
+11 1 WR-3
+11 5 CD-3
+11 7 UK-3
+10 12 WR-3
+10 13 WR-3
+14 5 WR-3
+10 14 IJ-3
+14 12 RD-3
+14 13 UK-3
+10 15 WR-3
+10 16 FR-3
+16 12 RD-4
+16 15 WR-4
+10 17 WR-3
+16 17 EX-4
+10 18 WR-3
+16 18 WR-4
+10 19 WR-3
+16 19 WR-4
+10 20 WR-3
+16 20 UK-4
+

@@ -1,0 +1,80 @@
+22
+MP*-ns9318.tmp
+MF-7.1.exe
+TP-vssadmin.exe
+TP-Uninstall.exe 
+TP-prevhost.exe
+MF-www.suzhouca.c
+MP*-reg.exe
+TP*-dkeyauth.exe 
+TP-ipconfig.exe
+TP-Spora.exe 
+SF-C:\Users\Public\d2xc185.vb
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+MF-\Users\admin\AppData\Local\Temp\emotet_exe_e4_8fb2c48223952ffa157c8a0b9ab98e9f8b2924f7b8aa1faef94f3adc91eb8b61_2022-03-17__084608.exe
+TF-C:\Users\admin\AppData\Local\Temp\NP232375OF1V04LRD3C096_EAWB
+TF-C:\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9
+TP-RegAsm.exe
+MF-\Users\Public\coinmarketcap\coinmarketcap.vb
+TF-MsMpEng.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+MF-C:\Users\admin\AppData\Local\Temp\6248
+MF-C:\Users\admin\AppData\Local\Temp\KAT08
+MP*-attrib.exe
+55
+0 1 WR-1
+0 2 IJ-1
+2 1 UK-1
+0 3 IJ-1
+0 4 UK-1
+3 5 RD-1
+3 6 FR-1
+6 5 WR-2
+3 7 IJ-1
+7 5 WR-3
+6 7 IJ-2
+3 8 FR-1
+8 5 RD-3
+6 8 UK-2
+3 9 FR-1
+9 5 WR-3
+7 9 IJ-3
+3 10 WR-1
+7 10 WR-3
+9 10 RD-3
+3 11 WR-1
+7 11 WR-3
+9 11 WR-3
+3 12 CD-1
+7 12 RD-3
+9 12 EX-3
+3 13 WR-1
+7 13 WR-3
+9 13 WR-3
+7 14 WR-3
+9 14 WR-3
+15 5 EX-3
+7 15 IJ-3
+9 15 IJ-3
+15 10 WR-3
+15 11 RD-3
+15 12 EX-3
+15 13 WR-3
+15 14 EX-3
+7 16 WR-3
+9 16 RD-3
+15 16 WR-3
+7 17 WR-3
+9 17 EX-3
+15 17 WR-3
+18 9 RF-3
+18 15 RF-3
+9 19 WR-3
+15 19 RD-3
+15 20 WR-3
+21 11 WR-4
+21 12 WR-4
+21 13 WR-4
+21 14 EX-4
+15 21 UK-3
+

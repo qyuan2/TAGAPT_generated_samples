@@ -1,0 +1,40 @@
+13
+MP*-net.exe
+TP*-oneetx.exe 
+TP-WinAPIOverride 6.9.1.tmp
+MP*-verclsid.exe
+MF-\Users\admin\Downloads\MDE_File_Sample_bc548dd6003002ec5d288b30d1802e3bb6bcbfde4d8d8a40fc7fb5a9e21a3c09.zip
+TF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe
+MP-explorer.exe
+TP-LZ4-SOFT.exe 
+SO-hxxp://fiordan.ru/FILM.html
+SO-https://onapsis.com/onapsis-platform
+MP*-anydesk.exe
+MF-C:\Program files\ntuser.dat
+MP-IBM_Centosi.exe 
+24
+0 1 IJ-1
+0 2 IJ-1
+1 2 IJ-2
+0 3 FR-1
+1 3 IJ-2
+2 3 IJ-2
+0 4 WR-1
+1 4 WR-2
+2 4 RD-2
+3 4 UK-3
+0 5 WR-1
+1 5 RD-2
+2 5 RD-2
+0 6 UK-1
+1 7 UK-2
+8 2 RF-2
+2 9 ST-2
+2 10 IJ-2
+10 5 WR-4
+8 10 RF-4
+9 10 RF-2
+2 11 RD-2
+10 11 UK-4
+2 12 UK-2
+

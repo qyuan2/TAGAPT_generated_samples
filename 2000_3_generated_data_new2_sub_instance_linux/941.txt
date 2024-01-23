@@ -1,0 +1,40 @@
+11
+MP*-perl
+SO-192.168.206.136
+MF-T1074.001_discovery.log
+MF-backsup.sh
+MP*-awk
+MP*-find
+TP-more
+TP-dd
+MF-at.a
+MP*-uname
+TP-paste
+26
+1 0 RF-1
+0 2 RD-1
+0 3 WR-1
+0 4 FR-1
+4 1 ST-2
+4 2 RD-2
+4 3 WR-2
+0 5 FR-1
+5 1 ST-3
+5 2 WR-3
+5 3 WR-3
+4 5 UK-2
+0 6 FR-1
+6 1 ST-3
+6 2 EX-3
+6 3 UK-3
+0 7 FR-1
+7 1 ST-3
+7 2 RD-3
+0 8 WR-1
+7 8 UK-3
+1 9 RF-2
+9 2 WR-4
+10 1 ST-4
+10 2 CD-4
+9 10 UK-4
+

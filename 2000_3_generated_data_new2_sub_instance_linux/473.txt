@@ -1,0 +1,78 @@
+24
+MP*-tee
+TF-passwd.zip
+MF-ttpd.c
+SO-192.168.10.133
+MP*-uname
+SF-art.sh
+MF-da-ks.cfg
+MF-chttp.c
+SF-ufw.log
+MF-os.sys
+MP-grep
+SO-192.168.1.1
+MF-resolv.c
+MF-raft-large-directories.txt
+TF-echo-art-fish.sh
+TP*-sed
+MP*-awk
+MF-raft-medium-directories.txt
+MF-raft-medium-directories.txt
+SO-192.168.206.136
+TF-rockyou.txt
+TF-inetd.c
+MF-flag3.txt
+MP-id
+51
+0 1 WR-1
+0 2 RD-1
+0 3 ST-1
+0 4 FR-1
+4 1 EX-2
+4 2 WR-2
+3 4 RF-1
+0 5 WR-1
+4 5 WR-2
+0 6 WR-1
+4 6 WR-2
+0 7 EX-1
+4 7 RD-2
+0 8 WR-1
+4 8 RD-2
+0 9 WR-1
+4 9 UK-2
+0 10 FR-1
+10 1 WR-2
+10 2 RD-2
+3 10 RF-1
+10 5 WR-2
+10 6 WR-2
+10 7 RD-2
+10 8 EX-2
+10 11 ST-2
+10 12 WR-2
+10 13 RD-2
+10 14 RD-2
+15 5 CD-3
+15 6 RD-3
+15 7 EX-3
+15 8 WR-3
+10 15 IJ-2
+15 11 ST-3
+15 12 WR-3
+15 13 RD-3
+15 14 EX-3
+16 6 RD-4
+16 7 RD-4
+16 8 RD-4
+10 16 UK-2
+15 17 CD-3
+15 18 WR-3
+15 19 ST-3
+15 20 RD-3
+15 21 WR-3
+15 22 WR-3
+23 13 RD-4
+23 14 RD-4
+15 23 UK-3
+

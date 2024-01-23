@@ -1,0 +1,89 @@
+27
+MP-bash
+MP-sh
+SF-T1027-004-test.c
+TP-less
+TP-tail
+MF-os.exe
+MP-whoami
+MP-tail
+MP*-cat
+MF-log.c
+MF-image.php
+MF-raft-large-directories.txt
+SF-T1003.008.txt
+MP*-netstat
+MP-less
+MP-touch
+TP*-find
+MF-raft-medium-directories.txt
+MP*-head
+MF-io.r
+MP-less
+MF-at.a
+MF-chttp.c
+SF-d.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+TF-os.exe
+MP-more
+59
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+0 3 UK-1
+1 4 FR-1
+4 2 CD-1
+1 5 WR-1
+4 5 WR-1
+1 6 UK-1
+7 2 WR-1
+4 7 UK-1
+8 2 CD-1
+8 5 WR-1
+8 9 WR-1
+8 10 WR-1
+8 11 EX-1
+8 12 WR-1
+13 5 WR-2
+13 9 WR-2
+13 10 RD-2
+13 11 CD-2
+13 12 EX-2
+14 5 UK-2
+8 15 FR-1
+15 9 UK-2
+8 16 IJ-1
+16 10 RD-3
+16 11 RD-3
+16 12 EX-3
+13 16 IJ-2
+8 17 WR-1
+13 17 WR-2
+16 17 WR-3
+8 18 FR-1
+18 10 EX-4
+18 11 EX-4
+18 12 CD-4
+16 18 IJ-3
+18 17 EX-4
+13 19 WR-2
+16 19 WR-3
+18 19 RD-4
+20 10 WR-4
+20 11 WR-4
+20 12 EX-4
+13 20 UK-2
+16 21 RD-3
+18 21 WR-4
+16 22 RD-3
+18 22 WR-4
+16 23 WR-3
+18 23 RD-4
+24 16 RF-3
+24 18 RF-4
+16 25 RD-3
+18 25 RD-4
+16 26 FR-3
+26 17 RD-4
+18 26 UK-4
+

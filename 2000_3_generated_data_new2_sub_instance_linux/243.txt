@@ -1,0 +1,52 @@
+16
+MP*-grep
+MF-2017.pl
+MP*-sed
+MF-T1027-004-test.c
+TP-paste
+SF-LinEnum.sh
+MF-d.c
+MP-sed
+MP-pr
+MP*-cat
+MP*-uname
+MP-dmesg
+MP-grep
+MP-curl
+MF-T1003.008.txt
+TP-less
+33
+0 1 EX-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 RD-2
+0 4 FR-1
+4 1 EX-2
+2 4 UK-2
+0 5 RD-1
+0 6 CD-1
+0 7 FR-1
+7 1 WR-2
+7 3 UK-2
+0 8 UK-1
+9 1 WR-3
+9 5 WR-3
+9 6 WR-3
+10 1 WR-4
+10 5 RD-4
+10 6 WR-4
+9 10 UK-3
+11 1 WR-4
+11 5 WR-4
+11 6 WR-4
+12 5 RD-4
+12 6 WR-4
+11 12 UK-4
+13 5 WR-4
+13 6 WR-4
+13 14 EX-4
+15 5 RD-4
+15 6 CD-4
+13 15 UK-4
+

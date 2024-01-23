@@ -1,0 +1,110 @@
+28
+MP*-less
+MF-inetd.c
+SF-flag3.txt
+TP-paste
+TF-chttp.c
+MF-journald.c
+TF-raj.txt
+TP-ftp
+SF-access.htm
+TP-tar
+SF-lighttpd.c
+SF-Users.tar.gz
+MP*-sed
+MP-dd
+SO-192.168.47.155
+TP-less
+MP-awk
+SO-192.168.47.155
+SO-http://192.168.10.128/shell.cgi
+MF-e.c
+SF-target.example.c
+MP-ls
+TP*-tac
+MP*-less
+SO-192.168.2.102
+MF-www.google.c
+MP-cat
+MP-cat
+79
+0 1 CD-1
+0 2 RD-1
+0 3 IJ-1
+3 1 WR-1
+3 2 RD-1
+0 4 RD-1
+3 4 EX-1
+0 5 EX-1
+3 5 WR-1
+0 6 WR-1
+3 6 RD-1
+0 7 FR-1
+7 1 WR-1
+7 2 CD-1
+3 7 IJ-1
+7 4 RD-1
+7 5 WR-1
+7 6 WR-1
+0 8 UK-1
+9 1 WR-1
+9 2 WR-1
+3 9 IJ-1
+9 4 WR-1
+9 5 WR-1
+9 6 RD-1
+7 9 UK-1
+3 10 RD-1
+3 11 WR-1
+12 2 RD-2
+3 12 IJ-1
+12 4 WR-2
+12 5 WR-2
+12 6 WR-2
+12 10 EX-2
+12 11 EX-2
+3 13 UK-1
+12 14 ST-2
+15 5 WR-2
+15 6 WR-2
+15 10 RD-2
+15 11 RD-2
+12 15 UK-2
+16 6 WR-2
+16 10 RD-2
+16 11 WR-2
+14 16 RF-2
+16 17 ST-2
+18 16 RF-2
+16 19 RD-2
+16 20 WR-2
+21 11 WR-2
+21 14 ST-2
+16 21 UK-2
+22 14 ST-3
+22 17 ST-3
+18 22 RF-3
+22 19 RD-3
+22 20 WR-3
+14 23 RF-2
+23 17 ST-4
+18 23 RF-4
+23 19 WR-4
+23 20 RD-4
+22 23 IJ-3
+22 24 ST-3
+24 23 RF-3
+22 25 EX-3
+23 25 WR-4
+26 17 ST-4
+26 18 ST-4
+26 19 CD-4
+26 20 WR-4
+22 26 IJ-3
+23 26 UK-4
+27 17 ST-4
+18 27 RF-4
+27 19 EX-4
+27 20 WR-4
+22 27 UK-3
+

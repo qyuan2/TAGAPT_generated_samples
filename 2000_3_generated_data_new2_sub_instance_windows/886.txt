@@ -1,0 +1,32 @@
+12
+MP*-E63F.exe
+TF-sqlservr.exe
+MF-\Users\admin\AppData\Roaming\Nixware.exe
+MP*-pktmon.exe
+MF-C:\Users\admin\AppData\Local\Temp\skmt-bankinter-003-03588993232059560257100458.jar
+SO-file://C:\windows\system32\notepad.exe
+MF-C:\Users\admin\AppData\Local\Temp\Client
+TP*-aafg31.exe 
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-C:\Users\admin\Desktop\readme
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\Reader_sl
+MP*-p2602380.exe
+17
+0 1 RD-1
+0 2 RD-1
+0 3 FR-1
+3 1 WR-2
+3 2 WR-2
+0 4 EX-1
+3 4 RD-2
+0 5 ST-1
+5 3 RF-1
+0 6 RD-1
+3 6 WR-2
+7 1 UK-3
+3 8 ST-2
+3 9 WR-2
+3 10 WR-2
+11 2 WR-4
+3 11 UK-2
+

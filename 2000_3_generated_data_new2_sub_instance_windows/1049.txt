@@ -1,0 +1,39 @@
+12
+MP*-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MF-cmstp.exe
+MP*-MSBuild.exe
+TF-C:\Users\admin\AppData\Local\Temp\KMSpico_setup
+MF-\Users\admin\AppData\Local\Temp\renamer-7.5.exe
+MP*-msdt.exe
+MF-Explorer\DOMStore\reviewref_protected.exe
+MP*-Redline Activate.exe 
+MP-mshta.exe
+MF-C:\Users\admin\AppData\Local\Temp\jww825a.exe
+SF-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+MF-C:\Users\Public\coinmarketcap\1.bat
+24
+0 1 WR-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 WR-2
+0 4 EX-1
+2 4 EX-2
+0 5 FR-1
+5 1 WR-3
+2 5 UK-2
+0 6 WR-1
+0 7 FR-1
+7 1 RD-4
+7 3 WR-4
+7 4 WR-4
+7 6 WR-4
+0 8 FR-1
+8 1 EX-4
+8 3 UK-4
+0 9 WR-1
+7 9 RD-4
+0 10 RD-1
+7 10 CD-4
+7 11 UK-4
+

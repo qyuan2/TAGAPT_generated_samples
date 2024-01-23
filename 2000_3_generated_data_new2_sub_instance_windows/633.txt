@@ -1,0 +1,40 @@
+11
+MP*-msedge.exe
+MP-regsvr32.exe
+MP-client32.exe
+MF-C:\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV.exe
+MF-C:\Users\admin\AppData\Local\Temp\601f2b22a16a96c9ddaae24e2c5611f2.exe
+MP*-cacls.exe
+TP*-rundll32.exe
+SF-%temp%\bitsadmin1_flag.ps1
+TP-suifsc.exe 
+TP*-nsA299.tmp
+MP-powershell.exe
+26
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 RD-1
+0 5 FR-1
+5 3 EX-2
+5 4 WR-2
+0 6 IJ-1
+6 3 EX-3
+6 4 RD-3
+5 6 IJ-2
+0 7 RD-1
+5 7 WR-2
+6 7 CD-3
+0 8 IJ-1
+8 3 WR-3
+8 4 CD-3
+5 8 UK-2
+0 9 FR-1
+9 3 WR-4
+9 4 WR-4
+6 9 UK-3
+10 3 WR-4
+10 4 WR-4
+10 7 UK-4
+

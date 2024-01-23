@@ -1,0 +1,36 @@
+12
+MP*-863e7c22c771e4005197ae28363584f8.exe 2620
+MF-C:\Windows\system32\reg.exe
+MF-C:\Users\admin\MicrosoftUpdate.exe
+MF-C:\Users\admin\AppData\Local\Temp\601f2b22a16a96c9ddaae24e2c5611f2.exe
+MF-DOCUMENT.rar
+TP-firefox.exe
+TP*-_vnw.exe
+MF-C:\Windows\System32\taskkill.exe
+MP*-AkrienBetarar_cDyIa.exe 
+TF-\savesdllNetdhcp\System.exe
+MF-pktmon.exe
+MP*-vlc.exe 
+21
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 WR-1
+0 5 UK-1
+6 1 RD-2
+6 2 WR-2
+6 3 RD-2
+6 4 WR-2
+6 7 UK-2
+8 1 RD-3
+8 2 WR-3
+8 3 WR-3
+8 4 RD-3
+8 9 WR-3
+8 10 EX-3
+11 1 EX-4
+11 2 WR-4
+11 3 RD-4
+11 4 WR-4
+8 11 UK-3
+

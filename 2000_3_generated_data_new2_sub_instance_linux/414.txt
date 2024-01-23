@@ -1,0 +1,32 @@
+10
+MP*-nl
+MP*-cat
+TP*-awk
+MF-0*.txt
+MF-T1070.004-test.txt
+MP-dd
+TF-settings.php
+MF-http.c
+MP-bash
+MP*-awk
+19
+0 1 FR-1
+0 2 FR-1
+1 2 IJ-2
+0 3 RD-1
+1 3 EX-2
+2 3 RD-3
+0 4 WR-1
+1 4 WR-2
+2 4 WR-3
+0 5 FR-1
+1 5 UK-2
+0 6 RD-1
+2 6 WR-3
+0 7 EX-1
+2 7 WR-3
+0 8 FR-1
+2 8 UK-3
+0 9 FR-1
+9 3 UK-4
+

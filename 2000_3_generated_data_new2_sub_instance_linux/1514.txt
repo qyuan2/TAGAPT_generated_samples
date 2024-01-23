@@ -1,0 +1,40 @@
+11
+MP*-sudo
+TP*-bash
+TF-resolv.c
+MF-common.txt
+SO-192.168.37.130
+MP-cat
+MP*-vim
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+TP*-tail
+MF-T1003.008.txt
+MP-mknod
+26
+0 1 FR-1
+0 2 WR-1
+1 2 WR-2
+0 3 RD-1
+1 3 WR-2
+4 0 RF-1
+1 4 ST-2
+0 5 FR-1
+1 5 IJ-2
+5 2 UK-2
+0 6 FR-1
+1 6 IJ-2
+6 3 RD-3
+4 6 RF-2
+7 0 RF-1
+1 7 ST-2
+7 6 RF-2
+0 8 FR-1
+1 8 IJ-2
+8 3 WR-4
+4 8 RF-2
+6 8 UK-3
+0 9 WR-1
+1 9 WR-2
+0 10 FR-1
+1 10 UK-2
+

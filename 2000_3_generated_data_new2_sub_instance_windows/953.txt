@@ -1,0 +1,65 @@
+18
+MP*-icacls.exe
+MF-C:\Users\admin\AppData\Roaming\AppData\AppData.exe
+MF-\Windows\system32\nethtsrv.exe
+MP*-cmd.exe 
+SF-C:\Program files\appdata\local\temp\12382
+SF-C:\Users\admin\AppData\Local\Temp\468C.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\nsA317.tmp
+MP*-_vnw.exe
+MP-server.exe 
+MF-C:\Users\admin\AppData\Local\Temp\tmp91F1.tmp
+SF-C:\Path\AtomicRedTeam
+TF-RAT\test.exe
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\vbc.exe
+MP-AdFind.exe 
+MF-C:\Windows\system32\icacls.exe
+TP*-Curl.exe
+MP-TBHD AWB 1ZY0W5038626871089.exe
+MF-\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost.exe
+44
+0 1 WR-1
+0 2 WR-1
+0 3 FR-1
+3 1 RD-2
+3 2 WR-2
+0 4 WR-1
+3 4 WR-2
+0 5 RD-1
+3 5 CD-2
+0 6 WR-1
+3 6 RD-2
+0 7 FR-1
+7 1 WR-3
+7 2 EX-3
+7 4 WR-3
+7 5 WR-3
+7 6 WR-3
+0 8 FR-1
+8 1 CD-3
+8 2 WR-3
+3 8 UK-2
+0 9 RD-1
+7 9 WR-3
+7 10 WR-3
+7 11 WR-3
+7 12 RD-3
+13 4 RD-3
+13 5 UK-3
+7 14 WR-3
+15 6 WR-4
+7 15 IJ-3
+15 9 WR-4
+15 10 WR-4
+15 11 RD-4
+15 12 RD-4
+15 14 WR-4
+16 6 WR-4
+16 9 WR-4
+16 10 WR-4
+16 11 RD-4
+16 12 WR-4
+16 14 RD-4
+15 16 UK-4
+7 17 WR-3
+

@@ -1,0 +1,119 @@
+33
+MP-sysmon.exe
+MF-C:\Users\admin\AppData\Local\Temp\_vnw.exe
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+TP-OUTLOOK.EXE 
+TP-some_malicious_file.bin.exe
+TP*-test de fdp.exe 
+SF-c:\Backup
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+MP*-Register-CimProvider.exe
+MF-C:\Windows\system32\icacls
+MP-wbengine.exe
+MF-C:\Users\admin\AppData\Local\Temp\server
+MF-\Users\admin\bebulnhx.exe
+MF-StartupParameters.plist
+MP*-D18C.exe
+MF-\windows\system32\notepad.exe
+MP-oldplayer.exe 
+MP-LogTransport2.exe
+MP*-setspn.exe
+MP-updater.exe
+SF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus.exe
+MF-\Users\admin\AppData\Local\Temp\E63F.exe
+MF-C:\Users\admin\AppData\Local\Temp\EasyValorant
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MP-7za.exe
+MP-ntvdm.exe
+MF-\Users\User\8527.ico.vb
+MP-update.exe
+MP-regasm.exe
+SF-C:\Users\admin\AppData\Local\Temp\Detected_File_07A67941480C9E80209194B27284F1FA0E331246_20230901110701
+MF-\GnuPG\bin\gpg.exe
+TP-file.exe 
+MP-crypted.exe 
+83
+0 1 RD-1
+0 2 FR-1
+2 1 WR-1
+0 3 UK-1
+4 1 WR-1
+2 4 UK-1
+5 1 WR-1
+5 6 RD-1
+7 5 RF-1
+8 1 CD-2
+5 8 IJ-1
+8 6 WR-2
+8 7 ST-2
+5 9 WR-1
+8 9 RD-2
+10 1 WR-2
+5 10 IJ-1
+10 6 RD-2
+7 10 RF-2
+8 10 UK-2
+5 11 EX-1
+5 12 RD-1
+5 13 RD-1
+5 14 IJ-1
+14 6 WR-3
+7 14 RF-2
+14 9 WR-3
+14 11 RD-3
+14 12 WR-3
+14 13 WR-3
+5 15 WR-1
+14 15 RD-3
+16 6 EX-3
+16 7 ST-3
+16 9 EX-3
+16 11 RD-3
+16 12 WR-3
+16 13 WR-3
+14 16 UK-3
+7 17 RF-2
+17 9 RD-3
+17 11 RD-3
+17 12 RD-3
+17 13 EX-3
+17 15 WR-3
+18 9 RD-4
+18 11 WR-4
+18 12 WR-4
+18 13 WR-4
+18 15 RD-4
+19 11 WR-4
+19 12 UK-4
+18 20 WR-4
+18 21 WR-4
+18 22 RD-4
+18 23 ST-4
+24 15 WR-4
+18 24 UK-4
+25 20 WR-4
+25 21 WR-4
+25 22 RD-4
+23 25 RF-4
+25 26 WR-4
+27 20 EX-4
+27 21 RD-4
+27 22 WR-4
+27 23 ST-4
+25 27 UK-4
+28 20 WR-4
+28 21 RD-4
+28 22 RD-4
+28 23 ST-4
+28 26 WR-4
+28 29 WR-4
+28 30 WR-4
+31 21 WR-4
+31 22 WR-4
+23 31 RF-4
+31 26 WR-4
+28 31 UK-4
+32 22 RD-4
+32 23 ST-4
+32 26 UK-4
+

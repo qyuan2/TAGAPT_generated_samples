@@ -1,0 +1,32 @@
+12
+MP*-ns9AE8.tmp
+SF-C:\CrackMapExecWin\crackmapexec
+MP-Bill Of Lading.exe
+MP*-verclsid.exe
+MP-radmin scanner.exe 
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Skype for Desktop\Crashpad
+MF-Files\Java\jre1.8.0_92\bin\javaw.exe
+TP*-HxDSetup.exe 
+MF-Order.htm
+TP*-ss_protected.exe 
+MF-wuauclt.exe
+MF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves
+17
+0 1 RD-1
+0 2 UK-1
+3 1 EX-2
+4 1 UK-2
+3 5 EX-2
+3 6 EX-2
+3 7 IJ-2
+7 5 RD-3
+7 6 EX-3
+3 8 RD-2
+7 8 WR-3
+3 9 FR-2
+9 5 RD-4
+9 6 EX-4
+7 9 UK-3
+3 10 WR-2
+3 11 EX-2
+

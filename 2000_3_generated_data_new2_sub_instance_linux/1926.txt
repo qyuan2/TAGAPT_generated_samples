@@ -1,0 +1,77 @@
+21
+MP*-cat
+MF-resolv.c
+MF-settings.php
+MP-ifconfig
+TF-1.zip
+SO-123.6.44.67
+SF-alertConfigField.php
+MF-lighttp.c
+SF-shell.cgi
+MP-ifconfig
+MF-os.sys
+MP*-pr
+MF-on.a
+MF-ret.c
+TF-robots.txt
+MP-awk
+MP*-ls
+SF-art.sh
+TP*-more
+TP-go
+TP-cat
+53
+0 1 WR-1
+0 2 WR-1
+0 3 FR-1
+3 1 UK-1
+0 4 WR-1
+0 5 ST-1
+0 6 WR-1
+0 7 WR-1
+0 8 WR-1
+0 9 FR-1
+9 2 WR-1
+9 4 EX-1
+5 9 RF-1
+9 6 UK-1
+0 10 EX-1
+11 2 WR-2
+11 4 WR-2
+5 11 RF-1
+11 7 WR-2
+11 8 WR-2
+11 10 RD-2
+11 12 RD-2
+11 13 RD-2
+11 14 WR-2
+5 15 RF-1
+15 7 CD-2
+15 8 WR-2
+15 10 RD-2
+11 15 UK-2
+16 7 RD-3
+16 8 WR-3
+16 10 WR-3
+16 12 WR-3
+16 13 WR-3
+16 14 EX-3
+16 17 WR-3
+18 8 WR-4
+18 10 RD-4
+18 12 WR-4
+18 13 WR-4
+18 14 EX-4
+16 18 UK-3
+19 10 RD-4
+19 12 WR-4
+19 13 WR-4
+19 14 EX-4
+19 17 RD-4
+20 10 RD-4
+20 12 EX-4
+20 13 RD-4
+20 14 RD-4
+20 17 RD-4
+19 20 UK-4
+

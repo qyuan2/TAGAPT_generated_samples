@@ -1,0 +1,49 @@
+17
+MP*-PsExec.exe
+MF-\System32\notepad.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+MP-mshta.exe
+MP*-crackmapexec.exe
+MF-files\appdata\local\temp\20342.bmp.vb
+TF-\Windows\System32\notepad.exe
+SO-199.247.25.79
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
+TF-C:\Windows\SysWOW64\WerFault.exe
+TP*-LaZagne.exe
+MF-Files\Hantek2xx2\STDFUPRT.dll
+MF-get.php
+MP-wevtutil.exe
+MP*-wuauclt.exe
+SF-C:\Users\admin\AppData\Local\Temp\Pièce
+SF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta
+29
+0 1 WR-1
+2 0 RF-1
+0 3 UK-1
+4 1 EX-2
+4 2 ST-2
+4 5 RD-2
+4 6 WR-2
+7 4 RF-2
+4 8 WR-2
+4 9 WR-2
+10 1 WR-3
+2 10 RF-2
+4 10 IJ-2
+10 5 WR-3
+10 6 WR-3
+10 7 ST-3
+10 8 CD-3
+10 9 UK-3
+4 11 RD-2
+4 12 WR-2
+4 13 UK-2
+14 5 WR-4
+14 6 WR-4
+14 7 ST-4
+14 8 RD-4
+14 11 WR-4
+14 12 WR-4
+14 15 WR-4
+14 16 UK-4
+

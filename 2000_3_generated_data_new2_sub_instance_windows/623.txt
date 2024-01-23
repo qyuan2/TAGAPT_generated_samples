@@ -1,0 +1,45 @@
+12
+MP*-DriversHood.exe
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsCCFE.tmp
+MP-0b358566ef3d811318615ad96c082cf1.exe 
+TF-\Users\admin\AppData\Local\Temp\6248.exe
+MP-DCRatBuild.exe
+MF-\Users\admin\AppData\Local\Temp\EasyValorant.exe
+TP*-Updater.exe 
+MP*-vaultcmd.exe
+MF-C:\Windows\explorer.exe
+MP-nsBC6C.tmp
+MP*-nsA299.tmp
+MP-0b358566ef3d811318615ad96c082cf1.exe 
+30
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 WR-1
+2 3 WR-1
+0 4 FR-1
+4 1 WR-1
+2 4 UK-1
+0 5 RD-1
+0 6 IJ-1
+6 1 WR-2
+6 3 WR-2
+6 5 WR-2
+0 7 FR-1
+7 1 WR-3
+7 3 EX-3
+7 5 RD-3
+6 7 UK-2
+0 8 CD-1
+0 9 FR-1
+9 1 RD-3
+9 3 UK-3
+0 10 FR-1
+10 1 RD-4
+10 5 WR-4
+10 8 CD-4
+11 1 WR-4
+11 5 EX-4
+11 8 RD-4
+10 11 UK-4
+

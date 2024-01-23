@@ -1,0 +1,132 @@
+37
+MP*-id
+MF-alertConfigField.php
+SF-lighttp.c
+MF-T1003.008.txt
+MF-data.zip
+SF-at.a
+MP-netstat
+TP-netstat
+MP-paste
+MF-raft-large-directories.txt
+MF-flag4.txt
+TP-bash
+MP-whoami
+TP*-cat
+MF-journald.c
+MP-bash
+MP*-id
+MP-uname
+TP-uname
+MF-common.txt
+TF-T1027-004-test.c
+TF-logrotate.c
+TP-less
+SF-syslog.c
+MF-Users.tar.gz
+TP-whoami
+MF-subprocess.c
+MP-cat
+TF-journald.c
+MF-LinEnum.sh
+MF-CleaingScript.sh
+MP*-head
+MP-awk
+MF-atomic.sh
+SF-e.c
+MP-cat
+MP-who
+92
+0 1 RD-1
+0 2 WR-1
+0 3 RD-1
+0 4 WR-1
+0 5 RD-1
+0 6 FR-1
+6 1 UK-1
+0 7 UK-1
+8 2 RD-1
+8 3 WR-1
+8 4 RD-1
+8 5 WR-1
+8 9 CD-1
+8 10 EX-1
+11 2 RD-1
+11 3 UK-1
+12 2 WR-1
+12 4 RD-1
+12 5 CD-1
+8 12 UK-1
+13 4 WR-2
+13 5 WR-2
+13 9 WR-2
+13 10 RD-2
+13 14 WR-2
+15 5 EX-2
+15 9 RD-2
+15 10 UK-2
+16 9 RD-3
+13 16 IJ-2
+16 14 EX-3
+17 9 RD-3
+13 17 IJ-2
+17 14 UK-3
+18 9 RD-3
+13 18 IJ-2
+16 18 IJ-3
+13 19 EX-2
+16 19 WR-3
+18 19 RD-3
+13 20 WR-2
+16 20 EX-3
+18 20 RD-3
+13 21 EX-2
+16 21 CD-3
+18 21 RD-3
+13 22 IJ-2
+16 22 IJ-3
+18 22 IJ-3
+22 19 RD-3
+22 20 CD-3
+22 21 WR-3
+13 23 EX-2
+16 23 EX-3
+18 23 EX-3
+22 23 UK-3
+16 24 WR-3
+18 24 RD-3
+16 25 FR-3
+18 25 IJ-3
+25 19 RD-3
+25 20 RD-3
+25 21 RD-3
+25 24 RD-3
+16 26 CD-3
+18 26 RD-3
+25 26 WR-3
+18 27 UK-3
+25 28 WR-3
+25 29 WR-3
+25 30 WR-3
+31 21 CD-4
+31 24 WR-4
+25 31 IJ-3
+31 26 WR-4
+31 28 WR-4
+31 29 RD-4
+31 30 RD-4
+32 24 WR-4
+25 32 UK-3
+31 33 WR-4
+31 34 RD-4
+35 26 WR-4
+35 28 WR-4
+35 29 WR-4
+35 30 EX-4
+31 35 UK-4
+36 26 CD-4
+36 28 WR-4
+36 29 EX-4
+36 30 RD-4
+36 33 UK-4
+

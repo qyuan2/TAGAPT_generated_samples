@@ -1,0 +1,79 @@
+20
+MP*-setenforce 
+SF-anaconda-ks.cfg
+MF-backsup.sh
+MF-td.c
+SO-192.168.47.134:4444
+MF-com.apple.loginwindow.plist
+MF-chttp.c
+MP*-less
+MP*-more
+MF-sysctl.c
+SF-settings.php
+MP*-ftp
+MF-target.example.c
+MF-access.txt
+TF-data.zip
+SF-rockyou.txt
+MP-cat
+MP-dd
+TP-netstat
+TP-ls
+56
+0 1 RD-1
+0 2 EX-1
+0 3 WR-1
+0 4 ST-1
+0 5 RD-1
+0 6 WR-1
+0 7 FR-1
+7 1 RD-2
+7 2 WR-2
+7 3 WR-2
+4 7 RF-1
+7 5 WR-2
+7 6 WR-2
+0 8 FR-1
+8 1 WR-3
+8 2 WR-3
+8 3 RD-3
+8 4 ST-3
+8 5 WR-3
+8 6 WR-3
+0 9 EX-1
+7 9 WR-2
+8 9 EX-3
+0 10 WR-1
+7 10 WR-2
+8 10 CD-3
+11 1 EX-4
+11 2 RD-4
+11 3 WR-4
+4 11 RF-1
+11 5 RD-4
+11 6 RD-4
+7 11 UK-2
+8 12 RD-3
+8 13 RD-3
+8 14 WR-3
+8 15 WR-3
+16 6 RD-4
+8 16 UK-3
+17 9 WR-4
+17 10 EX-4
+17 12 CD-4
+17 13 WR-4
+17 14 EX-4
+17 15 WR-4
+18 9 RD-4
+18 10 WR-4
+18 12 RD-4
+18 13 EX-4
+18 14 UK-4
+19 9 EX-4
+19 10 EX-4
+19 12 RD-4
+19 13 WR-4
+19 15 WR-4
+17 19 UK-4
+

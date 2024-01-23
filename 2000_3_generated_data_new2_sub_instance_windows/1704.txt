@@ -1,0 +1,75 @@
+21
+MP*-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+TP-file.exe
+MF-C:\Users\admin\Desktop\script
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym
+MP*-BFB9.exe
+TP*-ns9510.tmp
+TP*-pr2.exe 
+MF-C:\Program files\appdata\local\temp\20342.bmp
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+MP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+MP-SecuriteInfo.com
+MF-C:\Users\admin\AppData\Local\Temp\EBDE
+TF-test.png
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86
+TP-netsh.exe
+MP-Heapman45.exe.tmp
+MF-C:\Windows\System32\calc
+MF-c:\windows\system32\msiexec
+MF-.\T1071.004\src\T1071-dns-beacon.ps1
+MF-C:\Users\admin\AppData\Local\Temp\0520c252-bcdc-4fcf-b657-4d4cf2b0bde1.cab
+MF-C:\Users\admin\Desktop\Setup\Installer
+51
+0 1 IJ-1
+0 2 EX-1
+1 2 RD-1
+0 3 WR-1
+1 3 UK-1
+0 4 FR-1
+4 2 WR-2
+0 5 FR-1
+5 2 WR-3
+4 5 IJ-2
+0 6 FR-1
+6 2 RD-4
+4 6 IJ-2
+5 6 IJ-3
+0 7 WR-1
+4 7 WR-2
+5 7 WR-3
+6 7 CD-4
+0 8 ST-1
+4 8 ST-2
+8 5 RF-2
+8 6 RF-2
+0 9 FR-1
+9 2 WR-4
+4 9 UK-2
+0 10 FR-1
+10 2 WR-4
+5 10 IJ-3
+6 10 IJ-4
+10 7 UK-4
+5 11 UK-3
+6 12 EX-4
+6 13 RD-4
+6 14 FR-4
+14 8 ST-4
+14 12 RD-4
+14 13 EX-4
+6 15 FR-4
+8 15 RF-4
+15 12 WR-4
+15 13 WR-4
+14 15 IJ-4
+6 16 WR-4
+14 16 RD-4
+15 16 EX-4
+14 17 WR-4
+15 17 WR-4
+14 18 WR-4
+15 18 WR-4
+14 19 UK-4
+15 20 UK-4
+

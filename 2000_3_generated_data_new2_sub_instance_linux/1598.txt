@@ -1,0 +1,35 @@
+11
+MP*-perl
+MP*-sed
+MF-ufw.c
+MP-sudo
+SF-te.c
+MF-logrotate.c
+MF-www.google.c
+TP*-ls
+MP*-dd
+MF-raw.githubusercontent.c
+MP-cat
+21
+0 1 FR-1
+0 2 WR-1
+1 2 WR-2
+0 3 FR-1
+1 3 UK-2
+0 4 EX-1
+0 5 WR-1
+0 6 RD-1
+0 7 FR-1
+7 2 WR-3
+7 4 WR-3
+7 5 WR-3
+7 6 WR-3
+0 8 FR-1
+8 2 WR-4
+8 4 EX-4
+8 5 RD-4
+8 6 EX-4
+7 8 UK-3
+0 9 WR-1
+10 2 UK-4
+

@@ -1,0 +1,43 @@
+12
+MP-rm
+SF-syslog.c
+TP*-echo 
+MF-inetd.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-flag4.txt
+MP-nl
+TP*-cat
+MF-s.c
+MP*-less
+MP-cat
+MP*-tee
+28
+0 1 EX-1
+2 1 WR-1
+2 3 RD-1
+2 4 ST-1
+2 5 WR-1
+6 1 WR-1
+2 6 UK-1
+7 1 WR-2
+7 3 WR-2
+7 4 ST-2
+7 5 WR-2
+7 8 RD-2
+9 1 WR-3
+9 3 RD-3
+9 4 ST-3
+9 5 WR-3
+7 9 IJ-2
+9 8 EX-3
+10 1 WR-3
+10 3 WR-3
+4 10 RF-1
+10 5 RD-3
+7 10 UK-2
+11 3 WR-4
+4 11 RF-1
+11 5 WR-4
+11 8 WR-4
+9 11 UK-3
+

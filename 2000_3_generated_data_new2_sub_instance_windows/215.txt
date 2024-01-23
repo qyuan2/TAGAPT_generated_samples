@@ -1,0 +1,34 @@
+11
+MP*-OUTLOOK.EXE
+MF-\Users\admin\AppData\Local\Temp\msetup\operasetup.exe
+TF-\Users\admin\Desktop\jerkoff.exe
+MF-C:\Users\Public\Pictures\deep-thoughted.ppt
+MF-C:\Windows\System32\vdsldr.exe
+MP*-AdFind.exe
+SF-C:\Windows\system32\pnpui
+MP*-Purchase_ORDERS087.scr
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MF-C:\Users\admin\AppData\Local\Temp\analyssifilename
+MP*-build2.exe 
+20
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 1 WR-2
+5 2 RD-2
+5 3 WR-2
+5 4 RD-2
+0 6 WR-1
+5 6 WR-2
+0 7 FR-1
+7 1 RD-3
+7 2 WR-3
+7 3 UK-3
+0 8 ST-1
+5 8 ST-2
+5 9 CD-2
+10 4 WR-4
+5 10 UK-2
+

@@ -1,0 +1,40 @@
+12
+MP*-Notepad.exe
+TP*-C3B1.exe
+TF-\Windows\system32\verclsid.exe
+MP-ytfovlym.exe
+MP-appcmd.exe
+MF-\Users\admin\AppData\Local\Temp\emotet_exe_e4_8fb2c48223952ffa157c8a0b9ab98e9f8b2924f7b8aa1faef94f3adc91eb8b61_2022-03-17__084608.exe
+TP*-wmpnscfg.exe
+SF-C:\Program files\appdata\local\temp\22333
+MP*-hh.exe 
+MF-\Users\admin\AppData\Local\Temp\0crbfnw1.cmd
+MP-ns9FC4.tmp
+MF-C:\Users\admin\Desktop\5bc24af72c243ca1617a8e0125d75cb45b93cd82
+25
+0 1 IJ-1
+0 2 RD-1
+1 2 RD-2
+0 3 FR-1
+1 3 IJ-2
+3 2 WR-2
+0 4 FR-1
+1 4 UK-2
+0 5 WR-1
+3 5 WR-2
+0 6 IJ-1
+6 2 RD-3
+3 6 IJ-2
+6 5 WR-3
+0 7 RD-1
+3 7 WR-2
+6 7 WR-3
+0 8 FR-1
+8 2 WR-4
+8 5 WR-4
+6 8 UK-3
+0 9 CD-1
+3 9 RD-2
+0 10 UK-1
+3 11 WR-2
+

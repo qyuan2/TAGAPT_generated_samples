@@ -1,0 +1,69 @@
+20
+MP*-uname
+MP-paste
+MP-less
+SO-http://192.168.10.128/shell.cgi
+MP-bash
+MF-d.c
+MF-raw.githubusercontent.c
+SF-raft-large-directories.txt
+MP*-cat
+SF-2017.pl
+MP*-dd
+MP-head
+SO-192.168.10.131
+MF-CleaingScript.sh
+MF-data.zip
+TP*-vi
+MP-curl
+SF-locale.c
+SO-192.168.10.129
+TP-uname
+46
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+3 0 RF-1
+0 4 FR-1
+3 4 RF-1
+0 5 WR-1
+4 5 UK-1
+0 6 RD-1
+0 7 WR-1
+0 8 FR-1
+8 3 ST-2
+8 6 WR-2
+8 7 RD-2
+0 9 RD-1
+8 9 WR-2
+0 10 FR-1
+10 3 ST-3
+10 6 WR-3
+10 7 WR-3
+8 10 UK-2
+3 11 RF-2
+11 6 WR-3
+11 7 RD-3
+11 9 WR-3
+12 11 RF-3
+11 13 RD-3
+11 14 RD-3
+15 6 WR-4
+15 7 WR-4
+15 9 RD-4
+11 15 IJ-3
+15 12 ST-4
+15 13 RD-4
+15 14 RD-4
+16 6 CD-4
+16 7 WR-4
+16 9 WR-4
+11 16 UK-3
+15 17 RD-4
+18 15 RF-4
+19 9 RD-4
+12 19 RF-4
+19 13 WR-4
+19 14 WR-4
+15 19 UK-4
+

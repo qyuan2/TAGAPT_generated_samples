@@ -1,0 +1,135 @@
+34
+MP*-ip
+MF-T1574.006.c
+MP*-cat
+SO-192.168.10.128
+SF-httpd.c
+MP-grep
+MP-uname
+MP-cp
+MF-raft-large-directories.txt
+MP-find
+MP-head
+SF-shell.cgi
+TP-tee
+MP*-cat
+SF-pwquality.c
+SF-raft-medium-directories.txt
+TF-LinEnum.sh
+MF-settings.php
+SF-image.php
+MF-access.htm
+TF-secret.c
+MP-chmod
+MP-sed
+MP*-netstat
+TP-more
+MF-0*.txt
+MF-cron.h
+TP-head
+SF-LinEnum.sh
+MF-shell.cgi
+MF-raft-medium-directories.txt
+TF-te.c
+MP-grep
+MF-settings.php
+98
+0 1 WR-1
+0 2 FR-1
+2 1 WR-2
+3 0 RF-1
+2 3 ST-2
+0 4 RD-1
+2 4 RD-2
+0 5 FR-1
+5 1 WR-2
+2 5 UK-2
+0 6 FR-1
+6 1 WR-2
+6 3 ST-2
+6 4 WR-2
+0 7 FR-1
+7 1 RD-2
+7 3 ST-2
+7 4 WR-2
+6 7 UK-2
+0 8 RD-1
+0 9 FR-1
+9 1 WR-2
+3 9 RF-2
+9 4 WR-2
+9 8 WR-2
+0 10 FR-1
+10 1 EX-2
+10 3 ST-2
+10 4 CD-2
+10 8 UK-2
+9 11 EX-2
+3 12 RF-2
+12 4 RD-2
+9 12 IJ-2
+12 11 RD-2
+13 3 ST-3
+13 4 RD-3
+13 11 WR-3
+12 13 IJ-2
+9 14 WR-2
+12 14 RD-2
+13 14 WR-3
+9 15 WR-2
+12 15 WR-2
+13 15 EX-3
+9 16 EX-2
+12 16 WR-2
+13 16 WR-3
+9 17 RD-2
+12 17 WR-2
+13 17 EX-3
+9 18 WR-2
+12 18 WR-2
+13 18 EX-3
+9 19 WR-2
+12 19 WR-2
+13 19 WR-3
+12 20 UK-2
+21 11 WR-3
+13 21 UK-3
+22 14 RD-3
+22 15 RD-3
+22 16 WR-3
+22 17 UK-3
+23 14 WR-4
+23 15 RD-4
+23 16 EX-4
+23 18 WR-4
+23 19 RD-4
+24 14 RD-4
+24 15 EX-4
+24 16 RD-4
+24 18 WR-4
+24 19 WR-4
+23 24 IJ-4
+23 25 WR-4
+24 25 RD-4
+23 26 WR-4
+24 26 WR-4
+27 18 WR-4
+27 19 WR-4
+23 27 IJ-4
+24 27 IJ-4
+27 25 RD-4
+27 26 WR-4
+23 28 RD-4
+24 28 WR-4
+27 28 RD-4
+23 29 WR-4
+24 29 WR-4
+27 29 UK-4
+23 30 EX-4
+24 30 EX-4
+23 31 WR-4
+24 31 CD-4
+23 32 FR-4
+24 32 UK-4
+23 33 WR-4
+

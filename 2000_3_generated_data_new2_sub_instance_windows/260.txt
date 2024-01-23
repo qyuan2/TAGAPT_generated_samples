@@ -1,0 +1,77 @@
+23
+MP-svchost.exe
+MF-C:\Users\admin\Documents\sample
+MF-Recycling.pdf
+MP-MadInjector\MadInjector.exe 
+TP*-dkeyauth.exe 
+MP-Reg.exe
+SF-C:\Windows\system32\WerFault.exe
+MF-C:\Users\admin\AppData\LocalLow\Microsoft\Internet Explorer\DOMStore\reviewref_protected.exe
+MP-WinAPIOverride 6.9.1.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+TP-New Client.exe 
+TP-sc.exe
+MF-C:\Users\admin\AppData\Local\Temp\Document
+MF-\Windows\system32\ntvdm.exe
+MP*-MsiExec.exe
+TF-C:\Users\admin\Desktop\fd4289d63cda962af120a59a1f3a389f
+MP*-system_file.exe 
+MP*-0b358566ef3d811318615ad96c082cf1.exe 
+MF-C:\Users\admin\AppData\Local\Temp\KS.pdf
+SO-https://vision.fn-pz.com
+TF-C:\Users\admin\AppData\Local\Temp\Convocation
+SF-C:\Users\admin\AppData\Local\Temp\irknanu4.cmd
+TP-cacls.exe 
+51
+0 1 RD-1
+0 2 WR-1
+0 3 UK-1
+4 1 EX-1
+4 2 RD-1
+5 1 RD-1
+5 2 RD-1
+4 5 IJ-1
+4 6 RD-1
+5 6 WR-1
+4 7 WR-1
+5 7 RD-1
+8 1 EX-1
+8 2 WR-1
+4 8 IJ-1
+5 8 UK-1
+4 9 ST-1
+10 1 WR-1
+10 2 WR-1
+4 10 IJ-1
+10 6 RD-1
+10 7 CD-1
+10 9 ST-1
+11 1 UK-1
+4 12 UK-1
+10 13 WR-1
+14 6 WR-2
+14 7 EX-2
+9 14 RF-1
+10 14 IJ-1
+14 13 EX-2
+10 15 CD-1
+14 15 RD-2
+16 7 RD-3
+16 9 ST-3
+10 16 IJ-1
+16 13 WR-3
+14 16 UK-2
+17 9 ST-4
+10 17 IJ-1
+17 13 EX-4
+17 15 EX-4
+10 18 RD-1
+17 18 WR-4
+10 19 ST-1
+17 19 ST-4
+17 20 RD-4
+17 21 WR-4
+22 13 WR-4
+22 15 WR-4
+17 22 UK-4
+

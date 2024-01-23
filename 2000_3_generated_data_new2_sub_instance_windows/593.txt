@@ -1,0 +1,34 @@
+11
+MP*-pnputil.exe
+MP*-nscB9BA.tmp
+TP*-vssvc.exe
+MF-\Users\admin\AppData\Local\Temp\vlliugwu.exe
+MF-C:\windows\System32\comsvcs
+MP-pcalua.exe
+MF-C:\Users\admin\AppData\Local\Temp\GLJC215
+TP*-oneetx.exe
+MP-WerFault.exe
+MF-C:\Users\admin\AppData\Local\XsdType\cgpswyly\Tags.exe
+MP-DIXRAT.exe 
+20
+0 1 FR-1
+0 2 FR-1
+1 2 IJ-2
+0 3 RD-1
+1 3 EX-2
+2 3 EX-3
+0 4 WR-1
+1 4 WR-2
+2 4 EX-3
+0 5 FR-1
+1 5 UK-2
+0 6 WR-1
+2 6 EX-3
+0 7 IJ-1
+2 7 IJ-3
+7 3 EX-4
+7 4 UK-4
+0 8 UK-1
+2 9 WR-3
+2 10 UK-3
+

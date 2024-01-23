@@ -1,0 +1,59 @@
+16
+MP-dd
+MF-chttp.c
+MP*-cat
+TP-less
+SO-192.168.206.137
+TP-teehee
+SO-192.168.206.137
+MP-curl
+MF-te.c
+MP*-awk
+MF-art.sh
+TF-atomic.log
+MF-ufw.log
+MP*-sudo
+MP*-touch
+MP-sudo
+40
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 UK-1
+2 4 ST-1
+5 1 WR-1
+2 5 IJ-1
+5 4 ST-1
+6 2 RF-1
+6 5 RF-1
+7 1 WR-1
+7 4 ST-1
+5 7 UK-1
+2 8 RD-1
+9 1 WR-2
+9 4 ST-2
+6 9 RF-2
+9 8 WR-2
+2 10 WR-1
+9 10 RD-2
+2 11 EX-1
+9 11 EX-2
+2 12 CD-1
+9 12 RD-2
+13 4 ST-3
+13 6 ST-3
+13 8 RD-3
+9 13 UK-2
+14 4 ST-4
+6 14 RF-3
+14 8 WR-4
+14 10 RD-4
+14 11 RD-4
+14 12 RD-4
+6 15 RF-3
+15 8 WR-4
+15 10 WR-4
+15 11 RD-4
+15 12 WR-4
+14 15 UK-4
+

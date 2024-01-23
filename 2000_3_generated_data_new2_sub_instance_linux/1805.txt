@@ -1,0 +1,61 @@
+16
+MP*-sed
+TF-cron.a
+TF-victim-shred.txt
+MF-sysctl.c
+MF-passwd.zip
+TP*-sed
+SF-raw.githubusercontent.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+TF-2017.pl
+SF-s.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TF-user.r
+MF-alertConfigField.php
+MF-2017.pl
+MP*-cat
+MP*-ls
+42
+0 1 RD-1
+0 2 WR-1
+0 3 CD-1
+0 4 CD-1
+0 5 IJ-1
+5 1 WR-2
+5 2 RD-2
+5 3 RD-2
+5 4 RD-2
+0 6 RD-1
+5 6 WR-2
+7 0 RF-1
+7 5 RF-2
+0 8 WR-1
+5 8 WR-2
+0 9 EX-1
+5 9 EX-2
+0 10 ST-1
+10 5 RF-1
+5 11 EX-2
+5 12 EX-2
+5 13 WR-2
+14 4 WR-3
+5 14 IJ-2
+14 6 RD-3
+7 14 RF-3
+14 8 WR-3
+14 9 EX-3
+10 14 RF-1
+14 11 WR-3
+14 12 EX-3
+14 13 WR-3
+5 15 FR-2
+15 6 WR-4
+7 15 RF-4
+15 8 RD-4
+15 9 RD-4
+10 15 RF-1
+15 11 WR-4
+15 12 WR-4
+15 13 RD-4
+14 15 UK-3
+

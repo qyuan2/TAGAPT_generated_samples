@@ -1,0 +1,52 @@
+18
+MP*-uname
+MP*-uname
+SF-settings.php
+MF-rockyou.txt
+SF-ufw.log
+SO-192.168.37.130
+SO-192.168.206.137:8080
+MP-cat
+SO-192.168.1.1
+MF-echo-art-fish.sh
+SF-T1003.008.txt
+TF-bash_completion.sh
+SF-da-ks.cfg
+MP*-cat
+MF-2017.pl
+TP*-awk
+MF-T1070.006-reference.txt
+MP-more
+31
+0 1 FR-1
+0 2 UK-1
+1 3 EX-2
+1 4 WR-2
+1 5 ST-2
+1 6 ST-2
+1 7 FR-2
+7 3 WR-2
+7 4 WR-2
+7 5 ST-2
+7 6 ST-2
+1 8 ST-2
+7 8 ST-2
+1 9 WR-2
+7 9 RD-2
+1 10 EX-2
+7 10 WR-2
+7 11 WR-2
+7 12 WR-2
+13 4 UK-3
+7 14 WR-2
+6 15 RF-2
+7 15 IJ-2
+15 8 ST-4
+15 9 WR-4
+15 10 UK-4
+7 16 EX-2
+8 17 RF-2
+17 9 RD-4
+17 11 RD-4
+17 12 UK-4
+

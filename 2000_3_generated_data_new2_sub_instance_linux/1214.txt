@@ -1,0 +1,44 @@
+13
+MP*-nl
+TP*-last
+TF-locale.c
+MP*-dd
+MF-T1070.006-modification.txt
+MP-whoami
+SF-bash_completion.sh
+MP-cat
+MF-0*.txt
+MP-less
+TP*-sed
+MF-flag4.txt
+MP-cat
+28
+0 1 FR-1
+0 2 RD-1
+1 2 EX-2
+0 3 FR-1
+1 3 IJ-2
+3 2 RD-3
+0 4 RD-1
+1 4 WR-2
+3 4 CD-3
+0 5 FR-1
+1 5 UK-2
+0 6 WR-1
+3 6 WR-3
+0 7 FR-1
+7 2 WR-3
+3 7 UK-3
+0 8 CD-1
+0 9 FR-1
+9 2 UK-3
+0 10 IJ-1
+10 4 WR-4
+10 6 RD-4
+10 8 RD-4
+10 11 RD-4
+12 4 EX-4
+12 6 WR-4
+12 8 RD-4
+10 12 UK-4
+

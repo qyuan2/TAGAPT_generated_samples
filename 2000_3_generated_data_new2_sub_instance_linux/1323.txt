@@ -1,0 +1,49 @@
+13
+MP*-bash
+SO-atomic@target.example
+MF-p.c
+MF-logrotate.c
+MF-1.zip
+MF-www.google.c
+MF-p.c
+TP-find
+MP*-cat
+MP*-cat
+MP*-john
+SF-1.zip
+TP-less
+33
+0 1 ST-1
+0 2 WR-1
+0 3 EX-1
+0 4 WR-1
+0 5 RD-1
+0 6 RD-1
+0 7 UK-1
+1 8 RF-1
+8 2 WR-2
+8 3 RD-2
+8 4 RD-2
+8 5 CD-2
+8 6 WR-2
+1 9 RF-1
+9 2 WR-3
+9 3 WR-3
+9 4 RD-3
+9 5 WR-3
+9 6 WR-3
+8 9 UK-2
+10 1 ST-4
+10 2 WR-4
+10 3 WR-4
+10 4 RD-4
+10 5 WR-4
+10 6 WR-4
+10 11 EX-4
+12 2 CD-4
+12 3 EX-4
+12 4 WR-4
+12 5 WR-4
+12 6 WR-4
+10 12 UK-4
+

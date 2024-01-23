@@ -1,0 +1,142 @@
+40
+MP*-WinAPIOverride 6.9.1.tmp
+SF-C:\Users\admin\Desktop\jerkoff.exe
+SF-C:\Users\Public\Videos\Sample Videos\lsass
+MF-\mimikatz\x64\mimikatz.exe
+SO-https://onapsis.com/onapsis-platform
+MP-WScript.exe
+TP-executable.3044.exe 
+MF-\Users\admin\AppData\Local\Temp\is-A62RJ.tmp\fd4289d63cda962af120a59a1f3a389f.exe.vir.tmp
+SF-HKLM\SYSTEM\CurrentControlSet\Control\LSA
+TP-nsA21B.tmp
+SF-C:\Users\admin\Desktop\MS
+MP-csc.exe 
+MP-sitool.exe
+TP-xordump.exe 
+TP*-damianocrnofj6793.exe
+SF-C:\Users\admin\Desktop\11492515294.zip
+SF-C:\Users\admin\AppData\Local\Temp\4CA9
+TP-del.exe
+MP-AdobeARM.exe
+MF-C:\Users\admin\AppData\Local\Temp\P
+MP*-jsc.exe
+MF-mikkymax.c
+MP-ExplorerSuite.tmp
+SO-hxxp://fiordan.ru/FILM.html
+MF-cipher.exe
+SF-C:\Users\admin\AppData\Local\Temp\0520c252
+MF-C:\Users\Public\Videos\videotv
+SF-C:\Recovery\345b46fe-a9f9-11e7-a83c-e8a4f72b1d33\WinRAR.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MF-\Windows\System32\inetsrv\appcmd.exe
+SF-C:\Users\admin\AppData\Local\Temp\f8ab93332536f27e4c463bde920795e59a08898ff648f679ca15c624f39b6dc8.dll
+TP-Order list.exe 
+MP*-cmd.exe 
+SF-C:\Users\admin\AppData\Local\Temp\hh.exe
+MF-\Windows_Defender_Cache_Maintenance.xml
+MP-python.exe
+MF-C:\Users\admin\Downloads\crypto-js.js
+MP-WMIC.exe 
+MP-Document.pdf_Slayed.scr.exe
+MP-OUTLOOK.EXE 
+99
+0 1 WR-1
+0 2 CD-1
+0 3 RD-1
+0 4 ST-1
+0 5 FR-1
+5 1 RD-1
+5 2 RD-1
+5 3 RD-1
+5 4 ST-1
+0 6 UK-1
+5 7 WR-1
+5 8 WR-1
+9 1 WR-1
+9 2 RD-1
+9 3 RD-1
+9 4 ST-1
+5 9 IJ-1
+9 7 EX-1
+9 8 RD-1
+5 10 EX-1
+9 10 RD-1
+11 1 WR-1
+11 2 WR-1
+11 3 WR-1
+11 4 ST-1
+5 11 UK-1
+12 2 UK-1
+13 3 EX-1
+4 13 RF-1
+13 7 WR-1
+13 8 WR-1
+9 13 UK-1
+4 14 RF-1
+14 7 WR-2
+14 8 RD-2
+14 10 WR-2
+14 15 WR-2
+14 16 CD-2
+17 7 RD-2
+17 8 WR-2
+17 10 RD-2
+14 17 UK-2
+18 8 EX-2
+18 10 WR-2
+18 15 WR-2
+18 16 RD-2
+18 19 WR-2
+20 10 RD-3
+20 15 WR-3
+20 16 WR-3
+20 19 WR-3
+18 21 RD-2
+20 21 WR-3
+22 15 WR-3
+22 16 UK-3
+23 18 RF-2
+23 20 RF-3
+18 24 EX-2
+20 24 WR-3
+18 25 WR-2
+20 25 RD-3
+18 26 WR-2
+20 26 WR-3
+18 27 WR-2
+20 27 WR-3
+28 18 RF-2
+20 28 ST-3
+20 29 RD-3
+20 30 WR-3
+31 21 RD-3
+31 23 ST-4
+31 24 WR-3
+31 25 WR-3
+31 26 UK-3
+23 32 RF-4
+32 24 WR-4
+32 25 WR-4
+32 27 CD-4
+28 32 RF-3
+32 29 RD-4
+32 30 WR-4
+32 33 WR-4
+32 34 CD-4
+35 27 WR-4
+35 28 ST-4
+35 29 UK-4
+32 36 WR-4
+37 28 ST-4
+37 30 RD-4
+32 37 UK-4
+38 30 RD-4
+38 33 EX-4
+38 34 WR-4
+38 36 WR-4
+39 30 WR-4
+39 33 RD-4
+39 34 WR-4
+39 36 CD-4
+38 39 UK-4
+

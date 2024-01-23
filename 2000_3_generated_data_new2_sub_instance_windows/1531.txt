@@ -1,0 +1,83 @@
+22
+MP*-MSBuild.exe
+SF-C:\Windows\INF\usbstor
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+TP*-nsD0E9.tmp
+TP*-PEPlusLauncher_V2.exe 
+TF-\Users\admin\AppData\Local\Temp\is-HH8GJ.tmp\Dkeyauth.tmp
+MP-NilfiskServiceTool.exe
+MF-C:\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9.zip
+MF-C:\Users\admin\AppData\Local\Temp\CCZZ
+MP*-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+MF-\Windows\system32\verclsid.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MF-C:\Users\admin\AppData\Local\Temp\Redline
+MF-C:\Users\admin\AppData\Local\Temp\B70D.exe
+MP-1.sfx.exe 
+MP-certreq.exe 
+MF-\Users\admin\AppData\Local\Temp\oldplayer.exe
+MP-RegAsm.exe
+TP-wusa.exe
+MP-appcmd.exe
+SO-https://download.anydesk.com/AnyDesk.exe
+MP-avi_previewer_demo.exe
+58
+0 1 WR-1
+2 0 RF-1
+0 3 FR-1
+3 1 WR-2
+2 3 RF-2
+0 4 FR-1
+4 1 RD-3
+2 4 RF-3
+3 4 IJ-2
+0 5 WR-1
+3 5 WR-2
+4 5 WR-3
+0 6 UK-1
+3 7 WR-2
+4 7 RD-3
+3 8 UK-2
+9 1 WR-4
+9 2 ST-4
+4 9 IJ-3
+9 5 WR-4
+9 7 WR-4
+4 10 WR-3
+9 10 EX-4
+4 11 ST-3
+11 9 RF-3
+4 12 RD-3
+9 12 RD-4
+4 13 EX-3
+9 13 EX-4
+4 14 FR-3
+14 5 RD-4
+14 7 WR-4
+9 14 UK-4
+15 5 RD-4
+15 7 RD-4
+15 10 WR-4
+11 15 RF-3
+15 12 WR-4
+15 13 WR-4
+15 16 EX-4
+17 7 RD-4
+17 10 RD-4
+11 17 RF-3
+17 12 EX-4
+17 13 WR-4
+17 16 WR-4
+18 10 RD-4
+11 18 RF-3
+18 12 WR-4
+18 13 UK-4
+19 10 WR-4
+11 19 RF-3
+19 12 CD-4
+15 19 UK-4
+17 20 ST-4
+21 12 WR-4
+21 16 RD-4
+17 21 UK-4
+

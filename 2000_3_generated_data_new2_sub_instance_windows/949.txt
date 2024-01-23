@@ -1,0 +1,55 @@
+17
+MP*-LaZagne.exe
+MP-xcopy.exe
+MF-cmd.exe
+MP-ROUTE.EXE
+MP*-appcmd.exe
+MF-MMC20.a
+TP-xwizard.exe 
+MF-\Users\admin\AppData\Local\Temp\EUC0BF.tmp\MicrosoftEdgeUpdate.exe
+MP-PING.EXE
+MP-StormKittyBuild.exe 
+TP*-shutdown.exe
+MF-\windows\win.ini
+MP-DCRatBuild.exe
+MP*-nmap.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-\Users\admin\AppData\Local\Temp\is-HH8GJ.tmp\Dkeyauth.tmp
+MP-nsA317.tmp
+35
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+0 3 FR-1
+1 3 UK-1
+0 4 FR-1
+4 2 WR-2
+0 5 RD-1
+4 5 RD-2
+0 6 IJ-1
+6 2 WR-2
+4 6 IJ-2
+6 5 RD-2
+0 7 WR-1
+4 7 WR-2
+6 7 WR-2
+0 8 FR-1
+8 2 UK-2
+0 9 UK-1
+4 10 FR-2
+10 5 WR-3
+6 10 IJ-2
+10 7 WR-3
+4 11 WR-2
+6 11 WR-2
+10 11 UK-3
+4 12 UK-2
+6 13 FR-2
+13 7 RD-4
+6 14 ST-2
+14 13 RF-2
+6 15 WR-2
+13 15 WR-4
+16 7 CD-4
+13 16 UK-4
+

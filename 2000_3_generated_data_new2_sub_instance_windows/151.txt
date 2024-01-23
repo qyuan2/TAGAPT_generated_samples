@@ -1,0 +1,212 @@
+56
+MP-at.exe
+MF-.\T1027.004\bin\T1027.004_DynamicCompile.exe
+MF-\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe
+MF-\Windows\system32\shell32.dll
+MF-C:\Program files\ntuser
+SF-C:\Users\admin\AppData\Roaming\XClient.exe
+TP-pktmon.exe
+MF-C:\Windows\servicing\TrustedInstaller.exe
+MF-taskdl.exe
+MF-\T1564.001.txt
+TF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt
+MF-C:\Users\admin\AppData\Local\Temp\tmpAA49.tmp
+MF-C:\Users\admin\AppData\Local\Temp\Spora
+MP-pdates.exe 
+MP-pestudio.exe 
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+MP-EQNEDT32.EXE
+MP-Caspol.exe
+SF-C:\Users\admin\AppData\Local\Temp\gjarow
+MF-Files\RerSpacer710\RerSpacer710.exe
+MF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd.zip
+MF-C:\Users\admin\AppData\Local\Temp\nscB9BA.tmp
+MF-\Users\admin\AppData\Local\Temp\6910.dll
+SO-http://192.168.5.25/test
+MP-ns9F46.tmp
+MF-C:\Browserweb\FDQYsaUiAqx3IM0zyQT
+MF-C:\Windows\system32\taskmgr.exe
+MF-\Users\admin\AppData\Local\Temp\207aa4515d\oneetx.exe
+MP-obiokmgf6.exe
+MP-PowerShell.exe
+TP-odbcconf.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+TP*-LaZagne.exe
+TP*-MpCmdRun.exe
+MF-%systemdrive%\Users\Public\Desktop
+TP-SecuriteInfo.com
+SO-edcb@topsoe.com
+TF-C:\Users\admin\AppData\Local\Temp\UAV.zip
+TP*-iexplore.exe
+TP-7za.exe
+MP-runas.exe
+MP-jsIXhU
+MF-C:\Users\admin\AppData\Local\Temp\bltf.exe
+TF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe
+MF-CmD.exe
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsC7AA.tmp
+SO-https://class.malware.re
+TP*-yonr.exe 
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+MP-CompPkgSrv.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF
+MF-C:\Users\admin\AppData\Local\Temp\TagGen.dll
+MF-net.exe
+SF-C:\Windows\system32\pnpui.dll
+TP-GLJC215.tmp
+TP-nsBC6C.tmp
+153
+0 1 WR-1
+0 2 RD-1
+0 3 WR-1
+0 4 WR-1
+0 5 WR-1
+0 6 FR-1
+6 1 WR-1
+6 2 WR-1
+6 3 WR-1
+6 4 WR-1
+6 5 WR-1
+0 7 EX-1
+6 7 WR-1
+0 8 WR-1
+6 8 RD-1
+0 9 UK-1
+6 10 WR-1
+6 11 WR-1
+6 12 RD-1
+13 3 EX-1
+13 4 WR-1
+13 5 WR-1
+6 13 UK-1
+14 4 EX-1
+14 5 WR-1
+14 7 WR-1
+14 8 WR-1
+14 10 WR-1
+14 11 WR-1
+14 12 EX-1
+14 15 EX-1
+16 7 RD-1
+16 8 RD-1
+16 10 WR-1
+16 11 WR-1
+16 12 RD-1
+16 15 WR-1
+17 7 WR-1
+17 8 EX-1
+17 10 WR-1
+17 11 WR-1
+17 12 WR-1
+17 15 RD-1
+16 17 UK-1
+14 18 RD-1
+14 19 EX-1
+14 20 WR-1
+14 21 RD-1
+14 22 EX-1
+23 14 RF-1
+14 24 FR-1
+24 15 EX-1
+24 18 EX-1
+24 19 RD-1
+24 20 WR-1
+24 21 WR-1
+24 22 WR-1
+23 24 RF-1
+24 25 RD-1
+24 26 WR-1
+24 27 RD-1
+28 18 EX-1
+28 19 WR-1
+28 20 RD-1
+28 21 EX-1
+28 22 WR-1
+28 23 ST-1
+24 28 UK-1
+29 19 WR-1
+29 20 WR-1
+29 21 UK-1
+30 20 RD-1
+30 22 RD-1
+30 23 ST-1
+30 25 WR-1
+30 26 CD-1
+30 27 WR-1
+31 30 RF-1
+32 22 RD-1
+23 32 RF-1
+32 25 WR-1
+32 26 RD-1
+32 27 RD-1
+30 32 IJ-1
+32 31 ST-1
+23 33 RF-1
+33 25 CD-2
+33 26 RD-2
+33 27 WR-2
+30 33 IJ-1
+33 31 ST-2
+32 33 IJ-1
+30 34 RD-1
+32 34 CD-1
+33 34 WR-2
+35 25 WR-2
+35 26 UK-2
+36 30 RF-1
+32 36 ST-1
+33 36 ST-2
+30 37 RD-1
+32 37 RD-1
+33 37 EX-2
+30 38 FR-1
+31 38 RF-1
+32 38 IJ-1
+33 38 IJ-2
+38 34 RD-3
+38 36 ST-3
+38 37 EX-3
+30 39 IJ-1
+39 31 ST-3
+32 39 IJ-1
+33 39 IJ-2
+39 34 RD-3
+39 36 ST-3
+39 37 WR-3
+38 39 IJ-3
+30 40 IJ-1
+40 31 ST-3
+32 40 IJ-1
+33 40 UK-2
+31 41 RF-1
+32 41 UK-1
+38 42 WR-3
+39 42 WR-3
+38 43 WR-3
+39 43 UK-3
+38 44 CD-3
+38 45 EX-3
+46 38 RF-3
+47 37 WR-4
+38 47 IJ-3
+47 42 WR-4
+47 44 RD-4
+47 45 EX-4
+46 47 RF-4
+38 48 FR-3
+48 42 WR-4
+48 44 UK-4
+49 42 UK-4
+47 50 RD-4
+47 51 RD-4
+47 52 WR-4
+47 53 RD-4
+54 45 RD-4
+46 54 RF-4
+47 54 UK-4
+55 45 WR-4
+55 46 ST-4
+55 50 RD-4
+55 51 WR-4
+55 52 UK-4
+

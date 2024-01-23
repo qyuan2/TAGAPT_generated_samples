@@ -1,0 +1,72 @@
+15
+MP*-WerFault.exe 
+MF-6.9.1\license.txt
+MF-\Users\Public\coinmarketcap\1.bat
+MP*-soa PDF.exe
+MF-\Users\admin\AppData\Roaming\1.bat
+SF-C:\Users\admin\AppData\Local\Temp\PO-465514-180820.doc
+SF-C:\Windows\System32\cmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\IXP001
+MF-C:\Users\admin\AppData\Local\Temp\phish_alert_iocp_v1
+MP*-nethtsrv.exe
+MF-C:\Users\admin\skmt
+TP*-6248.exe
+MP-runas.exe
+MP-bitsadmin.exe
+MP-HxDSetup.tmp
+54
+0 1 RD-1
+0 2 CD-1
+0 3 FR-1
+3 1 WR-2
+3 2 EX-2
+0 4 RD-1
+3 4 WR-2
+0 5 RD-1
+3 5 WR-2
+0 6 RD-1
+3 6 RD-2
+0 7 WR-1
+3 7 WR-2
+0 8 RD-1
+3 8 WR-2
+0 9 FR-1
+9 1 EX-3
+9 2 EX-3
+9 4 RD-3
+9 5 RD-3
+9 6 WR-3
+9 7 WR-3
+9 8 EX-3
+0 10 WR-1
+3 10 RD-2
+9 10 WR-3
+11 1 RD-4
+11 2 RD-4
+3 11 IJ-2
+11 4 WR-4
+11 5 WR-4
+11 6 WR-4
+11 7 WR-4
+11 8 RD-4
+9 11 IJ-3
+11 10 RD-4
+12 2 WR-4
+12 4 WR-4
+12 5 WR-4
+12 6 RD-4
+12 7 WR-4
+12 8 EX-4
+12 10 WR-4
+11 12 UK-4
+3 13 FR-2
+13 4 WR-4
+13 5 WR-4
+13 6 WR-4
+13 7 WR-4
+13 8 WR-4
+9 13 UK-3
+14 4 RD-4
+14 5 WR-4
+14 6 UK-4
+

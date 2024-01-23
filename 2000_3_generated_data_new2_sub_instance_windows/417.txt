@@ -1,0 +1,46 @@
+14
+MP*-Windows Defender Protection.exe
+MP-jww825a.tmp
+MP-MsiExec.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+TP*-danke.exe 
+MP-k2141323.exe
+SF-C:\Users\admin\Desktop\APP
+MP-jerkoff.exe 
+MP-TBHD AWB 1ZY0W5038626871089.exe
+MP*-iexplore.exe 
+MF-C:\Windows\System32\notepad
+MP*-pcalua.exe
+SF-c:\windows\win
+SF-C:\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9.zip
+29
+0 1 FR-1
+0 2 UK-1
+1 3 ST-1
+1 4 FR-1
+3 4 RF-1
+1 5 FR-1
+5 3 ST-2
+4 5 IJ-2
+1 6 WR-1
+4 6 WR-2
+5 6 WR-2
+1 7 FR-1
+7 3 ST-2
+4 7 UK-2
+1 8 FR-1
+8 3 ST-2
+8 6 WR-2
+1 9 FR-1
+3 9 RF-2
+9 6 WR-3
+8 9 UK-2
+1 10 WR-1
+5 10 WR-2
+1 11 FR-1
+11 3 ST-4
+11 6 RD-4
+11 10 RD-4
+5 12 UK-2
+11 13 UK-4
+

@@ -1,0 +1,69 @@
+20
+MP*-Reader_sl.exe
+MP*-Xd.exe
+SO-8.100.0.203
+MF-\windows\system32\cmd.exe
+MF-485240_2023_.rar
+SF-C:\Users\admin\Desktop\HxDSetup.exe
+MF-message.msg
+TP*-_vnw.exe
+TP*-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+MP-WinRAR.exe
+TF-C:\Users\admin\AppData\Roaming\damianoh68951.exe
+MF-C:\Windows\SysWow64\regsvr32
+MP-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+SF-%logonserver%\sysvol\
+SO-https://vision.fn-pz.com
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\Reader_sl
+MF-C:\Users\admin\Desktop\f_00119a
+MF-C:\Users\admin\Desktop\HxDSetup
+TF-C:\MSOCache\All Users\cmd
+MP-pnputil.exe
+46
+0 1 FR-1
+0 2 ST-1
+1 2 ST-2
+0 3 WR-1
+1 3 WR-2
+0 4 EX-1
+1 4 RD-2
+0 5 WR-1
+1 5 WR-2
+0 6 EX-1
+1 6 CD-2
+0 7 FR-1
+1 7 IJ-2
+7 2 ST-3
+7 3 RD-3
+7 4 RD-3
+7 5 WR-3
+7 6 WR-3
+0 8 FR-1
+1 8 IJ-2
+8 2 ST-4
+8 3 RD-4
+8 4 WR-4
+8 5 RD-4
+8 6 RD-4
+7 8 IJ-3
+0 9 UK-1
+1 10 WR-2
+7 10 WR-3
+8 10 WR-4
+1 11 RD-2
+7 11 RD-3
+8 11 WR-4
+12 2 ST-4
+12 3 UK-4
+7 13 EX-3
+8 13 RD-4
+14 7 RF-3
+14 8 RF-4
+7 15 WR-3
+8 15 RD-4
+7 16 RD-3
+8 16 CD-4
+7 17 UK-3
+8 18 EX-4
+19 10 UK-4
+

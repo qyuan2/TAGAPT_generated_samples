@@ -1,0 +1,77 @@
+22
+MP*-nethtsrv.exe
+MF-files-ld.s3.us-east-2.amazonaws.c
+MP*-yonr.exe 
+SF-C:\Windows\system32\rundll32
+SF-C:\Windows\system32\SearchFilterHost
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Mshta_calc.sct").Exec();close
+MF-ieadvpack.dll
+SO-https://www.youtube.com/@Omnidev_
+MP-RdrCEF.exe 
+SF-C:\Users\admin\AppData\Local\Temp\renamer
+MF-\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd.zip
+MP-ntdsutil.exe
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MF-C:\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613
+MP-jww825a.tmp 
+MP*-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+TF-C:\Users\admin\AppData\Local\Temp\sgic_info.c
+MP-Powershell.exe
+MP*-LaZagne.exe
+MP-DataSvcUtil.exe
+SF-C:\Users\admin\AppData\Local\Temp\is
+MP-ytfovlym.exe
+52
+0 1 WR-1
+0 2 FR-1
+2 1 WR-2
+0 3 EX-1
+2 3 RD-2
+0 4 RD-1
+2 4 RD-2
+5 0 RF-1
+5 2 RF-2
+0 6 RD-1
+2 6 EX-2
+7 0 RF-1
+7 2 RF-2
+0 8 FR-1
+8 1 EX-2
+8 3 WR-2
+8 4 RD-2
+8 5 ST-2
+8 6 WR-2
+8 7 ST-2
+0 9 CD-1
+2 9 WR-2
+8 9 WR-2
+2 10 RD-2
+8 10 EX-2
+2 11 FR-2
+11 3 UK-2
+12 4 WR-2
+5 12 RF-2
+12 6 UK-2
+8 13 WR-2
+14 5 ST-2
+7 14 RF-2
+8 14 UK-2
+7 15 RF-2
+15 9 RD-3
+15 10 WR-3
+15 13 RD-3
+15 16 WR-3
+17 9 RD-3
+17 10 RD-3
+17 13 RD-3
+17 16 UK-3
+18 9 WR-4
+18 10 RD-4
+18 13 WR-4
+19 10 RD-4
+19 13 EX-4
+15 19 UK-3
+18 20 WR-4
+21 13 RD-4
+18 21 UK-4
+

@@ -1,0 +1,148 @@
+39
+MP*-wmic.exe
+TP-WScript.exe
+SF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d.zip
+SF-C:\Program files\appdata\local\temp\desert
+MP-Ziraat Bankasi Swift Mesaji.exe 
+MF-\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe
+MF-C:\Program Files\KMSpico\scripts\Install_Task
+MP-iexplore.exe
+MF-PsExec.exe
+SF-C:\Windows\SysWow64\Register
+MP-DriversHood.exe
+TP*-lk.exe 
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+SF-C:\Users\admin\AppData\Local\Temp\crack.exe
+SO-https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object
+MP*-DATOS DE ARCHIVOS No 7879746161364.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+TP-MsiExec.exe
+SF-C:\Users\admin\Downloads\crypto
+TP-Reg.exe
+MP-Register-CimProvider.exe
+MP*-Bandizip.exe
+MF-\Users\admin\Desktop\script.js
+MF-\Users\admin\AppData\Local\Temp\analyssifilename.doc
+MF-\Windows\System32\wusa.exe
+TF-Lading.exe
+SF-C:\Program files\29630
+TF-sqlbrowser.exe
+SF-C:\Program Files (x86)\UltraViewer\UltraViewer_Desktop
+MP-ping.exe
+MP-863e7c22c771e4005197ae28363584f8.exe 
+TF-C:\Users\Public\coinmarketcap\1.bat
+MP-Reader_sl.exe 
+MP-nethtsrv.exe
+MP-net1.exe
+SO-http://192.168.10.11/test.ps1
+MP-jerkoff.exe 
+MF-\Users\admin\AppData\Local\Temp\lk.exe
+TF-C:\Windows\SysWOW64\cmd
+106
+0 1 FR-1
+0 2 RD-1
+1 2 WR-1
+0 3 EX-1
+1 3 WR-1
+0 4 FR-1
+1 4 IJ-1
+4 2 UK-1
+0 5 RD-1
+1 5 RD-1
+0 6 CD-1
+1 6 WR-1
+0 7 FR-1
+1 7 IJ-1
+7 3 UK-1
+0 8 WR-1
+1 8 WR-1
+0 9 RD-1
+1 9 WR-1
+0 10 FR-1
+1 10 IJ-1
+10 5 EX-1
+10 6 RD-1
+10 8 RD-1
+10 9 WR-1
+1 11 IJ-1
+11 5 CD-2
+11 6 EX-2
+11 8 WR-2
+11 9 RD-2
+10 11 IJ-1
+10 12 ST-2
+12 11 RF-2
+10 13 WR-1
+11 13 WR-2
+14 11 RF-2
+15 6 WR-3
+15 8 EX-3
+15 9 RD-3
+11 15 IJ-2
+15 12 ST-3
+15 13 UK-3
+11 16 ST-2
+17 8 EX-3
+17 9 RD-3
+11 17 IJ-2
+12 17 RF-3
+17 14 ST-3
+17 16 ST-3
+11 18 WR-2
+17 18 WR-3
+11 19 IJ-2
+19 12 ST-3
+14 19 RF-3
+16 19 RF-3
+17 19 IJ-3
+19 18 WR-3
+11 20 IJ-2
+20 12 ST-3
+20 14 ST-3
+16 20 RF-3
+17 20 UK-3
+12 21 RF-3
+21 14 ST-4
+16 21 RF-3
+21 18 RD-4
+19 21 IJ-3
+19 22 RD-3
+21 22 WR-4
+19 23 WR-3
+21 23 WR-4
+19 24 CD-3
+21 24 WR-4
+19 25 WR-3
+21 25 RD-4
+19 26 WR-3
+21 26 WR-4
+19 27 UK-3
+21 28 CD-4
+21 29 FR-4
+29 22 WR-4
+29 23 EX-4
+29 24 WR-4
+29 25 WR-4
+29 26 RD-4
+29 28 RD-4
+21 30 UK-4
+29 31 WR-4
+32 22 RD-4
+32 23 RD-4
+32 24 RD-4
+32 25 WR-4
+32 26 WR-4
+32 28 RD-4
+32 31 WR-4
+33 23 CD-4
+33 24 WR-4
+33 25 UK-4
+34 24 UK-4
+29 35 ST-4
+32 35 ST-4
+36 26 WR-4
+36 28 WR-4
+29 36 UK-4
+32 37 EX-4
+32 38 UK-4
+

@@ -1,0 +1,56 @@
+14
+MP*-WScript.exe
+TF-C:\Users\admin\AppData\Local\Temp\splwow64
+MF-\T1140_calc.txt
+SF-C:\Users\admin\AppData\Local\Temp\oldplayer.exe
+SF-C:\Program Files (x86)\Microsoft\Edge\Application\msedge
+TP*-Register-CimProvider.exe
+MF-C:\Program files\appdata\local\temp\desert
+MF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\jsestartup.js
+MP-pcalua.exe
+MP-OUTLOOK.EXE 
+MP*-nscB9BA.tmp
+MP*-wmpnscfg.exe
+MF-c:\temp\atomictestfile
+MP-at.exe
+39
+0 1 WR-1
+0 2 WR-1
+0 3 EX-1
+0 4 RD-1
+0 5 FR-1
+5 1 WR-2
+5 2 RD-2
+5 3 WR-2
+5 4 RD-2
+0 6 EX-1
+5 6 CD-2
+0 7 WR-1
+5 7 WR-2
+0 8 FR-1
+8 1 WR-2
+8 2 UK-2
+0 9 FR-1
+9 1 WR-2
+9 3 WR-2
+9 4 WR-2
+5 9 IJ-2
+9 6 UK-2
+0 10 FR-1
+10 1 CD-3
+10 3 WR-3
+10 4 RD-3
+5 10 IJ-2
+10 7 WR-3
+11 1 RD-4
+11 3 RD-4
+11 4 WR-4
+5 11 IJ-2
+11 7 WR-4
+10 11 UK-3
+5 12 WR-2
+13 3 EX-4
+13 4 RD-4
+5 13 IJ-2
+13 7 UK-4
+

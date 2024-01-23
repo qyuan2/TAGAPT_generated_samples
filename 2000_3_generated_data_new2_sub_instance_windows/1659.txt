@@ -1,0 +1,41 @@
+11
+MP*-esentutl.exe
+MF-services.exe
+MP*-_vnw.exe
+SF-C:\Windows\System32\slui
+MF-C:\Users\User\appdata\local\temp\rpvbh
+MF-UKm.vb
+TP*-Heapman45.exe 
+MF-\Users\admin\Desktop\license.xml4.txt
+SF-C:\Users\admin\AppData\Local\Temp\Cookies3
+TP-netsh.exe
+MP*-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+27
+0 1 RD-1
+0 2 FR-1
+2 1 RD-2
+0 3 RD-1
+2 3 EX-2
+0 4 CD-1
+2 4 WR-2
+0 5 RD-1
+2 5 EX-2
+0 6 FR-1
+6 1 RD-3
+2 6 IJ-2
+6 3 RD-3
+6 4 WR-3
+6 5 WR-3
+0 7 RD-1
+2 7 WR-2
+6 7 WR-3
+0 8 CD-1
+2 8 WR-2
+6 8 EX-3
+0 9 UK-1
+10 1 RD-4
+10 3 RD-4
+10 4 RD-4
+10 5 EX-4
+6 10 UK-3
+

@@ -1,0 +1,61 @@
+16
+MP*-DCRatBuild.exe
+SF-%tmp%\T1218.009.dll
+MF-C:\Users\Public\Pictures\deep
+MP-Locker mr robot.exe 
+MP-ngen.exe
+MP*-nsA21B.tmp
+MF-C:\Program Files\OneDrive
+MF-C:\Windows\System32\WScript
+MP-D18C.exe
+TF-C:\Windows\SysWOW64\WerFault.exe
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+MP*-taskdl.exe
+MP-KMSpico_setup.exe
+MP-W32tm
+SF-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+MP-NdSvr.exe
+42
+0 1 CD-1
+0 2 WR-1
+0 3 FR-1
+3 1 EX-1
+3 2 WR-1
+0 4 FR-1
+4 1 WR-1
+4 2 RD-1
+3 4 UK-1
+0 5 FR-1
+5 1 WR-2
+5 2 RD-2
+0 6 RD-1
+5 6 EX-2
+0 7 WR-1
+5 7 WR-2
+0 8 FR-1
+8 1 WR-2
+8 2 WR-2
+5 8 UK-2
+0 9 EX-1
+0 10 FR-1
+10 1 WR-3
+10 2 RD-3
+10 6 CD-3
+10 7 WR-3
+10 9 WR-3
+11 1 RD-4
+11 2 EX-4
+11 6 EX-4
+11 7 WR-4
+11 9 WR-4
+10 11 UK-3
+12 2 RD-4
+12 6 RD-4
+12 7 UK-4
+13 6 RD-4
+13 9 EX-4
+13 14 RD-4
+15 6 CD-4
+15 9 WR-4
+13 15 UK-4
+

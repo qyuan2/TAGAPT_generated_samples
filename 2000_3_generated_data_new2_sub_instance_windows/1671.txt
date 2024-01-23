@@ -1,0 +1,42 @@
+16
+MP*-hostname.exe
+MP-s4669139.exe
+TP-Document.pdf_Slayed.scr.exe
+MF-C:\Users\admin\AppData\Local\Temp\OriginalMessage
+MP-WerFault.exe 
+TP*-nsD232.tmp
+TP*-NdSvr.exe
+MF-C:\Windows\system32\DllHost.exe
+TF-C:\Users\admin\AppData\Local\Temp\5158c830d2dfb8a523c3c24077e67fe792346ffa443126ebf2d09ace68f73000.bmp
+MF-\Users\admin\AppData\Local\Temp\winhost.exe
+MF-\Users\admin\AppData\Local\Temp\keygen.exe
+SF-C:\Users\admin\AppData\Local\Temp\EUC0BF
+MP-schtasks.exe 
+MF-\Users\admin\AppData\Local\Temp\is-3DL5P.tmp\360TS_Setup_Mini_RU_Omgm_CPI202204_6.6.0.1054.exe
+SO-45.63.100.72
+TP-6248.exe
+23
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 EX-1
+0 4 UK-1
+5 3 WR-3
+6 3 WR-4
+5 6 IJ-3
+5 7 EX-3
+6 7 WR-4
+5 8 WR-3
+6 8 WR-4
+5 9 WR-3
+6 9 WR-4
+5 10 WR-3
+6 10 WR-4
+5 11 RD-3
+6 11 RD-4
+5 12 IJ-3
+6 12 UK-4
+5 13 WR-3
+14 5 RF-3
+5 15 UK-3
+

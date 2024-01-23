@@ -1,0 +1,56 @@
+17
+MP*-forfiles.exe
+TP-AnyDesk-a444ebcf.exe 
+SF-c:\windows\system32
+TP-ns98F0.tmp 
+MP*-taskmgr.exe
+TP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+MP*-ProcessHacker.exe 
+SF-C:\MSOCache\All Users\{90140000-00BA-0407-0000-0000000FF1CE}-C\services.exe
+TP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MF-\deerbrook.ppt
+TF-.\T1046\src\T1046.py
+MP-Heapman45.exe 
+SO-127.0.0.1
+MP*-cmd.exe 
+MP-MSBuild.exe
+TF-\T1106.exe
+MP-nsBC6C.tmp
+36
+0 1 FR-1
+0 2 WR-1
+1 2 RD-1
+0 3 UK-1
+1 4 IJ-1
+4 2 RD-2
+1 5 FR-1
+5 2 CD-2
+4 5 UK-2
+1 6 FR-1
+6 2 WR-3
+1 7 WR-1
+6 7 EX-3
+1 8 FR-1
+8 2 EX-3
+6 8 IJ-3
+8 7 EX-3
+1 9 WR-1
+6 9 WR-3
+8 9 RD-3
+1 10 UK-1
+11 2 WR-3
+6 11 UK-3
+12 8 RF-3
+13 7 WR-4
+8 13 IJ-3
+13 9 WR-4
+13 12 ST-4
+14 7 RD-4
+8 14 IJ-3
+14 9 RD-4
+12 14 RF-4
+13 14 UK-4
+8 15 WR-3
+16 7 RD-4
+8 16 UK-3
+

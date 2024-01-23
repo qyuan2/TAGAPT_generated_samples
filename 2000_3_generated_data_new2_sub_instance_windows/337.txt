@@ -1,0 +1,44 @@
+14
+MP*-RegSvcs.exe
+MP-wbadmin.exe
+TF-%temp%\nanodump.x64.exe 
+TP-netsh.exe
+TP-gpt4all-installer-win64.exe 
+TP*-taskhsvc.exe
+TP*-hh.exe
+TP*-sc.exe
+SF-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\policies\system
+MF-files\Contacts\DriversHood.exe
+MP-MicrosoftEdgeUpdate.exe 
+MF-C:\Program files\appdata\local\temp\17634
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1218.007/bin/T1218.007_JScript.msi
+TP-jojo11.exe 
+27
+0 1 FR-1
+0 2 CD-1
+1 2 EX-1
+0 3 IJ-1
+1 3 UK-1
+0 4 UK-1
+5 2 WR-2
+6 2 WR-3
+5 6 IJ-2
+7 2 RD-4
+5 7 IJ-2
+6 7 IJ-3
+5 8 RD-2
+6 8 RD-3
+7 8 WR-4
+5 9 RD-2
+6 9 RD-3
+7 9 WR-4
+10 2 RD-4
+5 10 IJ-2
+6 10 UK-3
+5 11 WR-2
+7 11 RD-4
+12 5 RF-2
+12 7 RF-4
+5 13 IJ-2
+7 13 UK-4
+

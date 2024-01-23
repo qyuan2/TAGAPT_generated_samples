@@ -1,0 +1,59 @@
+15
+MP*-EQNEDT32.EXE
+SO-199.247.25.79
+MP*-MSBuild.exe
+TP-Heapman45.exe 
+TF-\Users\admin\AppData\Local\Temp\Spora.exe
+TP-ie_to_edge_stub.exe
+MF-\Users\Public\audiodg.exe
+MP*-Client.exe 
+TP-AppLaunch.exe
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+SF-C:\Windows\system32\taskmgr.exe
+MF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild.exe
+TP-TBHD AWB 1ZY0W5038626871089.exe
+MF-DC\Reader\AcroCEF\RdrCEF.exe
+MP*-86270699bad2681bb3f5f57f44a7094e.exe 
+41
+1 0 RF-1
+0 2 FR-1
+2 1 ST-2
+0 3 IJ-1
+1 3 RF-2
+2 3 IJ-2
+0 4 EX-1
+2 4 WR-2
+3 4 WR-2
+0 5 UK-1
+2 6 CD-2
+3 6 WR-2
+1 7 RF-2
+3 7 IJ-2
+7 4 RD-3
+7 6 WR-3
+1 8 RF-2
+2 8 IJ-2
+3 8 IJ-2
+8 4 WR-3
+8 6 WR-3
+7 8 IJ-3
+9 2 RF-2
+3 9 ST-2
+7 9 ST-3
+9 8 RF-3
+2 10 WR-2
+3 10 WR-2
+7 10 WR-3
+8 10 EX-3
+2 11 RD-2
+3 11 WR-2
+7 11 RD-3
+8 11 EX-3
+2 12 FR-2
+3 12 UK-2
+7 13 WR-3
+8 13 UK-3
+14 4 RD-4
+14 6 WR-4
+7 14 UK-3
+

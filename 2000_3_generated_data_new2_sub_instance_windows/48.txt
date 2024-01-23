@@ -1,0 +1,44 @@
+13
+MP*-renamer-7.5.exe
+TP-ping.exe
+MF-C:\Windows\System32\cmd
+SF-C:\Windows\system32\installd.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MP*-DHL TAX INVOICE 289868063.exe 
+MF-C:\MSOCache\All Users\{90140000-00A1-0412-0000-0000000FF1CE}-C\services.exe
+MP-Fastfoood.exe
+MP*-default-browser-agent.exe
+MP*-pcalua.exe
+TF-xxxFile.cs
+MP-MicrosoftEdgeUpdate.exe 
+MF-C:\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe
+28
+0 1 FR-1
+0 2 WR-1
+1 2 UK-1
+0 3 RD-1
+0 4 ST-1
+0 5 FR-1
+5 3 EX-2
+4 5 RF-1
+0 6 WR-1
+5 6 WR-2
+0 7 FR-1
+7 3 RD-2
+4 7 RF-1
+5 7 UK-2
+0 8 FR-1
+8 3 EX-3
+4 8 RF-1
+8 6 WR-3
+0 9 FR-1
+9 3 RD-4
+9 4 ST-4
+9 6 RD-4
+9 10 RD-4
+11 3 WR-4
+11 4 ST-4
+11 6 WR-4
+11 10 UK-4
+9 12 UK-4
+

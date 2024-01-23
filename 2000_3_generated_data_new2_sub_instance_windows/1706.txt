@@ -1,0 +1,33 @@
+12
+MP*-ns9D4E.tmp
+MF-C:\MSOCache\All Users\{90140000-0018-041F-0000-0000000FF1CE}-C\SearchFilterHost.exe
+TP-ns958E.tmp 
+MP-Перечень юридических лиц и физических лиц в рамках уклонения, сумы уклонения.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Potential
+SF-C:\Windows\SysWOW64\cmd.exe
+MP*-Scanned_file_PO23_Jan.exe 
+MP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+MP*-is-HTMC5.tmp
+SF-HKCU\Software\Microsoft\Windows
+TP-tasklist.exe
+MP-aspnet_compiler.exe
+18
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 UK-1
+2 4 RD-1
+2 5 WR-1
+6 1 WR-2
+2 6 IJ-1
+6 4 WR-2
+6 5 UK-2
+7 1 WR-3
+2 7 UK-1
+8 1 WR-4
+8 4 RD-4
+8 9 WR-4
+10 1 UK-4
+11 4 RD-4
+8 11 UK-4
+

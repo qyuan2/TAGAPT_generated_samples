@@ -1,0 +1,89 @@
+27
+MP-cscript.exe
+MP-pestudio.exe 
+SF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta
+TP-cacls.exe 
+TP-RdrCEF.exe
+MF-\Users\admin\AppData\Roaming\obiokmgf6.exe
+MP-firefox.exe
+MP-odbcconf.exe
+MP*-ruby.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmp91F1
+MF-C:\Users\admin\AppData\Local\Temp\nsf91FB
+MF-C:\Windows\system32\wbengine
+SF-C:\Windows\system32\certreq.exe
+MP*-findstr.exe
+MP-Scan20230717_newshipment 202333pdf.exe
+MP-vbc.exe
+TP*-client32.exe
+MF-C:\Users\admin\AppData\Local\Temp\OriginalMessage.txt
+MP*-finance.exe 
+MF-C:\Users\admin\AppData\Local\Temp\RunDRT
+MP-dpinst.exe 
+MF-C:\Users\admin\AppData\Local\Temp\vbcE40E
+MF-Menu\Programs\Startup\vbsstartup.vb
+SF-C:\Program Files\WinRAR\WinRAR
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+TF-C:\Users\admin\Desktop\11492515294
+MP-danke.exe 
+59
+0 1 FR-1
+0 2 WR-1
+1 2 WR-1
+0 3 UK-1
+1 4 FR-1
+4 2 CD-1
+1 5 WR-1
+4 5 WR-1
+1 6 UK-1
+7 2 WR-1
+4 7 UK-1
+8 2 CD-1
+8 5 WR-1
+8 9 WR-1
+8 10 WR-1
+8 11 EX-1
+8 12 WR-1
+13 5 WR-2
+13 9 WR-2
+13 10 RD-2
+13 11 CD-2
+13 12 EX-2
+14 5 UK-2
+8 15 FR-1
+15 9 UK-2
+8 16 IJ-1
+16 10 RD-3
+16 11 RD-3
+16 12 EX-3
+13 16 IJ-2
+8 17 WR-1
+13 17 WR-2
+16 17 WR-3
+8 18 FR-1
+18 10 EX-4
+18 11 EX-4
+18 12 CD-4
+16 18 IJ-3
+18 17 EX-4
+13 19 WR-2
+16 19 WR-3
+18 19 RD-4
+20 10 WR-4
+20 11 WR-4
+20 12 EX-4
+13 20 UK-2
+16 21 RD-3
+18 21 WR-4
+16 22 RD-3
+18 22 WR-4
+16 23 WR-3
+18 23 RD-4
+24 16 RF-3
+24 18 RF-4
+16 25 RD-3
+18 25 RD-4
+16 26 FR-3
+26 17 RD-4
+18 26 UK-4
+

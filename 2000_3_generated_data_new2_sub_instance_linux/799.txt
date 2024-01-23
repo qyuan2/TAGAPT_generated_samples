@@ -1,0 +1,40 @@
+11
+MP*-grep
+SF-httpd.c
+MP*-python
+MF-art.sh
+SF-ron.a
+TF-v.c
+MF-e.c
+MF-os.exe
+MP*-cat
+MF-te.c
+MP*-ls
+26
+0 1 RD-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 WR-2
+0 4 WR-1
+2 4 WR-2
+0 5 EX-1
+2 5 WR-2
+0 6 WR-1
+2 6 UK-2
+0 7 RD-1
+0 8 FR-1
+8 1 EX-3
+8 3 RD-3
+8 4 RD-3
+8 5 WR-3
+8 7 RD-3
+0 9 WR-1
+8 9 EX-3
+10 1 WR-4
+10 3 WR-4
+10 4 WR-4
+10 5 WR-4
+10 7 WR-4
+8 10 UK-3
+

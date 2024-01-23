@@ -1,0 +1,44 @@
+14
+MP*-MSBuild.exe
+TP*-crackmapexec.exe
+MF-C:\Users\admin\AppData\Local\Temp\putty
+TF-\Users\admin\AppData\Local\Temp\MadInjector.zip
+MP*-nsA317.tmp
+MP*-schtasks.exe 
+MP-n4054738.exe
+MF-C:\Users\admin\AppData\Roaming\CareUEyes\CareUEyes.exe
+MF-C:\Users\admin\AppData\Local\Temp\Invoice
+SF-C:\Program files\appdata\roaming\battery\battery.cmd
+TF-C:\Users\admin\AppData\Local\Temp\is-7OKKI.tmp
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\Reader_sl
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MF-%temp%\Atomic
+27
+0 1 FR-1
+0 2 WR-1
+1 2 EX-2
+0 3 WR-1
+1 3 WR-2
+0 4 FR-1
+1 4 IJ-2
+4 2 RD-3
+4 3 WR-3
+0 5 FR-1
+1 5 IJ-2
+5 2 WR-4
+5 3 WR-4
+0 6 UK-1
+1 7 WR-2
+4 7 RD-3
+5 7 WR-4
+1 8 RD-2
+4 8 WR-3
+5 8 WR-4
+1 9 EX-2
+4 9 UK-3
+1 10 RD-2
+5 10 WR-4
+5 11 WR-4
+5 12 ST-4
+5 13 WR-4
+

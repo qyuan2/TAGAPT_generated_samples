@@ -1,0 +1,48 @@
+14
+MP*-grep
+TP*-tac
+MF-sysctl.c
+SF-resolv.c
+TP*-uname
+TF-shell.cgi
+SO-http://192.168.206.137:8080/robots.txt
+SO-192.168.206.137
+MF-target.example.c
+TP-uname
+MF-raw.githubusercontent.c
+SF-p.c
+TF-settings.php
+MP*-sudo
+31
+0 1 IJ-1
+0 2 EX-1
+1 2 RD-2
+0 3 UK-1
+1 4 IJ-2
+4 2 WR-3
+1 5 WR-2
+4 5 EX-3
+1 6 ST-2
+4 6 ST-3
+7 1 RF-2
+4 7 ST-3
+1 8 WR-2
+4 8 EX-3
+1 9 FR-2
+9 2 WR-3
+4 9 IJ-3
+9 5 RD-3
+6 9 RF-3
+9 7 ST-3
+9 8 WR-3
+1 10 WR-2
+4 10 UK-3
+1 11 RD-2
+9 11 RD-3
+9 12 WR-3
+13 5 RD-4
+6 13 RF-3
+13 7 ST-4
+13 8 EX-4
+9 13 UK-3
+

@@ -1,0 +1,103 @@
+26
+MP*-CasPol.exe
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+MF-C:\Windows\SysWOW64\cmd.exe
+MP-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MP-Ayuaey.exe 
+SF-C:\Users\admin\AppData\Local\Temp\is-Q02DK.tmp
+SO-162.252.214.4
+MF-C:\Users\admin\AppData\Local\Temp\Setup.m
+SF-C:\Users\admin\AppData\Local\Temp\tmp91F1.tmp
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+TP-bfsvc.exe
+MP-Reader_sl.exe
+MP*-Test.exe 
+MP*-Reader_sl.exe 
+MF-C:\Windows\system32\shell32
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+TP*-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+TP-saves.exe
+MF-Soft.exe
+SF-C:\Browserweb\MDCD8H1.bat
+MF-C:\Users\admin\Desktop\bootkit
+MP-words[1].txt.exe
+MF-\Users\admin\AppData\Local\Temp\IMG_4096.HEIC.jpg
+SF-C:\Program Files\appdata\local\temp\deep
+74
+1 0 RF-1
+0 2 RD-1
+0 3 FR-1
+1 3 RF-1
+3 2 WR-1
+0 4 FR-1
+1 4 RF-1
+4 2 EX-1
+3 4 UK-1
+0 5 WR-1
+6 0 RF-1
+0 7 RD-1
+0 8 WR-1
+0 9 ST-1
+0 10 IJ-1
+1 10 RF-1
+10 2 RD-1
+10 5 WR-1
+6 10 RF-1
+10 7 RD-1
+10 8 EX-1
+9 10 RF-1
+11 1 ST-1
+11 2 EX-1
+11 5 WR-1
+6 11 RF-1
+11 7 WR-1
+11 8 WR-1
+9 11 RF-1
+10 11 UK-1
+12 2 WR-2
+12 5 WR-2
+6 12 RF-2
+12 7 WR-2
+12 8 RD-2
+12 9 ST-2
+13 5 EX-3
+6 13 RF-3
+13 7 EX-3
+13 8 WR-3
+13 9 ST-3
+12 14 WR-2
+13 14 RD-3
+15 12 RF-2
+15 13 RF-3
+16 12 RF-2
+13 16 ST-3
+12 17 ST-2
+13 17 ST-3
+18 8 WR-4
+18 9 ST-4
+12 18 IJ-2
+13 18 IJ-3
+18 14 WR-4
+18 15 ST-4
+16 18 RF-3
+18 17 ST-4
+19 9 ST-4
+12 19 UK-2
+13 20 RD-3
+18 20 WR-4
+13 21 CD-3
+18 21 WR-4
+13 22 WR-3
+18 22 UK-4
+13 23 FR-3
+23 14 WR-4
+23 15 ST-4
+23 16 ST-4
+17 23 RF-4
+23 20 WR-4
+23 21 WR-4
+23 24 EX-4
+23 25 UK-4
+

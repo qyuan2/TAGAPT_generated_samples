@@ -1,0 +1,36 @@
+11
+MP*-c3c6a5675d32fe330b83debceb63d60e.exe 
+MF-\Windows\syswow64\regsvr32.exe
+MP*-dllhоst.exe 
+MF-C:\Users\admin\AppData\Local\Temp\renamer
+TP-v6621467.exe
+TF-%USERPROFILE%\T1560.001
+TP*-data.exe
+MF-C:\Users\admin\AppData\Local\Microsoft\Windows\675C164A48CAABAED03C522F8DB787B373FB4DE2
+MP*-ns9872.tmp 
+MF-CSIDL_COMMON_APPDATA\anydesk.exe
+MP-updater.exe
+22
+0 1 WR-1
+0 2 FR-1
+2 1 CD-2
+0 3 WR-1
+2 3 WR-2
+0 4 IJ-1
+4 1 WR-2
+2 4 UK-2
+0 5 EX-1
+0 6 FR-1
+6 1 RD-3
+6 3 EX-3
+6 5 WR-3
+0 7 WR-1
+6 7 RD-3
+0 8 FR-1
+8 1 WR-4
+8 3 WR-4
+8 5 WR-4
+6 8 UK-3
+0 9 CD-1
+10 1 UK-4
+

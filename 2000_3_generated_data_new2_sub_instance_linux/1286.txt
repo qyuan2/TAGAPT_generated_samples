@@ -1,0 +1,41 @@
+13
+MP*-ifconfig
+MP-ls
+MF-td.c
+SF-access.txt
+MF-pd.c
+MF-chttp.c
+SF-raj.txt
+SO-192.168.47.134:4444
+MP*-less
+MF-resolv.c
+MP*-nl
+MP-uname
+MP*-cat
+25
+0 1 FR-1
+0 2 WR-1
+1 2 EX-1
+1 3 RD-1
+1 4 WR-1
+1 5 RD-1
+1 6 RD-1
+1 7 ST-1
+1 8 FR-1
+8 2 UK-2
+1 9 RD-1
+1 10 FR-1
+10 3 RD-3
+10 4 RD-3
+10 5 WR-3
+10 6 CD-3
+10 7 ST-3
+10 9 WR-3
+11 3 UK-3
+12 4 WR-4
+12 5 RD-4
+12 6 EX-4
+7 12 RF-3
+12 9 WR-4
+10 12 UK-3
+

@@ -1,0 +1,30 @@
+10
+MP*-words[1].txt.exe
+MF-C:\Windows\system32\verclsid
+TF-C:\Users\admin\Desktop\Screenshot
+MP*-xordump.exe 
+TP*-mshta.exe
+SF-C:\Users\admin\AppData\Local\Temp\file.exe
+SF-%logonserver%\sysvol\
+MP*-df1f94243f99b25fea44d17750d24d04.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Navicat_Keygen_Patch_v3
+MP-MadInjector\MadInjector.exe 
+17
+0 1 RD-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-2
+0 4 IJ-1
+4 1 WR-3
+4 2 WR-3
+0 5 CD-1
+4 5 WR-3
+0 6 RD-1
+4 6 WR-3
+0 7 FR-1
+7 1 EX-4
+7 2 RD-4
+4 7 UK-3
+0 8 WR-1
+0 9 UK-1
+

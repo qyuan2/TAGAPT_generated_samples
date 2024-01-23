@@ -1,0 +1,33 @@
+10
+MP*-ls
+MF-log.c
+MF-cron.h
+MF-1.txt
+MF-backsup.sh
+MP*-dd
+MP*-cat
+MF-cron.a
+TF-atomic.log
+MP*-grep
+20
+0 1 RD-1
+0 2 WR-1
+0 3 WR-1
+0 4 RD-1
+0 5 FR-1
+5 1 EX-2
+5 2 WR-2
+5 3 WR-2
+5 4 EX-2
+0 6 FR-1
+6 1 UK-3
+0 7 CD-1
+5 7 RD-2
+0 8 RD-1
+5 8 WR-2
+0 9 FR-1
+9 2 RD-4
+9 3 WR-4
+9 4 RD-4
+5 9 UK-2
+

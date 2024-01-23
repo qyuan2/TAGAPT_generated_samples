@@ -1,0 +1,46 @@
+14
+MP*-echo 
+TP-dd
+MP-sed
+MF-io.r
+MP*-netstat
+MF-d.c
+SF-d.c
+SO-127.0.0.1
+MP-uname
+MP-find
+MF-cron.h
+MP*-bash
+MF-log.c
+MP*-sed
+29
+0 1 IJ-1
+0 2 FR-1
+1 2 UK-1
+0 3 RD-1
+0 4 FR-1
+4 3 WR-2
+0 5 WR-1
+4 5 WR-2
+0 6 RD-1
+4 6 WR-2
+0 7 ST-1
+7 4 RF-1
+0 8 FR-1
+8 3 WR-2
+4 8 UK-2
+0 9 FR-1
+9 3 WR-2
+9 5 WR-2
+9 6 UK-2
+0 10 WR-1
+11 3 RD-3
+11 5 CD-3
+7 11 RF-1
+11 10 WR-3
+11 12 EX-3
+13 5 EX-4
+7 13 RF-1
+13 10 RD-4
+11 13 UK-3
+

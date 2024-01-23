@@ -1,0 +1,50 @@
+16
+MP*-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+MP-LogTransport2.exe
+MF-postgres.exe
+MP-ProcessHacker.exe 
+TF-C:\Users\admin\AppData\Local\Temp\Enquiry
+MF-C:\Windows\SysWOW64\svchost.exe
+TP*-nsA317.tmp
+MP*-Dkeyauth.tmp
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+SF-C:\Windows\System32\slui
+MP-Fastfoood.exe
+MP*-regasm.exe
+SF-C:\Users\admin\AppData\Local\Temp\Pago
+MF-C:\Users\admin\AppData\Local\Temp\system
+MP-PowerShell.exe
+TP-Nixware.exe
+31
+0 1 FR-1
+0 2 WR-1
+1 2 EX-1
+0 3 FR-1
+1 3 UK-1
+0 4 RD-1
+0 5 WR-1
+0 6 FR-1
+6 2 WR-2
+6 4 WR-2
+6 5 WR-2
+0 7 FR-1
+7 2 WR-3
+7 4 WR-3
+7 5 RD-3
+6 7 UK-2
+8 0 RF-1
+0 9 UK-1
+10 2 RD-3
+10 4 WR-3
+10 5 UK-3
+11 2 EX-4
+11 4 WR-4
+8 11 RF-4
+11 12 RD-4
+11 13 WR-4
+14 4 WR-4
+14 8 ST-4
+11 14 UK-4
+15 8 ST-4
+15 12 UK-4
+

@@ -1,0 +1,84 @@
+22
+MP*-chmod
+MF-0*.txt
+MP-vi
+TP*-cd
+TP-sed
+TP*-cat
+MP-grep
+SF-cron.h
+TF-anaconda-ks.cfg
+MF-secret.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MF-target.example.c
+MP-uname
+TF-T1003.008.txt
+MP*-awk
+TP-head
+MF-raft-medium-directories.txt
+MP-ls
+MP-cat
+MP-tar 
+MP-bash
+MP-sed
+59
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 FR-1
+3 1 RD-2
+2 3 IJ-1
+0 4 FR-1
+4 1 WR-2
+2 4 UK-1
+0 5 FR-1
+5 1 EX-3
+3 5 IJ-2
+0 6 FR-1
+6 1 EX-3
+3 6 IJ-2
+5 6 IJ-3
+0 7 EX-1
+3 7 WR-2
+5 7 EX-3
+6 7 UK-3
+0 8 WR-1
+3 8 WR-2
+5 8 WR-3
+0 9 WR-1
+3 9 EX-2
+5 9 RD-3
+0 10 ST-1
+10 3 RF-1
+10 5 RF-1
+3 11 WR-2
+5 11 UK-3
+3 12 IJ-2
+12 8 UK-3
+3 13 CD-2
+14 9 WR-4
+14 10 ST-4
+14 13 RD-4
+15 9 EX-4
+10 15 RF-4
+15 13 WR-4
+14 15 IJ-4
+14 16 WR-4
+15 16 EX-4
+17 9 RD-4
+10 17 RF-4
+17 13 WR-4
+15 17 IJ-4
+17 16 WR-4
+18 9 UK-4
+10 19 RF-4
+19 13 EX-4
+14 19 UK-4
+20 10 ST-4
+20 13 EX-4
+15 20 IJ-4
+20 16 WR-4
+17 20 UK-4
+21 13 WR-4
+15 21 UK-4
+

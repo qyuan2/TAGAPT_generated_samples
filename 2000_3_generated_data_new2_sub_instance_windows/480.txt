@@ -1,0 +1,125 @@
+33
+MP*-SearchIndexer.exe
+TF-C:\Windows\SysWOW64\ytqpvkdx\vlliugwu.exe
+SO-hxxp://sacramentos[.]ru/get.php'))|powershell
+TF-C:\Users\admin\Desktop\a6197937-992f-4d8c-a192-64a545a288e7.pdf
+TF-\Users\admin\AppData\Local\Temp\4CA9.dll
+MP-nsD232.tmp
+MF-C:\Users\admin\MicrosoftUpdate
+MF-\Users\admin\Desktop\Remittance_1021395_092023_111928.csv.txt
+MF-001983746763728927338.js
+MP-cipher.exe
+SF-C:\Users\admin\AppData\Local\Temp\GfQBLiiemEPjpaWCZk\DnaohH
+MP-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+MF-\Users\admin\AppData\Local\Temp\SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe
+MF-sc.exe
+MF-\Users\admin\AppData\Local\Temp\tb.png
+SO-https://download.anydesk.com/AnyDesk.exe
+MP*-InstaBotPro (1).exe 
+MF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d
+SO-https://download.anydesk.com/AnyDesk.exe
+MF-C:\Users\admin\AppData\Local\Temp\w2wwpl2p
+MF-C:\Users\admin\AppData\Local\Temp\New
+MP-B47C.exe
+MP-installd.exe
+MP*-vssvc.exe
+TP*-certreq.exe 
+MF-C:\Users\admin\MicrosoftUpdate.exe
+MF-C:\Users\admin\Desktop\Thursday.htm
+MP-cacls.exe
+MF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d
+MF-C:\Windows\system32\HJK
+SO-https://class.malware.re
+MP-tasklist.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+89
+0 1 WR-1
+2 0 RF-1
+0 3 WR-1
+0 4 WR-1
+0 5 FR-1
+5 1 UK-1
+0 6 RD-1
+0 7 CD-1
+0 8 EX-1
+0 9 FR-1
+9 2 ST-1
+9 3 WR-1
+9 4 RD-1
+9 6 EX-1
+9 7 WR-1
+9 8 UK-1
+0 10 WR-1
+2 11 RF-1
+11 3 WR-1
+11 4 WR-1
+11 6 WR-1
+11 7 CD-1
+11 10 WR-1
+11 12 WR-1
+11 13 RD-1
+11 14 WR-1
+11 15 ST-2
+16 6 RD-2
+16 7 WR-2
+16 10 CD-2
+16 12 WR-2
+16 13 WR-2
+16 14 RD-2
+15 16 RF-2
+11 17 WR-1
+16 17 WR-2
+18 11 RF-1
+16 18 ST-2
+16 19 RD-2
+16 20 RD-2
+21 12 WR-2
+21 13 WR-2
+21 14 RD-2
+15 21 RF-2
+21 17 WR-2
+21 18 ST-2
+21 19 RD-2
+21 20 WR-2
+22 13 WR-2
+22 14 RD-2
+15 22 RF-2
+22 17 EX-2
+18 22 RF-2
+22 19 WR-2
+22 20 WR-2
+21 22 UK-2
+23 14 WR-3
+15 23 RF-1
+23 17 WR-3
+18 23 RF-2
+23 19 WR-3
+23 20 RD-3
+24 15 ST-4
+16 24 IJ-2
+24 17 WR-4
+24 18 ST-4
+24 19 RD-4
+24 20 RD-4
+23 24 IJ-3
+16 25 WR-2
+23 25 WR-3
+24 25 WR-4
+23 26 WR-3
+24 26 EX-4
+18 27 RF-2
+27 19 RD-4
+27 20 EX-4
+24 27 IJ-4
+27 25 CD-4
+27 26 UK-4
+23 28 WR-3
+24 28 WR-4
+23 29 RD-3
+24 29 RD-4
+23 30 ST-3
+24 30 ST-4
+23 31 FR-3
+24 31 UK-4
+23 32 ST-3
+

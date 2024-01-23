@@ -1,0 +1,59 @@
+16
+MP*-wscript.exe 
+MF-C:\Users\admin\AppData\Roaming\yonr\yonr
+SO-https://www.youtube.com/@Omnidev_
+TF-C:\Users\admin\AppData\Local\Temp\LZ4-SOFT.exe
+MF-pitshopautopartsus.c
+MF-C:\Program files\appdata\local\temp\5275.bmp
+TP-NilfiskServiceTool.exe
+MP-xnoobx.cc.exe 
+SF-C:\Users\admin\Desktop\MS-66016.r
+MF-\Users\admin\AppData\Local\Temp\tmp52BE.tmp
+MF-C:\Program Files\FileZilla FTP Client\filezilla
+MP*-nsBC6C.tmp
+MP-nsBC6C.tmp
+TP*-notepad++.exe 
+MP*-auditpol.exe
+MF-C:\Users\admin\AppData\Local\Temp\sample-store-survey-questionnaire-retail.zip
+40
+0 1 RD-1
+2 0 RF-1
+0 3 WR-1
+0 4 RD-1
+0 5 CD-1
+0 6 IJ-1
+6 1 RD-1
+6 2 ST-2
+6 3 RD-1
+6 4 RD-1
+6 5 WR-1
+0 7 FR-1
+7 1 EX-1
+2 7 RF-1
+7 3 WR-1
+7 4 WR-1
+7 5 RD-1
+6 7 IJ-1
+0 8 WR-1
+6 8 RD-1
+7 8 WR-1
+0 9 WR-1
+6 9 RD-1
+7 9 WR-1
+0 10 WR-1
+6 10 WR-1
+7 10 WR-1
+11 1 WR-2
+2 11 RF-2
+11 3 EX-2
+11 4 UK-2
+2 12 RF-2
+12 3 UK-2
+13 5 RD-3
+6 13 UK-1
+14 5 RD-4
+14 8 RD-4
+14 9 EX-4
+14 10 UK-4
+7 15 WR-1
+

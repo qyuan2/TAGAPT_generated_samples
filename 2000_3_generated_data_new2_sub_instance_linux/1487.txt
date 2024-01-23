@@ -1,0 +1,55 @@
+16
+MP*-sudo
+TP-vim
+SO-192.168.206.136
+MP*-more
+MP-cat
+TP-rev
+MF-resolv.c
+TP-nl
+MF-cron.m
+MP*-awk
+TF-test.txt
+TP-bash 
+MP*-paste
+SF-lighttp.c
+SF-at.a
+MP-ls
+36
+0 1 FR-1
+0 2 ST-1
+2 1 RF-1
+0 3 FR-1
+1 3 IJ-1
+2 3 RF-1
+0 4 FR-1
+1 4 IJ-1
+2 4 RF-1
+3 4 UK-2
+0 5 IJ-1
+1 5 IJ-1
+5 2 ST-2
+0 6 WR-1
+1 6 WR-1
+5 6 WR-2
+0 7 UK-1
+1 8 WR-1
+5 8 WR-2
+1 9 IJ-1
+2 9 RF-2
+5 9 IJ-2
+9 6 EX-3
+9 8 WR-3
+1 10 WR-1
+5 10 WR-2
+9 10 RD-3
+1 11 UK-1
+2 12 RF-2
+5 12 IJ-2
+12 6 EX-4
+12 8 WR-4
+9 12 UK-3
+5 13 WR-2
+5 14 WR-2
+5 15 UK-2
+

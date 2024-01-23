@@ -1,0 +1,67 @@
+20
+MP-w
+MP-nmap
+SF-journald.c
+MP-cat
+SF-flag3.txt
+MP-dd
+TP*-bash
+TP-cat
+MP-bash
+SO-192.168.0.134
+MF-alertConfigField.php
+MP-nl
+MF-journald.c
+MP*-paste
+TP*-cat
+MF-raft-medium-directories.txt
+MP*-cat
+SO-192.168.206.136
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-image.php
+44
+0 1 FR-1
+0 2 WR-1
+1 2 UK-1
+0 3 FR-1
+0 4 RD-1
+3 4 WR-1
+0 5 FR-1
+3 5 UK-1
+0 6 IJ-1
+6 4 WR-1
+0 7 FR-1
+7 4 WR-1
+6 7 IJ-1
+0 8 FR-1
+8 4 UK-1
+9 0 RF-1
+9 6 RF-1
+9 7 RF-1
+0 10 EX-1
+6 10 WR-1
+7 10 EX-1
+6 11 IJ-1
+7 11 UK-1
+6 12 RD-1
+6 13 IJ-1
+9 13 RF-2
+13 10 WR-2
+13 12 CD-2
+6 14 IJ-1
+9 14 RF-3
+14 10 WR-3
+14 12 EX-3
+13 14 IJ-2
+6 15 WR-1
+13 15 EX-2
+14 15 WR-3
+6 16 IJ-1
+16 9 ST-4
+16 10 WR-4
+16 12 WR-4
+13 16 UK-2
+17 14 RF-3
+14 18 ST-3
+14 19 UK-3
+

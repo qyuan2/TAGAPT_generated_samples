@@ -1,0 +1,45 @@
+12
+MP*-sed
+SF-2017.pl
+MF-raft-large-directories.txt
+SO-192.168.37.130
+TF-access.htm
+MF-e2.c
+MP-rev
+TP*-pr
+MP*-awk
+MP-who
+MP*-less
+MP-awk
+30
+0 1 WR-1
+0 2 WR-1
+0 3 ST-1
+0 4 WR-1
+0 5 WR-1
+0 6 FR-1
+6 1 WR-1
+6 2 UK-1
+0 7 IJ-1
+7 1 WR-2
+7 3 ST-2
+7 4 RD-2
+7 5 UK-2
+0 8 FR-1
+8 1 RD-3
+8 3 ST-3
+8 4 WR-3
+0 9 FR-1
+9 1 RD-3
+3 9 RF-1
+9 4 WR-3
+8 9 UK-3
+0 10 FR-1
+10 1 WR-4
+3 10 RF-1
+10 4 WR-4
+11 1 WR-4
+3 11 RF-1
+11 4 WR-4
+10 11 UK-4
+

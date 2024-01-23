@@ -1,0 +1,52 @@
+14
+MP*-sdiagnhost.exe
+MF-C:\Users\User\29630
+SF-C:\Users\admin\Downloads\Scanned_file_PO23_Jan
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MF-C:\Users\admin\Desktop\r\Pass
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MP-IEmode.exe 
+MP*-8cc2d4575163a5e3dc7a56face3644e9.exe 
+MP*-ns921C.tmp
+MF-C:\Users\admin\Desktop\Client
+MF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\jsestartup
+TF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns967A.tmp
+TP-procdump.exe
+TP*-ns9F46.tmp
+35
+0 1 CD-1
+0 2 CD-1
+0 3 ST-1
+0 4 WR-1
+0 5 ST-1
+0 6 FR-1
+6 1 RD-1
+6 2 UK-1
+0 7 FR-1
+7 1 WR-2
+3 7 RF-1
+7 4 WR-2
+5 7 RF-1
+0 8 FR-1
+8 1 RD-3
+8 3 ST-3
+8 4 WR-3
+8 5 ST-3
+0 9 WR-1
+7 9 WR-2
+8 9 WR-3
+0 10 WR-1
+7 10 RD-2
+8 10 WR-3
+7 11 RD-2
+8 11 RD-3
+3 12 RF-1
+12 4 WR-3
+12 5 ST-3
+7 12 IJ-2
+8 12 UK-3
+13 3 ST-4
+13 4 WR-4
+5 13 RF-3
+7 13 UK-2
+

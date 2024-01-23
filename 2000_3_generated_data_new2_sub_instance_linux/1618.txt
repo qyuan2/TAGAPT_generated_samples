@@ -1,0 +1,78 @@
+19
+MP*-ip
+MF-os.exe
+TP*-grep
+SO-http://192.168.10.129/image.php?FUZZ=something
+TP-hash-identifier
+TP-paste
+MF-raft-medium-directories.txt
+SO-192.168.37.130
+TF-password-hash.sh
+MP*-less
+TF-0*.txt
+MF-art.sh
+MF-2017.pl
+TP-sudo
+TP*-cat
+TF-AutoSUID.sh
+TP-more
+MP-wpscan
+TP-sudo
+56
+0 1 WR-1
+0 2 IJ-1
+2 1 CD-2
+0 3 ST-1
+2 3 ST-2
+0 4 FR-1
+4 1 RD-2
+2 4 IJ-2
+3 4 RF-2
+0 5 IJ-1
+5 1 WR-2
+2 5 UK-2
+0 6 RD-1
+4 6 WR-2
+7 0 RF-1
+4 7 ST-2
+0 8 WR-1
+4 8 WR-2
+0 9 FR-1
+9 1 RD-3
+3 9 RF-2
+4 9 IJ-2
+9 6 RD-3
+7 9 RF-2
+9 8 WR-3
+0 10 RD-1
+4 10 WR-2
+9 10 RD-3
+4 11 EX-2
+9 11 EX-3
+4 12 WR-2
+9 12 RD-3
+3 13 RF-2
+4 13 IJ-2
+13 6 WR-3
+13 7 ST-3
+13 8 EX-3
+9 13 IJ-3
+13 10 UK-3
+4 14 IJ-2
+14 6 WR-4
+7 14 RF-2
+14 8 WR-4
+9 14 IJ-3
+14 11 RD-4
+14 12 EX-4
+9 15 RD-3
+14 15 RD-4
+16 6 WR-4
+7 16 RF-2
+16 8 UK-4
+17 7 ST-4
+9 17 UK-3
+18 11 RD-4
+18 12 EX-4
+14 18 UK-4
+

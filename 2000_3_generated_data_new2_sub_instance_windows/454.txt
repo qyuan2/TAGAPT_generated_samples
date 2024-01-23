@@ -1,0 +1,43 @@
+13
+MP*-MicrosoftEdgeWebview2Setup.exe
+MP-ns97F4.tmp
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+SF-C:\Windows\system32\fvjhioojuu
+TP-taskhsvc.exe
+MP-appcmd.exe
+TF-Test.c
+TP*-df1f94243f99b25fea44d17750d24d04.exe
+MF-clients2.google.c
+TP*-main_bin.exe 
+MP*-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+MP-GLJC215.tmp
+MP-MadInjector\MadInjector.exe 
+27
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 EX-1
+0 4 FR-1
+4 3 CD-1
+0 5 FR-1
+5 3 CD-1
+4 5 UK-1
+0 6 WR-1
+0 7 IJ-1
+7 3 RD-2
+7 6 WR-2
+0 8 RD-1
+7 8 RD-2
+0 9 FR-1
+9 3 RD-3
+9 6 RD-3
+7 9 UK-2
+0 10 FR-1
+10 3 RD-4
+10 6 RD-4
+10 8 WR-4
+11 3 UK-4
+12 6 RD-4
+12 8 WR-4
+10 12 UK-4
+

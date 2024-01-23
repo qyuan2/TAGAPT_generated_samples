@@ -1,0 +1,43 @@
+12
+MP*-ns9BE4.tmp
+MP*-Locker mr robot.exe 
+MF-c:\Users\admin\AppData\Local\Temp\CSCDF9A186E2CB049DF9FD511614559535
+MF-C:\Users\admin\AppData\Roaming\AppData\AppData
+MF-C:\Users\admin\AppData\Local\Temp\tmp62DD.tmp
+MP-PowerShell.exe
+TP*-AdobeTray.exe
+MP*-regsvcs.exe
+MF-\Users\admin\AppData\Local\Temp\86270699bad2681bb3f5f57f44a7094e.exe
+MF-C:\Users\admin\AppData\Roaming\FutureTekICT SSLplus\ActivexInstaller\SSLplusInstaller
+MP-ChainRefBroker.exe  
+TP-olsptrs.exe 
+28
+0 1 FR-1
+0 2 WR-1
+1 2 WR-2
+0 3 RD-1
+1 3 WR-2
+0 4 WR-1
+1 4 WR-2
+0 5 FR-1
+1 5 UK-2
+0 6 IJ-1
+6 2 WR-3
+6 3 WR-3
+6 4 RD-3
+0 7 FR-1
+7 2 WR-4
+7 3 RD-4
+7 4 EX-4
+6 7 IJ-3
+0 8 EX-1
+6 8 WR-3
+7 8 UK-4
+0 9 WR-1
+6 9 WR-3
+0 10 UK-1
+11 2 WR-4
+11 3 WR-4
+11 4 WR-4
+6 11 UK-3
+

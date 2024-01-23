@@ -1,0 +1,109 @@
+30
+MP-radmin scanner.exe 
+SF-C:\Users\admin\AppData\Local\Temp\file
+MP-slui.exe
+MF-xxxFile.cs
+TP-pktmon.exe
+MF-C:\Users\admin\AppData\Local\Temp\pure
+MP-FISCALIA GENERAL DE LA NACION --.exe 
+TP*-fsutil.exe
+MF-C:\Program files\ntuser.dat
+MP*-softwarelagswitchc.exe 
+SF-C:\Users\admin\AppData\Local\Temp\fd11f1ad1fb99b1c9eae6f7f8d72af3f5c134f652b62df41e6d41dccb5bc172b
+TP-Span.exe.com 
+MP-nsBDC5.tmp
+MF-TEMP\bitsadmin2_flag.ps1
+MP*-AdobeARM.ex
+MP-Uninstall.exe 
+MF-Downloader_ns-hSm1.tmp
+MF-C:\Users\admin\AppData\Local\Temp\Approval
+SO-https://vision.fn-pz.com
+MF-\windows\system32\cmd.exe
+MF-compile.bat
+MP-PowerShell.exe
+MP-OriginalBuild.exe.exe 
+MP*-attrib.exe
+MP-Powershell.exe
+SF-C:\Users\admin\AppData\Local\Temp\alg.exe
+MF-c:\Program Files\Wireshark\tshark
+MF-C:\Users\admin\Desktop\mincedcrack.exe
+MF-\Windows\System32\runas.exe
+MF-C:\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+76
+0 1 RD-1
+0 2 FR-1
+2 1 RD-1
+0 3 WR-1
+2 3 CD-1
+0 4 UK-1
+2 5 EX-1
+6 1 WR-1
+2 6 UK-1
+7 1 WR-1
+7 3 EX-1
+7 5 RD-1
+7 8 WR-1
+9 1 RD-2
+9 3 RD-2
+9 5 EX-2
+7 9 IJ-1
+9 8 RD-2
+7 10 EX-1
+9 10 RD-2
+11 1 WR-2
+11 3 EX-2
+11 5 WR-2
+7 11 IJ-1
+11 8 WR-2
+9 11 IJ-2
+11 10 WR-2
+12 3 CD-2
+12 5 WR-2
+7 12 UK-1
+9 13 WR-2
+11 13 WR-2
+14 5 WR-3
+14 8 WR-3
+14 10 RD-3
+11 14 IJ-2
+14 13 RD-3
+15 5 EX-3
+15 8 RD-3
+9 15 UK-2
+11 16 WR-2
+14 16 EX-3
+11 17 WR-2
+14 17 WR-3
+11 18 ST-2
+18 14 RF-2
+11 19 WR-2
+14 19 EX-3
+11 20 WR-2
+14 20 EX-3
+11 21 FR-2
+21 13 EX-3
+21 16 WR-3
+21 17 WR-3
+18 21 RF-2
+21 19 WR-3
+21 20 EX-3
+22 13 EX-3
+14 22 UK-3
+23 13 WR-4
+23 16 WR-4
+23 17 CD-4
+23 18 ST-4
+23 19 WR-4
+23 20 CD-4
+24 16 EX-4
+24 17 RD-4
+24 18 ST-4
+24 19 WR-4
+24 20 RD-4
+21 24 UK-3
+23 25 WR-4
+23 26 WR-4
+23 27 WR-4
+23 28 WR-4
+23 29 WR-4
+

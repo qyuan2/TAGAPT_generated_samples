@@ -1,0 +1,77 @@
+20
+MP*-Nikki Project.scr
+MF-C:\Program Files\appdata\local\temp\rpvbh
+MF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\jsestartup
+TF-C:\Users\admin\AppData\Local\Temp\DOC77412.jpg
+TF-C:\Users\admin\Desktop\pestudio.exe
+MF-Files\Microsoft\Edge\Application\109.0.1518.115\BHO\ie_to_edge_stub.exe
+MF-files\appdata\roaming\battery\battery.cmd
+SO-hxxp://fiordan.ru/FILM.html
+SO-https://www.youtube.com/@Omnidev_
+MP-setup_avrokeyboard_5.6.0.exe
+TP-ExplorerSuite.exe
+MF-files\appdata\local\temp\14612.bmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+MF-C:\Program Files\Bandizip\Bandizip
+MP*-ns996E.tmp
+MF-C:\Windows\system32\svchost.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns929A.tmp
+MP-Reader_sl.exe 
+MP*-cvtres.exe
+TP*-hh.exe 
+54
+0 1 WR-1
+0 2 RD-1
+0 3 WR-1
+0 4 WR-1
+0 5 WR-1
+0 6 WR-1
+0 7 ST-1
+0 8 ST-1
+0 9 FR-1
+9 1 EX-1
+9 2 WR-1
+9 3 RD-1
+9 4 WR-1
+9 5 WR-1
+9 6 WR-1
+7 9 RF-1
+8 9 RF-1
+0 10 FR-1
+10 1 WR-1
+10 2 WR-1
+10 3 EX-1
+10 4 WR-1
+10 5 RD-1
+10 6 RD-1
+10 7 ST-1
+8 10 RF-1
+9 10 IJ-1
+9 11 WR-1
+10 11 WR-1
+12 9 RF-1
+12 10 RF-1
+9 13 WR-1
+10 13 RD-1
+14 4 WR-2
+14 5 CD-2
+14 6 RD-2
+14 7 ST-2
+14 8 ST-2
+9 14 UK-1
+10 15 WR-1
+10 16 WR-1
+8 17 RF-2
+10 17 UK-1
+18 11 RD-3
+18 12 ST-3
+18 13 WR-3
+18 15 RD-3
+18 16 WR-3
+19 11 WR-4
+12 19 RF-3
+19 13 WR-4
+19 15 CD-4
+19 16 WR-4
+18 19 UK-3
+

@@ -1,0 +1,34 @@
+10
+MP*-nl
+TP*-cat
+SO-192.168.10.129
+SO-http://192.168.10.129/image.php?FUZZ=something
+SO-8.8.8.8
+MP-uname
+TP*-awk
+MF-image.php
+MP*-last
+SF-etc.tar.gz
+21
+0 1 IJ-1
+2 0 RF-1
+1 2 ST-2
+0 3 ST-1
+3 1 RF-1
+4 0 RF-1
+1 4 ST-2
+0 5 FR-1
+1 5 UK-2
+0 6 IJ-1
+6 2 ST-3
+3 6 RF-1
+6 4 ST-3
+0 7 WR-1
+6 7 RD-3
+0 8 FR-1
+8 2 ST-4
+3 8 RF-1
+8 4 ST-4
+6 8 UK-3
+0 9 RD-1
+

@@ -1,0 +1,124 @@
+32
+MP*-ns9F46.tmp
+MP-nsD62C.tmp
+TP-words[1].txt.exe
+MP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MF-\Windows\Microsoft.Net\Framework\v4.0.30319\MSBuild.exe
+SF-C:\Users\admin\Desktop\OlympicDestroyer
+MF-fix.bat
+MP-8cc2d4575163a5e3dc7a56face3644e9.exe 
+SF-C:\Windows\system32\taskmgr
+MP-MicrosoftEdgeUpdate.exe 
+SF-C:\Users\admin\Desktop\CompPkgSrv
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Skype
+TF-C:\Users\admin\AppData\Local\Temp\keygen
+SF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth
+TP-fltmc.exe
+TP-ipconfig.exe
+TP*-UninsHs.exe
+MP-AdobeARM.ex
+MF-\Users\Public\Videos\videotv.m3u
+SF-C:\Windows\System32\wscript.exe
+MP*-PsExec.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9492.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+MF-C:\Users\admin\AppData\Local\Temp\Payroll_2022
+MP*-regsvr32 .exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MP-vlliugwu.exe 
+SF-C:\Windows\SysWOW64\tolkqfys
+MP-nsA395.tmp
+TF-Files\Hantek2xx2\STDFU.dll
+MP-vlliugwu.exe 
+MP-tasklist.exe
+89
+0 1 FR-1
+0 2 FR-1
+1 2 IJ-1
+0 3 FR-1
+1 3 UK-1
+0 4 RD-1
+2 4 RD-1
+0 5 EX-1
+2 5 WR-1
+0 6 WR-1
+2 6 RD-1
+0 7 FR-1
+2 7 IJ-1
+7 4 WR-1
+7 5 WR-1
+7 6 WR-1
+0 8 WR-1
+2 8 RD-1
+7 8 WR-1
+0 9 FR-1
+2 9 IJ-1
+9 4 UK-1
+0 10 EX-1
+2 10 WR-1
+7 10 WR-1
+2 11 WR-1
+7 11 RD-1
+2 12 RD-1
+7 12 WR-1
+7 13 WR-1
+14 5 WR-1
+14 6 WR-1
+7 14 IJ-1
+14 8 EX-1
+14 10 WR-1
+14 11 UK-1
+15 5 WR-1
+15 6 RD-1
+7 15 UK-1
+16 6 CD-2
+16 8 WR-2
+16 10 WR-2
+16 12 RD-2
+16 13 WR-2
+17 8 WR-2
+17 10 WR-2
+17 12 UK-2
+16 18 WR-2
+16 19 WR-2
+20 10 WR-3
+20 13 WR-3
+16 20 IJ-2
+20 18 WR-3
+20 19 RD-3
+16 21 RD-2
+20 21 RD-3
+22 16 RF-2
+20 22 ST-3
+16 23 WR-2
+20 23 WR-3
+16 24 IJ-2
+24 18 EX-4
+24 19 RD-4
+24 21 WR-4
+24 22 ST-4
+24 23 WR-4
+16 25 ST-2
+20 25 ST-3
+25 24 RF-3
+16 26 FR-2
+26 18 WR-4
+26 19 EX-4
+26 21 WR-4
+22 26 RF-3
+26 23 RD-4
+26 25 ST-4
+20 27 UK-3
+28 18 WR-4
+28 19 WR-4
+28 21 UK-4
+24 29 RD-4
+26 29 RD-4
+22 30 RF-3
+30 23 WR-4
+24 30 UK-4
+22 31 RF-3
+31 23 RD-4
+25 31 RF-4
+26 31 UK-4
+

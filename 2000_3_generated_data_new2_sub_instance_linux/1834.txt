@@ -1,0 +1,66 @@
+21
+MP*-nl
+MF-user.r
+MF-folders/files
+TF-cron.a
+MF-at.a
+MP*-cat
+SO-192.168.47.155
+MF-d.c
+MF-ttpd.c
+TF-user.r
+MF-httpd.c
+SF-settings.php
+MF-T1574.006.c
+MF-T1070.004-test.txt
+TP*-cat
+MF-CleaingScript.sh
+TP-cat
+TP*-paste
+SF-te.c
+SF-settings.php
+MP-tac
+42
+0 1 RD-1
+0 2 WR-1
+0 3 RD-1
+0 4 WR-1
+5 1 WR-2
+5 2 WR-2
+5 3 WR-2
+5 4 RD-2
+5 6 ST-2
+5 7 RD-2
+5 8 EX-2
+5 9 RD-2
+5 10 WR-2
+5 11 WR-2
+5 12 EX-2
+5 13 EX-2
+5 14 FR-2
+14 6 ST-3
+14 7 WR-3
+14 8 WR-3
+14 9 WR-3
+14 10 UK-3
+5 15 WR-2
+6 16 RF-2
+16 7 WR-3
+16 8 WR-3
+16 9 WR-3
+16 11 EX-3
+16 12 WR-3
+16 13 RD-3
+16 15 RD-3
+17 7 RD-4
+17 8 WR-4
+17 9 WR-4
+17 11 WR-4
+17 12 UK-4
+16 18 RD-3
+16 19 RD-3
+20 11 EX-4
+20 13 WR-4
+20 15 EX-4
+16 20 UK-3
+

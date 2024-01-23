@@ -1,0 +1,52 @@
+12
+MP*-ls
+SF-CleaingScript.sh
+MF-shell.cgi
+MF-settings.php
+TP*-cat
+MP*-echo 
+TF-ufw.c
+MP-ifconfig
+MP*-cat
+MP-bash
+MP-nl
+TP-cat
+37
+0 1 WR-1
+0 2 WR-1
+0 3 CD-1
+0 4 IJ-1
+4 1 CD-2
+4 2 RD-2
+4 3 WR-2
+0 5 FR-1
+5 1 RD-3
+5 2 RD-3
+5 3 RD-3
+4 5 IJ-2
+0 6 CD-1
+4 6 EX-2
+5 6 RD-3
+0 7 FR-1
+7 1 RD-3
+7 2 WR-3
+7 3 WR-3
+4 7 IJ-2
+5 7 UK-3
+0 8 FR-1
+8 1 WR-4
+8 2 WR-4
+8 3 WR-4
+4 8 IJ-2
+8 6 RD-4
+0 9 UK-1
+10 1 WR-4
+10 2 RD-4
+10 3 CD-4
+4 10 UK-2
+11 1 WR-4
+11 2 RD-4
+11 3 CD-4
+11 6 EX-4
+8 11 UK-4
+

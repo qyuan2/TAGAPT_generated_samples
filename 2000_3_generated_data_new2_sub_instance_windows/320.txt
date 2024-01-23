@@ -1,0 +1,59 @@
+19
+MP*-iexplore.exe 
+MP-pktmon.exe
+TP-nsA042.tmp
+MF-.\ExternalPayloads\msxsl.exe
+TP-NdSvr.exe
+MP*-wmic.exe
+MF-C:\Users\admin\AppData\Local\Temp\ActionList.xml
+MF-C:\savesdllNetdhcp\dwm.exe
+SF-C:\Program files\appdata\local\temp\14612.bmp
+TP-ns967A.tmp
+MP-explorer.exe
+MF-\Users\admin\AppData\Local\Temp\script.js.zip
+SF-C:\Users\admin\AppData\Local\Temp\Rigs
+MP*-IBM_LINUX.exe 
+MP-net1.exe
+MF-C:\Users\User\appdata\local\temp\rpvbh
+MP*-ns9F46.tmp
+MF-C:\Windows\System32\rundll32.exe
+SO-0.0.0.0
+37
+0 1 FR-1
+1 2 IJ-1
+1 3 CD-1
+2 3 EX-1
+1 4 IJ-1
+2 4 UK-1
+5 3 RD-2
+5 6 RD-2
+5 7 WR-2
+5 8 WR-2
+9 3 RD-2
+5 9 IJ-2
+9 6 WR-2
+9 7 EX-2
+9 8 WR-2
+10 3 WR-2
+5 10 UK-2
+9 11 WR-2
+9 12 EX-2
+13 6 WR-3
+13 7 WR-3
+13 8 RD-3
+9 13 IJ-2
+13 11 WR-3
+13 12 CD-3
+14 6 EX-3
+14 7 RD-3
+14 8 UK-3
+9 15 RD-2
+13 15 WR-3
+16 7 WR-4
+9 16 IJ-2
+16 11 EX-4
+16 12 RD-4
+13 16 UK-3
+9 17 EX-2
+9 18 ST-2
+

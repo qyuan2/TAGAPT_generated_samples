@@ -1,0 +1,71 @@
+24
+MP*-bash
+MF-chttp.c
+MP-dnsdomainname
+MP-cat
+TP-cat
+MF-flag3.txt
+MF-T1003.008.txt
+MP-sed
+MP-pr
+TP-tcpdump 
+TF-victim-shred.txt
+MP*-dd
+MF-T1070.006-access.txt
+MP*-tail
+TF-etc.tar.gz
+MF-v.c
+MP-cat
+SF-inetd.c
+MP-echo
+MP*-sed
+MF-LinEnum.sh
+SF-flag4.txt
+MF-access.htm
+MP-cat
+44
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 UK-1
+4 1 WR-1
+2 4 IJ-1
+2 5 EX-1
+4 5 WR-1
+2 6 RD-1
+4 6 WR-1
+7 1 EX-1
+2 7 UK-1
+8 1 WR-1
+4 8 UK-1
+9 1 EX-1
+9 5 RD-1
+9 6 RD-1
+9 10 UK-1
+11 1 WR-2
+11 5 RD-2
+11 6 EX-2
+11 12 EX-2
+13 5 WR-3
+13 6 RD-3
+13 12 WR-3
+11 14 EX-2
+13 14 EX-3
+11 15 WR-2
+13 15 RD-3
+16 6 RD-3
+11 16 UK-2
+13 17 WR-3
+18 12 WR-3
+13 18 UK-3
+19 12 RD-4
+19 14 WR-4
+19 15 RD-4
+19 17 RD-4
+19 20 WR-4
+19 21 WR-4
+19 22 EX-4
+23 15 WR-4
+23 17 RD-4
+19 23 UK-4
+

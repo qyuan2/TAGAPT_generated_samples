@@ -1,0 +1,69 @@
+23
+MP*-cat
+MF-lighttpd.c
+SF-access.txt
+MF-httpd.c
+MP-cat
+MF-chttp.c
+MF-cron.h
+SO-192.168.159.128
+MF-victim-shred.txt
+MF-at.a
+SF-AutoSUID.sh
+MP*-nl
+MF-at.a
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MP*-teehee
+MF-subprocess.c
+MF-victim-shred.txt
+TP-chmod 
+SF-T1574.006.c
+MF-settings.php
+MF-cron.m
+MF-victim-shred.txt
+MP*-paste
+43
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 FR-1
+4 1 EX-1
+4 2 RD-1
+4 3 WR-1
+0 5 CD-1
+4 5 WR-1
+0 6 WR-1
+4 6 RD-1
+7 0 RF-1
+7 4 RF-1
+0 8 CD-1
+4 8 WR-1
+0 9 RD-1
+4 9 WR-1
+0 10 UK-1
+11 1 WR-2
+11 2 RD-2
+11 3 UK-2
+4 12 RD-1
+13 4 RF-1
+4 14 FR-1
+14 5 WR-3
+14 6 WR-3
+7 14 RF-3
+14 8 RD-3
+14 9 WR-3
+14 12 EX-3
+14 13 ST-3
+14 15 WR-3
+14 16 CD-3
+7 17 RF-3
+17 8 WR-3
+17 9 WR-3
+17 12 UK-3
+14 18 RD-3
+14 19 WR-3
+14 20 WR-3
+14 21 WR-3
+22 13 ST-4
+14 22 UK-3
+

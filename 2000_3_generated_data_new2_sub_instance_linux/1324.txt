@@ -1,0 +1,60 @@
+19
+MP*-bash
+TP-cat
+MP-rev
+MP-grep
+SF-e.c
+MP-ls
+MF-passwd.zip
+SO-192.168.10.131
+MP-finger
+TP-grep
+MF-T1070.006-modification.txt
+MP-awk
+MF-raft-large-directories.txt
+MP*-cat
+MP*-dd
+TF-0*.txt
+TF-resolv.c
+MP*-pr
+MF-access.txt
+38
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+0 4 WR-1
+3 4 UK-1
+0 5 FR-1
+0 6 EX-1
+5 6 WR-1
+0 7 ST-1
+5 7 ST-1
+0 8 UK-1
+5 9 FR-1
+9 6 RD-1
+9 7 ST-1
+5 10 WR-1
+9 10 RD-1
+5 11 UK-1
+9 12 RD-1
+13 6 WR-2
+13 7 ST-2
+9 13 IJ-1
+13 10 RD-2
+13 12 EX-2
+14 6 WR-3
+7 14 RF-2
+9 14 IJ-1
+14 10 WR-3
+14 12 UK-3
+9 15 WR-1
+13 15 WR-2
+9 16 WR-1
+13 16 WR-2
+17 7 ST-4
+9 17 IJ-1
+17 10 WR-4
+13 17 UK-2
+9 18 WR-1
+

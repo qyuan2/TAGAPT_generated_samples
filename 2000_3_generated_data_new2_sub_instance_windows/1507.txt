@@ -1,0 +1,55 @@
+14
+MP*-EFT Remittance copy.exe 
+MP*-AdobeARM.exe
+MF-C:\Users\admin\Desktop\softwarelagswitchc
+SO-https://slpbridge.com/storage/images/debug2.ps1
+TP-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+MF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64
+MF-C:\Users\admin\AppData\Roaming\skmt-bankinter-003-03588993232059560257100458.jar
+MF-\T1140_calc_decoded.exe
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe
+MF-%temp%\deleteme_T1551.004
+MP-renamer-7.5.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-7OKKI.tmp
+MP*-B70D.exe
+MP*-Dkeyauth.tmp
+38
+0 1 FR-1
+0 2 WR-1
+1 2 RD-2
+0 3 ST-1
+1 3 ST-2
+0 4 FR-1
+1 4 IJ-2
+4 2 RD-2
+3 4 RF-2
+0 5 WR-1
+1 5 WR-2
+4 5 WR-2
+0 6 RD-1
+1 6 WR-2
+4 6 RD-2
+0 7 WR-1
+1 7 RD-2
+4 7 WR-2
+0 8 FR-1
+1 8 UK-2
+0 9 WR-1
+4 9 EX-2
+0 10 UK-1
+4 11 WR-2
+12 3 ST-3
+4 12 IJ-2
+12 5 EX-3
+12 6 WR-3
+12 7 RD-3
+12 9 WR-3
+12 11 WR-3
+4 13 FR-2
+13 5 WR-4
+13 6 WR-4
+13 7 RD-4
+13 9 EX-4
+13 11 RD-4
+12 13 UK-3
+

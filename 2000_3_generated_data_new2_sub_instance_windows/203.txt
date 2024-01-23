@@ -1,0 +1,31 @@
+11
+MP-OUTLOOK.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\Downloads.zip
+MP-taskhsvc.exe
+MP*-MMFbbhOyNS.exe
+MF-Files\WinRAR\WinRAR.exe
+MP*-wusa.exe
+MP*-findstr.exe
+MP*-tshark.exe
+MP-pnputil.exe
+MF-C:\Windows\system32\NOTEPAD
+MP-Setup.exe
+17
+0 1 WR-1
+0 2 UK-1
+3 1 WR-1
+3 4 RD-1
+5 1 WR-2
+5 4 WR-2
+6 1 WR-3
+6 4 RD-3
+5 6 UK-2
+7 1 EX-4
+7 4 RD-4
+8 1 EX-4
+3 8 UK-1
+7 9 WR-4
+10 1 WR-4
+10 4 WR-4
+7 10 UK-4
+

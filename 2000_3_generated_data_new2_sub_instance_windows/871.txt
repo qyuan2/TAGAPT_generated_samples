@@ -1,0 +1,69 @@
+20
+MP*-is-Q2MHB.tmp
+SO-https://slpbridge.com/storage/images/debug2.ps1
+MF-C:\Program Files\Windows Photo Viewer\PhotoViewer
+MF-\Users\admin\Desktop\x86\ProcessHacker.exe
+MF-C:\Program files\appdata\local\temp\3893.bmp
+MF-\Windows\System32\powercfg.exe
+MP*-verclsid.exe
+SF-C:\Users\admin\AppData\Local\fvjhioojuu
+MP*-Redline Activate.exe 
+MF-C:\Users\admin\Desktop\APP
+TF-\Windows\system32\shell32.dll
+MP-takeown.exe
+MP*-Reader_sl.exe
+MP-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+MP-wusa.exe
+MP-msiexec.exe 
+MF-C:\Program Files\Mozilla Firefox\browser
+MF-C:\Path\AtomicRedTeam.dll
+MP-WISPTIS.EXE
+MF-\Users\admin\AppData\Local\Temp\bltf.exe.INFECTED.dll
+46
+0 1 ST-1
+0 2 WR-1
+0 3 WR-1
+0 4 RD-1
+0 5 RD-1
+0 6 FR-1
+1 6 RF-1
+6 2 WR-2
+6 3 RD-2
+6 4 RD-2
+6 5 WR-2
+0 7 RD-1
+6 7 RD-2
+0 8 FR-1
+8 1 ST-3
+8 2 WR-3
+8 3 RD-3
+8 4 EX-3
+8 5 WR-3
+6 8 UK-2
+0 9 CD-1
+0 10 WR-1
+1 11 RF-1
+11 2 EX-3
+11 3 UK-3
+12 2 RD-4
+12 4 WR-4
+12 5 WR-4
+12 7 EX-4
+12 9 WR-4
+12 10 EX-4
+13 4 UK-4
+14 5 RD-4
+14 7 WR-4
+14 9 WR-4
+14 10 UK-4
+15 5 WR-4
+15 7 CD-4
+15 9 EX-4
+12 16 CD-4
+15 16 WR-4
+12 17 WR-4
+15 17 WR-4
+18 9 WR-4
+12 18 UK-4
+15 19 UK-4
+

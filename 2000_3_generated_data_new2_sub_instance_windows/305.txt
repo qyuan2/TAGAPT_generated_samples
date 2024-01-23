@@ -1,0 +1,78 @@
+22
+MP*-crack.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Xworm
+MF-C:\Windows\system32\HJK
+MP-nsCA5C.tmp
+MP*-setup_avrokeyboard_5.6.0.exe
+MP-LZ4-SOFT.exe 
+SF-C:\Users\admin\AppData\Local\Temp\xx.vb
+MF-output_mysecpol.txt
+SF-C:\Users\admin\AppData\Local\Temp\FrequencyMeasurement.exe
+MF-\Users\admin\AppData\Local\Temp\EjEfD.exe
+MP-bb.exe 
+MP-ntvdm.exe
+MP*-operasetup.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp91F1
+TP*-@WanaDecryptor@.exe 
+TP-nsA317.tmp
+MF-\Users\admin\AppData\Local\Temp\is-I2CKA.tmp\component0_extract\saBSI.exe
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+MF-0-KRP-69032873653.pdf
+MP-file.exe 
+TF-C:\Users\admin\AppData\Local\Temp\upP
+MP-AIGeneratedRansomware.exe 
+53
+0 1 RD-1
+0 2 WR-1
+0 3 FR-1
+3 1 WR-1
+3 2 RD-1
+0 4 FR-1
+4 1 EX-2
+4 2 WR-2
+0 5 FR-1
+5 1 RD-2
+5 2 RD-2
+3 5 UK-1
+0 6 RD-1
+4 6 WR-2
+0 7 WR-1
+4 7 WR-2
+0 8 CD-1
+4 8 WR-2
+0 9 RD-1
+4 9 WR-2
+0 10 FR-1
+10 1 WR-2
+10 2 WR-2
+10 6 UK-2
+11 1 RD-2
+11 2 RD-2
+4 11 UK-2
+12 2 WR-3
+12 7 WR-3
+12 8 WR-3
+12 9 WR-3
+12 13 RD-3
+14 7 WR-4
+14 8 CD-4
+14 9 RD-4
+12 14 IJ-3
+14 13 WR-4
+15 7 UK-4
+12 16 RD-3
+14 16 UK-4
+17 12 RF-3
+12 18 WR-3
+19 9 WR-4
+19 13 EX-4
+17 19 RF-4
+19 18 RD-4
+12 20 WR-3
+19 20 WR-4
+12 21 FR-3
+21 13 WR-4
+21 17 ST-4
+21 18 WR-4
+19 21 UK-4
+

@@ -1,0 +1,96 @@
+22
+MP*-ls
+MF-anaconda-ks.cfg
+TP*-grep
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-echo-art-fish.sh
+MF-secret.c
+TF-te.c
+MP-uname
+TP-uname
+SF-anaconda-ks.cfg
+SO-192.168.10.131
+TP*-whatweb
+TP-less
+MP-awk
+MP*-grep
+SF-os.exe
+MP-bash
+MF-art.sh
+MP-dd
+MF-scr.jpg
+MF-pwquality.c
+MF-T1027-004-test.c
+71
+0 1 WR-1
+0 2 FR-1
+2 1 WR-2
+0 3 ST-1
+2 3 ST-2
+0 4 WR-1
+2 4 EX-2
+0 5 CD-1
+2 5 WR-2
+0 6 WR-1
+2 6 WR-2
+0 7 FR-1
+7 1 WR-2
+2 7 UK-2
+0 8 IJ-1
+8 1 WR-2
+3 8 RF-2
+8 4 WR-2
+8 5 EX-2
+8 6 RD-2
+0 9 RD-1
+8 9 CD-2
+0 10 ST-1
+8 10 ST-3
+11 1 WR-3
+3 11 RF-2
+11 4 WR-3
+11 5 RD-3
+11 6 WR-3
+8 11 IJ-2
+11 9 RD-3
+10 11 RF-3
+3 12 RF-2
+12 4 WR-3
+12 5 RD-3
+12 6 WR-3
+8 12 IJ-2
+12 9 WR-3
+12 10 ST-3
+11 12 IJ-3
+3 13 RF-2
+13 4 WR-3
+13 5 WR-3
+13 6 RD-3
+8 13 IJ-2
+13 9 WR-3
+10 13 RF-3
+11 13 IJ-3
+12 13 UK-3
+14 4 RD-4
+14 5 WR-4
+14 6 WR-4
+8 14 IJ-2
+14 9 WR-4
+10 14 RF-3
+11 14 IJ-3
+8 15 RD-2
+11 15 WR-3
+14 15 EX-4
+16 6 UK-4
+8 17 RD-2
+11 17 WR-3
+14 17 RD-4
+8 18 IJ-2
+18 9 WR-4
+18 10 ST-4
+11 18 IJ-3
+14 18 UK-4
+11 19 WR-3
+11 20 RD-3
+11 21 CD-3
+

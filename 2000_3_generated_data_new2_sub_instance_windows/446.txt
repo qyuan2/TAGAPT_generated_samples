@@ -1,0 +1,252 @@
+65
+MP*-anydesk.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+TF-C:\Users\admin\AppData\Local\Temp\c2dbd1f560dba5050031499cc921b3b7
+MP-RdrCEF.exe
+MP-Cscript.exe
+MP-SearchFilterHost.exe
+MP-vdsldr.exe
+MP-KMSpico_setup.tmp
+MF-RAT\Updater.exe
+MP-WerFault.exe 
+MF-CradleTest.txt
+SF-C:\Users\admin\AppData\Local\Temp\is-BOFPB.tmp
+SO-0.0.0.0
+SF-C:\Users\admin\AppData\LocalLow\Microsoft\Internet Explorer\DOMStore\reviewref_protected.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MP*-notepad++.exe
+SF-C:\Windows\Temp\lsass
+MF-RAT.zip
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+MF-Options\notepad.exe
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32
+MP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+MP-ExplorerSuite.tmp
+MF-files\appdata\local\temp\26012.bmp
+MF-C:\vLocalServerSetup\VPlugin
+MF-\Users\admin\AppData\Local\Temp\fs.a
+MP-oldplayer.exe 
+MP-firefox.exe 
+MP-nltest.exe
+MF-IE1.doc
+MF-C:\Program Files\Hantek2xx2\STTubeDevice30.dll
+TP-MicrosoftEdgeUpdate.exe 
+MP-EvaPKO
+MF-Users\{90140000-0017-0411-0000-0000000FF1CE}-C\SearchProtocolHost.exe
+TP-MadInjector\MadInjector.exe 
+MF-\Users\admin\AppData\Local\Temp\FastLane.m
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+SO-80.0.0.0
+SF-C:\Users\admin\AppData\Local\Temp\VRAPP.exe
+TF-C:\Users\Public\Videos\videotv.m3u
+SF-C:\Windows\system32\HJK.vb
+SO-hxxp://fiordan.ru/FILM.html
+MP-ns9E4A.tmp
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=jsp
+TP*-ns967A.tmp
+MP-installer.exe
+MF-C:\vLocalServerSetup\VPlugin.dll
+MP*-nanodump.x64.exe
+MF-\Windows\system32\schtasks.exe
+MF-\Users\admin\AppData\Local\Temp\ursnif.exe
+TP-driverquery.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037
+MF-C:\Program Files\Microsoft\Skype for Desktop\resources\app.a
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+SO-8.100.0.203
+MP-nsD38B.tmp
+SO-https://slpbridge.com/storage/images/debug2.ps1
+TP-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+SO-http://fbi.fund/dark.exe
+MP-client32.exe
+MP-ROUTE.EXE
+TF-.\T1220\src\msxslxmlfile.xml
+TF-\Users\admin\AppData\Local\Temp\Kulicib.exe
+MP-gsecdump.exe
+184
+0 1 ST-1
+0 2 WR-1
+0 3 FR-1
+3 1 ST-1
+3 2 WR-1
+0 4 FR-1
+4 1 ST-1
+4 2 WR-1
+3 4 UK-1
+0 5 FR-1
+5 1 ST-1
+5 2 WR-1
+0 6 FR-1
+1 6 RF-1
+6 2 UK-1
+0 7 FR-1
+1 7 RF-1
+5 7 UK-1
+0 8 RD-1
+0 9 FR-1
+1 9 RF-1
+9 8 EX-1
+0 10 WR-1
+9 10 WR-1
+9 11 RD-1
+9 12 ST-2
+9 13 RD-1
+9 14 ST-2
+9 15 FR-1
+15 10 RD-2
+15 11 WR-2
+12 15 RF-2
+15 13 CD-2
+14 15 RF-2
+9 16 WR-1
+15 16 RD-2
+9 17 EX-1
+15 17 WR-2
+9 18 WR-1
+15 18 WR-2
+15 19 RD-2
+15 20 RD-2
+12 21 RF-2
+21 13 WR-2
+21 14 ST-2
+21 16 WR-2
+21 17 WR-2
+21 18 UK-2
+22 13 WR-2
+14 22 RF-2
+22 16 CD-2
+22 17 RD-2
+22 19 WR-2
+22 20 WR-2
+15 23 WR-2
+22 23 CD-2
+15 24 WR-2
+22 24 WR-2
+15 25 WR-2
+22 25 WR-2
+26 16 EX-2
+26 17 WR-2
+26 19 UK-2
+27 17 WR-2
+27 20 RD-2
+22 27 UK-2
+28 20 WR-2
+28 23 EX-2
+28 24 RD-2
+28 25 RD-2
+28 29 EX-2
+28 30 EX-2
+31 23 RD-2
+31 24 WR-2
+31 25 EX-2
+28 31 IJ-2
+31 29 WR-2
+31 30 WR-2
+32 23 WR-2
+32 24 RD-2
+32 25 EX-2
+32 29 WR-2
+32 30 WR-2
+31 32 IJ-2
+28 33 WR-2
+31 33 RD-2
+32 33 WR-2
+34 24 RD-2
+34 25 EX-2
+28 34 IJ-2
+34 29 RD-2
+34 30 RD-2
+31 34 IJ-2
+32 34 UK-2
+28 35 WR-2
+31 35 EX-2
+36 28 RF-2
+31 36 ST-3
+37 28 RF-2
+37 31 RF-2
+28 38 RD-2
+31 38 RD-2
+31 39 WR-2
+31 40 RD-2
+41 31 RF-2
+42 33 WR-2
+42 35 EX-2
+42 36 ST-3
+37 42 RF-2
+42 38 EX-2
+42 39 EX-2
+42 40 RD-2
+41 42 RF-2
+42 43 ST-3
+44 35 WR-3
+44 36 ST-3
+37 44 RF-3
+44 38 WR-3
+44 39 RD-3
+44 40 WR-3
+44 41 ST-3
+42 44 IJ-2
+43 44 RF-3
+45 35 RD-3
+36 45 RF-3
+37 45 RF-3
+45 38 EX-3
+45 39 WR-3
+45 40 RD-3
+45 41 ST-3
+42 45 UK-2
+44 46 EX-3
+37 47 RF-4
+47 38 RD-4
+47 39 WR-4
+47 40 WR-4
+41 47 RF-3
+47 43 ST-4
+44 47 IJ-3
+47 46 RD-4
+44 48 UK-3
+47 49 RD-4
+50 40 RD-4
+41 50 RF-3
+43 50 RF-4
+50 46 UK-4
+47 51 ST-4
+47 52 EX-4
+47 53 WR-4
+47 54 ST-4
+55 47 RF-4
+47 56 FR-4
+56 49 WR-4
+56 51 ST-4
+56 52 RD-4
+56 53 WR-4
+56 54 ST-4
+55 56 RF-4
+47 57 ST-4
+57 56 RF-4
+58 49 WR-4
+58 51 ST-4
+58 52 WR-4
+58 53 WR-4
+58 54 ST-4
+55 58 RF-4
+56 58 IJ-4
+58 57 ST-4
+59 56 RF-4
+58 59 ST-4
+51 60 RF-4
+60 52 WR-4
+60 53 UK-4
+61 51 ST-4
+61 52 RD-4
+54 61 RF-4
+55 61 RF-4
+56 61 UK-4
+58 62 RD-4
+58 63 RD-4
+64 54 ST-4
+64 55 ST-4
+57 64 RF-4
+58 64 UK-4
+

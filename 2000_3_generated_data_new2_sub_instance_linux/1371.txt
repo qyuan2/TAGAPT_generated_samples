@@ -1,0 +1,95 @@
+28
+MP*-ifconfig
+MP-sed
+MP-bash
+TP*-cat
+TP-grep
+TP-cat 
+MP-nl
+MF-secret.c
+TP-head
+SO-192.168.2.102
+MF-lighttpd.c
+MF-passwd.zip
+TP-find
+MP*-dd
+TP-less
+SF-chttp.c
+MP-less
+MP*-sudo
+MF-apache2.c
+MF-d.c
+SF-v.c
+MF-backsup.sh
+MP-cat
+TP-git
+TP-echo
+MF-raft-medium-directories.txt
+TP-bash
+MP-paste
+64
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 IJ-1
+0 4 FR-1
+3 4 IJ-2
+0 5 IJ-1
+3 5 IJ-2
+4 5 IJ-2
+0 6 FR-1
+3 6 IJ-2
+4 6 IJ-2
+5 6 UK-2
+0 7 RD-1
+3 7 EX-2
+4 7 WR-2
+0 8 FR-1
+3 8 IJ-2
+4 8 IJ-2
+8 7 EX-2
+3 9 ST-2
+4 9 ST-2
+9 8 RF-2
+3 10 UK-2
+4 11 EX-2
+8 11 WR-2
+4 12 IJ-2
+12 7 WR-2
+8 12 UK-2
+4 13 IJ-2
+13 7 RD-3
+13 9 ST-3
+13 11 RD-3
+14 7 WR-3
+9 14 RF-3
+14 11 UK-3
+13 15 EX-3
+16 7 EX-3
+16 9 ST-3
+13 16 UK-3
+9 17 RF-3
+17 15 WR-4
+17 18 RD-4
+17 19 CD-4
+17 20 WR-4
+17 21 UK-4
+22 15 WR-4
+22 18 WR-4
+22 19 EX-4
+22 20 WR-4
+23 15 WR-4
+23 18 WR-4
+23 19 RD-4
+23 20 RD-4
+22 23 UK-4
+24 15 RD-4
+24 18 CD-4
+24 19 WR-4
+24 20 RD-4
+24 25 WR-4
+26 18 UK-4
+27 19 RD-4
+27 20 WR-4
+24 27 UK-4
+

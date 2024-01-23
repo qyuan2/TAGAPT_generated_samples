@@ -1,0 +1,121 @@
+32
+MP-head
+SF-access.htm
+SF-victim-shred.txt
+SF-locale.c
+MP-less
+TP*-python
+MF-cron.h
+SF-raft-large-directories.txt
+MF-Users.tar.gz
+MP*-head
+TP-bash
+MP-grep
+MP-sed
+MP-grep
+TP*-curl
+MF-shell.cgi
+SO-127.0.0.1
+MP-bash 
+MP-grep
+MF-logrotate.c
+MP-cat
+SF-raft-medium-directories.txt
+MF-art.sh
+SF-logrotate.c
+MP*-bash 
+MF-0*.txt
+TP-cat
+MF-T1003.008.txt
+MF-sysctl.c
+MP-less
+MP-systemctl
+MP-tail
+86
+0 1 WR-1
+0 2 RD-1
+0 3 RD-1
+0 4 UK-1
+5 1 WR-1
+5 2 RD-1
+5 3 RD-1
+5 6 RD-1
+5 7 EX-1
+5 8 RD-1
+9 1 WR-2
+9 2 RD-2
+9 3 EX-2
+5 9 IJ-1
+9 6 CD-2
+9 7 WR-2
+9 8 RD-2
+10 1 CD-2
+10 2 RD-2
+10 3 WR-2
+5 10 IJ-1
+10 6 RD-2
+10 7 RD-2
+10 8 WR-2
+9 10 UK-2
+11 1 WR-2
+11 2 WR-2
+11 3 EX-2
+5 11 UK-1
+12 2 RD-2
+12 3 RD-2
+12 6 WR-2
+12 7 UK-2
+13 3 CD-2
+13 6 CD-2
+13 8 WR-2
+14 6 WR-3
+14 8 RD-3
+13 14 IJ-2
+13 15 RD-2
+14 15 RD-3
+16 13 RF-2
+16 14 RF-3
+17 8 WR-3
+14 17 IJ-3
+17 15 WR-3
+17 16 ST-3
+18 8 EX-3
+14 18 IJ-3
+18 15 WR-3
+18 16 ST-3
+17 18 UK-3
+13 19 RD-2
+14 19 WR-3
+13 20 UK-2
+14 21 WR-3
+14 22 RD-3
+14 23 RD-3
+14 24 IJ-3
+24 15 WR-4
+24 16 ST-4
+24 19 RD-4
+24 21 WR-4
+24 22 WR-4
+24 23 EX-4
+24 25 WR-4
+16 26 RF-3
+26 19 WR-4
+26 21 UK-4
+24 27 EX-4
+24 28 RD-4
+29 19 RD-4
+29 22 RD-4
+29 23 WR-4
+29 25 EX-4
+29 27 WR-4
+29 28 EX-4
+30 22 WR-4
+30 23 WR-4
+24 30 UK-4
+31 22 WR-4
+31 23 EX-4
+31 25 CD-4
+31 27 WR-4
+31 28 RD-4
+29 31 UK-4
+

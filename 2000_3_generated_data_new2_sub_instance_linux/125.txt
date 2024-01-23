@@ -1,0 +1,157 @@
+40
+MP-echo 
+MP-dpkg
+TP-less
+MF-common.txt
+MP-dd
+TP*-cat
+TP-hostname
+MP-sftp
+MF-data.zip
+TP-nmap
+MF-shell.cgi
+MF-journald.c
+MF-s.c
+TF-common.txt
+MF-robots.txt
+SF-on.a
+SF-art.sh
+TP-awk
+TP*-head
+TP*-nmap
+MF-atomic.log
+TP-sudo
+MF-flag4.txt
+MF-Users.tar.gz
+MF-da-ks.cfg
+TF-io.r
+SF-e.c
+MF-td.c
+MP*-curl
+MF-www.google.c
+MP-head
+SF-inetd.c
+SF-journald.c
+SF-cron.h
+MP-dnsdomainname
+TF-raft-large-directories.txt
+TP-cat
+MP-ls
+MP-cat
+MP-sed
+114
+0 1 FR-1
+0 2 FR-1
+1 2 IJ-1
+0 3 RD-1
+1 3 EX-1
+2 3 WR-1
+0 4 UK-1
+1 5 IJ-1
+2 5 IJ-1
+5 3 WR-1
+1 6 IJ-1
+2 6 UK-1
+1 7 FR-1
+7 3 EX-1
+5 7 IJ-1
+1 8 RD-1
+5 8 EX-1
+7 8 UK-1
+1 9 IJ-1
+9 3 WR-1
+5 9 IJ-1
+1 10 WR-1
+5 10 WR-1
+9 10 WR-1
+1 11 EX-1
+5 11 RD-1
+9 11 CD-1
+5 12 WR-1
+9 12 EX-1
+5 13 WR-1
+9 13 WR-1
+5 14 RD-1
+9 14 RD-1
+5 15 RD-1
+9 15 WR-1
+9 16 WR-1
+9 17 IJ-1
+17 10 WR-1
+17 11 RD-1
+17 12 WR-1
+17 13 UK-1
+9 18 IJ-1
+18 10 EX-2
+18 11 RD-2
+18 12 WR-2
+18 14 WR-2
+18 15 WR-2
+18 16 RD-2
+9 19 FR-1
+19 10 WR-3
+19 11 WR-3
+19 12 WR-3
+19 14 WR-3
+19 15 WR-3
+19 16 RD-3
+18 19 IJ-2
+18 20 RD-2
+19 20 WR-3
+21 11 EX-3
+21 12 EX-3
+21 14 RD-3
+21 15 RD-3
+21 16 WR-3
+18 21 UK-2
+19 22 EX-3
+19 23 RD-3
+19 24 CD-3
+19 25 WR-3
+19 26 WR-3
+19 27 UK-3
+28 20 RD-4
+28 22 RD-4
+28 23 WR-4
+28 24 RD-4
+28 25 RD-4
+28 26 EX-4
+28 29 WR-4
+30 20 RD-4
+30 22 WR-4
+30 23 WR-4
+30 24 EX-4
+30 25 EX-4
+30 26 RD-4
+30 29 EX-4
+28 31 EX-4
+30 31 WR-4
+28 32 RD-4
+30 32 EX-4
+28 33 RD-4
+30 33 EX-4
+34 24 WR-4
+34 25 UK-4
+28 35 WR-4
+30 35 WR-4
+36 26 RD-4
+28 36 IJ-4
+36 29 WR-4
+30 36 UK-4
+28 37 FR-4
+37 29 RD-4
+37 31 EX-4
+37 32 RD-4
+37 33 WR-4
+37 35 WR-4
+28 38 FR-4
+38 29 RD-4
+38 31 WR-4
+38 32 EX-4
+38 33 UK-4
+39 29 RD-4
+39 31 WR-4
+39 32 WR-4
+39 35 RD-4
+37 39 UK-4
+

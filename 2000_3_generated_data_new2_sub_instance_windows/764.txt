@@ -1,0 +1,109 @@
+28
+MP*-msxsl.exe
+MF-%tmp%\T1106.exe
+TP-jojo11.exe 
+MP-pcalua.exe
+MF-C:\WINDOWS\system32\scrobj.dll
+SO-test@poscoplantec.co
+MP-jojo11.exe 
+TF-.\T1046\src\T1046.py
+MP*-taskkill.exe
+MP-schtasks.exe
+MF-C:\Users\admin\Desktop\shun2463
+TP*-Scanned_file_PO23_Jan.exe 
+MP-client32.exe
+MP-svchost.exe
+SF-C:\Users\admin\Desktop\Paradox RAT\pr2
+TP-help.exe
+TP-Locker mr robot.exe 
+SF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd
+MP*-WScript.exe 
+MF-C:\Users\admin\AppData\Local\Temp\3ec1f323b5\danke
+MF-COMERCIAL_70051.pdf.exe
+MF-\\Users\\Public\\Music\\MediaConvertor.dat
+MF-\Users\admin\AppData\Local\Temp\hh.exe
+MF-\Users\admin\AppData\Local\Temp\peplus.m
+SF-C:\Users\admin\AppData\Roaming\Nixware
+TP-is-3DL5P.tmp
+MP-main_bin.exe 
+MP-nsD232.tmp
+78
+0 1 RD-1
+0 2 IJ-1
+2 1 EX-1
+0 3 FR-1
+3 1 RD-1
+2 3 UK-1
+0 4 WR-1
+5 0 RF-1
+0 6 FR-1
+6 1 WR-1
+6 4 UK-1
+0 7 WR-1
+0 8 FR-1
+8 1 WR-2
+5 8 RF-2
+8 7 WR-2
+0 9 FR-1
+9 1 WR-2
+5 9 RF-2
+9 7 WR-2
+0 10 EX-1
+8 10 CD-2
+9 10 EX-2
+11 1 RD-3
+5 11 RF-3
+11 7 WR-3
+8 11 IJ-2
+9 11 IJ-2
+11 10 RD-3
+5 12 RF-3
+12 7 WR-3
+8 12 UK-2
+5 13 RF-3
+13 7 RD-3
+9 13 UK-2
+11 14 WR-3
+15 5 ST-3
+15 7 WR-3
+15 10 WR-3
+11 15 IJ-3
+15 14 WR-3
+16 7 RD-3
+16 10 RD-3
+11 16 IJ-3
+16 14 WR-3
+15 16 UK-3
+11 17 RD-3
+18 10 RD-4
+11 18 IJ-3
+18 14 WR-4
+18 17 RD-4
+11 19 WR-3
+18 19 RD-4
+11 20 RD-3
+18 20 WR-4
+11 21 RD-3
+18 21 WR-4
+18 22 EX-4
+18 23 WR-4
+18 24 UK-4
+25 17 WR-4
+25 19 WR-4
+25 20 RD-4
+25 21 RD-4
+25 22 RD-4
+25 23 WR-4
+26 17 WR-4
+26 19 RD-4
+26 20 RD-4
+26 21 RD-4
+26 22 WR-4
+26 23 CD-4
+25 26 UK-4
+27 17 WR-4
+27 19 WR-4
+27 20 RD-4
+27 21 WR-4
+27 22 UK-4
+

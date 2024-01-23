@@ -1,0 +1,49 @@
+16
+MP*-Driver Talent Pro.exe 
+MP-ns921C.tmp
+MP-MadInjector\MadInjector.exe 
+MF-C:\Program files\ntuser
+MF-\Users\admin\AppData\Local\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+MF-\Users\admin\AppData\Local\Temp\program2.py
+MF-C:\MSOCache\All Users\csrss.exe
+MF-\Windows\system32\msiexec.exe
+MP*-OlympicDestroyer.exe 
+MP*-auditpol.exe
+MF-C:\Windows\SysWOW64\help
+MF-C:\Users\admin\AppData\Local\Temp\XClient.rar
+SO-1.2.840.113556
+MF-\Users\admin\Downloads\MincedCrackexe_cyb3a.exe
+TF-EXa2972.8726\SUNATfacturanopagada.m
+MP*-mspaint.exe
+30
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 CD-1
+0 5 WR-1
+0 6 WR-1
+0 7 WR-1
+0 8 FR-1
+8 3 RD-2
+8 4 CD-2
+8 5 WR-2
+8 6 EX-2
+8 7 EX-2
+0 9 FR-1
+9 3 WR-3
+9 4 EX-3
+9 5 WR-3
+9 6 RD-3
+9 7 WR-3
+0 10 WR-1
+8 10 CD-2
+9 10 WR-3
+8 11 WR-2
+9 11 WR-3
+9 12 ST-3
+9 13 WR-3
+9 14 WR-3
+15 7 CD-4
+9 15 UK-3
+

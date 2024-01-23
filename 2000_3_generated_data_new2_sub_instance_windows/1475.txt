@@ -1,0 +1,35 @@
+10
+MP*-SecuriteInfo.com
+MF-C:\Users\admin\Desktop\Screenshot
+TP*-ns9E4A.tmp
+SO-https://pasalaganando.com/?utm_source=crm&utm_medium=email&utm_campaign=bancolombia_10_pct_facturacion
+MF-C:\Program Files\Mozilla Firefox\firefox
+SF-HKLM\SOFTWARE\Microsoft\Active
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+TP*-n4054738.exe
+MF-C:\Users\admin\AppData\Roaming\rPYrMQo\dvRzzWRPw.exe
+MP*-java.exe
+22
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+3 0 RF-1
+2 3 ST-2
+0 4 WR-1
+2 4 WR-2
+0 5 WR-1
+2 5 RD-2
+0 6 ST-1
+6 2 RF-1
+0 7 IJ-1
+7 1 RD-3
+2 7 UK-2
+0 8 WR-1
+0 9 FR-1
+9 1 EX-4
+3 9 RF-2
+9 4 WR-4
+9 5 EX-4
+6 9 RF-1
+9 8 UK-4
+

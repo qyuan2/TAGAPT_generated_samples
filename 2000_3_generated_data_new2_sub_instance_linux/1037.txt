@@ -1,0 +1,50 @@
+15
+MP*-curl
+MF-rockyou.txt
+MP*-pr
+MP-echo
+MF-target.example.c
+MF-e.c
+MF-chttp.c
+MF-access.txt
+SF-data.tar.gz
+MF-T1003.008.txt
+MF-pubprn.vbs
+SF-logrotate.c
+SF-target.example.c
+MP*-head
+MP*-cat
+32
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+0 3 UK-1
+2 4 RD-2
+2 5 WR-2
+2 6 RD-2
+2 7 WR-2
+2 8 WR-2
+2 9 RD-2
+2 10 RD-2
+2 11 WR-2
+2 12 WR-2
+13 4 RD-3
+13 5 WR-3
+13 6 WR-3
+13 7 WR-3
+13 8 EX-3
+13 9 EX-3
+13 10 RD-3
+13 11 WR-3
+13 12 WR-3
+14 4 WR-4
+14 5 WR-4
+14 6 WR-4
+14 7 WR-4
+14 8 WR-4
+14 9 WR-4
+14 10 EX-4
+14 11 WR-4
+14 12 WR-4
+13 14 UK-3
+

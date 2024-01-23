@@ -1,0 +1,44 @@
+14
+MP*-nsBDC5.tmp
+TP*-KMSpico_setup.exe
+MP-shutdown.exe
+MF-files\appdata\local\temp\14612.bmp.vb
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=jsp
+TP*-cmd.exe
+MP-hh.exe
+SF-C:\Users\admin\AppData\Local\Temp\sandbox
+MP*-CareUEyes.exe
+MF-C:\Users\admin\AppData\Local\Temp\script
+TF-\Users\admin\AppData\Local\Temp\vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+MF-C:\Users\admin\Downloads\malware
+TF-\Windows\system32\DllHost.exe
+MP-ONENOTE.EXE
+27
+0 1 IJ-1
+0 2 UK-1
+1 3 RD-2
+1 4 ST-2
+1 5 FR-2
+5 3 WR-3
+4 5 RF-2
+1 6 FR-2
+6 3 RD-3
+4 6 RF-2
+5 6 IJ-3
+1 7 WR-2
+5 7 WR-3
+6 7 RD-3
+1 8 IJ-2
+8 3 WR-4
+4 8 RF-2
+5 8 UK-3
+1 9 WR-2
+6 9 RD-3
+1 10 EX-2
+6 10 WR-3
+1 11 WR-2
+6 11 RD-3
+6 12 WR-3
+4 13 RF-2
+6 13 UK-3
+

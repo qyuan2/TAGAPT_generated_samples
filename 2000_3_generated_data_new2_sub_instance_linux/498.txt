@@ -1,0 +1,46 @@
+14
+MP*-awk
+MF-AutoSUID.sh
+SF-echo-art-fish.sh
+TF-T1027-004-test.c
+TP*-less
+TP*-cat
+MF-access.htm
+MP*-id
+MF-lighttp.c
+MF-da-ks.cfg
+SF-p.c
+TF-access.txt
+MF-folders/files
+MP-cat
+29
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 IJ-1
+4 1 EX-2
+4 2 WR-2
+4 3 WR-2
+0 5 FR-1
+5 1 WR-3
+5 2 WR-3
+5 3 RD-3
+4 5 UK-2
+0 6 WR-1
+0 7 FR-1
+7 1 RD-4
+7 2 WR-4
+7 3 RD-4
+7 6 WR-4
+0 8 RD-1
+7 8 WR-4
+0 9 WR-1
+7 9 RD-4
+0 10 RD-1
+7 10 WR-4
+7 11 EX-4
+7 12 WR-4
+13 3 WR-4
+13 6 WR-4
+7 13 UK-4
+

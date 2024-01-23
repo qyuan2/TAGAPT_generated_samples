@@ -1,0 +1,78 @@
+23
+MP*-z9673002.exe
+MP-wscript.exe 
+MP-RegAsm.exe
+MP*-iexplore.exe 
+TP-Tags.exe 
+MF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d
+MP-MicrosoftEdgeUpdate.exe
+MP-nsBC6C.tmp
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+TP-taskdl.exe
+MP*-KMSpico_setup.exe
+SF-C:\Users\admin\AppData\Local\Temp\BLOCKED
+SF-C:\Program Files\KMSpico\KMSELDI.exe
+MP*-New Client.exe
+MF-\Windows\System32\runas.exe
+MF-basitsana.c
+MP-fast1nject.exe 
+MF-\Users\admin\AppData\Local\Temp\UN.php
+MF-345678.exe
+MF-\Users\admin\AppData\Roaming\fertyno12\client32.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+TF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns921C.tmp
+MP-svchost.exe
+52
+0 1 FR-1
+0 2 FR-1
+0 3 FR-1
+0 4 FR-1
+1 4 IJ-1
+2 4 IJ-1
+3 4 IJ-2
+0 5 EX-1
+1 5 RD-1
+2 5 WR-1
+3 5 RD-2
+4 5 WR-2
+0 6 FR-1
+1 6 UK-1
+0 7 FR-1
+2 7 UK-1
+0 8 ST-1
+3 8 ST-2
+8 4 RF-2
+0 9 FR-1
+3 9 UK-2
+0 10 FR-1
+4 10 IJ-2
+10 5 WR-3
+8 10 RF-2
+4 11 RD-2
+10 11 RD-3
+4 12 WR-2
+10 12 WR-3
+4 13 FR-2
+13 5 RD-4
+8 13 RF-2
+13 11 WR-4
+13 12 RD-4
+4 14 EX-2
+10 14 RD-3
+13 14 UK-4
+10 15 EX-3
+16 8 ST-4
+16 11 RD-4
+16 12 WR-4
+16 15 WR-4
+10 17 RD-3
+16 17 WR-4
+10 18 RD-3
+16 18 WR-4
+10 19 EX-3
+16 19 EX-4
+16 20 ST-4
+16 21 RD-4
+22 15 WR-4
+16 22 UK-4
+

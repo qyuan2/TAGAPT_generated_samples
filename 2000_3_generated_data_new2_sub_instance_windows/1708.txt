@@ -1,0 +1,62 @@
+17
+MP*-attrib.exe
+MF-30802.ico.vb
+SF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves
+MF-%userprofile%\documents
+MF-\Users\admin\AppData\Local\Temp\ursnif.exe
+SO-file://C:\windows\system32\notepad.exe
+MP*-863e7c22c771e4005197ae28363584f8.exe 
+TF-C:\Users\admin\AppData\Local\Temp\Tudehluxjc.exe
+SF-C:\Windows\system32\prevhost
+TP*-wmic.exe
+TP-n4054738.exe
+MP*-LogTransport2.exe
+TF-C:\Users\admin\AppData\Local\Temp\z1Emir.exe
+SF-C:\Users\admin\AppData\Local\Temp\PENDÊNCIAS
+SF-C:\Program Files\Windows Media Player\wmpnscfg.exe
+MP-server.exe 
+MP-PING.EXE
+42
+0 1 WR-1
+0 2 RD-1
+0 3 WR-1
+0 4 RD-1
+0 5 ST-1
+0 6 FR-1
+6 1 WR-2
+6 2 RD-2
+6 3 RD-2
+6 4 WR-2
+5 6 RF-1
+0 7 WR-1
+6 7 WR-2
+0 8 RD-1
+6 8 WR-2
+0 9 IJ-1
+9 1 CD-3
+9 2 WR-3
+9 3 WR-3
+9 4 RD-3
+5 9 RF-1
+6 9 UK-2
+0 10 FR-1
+10 1 WR-3
+10 2 WR-3
+10 3 CD-3
+10 4 RD-3
+10 5 ST-3
+10 7 UK-3
+11 1 RD-4
+11 2 WR-4
+11 3 RD-4
+11 4 WR-4
+11 5 ST-4
+11 8 WR-4
+11 12 WR-4
+11 13 WR-4
+11 14 CD-4
+5 15 RF-3
+15 8 EX-4
+11 15 UK-4
+16 8 UK-4
+

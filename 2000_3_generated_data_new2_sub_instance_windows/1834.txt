@@ -1,0 +1,66 @@
+21
+MP*-hostname.exe
+MF-\Users\admin\AppData\Local\Temp\emotet_exe_e4_8fb2c48223952ffa157c8a0b9ab98e9f8b2924f7b8aa1faef94f3adc91eb8b61_2022-03-17__084608.exe
+MF-C:\Program files\appdata\local\temp\deprive
+TF-C:\Users\admin\AppData\Roaming\skmt-bankinter-003-03588993232059560257100458.jar
+MF-2307E.exe
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+MF-.\T1218\src\T1218.txt
+MF-\Users\admin\Downloads\Tl-36500547.7z
+TF-\Users\admin\AppData\Local\Temp\program2.py
+MF-C:\Windows\system32\svchost
+SF-C:\IDontExist
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe
+MF-%tmp%\mimikatz\x64\mimikatz.exe 
+TP*-dvRzzWRPw.exe
+MF-\Users\admin\AppData\Local\Temp\tmp15B6.tmp
+TP-nsA299.tmp
+TP*-SecuriteInfo.com
+SF-C:\Users\admin\AppData\Local\Temp\ma
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\Reader_sl
+MP-v6621467.exe
+42
+0 1 RD-1
+0 2 WR-1
+0 3 RD-1
+0 4 WR-1
+5 1 WR-2
+5 2 WR-2
+5 3 WR-2
+5 4 RD-2
+5 6 ST-2
+5 7 RD-2
+5 8 EX-2
+5 9 RD-2
+5 10 WR-2
+5 11 WR-2
+5 12 EX-2
+5 13 EX-2
+5 14 FR-2
+14 6 ST-3
+14 7 WR-3
+14 8 WR-3
+14 9 WR-3
+14 10 UK-3
+5 15 WR-2
+6 16 RF-2
+16 7 WR-3
+16 8 WR-3
+16 9 WR-3
+16 11 EX-3
+16 12 WR-3
+16 13 RD-3
+16 15 RD-3
+17 7 RD-4
+17 8 WR-4
+17 9 WR-4
+17 11 WR-4
+17 12 UK-4
+16 18 RD-3
+16 19 RD-3
+20 11 EX-4
+20 13 WR-4
+20 15 EX-4
+16 20 UK-3
+

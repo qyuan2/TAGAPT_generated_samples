@@ -1,0 +1,28 @@
+10
+MP*-nethtsrv.exe
+TF-\Users\admin\AppData\Local\Temp\Invoice.exe
+MP*-msxsl.exe
+MP*-jsc.exe
+MF-system.net
+MF-C:\Users\admin\AppData\Local\Temp\hh.exe
+MF-C:\Users\admin\AppData\Roaming\olsptrs\olsptrs.exe
+TF-C:\Users\admin\AppData\Local\Temp\UpdateService
+TP*-nsD232.tmp
+MP-data.exe
+15
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+0 3 FR-1
+3 1 WR-3
+0 4 WR-1
+3 4 RD-3
+0 5 WR-1
+3 5 CD-3
+0 6 WR-1
+3 6 UK-3
+0 7 WR-1
+0 8 FR-1
+8 1 UK-4
+0 9 UK-1
+

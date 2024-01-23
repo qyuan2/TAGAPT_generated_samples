@@ -1,0 +1,32 @@
+11
+MP*-uname
+SO-192.168.47.155
+MP*-scp
+MP-cat
+MP*-w
+MP*-tee
+SF-raw.githubusercontent.c
+MF-d.c
+MF-flag3.txt
+TP-bash
+MF-T1070.006-modification.txt
+18
+0 1 ST-1
+0 2 FR-1
+1 2 RF-1
+0 3 FR-1
+1 3 RF-1
+2 3 UK-2
+0 4 FR-1
+4 1 ST-3
+0 5 FR-1
+5 1 ST-4
+4 5 UK-3
+0 6 WR-1
+0 7 EX-1
+0 8 WR-1
+0 9 IJ-1
+9 1 ST-4
+9 6 UK-4
+0 10 WR-1
+

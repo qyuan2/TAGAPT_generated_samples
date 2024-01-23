@@ -1,0 +1,59 @@
+18
+MP*-sed
+MF-anaconda-ks.cfg
+SF-at.a
+MF-resolv.c
+MP-tee
+MP*-head
+MP-find
+MP*-uname
+MF-art.sh
+MF-e2.c
+MF-art.sh
+TP-who
+MF-resolv.c
+MF-chttp.c
+MF-access.htm
+SF-http.c
+TP*-chmod
+SF-resolv.c
+38
+0 1 RD-1
+0 2 RD-1
+0 3 RD-1
+0 4 UK-1
+5 1 WR-2
+5 2 RD-2
+5 3 EX-2
+6 1 WR-2
+6 2 UK-2
+7 1 WR-3
+7 3 WR-3
+5 8 CD-2
+7 8 RD-3
+5 9 WR-2
+7 9 WR-3
+5 10 RD-2
+7 10 RD-3
+11 1 RD-3
+11 3 EX-3
+5 11 IJ-2
+7 11 IJ-3
+11 8 UK-3
+5 12 RD-2
+7 12 RD-3
+5 13 WR-2
+7 13 CD-3
+5 14 EX-2
+7 14 EX-3
+5 15 WR-2
+7 15 RD-3
+7 16 FR-3
+16 9 RD-4
+16 10 EX-4
+16 12 WR-4
+16 13 EX-4
+16 14 WR-4
+16 15 UK-4
+7 17 WR-3
+

@@ -1,0 +1,69 @@
+20
+MP*-takeown.exe
+MF-C:\Users\admin\AppData\Local\Temp\gagu4gmirt
+MF-..wsf
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe
+MF-\Users\admin\AppData\Roaming\expo.exe
+MP-LZ4-SOFT.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MP-certutil
+MP-firefox.exe 
+MP-WMIC.exe 
+TP*-test de fdp.exe 
+SF-C:\Windows\Temp\xordump
+MF-C:\Users\admin\AppData\Roaming\obiokmgf6
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe
+TP*-FISCALIA GENERAL DE LA NACION --.exe 
+MP*-runas.exe
+MF-C:\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539.doc
+MF-amend.rar
+MF-\Windows\system32\pnpui.dll
+MP-mimikatz.exe
+46
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 RD-1
+0 5 FR-1
+5 1 UK-1
+0 6 ST-1
+0 7 FR-1
+7 2 WR-1
+7 3 EX-1
+7 4 WR-1
+7 6 ST-1
+0 8 FR-1
+8 2 WR-1
+8 3 WR-1
+8 4 WR-1
+6 8 RF-1
+7 8 UK-1
+0 9 FR-1
+9 2 WR-1
+9 3 UK-1
+0 10 FR-1
+10 2 WR-2
+10 4 WR-2
+10 6 ST-2
+10 11 EX-2
+10 12 EX-2
+10 13 WR-2
+14 4 EX-3
+14 6 ST-3
+10 14 IJ-2
+14 11 RD-3
+14 12 WR-3
+14 13 WR-3
+6 15 RF-2
+10 15 IJ-2
+15 11 RD-4
+15 12 UK-4
+10 16 EX-2
+14 16 RD-3
+10 17 WR-2
+14 17 RD-3
+10 18 UK-2
+19 11 EX-4
+19 13 WR-4
+14 19 UK-3
+

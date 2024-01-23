@@ -1,0 +1,63 @@
+16
+MP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+SO-127.0.0.1
+MF-%temp%\T1222.001_cacls 
+TP-Uninstall.exe 
+TP-wmpnscfg.exe
+TP*-DllHost.exe
+MF-lsass.exe
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+TP*-WScript.exe
+MF-C:\Users\admin\AppData\Local\Temp\86270699bad2681bb3f5f57f44a7094e.exe
+MP*-ping.exe
+MP*-EXE_temp2.exe 
+MP-nethtsrv.exe
+MF-C:\Users\admin\AppData\Local\Temp\207aa4515d\oneetx
+MP-tasklist.exe
+MP-EQNEDT32.EXE
+44
+0 1 ST-1
+0 2 WR-1
+0 3 UK-1
+4 1 ST-1
+4 2 CD-1
+1 5 RF-1
+5 2 WR-1
+4 5 IJ-1
+4 6 WR-1
+5 6 RD-1
+1 7 RF-1
+7 2 RD-1
+4 7 UK-1
+1 8 RF-1
+8 2 RD-2
+5 8 IJ-1
+8 6 RD-2
+5 9 RD-1
+8 9 RD-2
+1 10 RF-1
+10 2 WR-3
+5 10 IJ-1
+10 6 WR-3
+8 10 UK-2
+1 11 RF-1
+11 2 WR-4
+5 11 IJ-1
+11 6 WR-4
+11 9 WR-4
+12 2 WR-4
+5 12 IJ-1
+12 6 WR-4
+12 9 RD-4
+11 12 UK-4
+5 13 RD-1
+5 14 IJ-1
+14 6 WR-4
+14 9 WR-4
+14 13 WR-4
+5 15 IJ-1
+15 6 CD-4
+15 9 RD-4
+15 13 WR-4
+14 15 UK-4
+

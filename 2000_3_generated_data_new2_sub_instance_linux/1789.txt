@@ -1,0 +1,114 @@
+31
+MP*-less
+MP-cat
+SF-http.c
+MF-T1003.008.txt
+MP-cat
+SF-raft-large-directories.txt
+MP-find
+MP-rev
+MF-pd.c
+MF-secret.c
+MP-nl
+MF-T1027-004-test.c
+MP*-chmod 
+MF-1.zip
+SO-192.168.1.1
+TF-atomic.log
+MF-target.example.c
+MF-raft-large-directories.txt
+MF-test.txt
+TP*-uname
+MP-netstat
+MP*-cat
+SF-T1070.006-modification.txt
+MF-lighttp.c
+MP-sed
+MF-os.exe
+MP-find
+MF-T1070.006-reference.txt
+MF-td.c
+MF-etc.tar.gz
+MP-grep
+80
+0 1 FR-1
+0 2 WR-1
+1 2 UK-1
+0 3 EX-1
+0 4 FR-1
+4 3 RD-1
+0 5 WR-1
+4 5 EX-1
+0 6 FR-1
+6 3 EX-1
+4 6 UK-1
+0 7 FR-1
+7 3 WR-1
+7 5 RD-1
+0 8 WR-1
+7 8 RD-1
+0 9 RD-1
+7 9 RD-1
+0 10 FR-1
+10 3 RD-1
+10 5 RD-1
+10 8 RD-1
+10 9 WR-1
+7 11 WR-1
+12 3 WR-2
+12 5 WR-2
+12 8 EX-2
+12 9 WR-2
+12 11 WR-2
+7 13 RD-1
+12 13 WR-2
+14 7 RF-1
+14 12 RF-2
+7 15 WR-1
+12 15 RD-2
+7 16 RD-1
+12 16 RD-2
+12 17 EX-2
+12 18 RD-2
+19 11 WR-3
+12 19 IJ-2
+19 13 RD-3
+14 19 RF-3
+19 15 RD-3
+19 16 EX-3
+19 17 RD-3
+19 18 RD-3
+20 11 WR-3
+12 20 UK-2
+21 11 WR-4
+21 13 RD-4
+21 14 ST-4
+21 15 RD-4
+21 16 RD-4
+21 17 RD-4
+21 18 CD-4
+19 21 IJ-3
+19 22 RD-3
+21 22 WR-4
+19 23 RD-3
+21 23 RD-4
+24 14 ST-4
+24 15 WR-4
+24 16 RD-4
+24 17 WR-4
+24 18 WR-4
+19 24 IJ-3
+24 22 WR-4
+24 23 UK-4
+19 25 RD-3
+21 25 EX-4
+26 16 EX-4
+26 17 UK-4
+19 27 WR-3
+21 27 WR-4
+19 28 RD-3
+21 28 WR-4
+19 29 EX-3
+21 29 WR-4
+21 30 UK-4
+

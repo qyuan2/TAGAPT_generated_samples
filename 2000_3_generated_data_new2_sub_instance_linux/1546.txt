@@ -1,0 +1,134 @@
+33
+MP-cat
+MP-head
+MP-tac
+SF-te.c
+SO-192.168.10.130
+MP*-awk
+MP-ls
+MP-cat
+MF-v.c
+MF-lighttp.c
+MF-victim-shred.txt
+SO-192.168.206.137
+TP-cat
+MF-journald.c
+MF-e.c
+TP-nl
+MP-cat
+TP-more
+MP*-cat
+SO-192.168.10.133
+MP-head
+MF-anaconda-ks.cfg
+SO-192.168.10.130
+SF-cron.a
+MP-awk
+MP-cat
+MP*-cat
+MP*-grep
+MF-io.r
+SF-T1070.004-test.txt
+TP-echo 
+MP-ls
+MP-tail
+98
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 ST-1
+0 5 FR-1
+5 3 WR-1
+5 4 ST-1
+0 6 FR-1
+6 3 WR-1
+6 4 ST-1
+0 7 UK-1
+5 8 CD-1
+6 8 EX-1
+5 9 WR-1
+6 9 WR-1
+5 10 WR-1
+6 10 RD-1
+11 5 RF-1
+6 11 ST-1
+12 3 WR-1
+4 12 RF-1
+5 12 IJ-1
+6 12 UK-1
+5 13 CD-1
+5 14 WR-1
+5 15 IJ-1
+15 8 WR-1
+15 9 CD-1
+15 10 RD-1
+15 11 ST-1
+15 13 CD-1
+15 14 WR-1
+16 8 WR-1
+16 9 EX-1
+16 10 RD-1
+16 11 ST-1
+16 13 WR-1
+16 14 WR-1
+15 16 IJ-1
+17 8 WR-1
+17 9 WR-1
+17 10 EX-1
+17 11 ST-1
+17 13 WR-1
+17 14 WR-1
+15 17 IJ-1
+16 17 UK-1
+18 8 RD-2
+18 9 CD-2
+18 10 WR-2
+18 11 ST-2
+18 13 WR-2
+18 14 RD-2
+15 18 IJ-1
+19 15 RF-1
+19 18 RF-2
+20 10 WR-2
+11 20 RF-1
+20 13 WR-2
+20 14 UK-2
+15 21 RD-1
+18 21 WR-2
+22 15 RF-1
+18 22 ST-2
+15 23 WR-1
+18 23 WR-2
+15 24 IJ-1
+18 24 UK-2
+15 25 FR-1
+19 25 RF-2
+25 21 RD-2
+22 25 RF-2
+25 23 RD-2
+26 19 ST-3
+26 21 WR-3
+26 22 ST-3
+26 23 EX-3
+25 26 UK-2
+19 27 RF-3
+27 21 CD-4
+22 27 RF-2
+27 23 WR-4
+27 28 WR-4
+27 29 WR-4
+30 21 WR-4
+22 30 RF-2
+30 23 WR-4
+27 30 UK-4
+31 21 EX-4
+22 31 RF-2
+31 23 WR-4
+31 28 WR-4
+31 29 WR-4
+32 23 WR-4
+32 28 WR-4
+32 29 RD-4
+31 32 UK-4
+

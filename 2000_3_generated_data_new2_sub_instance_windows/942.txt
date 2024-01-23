@@ -1,0 +1,35 @@
+12
+MP*-aafg31.exe 
+MF-C:\Users\admin\AppData\Local\Temp\QUOTE
+SO-https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/email-icon-2x.png
+MP*-default-browser-agent.exe
+MP*-ns967A.tmp 
+MF-C:\Windows\System32\reg
+TF-C:\Users\admin\AppData\Local\Temp\is-3DL5P.tmp
+MF-unzip.m
+MF-C:\Users\admin\AppData\Local\Temp\crypted
+TF-addrs.a
+TP*-ns9D4E.tmp
+TF-\Users\admin\AppData\Local\Temp\emotet_exe_e4_8fb2c48223952ffa157c8a0b9ab98e9f8b2924f7b8aa1faef94f3adc91eb8b61_2022-03-17__084608.exe
+20
+0 1 EX-1
+0 2 ST-1
+0 3 FR-1
+3 1 UK-2
+0 4 FR-1
+4 2 ST-3
+0 5 WR-1
+4 5 RD-3
+0 6 RD-1
+4 6 WR-3
+0 7 WR-1
+4 7 WR-3
+0 8 RD-1
+4 8 CD-3
+4 9 EX-3
+2 10 RF-1
+4 10 IJ-3
+10 5 WR-4
+10 6 UK-4
+4 11 UK-3
+

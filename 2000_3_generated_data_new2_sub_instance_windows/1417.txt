@@ -1,0 +1,79 @@
+24
+MP*-819cebc553434a1b12318d80f63ebd96.exe 
+MP-PsExec.exe
+MF-C:\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a
+MF-C:\Users\admin\AppData\Local\Temp\peplus.m
+MF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\cred64
+MF-C:\Users\admin\Desktop\Paradox RAT\Updater
+MP-nanodump.x64.exe
+MP-KMSpico_setup.tmp
+TP-MicrosoftEdgeUpdate.exe
+MP*-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+TP-EasyValorant.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+MP-nsA0C0.tmp 
+TF-C:\Program Files\Windows Media Player\wmpnscfg
+MP-main_bin.exe 
+MF-Files\VideoLAN\VLC\vlc.exe
+MF-\Users\admin\AppData\Local\Temp\FTPServer.exe
+TF-C:\Users\admin\AppData\Roaming\yonr\yonr
+SF-C:\Windows\System32\NOTEPAD
+SF-C:\Program Files\KMSpico\scripts\Install_Task.cmd
+MP*-nanodump.x64.exe
+TF-C:\Users\admin\Desktop\GREENN
+MF-\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+MP*-taskkill.exe
+52
+0 1 FR-1
+0 2 WR-1
+1 2 UK-1
+0 3 WR-1
+0 4 RD-1
+0 5 EX-1
+0 6 FR-1
+6 3 WR-1
+6 4 EX-1
+6 5 RD-1
+0 7 FR-1
+7 3 WR-1
+7 4 RD-1
+7 5 RD-1
+6 7 UK-1
+0 8 UK-1
+9 4 RD-2
+9 5 WR-2
+10 4 RD-2
+10 5 WR-2
+9 10 IJ-2
+9 11 ST-2
+10 11 ST-2
+12 4 RD-2
+12 5 WR-2
+10 12 IJ-2
+11 12 RF-2
+9 13 EX-2
+10 13 RD-2
+12 13 UK-2
+14 5 WR-2
+9 14 UK-2
+10 15 EX-2
+10 16 RD-2
+10 17 RD-2
+10 18 WR-2
+10 19 RD-2
+10 20 FR-2
+20 11 ST-3
+20 15 WR-3
+20 16 RD-3
+20 17 WR-3
+20 18 WR-3
+20 19 RD-3
+20 21 WR-3
+20 22 WR-3
+23 15 WR-4
+23 16 EX-4
+23 17 EX-4
+23 18 CD-4
+23 19 WR-4
+20 23 UK-3
+

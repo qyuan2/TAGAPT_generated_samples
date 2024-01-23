@@ -1,0 +1,57 @@
+18
+MP*-awk
+TP*-tac
+MF-p.c
+MF-s.c
+SF-ttpd.c
+SO-192.168.2.102
+SF-T1027-004-test.c
+MP-less
+MF-inetd.c
+MP-cat
+SO-192.168.47.134:4444
+SO-http://192.168.206.137:8080/robots.txt
+MF-atomic.sh
+SF-secret.c
+SF-/etc/sudoers
+TP*-cat
+MF-access.htm
+MP*-openssl
+36
+0 1 FR-1
+0 2 WR-1
+1 2 WR-2
+0 3 CD-1
+1 3 WR-2
+0 4 RD-1
+1 4 WR-2
+5 0 RF-1
+1 5 ST-2
+0 6 RD-1
+1 6 WR-2
+0 7 FR-1
+1 7 UK-2
+0 8 RD-1
+0 9 FR-1
+9 2 WR-2
+9 3 RD-2
+9 4 RD-2
+5 9 RF-2
+9 6 WR-2
+9 8 RD-2
+10 0 RF-1
+9 10 ST-2
+11 9 RF-2
+9 12 RD-2
+9 13 WR-2
+9 14 WR-2
+15 6 RD-3
+15 8 WR-3
+9 15 IJ-2
+15 10 ST-3
+11 15 RF-3
+15 12 UK-3
+9 16 WR-2
+17 8 WR-4
+9 17 UK-2
+

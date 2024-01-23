@@ -1,0 +1,85 @@
+27
+MP*-head
+MP-tac
+MP-less
+TP-cat
+SO-192.168.1.1
+SF-e.c
+SF-CleaingScript.sh
+MP-nl
+TP*-paste
+MP-sed
+MF-LinEnum.sh
+MF-target.example.c
+TF-subprocess.c
+SO-192.168.37.130
+TP*-ifconfig
+MP-awk
+TF-raft-large-directories.txt
+MP*-cat
+MF-f.r
+SF-user.r
+MF-inetd.c
+MF-v.c
+SF-resolv.c
+SF-CleaingScript.sh
+MP-sh
+TP-cat
+MP-cat
+55
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 IJ-1
+0 4 ST-1
+3 4 ST-1
+0 5 CD-1
+3 5 WR-1
+0 6 RD-1
+3 6 EX-1
+0 7 UK-1
+3 8 IJ-1
+4 8 RF-1
+8 5 CD-2
+8 6 EX-2
+3 9 FR-1
+4 9 RF-1
+9 5 WR-2
+9 6 UK-2
+3 10 EX-1
+8 10 UK-2
+3 11 WR-1
+3 12 WR-1
+3 13 ST-1
+14 4 ST-3
+14 5 WR-3
+14 11 WR-3
+14 12 RD-3
+14 13 ST-3
+15 5 WR-3
+15 11 WR-3
+15 12 RD-3
+15 13 ST-3
+14 15 IJ-3
+14 16 WR-3
+15 16 RD-3
+17 11 WR-4
+17 12 WR-4
+13 17 RF-3
+14 17 IJ-3
+15 17 UK-3
+14 18 EX-3
+14 19 RD-3
+14 20 WR-3
+14 21 RD-3
+14 22 RD-3
+14 23 RD-3
+14 24 IJ-3
+24 16 UK-4
+25 18 WR-4
+25 19 WR-4
+25 20 WR-4
+25 21 UK-4
+26 18 WR-4
+26 19 UK-4
+

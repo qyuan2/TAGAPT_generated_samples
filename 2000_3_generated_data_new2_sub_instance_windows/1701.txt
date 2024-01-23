@@ -1,0 +1,36 @@
+13
+MP*-_vnw.exe
+SO-10.0.0.00000
+MP*-xnoobx.cc.exe 
+MF-PathToAtomicsFolder\T1547.001\src\regtemplate.ini
+MP-msdtc.exe
+MP*-ExplorerSuite.tmp
+TF-c:\windows\ntds\ntds
+TF-srss.exe
+MF-C:\Users\admin\AppData\Local\Temp\Enquiry
+MF-C:\Users\admin\AppData\Local\Temp\tokertokertoker
+MF-cipher.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9BE4.tmp
+MP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+20
+0 1 ST-1
+0 2 FR-1
+1 2 RF-1
+0 3 WR-1
+2 3 WR-2
+0 4 FR-1
+1 4 RF-1
+2 4 UK-2
+0 5 FR-1
+1 5 RF-1
+5 3 WR-3
+0 6 RD-1
+5 6 CD-3
+5 7 WR-3
+5 8 CD-3
+5 9 WR-3
+5 10 WR-3
+5 11 WR-3
+12 3 WR-4
+5 12 UK-3
+

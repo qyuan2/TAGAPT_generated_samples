@@ -1,0 +1,77 @@
+21
+MP-Dieselmotorers.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/DumpWCM.ps1
+MP*-xordump.exe 
+MP-df1f94243f99b25fea44d17750d24d04.exe
+MP-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+TP*-xqGqlVXkyPJD.exe 
+MP-nsBDC5.tmp
+MP-nscB9BA.tmp
+TP*-Tags.exe 
+MF-C:\Windows\system32\SearchFilterHost
+TF-C:\Users\admin\AppData\Roaming\CareUEyes\CareUEyes.exe
+MF-C:\Users\admin\AppData\Local\Temp\QUOTATION_AUG7FIBA00541
+MF-C:\Users\admin\AppData\Local\Temp\tmp8DB1
+MP-Tudehluxjc.exe 
+TF-\Users\admin\AppData\Local\Temp\D18C.exe
+TP-Uninstall.exe 
+MF-C:\Windows\system32\prevhost.exe
+MP*-pnputil.exe
+MF-\Users\admin\Desktop\Setup\Installer.m
+MP-EXE_temp2.exe 
+53
+0 1 ST-1
+2 0 RF-1
+0 3 FR-1
+1 3 RF-1
+2 3 RF-1
+0 4 UK-1
+1 5 RF-1
+2 5 RF-1
+1 6 RF-1
+2 6 RF-2
+3 6 IJ-1
+5 6 IJ-1
+7 1 ST-2
+2 7 RF-2
+3 7 UK-1
+8 1 ST-2
+8 2 ST-2
+5 8 UK-1
+1 9 RF-1
+9 2 ST-3
+6 9 IJ-2
+6 10 WR-2
+9 10 RD-3
+6 11 WR-2
+9 11 WR-3
+6 12 UK-2
+9 13 WR-3
+9 14 FR-3
+14 10 WR-3
+14 11 WR-3
+14 13 RD-3
+9 15 WR-3
+14 15 RD-3
+9 16 IJ-3
+16 10 RD-3
+16 11 WR-3
+16 13 CD-3
+14 16 UK-3
+9 17 CD-3
+9 18 FR-3
+18 10 RD-4
+18 11 WR-4
+18 13 WR-4
+18 15 EX-4
+18 17 WR-4
+9 19 WR-3
+18 19 RD-4
+20 10 WR-4
+20 11 WR-4
+20 13 RD-4
+20 15 RD-4
+20 17 WR-4
+18 20 UK-4
+

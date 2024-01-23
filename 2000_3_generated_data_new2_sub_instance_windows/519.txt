@@ -1,0 +1,35 @@
+11
+MP*-oneetx.exe
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+MP-nsA0C0.tmp 
+MF-\Windows\Temp\lsass-xordump.t1003.001.dmp
+TP-ie_to_edge_stub.exe
+MP-MicrosoftEdgeUpdate.exe
+MP*-attrib.exe
+MP*-ROUTE.EXE
+MP*-T1027.exe
+MF-C:\Users\admin\nvvsvc
+MF-files\appdata\local\temp\20342.bmp
+21
+1 0 RF-1
+0 2 FR-1
+2 1 ST-1
+0 3 RD-1
+2 3 WR-1
+0 4 FR-1
+1 4 RF-1
+2 4 IJ-1
+4 3 RD-1
+0 5 UK-1
+6 1 ST-2
+2 6 UK-1
+1 7 RF-1
+7 3 RD-3
+4 7 IJ-1
+1 8 RF-1
+8 3 WR-4
+4 8 IJ-1
+7 8 UK-3
+4 9 WR-1
+4 10 UK-1
+

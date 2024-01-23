@@ -1,0 +1,38 @@
+13
+MP*-7za.exe
+MF-\Users\admin\AppData\Roaming\LZ4-SOFT.exe
+MP-installer.exe
+MF-C:\Users\admin\AppData\Local\Temp\Ayuaey.exe
+MP*-crypted.exe 
+MP-cacls.exe
+MF-c:\Program Files\Wireshark\tshark.exe
+MP*-danke.exe 
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MF-\Users\admin\AppData\Local\Temp\xobpf7op.cmd
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym
+MF-C:\Program Files\Google\Chrome\Application\chrome
+MP*-WISPTIS.EXE
+22
+0 1 RD-1
+0 2 FR-1
+2 1 EX-1
+0 3 EX-1
+2 3 WR-1
+0 4 FR-1
+4 1 EX-2
+0 5 UK-1
+2 6 WR-1
+7 1 RD-3
+7 3 EX-3
+7 6 WR-3
+2 8 ST-1
+7 8 ST-3
+2 9 WR-1
+7 9 WR-3
+2 10 EX-1
+7 10 RD-3
+2 11 EX-1
+7 11 WR-3
+12 6 WR-4
+7 12 UK-3
+

@@ -1,0 +1,40 @@
+12
+MP*-strings
+MF-raft-large-directories.txt
+TP*-echo
+MF-logrotate.c
+MF-access.htm
+MF-raft-large-directories.txt
+SO-192.168.0.134
+TP*-ls
+MF-subprocess.c
+MF-T1070.004-test.txt
+MF-1.zip
+MP*-ls
+25
+0 1 WR-1
+0 2 IJ-1
+2 1 WR-2
+0 3 WR-1
+2 3 WR-2
+0 4 RD-1
+2 4 UK-2
+0 5 WR-1
+0 6 ST-1
+0 7 FR-1
+7 1 WR-3
+7 3 WR-3
+7 5 WR-3
+6 7 RF-1
+0 8 RD-1
+7 8 RD-3
+0 9 RD-1
+7 9 RD-3
+0 10 WR-1
+7 10 WR-3
+11 1 WR-4
+11 3 WR-4
+11 5 EX-4
+11 6 ST-4
+7 11 UK-3
+

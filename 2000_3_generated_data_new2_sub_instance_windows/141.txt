@@ -1,0 +1,83 @@
+20
+MP*-EvaPKO
+SF-HKLM\SOFTWARE\Microsoft\Active
+MP*-firefox.exe
+SF-C:\Users\admin\Desktop\Paradox RAT\pr2.exe
+MF-C:\WINDOWS\system32\scrobj.dll
+MP-addinutil.exe
+SF-C:\Program files\cronos
+SF-C:\Users\Public\d2xc185
+SF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\vbsstartup
+TP-chrome.exe 
+MF-C:\Users\admin\AppData\Local\Temp\GLJC215.tmp
+MP*-nsBC6C.tmp
+MF-C:\Windows\system32\wbengine.exe
+MF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta
+SF-C:\Users\admin\AppData\Local\Temp\fcexploit
+TP*-regsvr32.exe
+MP-cronos.exe
+TP-chrome.exe
+MP-SearchIndexer.exe
+MP-taskhsvc.exe
+60
+0 1 WR-1
+0 2 FR-1
+2 1 RD-2
+0 3 WR-1
+2 3 WR-2
+0 4 RD-1
+2 4 WR-2
+0 5 FR-1
+5 1 WR-2
+5 3 WR-2
+5 4 RD-2
+0 6 CD-1
+2 6 EX-2
+5 6 RD-2
+0 7 EX-1
+2 7 RD-2
+5 7 UK-2
+0 8 RD-1
+2 8 WR-2
+0 9 FR-1
+9 1 WR-2
+2 9 UK-2
+0 10 WR-1
+11 1 EX-3
+11 3 WR-3
+11 4 WR-3
+11 6 WR-3
+11 8 RD-3
+11 10 WR-3
+11 12 RD-3
+11 13 RD-3
+11 14 EX-3
+15 6 RD-4
+15 8 WR-4
+15 10 EX-4
+11 15 IJ-3
+15 12 WR-4
+15 13 RD-4
+15 14 RD-4
+16 6 EX-4
+16 8 RD-4
+16 10 WR-4
+11 16 UK-3
+17 8 WR-4
+17 10 WR-4
+17 12 WR-4
+17 13 WR-4
+17 14 RD-4
+15 17 IJ-4
+18 8 WR-4
+18 10 RD-4
+18 12 CD-4
+18 13 EX-4
+18 14 RD-4
+15 18 UK-4
+19 10 WR-4
+19 12 WR-4
+19 13 WR-4
+19 14 WR-4
+17 19 UK-4
+

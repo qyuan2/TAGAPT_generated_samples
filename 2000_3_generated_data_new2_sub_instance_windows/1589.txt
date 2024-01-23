@@ -1,0 +1,82 @@
+21
+MP*-forfiles.exe
+MP-spnet_state.exe
+MF-C:\Users\admin\Desktop\AkrienBeta
+MP*-Radmin.exe
+MF-Stable\crash_count.txt
+SO-162.252.214.4
+SF-C:\Users\admin\AppData\Local\Temp\Bill
+MP-chrome.exe 
+MF-fltmc.exe
+SO-127.0.0.1
+MP-wbengine.exe
+MP*-ExplorerSuite.tmp
+MF-%temp%\sam
+MP-Powershell.exe
+SF-C:\Users\admin\AppData\Local\Temp\Payroll_2022.vb
+MF-C:\Users\admin\Desktop\Biling
+MP-Reader_sl.exe
+MP-mofcomp.exe
+MP*-RegDll.x86.exe
+MF-windir\System32\notepad.exe
+MP-Fichero Análsis 1.exe
+58
+0 1 FR-1
+0 2 WR-1
+1 2 EX-1
+0 3 FR-1
+3 2 WR-2
+0 4 WR-1
+1 4 WR-1
+3 4 RD-2
+5 0 RF-1
+1 5 ST-1
+5 3 RF-1
+0 6 WR-1
+1 6 WR-1
+3 6 WR-2
+0 7 FR-1
+1 7 UK-1
+0 8 RD-1
+3 8 WR-2
+0 9 ST-1
+3 9 ST-2
+0 10 FR-1
+10 2 WR-2
+3 10 UK-2
+11 2 WR-3
+11 4 WR-3
+5 11 RF-1
+11 6 RD-3
+11 8 WR-3
+11 9 ST-3
+11 12 WR-3
+13 4 WR-3
+13 5 ST-3
+13 6 WR-3
+13 8 WR-3
+9 13 RF-3
+13 12 RD-3
+11 14 EX-3
+13 14 RD-3
+11 15 RD-3
+13 15 WR-3
+16 6 WR-3
+16 8 RD-3
+16 9 ST-3
+11 16 UK-3
+17 8 WR-3
+17 9 ST-3
+17 12 CD-3
+13 17 UK-3
+18 8 CD-4
+9 18 RF-3
+18 12 EX-4
+18 14 WR-4
+18 15 RD-4
+18 19 EX-4
+20 12 WR-4
+20 14 RD-4
+20 15 WR-4
+18 20 UK-4
+

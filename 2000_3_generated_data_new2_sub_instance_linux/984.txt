@@ -1,0 +1,145 @@
+43
+MP*-cat
+MF-syslog.c
+SF-T1574.006.c
+MF-anaconda-ks.cfg
+MF-T1070.004-test.txt
+SF-logrotate.c
+SF-1.txt
+MF-locale.c
+TP-nl
+MF-art.sh
+MP-sudo
+TF-e.c
+SF-e.c
+MF-T1027-004-test.c
+MF-flag4.txt
+MF-subprocess.c
+SO-192.168.10.128
+SF-raft-large-directories.txt
+TP-awk
+MP*-bash
+MF-raj.txt
+MP-head
+MP-cat
+MP*-head
+MF-cron.h
+TF-rockyou.txt
+MP-nmap
+MF-e.c
+TP-cat
+MF-settings.php
+SF-f.r
+MF-flag3.txt
+MF-http.c
+TP-find
+MF-flag3.txt
+TP*-sed
+MP-iptables
+SO-192.168.47.134:4444
+MF-f.r
+MF-art.sh
+MF-cron.m
+MF-journald.c
+TP-sed
+99
+0 1 EX-1
+0 2 WR-1
+0 3 WR-1
+0 4 EX-1
+0 5 WR-1
+0 6 WR-1
+0 7 RD-1
+0 8 FR-1
+8 1 WR-1
+8 2 WR-1
+8 3 WR-1
+8 4 RD-1
+8 5 EX-1
+8 6 CD-1
+8 7 WR-1
+0 9 WR-1
+8 9 RD-1
+0 10 FR-1
+10 1 EX-1
+10 2 UK-1
+8 11 EX-1
+8 12 WR-1
+8 13 WR-1
+8 14 WR-1
+8 15 RD-1
+16 8 RF-1
+8 17 UK-1
+18 9 UK-1
+19 11 WR-2
+19 12 WR-2
+19 13 WR-2
+19 14 WR-2
+19 15 WR-2
+19 16 ST-2
+19 20 WR-2
+21 11 RD-2
+21 12 WR-2
+21 13 WR-2
+21 14 WR-2
+21 15 WR-2
+16 21 RF-2
+21 20 WR-2
+22 12 EX-2
+22 13 WR-2
+22 14 CD-2
+22 15 RD-2
+22 16 ST-2
+22 20 WR-2
+21 22 UK-2
+23 13 EX-3
+23 14 WR-3
+23 15 WR-3
+16 23 RF-2
+23 20 WR-3
+19 24 EX-2
+23 24 EX-3
+19 25 UK-2
+26 16 ST-3
+26 20 RD-3
+26 24 WR-3
+23 27 WR-3
+26 27 WR-3
+28 20 EX-3
+23 28 IJ-3
+28 24 EX-3
+26 28 UK-3
+23 29 RD-3
+23 30 RD-3
+23 31 WR-3
+23 32 WR-3
+23 33 IJ-3
+33 24 RD-3
+33 27 RD-3
+33 29 WR-3
+33 30 CD-3
+33 31 RD-3
+33 32 WR-3
+33 34 RD-3
+35 27 WR-4
+35 29 WR-4
+35 30 WR-4
+35 31 RD-4
+35 32 WR-4
+33 35 IJ-3
+35 34 RD-4
+36 27 WR-4
+36 29 RD-4
+36 30 WR-4
+36 31 RD-4
+36 32 WR-4
+33 36 UK-3
+37 35 RF-4
+35 38 WR-4
+35 39 CD-4
+35 40 WR-4
+35 41 RD-4
+42 32 WR-4
+42 34 RD-4
+35 42 UK-4
+

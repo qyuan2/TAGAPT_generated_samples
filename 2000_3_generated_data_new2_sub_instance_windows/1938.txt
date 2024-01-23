@@ -1,0 +1,132 @@
+33
+MP-MicrosoftUpdate.exe 
+MF-C:\Program files\30802
+TP-AIGeneratedRansomware.exe 
+MF-C:\Windows\System32\WScript.exe
+MF-2Fwww.m
+MF-\Users\admin\AppData\Local\Temp\48EF.exe
+MF-icacls.exe
+MP-EasyValorant.exe 
+MP-Heapman45.exe.tmp
+MF-\Users\admin\AppData\Local\Temp\tb.png
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+MP*-MMFbbhOyNS.exe
+MP-New Client.exe
+TP-ns9423.tmp 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+TP-MMFbbhOyNS.exe
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+TP-client32.exe
+MF-\Users\admin\AppData\Local\Temp\BLOCKED-MAILS.doc
+TP-XClient.exe 
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+TF-C:\Users\admin\AppData\Local\Temp\9215.tmp
+TP-ngen.exe
+MF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd.zip
+SO-https://docs.google.com/uc?export=download&id=1CRp1OMMiJh1TqhbMBdqnNzTBekXqJrt6
+MF-C:\Users\admin\AppData\Roaming\fertyno12\client32
+SO-https://www.youtube.com/@Omnidev_
+SF-C:\Program Files\Hantek2xx2\STTubeDevice30.dll
+MP-sdbinst.exe
+TP*-executable.3044.exe 
+TP*-vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+MF-C:\Users\admin\AppData\Local\Temp\Heapman45
+MP*-EBDE.exe
+96
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+0 3 EX-1
+2 3 RD-1
+0 4 WR-1
+2 4 WR-1
+0 5 EX-1
+2 5 WR-1
+0 6 RD-1
+2 6 EX-1
+0 7 FR-1
+7 1 UK-1
+2 8 FR-1
+8 3 RD-1
+8 4 WR-1
+8 5 WR-1
+8 6 UK-1
+2 9 RD-1
+2 10 ST-1
+2 11 FR-1
+11 3 RD-1
+11 4 EX-1
+11 5 WR-1
+11 9 RD-1
+10 11 RF-1
+12 3 RD-1
+12 4 RD-1
+12 5 RD-1
+12 9 WR-1
+12 10 ST-1
+13 4 RD-1
+13 5 WR-1
+13 9 RD-1
+10 13 RF-1
+11 13 IJ-1
+12 13 UK-1
+14 11 RF-1
+15 9 UK-1
+11 16 WR-1
+17 10 ST-1
+11 17 IJ-1
+17 14 ST-1
+17 16 WR-1
+11 18 RD-1
+17 18 RD-1
+19 10 ST-1
+11 19 IJ-1
+14 19 RF-1
+19 16 UK-1
+11 20 ST-1
+20 17 RF-1
+11 21 WR-1
+17 21 WR-1
+14 22 RF-1
+17 22 IJ-1
+22 18 WR-1
+22 20 ST-1
+22 21 RD-1
+17 23 WR-1
+22 23 RD-1
+24 17 RF-1
+22 24 ST-1
+17 25 WR-1
+22 25 CD-1
+17 26 ST-1
+22 26 ST-2
+17 27 WR-1
+22 27 CD-1
+28 18 RD-1
+20 28 RF-1
+28 21 RD-1
+22 28 UK-1
+29 20 ST-2
+29 21 WR-2
+29 23 WR-2
+29 24 ST-2
+29 25 RD-2
+26 29 RF-2
+29 27 WR-2
+20 30 RF-1
+30 21 EX-3
+30 23 WR-3
+30 24 ST-3
+30 25 WR-3
+30 26 ST-3
+30 27 WR-3
+29 30 IJ-2
+29 31 RD-2
+30 31 UK-3
+32 23 RD-4
+24 32 RF-2
+32 25 WR-4
+26 32 RF-3
+32 27 RD-4
+29 32 UK-2
+

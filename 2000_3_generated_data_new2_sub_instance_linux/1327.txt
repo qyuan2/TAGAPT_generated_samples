@@ -1,0 +1,57 @@
+17
+MP*-cp
+SF-raft-large-directories.txt
+SO-atomic@target.example
+SF-CleaingScript.sh
+MF-e.c
+SF-inetd.c
+TP*-cat
+SO-192.168.37.130
+MF-lighttp.c
+SO-http://192.168.10.128/shell.cgi
+SF-pd.c
+MP-arp-scan
+SF-d.c
+MP*-ifconfig
+SF-access.htm
+MF-T1070.004-test.txt
+MP*-more
+37
+0 1 EX-1
+0 2 ST-1
+0 3 WR-1
+0 4 WR-1
+0 5 WR-1
+0 6 IJ-1
+6 1 RD-2
+6 2 ST-2
+6 3 WR-2
+6 4 WR-2
+6 5 UK-2
+7 0 RF-1
+0 8 RD-1
+9 0 RF-1
+0 10 WR-1
+11 1 EX-2
+2 11 RF-1
+11 3 WR-2
+11 4 RD-2
+7 11 RF-2
+11 8 WR-2
+11 9 ST-3
+11 10 CD-2
+11 12 UK-2
+13 3 EX-3
+13 4 WR-3
+7 13 RF-3
+13 8 EX-3
+9 13 RF-3
+13 10 WR-3
+13 14 WR-3
+13 15 WR-3
+16 7 ST-4
+16 8 EX-4
+9 16 RF-2
+16 10 WR-4
+13 16 UK-3
+

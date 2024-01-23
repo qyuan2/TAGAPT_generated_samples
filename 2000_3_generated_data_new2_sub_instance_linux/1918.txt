@@ -1,0 +1,62 @@
+15
+MP*-curl
+MP-pr
+MP-cat
+TP-less
+MF-LinEnum.sh
+SO-http://192.168.0.134/passwd
+MF-log.c
+MP*-ls
+MP-ls
+MP-bash 
+MP*-clang++
+MF-cron.a
+TP*-cat
+TP-w
+MP-less
+44
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 IJ-1
+0 4 RD-1
+3 4 RD-1
+5 0 RF-1
+5 3 RF-1
+0 6 WR-1
+3 6 RD-1
+0 7 FR-1
+3 7 IJ-1
+7 4 RD-2
+7 5 ST-2
+7 6 WR-2
+0 8 FR-1
+3 8 IJ-1
+8 4 EX-2
+8 5 ST-2
+8 6 WR-2
+7 8 UK-2
+0 9 UK-1
+3 10 FR-1
+10 4 WR-3
+5 10 RF-2
+10 6 RD-3
+3 11 WR-1
+10 11 WR-3
+3 12 FR-1
+12 4 WR-4
+12 5 ST-4
+12 6 WR-4
+10 12 IJ-3
+12 11 CD-4
+3 13 IJ-1
+13 4 RD-4
+5 13 RF-2
+13 6 WR-4
+10 13 UK-3
+14 4 WR-4
+5 14 RF-2
+14 6 CD-4
+14 11 WR-4
+12 14 UK-4
+

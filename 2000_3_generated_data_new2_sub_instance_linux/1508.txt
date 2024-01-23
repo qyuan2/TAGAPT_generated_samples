@@ -1,0 +1,52 @@
+17
+MP-tac
+MP*-bash 
+TP-cat
+MP-vi
+MP-tee
+MP*-cat
+SF-victim-gzip.txt
+MF-AutoSUID.sh
+TF-image.php
+MF-flag3.txt
+MF-echo-art-fish.sh
+SO-192.168.47.134:4444
+MF-access.txt
+SO-192.168.206.137
+MP*-more
+MP*-bash
+MP-less
+32
+0 1 FR-1
+0 2 IJ-1
+1 2 IJ-1
+0 3 UK-1
+1 4 UK-1
+2 5 FR-1
+2 6 UK-1
+5 7 WR-2
+5 8 RD-2
+5 9 WR-2
+5 10 RD-2
+5 11 ST-2
+5 12 RD-2
+13 5 RF-2
+5 14 FR-2
+14 7 WR-3
+14 8 WR-3
+14 9 RD-3
+14 10 EX-3
+11 14 RF-2
+14 12 WR-3
+14 13 ST-3
+5 15 FR-2
+15 7 EX-4
+15 8 EX-4
+15 9 WR-4
+15 10 WR-4
+15 11 ST-4
+15 12 RD-4
+13 15 RF-3
+14 15 UK-3
+16 7 UK-4
+

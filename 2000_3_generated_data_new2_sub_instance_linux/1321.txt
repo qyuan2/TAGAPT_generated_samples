@@ -1,0 +1,38 @@
+11
+MP*-less
+SF-atomic.sh
+MF-at.a
+MF-settings.php
+SO-192.168.47.134:4444
+MF-T1070.006-modification.txt
+TP*-sed
+SO-192.168.10.129
+TP*-cat
+MF-p.c
+TP*-vim
+24
+0 1 WR-1
+0 2 CD-1
+0 3 EX-1
+0 4 ST-1
+0 5 WR-1
+0 6 FR-1
+6 1 RD-2
+6 2 WR-2
+6 3 WR-2
+4 6 RF-1
+6 5 WR-2
+0 7 ST-1
+6 7 ST-2
+0 8 IJ-1
+8 1 WR-3
+8 2 UK-3
+0 9 WR-1
+6 9 RD-2
+0 10 FR-1
+10 1 EX-4
+10 3 WR-4
+4 10 RF-1
+10 5 WR-4
+6 10 UK-2
+

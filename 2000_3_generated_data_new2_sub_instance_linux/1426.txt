@@ -1,0 +1,39 @@
+12
+MP*-vim
+MF-password-hash.sh
+TP-uname
+MP*-echo 
+TP-grep
+MP-ls
+SF-syslog.c
+TF-p.c
+SO-192.168.206.137:8080
+TP*-sed
+MF-cron.h
+MP*-cat
+24
+0 1 WR-1
+0 2 FR-1
+2 1 EX-1
+0 3 FR-1
+3 1 RD-2
+2 3 IJ-1
+0 4 FR-1
+4 1 UK-2
+2 5 IJ-1
+3 5 UK-2
+2 6 WR-1
+2 7 RD-1
+2 8 ST-1
+2 9 IJ-1
+9 6 WR-3
+9 7 RD-3
+8 9 RF-1
+2 10 WR-1
+9 10 RD-3
+2 11 IJ-1
+11 6 RD-4
+11 7 RD-4
+8 11 RF-1
+9 11 UK-3
+

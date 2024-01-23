@@ -1,0 +1,106 @@
+35
+MP*-updater.exe
+TP*-RtkBtManServ.exe
+MF-regedit.exe
+MF-C:\Users\admin\Desktop\Calibration_4418Shaft
+MP-cmd.exe 
+TP-EXCEL.EXE
+MF-C:\Users\admin\AppData\Local\Temp\tmp493A.tmp
+MP-Invoice.exe 
+SO-http://email.getsailebot.net/c/eJxskL-umzAYR5_GjMh_AQ8MudV1LjRpRGghyWYbE1wZSGNIC09fIXVp1e18n85Zfk0aI9nIJjApijihSUw4DLpUtxAaEnEIMUSS60SzKFKYIk11Ekc8sCmGmMCEIEQgZzBMGq1Ya2JKcUJNiwGFdzN5aZ1R4xQOZgpc2k3TwwOyA1gALObBz8rrp1Um_McFWDTGWb9Buf09wEIOQ7hZgELXhXrsQzkDLDCjmMZJsiGiFDGAhVlyaC47e7L55woV9vAp79Reb3f2bc3QF5vz0Cz52Hycf-p1fB1w12lSLdeSPdTCfzSkeF3xr07WaM2-P-JsuE9yL9bmkneHWni15-RWF5Puub9djvbkvL3W7KUGNylSrZmD_u_m7G69QOrjT1NmUdaLWWHGVM2RXnLeFuFSVxfz9jy158q_Dbv-aK0pSCvcrpSa32_L-1d-r0vH38fgmf5vkN8BAAD__0tnlWU
+MP*-PURCHASE ORDER 091020.exe 
+MF-\Users\admin\AppData\Roaming\expo.exe
+TP-OIS.EXE
+SO-hxxp://157.245.99[.]132/get.php
+TF-C:\Program Files\Mozilla Firefox\default
+MP-LogTransport2.exe
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+MF-C:\Users\admin\AppData\Local\Temp\gagu4gmirt.dll
+MP*-vds.exe
+TP-cmd.exe
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsD38B.tmp
+TP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+MP-WinRAR.exe 
+MF-C:\Users\admin\AppData\Local\Temp\w2wwpl2p
+TP-PowerShell.exe
+MP-OperaSetup_UNO.exe
+SO-10.0.0.00000
+MF-C:\Users\User\30802
+MF-\Users\admin\AppData\Local\Temp\emotet_exe_e4_8fb2c48223952ffa157c8a0b9ab98e9f8b2924f7b8aa1faef94f3adc91eb8b61_2022-03-17__084608.exe
+SO-https://vision.fn-pz.com
+SO-hxxp://fiordan.ru/FILM.html
+MP-microsoft.workflow.compiler.exe
+SF-C:\Program files\appdata\local\temp\20342.bmp
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+MF-C:\Users\admin\Desktop\AkrienBeta.exe
+68
+0 1 IJ-1
+0 2 WR-1
+1 2 RD-2
+0 3 WR-1
+1 3 WR-2
+0 4 FR-1
+1 4 IJ-2
+4 2 EX-2
+4 3 WR-2
+0 5 UK-1
+1 6 WR-2
+4 6 WR-2
+1 7 UK-2
+4 8 ST-2
+9 2 WR-3
+9 3 RD-3
+9 6 WR-3
+8 9 RF-2
+9 10 RD-3
+11 2 WR-3
+11 3 EX-3
+11 6 WR-3
+8 11 RF-2
+9 11 IJ-3
+11 10 RD-3
+12 9 RF-3
+11 12 ST-3
+9 13 WR-3
+11 13 WR-3
+14 6 WR-3
+8 14 RF-2
+9 14 UK-3
+11 15 EX-3
+16 11 RF-3
+11 17 WR-3
+18 10 RD-4
+11 18 IJ-3
+18 12 ST-4
+18 13 RD-4
+18 15 UK-4
+19 10 UK-4
+11 20 UK-3
+12 21 RF-3
+21 13 WR-4
+21 16 ST-4
+21 17 UK-4
+12 22 RF-3
+22 13 WR-4
+22 16 ST-4
+22 23 UK-4
+16 24 RF-4
+25 16 ST-4
+24 25 IJ-4
+26 24 RF-4
+25 26 ST-4
+24 27 RD-4
+25 27 RD-4
+24 28 WR-4
+25 28 CD-4
+29 24 RF-4
+29 25 RF-4
+24 30 ST-4
+30 25 RF-4
+24 31 IJ-4
+25 31 UK-4
+24 32 WR-4
+24 33 EX-4
+24 34 CD-4
+

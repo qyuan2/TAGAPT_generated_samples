@@ -1,0 +1,64 @@
+17
+MP-more
+TP*-uname
+MF-www.google.c
+MF-data.zip
+TF-common.txt
+MP-netstat
+MF-test.txt
+SO-http://192.168.206.137:8080/robots.txt
+TP-sudo
+TP*-grep
+MP*-sed
+TF-cron.m
+MP*-sudo
+SF-inetd.c
+MF-subprocess.c
+TF-anaconda-ks.cfg
+MP-cat
+44
+0 1 FR-1
+0 2 RD-1
+1 2 CD-1
+0 3 WR-1
+1 3 WR-1
+0 4 WR-1
+1 4 WR-1
+0 5 UK-1
+1 6 CD-1
+7 1 RF-1
+1 8 IJ-1
+8 2 RD-1
+8 3 RD-1
+8 4 RD-1
+8 6 EX-1
+7 8 RF-1
+1 9 FR-1
+9 2 RD-2
+9 3 WR-2
+9 4 WR-2
+9 6 WR-2
+7 9 RF-2
+8 9 UK-1
+1 10 IJ-1
+10 2 WR-3
+10 3 RD-3
+10 4 RD-3
+10 6 WR-3
+10 7 ST-3
+1 11 WR-1
+10 11 WR-3
+12 2 WR-4
+12 3 RD-4
+12 4 RD-4
+12 6 CD-4
+12 7 ST-4
+12 11 WR-4
+10 13 WR-3
+12 13 EX-4
+12 14 WR-4
+12 15 RD-4
+16 7 ST-4
+16 11 WR-4
+12 16 UK-4
+

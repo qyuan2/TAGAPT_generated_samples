@@ -1,0 +1,105 @@
+29
+MP-uname
+MF-da-ks.cfg
+MF-td.c
+MF-journald.c
+MP-cat
+SF-at.a
+MP*-cat
+MF-folders/files
+SF-CleaingScript.sh
+SF-victim-gzip.txt
+MP-w
+SO-192.168.10.129
+TP-cat
+SF-ufw.log
+TP*-tee
+MP-bash
+SO-192.168.206.137
+TF-apache2.c
+MP*-nl
+MP-whois
+MP-cat
+TP-python
+TP*-more
+MP-less
+MF-raft-large-directories.txt
+MF-access.htm
+MF-settings.php
+TP-grep
+TP-bash
+73
+0 1 WR-1
+0 2 WR-1
+0 3 WR-1
+0 4 FR-1
+4 1 RD-1
+4 2 UK-1
+0 5 CD-1
+0 6 FR-1
+6 1 WR-1
+6 3 RD-1
+6 5 WR-1
+0 7 WR-1
+6 7 RD-1
+0 8 EX-1
+6 8 WR-1
+0 9 RD-1
+6 9 RD-1
+10 1 WR-1
+10 3 UK-1
+11 6 RF-1
+12 5 WR-1
+6 12 IJ-1
+12 7 RD-1
+12 8 EX-1
+12 9 UK-1
+6 13 WR-1
+14 5 WR-2
+6 14 IJ-1
+14 7 WR-2
+14 8 RD-2
+14 11 ST-2
+14 13 WR-2
+15 5 EX-2
+15 7 WR-2
+15 8 RD-2
+15 11 ST-2
+15 13 RD-2
+14 15 IJ-2
+16 6 RF-1
+14 16 ST-2
+15 16 ST-2
+14 17 EX-2
+15 17 UK-2
+18 8 WR-3
+18 11 ST-3
+18 13 EX-3
+14 18 IJ-2
+18 16 ST-3
+19 11 ST-3
+19 13 WR-3
+14 19 IJ-2
+16 19 RF-2
+11 20 RF-2
+20 13 UK-3
+11 21 RF-2
+14 21 IJ-2
+16 21 RF-2
+18 21 IJ-3
+19 21 IJ-3
+14 22 FR-2
+22 16 ST-4
+18 22 IJ-3
+19 22 IJ-3
+21 22 IJ-3
+14 23 UK-2
+18 24 UK-3
+19 25 WR-3
+21 25 UK-3
+19 26 RD-3
+22 26 WR-4
+19 27 FR-3
+22 27 UK-4
+19 28 UK-3
+

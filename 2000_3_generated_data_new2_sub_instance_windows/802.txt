@@ -1,0 +1,49 @@
+13
+MP*-query.exe
+SF-C:\Users\admin\AppData\Local\Temp\4CA9
+SF-C:\Windows\Explorer
+TP*-svchost.exe
+MP*-pestudio.exe 
+MF-C:\Windows\system32\wbengine
+TF-\Users\admin\AppData\Local\Temp\4CA9.dll
+SF-C:\PROGRA
+TP*-is-HTMC5.tmp
+MP-qgcrmeck.exe
+MF-C:\Windows\system32\prevhost
+MP-spyeye V1.0.exe 
+MP-wuauclt.exe
+33
+0 1 RD-1
+0 2 WR-1
+0 3 IJ-1
+3 1 WR-2
+3 2 RD-2
+0 4 FR-1
+4 1 WR-3
+4 2 WR-3
+3 4 IJ-2
+0 5 WR-1
+3 5 EX-2
+4 5 WR-3
+0 6 WR-1
+3 6 RD-2
+4 6 RD-3
+0 7 RD-1
+3 7 RD-2
+4 7 WR-3
+0 8 IJ-1
+8 1 WR-4
+8 2 WR-4
+3 8 IJ-2
+4 8 UK-3
+0 9 FR-1
+9 1 WR-4
+9 2 UK-4
+0 10 WR-1
+3 10 WR-2
+11 1 WR-4
+3 11 IJ-2
+11 5 WR-4
+11 6 UK-4
+3 12 UK-2
+

@@ -1,0 +1,34 @@
+10
+MP*-slui.exe
+TP*-is-3DL5P.tmp
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MP-nsCFA0.tmp
+TP*-sdiagnhost.exe
+MF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild.exe
+MP*-setup.exe
+SF-C:\Windows\system32\SearchFilterHost
+21
+0 1 IJ-1
+2 0 RF-1
+1 2 ST-2
+0 3 ST-1
+3 1 RF-1
+4 0 RF-1
+1 4 ST-2
+0 5 FR-1
+1 5 UK-2
+0 6 IJ-1
+6 2 ST-3
+3 6 RF-1
+6 4 ST-3
+0 7 WR-1
+6 7 RD-3
+0 8 FR-1
+8 2 ST-4
+3 8 RF-1
+8 4 ST-4
+6 8 UK-3
+0 9 RD-1
+

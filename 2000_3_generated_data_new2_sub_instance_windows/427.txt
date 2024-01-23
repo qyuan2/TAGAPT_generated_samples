@@ -1,0 +1,111 @@
+27
+MP*-schtasks.exe
+MF-C:\Browserweb\FDQYsaUiAqx3IM0zyQT
+MF-C:\Windows\System32\vds.exe
+MF-C:\Windows\system32\ntvdm.exe
+TF-C:\Users\admin\Desktop\List
+MF-C:\Windows\debug\WIA\wininit
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+TP-AcroRd32.exe
+MP-msedge.exe
+SF-C:\Program files\appdata\local\temp\17634
+TP-df1f94243f99b25fea44d17750d24d04.exe 
+MP-ONENOTE.EXE
+MP-taskdl.exe
+TP*-nvvsvc.exe 
+SF-C:\Users\admin\AppData\Local\Temp\KAT08
+MF-C:\Users\admin\AppData\Roaming\LZ4-SOFT.exe
+MF-C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content
+SO-http://199.247.25.79/get.php
+MF-C:\Windows\System32\msdtc.exe
+MP-some_malicious_file.bin.exe
+MF-c:\users\public\music\allthethingsx64
+TP*-nsD0E9.tmp
+SF-C:\Users\admin\AppData\Local\Temp\Untitled
+MF-C:\Users\admin\AppData\Local\Temp\main_bin.exe
+SO-hxxp://sacramentos[.]ru/get.php'))|powershell
+MP*-winhost.exe
+MP-mmc.exe
+81
+0 1 RD-1
+0 2 EX-1
+0 3 WR-1
+0 4 RD-1
+0 5 RD-1
+0 6 ST-1
+0 7 FR-1
+7 1 UK-1
+0 8 FR-1
+8 2 WR-1
+8 3 WR-1
+8 4 RD-1
+8 5 WR-1
+6 8 RF-1
+8 9 RD-1
+10 2 WR-1
+10 3 RD-1
+10 4 CD-1
+10 5 EX-1
+6 10 RF-1
+8 10 IJ-1
+10 9 WR-1
+11 2 WR-1
+11 3 EX-1
+11 4 RD-1
+11 5 WR-1
+6 11 RF-1
+8 11 UK-1
+12 3 RD-1
+12 4 RD-1
+12 5 EX-1
+6 12 RF-1
+12 9 WR-1
+10 12 IJ-1
+13 4 RD-2
+13 5 WR-2
+13 6 ST-2
+13 9 EX-2
+10 13 IJ-1
+12 13 IJ-1
+10 14 WR-1
+12 14 WR-1
+13 14 WR-2
+10 15 WR-1
+12 15 EX-1
+13 15 EX-2
+10 16 RD-1
+12 16 WR-1
+13 16 WR-2
+10 17 ST-2
+17 12 RF-2
+17 13 RF-2
+10 18 WR-1
+12 18 WR-1
+13 18 WR-2
+19 9 RD-2
+10 19 IJ-1
+13 19 IJ-2
+19 14 UK-2
+10 20 EX-1
+12 20 WR-1
+13 20 WR-2
+12 21 IJ-1
+21 15 RD-3
+21 16 WR-3
+17 21 RF-2
+21 18 WR-3
+21 20 WR-3
+21 22 WR-3
+21 23 CD-3
+24 21 RF-3
+25 16 CD-4
+17 25 RF-2
+25 18 WR-4
+25 20 WR-4
+21 25 UK-3
+26 17 ST-4
+26 18 WR-4
+26 20 RD-4
+26 22 WR-4
+26 23 UK-4
+

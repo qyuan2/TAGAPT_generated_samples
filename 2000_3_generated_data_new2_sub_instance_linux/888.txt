@@ -1,0 +1,113 @@
+36
+MP*-sed
+MF-data.zip
+MF-p.c
+MP-grep
+TP-clang++
+TP*-less
+MP-bash
+TP-nl
+MF-Readme.txt
+MP-grep
+MP-dnsdomainname
+TP-awk
+MP-pr
+MF-T1070.004-test.txt
+MP-less
+TP-ls
+MF-alertConfigField.php
+MP*-tee
+TP-curl
+TP-cat
+MF-lighttp.c
+MP-grep
+SO-123.6.44.67
+MF-ron.a
+TP*-tee
+MP-tail
+MP-cewl
+TP-less
+MF-da-ks.cfg
+MF-os.exe
+MP-echo 
+MP-bash
+MF-logrotate.c
+MP-cat
+MP-tee
+MP-less
+74
+0 1 WR-1
+0 2 RD-1
+0 3 FR-1
+3 1 UK-1
+0 4 IJ-1
+4 2 CD-1
+0 5 IJ-1
+5 2 WR-2
+4 5 IJ-1
+0 6 FR-1
+6 2 WR-2
+4 6 UK-1
+0 7 IJ-1
+7 2 RD-2
+5 7 IJ-2
+0 8 WR-1
+5 8 EX-2
+7 8 RD-2
+0 9 FR-1
+9 2 RD-2
+5 9 IJ-2
+7 9 IJ-2
+9 8 RD-2
+0 10 FR-1
+10 2 RD-2
+5 10 UK-2
+11 2 EX-2
+7 11 UK-2
+12 2 WR-2
+12 8 UK-2
+9 13 WR-2
+9 14 UK-2
+15 13 WR-2
+15 16 UK-2
+17 13 WR-3
+18 13 WR-3
+17 18 IJ-3
+19 13 RD-3
+17 19 IJ-3
+18 19 UK-3
+17 20 EX-3
+21 13 WR-3
+21 20 WR-3
+22 17 RF-3
+21 22 ST-4
+17 23 WR-3
+21 23 UK-3
+17 24 IJ-3
+24 20 WR-4
+22 24 RF-4
+17 25 UK-3
+26 20 WR-4
+22 26 RF-4
+24 26 IJ-4
+27 20 CD-4
+22 27 RF-4
+24 27 IJ-4
+26 27 UK-4
+24 28 RD-4
+24 29 WR-4
+30 20 WR-4
+22 30 RF-4
+24 30 IJ-4
+30 28 EX-4
+30 29 UK-4
+22 31 RF-4
+24 31 IJ-4
+31 28 WR-4
+24 32 UK-4
+33 28 WR-4
+31 33 UK-4
+34 28 RD-4
+35 28 WR-4
+34 35 UK-4
+

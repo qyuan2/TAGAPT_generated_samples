@@ -1,0 +1,91 @@
+25
+MP-perl
+MF-te.c
+MF-settings.php
+MF-1.zip
+TP*-head
+SF-lighttp.c
+SF-pd.c
+TP-dirb
+SO-192.168.47.134:4444
+MF-data.zip
+MP*-rev
+TP-dd
+SF-ufw.log
+SO-atomic@target.example
+MP*-ifconfig
+MF-echo-art-fish.sh
+MF-HTML ( .chm ) files
+SF-access.htm
+TP-netstat
+MF-backsup.sh
+MF-da-ks.cfg
+TP*-head
+MF-image.php
+SF-passwd.zip
+TP-cat
+63
+0 1 WR-1
+0 2 RD-1
+0 3 CD-1
+0 4 IJ-1
+4 1 RD-1
+4 2 WR-1
+4 3 RD-1
+0 5 WR-1
+4 5 RD-1
+0 6 WR-1
+4 6 WR-1
+0 7 UK-1
+4 8 ST-1
+4 9 WR-1
+10 1 RD-2
+10 2 WR-2
+10 3 RD-2
+4 10 IJ-1
+10 5 WR-2
+10 6 EX-2
+8 10 RF-1
+10 9 WR-2
+11 1 EX-2
+11 2 WR-2
+11 3 UK-2
+4 12 RD-1
+10 12 WR-2
+13 4 RF-1
+10 13 ST-2
+4 14 FR-1
+14 5 EX-3
+14 6 RD-3
+14 8 ST-3
+14 9 RD-3
+14 12 RD-3
+14 13 ST-3
+10 15 WR-2
+14 15 WR-3
+10 16 WR-2
+14 16 RD-3
+10 17 RD-2
+14 17 WR-3
+8 18 RF-1
+18 9 UK-3
+10 19 RD-2
+14 19 WR-3
+10 20 WR-2
+14 20 WR-3
+21 12 RD-4
+13 21 RF-3
+21 15 WR-4
+21 16 WR-4
+21 17 RD-4
+21 19 WR-4
+21 20 WR-4
+21 22 WR-4
+21 23 WR-4
+24 15 WR-4
+24 16 EX-4
+24 17 RD-4
+24 19 RD-4
+24 20 EX-4
+21 24 UK-4
+

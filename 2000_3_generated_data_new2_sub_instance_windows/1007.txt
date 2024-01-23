@@ -1,0 +1,40 @@
+13
+MP*-msdt.exe
+MF-C:\Windows\System32\rundll32
+MF-\Users\admin\AppData\Local\Temp\alg.exe
+MF-6.9.1.tmp
+MF-C:\Users\admin\AppData\Local\Temp\Payroll_2022
+MF-C:\Users\admin\AppData\Local\Temp\z1Emir.exe
+TP*-reviewref_protected.exe 
+SF-C:\Users\admin\AppData\Local\Temp\FrequencyMeasurement
+MF-C:\Users\admin\AppData\Local\Lluanj\eroykvous
+SO-http://gc2siv9geletsu4.orgweave.com/bXRpQG10aS5odQ
+MF-Files\Content.Outlook\A3BQC9KO\audio.mp3
+SF-C:\Users\admin\AppData\Local\Temp\file
+MP*-keygen.exe
+24
+0 1 WR-1
+0 2 WR-1
+0 3 RD-1
+0 4 EX-1
+0 5 EX-1
+0 6 IJ-1
+6 1 RD-2
+6 2 EX-2
+6 3 RD-2
+6 4 RD-2
+6 5 WR-2
+0 7 WR-1
+6 7 WR-2
+0 8 EX-1
+6 8 RD-2
+0 9 ST-1
+9 6 RF-1
+0 10 WR-1
+6 10 CD-2
+6 11 WR-2
+12 3 WR-4
+12 4 WR-4
+12 5 WR-4
+6 12 UK-2
+

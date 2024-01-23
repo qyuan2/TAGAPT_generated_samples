@@ -1,0 +1,56 @@
+15
+MP*-vds.exe
+MF-C:\Users\admin\Desktop\downloadcancer.rtf
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+MF-\Users\admin\AppData\Local\Temp\000001.tmp
+MP*-nsC7AA.tmp
+MF-RAT.zip
+SF-C:\Windows\system32\svchost.exe
+MP*-GLJC215.tmp
+SO-192.168.1.1
+MF-C:\Users\admin\Desktop\c2dbd1f560dba5050031499cc921b3b7
+MP*-lk.exe 
+SF-C:\Users\admin\AppData\Local\Temp\tmp493A
+TF-PathToAtomicsFolder\T1547.001\src\vbsstartup.vb
+TF-%tmp%\mimikatz\x64\mimikatz.exe 
+MP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+38
+0 1 WR-1
+0 2 ST-1
+0 3 WR-1
+0 4 FR-1
+4 1 WR-2
+2 4 RF-1
+4 3 WR-2
+0 5 WR-1
+4 5 WR-2
+0 6 WR-1
+4 6 RD-2
+0 7 FR-1
+7 1 EX-3
+7 2 ST-3
+7 3 EX-3
+7 5 CD-3
+7 6 RD-3
+8 0 RF-1
+8 4 RF-2
+7 8 ST-3
+0 9 RD-1
+4 9 WR-2
+7 9 UK-3
+10 1 WR-4
+10 2 ST-4
+10 3 EX-4
+10 5 RD-4
+10 6 CD-4
+10 8 ST-4
+4 11 WR-2
+10 11 RD-4
+4 12 WR-2
+10 12 WR-4
+4 13 UK-2
+14 5 WR-4
+14 6 WR-4
+14 8 ST-4
+10 14 UK-4
+

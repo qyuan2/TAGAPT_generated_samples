@@ -1,0 +1,157 @@
+44
+MP*-rev
+MP-bash
+MP-cat
+TP-netstat
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-T1027-004-test.c
+MF-cron.h
+MP-cat
+MF-pwquality.c
+MF-cron.a
+TP-ip
+MF-password-hash.sh
+MP-nl
+SF-flag3.txt
+TF-http.c
+TF-at.a
+SO-192.168.206.0
+MF-te.c
+MP*-less
+TP-cat
+SO-192.168.159.128
+TP-awk
+MP*-sed
+MP-cat
+MF-data.zip
+SO-192.168.1.1
+SF-d.c
+MP-ls
+MP-cat
+MP-ps
+MF-subprocess.c
+MF-secret.c
+MP-nmap
+MP*-bash
+MF-T1070.004-test.txt
+MF-on.a
+MF-raft-large-directories.txt
+TF-T1070.006-reference.txt
+MP-bash 
+TP-awk
+MP-awk
+MP-vim
+TP-more
+TP-sed
+110
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+4 0 RF-1
+0 5 RD-1
+0 6 RD-1
+0 7 FR-1
+7 4 ST-1
+7 5 WR-1
+7 6 WR-1
+0 8 WR-1
+7 8 EX-1
+0 9 WR-1
+7 9 WR-1
+10 4 ST-1
+10 5 RD-1
+10 6 WR-1
+7 10 IJ-1
+10 8 WR-1
+10 9 WR-1
+7 11 RD-1
+10 11 WR-1
+12 4 ST-1
+12 5 EX-1
+12 6 WR-1
+7 12 UK-1
+10 13 WR-1
+10 14 WR-1
+10 15 WR-1
+10 16 ST-1
+10 17 WR-1
+18 8 WR-2
+18 9 WR-2
+10 18 IJ-1
+18 11 RD-2
+18 13 WR-2
+18 14 WR-2
+18 15 RD-2
+18 16 ST-2
+18 17 WR-2
+19 9 WR-2
+10 19 IJ-1
+19 11 RD-2
+19 13 RD-2
+19 14 WR-2
+19 15 WR-2
+19 16 ST-2
+19 17 WR-2
+18 19 UK-2
+10 20 ST-1
+21 11 UK-2
+22 13 WR-3
+22 14 RD-3
+22 15 RD-3
+22 16 ST-3
+22 17 WR-3
+22 20 ST-3
+23 13 RD-3
+23 14 WR-3
+23 15 UK-3
+22 24 WR-3
+22 25 ST-3
+22 26 WR-3
+20 27 RF-3
+27 24 WR-3
+27 25 ST-3
+27 26 UK-3
+28 20 ST-3
+22 28 UK-3
+29 20 ST-3
+29 24 RD-3
+29 25 ST-3
+29 30 RD-3
+29 31 WR-3
+32 24 EX-3
+25 32 RF-3
+29 32 UK-3
+33 24 EX-4
+33 25 ST-4
+33 30 WR-4
+33 31 WR-4
+33 34 RD-4
+33 35 EX-4
+33 36 CD-4
+33 37 EX-4
+38 30 EX-4
+38 31 WR-4
+33 38 UK-4
+39 30 WR-4
+39 31 UK-4
+40 30 WR-4
+40 34 WR-4
+40 35 WR-4
+40 36 WR-4
+40 37 WR-4
+41 34 WR-4
+41 35 WR-4
+41 36 WR-4
+41 37 WR-4
+40 41 UK-4
+42 34 RD-4
+42 35 WR-4
+42 36 WR-4
+42 37 WR-4
+43 34 WR-4
+43 35 RD-4
+43 36 RD-4
+43 37 CD-4
+42 43 UK-4
+

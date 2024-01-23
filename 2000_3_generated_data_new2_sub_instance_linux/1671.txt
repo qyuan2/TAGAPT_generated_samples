@@ -1,0 +1,42 @@
+16
+MP*-echo
+MP-sed
+TP-netstat
+MF-AutoSUID.sh
+MP-tail
+TP*-sudo
+TP*-ls
+MF-target.example.c
+TF-chttp.c
+MF-http.c
+MF-cron.a
+SF-echo-art-fish.sh
+MP-bash
+MF-art.sh
+SO-192.168.10.135
+TP-nmap
+23
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 EX-1
+0 4 UK-1
+5 3 WR-3
+6 3 WR-4
+5 6 IJ-3
+5 7 EX-3
+6 7 WR-4
+5 8 WR-3
+6 8 WR-4
+5 9 WR-3
+6 9 WR-4
+5 10 WR-3
+6 10 WR-4
+5 11 RD-3
+6 11 RD-4
+5 12 IJ-3
+6 12 UK-4
+5 13 WR-3
+14 5 RF-3
+5 15 UK-3
+

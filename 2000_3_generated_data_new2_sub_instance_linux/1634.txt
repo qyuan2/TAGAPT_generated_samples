@@ -1,0 +1,40 @@
+15
+MP*-uname
+MP-cat
+TF-e2.c
+TP-uname
+MP-sed
+MP*-ls
+MP-cat
+MF-flag4.txt
+TP*-cat
+MP*-ls
+MP-vim
+MP-find
+MP-head
+MF-at.a
+MF-0*.txt
+22
+0 1 FR-1
+0 2 WR-1
+1 2 EX-1
+0 3 UK-1
+1 4 UK-1
+5 2 RD-2
+6 2 UK-2
+5 7 WR-2
+5 8 IJ-2
+8 7 WR-3
+5 9 FR-2
+9 7 RD-4
+8 9 IJ-3
+5 10 FR-2
+10 7 UK-4
+5 11 FR-2
+8 11 IJ-3
+9 11 UK-4
+5 12 FR-2
+8 12 UK-3
+5 13 WR-2
+5 14 WR-2
+

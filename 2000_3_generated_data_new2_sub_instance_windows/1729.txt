@@ -1,0 +1,56 @@
+18
+MP*-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+MF-C:\Windows\SysWOW64\ytqpvkdx\vlliugwu.exe
+TF-\Users\admin\AppData\Local\Temp\AB083F1294796B947DE5390EC853243E.dll.vir.exe
+MF-C:\Users\admin\Desktop\APP
+MP-d6405410.exe
+TP-WinSat.exe
+MF-C:\Windows\Temp\xordump.exe
+MP-Explorer.EXE
+MP*-WerFault.exe
+MP*-Reader_sl.exe 
+MP*-ngen.exe
+MP-Перечень юридических лиц и физических лиц в рамках уклонения, сумы уклонения.exe 
+MF-C:\Program Files\Microsoft\Skype for Desktop\resources\app
+MF-C:\Users\admin\AppData\Local\Temp\042da877d3\yiueea
+SF-C:\Users\admin\AppData\Local\Temp\tmpF47F.tmp
+MF-\Users\admin\AppData\Local\Temp\Ayuaey.exe
+SF-C:\Users\admin\AppData\Local\Temp\script
+MF-\Users\admin\AppData\Local\Temp\GLJC215.tmp
+35
+0 1 RD-1
+0 2 WR-1
+0 3 WR-1
+0 4 FR-1
+4 1 RD-1
+4 2 WR-1
+4 3 RD-1
+0 5 UK-1
+4 6 WR-1
+7 1 WR-1
+7 2 WR-1
+7 3 WR-1
+4 7 UK-1
+8 1 WR-2
+8 2 RD-2
+8 3 RD-2
+8 6 RD-2
+9 1 WR-3
+9 2 WR-3
+9 3 RD-3
+9 6 WR-3
+10 1 WR-4
+10 2 RD-4
+10 3 WR-4
+10 6 WR-4
+11 2 EX-4
+11 3 EX-4
+11 6 EX-4
+9 11 UK-3
+10 12 RD-4
+10 13 WR-4
+10 14 WR-4
+10 15 WR-4
+10 16 RD-4
+10 17 UK-4
+

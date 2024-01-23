@@ -1,0 +1,30 @@
+11
+MP*-ls
+TP*-head
+SF-1.zip
+MF-syslog.c
+MF-inetd.c
+MP*-cat
+MP*-ls
+MF-password-hash.sh
+SF-atomic.log
+MF-atomic.log
+SF-cron.h
+16
+0 1 FR-1
+0 2 RD-1
+1 2 UK-2
+0 3 WR-1
+0 4 RD-1
+0 5 FR-1
+5 3 WR-3
+5 4 EX-3
+0 6 FR-1
+6 3 WR-4
+6 4 WR-4
+5 6 UK-3
+0 7 WR-1
+0 8 WR-1
+0 9 WR-1
+0 10 EX-1
+

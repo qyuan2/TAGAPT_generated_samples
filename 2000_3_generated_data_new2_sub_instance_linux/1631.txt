@@ -1,0 +1,34 @@
+13
+MP*-whoami
+TP-cat
+MP-grep
+MP*-arp-scan
+SO-192.168.2.102
+SF-http.c
+MP*-bash
+MP*-grep
+SO-192.168.10.131
+SF-/etc/syslog.conf
+MF-shell.cgi
+SF-shell.cgi
+MP-cat
+18
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 FR-1
+4 0 RF-1
+4 3 RF-2
+3 5 UK-2
+6 4 ST-3
+7 4 ST-4
+8 6 RF-3
+7 8 ST-4
+6 9 WR-3
+7 9 WR-4
+6 10 RD-3
+7 10 WR-4
+6 11 UK-3
+12 4 ST-4
+7 12 UK-4
+

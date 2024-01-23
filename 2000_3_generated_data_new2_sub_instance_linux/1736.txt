@@ -1,0 +1,46 @@
+13
+MP*-cat
+MP-less
+MP*-cat
+MF-s.c
+MF-s.c
+SF-inetd.c
+MP-chmod
+TP-cat
+MP*-awk
+MP-nmap
+SF-resolv.c
+MP*-grep
+MP-more
+30
+0 1 FR-1
+0 2 FR-1
+0 3 WR-1
+1 3 WR-1
+2 3 RD-2
+0 4 WR-1
+1 4 WR-1
+2 4 RD-2
+1 5 RD-1
+2 5 WR-2
+1 6 FR-1
+2 6 UK-2
+1 7 FR-1
+7 3 RD-2
+7 4 UK-2
+1 8 FR-1
+8 3 RD-3
+8 5 EX-3
+1 9 FR-1
+9 3 EX-3
+9 5 EX-3
+8 9 UK-3
+1 10 WR-1
+11 3 EX-4
+11 5 WR-4
+11 10 RD-4
+12 3 RD-4
+12 5 WR-4
+12 10 WR-4
+11 12 UK-4
+

@@ -1,0 +1,44 @@
+14
+MP*-regsvr32 .exe
+MF-unzip.m
+MF-\Users\admin\AppData\Local\Temp\UpdateService.bat.a
+SF-C:\Users\admin\AppData\Local\Temp\vbs
+SF-C:\Users\admin\AppData\Roaming\SysInfoTool\data
+MF-\Windows\system32\regsvr32.exe
+MF-\Users\admin\AppData\Roaming\JavaNetworkServices86\UIrvVa6de.vb
+TP-AdFind.exe 
+MP*-python.exe
+SF-C:\Users\admin\AppData\Local\Temp\tb.png
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+TP*-GLJC215.tmp
+MF-C:\Users\admin\AppData\Local\Temp\IXP001
+MP*-LaZagne.exe
+27
+0 1 RD-1
+0 2 WR-1
+0 3 EX-1
+0 4 RD-1
+0 5 WR-1
+0 6 EX-1
+0 7 FR-1
+7 1 UK-1
+0 8 FR-1
+8 2 EX-2
+8 3 WR-2
+8 4 WR-2
+8 5 RD-2
+8 6 RD-2
+0 9 WR-1
+8 9 RD-2
+10 0 RF-1
+8 10 ST-2
+11 2 RD-3
+11 3 WR-3
+11 4 RD-3
+11 5 WR-3
+11 6 UK-3
+8 12 WR-2
+13 4 RD-4
+13 5 WR-4
+8 13 UK-2
+

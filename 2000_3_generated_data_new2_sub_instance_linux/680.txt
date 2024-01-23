@@ -1,0 +1,65 @@
+20
+MP-awk
+SF-Users.tar.gz
+TF-lighttpd.c
+MF-t.c
+MP*-chmod
+MP*-ls
+MF-subprocess.c
+MF-settings.php
+MP-less
+MP*-more
+TF-flag3.txt
+TF-raw.githubusercontent.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-LinEnum.sh
+MP*-awk
+MF-Users.tar.gz
+MP-find
+MF-journald.c
+MF-rockyou.txt
+MF-ret.c
+42
+0 1 WR-1
+0 2 RD-1
+0 3 UK-1
+4 1 WR-1
+4 2 WR-1
+5 1 WR-2
+5 2 RD-2
+4 6 WR-1
+5 6 RD-2
+4 7 EX-1
+5 7 EX-2
+8 1 WR-2
+8 2 CD-2
+4 8 UK-1
+9 1 WR-3
+9 2 RD-3
+9 6 WR-3
+9 7 RD-3
+5 10 WR-2
+9 10 RD-3
+5 11 WR-2
+9 11 EX-3
+5 12 ST-2
+9 12 ST-3
+5 13 RD-2
+9 13 WR-3
+5 14 FR-2
+14 6 WR-4
+14 7 EX-4
+14 10 RD-4
+14 11 RD-4
+14 12 ST-4
+14 13 RD-4
+5 15 WR-2
+9 15 EX-3
+14 15 RD-4
+16 6 WR-4
+16 7 CD-4
+9 16 UK-3
+14 17 CD-4
+14 18 EX-4
+14 19 UK-4
+

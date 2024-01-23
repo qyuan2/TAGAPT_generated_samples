@@ -1,0 +1,60 @@
+15
+MP*-awk
+MP*-nl
+MF-d.c
+SF-Users.tar.gz
+TP-echo
+MP-cat
+SF-td.c
+MP*-dnsdomainname
+MF-T1070.004-test.txt
+MF-T1070.006-modification.txt
+MF-passwd.zip
+TF-httpd.c
+TF-p.c
+MP-sed
+MP*-ls
+42
+0 1 FR-1
+0 2 WR-1
+1 2 CD-2
+0 3 CD-1
+1 3 WR-2
+0 4 FR-1
+1 4 IJ-2
+4 2 WR-2
+4 3 RD-2
+0 5 FR-1
+1 5 UK-2
+0 6 RD-1
+4 6 RD-2
+0 7 FR-1
+7 2 WR-3
+7 3 WR-3
+4 7 IJ-2
+7 6 WR-3
+0 8 CD-1
+4 8 WR-2
+7 8 EX-3
+0 9 WR-1
+4 9 EX-2
+7 9 WR-3
+0 10 WR-1
+4 10 RD-2
+7 10 RD-3
+4 11 WR-2
+7 11 EX-3
+4 12 CD-2
+7 12 WR-3
+13 3 WR-3
+4 13 IJ-2
+13 6 WR-3
+7 13 UK-3
+4 14 IJ-2
+14 6 RD-4
+14 8 CD-4
+14 9 WR-4
+14 10 RD-4
+14 11 WR-4
+14 12 UK-4
+

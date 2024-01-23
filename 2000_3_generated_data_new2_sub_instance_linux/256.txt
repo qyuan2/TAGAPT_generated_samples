@@ -1,0 +1,45 @@
+12
+MP*-sudo
+SO-192.168.159.128
+MF-test.txt
+TP*-tail
+TF-T1027-004-test.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP-sed
+MF-LinEnum.sh
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP*-cat
+MP-cp
+MP*-sed
+30
+0 1 ST-1
+0 2 EX-1
+0 3 FR-1
+1 3 RF-1
+3 2 WR-2
+0 4 WR-1
+3 4 WR-2
+0 5 ST-1
+5 3 RF-1
+0 6 FR-1
+1 6 RF-1
+6 2 RD-2
+3 6 UK-2
+0 7 WR-1
+8 0 RF-1
+0 9 FR-1
+9 1 ST-3
+9 2 WR-3
+9 4 WR-3
+5 9 RF-1
+9 7 WR-3
+9 8 ST-3
+0 10 FR-1
+10 1 ST-3
+10 2 UK-3
+11 4 WR-4
+5 11 RF-1
+11 7 WR-4
+8 11 RF-3
+9 11 UK-3
+

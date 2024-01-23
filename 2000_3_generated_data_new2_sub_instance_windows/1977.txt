@@ -1,0 +1,31 @@
+10
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+MF-\Users\admin\Desktop\Wub\Wub.exe
+MF-\Users\admin\AppData\Local\Temp\rPO59687543.exe
+TP*-сsrss.exe 
+SO-https://pasalaganando.com/?utm_source=crm&utm_medium=email&utm_campaign=bancolombia_10_pct_facturacion
+MF-C:\Users\admin\AppData\Local\Temp\C3B1
+MP*-Caspol.exe
+MP*-vlliugwu.exe 
+SF-C:\Windows\System32\cscript
+SO-hxxp://fiordan.ru/FILM.html
+18
+0 1 RD-1
+0 2 RD-1
+0 3 IJ-1
+3 1 WR-2
+3 2 UK-2
+0 4 ST-1
+0 5 RD-1
+0 6 FR-1
+6 1 RD-3
+6 4 ST-3
+6 5 RD-3
+0 7 FR-1
+7 1 WR-4
+7 4 ST-4
+7 5 WR-4
+6 7 UK-3
+0 8 CD-1
+0 9 ST-1
+

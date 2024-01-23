@@ -1,0 +1,44 @@
+15
+MP*-kubectl
+MP-chmod
+MP-sed
+MF-td.c
+MP*-uname
+TP-cat
+MP-cat
+TP*-masscan
+MF-T1074.001_discovery.log
+MP*-ip
+MF-v.c
+MP-dirb
+TF-at.a
+MF-flag3.txt
+MP-w
+26
+0 1 FR-1
+0 2 FR-1
+1 2 UK-1
+0 3 WR-1
+0 4 FR-1
+4 3 WR-2
+0 5 IJ-1
+5 3 WR-2
+4 5 UK-2
+0 6 FR-1
+6 3 UK-2
+0 7 IJ-1
+0 8 WR-1
+7 8 WR-3
+0 9 FR-1
+7 9 IJ-3
+9 8 WR-4
+0 10 WR-1
+7 10 RD-3
+9 10 WR-4
+7 11 FR-3
+11 8 WR-4
+9 11 UK-4
+7 12 RD-3
+7 13 WR-3
+7 14 UK-3
+

@@ -1,0 +1,57 @@
+14
+MP*-grep
+SF-T1070.006-reference.txt
+TF-anaconda-ks.cfg
+MF-www.google.c
+SO-192.168.206.136
+SO-192.168.10.135
+MF-atomic.log
+MP-nl
+TP*-find
+TP-grep
+MF-anaconda-ks.cfg
+TP*-wfuzz
+MF-T1070.006-modification.txt
+MP*-g++
+40
+0 1 WR-1
+0 2 EX-1
+0 3 WR-1
+4 0 RF-1
+5 0 RF-1
+0 6 RD-1
+0 7 FR-1
+7 1 WR-1
+7 2 WR-1
+0 8 FR-1
+8 1 WR-2
+8 2 RD-2
+8 3 RD-2
+4 8 RF-2
+5 8 RF-2
+8 6 RD-2
+0 9 IJ-1
+9 1 WR-2
+9 2 WR-2
+9 3 EX-2
+4 9 RF-2
+9 5 ST-2
+9 6 WR-2
+8 9 IJ-2
+8 10 WR-2
+9 10 EX-2
+11 2 WR-3
+11 3 WR-3
+11 4 ST-3
+5 11 RF-2
+11 6 WR-3
+8 11 UK-2
+9 12 WR-2
+13 3 EX-4
+4 13 RF-3
+5 13 RF-2
+13 6 RD-4
+9 13 IJ-2
+13 10 CD-4
+13 12 UK-4
+

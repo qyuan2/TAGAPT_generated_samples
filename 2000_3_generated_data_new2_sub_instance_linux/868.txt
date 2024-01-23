@@ -1,0 +1,106 @@
+26
+MP*-dd
+MP-find
+TP-awk
+SF-raft-large-directories.txt
+SF-atomic.sh
+MF-raj.txt
+MP-uname
+SF-pwquality.c
+SF-e.c
+MP-nl
+MP-nmap
+MF-pwquality.c
+TP*-tail
+MF-settings.php
+SO-192.168.159.128
+SF-http.c
+MP-nmap
+SF-data.zip
+SO-127.0.0.1:8080
+TP-grep
+MP*-less
+MF-passwd.zip
+MF-echo-art-fish.sh
+TP*-more
+MP-systemd
+MP-less
+77
+0 1 FR-1
+0 2 FR-1
+1 2 IJ-1
+0 3 WR-1
+1 3 WR-1
+2 3 WR-1
+0 4 EX-1
+1 4 WR-1
+2 4 WR-1
+0 5 RD-1
+1 5 RD-1
+2 5 WR-1
+0 6 FR-1
+2 6 UK-1
+0 7 WR-1
+1 7 EX-1
+0 8 EX-1
+1 8 RD-1
+0 9 FR-1
+9 3 WR-1
+9 4 EX-1
+9 5 RD-1
+9 7 WR-1
+9 8 WR-1
+0 10 FR-1
+1 10 UK-1
+9 11 EX-1
+12 3 RD-2
+12 4 RD-2
+12 5 WR-2
+12 7 WR-2
+12 8 RD-2
+9 12 IJ-1
+12 11 RD-2
+9 13 WR-1
+12 13 RD-2
+9 14 ST-1
+12 14 ST-2
+9 15 WR-1
+12 15 WR-2
+16 7 RD-2
+16 8 UK-2
+9 17 EX-1
+12 17 WR-2
+9 18 ST-1
+12 18 ST-2
+9 19 UK-1
+20 11 RD-3
+12 20 IJ-2
+20 13 RD-3
+14 20 RF-2
+20 15 WR-3
+20 17 RD-3
+18 20 RF-2
+12 21 WR-2
+20 21 WR-3
+12 22 CD-2
+20 22 RD-3
+23 13 RD-4
+14 23 RF-2
+23 15 WR-4
+23 17 RD-4
+23 18 ST-4
+20 23 IJ-3
+23 21 WR-4
+23 22 RD-4
+14 24 RF-2
+24 15 RD-4
+24 17 WR-4
+18 24 RF-4
+20 24 UK-3
+25 15 EX-4
+25 17 WR-4
+18 25 RF-4
+25 21 WR-4
+25 22 WR-4
+23 25 UK-4
+

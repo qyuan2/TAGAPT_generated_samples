@@ -1,0 +1,55 @@
+17
+MP*-chmod 
+MF-d.c
+MP*-nl
+MF-user.r
+MP*-nl
+SO-192.168.2.102
+MP-sed
+MF-www.google.c
+MP*-ls
+TP-uname
+SO-192.168.37.130
+MF-p.c
+MF-LinEnum.sh
+MF-cron.h
+MF-raft-medium-directories.txt
+TP-nmap
+MP-cat
+35
+0 1 EX-1
+0 2 FR-1
+2 1 WR-2
+0 3 WR-1
+2 3 RD-2
+0 4 FR-1
+4 1 WR-3
+4 3 RD-3
+0 5 ST-1
+2 5 ST-2
+4 5 ST-3
+0 6 FR-1
+6 1 WR-3
+6 3 WR-3
+4 6 UK-3
+0 7 WR-1
+2 7 WR-2
+0 8 FR-1
+8 1 RD-4
+8 3 WR-4
+8 5 ST-4
+8 7 RD-4
+0 9 UK-1
+10 2 RF-2
+8 10 ST-4
+2 11 WR-2
+8 11 EX-4
+2 12 WR-2
+8 12 WR-4
+8 13 WR-4
+8 14 UK-4
+15 5 ST-4
+15 7 UK-4
+16 10 ST-4
+16 11 UK-4
+

@@ -1,0 +1,80 @@
+23
+MP*-Bandizip.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF
+MP-timeout.exe
+SF-C:\Users\admin\AppData\Local\Temp\splwow64
+MP-ns996E.tmp
+MF-C:\Users\admin\Desktop\readme
+SF-C:\Users\admin\AppData\Local\Temp\Tudehluxjc.exe
+TF-Files\Sinfor\Dkeyauth\keydlls.exe
+MF-Switch.m
+MP-GUP.exe
+MP-wscript.exe
+MP*-sitool.exe
+MP-WinSat.exe
+TP-863e7c22c771e4005197ae28363584f8.exe 2620
+TP-MpCmdRun.exe
+MP*-default-browser-agent.exe
+MP*-Explorer.EXE
+MF-message.msg
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+SO-https://class.malware.re
+TF-C:\Users\admin\AppData\Local\Temp\EF98.exe
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+MP-DATOS DE ARCHIVOS No 7879746161364.exe
+54
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 WR-1
+2 3 WR-1
+0 4 FR-1
+4 1 UK-1
+0 5 WR-1
+2 5 EX-1
+0 6 WR-1
+2 6 WR-1
+0 7 WR-1
+2 7 WR-1
+0 8 CD-1
+2 8 WR-1
+0 9 FR-1
+9 3 RD-1
+9 5 UK-1
+0 10 UK-1
+2 11 FR-1
+11 3 WR-2
+11 6 RD-2
+11 7 RD-2
+11 8 WR-2
+2 12 FR-1
+12 3 WR-2
+12 6 RD-2
+12 7 EX-2
+12 8 WR-2
+11 12 UK-2
+13 3 WR-2
+13 6 RD-2
+13 7 WR-2
+13 8 WR-2
+14 6 WR-2
+14 7 WR-2
+14 8 RD-2
+13 14 UK-2
+15 6 WR-3
+15 7 WR-3
+15 8 WR-3
+16 6 RD-4
+16 7 WR-4
+16 8 RD-4
+15 17 WR-3
+16 17 RD-4
+15 18 ST-3
+16 18 ST-4
+19 15 RF-3
+16 19 ST-4
+15 20 WR-3
+16 20 WR-4
+15 21 UK-3
+16 22 UK-4
+

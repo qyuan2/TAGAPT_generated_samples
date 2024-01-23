@@ -1,0 +1,63 @@
+18
+MP*-nl
+MF-Users.tar.gz
+MF-flag3.txt
+MF-0*.txt
+TP*-teehee
+TP-sed
+MF-os.exe
+MF-flag3.txt
+MF-log.c
+TP*-cat
+MP-cat
+TP*-rpm
+TF-p.c
+MP-bash 
+MP-dd
+MF-shell.cgi
+MF-victim-shred.txt
+TF-T1027-004-test.c
+42
+0 1 WR-1
+0 2 RD-1
+0 3 CD-1
+0 4 IJ-1
+4 1 WR-2
+4 2 WR-2
+4 3 RD-2
+0 5 FR-1
+5 1 WR-2
+5 2 EX-2
+5 3 WR-2
+4 5 UK-2
+0 6 WR-1
+0 7 CD-1
+0 8 RD-1
+0 9 IJ-1
+9 1 WR-3
+9 2 WR-3
+9 3 WR-3
+9 6 WR-3
+9 7 RD-3
+9 8 WR-3
+0 10 FR-1
+10 1 EX-3
+10 2 UK-3
+11 3 WR-4
+11 6 RD-4
+11 7 WR-4
+11 8 RD-4
+9 11 IJ-3
+9 12 RD-3
+11 12 RD-4
+13 6 EX-4
+13 7 WR-4
+13 8 RD-4
+9 13 UK-3
+14 6 CD-4
+14 7 EX-4
+14 8 UK-4
+11 15 RD-4
+11 16 RD-4
+11 17 UK-4
+

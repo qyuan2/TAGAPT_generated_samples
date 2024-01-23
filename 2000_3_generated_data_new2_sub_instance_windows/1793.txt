@@ -1,0 +1,52 @@
+14
+MP*-bcdedit.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1218.007/bin/T1218.007_JScript.msi
+MF-C:\Windows\System32\NOTEPAD
+SO-http://email.getsailebot.net/c/eJwkzsFqxCAQgOGnMbcMOpqNHjwUSkpvpX2AMlnHTSDRsOOy0KcvaS__7YM_xdFQotRxNJdgnR9t0N0Sk_MhGW2I5zHNFCgE53OY8zA4uqDt1ogarfbWGKvDoMGn6zxkHp1D7zijcvrGTWjdeK4NCrdui0trhyj7onBSOD2kf7K0HvvjXtN__gDvtG4kwk16sSAWaKefWugpcK27wmnd6caicEKN-P32-vEJ7yVX-Do5HCl390ilwDmgnN6W0wE9fgMAAP__TlVK2g
+MP-WerFault.exe 
+MF-C:\Windows\system32\config\system
+TP*-_vnw.exe
+MP*-IEmode.exe 
+MP-regsvcs.exe
+MP*-wuauclt.exe
+SF-C:\Windows\System32\WindowsUpdate
+MF-C:\Users\admin\AppData\Local\Temp\Setup
+MP-nltest.exe
+TF-vssadmin.exe
+35
+1 0 RF-1
+0 2 WR-1
+0 3 ST-1
+0 4 FR-1
+4 1 ST-2
+4 2 RD-1
+4 3 ST-1
+0 5 CD-1
+4 5 RD-1
+0 6 IJ-1
+1 6 RF-2
+6 2 WR-2
+3 6 RF-1
+4 6 IJ-1
+6 5 WR-2
+0 7 FR-1
+7 1 ST-3
+7 2 EX-3
+7 3 ST-3
+7 5 WR-3
+6 7 IJ-2
+0 8 UK-1
+1 9 RF-3
+9 2 WR-4
+9 3 ST-4
+9 5 WR-4
+6 9 IJ-2
+7 9 UK-3
+6 10 EX-2
+6 11 WR-2
+3 12 RF-1
+12 5 WR-4
+6 12 IJ-2
+12 10 UK-4
+6 13 UK-2
+

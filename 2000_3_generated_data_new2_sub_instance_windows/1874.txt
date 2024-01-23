@@ -1,0 +1,38 @@
+12
+MP*-msedge.exe
+MF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth
+SF-C:\Users\admin\AppData\Roaming\olsptrs\olsptrs.exe
+MF-class.malware.r
+SO-https://onapsis.com/onapsis-platform
+TP*-meatspin full.exe
+MF-files-ld.s3.us-east-2.amazonaws.c
+MP*-ProcessHacker.exe 
+SF-C:\Users\admin\AppData\Local\Temp\fs
+MP*-WScript.exe
+MF-C:\Users\admin\AppData\Local\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate
+MP-SearchFilterHost.exe
+23
+0 1 EX-1
+0 2 CD-1
+0 3 WR-1
+0 4 ST-1
+0 5 IJ-1
+5 1 RD-2
+5 2 WR-2
+5 3 RD-2
+5 4 ST-2
+0 6 CD-1
+5 6 UK-2
+0 7 FR-1
+7 1 CD-3
+7 2 UK-3
+0 8 RD-1
+0 9 FR-1
+9 1 EX-4
+9 3 RD-4
+9 4 ST-4
+9 8 UK-4
+0 10 WR-1
+11 1 WR-4
+11 3 UK-4
+

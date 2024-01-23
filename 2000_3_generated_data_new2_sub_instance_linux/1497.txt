@@ -1,0 +1,109 @@
+29
+MP-cat
+MP-sed
+MP-hostname
+SF-secret.c
+MP-bash 
+MP*-ls
+SF-atomic.sh
+MF-secret.c
+SO-192.168.206.136
+MP-awk
+TP-uname
+TF-pd.c
+TF-raft-medium-directories.txt
+SF-resolv.c
+TP-less
+SF-rockyou.txt
+MF-2017.pl
+MP*-less
+TP-grep
+MF-settings.php
+MF-raft-large-directories.txt
+MP*-cat
+SF-password-hash.sh
+SF-etc.tar.gz
+MP-awk
+TF-passwd.zip
+MF-CleaingScript.sh
+MF-sysctl.c
+MP*-cat
+77
+0 1 FR-1
+0 2 UK-1
+1 3 RD-1
+1 4 UK-1
+5 3 WR-1
+5 6 WR-1
+5 7 WR-1
+5 8 ST-1
+9 3 CD-1
+9 6 WR-1
+9 7 UK-1
+10 3 UK-1
+5 11 WR-1
+5 12 EX-1
+5 13 RD-1
+5 14 FR-1
+14 6 WR-1
+8 14 RF-1
+14 11 EX-1
+14 12 WR-1
+14 13 WR-1
+5 15 WR-1
+14 15 WR-1
+14 16 WR-1
+17 8 ST-2
+17 11 WR-2
+17 12 RD-2
+17 13 WR-2
+14 17 IJ-1
+17 15 WR-2
+17 16 WR-2
+8 18 RF-1
+18 11 WR-2
+18 12 EX-2
+18 13 WR-2
+14 18 IJ-1
+18 15 RD-2
+18 16 RD-2
+17 18 IJ-2
+14 19 WR-1
+17 19 WR-2
+18 19 RD-2
+14 20 WR-1
+17 20 RD-2
+18 20 WR-2
+21 11 WR-3
+21 12 RD-3
+21 13 RD-3
+14 21 IJ-1
+21 15 RD-3
+21 16 EX-3
+18 21 IJ-2
+21 19 WR-3
+21 20 RD-3
+14 22 WR-1
+17 22 RD-2
+18 22 RD-2
+21 22 WR-3
+14 23 WR-1
+17 23 WR-2
+18 23 RD-2
+21 23 WR-3
+14 24 IJ-1
+24 15 UK-3
+17 25 EX-2
+18 25 WR-2
+21 25 WR-3
+17 26 WR-2
+18 26 WR-2
+21 26 RD-3
+17 27 RD-2
+18 27 RD-2
+21 27 WR-3
+18 28 IJ-2
+28 19 EX-4
+28 20 RD-4
+21 28 UK-3
+

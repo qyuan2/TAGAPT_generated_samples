@@ -1,0 +1,93 @@
+28
+MP*-jsc.exe
+MP-javaw.exe
+SF-C:\Windows\system32\schtasks
+MP-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+MP*-NjRat Platinum Edition.exe
+MP-New Client.exe
+MP-WinAPIOverride 6.9.1.exe
+TP-vbs.exe
+MP*-WScript.exe 
+TF-attrib.exe
+SF-C:\Users\admin\AppData\Local\Temp\Invoice_11072023_4555438639_from
+MP-wscript.exe 
+SF-C:\Program Files\Windows Media Player\wmpnscfg.exe
+MP-AcroRd32.exe 
+MP-BFB9.exe
+TP*-xordump.exe 
+MF-C:\Users\admin\AppData\Roaming\yonr\yonr.exe
+MP-OneDrive.exe 
+TP-icacls.exe
+MP-ns9E4A.tmp
+SF-C:\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+MP-y6493242.exe
+MF-C:\Users\admin\AppData\Local\Temp\vLocalServerSetup
+TF-C:\Users\admin\AppData\Local\Temp\06ad76f4b19be8706f98441d926142af824bd2983217f6c2c02201dbb07d0224
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+MF-\Users\admin\AppData\Local\Temp\jojo11.exe
+TF-\Users\admin\AppData\Local\Temp\SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+MF-..wsf
+62
+0 1 FR-1
+0 2 WR-1
+1 2 UK-1
+0 3 FR-1
+0 4 FR-1
+0 5 FR-1
+0 6 FR-1
+3 6 UK-1
+0 7 FR-1
+4 7 IJ-2
+5 7 IJ-2
+0 8 FR-1
+7 8 IJ-2
+0 9 WR-1
+4 9 WR-2
+5 9 RD-2
+7 9 RD-2
+8 9 CD-3
+0 10 WR-1
+4 10 WR-2
+5 10 WR-2
+7 10 RD-2
+8 10 RD-3
+4 11 FR-2
+5 11 UK-2
+4 12 RD-2
+7 12 WR-2
+8 12 RD-3
+4 13 FR-2
+7 13 IJ-2
+8 13 UK-3
+4 14 FR-2
+7 14 UK-2
+15 9 CD-4
+15 10 CD-4
+15 12 CD-4
+15 16 RD-4
+17 9 RD-4
+17 10 WR-4
+17 12 RD-4
+15 17 IJ-4
+17 16 EX-4
+18 9 UK-4
+19 10 RD-4
+19 12 WR-4
+15 19 IJ-4
+19 16 WR-4
+15 20 WR-4
+17 20 WR-4
+19 20 RD-4
+21 12 WR-4
+15 21 IJ-4
+21 16 EX-4
+17 21 UK-4
+15 22 CD-4
+19 22 WR-4
+15 23 WR-4
+19 23 WR-4
+15 24 UK-4
+19 25 WR-4
+19 26 RD-4
+19 27 UK-4
+

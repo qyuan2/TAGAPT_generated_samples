@@ -1,0 +1,42 @@
+11
+MP*-NOTEPAD.EXE
+MF-Files\Hantek2xx2\Driver\Win10\Hantek2D42X86.sys
+MP*-NOTEPAD.EXE
+MF-C:\Windows\System32\calc.exe
+SF-C:\Windows\system32\verclsid
+MF-taskdl.exe
+MF-C:\Users\admin\AppData\Local\Temp\Invoice
+MP*-oldplayer.exe 
+MP*-MicrosoftEdgeUpdate.exe
+MP-RegDll.x86.exe
+MF-C:\Windows\Microsoft
+28
+0 1 EX-1
+0 2 FR-1
+2 1 RD-2
+0 3 WR-1
+2 3 RD-2
+0 4 EX-1
+2 4 RD-2
+0 5 RD-1
+2 5 CD-2
+0 6 RD-1
+2 6 WR-2
+0 7 FR-1
+7 1 WR-3
+7 3 WR-3
+7 4 WR-3
+7 5 WR-3
+7 6 WR-3
+0 8 FR-1
+8 1 WR-4
+8 3 WR-4
+8 4 EX-4
+8 5 WR-4
+8 6 RD-4
+7 8 UK-3
+0 9 FR-1
+9 1 RD-4
+2 9 UK-2
+0 10 WR-1
+

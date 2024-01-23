@@ -1,0 +1,62 @@
+21
+MP-keygen.exe
+SF-C:\Program Files\Common Files\Adobe\ARM\1
+MF-C:\Windows\SysWOW64\WerFault.exe
+MF-C:\Windows\System32\vdsldr.exe
+MP-ExplorerSuite.exe
+TP-a6302410.exe
+MP*-Nikki Project.scr
+MP-SearchProtocolHost.exe
+MF-\Users\admin\AppData\Local\Temp\tmp8DB1.tmp
+SO-https://onapsis.com/onapsis-platform
+SO-hxxp://157.245.99[.]132/get.php
+MF-C:\Windows\system32\schtasks.exe
+MF-C:\Windows\SysWOW64\ytqpvkdx\vlliugwu
+TP-csc.exe 
+MP*-KMSpico_setup.tmp
+MP*-keygen.exe
+MF-\Users\admin\AppData\Local\Temp\000001.tmp
+MF-%userprofile%\downloads
+MP*-GLJBD24.tmp
+TF-Settings\services.exe
+MP-XClient.exe 
+38
+0 1 RD-1
+0 2 WR-1
+0 3 RD-1
+0 4 UK-1
+5 1 UK-1
+6 2 RD-1
+6 3 EX-1
+7 2 UK-1
+6 8 WR-1
+6 9 ST-1
+10 6 RF-1
+6 11 WR-1
+6 12 EX-1
+13 3 WR-1
+6 13 UK-1
+14 8 WR-2
+9 14 RF-1
+10 14 RF-2
+14 11 RD-2
+14 12 WR-2
+15 8 RD-3
+9 15 RF-1
+15 10 ST-3
+15 11 WR-3
+15 12 RD-3
+14 16 RD-2
+15 16 CD-3
+14 17 WR-2
+15 17 WR-3
+18 9 ST-4
+18 10 ST-4
+18 11 WR-4
+18 12 RD-4
+15 18 UK-3
+14 19 EX-2
+20 11 WR-4
+20 12 RD-4
+14 20 UK-2
+

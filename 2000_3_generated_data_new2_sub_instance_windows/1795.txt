@@ -1,0 +1,40 @@
+14
+MP*-T1027.exe
+MF-C:\Windows\System32\mshta.exe
+MP*-fast1nject.exe 
+MP-AnyDesk-a444ebcf.exe 
+MP-CE5F.exe
+TF-files\appdata\local\temp\5275.bmp.vb
+TP*-vds.exe
+MF-C:\Users\admin\Desktop\mincedcrack.exe
+SF-C:\Users\admin\Desktop\getidp
+TF-C:\Users\admin\AppData\Local\Temp\BFB9.exe
+MP-сsrss.exe 
+TF-Files\Sinfor\Dkeyauth\keydlls.exe
+MP-jsIXhU
+TP*-ONENOTE.EXE
+23
+0 1 RD-1
+0 2 FR-1
+2 1 WR-2
+0 3 FR-1
+3 1 UK-2
+0 4 FR-1
+2 4 UK-2
+0 5 WR-1
+0 6 FR-1
+6 5 EX-3
+0 7 WR-1
+6 7 RD-3
+0 8 WR-1
+6 8 WR-3
+0 9 RD-1
+6 9 WR-3
+0 10 FR-1
+10 5 UK-3
+6 11 RD-3
+6 12 UK-3
+13 7 RD-4
+13 8 RD-4
+13 9 UK-4
+

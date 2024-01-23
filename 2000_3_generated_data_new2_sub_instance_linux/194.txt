@@ -1,0 +1,114 @@
+29
+MP*-rev
+TF-anaconda-ks.cfg
+MP-curl 
+SO-192.168.10.129
+MP-python
+MP-cat
+MP-grep
+SO-192.168.37.130
+SF-settings.php
+TP-tac
+MF-lighttp.c
+MF-pwquality.c
+TF-s.c
+TP-cat
+SO-192.168.206.137
+MF-T1070.006-reference.txt
+SF-d.c
+TP-cat
+TP-dd
+SO-192.168.206.0
+TP*-tr
+MF-Discovery.sh
+SF-0*.txt
+MP-tail
+MP*-uname
+MF-T1070.004-test.txt
+MP-awk
+TP*-awk
+MP-whoami
+82
+0 1 WR-1
+0 2 FR-1
+2 1 RD-1
+3 0 RF-1
+3 2 RF-1
+0 4 FR-1
+4 1 WR-1
+4 3 ST-1
+0 5 UK-1
+6 1 EX-1
+2 6 UK-1
+4 7 ST-1
+4 8 WR-1
+9 1 WR-1
+9 3 ST-1
+7 9 RF-1
+9 8 WR-1
+9 10 RD-1
+9 11 WR-1
+9 12 WR-1
+7 13 RF-1
+13 8 WR-1
+9 13 IJ-1
+13 10 RD-1
+13 11 WR-1
+13 12 RD-1
+9 14 ST-1
+13 14 ST-2
+9 15 RD-1
+13 15 WR-1
+9 16 RD-1
+13 16 CD-1
+17 8 RD-1
+9 17 IJ-1
+17 10 RD-1
+17 11 UK-1
+9 18 IJ-1
+18 10 RD-1
+18 12 RD-1
+13 18 IJ-1
+18 14 ST-2
+18 15 RD-1
+18 16 RD-1
+9 19 ST-1
+19 13 RF-1
+18 19 ST-1
+20 10 RD-2
+20 12 WR-2
+13 20 IJ-1
+14 20 RF-2
+20 15 CD-2
+20 16 WR-2
+18 20 IJ-1
+20 19 ST-2
+13 21 WR-1
+18 21 RD-1
+20 21 UK-2
+13 22 WR-1
+18 22 WR-1
+13 23 UK-1
+14 24 RF-1
+24 15 CD-3
+24 16 RD-3
+18 24 IJ-1
+19 24 RF-2
+24 22 RD-3
+18 25 WR-1
+24 25 RD-3
+26 16 RD-3
+18 26 IJ-1
+26 19 ST-3
+26 22 CD-3
+24 26 UK-3
+18 27 FR-1
+19 27 RF-2
+27 22 WR-4
+27 25 CD-4
+18 28 IJ-1
+28 19 ST-4
+28 22 CD-4
+28 25 RD-4
+27 28 UK-4
+

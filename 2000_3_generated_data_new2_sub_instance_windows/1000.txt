@@ -1,0 +1,53 @@
+15
+MP*-certreq.exe 
+MP-RFQ # 1045981 - MAA_D Plant Project r01.exe 
+SO-http://pitshopautopartsus.com
+MF-PathToAtomicsFolder\T1137.004\src\T1137.004.htm
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+TP-csc.exe
+MP-Tudehluxjc.exe 
+MP-file.exe
+MP*-NOTEPAD.EXE
+MF-\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8.exe
+MP*-avi_previewer_demo.exe
+MP*-cmstp.exe
+MP-certutil
+SO-10.0.0.00000
+MP-nsD0E9.tmp
+35
+0 1 FR-1
+1 2 ST-1
+1 3 RD-1
+1 4 ST-1
+1 5 FR-1
+5 2 ST-1
+5 3 EX-1
+4 5 RF-1
+1 6 FR-1
+2 6 RF-1
+6 3 RD-1
+4 6 RF-1
+5 6 IJ-1
+1 7 UK-1
+2 8 RF-1
+8 3 WR-2
+4 8 RF-1
+5 8 IJ-1
+6 8 UK-1
+5 9 RD-1
+2 10 RF-1
+10 3 WR-3
+10 4 ST-3
+5 10 IJ-1
+10 9 WR-3
+2 11 RF-1
+11 3 RD-4
+11 4 ST-4
+5 11 UK-1
+2 12 RF-1
+12 3 UK-4
+10 13 ST-3
+14 4 ST-4
+14 9 WR-4
+10 14 UK-3
+

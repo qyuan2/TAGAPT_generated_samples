@@ -1,0 +1,31 @@
+10
+MP-SearchIndexer.exe
+SF-C:\Users\admin\AppData\Local\Temp\86270699bad2681bb3f5f57f44a7094e.exe
+MP*-bcdedit.exe
+SF-C:\Users\admin\AppData\Local\Temp\8be41efd6e6ace53b8c59344be2ba91fe41003987a8e38484b20760d7c400a42
+MP-Outflank-Dumpert.exe
+MP*-ntvdm.exe
+MF-\Users\admin\AppData\Local\Temp\tmp4503.tmp
+MP-taskkill.exe
+MP*-Dism.exe
+MP*-Host.exe 
+18
+0 1 RD-1
+2 1 WR-1
+2 3 RD-1
+4 1 WR-1
+2 4 UK-1
+5 1 WR-2
+5 3 WR-2
+5 6 WR-2
+7 1 WR-2
+7 3 WR-2
+5 7 UK-2
+8 1 WR-3
+8 3 EX-3
+8 6 EX-3
+9 1 WR-4
+9 3 EX-4
+9 6 EX-4
+8 9 UK-3
+

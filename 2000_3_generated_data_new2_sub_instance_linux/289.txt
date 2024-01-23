@@ -1,0 +1,69 @@
+19
+MP*-bash 
+SF-lighttpd.c
+MP-uname
+TF-1.txt
+MF-T1003.008.txt
+TP-tail
+MF-lighttpd.c
+SO-192.168.206.136
+TP-cat
+MP*-head
+MF-raw.githubusercontent.c
+MF-os.exe
+MP*-dirb
+MF-art.sh
+MF-Users.tar.gz
+MF-victim-shred.txt
+SF-T1027-004-test.c
+MP*-grep
+SO-192.168.159.128
+47
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 WR-1
+2 3 EX-1
+0 4 WR-1
+2 4 CD-1
+0 5 FR-1
+5 1 RD-1
+2 5 UK-1
+0 6 WR-1
+0 7 ST-1
+0 8 FR-1
+8 1 WR-1
+8 3 WR-1
+8 4 WR-1
+8 6 RD-1
+7 8 RF-1
+0 9 FR-1
+9 1 RD-2
+9 3 WR-2
+9 4 WR-2
+9 6 WR-2
+7 9 RF-1
+8 9 IJ-1
+0 10 WR-1
+8 10 WR-1
+9 10 RD-2
+8 11 RD-1
+9 11 WR-2
+12 3 EX-3
+12 4 RD-3
+12 6 RD-3
+7 12 RF-1
+8 12 IJ-1
+9 12 UK-2
+8 13 WR-1
+8 14 RD-1
+8 15 RD-1
+8 16 RD-1
+7 17 RF-1
+8 17 IJ-1
+17 10 WR-4
+17 11 RD-4
+17 13 WR-4
+17 14 UK-4
+18 8 RF-1
+

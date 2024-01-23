@@ -1,0 +1,101 @@
+30
+MP*-Bill Of Lading.exe
+MF-C:\Users\admin\AppData\Local\Temp\a8b069ef9d76cd42e873c6e8ded9db8c17d9d0ce234b5e7c9a126b4d514c6f72
+MF-C:\Program Files\Mozilla Firefox\firefox
+TF-mshta.exe
+TP*-Updater.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Uninstall.exe
+TF-C:\Users\admin\AppData\Local\Temp\GLJC215.tmp
+MP-ns996E.tmp
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Wmic_calc.xsl
+MP-ntvdm.exe
+MF-C:\Program Files\Hantek2xx2\STTubeDevice30.dll
+MF-\Users\admin\AppData\Roaming\skmt-bankinter-003-03588993232059560257100458.jar
+MP-RdrCEF.exe 
+MF-\Users\admin\AppData\Local\Temp\f8ab93332536f27e4c463bde920795e59a08898ff648f679ca15c624f39b6dc8.dll
+SF-C:\windows\system32\cmd
+MF-files\30802.ico.vb
+MP-Curl.exe
+TP*-msxsl.exe
+SF-C:\Users\admin\AppData\Local\Temp\program2.py
+SF-C:\Users\admin\AppData\Local\Temp\Host
+TP-0IuqaJTsFmOw8k4.exe
+MP*-services.exe
+MP-Invoice.exe 
+MF-\Atomic-license.txt
+TP-verclsid.exe
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count
+SF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count
+TP-RtkBtManServ.exe
+TF-C:\Users\admin\AppData\Local\Temp\is-R0T56.tmp
+MF-\Windows\system32\schtasks.exe
+68
+0 1 EX-1
+0 2 EX-1
+0 3 CD-1
+0 4 FR-1
+4 1 EX-2
+4 2 WR-2
+4 3 RD-2
+0 5 RD-1
+4 5 WR-2
+0 6 WR-1
+4 6 WR-2
+0 7 FR-1
+7 1 CD-2
+7 2 WR-2
+7 3 RD-2
+4 7 IJ-2
+7 5 RD-2
+7 6 RD-2
+0 8 ST-1
+8 4 RF-1
+8 7 RF-1
+0 9 UK-1
+4 10 WR-2
+7 10 EX-2
+4 11 WR-2
+7 11 RD-2
+12 2 CD-2
+12 3 RD-2
+4 12 UK-2
+7 13 WR-2
+7 14 WR-2
+7 15 WR-2
+16 6 EX-2
+7 16 UK-2
+17 8 ST-3
+17 10 EX-3
+17 11 CD-3
+17 13 RD-3
+17 14 WR-3
+17 15 RD-3
+17 18 WR-3
+17 19 RD-3
+20 10 WR-3
+20 11 WR-3
+20 13 RD-3
+20 14 RD-3
+20 15 EX-3
+17 20 UK-3
+21 11 WR-4
+21 13 RD-4
+21 14 WR-4
+21 15 WR-4
+21 18 RD-4
+21 19 WR-4
+22 13 RD-4
+22 14 WR-4
+22 15 WR-4
+22 18 UK-4
+21 23 WR-4
+24 14 RD-4
+24 15 RD-4
+24 19 UK-4
+21 25 WR-4
+21 26 CD-4
+21 27 IJ-4
+27 23 UK-4
+21 28 EX-4
+21 29 EX-4
+

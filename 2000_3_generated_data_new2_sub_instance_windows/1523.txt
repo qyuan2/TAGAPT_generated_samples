@@ -1,0 +1,114 @@
+29
+MP*-attrib.exe
+MF-\Users\admin\AppData\Local\Temp\program2.py
+MP-file.exe
+MF-\Users\admin\AppData\Local\Temp\is-4LLB1.tmp\ExplorerSuite.tmp
+TP-T1027.exe
+MP-LogTransport2.exe
+MP-oneetx.exe
+MF-C:\Users\admin\AppData\Local\Temp\92132ec45279423b79399f74c5dc0a6d1009261c0dfefad17523e53e9ff8ae15.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+SO-hxxp://194.180.174[.]73/1.txt
+SF-C:\Users\admin\AppData\Local\Temp\vmware
+TF-C:\savesdllNetdhcp\dwm.exe
+MF-\Users\admin\AppData\Local\Temp\gagu4gmirt.dll.exe
+TP*-ns9C62.tmp
+SF-C:\Users\admin\AppData\Local\Temp\Setup.b
+MF-C:\Users\admin\AppData\Local\Temp\G88QGQzA.htm
+MP-EXCEL.EXE
+SO-hxxp://fiordan.ru/FILM.html
+TF-files\appdata\local\temp\26012.bmp.vb
+TP-makecab.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+SF-C:\Program files\appdata\local\temp\26012.bmp
+MP-HxD.exe
+TF-\Users\admin\AppData\Local\Temp\RtkBtManServ.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MP-468C.exe
+MP*-lsass.exe
+MP*-Invoice for shipping.exe 
+MP-nsA12F.tmp
+82
+0 1 WR-1
+0 2 FR-1
+2 1 WR-1
+0 3 RD-1
+2 3 WR-1
+0 4 FR-1
+4 1 RD-1
+2 4 UK-1
+0 5 FR-1
+5 1 UK-1
+0 6 FR-1
+6 3 WR-1
+0 7 WR-1
+6 7 WR-1
+8 0 RF-1
+6 8 ST-1
+0 9 ST-1
+9 6 RF-1
+0 10 WR-1
+6 10 RD-1
+6 11 EX-1
+6 12 RD-1
+13 3 WR-2
+6 13 IJ-1
+13 7 WR-2
+13 8 ST-2
+9 13 RF-1
+13 10 WR-2
+13 11 WR-2
+13 12 WR-2
+6 14 WR-1
+13 14 WR-2
+6 15 EX-1
+13 15 WR-2
+6 16 FR-1
+16 7 WR-2
+16 8 ST-2
+9 16 RF-1
+16 10 WR-2
+16 11 WR-2
+16 12 WR-2
+13 16 IJ-2
+16 14 UK-2
+17 13 RF-2
+13 18 EX-2
+19 9 ST-2
+19 10 WR-2
+19 11 WR-2
+19 12 RD-2
+13 19 IJ-2
+19 15 WR-2
+19 17 ST-2
+19 18 WR-2
+13 20 ST-2
+19 20 ST-2
+13 21 WR-2
+19 21 RD-2
+22 12 RD-2
+13 22 UK-2
+19 23 WR-2
+19 24 ST-2
+25 15 WR-2
+25 17 ST-2
+25 18 RD-2
+19 25 UK-2
+17 26 RF-2
+26 18 EX-3
+20 26 RF-2
+26 21 WR-3
+26 23 WR-3
+24 26 RF-2
+17 27 RF-2
+27 18 WR-4
+20 27 RF-2
+27 21 WR-4
+27 23 WR-4
+27 24 ST-4
+26 27 UK-3
+28 18 WR-4
+28 20 ST-4
+28 21 CD-4
+28 23 UK-4
+

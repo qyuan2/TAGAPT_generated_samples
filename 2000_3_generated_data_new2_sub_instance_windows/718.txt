@@ -1,0 +1,40 @@
+12
+MP*-Document.pdf_Slayed.scr.exe
+MP*-ntdsutil.exe
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+SF-C:\Users\admin\AppData\Local\Temp\207aa4515d\oneetx.exe
+MF-C:\Users\admin\AppData\Local\Temp\Downloads
+MP*-audiodg.exe 
+SO-https://download.anydesk.com/AnyDesk.exe
+MP-yonr.exe 
+TF-C:\MSOCache\All Users\wmpnetwk.exe
+MP-msdtc.exe
+MP*-C3B1.exe
+MF-LaZagne.exe
+25
+0 1 FR-1
+0 2 ST-1
+1 2 ST-2
+0 3 WR-1
+1 3 WR-2
+0 4 WR-1
+1 4 WR-2
+0 5 FR-1
+5 2 ST-3
+5 3 WR-3
+5 4 CD-3
+6 0 RF-1
+1 6 ST-2
+6 5 RF-2
+0 7 UK-1
+1 8 WR-2
+5 8 WR-3
+1 9 FR-2
+9 2 ST-3
+9 3 UK-3
+1 10 FR-2
+2 10 RF-2
+10 4 CD-4
+5 10 UK-3
+1 11 WR-2
+

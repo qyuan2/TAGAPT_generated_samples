@@ -1,0 +1,195 @@
+48
+MP*-bash
+TP-awk
+MF-subprocess.c
+SF-at.a
+MP-more
+MF-logrotate.c
+SF-art.sh
+MF-data.zip
+TP-cat
+MP-sed
+MF-Discovery.sh
+MF-te.c
+MF-cron.a
+MF-T1070.006-reference.txt
+MP*-cat
+MF-LinEnum.sh
+TP-bash
+TP*-cat
+TF-os.exe
+MF-atomic.log
+MF-Users.tar.gz
+MF-alertConfigField.php
+MF-1.txt
+MF-raft-medium-directories.txt
+MF-rc.common file
+MP-dd
+MF-alertConfigField.php
+SF-victim-shred.txt
+MP-clang
+SF-cron.m
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP*-tail
+MF-2017.pl
+TF-CleaingScript.sh
+MP-cat
+TF-os.sys
+SF-test.txt
+MP-rev
+MF-LinEnum.sh
+TP-php
+TF-td.c
+MF-Users.tar.gz
+MF-v.c
+MF-secret.c
+MF-raft-large-directories.txt
+MP-finger
+TP-vi
+MP-uname
+144
+0 1 FR-1
+0 2 EX-1
+1 2 WR-1
+0 3 WR-1
+1 3 WR-1
+0 4 FR-1
+1 4 IJ-1
+4 2 WR-1
+4 3 WR-1
+0 5 WR-1
+1 5 RD-1
+4 5 WR-1
+0 6 EX-1
+1 6 WR-1
+4 6 RD-1
+0 7 EX-1
+1 7 RD-1
+4 7 RD-1
+0 8 FR-1
+1 8 UK-1
+0 9 FR-1
+9 2 WR-1
+9 3 UK-1
+0 10 WR-1
+4 10 WR-1
+4 11 WR-1
+4 12 WR-1
+4 13 WR-1
+4 14 FR-1
+14 5 RD-2
+14 6 WR-2
+14 7 RD-2
+14 10 EX-2
+14 11 WR-2
+14 12 WR-2
+14 13 EX-2
+14 15 WR-2
+16 6 RD-2
+16 7 WR-2
+16 10 WR-2
+16 11 EX-2
+16 12 RD-2
+16 13 RD-2
+14 16 IJ-2
+16 15 WR-2
+17 7 WR-3
+17 10 WR-3
+17 11 CD-3
+17 12 EX-3
+17 13 RD-3
+14 17 IJ-2
+17 15 WR-3
+16 17 IJ-2
+14 18 WR-2
+16 18 WR-2
+17 18 WR-3
+16 19 WR-2
+17 19 WR-3
+16 20 WR-2
+17 20 WR-3
+16 21 RD-2
+17 21 WR-3
+16 22 WR-2
+17 22 WR-3
+16 23 WR-2
+17 23 WR-3
+16 24 WR-2
+17 24 WR-3
+16 25 FR-2
+17 25 IJ-3
+25 18 WR-3
+25 19 WR-3
+25 20 WR-3
+25 21 RD-3
+25 22 RD-3
+25 23 WR-3
+25 24 WR-3
+17 26 RD-3
+25 26 RD-3
+25 27 RD-3
+28 19 WR-3
+28 20 RD-3
+28 21 RD-3
+28 22 WR-3
+28 23 RD-3
+28 24 WR-3
+28 26 WR-3
+28 27 WR-3
+25 29 CD-3
+28 29 WR-3
+30 25 RF-3
+30 28 RF-3
+31 22 RD-4
+31 23 RD-4
+31 24 RD-4
+31 26 WR-4
+31 27 WR-4
+31 29 WR-4
+30 31 RF-4
+25 32 WR-3
+28 32 RD-3
+31 32 RD-4
+25 33 UK-3
+34 26 WR-4
+34 27 WR-4
+28 34 UK-3
+31 35 RD-4
+31 36 WR-4
+37 29 WR-4
+37 30 ST-4
+37 32 WR-4
+37 35 EX-4
+37 36 WR-4
+31 38 EX-4
+37 38 RD-4
+39 30 ST-4
+31 39 IJ-4
+39 32 RD-4
+39 35 RD-4
+39 36 WR-4
+37 39 IJ-4
+39 38 CD-4
+31 40 WR-4
+37 40 RD-4
+39 40 RD-4
+31 41 RD-4
+37 41 RD-4
+39 41 WR-4
+37 42 RD-4
+39 42 WR-4
+37 43 RD-4
+39 43 WR-4
+37 44 RD-4
+39 44 WR-4
+45 35 WR-4
+45 36 WR-4
+45 38 WR-4
+39 45 UK-4
+46 36 RD-4
+37 46 UK-4
+47 38 WR-4
+47 40 RD-4
+47 41 EX-4
+47 42 UK-4
+

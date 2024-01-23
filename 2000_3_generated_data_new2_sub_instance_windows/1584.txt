@@ -1,0 +1,36 @@
+11
+MP*-qgcrmeck.exe
+TP*-Driver Talent Pro.exe 
+MP-DIXRAT.exe 
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MP-MicrosoftEdgeWebview2Setup.exe
+TP*-server.exe 
+MP-gpresult.exe
+TP*-shutdown.exe
+TP-yiueea.exe 
+TP-query.exe
+TP-468C.exe
+22
+0 1 FR-1
+0 2 FR-1
+1 2 IJ-2
+0 3 ST-1
+1 3 ST-2
+3 2 RF-2
+0 4 FR-1
+1 4 IJ-2
+2 4 UK-2
+0 5 IJ-1
+1 5 IJ-2
+5 3 ST-3
+0 6 FR-1
+1 6 UK-2
+0 7 IJ-1
+3 7 RF-2
+5 7 IJ-3
+0 8 UK-1
+3 9 RF-2
+5 9 UK-3
+3 10 RF-2
+7 10 UK-4
+
