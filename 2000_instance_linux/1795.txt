@@ -1,0 +1,40 @@
+14
+MP*-awk
+MF-rockyou.txt
+MP*-less
+MP-head
+MP-cat
+TF-atomic.log
+TP*-head
+MF-T1027-004-test.c
+SF-settings.php
+TF-AutoSUID.sh
+MP-less
+TF-syslog.c
+MP-curl
+TP*-less
+23
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 UK
+0 4 FR
+2 4 UK
+0 5 WR
+0 6 FR
+6 5 EX
+0 7 WR
+6 7 RD
+0 8 WR
+6 8 WR
+0 9 RD
+6 9 WR
+0 10 FR
+10 5 UK
+6 11 RD
+6 12 UK
+13 7 RD
+13 8 RD
+13 9 UK
+

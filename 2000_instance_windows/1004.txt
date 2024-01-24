@@ -1,0 +1,213 @@
+51
+MP*-OlympicDestroyer.exe 
+TF-C:\Users\admin\Downloads\malware.7z
+MP-sc.exe
+MP-regsvcs.exe
+TP*-FTPServer.exe 
+SF-%userprofile%\documents
+TF-C:\Users\admin\AppData\Local\Temp\GLJBD24
+MP-6248.exe
+SF-C:\Users\admin\AppData\Local\Temp\jww825a.exe
+SF-C:\Program files\appdata\local\temp\5275.bmp
+TP-New Client.exe 
+MP-MsiExec.exe
+MF-.\T1027.004\src\calc.cs
+MP-taskmgr.exe
+TP-7za.exe
+MP-Exloader_Installer.vmp.exe 
+TP-DnaohH
+SF-HKLM\sam
+MF-ZOR-3261778.pdf
+MF-\Users\admin\AppData\Local\Temp\Xenos_2.3.2.7z
+TP*-Dkeyauth.exe 
+MP-NOTEPAD.EXE 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+TF-mshta.exe
+SF-C:\Users\admin\Desktop\VN
+MF-C:\Users\admin\Desktop\sozszwYnuqgbJM5CJDQgFn.zip
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9510.tmp
+SF-C:\Users\admin\AppData\Local\Temp\oldplayer.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+SF-C:\Users\admin\AppData\Local\Temp\finance
+MF-.\ExternalPayloads\AdFind.exe
+MP-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+SF-C:\Users\User\29630.ico
+MF-\Users\Public\coinmarketcap\1.bat
+SO-hxxp://sacramentos[.]ru/get.php'))|powershell
+TP*-ns9B66.tmp 
+SF-C:\Program Files\WinRAR\WinRAR.exe
+MF-Order.htm
+MF-C:\Users\admin\AppData\Local\Temp\P
+MF-\Users\admin\AppData\Local\Temp\putty.exe
+MP-OriginalBuild.exe.exe 
+MP-vaultcmd.exe
+MP-iexplore.exe
+TP-schtasks.exe 
+MF-C:\Users\admin\AppData\Local\Temp\FISCALÍA
+MP-OperaSetup_UNO.exe
+MF-C:\Users\admin\AppData\Local\Temp\CCZZ
+MF-\Windows\debug\WIA\wininit.exe
+MF-C:\Users\admin\AppData\Local\Temp\0crbfnw1.cmd
+MF-Users\{90140000-00A1-0412-0000-0000000FF1CE}-C\services.exe
+MF-\Users\admin\AppData\Roaming\XClient.exe
+159
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 CD
+2 3 UK
+0 4 FR
+4 1 WR
+0 5 CD
+4 5 RD
+0 6 WR
+4 6 WR
+0 7 FR
+7 1 WR
+4 7 IJ
+7 5 RD
+7 6 WR
+0 8 RD
+4 8 WR
+7 8 WR
+0 9 WR
+4 9 WR
+7 9 EX
+0 10 FR
+10 1 EX
+4 10 IJ
+10 5 RD
+10 6 WR
+7 10 UK
+11 1 WR
+4 11 IJ
+11 5 WR
+11 6 RD
+11 8 RD
+11 9 RD
+4 12 CD
+11 12 WR
+4 13 FR
+13 5 WR
+13 6 WR
+13 8 EX
+13 9 EX
+11 13 UK
+4 14 FR
+14 5 RD
+14 6 RD
+14 8 RD
+14 9 WR
+14 12 WR
+15 5 RD
+15 6 RD
+15 8 EX
+15 9 WR
+15 12 EX
+14 15 IJ
+16 6 EX
+16 8 WR
+16 9 WR
+16 12 RD
+14 16 IJ
+15 16 IJ
+14 17 WR
+15 17 WR
+16 17 RD
+14 18 RD
+15 18 RD
+16 18 RD
+14 19 RD
+15 19 WR
+16 19 UK
+20 12 CD
+14 20 IJ
+15 20 IJ
+20 17 WR
+20 18 RD
+21 12 WR
+14 21 IJ
+15 21 UK
+22 14 RF
+22 20 RF
+14 23 EX
+20 23 RD
+14 24 RD
+20 24 RD
+20 25 RD
+20 26 WR
+20 27 WR
+20 28 ST
+20 29 WR
+20 30 WR
+22 31 RF
+31 23 WR
+31 24 RD
+31 25 EX
+31 26 WR
+31 27 WR
+31 28 ST
+31 29 RD
+31 30 RD
+31 32 RD
+31 33 CD
+34 31 RF
+35 25 WR
+35 26 WR
+35 27 RD
+35 28 ST
+35 29 WR
+35 30 WR
+31 35 IJ
+35 32 RD
+35 33 EX
+34 35 RF
+31 36 EX
+35 36 EX
+31 37 WR
+35 37 WR
+31 38 RD
+35 38 WR
+31 39 RD
+35 39 WR
+40 30 RD
+40 32 CD
+40 33 WR
+34 40 RF
+35 40 IJ
+40 36 WR
+40 37 WR
+40 38 RD
+40 39 RD
+31 41 FR
+41 32 CD
+41 33 EX
+41 34 ST
+35 41 IJ
+41 36 RD
+41 37 RD
+41 38 UK
+42 32 WR
+42 33 WR
+42 34 ST
+35 42 IJ
+42 36 RD
+42 37 RD
+42 39 RD
+40 42 UK
+43 33 RD
+43 34 ST
+35 43 IJ
+43 36 WR
+43 37 WR
+43 39 WR
+35 44 WR
+43 44 WR
+35 45 UK
+43 46 WR
+43 47 WR
+43 48 RD
+43 49 WR
+43 50 UK
+

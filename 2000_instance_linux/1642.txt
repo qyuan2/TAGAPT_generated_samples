@@ -1,0 +1,67 @@
+20
+MP*-cat
+MF-T1027-004-test.c
+MP-more
+MP-touch
+MP-cat
+TP-bash 
+MF-common.txt
+MP-echo
+MP-nl
+SF-lighttp.c
+MP-w
+TP*-sed
+MP*-pr
+MP*-sed
+SF-f.r
+SF-flag3.txt
+MP-tee
+SF-s.c
+MP-sftp
+SF-s.c
+44
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 FR
+4 1 WR
+0 5 IJ
+5 1 RD
+4 5 UK
+0 6 WR
+0 7 FR
+7 1 WR
+7 6 WR
+0 8 FR
+8 1 RD
+8 6 WR
+7 8 UK
+0 9 WR
+0 10 UK
+11 1 EX
+11 6 RD
+11 9 RD
+12 6 WR
+12 9 EX
+11 12 IJ
+13 9 WR
+11 13 IJ
+11 14 RD
+12 14 WR
+13 14 RD
+11 15 WR
+12 15 EX
+13 15 WR
+16 9 EX
+11 16 IJ
+12 16 UK
+11 17 WR
+13 17 UK
+11 18 IJ
+18 14 EX
+18 15 UK
+11 19 WR
+

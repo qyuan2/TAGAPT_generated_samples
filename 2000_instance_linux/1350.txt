@@ -1,0 +1,83 @@
+22
+MP*-ftp
+MP-cat
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MF-2017.pl
+SF-sysctl.c
+MF-rcs.docx
+MP-ssh
+SO-8.8.8.8
+MP-uname
+SF-syslog.c
+MP*-cat
+MP-awk
+TP-tac
+MP-cat
+MP*-awk
+MF-passwd.zip
+MF-syslog.c
+MF-user.r
+MP*-tac
+MP-cat
+TP-netstat
+MP-awk
+58
+0 1 FR
+2 0 RF
+1 2 ST
+0 3 CD
+1 3 RD
+0 4 WR
+1 4 WR
+0 5 UK
+1 6 FR
+6 2 ST
+6 3 RD
+6 4 RD
+7 1 RF
+7 6 RF
+1 8 UK
+6 9 WR
+2 10 RF
+10 3 WR
+10 4 WR
+10 7 ST
+10 9 RD
+2 11 RF
+11 3 RD
+11 4 WR
+7 11 RF
+11 9 UK
+2 12 RF
+12 3 EX
+12 4 CD
+6 12 IJ
+12 7 ST
+10 12 IJ
+13 3 RD
+13 4 WR
+13 7 ST
+10 13 UK
+14 4 EX
+7 14 RF
+12 14 IJ
+6 15 EX
+12 15 RD
+14 15 WR
+6 16 WR
+12 16 CD
+14 16 EX
+12 17 WR
+14 17 WR
+12 18 FR
+18 15 WR
+18 16 WR
+18 17 WR
+12 19 IJ
+14 19 UK
+12 20 UK
+21 15 WR
+21 16 RD
+21 17 WR
+18 21 UK
+

@@ -1,0 +1,29 @@
+10
+MP*-ProcessHacker.exe 
+MP*-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+MP-nsD38B.tmp
+SF-C:\Users\admin\AppData\Local\Temp\CreateStudio_Setup.tar
+SF-C:\Users\admin\AppData\Local\Temp\CreateStudio_Setup
+SF-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+MP*-pnputil.exe
+MP-ping.exe
+MP*-procdump.exe
+TP-keydlls.exe
+16
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+0 4 EX
+0 5 WR
+0 6 FR
+6 3 WR
+6 4 WR
+6 5 WR
+0 7 UK
+8 3 RD
+8 4 RD
+8 5 WR
+6 8 UK
+9 3 UK
+

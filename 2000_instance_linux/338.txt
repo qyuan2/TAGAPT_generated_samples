@@ -1,0 +1,84 @@
+21
+MP-head
+TP*-sh
+SF-apache2.c
+MP-less
+MF-inetd.c
+TP-grep
+TP-su
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+SF-anaconda-ks.cfg
+MF-lighttp.c
+MF-shell.cgi
+SO-192.168.2.102
+TF-anaconda-ks.cfg
+SF-cron.h
+MP*-grep
+MF-atomic.sh
+MP*-sudo
+MP*-sudo
+MF-sysctl.c
+MP-cat
+TP-ftp
+60
+0 1 IJ
+1 2 WR
+1 3 FR
+3 2 RD
+1 4 RD
+3 4 UK
+1 5 IJ
+5 2 WR
+1 6 FR
+6 2 EX
+5 6 IJ
+7 1 RF
+5 7 ST
+6 7 ST
+1 8 WR
+5 8 RD
+6 8 WR
+1 9 EX
+5 9 WR
+6 9 UK
+1 10 WR
+5 10 WR
+11 5 RF
+5 12 WR
+5 13 RD
+5 14 FR
+14 7 ST
+14 8 WR
+14 10 RD
+11 14 RF
+14 12 EX
+14 13 CD
+5 15 RD
+14 15 WR
+16 7 ST
+16 8 WR
+16 10 RD
+16 11 ST
+16 12 RD
+16 13 WR
+16 15 RD
+7 17 RF
+17 8 CD
+17 10 WR
+11 17 RF
+17 12 WR
+17 13 WR
+14 17 UK
+16 18 WR
+19 10 WR
+19 11 ST
+19 12 WR
+19 13 EX
+19 15 EX
+16 19 UK
+20 11 ST
+20 12 EX
+20 13 WR
+20 15 WR
+20 18 UK
+

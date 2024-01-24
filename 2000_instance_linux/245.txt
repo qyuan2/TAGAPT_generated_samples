@@ -1,0 +1,63 @@
+16
+MP*-less
+MP-grep
+TP-mv
+SF-apache2.c
+TP-less
+MF-e.c
+MP*-grep
+MF-user.r
+MF-art.sh
+MP-sh
+SF-sysctl.c
+MF-journald.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-pr
+MF-common.txt
+MP*-head
+44
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 EX
+0 4 FR
+4 3 EX
+0 5 RD
+4 5 EX
+0 6 FR
+6 3 RD
+4 6 IJ
+6 5 RD
+0 7 WR
+4 7 WR
+6 7 WR
+0 8 WR
+4 8 RD
+6 8 EX
+0 9 FR
+9 3 WR
+4 9 IJ
+9 5 WR
+6 9 UK
+0 10 WR
+4 10 RD
+4 11 WR
+12 4 RF
+13 3 WR
+4 13 IJ
+13 5 RD
+13 7 WR
+13 8 WR
+13 10 EX
+13 11 RD
+13 12 ST
+4 14 RD
+13 14 RD
+15 5 RD
+15 7 RD
+15 8 WR
+15 10 EX
+15 11 WR
+12 15 RF
+13 15 UK
+

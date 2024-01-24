@@ -1,0 +1,41 @@
+13
+MP*-awk
+SF-2017.pl
+MP-bash
+MP-tee
+MF-common.txt
+SF-atomic.log
+MP-cat
+MP*-cat
+TP*-paste
+TP*-cat
+MF-e2.c
+TP-chmod
+MP-dd
+25
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 WR
+0 5 WR
+0 6 UK
+7 1 RD
+7 4 EX
+7 5 RD
+8 1 CD
+8 4 RD
+8 5 WR
+7 8 UK
+9 1 WR
+9 4 RD
+9 5 WR
+9 10 WR
+11 1 WR
+11 4 EX
+11 5 UK
+12 4 WR
+9 12 UK
+

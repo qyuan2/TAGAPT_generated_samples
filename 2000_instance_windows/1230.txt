@@ -1,0 +1,75 @@
+20
+MP*-tee
+MF-sysctl.c
+TP*-dnsdomainname
+SF-Users.tar.gz
+MF-access.htm
+MF-T1027-004-test.c
+MF-LinEnum.sh
+TP-wpscan
+TP-netstat
+MF-chttp.c
+TP-rev
+MP-echo 
+TP*-pr
+SF-Users.tar.gz
+MP*-ls
+TP-bash 
+SO-192.168.10.128
+MF-Users.tar.gz
+MP-grep
+MP-wfuzz
+52
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 RD
+2 3 WR
+0 4 WR
+2 4 RD
+0 5 WR
+2 5 WR
+0 6 WR
+2 6 WR
+0 7 FR
+7 1 WR
+2 7 UK
+0 8 FR
+8 1 WR
+8 3 RD
+8 4 UK
+0 9 WR
+0 10 IJ
+10 1 WR
+10 3 RD
+10 5 RD
+10 6 RD
+10 9 RD
+11 1 WR
+11 3 RD
+11 5 RD
+11 6 RD
+11 9 RD
+10 11 UK
+12 3 RD
+12 5 WR
+12 6 RD
+12 9 WR
+12 13 EX
+14 5 RD
+14 6 WR
+14 9 RD
+12 14 IJ
+14 13 RD
+15 5 UK
+16 12 RF
+16 14 RF
+12 17 EX
+14 17 RD
+18 9 WR
+12 18 IJ
+18 13 EX
+14 18 UK
+19 9 RD
+12 19 UK
+

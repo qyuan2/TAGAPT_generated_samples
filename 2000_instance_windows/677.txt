@@ -1,0 +1,62 @@
+20
+MP*-wmpnscfg.exe
+MF-www.suzhouca.c
+MP*-NdSvr.exe
+MF-Kfc.vb
+MF-PathToAtomicsFolder\T1137.004\src\T1137.004.htm
+MP-DriversHood.exe
+MP-msbuild.exe
+MF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus.ocx
+MP*-7za.exe
+MP-New order.exe 
+MP*-OlympicDestroyer.exe 
+MP-WScript.exe
+MP-Bill Of Lading.exe
+MP-PowerShell.exe
+SO-https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object
+MP-Caspol.exe
+MP-ntvdm.exe
+TP-ns9510.tmp
+TF-C:\Windows\system32\WinSat.exe
+MP-POWERPNT.EXE 
+39
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 RD
+0 4 RD
+2 4 UK
+0 5 FR
+5 1 EX
+5 3 WR
+0 6 FR
+6 1 CD
+6 3 WR
+5 6 UK
+0 7 WR
+0 8 FR
+8 1 WR
+8 3 RD
+8 7 RD
+0 9 FR
+9 1 EX
+9 3 RD
+9 7 UK
+10 1 EX
+10 3 WR
+11 3 WR
+12 3 EX
+11 12 UK
+10 13 FR
+14 10 RF
+13 14 ST
+10 15 FR
+14 15 RF
+10 16 FR
+13 16 UK
+10 17 UK
+15 18 WR
+19 14 ST
+15 19 UK
+

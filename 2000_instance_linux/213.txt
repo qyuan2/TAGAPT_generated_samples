@@ -1,0 +1,49 @@
+16
+MP*-vim
+TP-uname
+MP-dd
+TF-ron.a
+MF-lighttp.c
+TF-password-hash.sh
+TP*-tee
+MP-netstat
+MP*-truncate 
+MF-raft-large-directories.txt
+MP*-ftp
+TF-loot.txt
+SO-http://192.168.10.129/image.php?FUZZ=something
+TF-T1574.006.c
+SO-192.168.2.102
+SF-T1027-004-test.c
+30
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+0 4 RD
+0 5 WR
+0 6 FR
+6 3 RD
+6 4 WR
+6 5 RD
+0 7 FR
+7 3 RD
+7 4 UK
+0 8 FR
+8 3 WR
+8 5 WR
+6 8 IJ
+0 9 WR
+6 9 WR
+8 9 WR
+0 10 FR
+10 3 RD
+10 5 WR
+6 10 IJ
+8 10 UK
+6 11 CD
+6 12 ST
+6 13 CD
+6 14 ST
+6 15 WR
+

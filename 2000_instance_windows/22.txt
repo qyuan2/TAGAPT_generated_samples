@@ -1,0 +1,35 @@
+11
+MP*-pnputil.exe
+MF-C:\Users\admin\AppData\Local\Temp\Approval
+TP*-WScript.exe 
+MP*-df1f94243f99b25fea44d17750d24d04.exe
+MF-%logonserver%\sysvol\
+SF-C:\Users\admin\Desktop\Attachment_94259849
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/mshta.sct').Exec();close
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64.sys
+MF-C:\Program files\appdata\local\temp\20507
+MF-C:\Users\admin\AppData\LocalLow\Microsoft\Internet Explorer\DOMStore\reviewref_protected
+MP*-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+21
+0 1 WR
+0 2 IJ
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 IJ
+0 4 WR
+2 4 UK
+0 5 EX
+3 5 WR
+0 6 ST
+3 6 ST
+0 7 WR
+3 7 WR
+0 8 WR
+3 8 WR
+0 9 RD
+3 9 EX
+0 10 FR
+10 1 WR
+3 10 UK
+

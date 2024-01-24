@@ -1,0 +1,126 @@
+35
+MP-git
+MF-T1574.006.c
+MP-pr
+SO-8.8.8.8
+TP-bash
+TP-tac
+MP-sh
+MF-at.a
+TP-dirb
+MF-0*.txt
+TP*-awk
+MF-on.a
+MP-ls
+TP-cat
+TP-head
+MF-raw.githubusercontent.c
+MP*-cat
+MF-user.r
+SO-http://192.168.10.129/image.php?FUZZ=something
+SF-td.c
+MP-netstat
+SF-2017.pl
+MF-data.zip
+TP-less
+MP*-cat
+TF-password-hash.sh
+MF-T1574.006.c
+MF-os.sys
+MP*-sed
+MP-less
+TF-http.c
+MF-da-ks.cfg
+MF-etc.tar.gz
+MP-cat
+TP-sed
+88
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 ST
+2 3 ST
+0 4 FR
+4 1 WR
+2 4 UK
+0 5 IJ
+5 1 UK
+0 6 FR
+3 6 RF
+0 7 WR
+6 7 WR
+0 8 FR
+8 3 ST
+6 8 UK
+0 9 UK
+10 3 ST
+10 7 WR
+10 11 RD
+12 3 ST
+12 7 RD
+10 12 IJ
+12 11 WR
+13 3 ST
+13 7 RD
+10 13 IJ
+13 11 WR
+12 13 UK
+14 7 CD
+10 14 IJ
+14 11 WR
+10 15 WR
+14 15 WR
+16 7 EX
+10 16 IJ
+16 11 WR
+14 16 IJ
+16 15 WR
+10 17 UK
+14 18 ST
+18 16 RF
+14 19 WR
+16 19 WR
+20 11 EX
+14 20 UK
+16 21 WR
+16 22 WR
+23 15 RD
+16 23 UK
+24 15 EX
+18 24 RF
+24 19 RD
+24 21 WR
+24 22 WR
+24 25 WR
+24 26 RD
+24 27 WR
+18 28 RF
+28 19 RD
+28 21 WR
+28 22 WR
+28 25 EX
+28 26 RD
+28 27 WR
+29 19 WR
+29 21 WR
+29 22 WR
+29 25 CD
+29 26 WR
+29 27 EX
+24 30 RD
+28 30 RD
+29 30 EX
+24 31 WR
+28 31 WR
+29 31 RD
+28 32 WR
+29 32 WR
+33 25 RD
+33 26 RD
+33 27 WR
+28 33 UK
+34 25 EX
+34 26 WR
+34 27 RD
+29 34 UK
+

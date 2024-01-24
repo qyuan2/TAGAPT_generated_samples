@@ -1,0 +1,80 @@
+25
+MP*-ifconfig
+SF-target.example.c
+MP-grep
+SF-sysctl.c
+MF-T1003.008.txt
+MP-tee
+TF-backsup.sh
+SF-1.zip
+MF-logrotate.c
+SO-192.168.2.102
+MP*-pr
+SF-http.c
+MP-ftp
+MP-whoami
+MP*-paste
+MP-nl
+MP-ls
+TP*-grep
+MP-tail
+MF-passwd.zip
+TP-rev
+MF-access.htm
+TF-1.zip
+SF-password-hash.sh
+MF-v.c
+52
+0 1 RD
+0 2 FR
+2 1 UK
+0 3 WR
+0 4 RD
+0 5 FR
+5 3 RD
+5 4 WR
+5 6 RD
+5 7 WR
+5 8 WR
+9 5 RF
+10 3 RD
+10 4 CD
+10 6 EX
+10 7 WR
+10 8 EX
+10 9 ST
+5 11 WR
+10 11 WR
+12 3 RD
+12 4 WR
+12 6 UK
+13 4 WR
+5 13 UK
+14 7 RD
+14 8 RD
+9 14 RF
+14 11 WR
+15 7 RD
+15 8 RD
+9 15 RF
+15 11 EX
+14 15 UK
+16 7 EX
+16 8 RD
+9 16 RF
+10 16 UK
+17 7 RD
+17 8 WR
+9 17 RF
+17 11 WR
+18 8 UK
+17 19 WR
+20 11 EX
+17 20 IJ
+20 19 EX
+17 21 WR
+20 21 UK
+17 22 RD
+17 23 RD
+17 24 UK
+

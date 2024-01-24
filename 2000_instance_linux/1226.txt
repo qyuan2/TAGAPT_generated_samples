@@ -1,0 +1,128 @@
+35
+MP*-find
+MP-openssl
+SO-192.168.37.130
+MF-pd.c
+MF-ret.c
+SO-192.168.2.102
+SO-atomic@target.example
+TP-php
+TF-access.htm
+MP-bash
+MF-on.a
+SF-AutoSUID.sh
+SO-192.168.206.136
+TF-access.htm
+SO-192.168.206.136
+TP-sudo
+TP-sed
+SO-192.168.10.131
+MF-subprocess.c
+MP*-grep
+TP*-find
+MF-raft-large-directories.txt
+MF-raft-medium-directories.txt
+TP-zip
+TP*-bash 
+MF-passwd.zip
+MP-halt
+MP-ip
+MP-nl
+SF-httpd.c
+SO-192.168.206.137
+TF-ufw.log
+MF-ret.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+SO-http://192.168.10.129/image.php?FUZZ=something
+90
+0 1 FR
+2 0 RF
+1 2 ST
+0 3 WR
+1 3 WR
+0 4 WR
+1 4 WR
+0 5 ST
+5 1 RF
+0 6 ST
+1 6 ST
+0 7 IJ
+1 7 IJ
+2 7 RF
+7 3 EX
+7 4 WR
+5 7 RF
+7 6 ST
+0 8 RD
+1 8 EX
+7 8 RD
+0 9 UK
+1 10 RD
+7 10 EX
+1 11 WR
+7 11 WR
+7 12 ST
+7 13 WR
+14 7 RF
+5 15 RF
+15 6 ST
+7 15 IJ
+15 8 EX
+15 10 EX
+15 11 WR
+12 15 RF
+15 13 RD
+15 14 ST
+6 16 RF
+7 16 IJ
+16 8 WR
+16 10 UK
+17 7 RF
+15 17 ST
+15 18 EX
+19 11 WR
+12 19 RF
+19 13 EX
+14 19 RF
+15 19 IJ
+19 17 ST
+19 18 WR
+20 11 WR
+12 20 RF
+20 13 RD
+14 20 RF
+15 20 IJ
+17 20 RF
+20 18 EX
+19 20 UK
+15 21 WR
+15 22 CD
+23 13 CD
+14 23 RF
+15 23 UK
+24 14 ST
+24 17 ST
+24 18 CD
+24 21 RD
+24 22 WR
+24 25 WR
+26 17 ST
+26 18 WR
+26 21 RD
+26 22 WR
+24 26 IJ
+26 25 WR
+17 27 RF
+27 18 UK
+28 21 WR
+28 22 WR
+24 28 IJ
+28 25 RD
+26 28 UK
+24 29 RD
+24 30 ST
+24 31 RD
+24 32 EX
+33 24 RF
+34 24 RF
+

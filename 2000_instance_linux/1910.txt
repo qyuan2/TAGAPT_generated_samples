@@ -1,0 +1,70 @@
+18
+MP*-more
+MF-1.zip
+MP*-rev
+SF-cron.h
+SO-192.168.206.136
+MF-secret.c
+MF-s.c
+MF-lighttp.c
+MP-uname
+SO-192.168.10.130
+SO-192.168.10.131
+TP*-echo
+TF-flag4.txt
+MP-cat
+SF-flag4.txt
+MP-bash 
+MP-bash
+MP*-cat
+49
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 RD
+0 4 ST
+2 4 ST
+0 5 WR
+2 5 WR
+0 6 WR
+2 6 WR
+0 7 RD
+2 7 WR
+0 8 FR
+8 1 WR
+2 8 UK
+0 9 ST
+10 0 RF
+11 1 WR
+11 3 WR
+4 11 RF
+11 5 RD
+11 6 WR
+11 7 WR
+11 9 ST
+10 11 RF
+11 12 WR
+13 3 RD
+4 13 RF
+13 5 EX
+13 6 EX
+13 7 WR
+9 13 RF
+13 10 ST
+11 13 IJ
+13 12 WR
+11 14 RD
+13 14 EX
+15 5 WR
+15 6 UK
+16 7 RD
+16 9 ST
+16 10 ST
+11 16 UK
+17 7 WR
+17 9 ST
+17 10 ST
+17 12 WR
+13 17 UK
+

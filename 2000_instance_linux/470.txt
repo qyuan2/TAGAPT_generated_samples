@@ -1,0 +1,29 @@
+10
+MP*-halt
+MP*-tac
+MP-netstat
+SF-ron.a
+SF-lighttp.c
+SF-s.c
+MP*-awk
+MP-ifconfig
+MP*-rev
+TP-bash 
+16
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+0 4 EX
+0 5 WR
+0 6 FR
+6 3 WR
+6 4 WR
+6 5 WR
+0 7 UK
+8 3 RD
+8 4 RD
+8 5 WR
+6 8 UK
+9 3 UK
+

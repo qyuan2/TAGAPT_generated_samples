@@ -1,0 +1,56 @@
+16
+MP*-Explorer.EXE
+SF-C:\Users\admin\Desktop\73bdfefd546d1a751a77b6de3a36460b6108a06940a1c9dc73c9dfdd78f8f649
+MF-C:\Users\Public\Music\mediatv
+TP-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+MP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MP*-RegDll.x86.exe
+SF-%temp%\art.bat
+MF-\Users\admin\Desktop\a6197937-992f-4d8c-a192-64a545a288e7.pdf
+MP*-PowerShell.exe
+TF-C:\Users\admin\AppData\Local\Temp\Cookies3
+TP*-anydesk.exe
+TP-putty.exe
+MF-C:\Program Files\Google\Chrome\Application\chrome.exe
+TF-C:\Path\AtomicRedTeam.dll
+TP-VRAPP.exe 
+37
+0 1 RD
+0 2 EX
+0 3 IJ
+3 1 EX
+3 2 RD
+0 4 UK
+3 5 ST
+6 1 RD
+6 2 WR
+3 6 IJ
+5 6 RF
+3 7 RD
+6 7 RD
+3 8 WR
+6 8 WR
+9 1 WR
+9 2 RD
+3 9 IJ
+9 5 ST
+6 9 UK
+3 10 RD
+11 1 WR
+11 2 RD
+3 11 IJ
+5 11 RF
+11 7 WR
+11 8 WR
+11 10 WR
+12 2 WR
+3 12 UK
+11 13 WR
+11 14 WR
+5 15 RF
+15 7 EX
+15 8 CD
+15 10 EX
+11 15 UK
+

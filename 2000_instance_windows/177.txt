@@ -1,0 +1,97 @@
+25
+MP*-WinAPIOverride 6.9.1.tmp
+MF-C:\Users\admin\AppData\Local\Temp\lk.exe
+MP-PING.EXE
+MF-\TalkWorld\talkworld.exe
+MF-c:\windows\system32\msiexec.exe
+TP-reg.exe
+SF-C:\Users\admin\AppData\Local\Temp\jww825a
+SO-https://access-message.top/secure-login
+MP-nsD62C.tmp
+SF-C:\Users\admin\AppData\Local\Temp\rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe
+MF-mfevtpse.exe
+SF-%TEMP%\T1010.exe
+MF-C:\Windows\System32\DriverStore\Temp
+MP*-cmd.exe 
+MF-chrome.m
+TP*-hostname.exe
+TP*-jsc.exe
+SF-C:\Windows\SysWOW64\msdt.exe
+MP-Xd.exe
+MF-C:\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9
+MP-reg.exe
+MF-\T1140_calc.txt
+SF-C:\Windows\system32\icacls.exe
+MP-CasPol.exe
+MP-ie_to_edge_stub.exe
+69
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 RD
+0 4 RD
+2 4 EX
+0 5 IJ
+5 1 RD
+2 5 IJ
+5 3 UK
+0 6 RD
+2 6 WR
+0 7 ST
+7 2 RF
+0 8 FR
+8 1 WR
+8 4 WR
+8 6 WR
+8 7 ST
+0 9 WR
+2 9 WR
+8 9 RD
+0 10 RD
+2 10 RD
+8 10 UK
+2 11 WR
+2 12 WR
+13 4 EX
+13 6 WR
+13 7 ST
+13 9 RD
+13 11 WR
+13 12 EX
+13 14 WR
+15 6 CD
+7 15 RF
+15 9 WR
+15 11 WR
+15 12 RD
+13 15 IJ
+15 14 WR
+16 6 WR
+7 16 RF
+16 9 WR
+16 11 RD
+16 12 WR
+13 16 IJ
+16 14 EX
+15 16 IJ
+13 17 CD
+15 17 WR
+16 17 WR
+18 9 WR
+18 11 RD
+18 12 RD
+13 18 UK
+15 19 WR
+16 19 WR
+20 11 WR
+20 12 EX
+20 14 WR
+15 20 UK
+16 21 WR
+16 22 EX
+23 14 WR
+16 23 UK
+24 14 WR
+24 17 UK
+

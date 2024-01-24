@@ -1,0 +1,49 @@
+13
+MP*-cat
+SF-v.c
+SF-sysctl.c
+TP*-cat
+MP*-more
+MF-test.txt
+TF-anaconda-ks.cfg
+SF-Users.tar.gz
+TP*-clang
+MP-cat
+MF-echo-art-fish.sh
+MP-cat
+MP-find
+33
+0 1 RD
+0 2 WR
+0 3 IJ
+3 1 WR
+3 2 RD
+0 4 FR
+4 1 WR
+4 2 WR
+3 4 IJ
+0 5 WR
+3 5 EX
+4 5 WR
+0 6 WR
+3 6 RD
+4 6 RD
+0 7 RD
+3 7 RD
+4 7 WR
+0 8 IJ
+8 1 WR
+8 2 WR
+3 8 IJ
+4 8 UK
+0 9 FR
+9 1 WR
+9 2 UK
+0 10 WR
+3 10 WR
+11 1 WR
+3 11 IJ
+11 5 WR
+11 6 UK
+3 12 UK
+

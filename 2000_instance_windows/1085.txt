@@ -1,0 +1,41 @@
+12
+MP*-WISPTIS.EXE
+MP*-ns9423.tmp 
+MF-\Users\admin\AppData\Local\Temp\analyssifilename.doc
+SF-C:\Windows\System32\wusa.exe
+MP*-procdump.exe
+MP*-EQNEDT32.EXE
+SF-C:\Windows\SysWow64\regsvr32.exe
+TF-\Users\admin\AppData\Local\Temp\CCZZ.bat
+MF-C:\Users\admin\Adobe\AdobeTray
+MF-\Windows_Defender_Cleanup.xml
+MF-\Users\admin\AppData\Roaming\1.bat
+MF-C:\Users\admin\Desktop\test.txt
+26
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 WR
+1 3 RD
+0 4 FR
+4 2 WR
+4 3 EX
+0 5 FR
+5 2 RD
+5 3 EX
+0 6 WR
+1 6 WR
+4 6 CD
+5 6 WR
+1 7 EX
+4 7 WR
+5 7 WR
+1 8 RD
+4 8 WR
+5 8 UK
+1 9 CD
+4 9 RD
+1 10 WR
+4 10 WR
+4 11 WR
+

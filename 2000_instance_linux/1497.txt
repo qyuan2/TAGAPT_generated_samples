@@ -1,0 +1,109 @@
+29
+MP-cat
+MP-sed
+MP-hostname
+SF-secret.c
+MP-bash 
+MP*-ls
+SF-atomic.sh
+MF-secret.c
+SO-192.168.206.136
+MP-awk
+TP-uname
+TF-pd.c
+TF-raft-medium-directories.txt
+SF-resolv.c
+TP-less
+SF-rockyou.txt
+MF-2017.pl
+MP*-less
+TP-grep
+MF-settings.php
+MF-raft-large-directories.txt
+MP*-cat
+SF-password-hash.sh
+SF-etc.tar.gz
+MP-awk
+TF-passwd.zip
+MF-CleaingScript.sh
+MF-sysctl.c
+MP*-cat
+77
+0 1 FR
+0 2 UK
+1 3 RD
+1 4 UK
+5 3 WR
+5 6 WR
+5 7 WR
+5 8 ST
+9 3 CD
+9 6 WR
+9 7 UK
+10 3 UK
+5 11 WR
+5 12 EX
+5 13 RD
+5 14 FR
+14 6 WR
+8 14 RF
+14 11 EX
+14 12 WR
+14 13 WR
+5 15 WR
+14 15 WR
+14 16 WR
+17 8 ST
+17 11 WR
+17 12 RD
+17 13 WR
+14 17 IJ
+17 15 WR
+17 16 WR
+8 18 RF
+18 11 WR
+18 12 EX
+18 13 WR
+14 18 IJ
+18 15 RD
+18 16 RD
+17 18 IJ
+14 19 WR
+17 19 WR
+18 19 RD
+14 20 WR
+17 20 RD
+18 20 WR
+21 11 WR
+21 12 RD
+21 13 RD
+14 21 IJ
+21 15 RD
+21 16 EX
+18 21 IJ
+21 19 WR
+21 20 RD
+14 22 WR
+17 22 RD
+18 22 RD
+21 22 WR
+14 23 WR
+17 23 WR
+18 23 RD
+21 23 WR
+14 24 IJ
+24 15 UK
+17 25 EX
+18 25 WR
+21 25 WR
+17 26 WR
+18 26 WR
+21 26 RD
+17 27 RD
+18 27 RD
+21 27 WR
+18 28 IJ
+28 19 EX
+28 20 RD
+21 28 UK
+

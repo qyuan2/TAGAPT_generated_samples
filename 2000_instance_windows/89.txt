@@ -1,0 +1,71 @@
+19
+MP*-Caspol.exe
+MP-ns9FC4.tmp
+MP-EXCEL.EXE
+TF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\nsA19D.tmp
+MF-C:\Users\admin\AppData\Local\Temp\IBM_LINUX.exe
+MF-pdates.exe
+SO-http://www.velux.de/ueber-velux/datenschutz
+TP*-Bandizip.exe
+MF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\jsestartup
+MP*-ipconfig.exe
+MF-\Users\admin\AppData\Local\Temp\facttura.exe
+MP*-ipconfig.exe
+TP-wusa.exe
+SF-C:\savesdllNetdhcp\System
+MP-Trojan.Mebromi
+MP-LZ4-SOFT.exe 
+TF-Project.scr
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9E4A.tmp
+MP-nsA042.tmp
+49
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+0 4 RD
+0 5 EX
+6 0 RF
+0 7 FR
+7 3 EX
+7 4 WR
+7 5 CD
+6 7 RF
+0 8 WR
+7 8 WR
+0 9 FR
+9 3 RD
+9 4 WR
+9 5 WR
+9 6 ST
+7 9 IJ
+9 8 WR
+0 10 EX
+7 10 WR
+9 10 EX
+11 3 WR
+11 4 WR
+11 5 CD
+6 11 RF
+7 11 IJ
+11 8 WR
+11 10 RD
+12 3 RD
+12 4 WR
+12 5 UK
+7 13 WR
+9 13 WR
+11 13 RD
+14 4 WR
+6 14 RF
+7 14 IJ
+14 8 WR
+9 14 UK
+6 15 RF
+7 15 UK
+11 16 WR
+11 17 WR
+18 8 RD
+18 10 EX
+11 18 UK
+

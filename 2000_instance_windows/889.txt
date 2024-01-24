@@ -1,0 +1,49 @@
+12
+MP*-DataSvcUtil.exe
+SF-%tmp%\T1218.009.dll
+TF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta.rar
+SF-C:\Users\admin\AppData\Local\Temp\tmp99E0
+MP*-yiueea.exe 
+MF-C:\Users\admin\AppData\Local\Temp\facttura.exe
+SF-%temp%\Windows_Defender_Cache_Maintenance.xml
+TF-C:\Users\admin\AppData\Local\Temp\AnyDesk
+MP*-PDQDeployConsole.exe
+MP-Client.exe 
+MF-Files\Sinfor\Dkeyauth\dkeyauth.exe
+MP*-certutil.exe
+34
+0 1 CD
+0 2 WR
+0 3 WR
+0 4 FR
+4 1 RD
+4 2 WR
+4 3 WR
+0 5 WR
+4 5 RD
+0 6 EX
+4 6 WR
+0 7 WR
+4 7 RD
+0 8 FR
+8 1 RD
+8 2 WR
+8 3 WR
+8 5 WR
+8 6 EX
+8 7 WR
+0 9 FR
+9 1 WR
+9 2 WR
+9 3 RD
+4 9 UK
+0 10 WR
+8 10 RD
+11 1 EX
+11 2 RD
+11 3 WR
+11 5 WR
+11 6 WR
+11 7 RD
+8 11 UK
+

@@ -1,0 +1,56 @@
+19
+MP*-netstat
+MF-p.c
+TP*-cd
+SO-192.168.10.133
+SO-192.168.10.135
+SF-e.c
+MF-T1070.006-modification.txt
+SF-cron.h
+MP-cat
+MP*-locale
+MF-Users.tar.gz
+SO-192.168.159.128
+SO-192.168.10.129
+SF-lighttpd.c
+TP*-dd
+MF-at.a
+TF-T1074.001_discovery.log
+TF-apache2.c
+TF-www.google.c
+34
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 ST
+3 2 RF
+4 0 RF
+2 4 ST
+0 5 RD
+2 5 RD
+0 6 RD
+2 6 WR
+0 7 WR
+2 7 WR
+0 8 UK
+9 1 RD
+2 9 IJ
+9 3 ST
+9 4 ST
+9 5 RD
+9 6 WR
+9 7 WR
+2 10 WR
+9 10 WR
+2 11 ST
+11 9 RF
+2 12 ST
+9 12 ST
+9 13 RD
+4 14 RF
+14 5 UK
+9 15 WR
+9 16 WR
+9 17 WR
+9 18 UK
+

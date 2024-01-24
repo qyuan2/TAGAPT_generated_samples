@@ -1,0 +1,123 @@
+33
+MP*-head
+TF-ufw.c
+MP-ls
+MP-cat
+MF-Discovery.sh
+SF-lighttpd.c
+MP*-ls
+MF-atomic.log
+MF-f.r
+SO-http://192.168.10.129/image.php?FUZZ=something
+SO-192.168.10.135
+MP-rev
+MP-bash
+MF-user.r
+MP-less
+MP*-grep
+SO-http://192.168.10.128/shell.cgi
+MF-linux.txt
+TP-sed
+MP-uname
+MP*-rev
+TP-uname
+MF-cron.a
+MP-awk
+MF-test.txt
+TP-tee
+SO-127.0.0.1:8080
+MF-lighttp.c
+SO-192.168.206.0
+MF-Users.tar.gz
+MF-Discovery.sh
+MF-io.r
+TP-cat
+87
+0 1 CD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 RD
+0 5 RD
+0 6 FR
+6 1 EX
+6 4 WR
+6 5 CD
+0 7 WR
+6 7 WR
+0 8 RD
+6 8 WR
+9 0 RF
+9 6 RF
+6 10 ST
+11 1 EX
+11 4 RD
+11 5 WR
+6 11 UK
+12 4 RD
+12 5 RD
+12 7 WR
+12 8 WR
+9 12 RF
+12 10 ST
+12 13 WR
+14 4 CD
+14 5 RD
+14 7 WR
+14 8 RD
+9 14 RF
+14 10 ST
+12 14 UK
+15 5 WR
+15 7 WR
+15 8 WR
+9 15 RF
+15 10 ST
+15 13 WR
+15 16 ST
+15 17 WR
+18 8 WR
+9 18 RF
+10 18 RF
+18 13 WR
+15 18 IJ
+16 18 RF
+18 17 UK
+19 9 ST
+19 10 ST
+19 13 WR
+15 19 UK
+10 20 RF
+20 13 WR
+20 16 ST
+21 13 WR
+21 16 ST
+20 21 IJ
+20 22 WR
+21 22 WR
+23 13 CD
+23 16 ST
+20 23 UK
+21 24 CD
+16 25 RF
+21 25 IJ
+25 22 WR
+25 24 WR
+26 21 RF
+26 25 RF
+21 27 WR
+25 27 CD
+28 21 RF
+28 25 RF
+21 29 WR
+25 29 WR
+21 30 WR
+25 30 WR
+21 31 RD
+25 31 RD
+32 22 WR
+32 24 CD
+25 32 UK
+

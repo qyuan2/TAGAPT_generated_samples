@@ -1,0 +1,70 @@
+22
+MP*-awk
+MF-syslog.c
+SF-cron.m
+SF-pwquality.c
+SO-192.168.206.136
+MP*-grep
+MP-cat
+SF-flag4.txt
+MF-alertConfigField.php
+MF-T1070.004-test.txt
+MP*-uname
+TP-nl
+MF-cron.m
+MP*-localectl
+MF-cron.m
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-access.txt
+MF-da-ks.cfg
+MF-robots.txt
+TP-dd
+MF-settings.php
+MF-cron.m
+45
+0 1 RD
+0 2 RD
+0 3 WR
+0 4 ST
+0 5 FR
+5 1 UK
+0 6 FR
+6 2 RD
+6 3 RD
+6 4 ST
+0 7 UK
+6 8 EX
+6 9 EX
+10 2 WR
+10 3 RD
+4 10 RF
+10 8 EX
+10 9 RD
+11 2 WR
+11 3 WR
+4 11 RF
+6 11 IJ
+11 8 WR
+11 9 RD
+10 11 IJ
+6 12 WR
+10 12 WR
+11 12 RD
+13 3 WR
+13 4 ST
+6 13 UK
+10 14 WR
+11 14 RD
+10 15 ST
+11 15 ST
+10 16 RD
+11 16 RD
+10 17 WR
+11 17 WR
+10 18 RD
+11 18 WR
+19 9 UK
+10 20 RD
+11 20 WR
+11 21 WR
+

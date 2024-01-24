@@ -1,0 +1,84 @@
+26
+MP*-nl
+TF-resolv.c
+TP-ls
+SF-lighttp.c
+TF-1.txt
+MP*-grep
+MF-T1003.008.txt
+TP-bash
+MF-rockyou.txt
+MF-p.c
+SF-subprocess.c
+MP*-dd
+MF-www.google.c
+TF-syslog.c
+SO-192.168.10.131
+MF-http.c
+TP-dd
+SF-access.htm
+TF-user.r
+SO-192.168.10.128
+MF-www.google.c
+SF-chttp.c
+MP*-cat
+SF-td.c
+TF-art.sh
+MF-example.c
+55
+0 1 WR
+0 2 IJ
+2 1 WR
+0 3 WR
+2 3 CD
+0 4 WR
+2 4 UK
+0 5 FR
+5 1 EX
+5 3 RD
+0 6 WR
+5 6 WR
+0 7 FR
+7 1 WR
+7 3 WR
+5 7 UK
+0 8 WR
+0 9 RD
+0 10 WR
+11 1 RD
+11 3 RD
+11 6 EX
+11 8 EX
+11 9 WR
+11 10 WR
+11 12 WR
+11 13 RD
+11 14 ST
+11 15 RD
+16 8 WR
+16 9 WR
+16 10 WR
+11 16 IJ
+16 12 WR
+16 13 WR
+16 14 ST
+16 15 WR
+11 17 RD
+16 17 WR
+11 18 UK
+19 16 RF
+16 20 RD
+16 21 RD
+22 13 WR
+14 22 RF
+22 15 WR
+16 22 IJ
+22 17 WR
+22 19 ST
+22 20 WR
+22 21 WR
+16 23 RD
+22 23 UK
+16 24 RD
+16 25 UK
+

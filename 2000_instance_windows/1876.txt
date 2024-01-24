@@ -1,0 +1,37 @@
+12
+MP*-net1.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1197/T1197.md
+MF-C:\Windows\System32\WScript.exe
+TP-iexplore.exe 
+MP*-wmpnscfg.exe
+MP-T1027.exe
+MP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+SF-C:\Windows\system32\ROUTE
+TP*-winhost.exe
+TF-C:\Windows\System32\cmd
+TP-shutdown.exe
+MF-C:\Users\admin\AppData\Local\Temp\86270699bad2681bb3f5f57f44a7094e.exe
+22
+0 1 ST
+0 2 WR
+0 3 IJ
+3 1 ST
+3 2 UK
+0 4 FR
+4 1 ST
+0 5 UK
+1 6 RF
+4 7 RD
+6 7 RD
+1 8 RF
+4 8 IJ
+6 8 IJ
+8 7 WR
+4 9 RD
+6 9 UK
+10 1 ST
+4 10 IJ
+10 7 WR
+8 10 UK
+4 11 EX
+

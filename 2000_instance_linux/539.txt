@@ -1,0 +1,56 @@
+15
+MP*-nl
+MF-password-hash.sh
+MP-ip
+MP-ls
+MF-access.htm
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+SO-192.168.2.102
+MF-resolv.c
+MP*-awk
+TP*-grep
+MP-curl
+MF-pwquality.c
+MF-2017.pl
+SO-192.168.10.129
+TP*-bash
+38
+0 1 EX
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 WR
+5 0 RF
+0 6 ST
+0 7 RD
+0 8 FR
+8 1 CD
+8 4 CD
+8 5 ST
+6 8 RF
+8 7 RD
+0 9 FR
+9 1 RD
+9 4 WR
+9 5 ST
+9 6 ST
+9 7 WR
+8 9 IJ
+0 10 FR
+10 1 EX
+10 4 WR
+10 5 ST
+6 10 RF
+10 7 EX
+8 10 UK
+9 11 RD
+9 12 RD
+9 13 ST
+14 4 RD
+5 14 RF
+14 6 ST
+14 7 WR
+9 14 UK
+

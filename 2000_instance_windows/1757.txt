@@ -1,0 +1,78 @@
+26
+MP*-file.exe 
+TP-WinRAR.exe 
+TP-WinAPIOverride 6.9.1.tmp
+MP-timeout.exe
+SF-C:\Users\admin\AppData\Local\Temp\Normes_Entreprise
+SF-C:\Windows\System32\WScript.exe
+MP-schtasks.exe
+MP-cmd.exe
+MP-snuvcdsm.exe 
+MP-6248.exe
+MP*-LogTransport2.exe
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+SO-1.2.840.113556
+TF-Users\Documents\audiodg.exe
+TP*-taskmgr.exe
+TP-wbengine.exe
+MF-C:\Users\admin\AppData\Local\Temp\Dieselmotorers.exe
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt
+TP*-iexplore.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+MF-\Users\admin\AppData\Local\Temp\yapars.zip
+MF-C:\IDontExist
+TF-C:\Users\admin\AppData\Local\Temp\KMSpico_setup
+MF-\Users\admin\AppData\Local\Temp\w2wwpl2p.cmd
+MF-C:\Users\admin\AppData\Local\Temp\071123_1_phish_alert_sp2_2
+SO-hxxp://fiordan.ru/FILM.html
+49
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 CD
+3 4 WR
+0 5 CD
+3 5 WR
+0 6 FR
+6 4 RD
+6 5 WR
+0 7 FR
+3 7 UK
+0 8 UK
+9 4 UK
+10 5 WR
+10 11 ST
+10 12 ST
+10 13 EX
+14 5 RD
+10 14 IJ
+14 11 ST
+12 14 RF
+14 13 EX
+10 15 FR
+15 11 ST
+12 15 RF
+15 13 WR
+14 15 IJ
+10 16 WR
+14 16 WR
+15 16 EX
+10 17 WR
+14 17 RD
+15 17 WR
+10 18 IJ
+11 18 RF
+18 12 ST
+18 13 EX
+14 18 UK
+19 10 RF
+19 15 RF
+10 20 RD
+15 20 WR
+15 21 RD
+15 22 EX
+15 23 EX
+15 24 WR
+15 25 ST
+

@@ -1,0 +1,50 @@
+16
+MP*-ls
+SF-T1003.008.txt
+MP*-rev
+MP*-ifconfig
+MF-robots.txt
+MP-cat
+MP*-cat
+MF-ron.a
+MF-T1003.008.txt
+MP-cp
+MP-locale
+MF-T1574.006.c
+MF-anaconda-ks.cfg
+MF-sysctl.c
+MF-settings.php
+SF-T1070.006-reference.txt
+31
+0 1 WR
+0 2 FR
+2 1 CD
+0 3 FR
+3 1 WR
+0 4 RD
+2 4 WR
+3 4 WR
+0 5 FR
+5 1 EX
+2 5 UK
+0 6 FR
+6 1 RD
+6 4 WR
+0 7 RD
+3 7 WR
+6 7 EX
+0 8 CD
+3 8 WR
+6 8 WR
+0 9 FR
+9 1 WR
+9 4 UK
+0 10 FR
+10 1 WR
+3 10 UK
+6 11 CD
+6 12 CD
+6 13 EX
+6 14 EX
+6 15 WR
+

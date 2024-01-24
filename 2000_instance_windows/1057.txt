@@ -1,0 +1,33 @@
+12
+MP*-ns996E.tmp
+MF-\*.txt
+MF-C:\Users\admin\AppData\Local\Temp\hh.exe
+TF-C:\Windows\system32\vssvc
+MP*-RegSvcs.exe
+MF-C:\Users\admin\AppData\Local\Temp\MyAccountSummary.zip
+MP*-CyberSeal_Crypter_Cracked.exe 
+TF-C:\Users\admin\AppData\Local\Temp\UN
+SF-C:\Users\admin\AppData\Local\Temp\Mr
+SF-C:\Users\admin\AppData\Local\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+SF-C:\Program Files\Windows Media Player\wmpnscfg
+MP*-7za.exe
+18
+0 1 RD
+0 2 WR
+0 3 EX
+0 4 FR
+4 1 WR
+4 2 EX
+4 3 WR
+0 5 RD
+4 5 EX
+0 6 FR
+6 1 UK
+0 7 CD
+4 7 RD
+0 8 UK
+4 9 WR
+4 10 RD
+11 3 WR
+4 11 UK
+

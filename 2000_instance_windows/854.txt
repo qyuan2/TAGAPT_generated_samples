@@ -1,0 +1,47 @@
+15
+MP*-java.exe
+MF-%tmp%\T1106.exe
+MF-C:\Users\admin\Desktop\MS
+TP-ls
+TP*-appcmd.exe
+TF-\Windows\Microsoft.NET\Framework64\v4.0.30319\regasm.exe
+MF-%temp%\Windows_Defender_Cache_Maintenance.xml
+TP*-cacls.exe 
+MP*-mmc.exe
+TF-C:\Program files\appdata\local\temp\10805.bmp
+MP-iexplore.exe
+MF-\Windows\system32\WerFault.exe
+MF-C:\Users\admin\Desktop\installer.exe
+MF-485240_2023_.rar
+MP-vssvc.exe
+29
+0 1 WR
+0 2 WR
+0 3 IJ
+3 1 UK
+0 4 IJ
+4 2 WR
+0 5 EX
+4 5 RD
+0 6 WR
+4 6 UK
+0 7 FR
+7 2 WR
+7 5 WR
+0 8 FR
+8 2 WR
+8 5 RD
+7 8 IJ
+0 9 RD
+7 9 EX
+8 9 EX
+0 10 UK
+7 11 WR
+8 11 RD
+7 12 WR
+8 12 RD
+7 13 RD
+8 13 UK
+14 5 WR
+7 14 UK
+

@@ -1,0 +1,87 @@
+25
+MP*-MSBuild.exe
+MP*-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+TP-W32tm
+TP-ns9492.tmp 
+SF-C:\Users\admin\AppData\Local\Temp\Uninstall
+MF-C:\Users\admin\AppData\Local\Temp\tb.png
+TP-msbuild.exe
+TP*-Curl.exe
+SF-C:\Program Files\Windows Photo Viewer\PhotoViewer.dll
+MP-IBM_LINUX.exe 
+SF-C:\Users\admin\AppData\Local\Temp\RESF2C4
+MF-\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04.exe
+MF-C:\Users\admin\Downloads\beetle
+SF-C:\Program files\appdata\local\temp\10805.bmp
+MF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\svcinstu
+SO-0.0.0.0
+MF-C:\Program Files\Hantek2xx2\STDFU
+MF-C:\Users\admin\Desktop\Emergency
+MF-C:\Users\admin\Desktop\UIrvVa6de.vb
+TF-C:\Users\admin\Desktop\0IuqaJTsFmOw8k4.exe
+MP*-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+SF-C:\Users\admin\AppData\Local\Temp\0crbfnw1
+TF-\Users\admin\AppData\Local\Temp\compile.vb
+MP-B47C.exe
+MP-rundll32.exe
+59
+0 1 FR
+0 2 IJ
+1 2 IJ
+0 3 UK
+1 4 RD
+2 4 WR
+1 5 WR
+2 5 WR
+1 6 FR
+2 6 UK
+1 7 FR
+7 4 WR
+7 5 EX
+1 8 EX
+7 8 RD
+1 9 FR
+9 4 WR
+9 5 RD
+7 9 IJ
+9 8 RD
+1 10 CD
+7 10 EX
+9 10 WR
+1 11 RD
+7 11 WR
+9 11 RD
+7 12 WR
+9 12 WR
+7 13 RD
+9 13 RD
+7 14 WR
+9 14 RD
+7 15 ST
+9 15 ST
+7 16 RD
+9 16 WR
+7 17 EX
+9 17 RD
+9 18 RD
+9 19 UK
+20 10 WR
+20 11 WR
+20 12 WR
+20 13 CD
+20 14 WR
+20 15 ST
+20 16 CD
+20 17 WR
+20 18 WR
+20 21 WR
+20 22 UK
+23 13 RD
+23 14 WR
+15 23 RF
+23 16 EX
+23 17 WR
+23 18 WR
+23 21 UK
+24 14 UK
+

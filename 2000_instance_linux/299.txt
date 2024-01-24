@@ -1,0 +1,115 @@
+31
+MP*-perl
+MF-resolv.c
+MF-inetd.c
+MF-httpd.c
+TP-uname
+MF-subprocess.c
+MF-test.txt
+TP*-grep
+MP-dd
+MP-cat
+TF-access.txt
+MF-shell.cgi
+SO-192.168.47.134:4444
+MF-atomic.sh
+MF-target.example.c
+MP-sed
+MP-rsync
+TF-LinEnum.sh
+TP-awk
+SF-flag3.txt
+SO-192.168.47.155
+SF-bash_completion.sh
+MF-settings.php
+SO-192.168.10.128
+MP-tee
+TP-cat
+MP-sudo
+MF-ron.a
+MP*-less
+TF-T1070.004-test.txt
+MP*-awk
+81
+0 1 RD
+0 2 EX
+0 3 WR
+0 4 FR
+4 1 UK
+0 5 WR
+0 6 RD
+0 7 IJ
+7 2 WR
+7 3 WR
+7 5 RD
+7 6 RD
+0 8 FR
+8 2 RD
+8 3 RD
+8 5 WR
+8 6 WR
+7 8 UK
+0 9 FR
+9 2 WR
+9 3 WR
+9 5 WR
+9 6 RD
+0 10 UK
+9 11 EX
+9 12 ST
+9 13 WR
+9 14 EX
+15 5 EX
+15 6 UK
+9 16 FR
+16 11 RD
+12 16 RF
+16 13 EX
+16 14 WR
+9 17 WR
+16 17 WR
+9 18 FR
+18 11 WR
+12 18 RF
+18 13 CD
+18 14 WR
+16 18 IJ
+18 17 EX
+9 19 EX
+16 19 WR
+18 19 WR
+16 20 ST
+20 18 RF
+16 21 EX
+18 21 WR
+16 22 WR
+18 22 WR
+23 16 RF
+18 23 ST
+24 14 WR
+24 17 UK
+16 25 FR
+18 25 IJ
+25 19 RD
+20 25 RF
+25 21 RD
+25 22 WR
+25 23 ST
+16 26 UK
+25 27 RD
+28 19 RD
+20 28 RF
+28 21 WR
+28 22 WR
+23 28 RF
+25 28 IJ
+28 27 WR
+25 29 WR
+28 29 WR
+30 21 WR
+30 22 WR
+30 23 ST
+25 30 IJ
+30 27 RD
+28 30 UK
+

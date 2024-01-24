@@ -1,0 +1,247 @@
+57
+MP-awk
+MF-T1070.006-reference.txt
+MP-bash
+MF-victim-shred.txt
+MF-T1003.008.txt
+SF-CleaingScript.sh
+SO-192.168.206.137
+MP-cat
+MP-bash
+MF-secret.c
+MF-syslog.c
+SF-on.a
+MP-less
+TP*-ls
+MF-data.tar.gz
+MP-rev
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-image.php
+MP-find
+MP-pr
+TF-Discovery.sh
+SO-192.168.159.128
+MF-cron.m
+MP-rev
+TP*-nl
+MP-less
+MP-cat
+SF-data.tar.gz
+MF-raft-medium-directories.txt
+TP-nc
+MF-apache2.c
+MF-image.php
+SF-inetd.c
+MF-T1074.001_discovery.log
+MP-uname
+MP-gcc
+TP-cat
+TP-less
+SO-127.0.0.1:8080
+TP*-echo
+TF-art.sh
+MF-common.txt
+MP-sed
+SO-192.168.1.1
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-T1074.001_discovery.log
+SO-192.168.10.135
+SF-atomic.sh
+MF-T1070.006-reference.txt
+MP*-last
+MP-sed
+MP-less
+MP-cat
+TP-rev
+MP-grep
+MP-more
+MP-bash
+187
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 WR
+0 4 WR
+2 4 WR
+0 5 WR
+2 5 UK
+0 6 ST
+0 7 FR
+7 1 WR
+7 3 WR
+7 4 WR
+7 6 ST
+0 8 FR
+8 1 RD
+8 3 WR
+8 4 UK
+0 9 CD
+7 9 WR
+0 10 RD
+7 10 WR
+7 11 UK
+12 3 WR
+6 12 RF
+12 9 RD
+12 10 WR
+13 3 WR
+13 6 ST
+13 9 RD
+13 10 WR
+12 13 IJ
+12 14 UK
+15 6 ST
+15 9 CD
+15 10 WR
+13 15 IJ
+13 16 ST
+16 15 RF
+13 17 WR
+15 17 WR
+18 9 WR
+18 10 WR
+13 18 IJ
+16 18 RF
+18 17 WR
+19 9 RD
+19 10 WR
+13 19 IJ
+15 19 UK
+13 20 WR
+18 20 WR
+21 13 RF
+18 21 ST
+13 22 RD
+18 22 RD
+13 23 IJ
+23 16 ST
+23 17 RD
+18 23 UK
+16 24 RF
+24 17 WR
+24 20 WR
+24 21 ST
+24 22 WR
+16 25 RF
+25 17 RD
+25 20 RD
+25 21 ST
+25 22 RD
+24 25 IJ
+16 26 RF
+26 17 WR
+26 20 RD
+26 21 ST
+26 22 WR
+24 26 IJ
+24 27 RD
+25 27 UK
+24 28 WR
+26 28 WR
+29 20 UK
+24 30 WR
+26 30 WR
+24 31 RD
+26 31 EX
+24 32 WR
+26 32 WR
+24 33 RD
+26 33 RD
+24 34 IJ
+26 34 UK
+35 28 WR
+35 30 WR
+35 31 CD
+35 32 RD
+35 33 CD
+36 28 WR
+36 30 WR
+36 31 WR
+36 32 WR
+36 33 RD
+35 36 UK
+37 28 EX
+37 30 CD
+37 31 WR
+37 32 WR
+37 33 RD
+37 38 ST
+39 30 WR
+39 31 RD
+39 32 RD
+39 33 RD
+37 39 IJ
+38 39 RF
+37 40 RD
+39 40 WR
+37 41 RD
+39 41 EX
+42 32 RD
+42 33 CD
+37 42 IJ
+42 38 ST
+39 42 IJ
+42 40 RD
+42 41 CD
+43 37 RF
+43 39 RF
+42 43 ST
+37 44 ST
+39 44 ST
+44 42 RF
+37 45 WR
+39 45 WR
+42 45 RD
+46 37 RF
+46 39 RF
+42 46 ST
+37 47 RD
+39 47 WR
+42 47 UK
+39 48 RD
+39 49 FR
+49 40 RD
+49 41 WR
+49 43 ST
+49 44 ST
+49 45 RD
+49 46 ST
+49 48 WR
+50 40 RD
+50 41 WR
+43 50 RF
+44 50 RF
+50 45 WR
+50 46 ST
+50 48 RD
+49 50 UK
+51 41 RD
+51 43 ST
+51 44 ST
+51 45 EX
+51 46 ST
+51 48 WR
+43 52 RF
+44 52 RF
+52 45 RD
+52 46 ST
+52 48 EX
+53 43 ST
+44 53 RF
+53 45 EX
+46 53 RF
+53 48 RD
+51 53 UK
+54 44 ST
+54 45 RD
+46 54 RF
+54 48 CD
+52 54 UK
+55 45 WR
+46 55 RF
+55 48 EX
+56 46 ST
+56 48 RD
+55 56 UK
+

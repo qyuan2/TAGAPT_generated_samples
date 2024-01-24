@@ -1,0 +1,249 @@
+68
+MP-XClient.exe 
+MP-main_bin.exe 
+MP-mshta.exe
+TP*-z9673002.exe
+TF-C:\Users\admin\AppData\Local\Temp\Authenticator
+MP-Payment invoice#05450865.exe 
+SO-hxxp://194.180.174[.]73/1.txt
+MF-lsass.exe
+MP*-@WanaDecryptor@.exe 
+TF-\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe
+MF-C:\Users\admin\AppData\Local\Temp\xx.vb
+SF-C:\savesdllNetdhcp\System
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MF-TEMP\Folder_to_zip.zip
+TP-nsA395.tmp
+TP-EBDE.exe
+MP-cacls.exe
+TF-\baby\baby.dat
+SF-C:\Users\User\appdata\local\temp\rpvbh.jar
+MP-snuvcdsm.exe 
+MP-SearchProtocolHost.exe
+MF-C:\Users\admin\AppData\Local\Temp\executable
+TP-LogTransport2.exe
+MF-\Users\admin\Desktop\tasksche.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MP-vLocalServerSetup.tmp
+MP-ngen.exe
+MP-ns9510.tmp
+TP-InstaBotPro (1).exe 
+MF-C:\Users\admin\AppData\Local\Temp\jww825a.exe
+MP-o0575127.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+MF-C:\Windows\System32\control.exe
+MF-C:\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+MP-Reader_sl.exe
+MP*-taskhsvc.exe
+MP-LZ4-SOFT.exe 
+SF-C:\Windows\debug\WIA\wininit.exe
+MF-PathToAtomicsFolder\T1547.001\src\vbsstartup.vb
+MF-C:\Program files\appdata\local\temp\17634.bmp
+MF-bite.exe
+MF-\Users\admin\AppData\Local\Temp\qgcrmeck.exe
+TF-1000341492.exe
+MP-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+MP-DataSvcUtil.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64.sys
+MF-C:\Users\admin\AppData\Local\Temp\4game_supp
+MP*-MsiExec.exe
+SO-https://drimby.top/wndfi
+TP-net.exe
+MF-FILM.htm
+MF-C:\Users\admin\Desktop\VN
+MP-InstallUtil.exe
+MP-863e7c22c771e4005197ae28363584f8.exe 2620
+SF-C:\Windows\system32\pnpui
+MP-Setup.exe
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+MP-CE5F.exe
+TP-Paranoid Checker.exe 
+SF-C:\Program Files\CCleaner
+MF-C:\Windows\system32\taskmgr
+MP-javaw.exe
+SF-C:\Users\admin\AppData\Roaming\SysInfoTool\data
+TP-Bandizip.exe
+MF-\Users\admin\AppData\Local\Temp\G88QGQzA.htm
+MF-files\appdata\local\temp\3893.bmp.vb
+MF-rump_private.jpg
+MF-\Users\admin\AppData\Local\Temp\upP.vbs.txt
+178
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 IJ
+0 4 UK
+3 5 IJ
+6 3 RF
+5 6 ST
+3 7 CD
+5 7 WR
+3 8 FR
+6 8 RF
+8 7 WR
+3 9 WR
+5 9 RD
+8 9 WR
+3 10 WR
+5 10 RD
+8 10 RD
+3 11 WR
+5 11 WR
+8 11 EX
+3 12 ST
+12 5 RF
+12 8 RF
+3 13 EX
+5 13 EX
+8 13 RD
+5 14 UK
+15 6 ST
+15 7 CD
+8 15 IJ
+15 9 CD
+15 10 RD
+15 11 WR
+15 12 ST
+15 13 WR
+16 6 ST
+16 7 WR
+8 16 UK
+15 17 CD
+15 18 WR
+19 9 WR
+19 10 EX
+19 11 EX
+12 19 RF
+19 13 WR
+15 19 UK
+20 10 EX
+20 11 EX
+20 12 ST
+20 13 RD
+20 17 WR
+20 18 WR
+20 21 CD
+12 22 RF
+22 13 WR
+22 17 WR
+22 18 WR
+20 22 IJ
+22 21 WR
+20 23 RD
+22 23 RD
+20 24 ST
+22 24 ST
+25 17 WR
+25 18 CD
+20 25 UK
+26 17 WR
+26 18 WR
+26 21 WR
+22 26 UK
+27 17 RD
+27 18 RD
+27 21 WR
+27 23 WR
+27 24 ST
+28 18 WR
+28 21 WR
+28 23 EX
+28 24 ST
+27 28 IJ
+27 29 EX
+28 29 WR
+30 21 WR
+30 23 RD
+24 30 RF
+27 30 UK
+31 28 RF
+28 32 RD
+28 33 RD
+34 29 WR
+34 31 ST
+34 32 EX
+34 33 WR
+35 29 WR
+35 31 ST
+35 32 WR
+35 33 WR
+36 29 WR
+36 31 ST
+36 32 RD
+36 33 RD
+34 36 UK
+35 37 WR
+35 38 RD
+35 39 WR
+35 40 WR
+35 41 WR
+35 42 WR
+35 43 FR
+43 37 EX
+43 38 RD
+43 39 RD
+43 40 WR
+43 41 EX
+43 42 RD
+35 44 UK
+43 45 WR
+43 46 WR
+47 37 WR
+47 38 WR
+47 39 RD
+47 40 RD
+47 41 RD
+47 42 WR
+47 45 WR
+47 46 RD
+43 48 ST
+47 48 ST
+49 40 WR
+49 41 WR
+49 42 RD
+49 45 RD
+49 46 EX
+47 49 IJ
+48 49 RF
+47 50 WR
+49 50 RD
+47 51 RD
+49 51 RD
+52 45 RD
+52 46 WR
+52 48 ST
+49 52 IJ
+52 50 RD
+52 51 RD
+53 45 WR
+53 46 RD
+47 53 UK
+49 54 UK
+55 46 CD
+55 48 ST
+55 50 RD
+55 51 UK
+56 48 ST
+56 50 WR
+57 48 ST
+57 50 RD
+52 57 UK
+58 50 WR
+56 58 IJ
+56 59 WR
+58 59 RD
+56 60 EX
+58 60 UK
+56 61 FR
+61 59 WR
+56 62 WR
+61 62 RD
+56 63 IJ
+63 59 UK
+56 64 EX
+61 64 WR
+56 65 WR
+61 65 RD
+61 66 WR
+61 67 UK
+

@@ -1,0 +1,40 @@
+13
+MP*-Sunset.exe 
+MP-net1.exe
+TF-C:\Users\admin\AppData\Local\Temp\Group
+MP*-Heapman45.exe.tmp
+MP-TrustedInstaller.exe
+MF-secedit.exe
+MP-AnyDesk-a444ebcf.exe 
+MP-Heapman45.exe 
+MP*-CCleanerBugReport.exe
+MP-lsass.exe
+TP*-setspn.exe
+MF-\Users\admin\Desktop\Setup\Installer.m
+MP-ns9A6A.tmp 
+24
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 FR
+3 2 WR
+0 4 FR
+1 4 UK
+0 5 WR
+3 5 RD
+0 6 FR
+6 2 WR
+3 6 UK
+0 7 UK
+8 2 EX
+8 5 RD
+9 2 WR
+9 5 EX
+8 9 UK
+10 2 WR
+10 5 RD
+10 11 WR
+12 2 WR
+12 5 RD
+10 12 UK
+

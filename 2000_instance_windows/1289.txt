@@ -1,0 +1,62 @@
+19
+MP*-cat
+MP-bash
+MP-less
+TF-raw.githubusercontent.c
+MF-alertConfigField.php
+MF-da-ks.cfg
+MP-nmap
+MF-resolv.c
+MF-locale.c
+MP*-ftp
+MF-passwd.zip
+TP*-cat
+TF-LinEnum.sh
+TP*-less
+SF-flag3.txt
+SF-apache2.c
+TF-T1027-004-test.c
+MF-settings.php
+MP-ls
+40
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 EX
+0 4 WR
+0 5 EX
+0 6 FR
+6 3 WR
+6 4 WR
+6 5 RD
+0 7 WR
+6 7 WR
+0 8 RD
+6 8 RD
+0 9 FR
+9 3 EX
+9 4 RD
+9 5 CD
+9 7 UK
+0 10 RD
+6 10 RD
+11 3 RD
+11 4 WR
+11 5 RD
+6 11 IJ
+11 8 UK
+6 12 EX
+13 3 WR
+13 4 RD
+13 5 WR
+6 13 IJ
+13 10 RD
+13 12 RD
+6 14 UK
+13 15 WR
+13 16 WR
+13 17 CD
+18 10 WR
+18 12 WR
+13 18 UK
+

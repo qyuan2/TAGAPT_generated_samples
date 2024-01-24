@@ -1,0 +1,51 @@
+14
+MP*-ip
+SO-192.168.206.0
+TP*-cat
+MF-http.c
+MF-ufw.log
+TF-T1074.001_discovery.log
+MF-password-hash.sh
+MF-raft-medium-directories.txt
+MF-sysctl.c
+MF-flag4.txt
+MP-netstat
+TP*-locale
+MF-d.c
+MP*-bash
+34
+0 1 ST
+0 2 FR
+1 2 RF
+0 3 WR
+2 3 WR
+0 4 WR
+2 4 RD
+0 5 WR
+2 5 WR
+0 6 RD
+2 6 RD
+0 7 EX
+2 7 WR
+0 8 WR
+2 8 EX
+0 9 WR
+2 9 EX
+1 10 RF
+2 10 UK
+11 3 WR
+11 4 WR
+11 5 WR
+11 6 EX
+11 7 RD
+11 8 RD
+11 9 WR
+11 12 WR
+13 4 WR
+13 5 WR
+13 6 WR
+13 7 WR
+13 8 RD
+13 9 WR
+11 13 UK
+

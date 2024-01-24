@@ -1,0 +1,69 @@
+19
+MP*-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/mshta.sct').Exec();close
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9CE0.tmp
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+SF-C:\Users\admin\AppData\Local\Temp\samplex.doc
+MP*-B70D.exe
+TP*-B70D.exe
+MF-C:\Users\admin\AppData\Roaming\damianocrnofj6793.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MF-C:\Windows\System32\msiexec
+TP-notepad++.exe
+MF-C:\Users\admin\Desktop\x86\ProcessHacker
+SF-C:\Users\admin\AppData\Local\Temp\D911
+SF-C:\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613
+MP*-winhost.exe
+MF-1.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+TP-WScript.exe
+TP-EQNEDT32.EXE
+47
+1 0 RF
+0 2 EX
+0 3 ST
+0 4 RD
+0 5 FR
+5 1 ST
+5 2 RD
+5 3 ST
+5 4 CD
+0 6 IJ
+6 1 ST
+6 2 WR
+6 3 ST
+6 4 WR
+5 6 UK
+0 7 WR
+0 8 ST
+0 9 WR
+0 10 IJ
+1 10 RF
+10 2 WR
+10 3 ST
+10 4 RD
+10 7 RD
+8 10 RF
+10 9 WR
+10 11 RD
+10 12 RD
+10 13 RD
+14 4 WR
+14 7 RD
+8 14 RF
+14 9 RD
+10 14 IJ
+14 11 RD
+14 12 WR
+14 13 UK
+10 15 WR
+16 10 RF
+17 7 WR
+8 17 RF
+17 9 WR
+10 17 IJ
+17 11 UK
+18 8 ST
+18 9 RD
+10 18 UK
+

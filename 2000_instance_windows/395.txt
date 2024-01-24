@@ -1,0 +1,40 @@
+12
+MP*-vdsldr.exe
+MF-\Users\admin\AppData\Roaming\JavaNetworkServices86\dKEseX3QhmleytdFWRInDTBBZv.bat
+MF-\Users\admin\AppData\Roaming\file.exe
+MF-C:\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+MF-\Users\admin\AppData\Local\Temp\facttura.exe
+MP*-Wub.exe
+MP*-Heapman45.exe 
+MP*-ns9318.tmp
+MF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild.exe
+MF-7.1.exe
+TF-cmdkey.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+25
+0 1 RD
+0 2 RD
+0 3 WR
+0 4 WR
+0 5 FR
+5 1 WR
+5 2 WR
+5 3 WR
+5 4 WR
+0 6 FR
+6 1 WR
+6 2 RD
+6 3 WR
+6 4 EX
+0 7 FR
+7 1 WR
+7 2 RD
+7 3 WR
+7 4 RD
+5 7 UK
+0 8 WR
+6 8 EX
+6 9 WR
+6 10 CD
+6 11 ST
+

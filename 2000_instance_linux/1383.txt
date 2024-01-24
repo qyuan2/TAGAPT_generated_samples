@@ -1,0 +1,67 @@
+18
+MP*-less
+SF-2017.pl
+MP*-rev
+MF-lighttpd.c
+TF-e2.c
+TF-image.php
+SO-192.168.10.131
+MF-v.c
+TP-nl
+MF-apache2.c
+MP*-systemctl
+SO-192.168.1.1
+SF-resolv.c
+TP*-less
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-te.c
+SF-user.r
+TP-tac
+46
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 CD
+0 4 WR
+2 4 RD
+0 5 WR
+2 5 CD
+6 0 RF
+2 6 ST
+0 7 RD
+2 7 WR
+0 8 IJ
+8 1 RD
+2 8 IJ
+8 3 WR
+8 4 WR
+8 5 RD
+6 8 RF
+8 7 WR
+0 9 EX
+8 9 EX
+10 1 WR
+10 3 RD
+10 4 WR
+10 5 WR
+6 10 RF
+10 7 RD
+8 10 IJ
+10 9 WR
+11 8 RF
+10 11 ST
+8 12 WR
+10 12 WR
+13 4 WR
+13 5 RD
+13 6 ST
+13 7 UK
+8 14 ST
+14 10 RF
+8 15 WR
+10 15 WR
+8 16 RD
+10 16 UK
+8 17 UK
+

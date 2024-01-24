@@ -1,0 +1,142 @@
+36
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+MP-tasklist.exe
+MF-C:\Users\admin\AppData\Local\Temp\some_malicious_file
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MF-qwinsta.exe
+MF-C:\Users\admin\AppData\Local\Temp\CareUEyes_setup
+MF-\Users\admin\AppData\Roaming\1.bat
+MF-\Windows\System32\taskkill.exe
+SF-C:\Users\admin\Downloads\malware
+MF-C:\Users\admin\AppData\Local\Temp\MePaB
+TP*-chrome.exe 
+SO-hxxp://157.245.99[.]132/get.php
+MP*-DriversHood.exe
+MP-qgcrmeck.exe
+MP*-Scan20230717_newshipment 202333pdf.exe
+MF-\Users\admin\AppData\Local\Temp\skmt-bankinter-003-03588993232059560257100458.jar
+MF-C:\Users\admin\AppData\Local\Temp\is-P1TLT.tmp
+MF-C:\Users\Administrator\Local Settings\services.exe
+SF-C:\Users\admin\AppData\Local\Temp
+SO-https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object
+MF-C:\Users\admin\AppData\Local\Temp\c2dbd1f560dba5050031499cc921b3b7.zip
+MF-PLAZMA.htm
+MP-snuvcdsm.exe 
+TF-C:\Program files\appdata\local\temp\17634.bmp
+MP-odbcconf.exe
+TP-csc.exe 
+MF-EXb3868.24079\tasksche.exe
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+MP-Invoice.exe 
+MP-SOA FREIGHT SLIP.exe 
+MP-Purchase_ORDERS087.scr
+TP-AdFind.exe
+MP-MpCmdRun.exe
+MF-C:\MSOCache\All Users\{90140000-0018-041F-0000-0000000FF1CE}-C\SearchFilterHost.exe
+MP-MicrosoftEdgeUpdate.exe
+MP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+103
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 ST
+1 3 ST
+0 4 WR
+1 4 WR
+0 5 WR
+1 5 RD
+0 6 CD
+1 6 WR
+0 7 WR
+1 7 WR
+0 8 UK
+1 9 RD
+1 10 IJ
+10 2 RD
+10 3 ST
+10 4 RD
+10 5 RD
+10 6 RD
+10 7 WR
+10 9 WR
+11 1 RF
+10 11 ST
+12 2 RD
+3 12 RF
+12 4 RD
+12 5 WR
+12 6 WR
+12 7 WR
+12 9 CD
+10 12 UK
+3 13 RF
+13 4 WR
+13 5 RD
+13 6 WR
+13 7 CD
+13 9 WR
+13 11 ST
+14 4 WR
+14 5 RD
+14 6 WR
+14 7 RD
+14 9 WR
+14 11 ST
+13 15 WR
+14 15 WR
+13 16 RD
+14 16 RD
+13 17 WR
+14 17 WR
+13 18 RD
+14 18 WR
+19 13 RF
+19 14 RF
+13 20 WR
+14 20 CD
+13 21 WR
+14 21 WR
+13 22 FR
+14 22 UK
+13 23 RD
+24 15 EX
+24 16 RD
+24 17 EX
+24 18 RD
+24 19 ST
+24 20 WR
+24 21 RD
+24 23 WR
+25 15 RD
+25 16 WR
+25 17 UK
+24 26 RD
+27 18 WR
+19 27 RF
+27 20 UK
+28 18 WR
+28 19 ST
+28 21 WR
+28 23 RD
+28 26 RD
+29 19 ST
+29 21 WR
+29 23 CD
+24 29 UK
+30 21 RD
+30 23 WR
+30 26 RD
+28 30 UK
+31 21 CD
+31 23 WR
+31 26 RD
+32 23 RD
+32 26 RD
+31 32 IJ
+31 33 WR
+32 33 RD
+34 26 WR
+31 34 UK
+35 26 RD
+32 35 UK
+

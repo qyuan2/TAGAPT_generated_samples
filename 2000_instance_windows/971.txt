@@ -1,0 +1,82 @@
+21
+MP*-crack.exe 
+MF-C:\Users\admin\Desktop\AkrienBeta
+SF-C:\Windows\system32\msiexec.exe
+MP*-6248.exe
+SF-C:\Users\admin\AppData\Local\Temp\444444.png
+MP-Skype.exe 
+MP-4900.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-c:\temp\atomictestfile
+MF-C:\Users\admin\AppData\Local\Temp\msetup\operasetup
+TP-cacls.exe 
+SF-C:\Users\admin\AppData\Roaming\JavaNetworkServices86\javaw.exe
+SF-C:\Users\admin\AppData\Local\Temp\VRAPP.exe
+MP*-notepad++.exe
+MP-DllHost.exe 
+MP*-WScript.exe
+MF-DIb2396.9141\hacker_1.cs
+TF-C:\Users\admin\AppData\Local\Temp\b79gpxd8.cmd
+TP-SSLplus.exe
+TP-chrome.exe
+58
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 WR
+3 4 WR
+0 5 FR
+5 1 WR
+5 2 RD
+5 4 EX
+6 1 RD
+6 2 UK
+3 7 ST
+5 7 ST
+3 8 ST
+8 5 RF
+3 9 WR
+5 9 RD
+3 10 RD
+5 10 RD
+3 11 IJ
+11 4 RD
+5 11 IJ
+11 7 ST
+8 11 RF
+11 9 RD
+11 10 RD
+3 12 RD
+5 12 WR
+11 12 WR
+5 13 WR
+11 13 RD
+5 14 FR
+7 14 RF
+14 8 ST
+14 9 WR
+14 10 UK
+15 7 ST
+8 15 RF
+15 9 WR
+11 15 UK
+16 7 ST
+16 8 ST
+16 9 WR
+16 12 RD
+16 13 RD
+16 17 CD
+16 18 WR
+19 9 WR
+19 12 WR
+19 13 RD
+16 19 IJ
+19 17 RD
+19 18 UK
+20 12 RD
+20 13 RD
+16 20 UK
+

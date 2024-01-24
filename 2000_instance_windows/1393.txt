@@ -1,0 +1,96 @@
+23
+MP-MpCmdRun.exe
+TF-%temp%\T1222.001_cacls 
+MP-p2602380.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+MF-Order.doc.rtf
+TP*-ONENOTE.EXE
+TF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\jsestartup
+MP-AdFind.exe 
+SF-C:\Users\admin\Desktop\AkrienBeta.exe
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+MP*-RdrCEF.exe 
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+MP-nethtsrv.exe
+MP-XClient.exe 
+MP-RdrCEF.exe
+SF-C:\Users\admin\AppData\Roaming\damianoh68951.exe
+MF-C:\Program files\appdata\local\temp\22333
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+TP*-vLocalServerSetup.tmp
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+TP*-javaw.exe
+TF-\Users\admin\AppData\Local\Temp\Overbygningsuddannelsens.exe
+70
+0 1 EX
+0 2 FR
+2 1 RD
+3 0 RF
+3 2 RF
+0 4 ST
+4 2 RF
+0 5 WR
+2 5 RD
+0 6 IJ
+6 1 WR
+2 6 IJ
+6 3 ST
+4 6 RF
+6 5 WR
+0 7 WR
+2 7 RD
+6 7 EX
+0 8 FR
+8 1 CD
+2 8 UK
+0 9 RD
+6 9 WR
+0 10 ST
+6 10 ST
+11 1 RD
+11 3 ST
+4 11 RF
+11 5 WR
+6 11 IJ
+11 7 RD
+11 9 WR
+11 10 ST
+6 12 ST
+12 11 RF
+13 3 ST
+4 13 RF
+13 5 WR
+6 13 IJ
+13 7 WR
+13 9 WR
+10 13 RF
+12 13 RF
+4 14 RF
+14 5 RD
+6 14 UK
+15 5 RD
+15 7 RD
+15 9 WR
+10 15 RF
+11 15 UK
+13 16 WR
+13 17 EX
+13 18 ST
+19 9 RD
+19 10 ST
+19 12 ST
+13 19 IJ
+19 16 RD
+19 17 WR
+18 19 RF
+13 20 ST
+20 19 RF
+12 21 RF
+13 21 IJ
+21 16 EX
+21 17 RD
+18 21 RF
+19 21 UK
+13 22 UK
+

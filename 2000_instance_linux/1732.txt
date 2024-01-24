@@ -1,0 +1,36 @@
+11
+MP*-netstat
+MP-awk
+TP-pr
+MF-p.c
+MF-cron.h
+MF-Discovery.sh
+SF-locale.c
+MP*-pr
+MP*-cat
+MP*-bash
+SF-cron.h
+22
+0 1 FR
+0 2 IJ
+1 2 UK
+0 3 WR
+0 4 RD
+0 5 WR
+0 6 WR
+0 7 FR
+7 3 RD
+7 4 WR
+7 5 WR
+7 6 RD
+0 8 FR
+8 3 CD
+8 4 RD
+8 5 UK
+0 9 FR
+9 3 WR
+9 4 RD
+9 6 EX
+7 9 UK
+0 10 WR
+

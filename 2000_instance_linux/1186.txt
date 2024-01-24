@@ -1,0 +1,44 @@
+12
+MP*-less
+MF-td.c
+MF-f.r
+MP*-cat
+TP-sudo
+MP-awk
+SF-shell.cgi
+SO-8.8.8.8
+MP*-sed
+MF-d.c
+MP-less
+MP*-cat
+29
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 IJ
+4 1 WR
+4 2 WR
+3 4 IJ
+0 5 FR
+5 1 WR
+5 2 RD
+3 5 UK
+4 6 RD
+4 7 ST
+8 1 WR
+8 2 WR
+4 8 IJ
+8 6 RD
+7 8 RF
+4 9 EX
+8 9 WR
+10 1 EX
+10 2 WR
+4 10 UK
+11 2 CD
+11 6 RD
+7 11 RF
+8 11 UK
+

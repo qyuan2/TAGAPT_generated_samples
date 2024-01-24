@@ -1,0 +1,46 @@
+12
+MP*-WinRAR.exe
+MF-output_mysecpol.txt
+TP-nltest.exe
+MF-\Users\admin\Desktop\jerkoff.exe
+MF-files\appdata\local\temp\26012.bmp.vb
+MF-C:\Users\admin\AppData\Local\Temp\VALENCIA12
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+MP*-is-Q2MHB.tmp
+MP*-CareUEyes.exe
+TF-\Users\admin\AppData\Roaming\mozilla.exe
+MF-Files\Bandizip\data\RegDll.x86.exe
+MP*-oldplayer.exe 
+31
+0 1 WR
+0 2 IJ
+2 1 WR
+0 3 WR
+2 3 WR
+0 4 EX
+2 4 WR
+0 5 EX
+2 5 RD
+6 0 RF
+2 6 ST
+0 7 FR
+7 1 RD
+2 7 IJ
+7 3 EX
+7 4 WR
+7 5 WR
+6 7 RF
+0 8 FR
+8 1 RD
+2 8 UK
+0 9 WR
+7 9 WR
+0 10 WR
+7 10 RD
+11 1 RD
+11 3 RD
+11 4 WR
+11 5 RD
+11 6 ST
+7 11 UK
+

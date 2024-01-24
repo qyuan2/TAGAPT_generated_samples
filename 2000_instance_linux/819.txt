@@ -1,0 +1,48 @@
+11
+MP*-bash
+MF-T1070.004-test.txt
+TP*-head
+MF-anaconda-ks.cfg
+SO-192.168.206.137
+MF-echo-art-fish.sh
+TP*-cat
+MP*-less
+MF-CleaingScript.sh
+MP-pr
+MP-whoami
+34
+0 1 WR
+0 2 IJ
+2 1 RD
+0 3 RD
+2 3 WR
+4 0 RF
+2 4 ST
+0 5 RD
+2 5 WR
+0 6 FR
+6 1 RD
+2 6 IJ
+6 3 RD
+6 4 ST
+6 5 WR
+0 7 FR
+7 1 WR
+2 7 IJ
+7 3 WR
+4 7 RF
+7 5 CD
+6 7 IJ
+0 8 WR
+2 8 WR
+6 8 WR
+7 8 UK
+0 9 FR
+9 1 WR
+2 9 UK
+10 1 RD
+10 3 WR
+4 10 RF
+10 5 WR
+6 10 UK
+

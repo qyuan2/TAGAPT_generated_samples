@@ -1,0 +1,114 @@
+29
+MP*-MicrosoftUpdate.exe 
+TF-\Users\admin\Desktop\AIGeneratedRansomware.exe
+MP-ns9BE4.tmp
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+MP-cacls.exe 
+MP-chrome.exe
+MP-CareUEyes_setup.tmp
+SO-8.100.0.203
+SF-C:\Users\admin\AppData\Local\Temp\setup_avrokeyboard_5
+TP-mofcomp.exe
+MF-C:\Users\admin\AppData\Local\Temp\AB083F1294796B947DE5390EC853243E
+MF-lsass.exe
+TF-96.zip
+TP-k2141323.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+MF-C:\IDontExist
+SF-C:\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost
+TP-Psiphon.exe
+TP-ns9A6A.tmp 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+TP*-WScript.exe
+MF-secedit.exe
+SF-C:\Users\admin\AppData\Local\Temp\Scan20230717_newshipment
+MP-ns9AE8.tmp
+MP*-OneDrive.exe 
+MF-\Users\admin\AppData\Local\Temp\Dkeyauth.exe
+MP-CasPol.exe
+TP*-cmstp.exe
+MP-7za.exe
+82
+0 1 WR
+0 2 FR
+2 1 RD
+3 0 RF
+3 2 RF
+0 4 FR
+4 1 WR
+4 3 ST
+0 5 UK
+6 1 EX
+2 6 UK
+4 7 ST
+4 8 WR
+9 1 WR
+9 3 ST
+7 9 RF
+9 8 WR
+9 10 RD
+9 11 WR
+9 12 WR
+7 13 RF
+13 8 WR
+9 13 IJ
+13 10 RD
+13 11 WR
+13 12 RD
+9 14 ST
+13 14 ST
+9 15 RD
+13 15 WR
+9 16 RD
+13 16 CD
+17 8 RD
+9 17 IJ
+17 10 RD
+17 11 UK
+9 18 IJ
+18 10 RD
+18 12 RD
+13 18 IJ
+18 14 ST
+18 15 RD
+18 16 RD
+9 19 ST
+19 13 RF
+18 19 ST
+20 10 RD
+20 12 WR
+13 20 IJ
+14 20 RF
+20 15 CD
+20 16 WR
+18 20 IJ
+20 19 ST
+13 21 WR
+18 21 RD
+20 21 UK
+13 22 WR
+18 22 WR
+13 23 UK
+14 24 RF
+24 15 CD
+24 16 RD
+18 24 IJ
+19 24 RF
+24 22 RD
+18 25 WR
+24 25 RD
+26 16 RD
+18 26 IJ
+26 19 ST
+26 22 CD
+24 26 UK
+18 27 FR
+19 27 RF
+27 22 WR
+27 25 CD
+18 28 IJ
+28 19 ST
+28 22 CD
+28 25 RD
+27 28 UK
+

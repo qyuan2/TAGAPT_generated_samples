@@ -1,0 +1,28 @@
+10
+MP*-ls
+MF-v.c
+TP*-ftp
+MP-bash
+TP*-cat
+MF-syslog.c
+MF-Users.tar.gz
+MP*-ls
+MF-lighttpd.c
+MP-nl
+15
+0 1 RD
+0 2 IJ
+2 1 EX
+0 3 FR
+3 1 WR
+2 3 UK
+4 1 WR
+4 5 WR
+4 6 UK
+7 1 EX
+7 5 WR
+7 8 WR
+9 1 WR
+9 5 RD
+7 9 UK
+

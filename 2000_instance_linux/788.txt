@@ -1,0 +1,30 @@
+11
+MP*-tee
+TF-s.c
+SF-access.htm
+MP*-dd
+SO-192.168.10.129
+MP*-paste
+SF-access.htm
+SF-p.c
+SF-anaconda-ks.cfg
+SF-httpd.c
+MP*-sed
+16
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 ST
+4 3 RF
+0 5 FR
+5 1 RD
+5 2 WR
+3 5 UK
+0 6 WR
+0 7 RD
+0 8 WR
+0 9 UK
+10 1 UK
+

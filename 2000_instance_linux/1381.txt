@@ -1,0 +1,70 @@
+20
+MP*-bash
+SF-CleaingScript.sh
+TP-rev
+TP-more
+MF-atomic.sh
+SF-e2.c
+TP*-cat
+SF-access.htm
+TP-cat
+MP*-find
+MP-ftp
+TP-rev
+MF-anaconda-ks.cfg
+TP-nmap
+MP-netstat
+MF-pd.c
+MF-image.php
+MP*-more
+MP-cat
+SF-victim-gzip.txt
+47
+0 1 RD
+0 2 IJ
+2 1 UK
+0 3 FR
+0 4 EX
+3 4 WR
+0 5 WR
+3 5 CD
+3 6 FR
+6 4 WR
+6 5 WR
+3 7 WR
+6 7 RD
+3 8 UK
+9 4 WR
+9 5 EX
+6 9 IJ
+9 7 RD
+10 4 RD
+10 5 WR
+6 10 IJ
+10 7 CD
+11 4 WR
+11 5 WR
+6 11 IJ
+11 7 UK
+6 12 WR
+9 12 EX
+10 12 RD
+13 4 WR
+13 5 UK
+6 14 IJ
+9 14 UK
+6 15 EX
+10 15 CD
+6 16 RD
+10 16 WR
+10 17 FR
+17 12 EX
+17 15 WR
+17 16 WR
+10 18 FR
+18 12 EX
+18 15 CD
+18 16 RD
+17 18 UK
+10 19 RD
+

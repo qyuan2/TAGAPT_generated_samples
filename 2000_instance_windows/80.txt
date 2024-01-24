@@ -1,0 +1,57 @@
+17
+MP*-keygen.exe
+TP-test de fdp.exe 
+MP*-xnoobx.cc.exe 
+MP-WinAPIOverride 6.9.1.exe
+MP-build2.exe 
+MF-\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023.pdf
+TP-Entry.exe 
+SF-C:\Users\admin\AppData\Local\Temp\mac
+TF-C:\Windows\System32\diskshadow
+SF-C:\Users\admin\AppData\Local\Temp\Scan20230717_newshipment
+SF-C:\Users\admin\Downloads\crypto
+TF-powerview.ps1
+TP*-Dkeyauth.tmp 
+MF-\Users\Public\Pictures\deep-thoughted.ppt
+TP-at.exe
+MP*-MMFbbhOyNS.exe
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt
+37
+0 1 IJ
+0 2 FR
+1 2 IJ
+0 3 UK
+1 4 IJ
+2 4 UK
+1 5 WR
+1 6 IJ
+6 5 WR
+1 7 RD
+6 7 EX
+1 8 WR
+6 8 CD
+1 9 RD
+6 9 WR
+1 10 WR
+6 10 RD
+1 11 WR
+6 11 WR
+12 5 WR
+6 12 IJ
+12 7 EX
+12 8 WR
+12 9 RD
+12 10 WR
+12 11 WR
+6 13 RD
+12 13 EX
+14 5 RD
+6 14 UK
+15 5 EX
+15 7 CD
+15 8 RD
+15 9 WR
+15 10 CD
+15 11 UK
+12 16 UK
+

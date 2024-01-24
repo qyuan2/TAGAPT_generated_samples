@@ -1,0 +1,28 @@
+10
+MP*-nl
+TF-cron.a
+MP*-grep
+MP*-clang
+MF-art.sh
+MF-ufw.c
+MF-lighttpd.c
+TF-art.sh
+TP*-grep
+MP-sudo
+15
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+0 4 WR
+3 4 RD
+0 5 WR
+3 5 CD
+0 6 WR
+3 6 UK
+0 7 WR
+0 8 FR
+8 1 UK
+0 9 UK
+

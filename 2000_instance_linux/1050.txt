@@ -1,0 +1,45 @@
+13
+MP*-awk
+MF-passwd.zip
+MF-art.sh
+SF-lighttp.c
+TP*-cat
+MP*-echo
+MF-locale.c
+MP*-go
+SF-passwd.zip
+TF-T1074.001_discovery.log
+TF-common.txt
+SF-e2.c
+TP-ls
+29
+0 1 RD
+0 2 WR
+0 3 RD
+0 4 IJ
+4 1 WR
+4 2 WR
+4 3 WR
+0 5 FR
+5 1 RD
+5 2 RD
+5 3 RD
+4 5 UK
+0 6 WR
+0 7 FR
+7 1 RD
+7 2 WR
+7 3 WR
+7 6 RD
+0 8 WR
+7 8 EX
+0 9 WR
+7 9 WR
+0 10 RD
+7 10 WR
+7 11 CD
+12 2 WR
+12 3 RD
+12 6 RD
+7 12 UK
+

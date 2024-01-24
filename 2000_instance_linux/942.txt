@@ -1,0 +1,38 @@
+13
+MP*-tcpdump 
+MF-lighttp.c
+SO-192.168.10.128
+MP*-head
+MP*-find
+MF-td.c
+TF-ret.c
+MF-bash_completion.sh
+MF-cron.m
+MF-robots.txt
+TF-backsup.sh
+TP*-bash 
+TF-raw.githubusercontent.c
+22
+0 1 EX
+0 2 ST
+0 3 FR
+3 1 UK
+0 4 FR
+4 2 ST
+0 5 WR
+4 5 RD
+0 6 RD
+4 6 WR
+0 7 RD
+4 7 EX
+0 8 WR
+4 8 WR
+0 9 RD
+4 9 CD
+4 10 EX
+2 11 RF
+4 11 IJ
+11 5 WR
+11 6 UK
+4 12 UK
+

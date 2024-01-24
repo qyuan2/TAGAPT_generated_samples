@@ -1,0 +1,44 @@
+13
+MP*-tee
+TF-pwquality.c
+SO-192.168.10.135
+TP*-head
+MF-da-ks.cfg
+TF-ufw.c
+TP-less
+MP*-tac
+MF-password-hash.sh
+MF-common.txt
+MF-Users.tar.gz
+MF-echo-art-fish.sh
+TP*-tail
+28
+0 1 EX
+0 2 ST
+0 3 FR
+3 1 EX
+2 3 RF
+0 4 WR
+3 4 RD
+0 5 RD
+3 5 RD
+0 6 FR
+6 1 WR
+6 2 ST
+3 6 IJ
+6 4 RD
+6 5 WR
+0 7 FR
+7 1 RD
+7 2 ST
+3 7 UK
+0 8 WR
+6 8 RD
+0 9 RD
+6 9 WR
+6 10 WR
+6 11 WR
+12 4 RD
+12 5 RD
+6 12 UK
+

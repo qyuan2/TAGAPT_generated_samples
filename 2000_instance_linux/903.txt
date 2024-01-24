@@ -1,0 +1,99 @@
+31
+MP*-cp
+MF-logrotate.c
+SO-http://192.168.0.134/passwd
+TP-nl
+TP-finger
+MP-ls
+MP-cat
+MP-pr
+MF-d.c
+MP-cat
+TP*-netstat
+TP-cat
+TP-echo 
+MP-tee
+MP*-cat
+SF-pd.c
+SF-resolv.c
+TP*-nmap
+MF-inetd.c
+TP-dd
+TF-lighttp.c
+SF-te.c
+MP-tac
+MP-ls
+SO-http://192.168.10.128/shell.cgi
+SO-127.0.0.1:8080
+TP-grep
+MF-alertConfigField.php
+MF-access.htm
+MF-alertConfigField.php
+MP-stat
+65
+0 1 EX
+2 0 RF
+0 3 IJ
+3 1 CD
+2 3 RF
+0 4 FR
+4 1 WR
+4 2 ST
+3 4 IJ
+0 5 FR
+5 1 UK
+0 6 FR
+2 6 RF
+3 6 IJ
+4 6 UK
+0 7 UK
+3 8 WR
+9 2 ST
+3 9 UK
+2 10 RF
+10 8 RD
+2 11 RF
+11 8 UK
+2 12 RF
+10 12 IJ
+10 13 FR
+12 13 UK
+10 14 IJ
+10 15 EX
+14 15 EX
+10 16 WR
+14 16 WR
+10 17 IJ
+14 17 IJ
+17 15 EX
+17 16 EX
+10 18 EX
+14 18 RD
+17 18 RD
+10 19 IJ
+14 19 IJ
+19 15 EX
+19 16 UK
+10 20 UK
+14 21 WR
+17 21 RD
+14 22 FR
+22 15 RD
+17 22 IJ
+22 18 WR
+22 21 UK
+14 23 UK
+17 24 ST
+17 25 ST
+17 26 IJ
+26 18 EX
+24 26 RF
+26 25 ST
+17 27 WR
+26 27 WR
+26 28 EX
+26 29 EX
+24 30 RF
+25 30 RF
+26 30 UK
+

@@ -1,0 +1,80 @@
+21
+MP*-tail
+MP-tac
+SF-2017.pl
+SF-subprocess.c
+MF-anaconda-ks.cfg
+SF-td.c
+MF-inetd.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+TF-data.zip
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TF-rockyou.txt
+MP*-ip
+MP*-more
+TP*-python
+TP-awk
+SO-127.0.0.1
+TP-dpkg
+SF-e.c
+TP-sudo
+TP-sed
+MP-bash
+56
+0 1 FR
+0 2 RD
+1 2 EX
+0 3 RD
+1 3 UK
+0 4 WR
+0 5 WR
+0 6 WR
+0 7 ST
+0 8 WR
+0 9 ST
+0 10 RD
+11 2 WR
+11 4 WR
+11 5 WR
+11 6 RD
+11 7 ST
+11 8 RD
+11 9 ST
+11 10 WR
+12 2 CD
+12 4 WR
+12 5 EX
+12 6 WR
+7 12 RF
+12 8 RD
+9 12 RF
+12 10 UK
+13 4 EX
+13 5 WR
+13 6 WR
+7 13 RF
+13 8 RD
+13 9 ST
+11 13 IJ
+14 4 WR
+14 5 UK
+11 15 ST
+15 13 RF
+16 6 WR
+7 16 RF
+16 8 RD
+16 9 ST
+11 16 IJ
+13 16 UK
+11 17 EX
+18 8 WR
+18 9 ST
+11 18 IJ
+15 18 RF
+18 17 RD
+9 19 RF
+11 19 UK
+15 20 RF
+20 17 WR
+18 20 UK
+

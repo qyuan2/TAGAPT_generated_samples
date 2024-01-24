@@ -1,0 +1,37 @@
+11
+MP*-8cc2d4575163a5e3dc7a56face3644e9.exe 
+MP*-PDQDeployConsole.exe
+TP*-procdump.exe
+TF-C:\Program Files\Microsoft\Skype for Desktop\resources\app.a
+TF-%temp%\shell32.jpg
+MF-C:\Windows\System32\rundll32
+MP*-putty.exe
+MP-WISPTIS.EXE
+MP-WinRAR.exe 
+MF-\Windows\system32\icacls.exe
+MF-\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6.zip
+23
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 WR
+1 3 EX
+2 3 WR
+0 4 CD
+1 4 WR
+2 4 EX
+0 5 WR
+1 5 RD
+2 5 UK
+0 6 FR
+6 3 RD
+6 4 EX
+0 7 FR
+1 7 UK
+0 8 FR
+8 3 RD
+8 4 WR
+6 8 UK
+0 9 WR
+0 10 EX
+

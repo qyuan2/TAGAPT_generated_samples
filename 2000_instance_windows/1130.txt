@@ -1,0 +1,47 @@
+13
+MP*-netsh.exe
+MF-UKm.vb
+MP-nethtsrv.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MP-nltest.exe
+TP*-cvtres.exe
+MP-Orcus.exe 
+MP*-mmc.exe
+TP*-KMSpico_setup.exe
+MP-Spora.exe 
+MP-ytfovlym.exe
+MF-C:\Users\admin\AppData\Local\Temp\winhlp32.exe
+TP-ns9FC4.tmp
+31
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 ST
+2 3 ST
+0 4 FR
+4 1 WR
+2 4 UK
+0 5 IJ
+5 1 EX
+3 5 RF
+0 6 FR
+6 1 RD
+3 6 RF
+5 6 IJ
+0 7 FR
+7 1 WR
+7 3 ST
+5 7 IJ
+6 7 UK
+0 8 IJ
+8 1 EX
+8 3 ST
+5 8 IJ
+0 9 UK
+10 1 RD
+3 10 RF
+5 10 UK
+8 11 WR
+3 12 RF
+8 12 UK
+

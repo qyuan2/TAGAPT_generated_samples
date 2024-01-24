@@ -1,0 +1,48 @@
+14
+MP*-CompPkgSrv.exe
+TP*-schtasks.exe
+MF-C:\Program files\8527
+SF-C:\Program files\appdata\local\temp\32440
+TP*-ROUTE.EXE
+TF-Downloader_Rz-OfD1.exe
+SO-http://fbi.fund/dark.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves
+TP-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+MF-TEMP\T1059.007.out.txt
+SF-C:\Users\admin\Desktop\bootkit
+TF-\Windows\SysWow64\Register-CimProvider.exe
+MP*-Explorer.EXE
+31
+0 1 IJ
+0 2 EX
+1 2 RD
+0 3 UK
+1 4 IJ
+4 2 WR
+1 5 WR
+4 5 EX
+1 6 ST
+4 6 ST
+7 1 RF
+4 7 ST
+1 8 WR
+4 8 EX
+1 9 FR
+9 2 WR
+4 9 IJ
+9 5 RD
+6 9 RF
+9 7 ST
+9 8 WR
+1 10 WR
+4 10 UK
+1 11 RD
+9 11 RD
+9 12 WR
+13 5 RD
+6 13 RF
+13 7 ST
+13 8 EX
+9 13 UK
+

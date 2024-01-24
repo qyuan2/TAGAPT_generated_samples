@@ -1,0 +1,40 @@
+12
+MP*-Reader_sl.exe 
+SO-https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/email-icon-2x.png
+MP*-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MF-PathToAtomicsFolder\T1059.003\src\t1059.003_cmd.cmd
+MF-C:\Program Files\Bandizip\updater
+TP-addinutil.exe
+TF-C:\Program files\8527.ico
+MP-RerSpacer710.exe  
+TP*-Scanned_file_PO23_Jan.exe 
+TP-Curl.exe
+MF-net.exe
+MP*-CCleanerBugReport.exe
+25
+0 1 ST
+0 2 FR
+2 1 ST
+0 3 WR
+2 3 RD
+0 4 WR
+2 4 WR
+0 5 FR
+1 5 RF
+2 5 UK
+0 6 WR
+0 7 FR
+1 7 RF
+7 3 EX
+7 4 CD
+7 6 WR
+0 8 FR
+8 1 ST
+8 3 WR
+8 4 UK
+0 9 UK
+7 10 WR
+11 3 WR
+11 6 WR
+7 11 UK
+

@@ -1,0 +1,62 @@
+21
+MP-teehee
+MF-sysctl.c
+SF-loot.txt
+MP-less
+MP*-cat
+MF-LinEnum.sh
+TF-e.c
+MP-rev
+TP-more
+MP*-ip
+MF-target.example.c
+SF-sysctl.c
+SO-atomic@target.example
+MF-AutoSUID.sh
+SF-user.r
+MF-anaconda-ks.cfg
+MP*-cat
+MF-atomic.sh
+TP-grep
+TP-tee
+MP*-perl
+38
+0 1 RD
+0 2 RD
+0 3 UK
+4 1 WR
+4 2 RD
+4 5 WR
+4 6 RD
+7 1 WR
+7 2 WR
+4 7 UK
+8 1 UK
+9 2 RD
+9 5 WR
+9 6 RD
+9 10 RD
+9 11 RD
+12 9 RF
+9 13 WR
+9 14 WR
+9 15 EX
+16 6 RD
+16 10 WR
+16 11 RD
+16 12 ST
+16 13 WR
+16 14 RD
+16 15 WR
+9 17 WR
+16 17 WR
+9 18 IJ
+18 10 UK
+19 11 WR
+12 19 RF
+19 13 UK
+20 12 ST
+20 14 WR
+20 15 EX
+16 20 UK
+

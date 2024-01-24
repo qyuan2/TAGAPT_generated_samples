@@ -1,0 +1,56 @@
+18
+MP*-installd.exe
+MP-Paranoid Checker.exe 
+MF-\Users\admin\AppData\Local\Temp\Xd.exe
+MF-C:\Windows\system32\SearchIndexer
+SF-C:\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539
+MF-C:\Program Files\FileZilla FTP Client\filezilla
+MF-nam10.safelinks.protection.outlook.c
+MP*-ngen.exe
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MF-\Windows\syswow64\regsvr32.exe
+MP-Notepad Soft.tmp
+TP-Invoice.exe 
+MP*-forfiles.exe
+MF-Users\audiodg.exe
+MF-C:\Users\admin\AppData\Local\Temp\K66Oee5ogkXvHZErwp6nPamsgLMgz\Cleaner.exe
+MP*-сsrss.exe 
+MF-PathToAtomicsFolder\T1546\bin\AltWinSock2DLL.dll
+TF-\Users\admin\Desktop\OlympicDestroyer.exe
+35
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 WR
+1 3 UK
+0 4 WR
+0 5 EX
+0 6 RD
+0 7 FR
+7 2 EX
+7 4 EX
+7 5 WR
+7 6 EX
+8 0 RF
+8 7 RF
+0 9 WR
+7 9 WR
+0 10 UK
+11 2 UK
+12 4 RD
+12 5 RD
+12 6 EX
+12 8 ST
+12 9 WR
+7 13 WR
+12 13 WR
+7 14 WR
+12 14 WR
+15 5 WR
+15 6 RD
+15 8 ST
+15 9 RD
+12 15 UK
+7 16 WR
+7 17 WR
+

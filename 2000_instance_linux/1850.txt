@@ -1,0 +1,76 @@
+23
+MP*-bash 
+SF-io.r
+TP-ifconfig
+MP-pr
+MF-common.txt
+MF-passwd.zip
+MP-less
+MP-cat
+SO-192.168.159.128
+MF-e2.c
+MP-less
+TP*-pr
+SO-192.168.2.102
+MP-nl
+TP*-id
+MF-atomic.log
+TP*-find
+MF-victim-shred.txt
+SF-sysctl.c
+MF-ttpd.c
+MF-shell.cgi
+SO-192.168.37.130
+MP-ls
+50
+0 1 WR
+0 2 IJ
+2 1 EX
+0 3 FR
+3 1 EX
+2 3 UK
+0 4 WR
+0 5 RD
+0 6 FR
+6 1 RD
+6 4 EX
+6 5 RD
+0 7 FR
+7 1 RD
+7 4 WR
+7 5 RD
+6 7 UK
+0 8 ST
+0 9 RD
+0 10 FR
+10 1 RD
+10 4 UK
+11 1 EX
+11 5 WR
+8 11 RF
+11 9 RD
+11 12 ST
+13 5 WR
+8 13 RF
+13 9 WR
+11 13 UK
+14 5 WR
+8 14 RF
+14 9 WR
+14 12 ST
+14 15 WR
+16 8 ST
+16 9 CD
+16 12 ST
+14 16 IJ
+16 15 EX
+14 17 RD
+16 17 WR
+14 18 EX
+16 18 UK
+14 19 WR
+14 20 RD
+21 14 RF
+22 12 ST
+14 22 UK
+

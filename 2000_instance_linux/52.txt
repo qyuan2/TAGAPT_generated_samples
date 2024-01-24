@@ -1,0 +1,110 @@
+29
+MP-uname
+SF-flag3.txt
+MF-f.r
+MF-backsup.sh
+MP-cat
+MP-ls
+TP-ls
+MP-tac
+SF-T1070.004-test.txt
+MF-1.txt
+MF-example.c
+SF-at.a
+TP*-tail
+TF-syslog.c
+TP-curl
+SF-test.txt
+TP-grep
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-p.c
+SF-echo-art-fish.sh
+TP-nl
+MP*-pr
+MF-resolv.c
+MP*-locale
+SF-at.a
+MP*-awk
+MF-inetd.c
+MF-T1027-004-test.c
+MP-paste
+78
+0 1 WR
+0 2 CD
+0 3 EX
+0 4 UK
+5 1 WR
+5 2 WR
+5 3 UK
+6 1 RD
+6 2 WR
+7 1 WR
+7 2 UK
+6 8 EX
+6 9 RD
+6 10 EX
+6 11 UK
+12 8 WR
+12 9 RD
+12 10 RD
+12 13 WR
+14 8 WR
+14 9 WR
+14 10 RD
+12 14 IJ
+14 13 WR
+12 15 WR
+14 15 WR
+16 8 WR
+16 9 RD
+16 10 EX
+12 16 IJ
+16 13 RD
+14 16 IJ
+16 15 EX
+17 12 RF
+14 17 ST
+17 16 RF
+12 18 WR
+14 18 EX
+16 18 WR
+12 19 RD
+14 19 RD
+16 19 WR
+20 10 WR
+12 20 IJ
+20 13 RD
+14 20 UK
+12 21 IJ
+21 13 WR
+21 15 RD
+16 21 IJ
+17 21 RF
+21 18 WR
+21 19 WR
+12 22 WR
+16 22 RD
+21 22 RD
+23 13 WR
+23 15 WR
+16 23 IJ
+23 17 ST
+23 18 RD
+23 19 WR
+23 22 WR
+16 24 RD
+21 24 RD
+23 24 RD
+25 15 EX
+16 25 IJ
+25 17 ST
+25 18 WR
+25 19 RD
+21 25 UK
+16 26 WR
+23 26 WR
+23 27 EX
+28 19 RD
+28 22 EX
+23 28 UK
+

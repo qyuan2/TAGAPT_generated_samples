@@ -1,0 +1,43 @@
+12
+MP*-sed
+MP-uname
+MF-v.c
+SO-192.168.1.1
+MP*-dd
+MP-tac
+SO-192.168.206.0
+MP-netstat
+TF-secret.c
+MP*-less
+MP-hostname
+MP*-tar
+28
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 ST
+3 1 RF
+0 4 FR
+4 2 EX
+3 4 RF
+0 5 FR
+1 5 UK
+6 0 RF
+6 4 RF
+0 7 FR
+7 2 RD
+7 3 ST
+4 7 UK
+0 8 WR
+0 9 FR
+9 2 EX
+3 9 RF
+9 6 ST
+9 8 WR
+0 10 UK
+11 2 RD
+3 11 RF
+6 11 RF
+11 8 WR
+9 11 UK
+

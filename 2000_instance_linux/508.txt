@@ -1,0 +1,30 @@
+10
+MP*-nl
+MF-2017.pl
+TF-robots.txt
+MP*-uname
+TP*-ifconfig
+SF-f.r
+SF-robots.txt
+MP*-pr
+MF-flag4.txt
+MP-cat
+17
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 WR
+0 4 IJ
+4 1 WR
+4 2 WR
+0 5 CD
+4 5 WR
+0 6 RD
+4 6 WR
+0 7 FR
+7 1 EX
+7 2 RD
+4 7 UK
+0 8 WR
+0 9 UK
+

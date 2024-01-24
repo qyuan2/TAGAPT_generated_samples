@@ -1,0 +1,35 @@
+10
+MP*-EvaPKO
+MP*-Outflank-Dumpert.exe
+SF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\LogTransport2.exe
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+SF-C:\Users\admin\AppData\Local\Temp\ma
+SF-C:\Users\admin\AppData\Local\Temp\tb.png
+MF-1.doc
+MP*-MpCmdRun.exe
+MF-C:\Users\admin\Desktop\Paradox RAT\Updater.exe
+MP*-nltest.exe
+22
+0 1 FR
+0 2 WR
+1 2 WR
+3 0 RF
+3 1 RF
+0 4 RD
+1 4 WR
+0 5 UK
+1 6 EX
+1 7 FR
+7 2 WR
+7 3 ST
+7 4 WR
+7 6 WR
+1 8 WR
+7 8 WR
+1 9 FR
+9 2 WR
+9 3 ST
+9 4 RD
+9 6 RD
+7 9 UK
+

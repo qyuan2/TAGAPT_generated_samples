@@ -1,0 +1,71 @@
+18
+MP*-bash 
+TP*-tail
+MF-e2.c
+MP-cat
+MF-d.c
+MF-victim-shred.txt
+MF-secret.c
+SO-192.168.159.128
+SO-192.168.159.128
+MP-nl
+MP-awk
+MF-settings.php
+MP*-nl
+SF-etc.tar.gz
+MP*-awk
+MP-python3
+MF-www.google.c
+TF-cron.m
+50
+0 1 FR
+0 2 EX
+1 2 WR
+0 3 FR
+1 3 IJ
+3 2 WR
+0 4 WR
+1 4 WR
+3 4 RD
+0 5 WR
+1 5 WR
+3 5 WR
+0 6 RD
+1 6 EX
+3 6 RD
+0 7 ST
+7 1 RF
+3 7 ST
+0 8 ST
+1 8 ST
+8 3 RF
+0 9 FR
+1 9 IJ
+9 2 WR
+3 9 UK
+0 10 UK
+1 11 RD
+12 2 EX
+12 4 RD
+12 5 WR
+12 6 WR
+12 7 ST
+12 8 ST
+12 11 EX
+12 13 EX
+14 4 RD
+14 5 WR
+14 6 RD
+7 14 RF
+14 8 ST
+14 11 EX
+14 13 RD
+15 5 EX
+15 6 WR
+15 7 ST
+15 8 ST
+15 11 EX
+12 15 UK
+14 16 EX
+14 17 UK
+

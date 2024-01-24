@@ -1,0 +1,195 @@
+48
+MP*-bash
+TP-awk
+MF-subprocess.c
+SF-at.a
+MP-more
+MF-logrotate.c
+SF-art.sh
+MF-data.zip
+TP-cat
+MP-sed
+MF-Discovery.sh
+MF-te.c
+MF-cron.a
+MF-T1070.006-reference.txt
+MP*-cat
+MF-LinEnum.sh
+TP-bash
+TP*-cat
+TF-os.exe
+MF-atomic.log
+MF-Users.tar.gz
+MF-alertConfigField.php
+MF-1.txt
+MF-raft-medium-directories.txt
+MF-rc.common file
+MP-dd
+MF-alertConfigField.php
+SF-victim-shred.txt
+MP-clang
+SF-cron.m
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP*-tail
+MF-2017.pl
+TF-CleaingScript.sh
+MP-cat
+TF-os.sys
+SF-test.txt
+MP-rev
+MF-LinEnum.sh
+TP-php
+TF-td.c
+MF-Users.tar.gz
+MF-v.c
+MF-secret.c
+MF-raft-large-directories.txt
+MP-finger
+TP-vi
+MP-uname
+144
+0 1 FR
+0 2 EX
+1 2 WR
+0 3 WR
+1 3 WR
+0 4 FR
+1 4 IJ
+4 2 WR
+4 3 WR
+0 5 WR
+1 5 RD
+4 5 WR
+0 6 EX
+1 6 WR
+4 6 RD
+0 7 EX
+1 7 RD
+4 7 RD
+0 8 FR
+1 8 UK
+0 9 FR
+9 2 WR
+9 3 UK
+0 10 WR
+4 10 WR
+4 11 WR
+4 12 WR
+4 13 WR
+4 14 FR
+14 5 RD
+14 6 WR
+14 7 RD
+14 10 EX
+14 11 WR
+14 12 WR
+14 13 EX
+14 15 WR
+16 6 RD
+16 7 WR
+16 10 WR
+16 11 EX
+16 12 RD
+16 13 RD
+14 16 IJ
+16 15 WR
+17 7 WR
+17 10 WR
+17 11 CD
+17 12 EX
+17 13 RD
+14 17 IJ
+17 15 WR
+16 17 IJ
+14 18 WR
+16 18 WR
+17 18 WR
+16 19 WR
+17 19 WR
+16 20 WR
+17 20 WR
+16 21 RD
+17 21 WR
+16 22 WR
+17 22 WR
+16 23 WR
+17 23 WR
+16 24 WR
+17 24 WR
+16 25 FR
+17 25 IJ
+25 18 WR
+25 19 WR
+25 20 WR
+25 21 RD
+25 22 RD
+25 23 WR
+25 24 WR
+17 26 RD
+25 26 RD
+25 27 RD
+28 19 WR
+28 20 RD
+28 21 RD
+28 22 WR
+28 23 RD
+28 24 WR
+28 26 WR
+28 27 WR
+25 29 CD
+28 29 WR
+30 25 RF
+30 28 RF
+31 22 RD
+31 23 RD
+31 24 RD
+31 26 WR
+31 27 WR
+31 29 WR
+30 31 RF
+25 32 WR
+28 32 RD
+31 32 RD
+25 33 UK
+34 26 WR
+34 27 WR
+28 34 UK
+31 35 RD
+31 36 WR
+37 29 WR
+37 30 ST
+37 32 WR
+37 35 EX
+37 36 WR
+31 38 EX
+37 38 RD
+39 30 ST
+31 39 IJ
+39 32 RD
+39 35 RD
+39 36 WR
+37 39 IJ
+39 38 CD
+31 40 WR
+37 40 RD
+39 40 RD
+31 41 RD
+37 41 RD
+39 41 WR
+37 42 RD
+39 42 WR
+37 43 RD
+39 43 WR
+37 44 RD
+39 44 WR
+45 35 WR
+45 36 WR
+45 38 WR
+39 45 UK
+46 36 RD
+37 46 UK
+47 38 WR
+47 40 RD
+47 41 EX
+47 42 UK
+

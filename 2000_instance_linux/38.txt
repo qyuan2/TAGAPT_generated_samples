@@ -1,0 +1,87 @@
+24
+MP*-bash
+SO-http://192.168.10.128/shell.cgi
+SF-httpd.c
+MP-uname
+MF-settings.php
+MF-Users.tar.gz
+SF-at.a
+SF-CleaingScript.sh
+MP-ip
+SO-http://192.168.10.128/shell.cgi
+MP-sudo
+MP*-sudo
+MP*-sed
+MP-ps
+MP-bash 
+MP*-sudo
+MF-os.exe
+SF-d.c
+TP-sed
+TF-ufw.c
+MF-access.txt
+TF-T1070.006-modification.txt
+MF-LinEnum.sh
+MP-teehee
+60
+0 1 ST
+0 2 RD
+0 3 FR
+3 1 ST
+3 2 WR
+0 4 WR
+3 4 WR
+0 5 RD
+3 5 WR
+0 6 RD
+3 6 WR
+0 7 WR
+3 7 WR
+0 8 UK
+9 3 RF
+10 1 ST
+10 2 WR
+3 10 UK
+11 1 ST
+11 2 WR
+11 4 RD
+11 5 WR
+11 6 EX
+11 7 WR
+9 11 RF
+12 2 RD
+12 4 WR
+12 5 WR
+12 6 RD
+12 7 WR
+12 9 ST
+13 4 RD
+13 5 EX
+13 6 WR
+13 7 WR
+9 13 RF
+14 4 RD
+14 5 RD
+14 6 WR
+14 7 WR
+9 14 RF
+12 14 UK
+15 5 CD
+15 6 WR
+15 7 WR
+9 15 RF
+11 16 WR
+13 16 RD
+15 16 WR
+11 17 WR
+13 17 WR
+15 17 WR
+18 9 ST
+11 18 UK
+15 19 WR
+15 20 CD
+15 21 RD
+15 22 WR
+15 23 FR
+23 16 UK
+

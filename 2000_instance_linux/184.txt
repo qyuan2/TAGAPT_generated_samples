@@ -1,0 +1,72 @@
+24
+MP*-tr
+SO-192.168.2.102
+TP-more
+MP-awk
+MP-cat
+MP-ssh
+MP-whoami
+TP*-sudo
+TF-Discovery.sh
+MP-bash
+MP-cat
+MP*-pr
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+SF-LinEnum.sh
+MP-tac
+SF-httpd.c
+MF-sysctl.c
+MP-vim
+TP*-cat
+TF-inetd.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+TF-at.a
+MP-bash
+MP-rsync
+45
+0 1 ST
+0 2 FR
+1 2 RF
+0 3 UK
+4 1 ST
+2 4 UK
+1 5 RF
+1 6 RF
+5 6 UK
+1 7 RF
+7 8 WR
+1 9 RF
+7 9 IJ
+9 8 WR
+10 1 ST
+7 10 IJ
+10 8 CD
+9 10 UK
+11 1 ST
+7 11 IJ
+11 8 RD
+7 12 ST
+11 12 ST
+7 13 WR
+11 13 WR
+7 14 FR
+14 8 RD
+11 14 UK
+7 15 EX
+7 16 WR
+7 17 FR
+17 8 UK
+18 12 ST
+18 13 RD
+18 15 RD
+18 16 WR
+18 19 WR
+18 20 ST
+18 21 EX
+22 12 ST
+22 13 RD
+22 15 UK
+23 13 EX
+23 16 EX
+18 23 UK
+

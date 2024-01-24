@@ -1,0 +1,98 @@
+26
+MP*-less
+MF-lighttp.c
+MP-python
+TP*-cat
+MF-v.c
+SF-common.txt
+MF-access.txt
+MF-raw.githubusercontent.c
+MP-ifconfig
+MP-dmesg
+TP-more
+MP*-paste
+SO-192.168.206.136
+TP-cat
+MF-chttp.c
+TP-echo
+SO-192.168.10.135
+MF-1.zip
+MP*-bash 
+MF-rockyou.txt
+TF-shell.cgi
+MF-lighttp.c
+MP-cat
+MP-uname
+SF-settings.php
+TP-nl
+69
+0 1 EX
+0 2 FR
+2 1 RD
+0 3 IJ
+3 1 EX
+2 3 IJ
+0 4 RD
+2 4 WR
+3 4 RD
+0 5 WR
+2 5 RD
+3 5 WR
+0 6 CD
+2 6 WR
+3 6 WR
+0 7 RD
+2 7 RD
+3 7 WR
+0 8 FR
+8 1 WR
+2 8 UK
+0 9 FR
+9 1 RD
+3 9 IJ
+9 4 EX
+9 5 EX
+9 6 WR
+9 7 UK
+0 10 FR
+10 1 WR
+3 10 UK
+11 1 WR
+11 4 WR
+11 5 WR
+11 6 WR
+11 12 ST
+13 4 RD
+13 5 RD
+13 6 RD
+11 13 IJ
+13 12 ST
+11 14 WR
+13 14 WR
+15 5 WR
+15 6 EX
+11 15 UK
+13 16 ST
+13 17 UK
+18 12 ST
+18 14 CD
+18 16 ST
+18 19 WR
+18 20 WR
+18 21 EX
+12 22 RF
+22 14 WR
+22 16 ST
+18 22 UK
+23 14 EX
+16 23 RF
+23 19 CD
+23 20 EX
+23 21 RD
+23 24 WR
+16 25 RF
+25 19 RD
+25 20 RD
+25 21 EX
+23 25 UK
+

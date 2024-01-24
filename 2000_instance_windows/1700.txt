@@ -1,0 +1,64 @@
+18
+MP*-OUTLOOK.EXE 
+SF-C:\Windows\hh.exe
+SF-C:\Users\admin\AppData\Local\Temp\CE5F.exe
+MF-C:\Users\admin\AppData\Local\Temp\92132ec45279423b79399f74c5dc0a6d1009261c0dfefad17523e53e9ff8ae15.exe
+TP-main_bin.exe 
+SF-C:\Users\admin\AppData\Roaming\StackTrace\Entry
+TP-TruffleSnout.exe
+MF-files\8527.ico.vb
+MP*-Powershell.exe
+MF-097.90.zip
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+MF-\Users\admin\AppData\Roaming\yonr\yonr.exe
+MP-ns958E.tmp 
+TP*-cronos.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmpA5B6.tmp
+TF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d
+SF-%temp%\Windows_Defender_Cache_Maintenance.xml
+MP*-MsiExec.exe
+43
+0 1 WR
+0 2 RD
+0 3 WR
+0 4 IJ
+4 1 RD
+4 2 WR
+4 3 WR
+0 5 WR
+4 5 WR
+0 6 IJ
+6 1 WR
+6 2 RD
+6 3 WR
+4 6 IJ
+6 5 WR
+4 7 RD
+6 7 EX
+8 1 WR
+8 2 UK
+4 9 WR
+6 9 RD
+4 10 ST
+10 6 RF
+4 11 RD
+6 11 WR
+12 3 WR
+4 12 UK
+13 5 WR
+6 13 IJ
+13 7 WR
+13 9 WR
+10 13 RF
+13 11 RD
+6 14 CD
+13 14 WR
+6 15 RD
+13 15 WR
+13 16 WR
+17 7 WR
+17 9 WR
+17 10 ST
+17 11 RD
+13 17 UK
+

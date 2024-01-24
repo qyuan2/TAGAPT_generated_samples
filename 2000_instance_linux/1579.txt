@@ -1,0 +1,73 @@
+22
+MP*-awk
+TP-cat
+MF-test.txt
+MF-cron.h
+MF-image.php
+MP-cat
+MP-cat
+MF-access.htm
+MP*-sudo
+TP*-wpscan
+MP*-touch
+MP-dd
+MP-pr
+MP-ip
+MF-CleaingScript.sh
+MF-password-hash.sh
+TF-T1027-004-test.c
+MP-cp
+MP-hostname
+MF-ron.a
+MP-echo 
+MP-uname
+48
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 UK
+1 4 WR
+1 5 FR
+5 2 EX
+5 4 RD
+1 6 IJ
+6 2 EX
+6 4 WR
+5 6 UK
+1 7 WR
+1 8 FR
+8 2 CD
+8 4 WR
+8 7 WR
+1 9 FR
+9 2 EX
+9 4 WR
+9 7 RD
+8 9 IJ
+1 10 IJ
+10 2 EX
+10 4 WR
+10 7 WR
+8 10 UK
+1 11 IJ
+11 2 EX
+11 4 WR
+11 7 UK
+12 2 UK
+13 4 RD
+9 13 IJ
+9 14 EX
+13 14 EX
+9 15 RD
+13 15 WR
+9 16 RD
+13 16 WR
+9 17 UK
+13 18 FR
+18 14 WR
+18 15 UK
+13 19 EX
+13 20 UK
+21 14 WR
+21 16 UK
+

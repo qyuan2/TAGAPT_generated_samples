@@ -1,0 +1,41 @@
+12
+MP*-uname
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP*-teehee
+SF-backsup.sh
+TP-cat
+MP*-systemd
+SF-etc.tar.gz
+MF-victim-gzip.txt
+SF-inetd.c
+TP*-less
+SF-LinEnum.sh
+MP-bash
+26
+0 1 ST
+0 2 FR
+2 1 ST
+0 3 WR
+2 3 RD
+0 4 IJ
+1 4 RF
+2 4 UK
+0 5 FR
+5 1 ST
+5 3 RD
+0 6 RD
+5 6 WR
+0 7 RD
+5 7 WR
+0 8 EX
+5 8 WR
+0 9 FR
+1 9 RF
+9 3 RD
+5 9 IJ
+9 6 UK
+0 10 WR
+5 10 EX
+11 3 WR
+5 11 UK
+

@@ -1,0 +1,53 @@
+16
+MP*-less
+MP*-paste
+MF-ufw.c
+TP-wget
+MP-uname
+SF-v.c
+MP*-cat
+MP-less
+MF-password-hash.sh
+SF-passwd.zip
+TP-teehee
+MP*-sed
+SF-atomic.log
+TF-parm.txt
+MF-raft-large-directories.txt
+MP-uname
+34
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 IJ
+1 3 IJ
+3 2 WR
+0 4 FR
+1 4 UK
+0 5 WR
+3 5 WR
+0 6 FR
+6 2 CD
+3 6 IJ
+6 5 RD
+0 7 FR
+7 2 RD
+3 7 UK
+0 8 WR
+6 8 WR
+6 9 RD
+10 2 WR
+10 5 RD
+6 10 IJ
+10 8 CD
+10 9 RD
+11 2 RD
+11 5 EX
+6 11 UK
+10 12 WR
+10 13 RD
+10 14 EX
+15 8 WR
+15 9 WR
+10 15 UK
+

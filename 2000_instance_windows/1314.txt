@@ -1,0 +1,68 @@
+19
+MP*-TrustedInstaller.exe
+MF-C:\Users\admin\Desktop\x86\ProcessHacker.exe
+MF-C:\Users\admin\Desktop\Default_File_Path.ps1
+MF-\Users\admin\AppData\Local\Temp\BLOCKED-MAILS.doc
+MP-MicrosoftEdgeUpdate.exe
+SF-C:\Users\admin\AppData\Local\Temp\C3B1.exe
+SF-C:\Users\Public\d2xc185.vb
+MP-PDQDeployConsole.exe
+TP*-AcroRd32.exe 
+MF-C:\ServerComponenthostNet\y8AbEfIUrNeOped31GfZIB6Fx
+MP-UninsHs.exe
+MF-C:\Users\admin\Desktop\VN
+SF-C:\Users\admin\AppData\Local\Temp\Spora.exe
+TP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+MP-server.exe 
+MP-Psiphon.exe
+TP*-Pago fra.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MP-file.exe 
+46
+0 1 RD
+0 2 RD
+0 3 WR
+0 4 FR
+4 1 WR
+4 2 RD
+4 3 WR
+0 5 WR
+4 5 WR
+0 6 WR
+4 6 WR
+0 7 UK
+8 1 WR
+8 2 WR
+8 3 WR
+4 8 IJ
+8 5 WR
+8 6 EX
+4 9 RD
+8 9 WR
+10 1 CD
+10 2 RD
+10 3 UK
+4 11 RD
+8 11 EX
+4 12 WR
+8 12 WR
+4 13 IJ
+13 5 RD
+13 6 WR
+8 13 IJ
+13 9 RD
+13 11 WR
+13 12 WR
+4 14 UK
+15 5 WR
+15 6 UK
+8 16 IJ
+16 9 WR
+16 11 WR
+16 12 EX
+13 16 UK
+17 8 RF
+8 18 IJ
+18 9 WR
+18 11 UK
+

@@ -1,0 +1,45 @@
+14
+MP*-less
+MF-alertConfigField.php
+MF-apache2.c
+MF-www.google.c
+MP*-tail
+SF-T1574.006.c
+MF-te.c
+MF-AutoSUID.sh
+SO-192.168.159.128
+TP*-curl
+MF-image.php
+MF-shell.cgi
+TP*-cat
+SF-s.c
+28
+0 1 RD
+0 2 WR
+0 3 CD
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 WR
+0 5 WR
+4 5 WR
+0 6 RD
+4 6 WR
+0 7 WR
+4 7 WR
+8 0 RF
+8 4 RF
+0 9 FR
+9 1 UK
+0 10 WR
+4 10 WR
+4 11 WR
+12 3 EX
+4 12 IJ
+12 5 WR
+12 6 RD
+12 7 WR
+8 12 RF
+12 10 UK
+4 13 RD
+

@@ -1,0 +1,32 @@
+11
+MP*-forfiles.exe
+MF-C:\Users\admin\Desktop\Swift_copy_0019276537783563
+MP*-c3c6a5675d32fe330b83debceb63d60e.exe 
+TP-oneetx.exe
+MF-C:\Windows\system32\SearchFilterHost
+MP*-help.exe
+MP*-ns958E.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\tb.png
+MF-C:\Windows\system32\vssvc
+MF-C:\ServerComponenthostNet\y8AbEfIUrNeOped31GfZIB6Fx.vb
+TF-\d2xc185.vb
+18
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 CD
+2 3 UK
+0 4 WR
+0 5 FR
+5 1 WR
+5 4 RD
+0 6 FR
+6 1 WR
+6 4 RD
+5 6 UK
+0 7 WR
+0 8 WR
+0 9 EX
+0 10 WR
+

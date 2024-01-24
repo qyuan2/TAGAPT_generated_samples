@@ -1,0 +1,203 @@
+55
+MP*-more
+MP-cat
+SO-http://192.168.0.134/passwd
+MP-sed
+MP-cat
+SO-192.168.206.136
+MP-bash
+SO-123.6.44.67
+TP-tac
+MF-resolv.c
+MF-flag4.txt
+MP-head
+MF-common.txt
+SF-image.php
+MP*-cat
+TP-pr
+MP-dd
+SF-art.sh
+MP-cat
+TP-grep
+MP-sudo
+MF-apache2.c
+MP-dd
+MP-less
+MF-echo-art-fish.sh
+MP-cat
+MF-access.txt
+MP-grep
+MP-tail
+MP-iptables
+TP*-more
+MF-echo-art-fish.sh
+SF-password-hash.sh
+TP-uname
+TP-more
+SF-1.zip
+SF-resolv.c
+SO-http://192.168.0.134/passwd
+SO-192.168.159.128
+MF-image.php
+MP-tail
+TF-art.sh
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+SO-192.168.10.130
+TF-www.google.c
+MF-journald.c
+MP-php
+SO-192.168.47.155
+MF-logrotate.c
+TP*-scp
+MF-echo-art-fish.sh
+MP-awk
+MF-T1027-004-test.c
+MP-ls
+MP-systemd
+145
+0 1 FR
+2 0 RF
+1 2 ST
+0 3 FR
+1 3 UK
+0 4 FR
+2 4 RF
+5 0 RF
+4 5 ST
+0 6 FR
+6 2 ST
+5 6 RF
+7 0 RF
+4 7 ST
+6 7 ST
+0 8 FR
+2 8 RF
+4 8 UK
+0 9 WR
+6 9 WR
+0 10 RD
+6 10 UK
+2 11 RF
+5 11 RF
+7 11 RF
+11 9 RD
+11 12 WR
+11 13 RD
+5 14 RF
+7 14 RF
+14 9 RD
+14 12 WR
+14 13 RD
+5 15 RF
+7 15 RF
+15 9 RD
+11 15 UK
+7 16 RF
+16 9 UK
+14 17 WR
+18 12 WR
+18 13 WR
+18 17 EX
+19 12 EX
+19 13 EX
+14 19 IJ
+19 17 RD
+18 19 IJ
+20 12 RD
+20 13 RD
+14 20 UK
+18 21 EX
+19 21 EX
+22 12 WR
+22 13 EX
+22 17 RD
+18 22 UK
+23 13 WR
+23 17 WR
+19 23 IJ
+23 21 WR
+19 24 RD
+23 24 RD
+25 17 CD
+19 25 UK
+23 26 WR
+27 17 WR
+27 21 WR
+23 27 UK
+28 21 WR
+28 24 WR
+28 26 WR
+29 21 WR
+29 24 WR
+29 26 WR
+28 29 UK
+30 21 EX
+30 24 CD
+30 26 WR
+30 31 EX
+30 32 WR
+33 24 WR
+33 26 WR
+34 26 RD
+30 34 IJ
+34 31 WR
+34 32 RD
+30 35 WR
+34 35 RD
+30 36 WR
+34 36 UK
+30 37 ST
+30 38 ST
+30 39 WR
+30 40 FR
+40 31 RD
+40 32 WR
+40 35 RD
+37 40 RF
+40 38 ST
+40 39 WR
+40 41 WR
+40 42 ST
+40 43 ST
+40 44 WR
+40 45 WR
+46 37 ST
+38 46 RF
+46 39 EX
+46 41 RD
+42 46 RF
+43 46 RF
+46 44 RD
+46 45 WR
+47 40 RF
+47 46 RF
+40 48 RD
+46 48 WR
+49 39 WR
+40 49 IJ
+49 41 EX
+42 49 RF
+49 43 ST
+49 44 WR
+49 45 WR
+46 49 IJ
+47 49 RF
+49 48 RD
+40 50 RD
+46 50 WR
+49 50 WR
+51 41 EX
+51 42 ST
+51 43 ST
+51 44 WR
+51 45 UK
+46 52 WR
+49 52 RD
+43 53 RF
+53 44 WR
+46 53 UK
+54 44 WR
+47 54 RF
+54 48 RD
+49 54 UK
+

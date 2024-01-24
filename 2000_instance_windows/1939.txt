@@ -1,0 +1,138 @@
+42
+MP-DllHost.exe 
+MF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2
+MP-RerSpacer710.exe  
+MP-forfiles.exe
+MP-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+MF-C:\Windows\SysWOW64\svchost.exe
+MF-C:\Users\admin\AppData\Local\Temp\JAVA
+MP-WISPTIS.EXE
+TF-EXb2492.33244\5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe
+MP-444444.png.png.exe 
+MP-java.exe
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+SO-https://clients2.google.com/cr/report
+MP*-setup.exe 
+MP-certutil.exe
+MP-vlc.exe
+MF-C:\Users\admin\AppData\Local\Temp\KLSetup.exe
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\Crash
+MF-C:\Windows\System32\runas.exe
+MF-C:\Users\admin\AppData\Roaming\rPYrMQo\dvRzzWRPw
+MF-C:\Users\admin\AppData\Local\Temp\file.exe
+SO-0.0.0.0
+MP-wscript.exe 
+MP*-schtasks.exe
+TF-C:\Users\admin\Desktop\VN
+SF-C:\Users\Public\coinmarketcap\imcq
+TF-\Windows\system32\reg.exe
+SF-C:\Users\admin\AppData\Local\Temp\1.bat
+MF-\art.bat
+MF-\Users\admin\AppData\Local\Temp\86270699bad2681bb3f5f57f44a7094e.exe
+MP*-ns9BE4.tmp
+MF-C:\Users\admin\AppData\Local\Temp\Downloads.zip
+TF-C:\Users\admin\AppData\Local\Temp\tmpB7A8
+MP-Caspol.exe
+TP*-ns9B66.tmp 
+MP-Backstab64.exe
+TP-IBM_LINUX.exe 
+SF-C:\Users\admin\AppData\Local\Temp\EFT
+SF-C:\Users\admin\Desktop\WinAPIOverride
+MF-wscript.exe
+SO-80.0.0.0
+SF-%TEMP%\T1010.exe
+93
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+0 4 UK
+2 5 WR
+3 5 WR
+2 6 WR
+3 6 WR
+7 1 WR
+7 5 WR
+7 6 RD
+2 8 WR
+3 8 UK
+9 1 RD
+2 9 UK
+10 1 RD
+10 5 RD
+10 6 EX
+10 11 ST
+10 12 ST
+13 5 WR
+13 6 WR
+13 11 ST
+13 12 ST
+14 6 RD
+10 14 UK
+15 11 ST
+15 12 ST
+13 16 EX
+15 16 UK
+13 17 WR
+13 18 RD
+13 19 EX
+13 20 WR
+21 13 RF
+13 22 UK
+23 17 RD
+23 18 WR
+23 19 RD
+23 20 WR
+23 21 ST
+23 24 RD
+23 25 WR
+23 26 WR
+23 27 WR
+23 28 RD
+23 29 RD
+30 20 EX
+30 21 ST
+30 24 WR
+30 25 WR
+30 26 WR
+30 27 RD
+30 28 WR
+30 29 WR
+23 31 WR
+30 31 RD
+23 32 WR
+30 32 WR
+23 33 FR
+33 24 RD
+33 25 WR
+33 26 RD
+33 27 UK
+34 24 RD
+34 25 EX
+34 26 WR
+34 28 RD
+34 29 RD
+30 34 IJ
+34 31 RD
+34 32 RD
+35 25 EX
+35 26 EX
+35 28 WR
+35 29 UK
+36 26 WR
+36 28 WR
+30 36 IJ
+36 31 EX
+36 32 WR
+34 36 IJ
+30 37 RD
+34 37 UK
+30 38 CD
+36 38 CD
+30 39 RD
+36 39 WR
+40 30 RF
+36 40 ST
+36 41 UK
+

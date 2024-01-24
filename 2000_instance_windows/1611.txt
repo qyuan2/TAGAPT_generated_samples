@@ -1,0 +1,61 @@
+17
+MP*-expo.exe
+MF-C:\Windows\system32\reg
+MP-CareUEyes.exe
+TP-EF98.exe
+SF-C:\Users\admin\Desktop\UIrvVa6de
+MF-C:\Users\admin\AppData\Roaming\skmt-bankinter-003-03588993232059560257100458.jar
+TP*-CasPol.exe
+MF-tmp\ReadMe.m
+MP-nmap.exe
+MF-PathToAtomicsFolder\..\ExternalPayloads\nimgrab.exe
+MP*-cmdkey.exe
+MP*-ma grosse bite.exe 
+TP-winhost.exe
+TP-ntvdm.exe
+SF-C:\Users\admin\AppData\Local\Temp\bltf
+MF-\Windows\system32\SearchProtocolHost.exe
+TP-T1027.exe
+41
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 IJ
+3 1 RD
+2 3 UK
+0 4 WR
+0 5 RD
+0 6 IJ
+6 1 RD
+6 4 RD
+6 5 WR
+0 7 WR
+6 7 WR
+0 8 FR
+8 1 WR
+8 4 WR
+8 5 WR
+6 8 UK
+0 9 RD
+0 10 FR
+10 1 EX
+10 4 RD
+10 5 RD
+10 7 RD
+10 9 RD
+11 1 RD
+11 4 WR
+11 5 WR
+11 7 WR
+11 9 WR
+10 11 UK
+12 4 UK
+13 5 WR
+13 7 WR
+13 9 RD
+13 14 RD
+13 15 WR
+16 7 WR
+16 9 WR
+13 16 UK
+

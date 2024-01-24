@@ -1,0 +1,49 @@
+17
+MP*-bash
+MF-chttp.c
+MF-cron.m
+MP-less
+SF-echo-art-fish.sh
+MP-cat
+MF-flag3.txt
+TP*-cat
+MP-head
+MF-linux.txt
+MP*-nmap
+MF-T1070.004-test.txt
+TF-he2.c
+MP*-sudo
+MF-logrotate.c
+TP-find
+MF-victim-shred.txt
+29
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 UK
+0 4 EX
+0 5 FR
+5 2 RD
+5 4 UK
+0 6 RD
+0 7 FR
+7 2 EX
+7 6 WR
+0 8 UK
+7 9 WR
+10 2 RD
+10 6 WR
+7 10 IJ
+10 9 WR
+7 11 UK
+10 12 WR
+13 6 WR
+13 9 WR
+13 12 RD
+10 14 EX
+13 14 RD
+15 6 WR
+15 9 EX
+10 15 UK
+13 16 UK
+

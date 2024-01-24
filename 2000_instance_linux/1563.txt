@@ -1,0 +1,57 @@
+15
+MP*-sed
+MP-cat
+MF-LinEnum.sh
+MP*-ifconfig
+MP-chmod 
+SF-lighttpd.c
+TF-alertConfigField.php
+TF-password-hash.sh
+MF-www.google.c
+MF-http.c
+MF-target.example.c
+SO-192.168.206.0
+MP-cat
+MP*-ip
+MP*-dd
+39
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+3 2 RD
+0 4 FR
+1 4 UK
+0 5 WR
+3 5 RD
+0 6 EX
+3 6 WR
+0 7 RD
+3 7 WR
+0 8 RD
+3 8 RD
+0 9 WR
+3 9 WR
+3 10 RD
+3 11 ST
+3 12 FR
+12 5 RD
+12 6 WR
+12 7 WR
+12 8 WR
+12 9 WR
+12 10 EX
+12 11 ST
+13 5 WR
+13 6 WR
+13 7 WR
+13 8 RD
+13 9 RD
+13 10 RD
+13 11 ST
+12 13 UK
+14 5 WR
+14 6 WR
+14 7 WR
+14 8 UK
+

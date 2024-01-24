@@ -1,0 +1,29 @@
+11
+MP*-awk
+SO-8.8.8.8
+MP*-sudo
+MP*-tee
+MP-cat
+TF-te.c
+MP-paste
+SF-Users.tar.gz
+MF-log.c
+SF-robots.txt
+MP*-cat
+15
+1 0 RF
+0 2 FR
+2 1 ST
+0 3 FR
+3 1 ST
+0 4 UK
+2 5 WR
+3 5 WR
+1 6 RF
+3 6 UK
+2 7 WR
+2 8 WR
+2 9 RD
+10 1 ST
+2 10 UK
+

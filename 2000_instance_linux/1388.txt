@@ -1,0 +1,46 @@
+14
+MP*-grep
+TP-uname
+TP-cat
+MP*-nl
+SO-192.168.0.134
+MF-/etc/sudoers file
+MF-f.r
+MP-less
+MP*-cat
+SO-192.168.37.130
+MP-cat
+MP*-cat
+MF-1.txt
+MP-bash
+29
+0 1 IJ
+0 2 IJ
+1 2 UK
+0 3 FR
+0 4 ST
+4 3 RF
+0 5 CD
+3 5 EX
+0 6 RD
+3 6 WR
+0 7 FR
+3 7 UK
+0 8 FR
+8 4 ST
+8 5 RD
+8 6 WR
+9 0 RF
+8 9 ST
+0 10 FR
+10 4 ST
+10 5 UK
+4 11 RF
+11 6 WR
+11 9 ST
+8 12 WR
+11 12 UK
+4 13 RF
+13 6 WR
+8 13 UK
+

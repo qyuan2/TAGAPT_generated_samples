@@ -1,0 +1,35 @@
+12
+MP*-netstat
+MF-d.c
+MF-ufw.log
+MP-uname
+MF-AutoSUID.sh
+TP-cat
+MP*-netstat
+MP*-awk
+MF-raw.githubusercontent.c
+MF-password-hash.sh
+MP*-find
+TP-bash
+20
+0 1 RD
+0 2 CD
+0 3 FR
+3 1 CD
+3 2 CD
+0 4 WR
+3 4 WR
+0 5 UK
+6 1 CD
+6 2 UK
+7 1 WR
+7 4 EX
+3 8 EX
+7 8 RD
+3 9 WR
+7 9 WR
+10 1 WR
+3 10 UK
+11 4 RD
+7 11 UK
+

@@ -1,0 +1,95 @@
+26
+MP*-nsD0E9.tmp
+MP-n4054738.exe
+TP-CompPkgSrv.exe
+MP*-msbuild.exe
+MF-\Users\admin\AppData\Local\Temp\RtkBtManServ.exe
+TP-ping.exe
+SF-C:\Users\admin\AppData\Local\Temp\Host
+MF-C:\Users\admin\AppData\Local\Temp\tmp8D33.tmp
+MP-chrome.exe 
+MP-cipher.exe
+MP-winhost.exe
+TF-\Users\admin\AppData\Local\Temp\06ad76f4b19be8706f98441d926142af824bd2983217f6c2c02201dbb07d0224.zip
+MF-C:\Windows\System32\Notepad
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MF-PLAZMA.htm
+MP*-Ayuaey.exe 
+TP*-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_11072023_4555438639_from
+SF-C:\Users\admin\AppData\Local\Temp\tmp4503
+TF-C:\Program Files\Windows Photo Viewer\PhotoViewer
+SF-C:\Users\admin\AppData\Local\Temp\is-4LLB1.tmp
+MF-C:\Users\admin\AppData\Local\Temp\pd5od
+TP-Fastfoood.exe
+MF-C:\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost.exe
+TP-nmap.exe
+66
+0 1 FR
+0 2 IJ
+1 2 UK
+0 3 FR
+0 4 EX
+3 4 WR
+0 5 IJ
+3 5 IJ
+5 4 EX
+0 6 WR
+3 6 RD
+5 6 WR
+0 7 EX
+3 7 RD
+5 7 WR
+0 8 FR
+3 8 UK
+0 9 FR
+9 4 WR
+5 9 IJ
+9 6 RD
+9 7 WR
+0 10 FR
+10 4 WR
+5 10 IJ
+10 6 WR
+10 7 EX
+9 10 UK
+5 11 RD
+5 12 WR
+5 13 WR
+14 5 RF
+5 15 RD
+16 6 RD
+16 7 EX
+16 11 WR
+16 12 WR
+16 13 WR
+14 16 RF
+16 15 WR
+17 7 RD
+17 11 WR
+17 12 WR
+17 13 RD
+14 17 RF
+17 15 EX
+16 17 IJ
+16 18 WR
+17 18 RD
+16 19 WR
+17 19 WR
+16 20 RD
+17 20 RD
+16 21 WR
+17 21 UK
+16 22 WR
+23 13 WR
+14 23 RF
+23 15 WR
+16 23 IJ
+23 18 WR
+23 19 UK
+16 24 EX
+25 15 WR
+16 25 IJ
+25 18 UK
+

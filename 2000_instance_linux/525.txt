@@ -1,0 +1,51 @@
+13
+MP*-sed
+MF-pwquality.c
+MP*-cat
+MF-os.exe
+SF-ttpd.c
+MP*-grep
+MP*-more
+MP-find
+SF-image.php
+MF-cron.h
+MF-etc.tar.gz
+TF-T1003.008.txt
+MP-tee
+35
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 RD
+2 3 WR
+0 4 WR
+2 4 RD
+0 5 FR
+5 1 RD
+5 3 WR
+5 4 EX
+0 6 FR
+6 1 RD
+6 3 CD
+6 4 EX
+0 7 FR
+7 1 EX
+7 3 EX
+7 4 WR
+6 7 UK
+0 8 WR
+2 8 WR
+5 8 WR
+0 9 WR
+2 9 WR
+5 9 EX
+0 10 WR
+2 10 WR
+5 10 WR
+2 11 WR
+5 11 WR
+2 12 FR
+12 3 RD
+12 4 WR
+5 12 UK
+

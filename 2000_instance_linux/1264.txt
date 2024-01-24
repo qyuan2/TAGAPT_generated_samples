@@ -1,0 +1,114 @@
+30
+MP*-find
+SO-192.168.206.137
+MP-ls
+SF-secret.c
+SF-resolv.c
+MP-ls
+SF-robots.txt
+MP-vi
+TF-os.exe
+MF-at.a
+MP*-cat
+SO-192.168.206.136
+MF-alertConfigField.php
+SO-123.6.44.67
+MP*-cat
+MP-sed
+MF-e2.c
+TF-T1027-004-test.c
+MF-s.c
+MF-te.c
+TF-data.zip
+MF-user.r
+TF-e2.c
+MF-pd.c
+MF-alertConfigField.php
+MP-sh
+MP*-cat
+MP-netstat
+MP-ifconfig
+MP-sed
+81
+1 0 RF
+0 2 FR
+2 1 ST
+0 3 WR
+2 3 RD
+0 4 UK
+5 1 ST
+5 3 WR
+2 6 WR
+5 6 RD
+1 7 RF
+7 3 EX
+5 7 UK
+2 8 WR
+2 9 WR
+1 10 RF
+10 3 RD
+10 6 RD
+10 8 WR
+10 9 EX
+2 11 ST
+11 10 RF
+2 12 RD
+10 12 WR
+13 10 RF
+14 6 WR
+14 8 WR
+14 9 RD
+11 14 RF
+14 12 WR
+13 14 RF
+15 6 WR
+15 8 WR
+15 9 WR
+10 15 UK
+14 16 WR
+14 17 RD
+14 18 WR
+14 19 RD
+14 20 WR
+14 21 WR
+14 22 EX
+14 23 RD
+14 24 WR
+25 16 WR
+25 17 EX
+25 18 RD
+25 19 WR
+25 20 RD
+25 21 WR
+25 22 RD
+25 23 WR
+25 24 WR
+26 16 RD
+26 17 WR
+26 18 CD
+26 19 WR
+26 20 EX
+26 21 EX
+26 22 CD
+26 23 WR
+26 24 WR
+27 17 WR
+27 18 EX
+27 19 WR
+27 20 RD
+27 21 RD
+27 22 WR
+27 23 WR
+27 24 WR
+25 27 UK
+28 19 RD
+28 20 RD
+28 21 WR
+28 22 WR
+28 23 WR
+28 24 RD
+26 28 UK
+29 20 EX
+29 21 RD
+29 22 UK
+

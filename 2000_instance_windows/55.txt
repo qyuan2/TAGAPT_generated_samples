@@ -1,0 +1,44 @@
+13
+MP*-appcmd.exe
+SO-http://gc2siv9geletsu4.orgweave.com/bXRpQG10aS5odQ
+MP*-where.exe
+SF-C:\Windows\System32\rundll32
+MP*-CCleanerBugReport.exe
+TP-vlliugwu.exe 
+MP-anydesk.exe
+MF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv.bat
+MF-C:\Users\admin\AppData\Local\Temp\buidl
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+TF-C:\Users\admin\AppData\Local\Temp\tb
+MP-PsExec.exe
+MP*-file.exe
+28
+1 0 RF
+0 2 FR
+2 1 ST
+0 3 WR
+2 3 RD
+0 4 FR
+4 1 ST
+4 3 WR
+0 5 IJ
+1 5 RF
+2 5 IJ
+5 3 WR
+4 5 IJ
+0 6 FR
+1 6 RF
+2 6 UK
+4 7 EX
+5 7 CD
+4 8 RD
+5 8 RD
+4 9 ST
+9 5 RF
+4 10 EX
+5 10 EX
+11 3 RD
+4 11 UK
+12 3 RD
+5 12 UK
+

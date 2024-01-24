@@ -1,0 +1,105 @@
+28
+MP-bash
+MP-netstat
+MP-tac
+MF-http.c
+MF-raft-large-directories.txt
+MP-cat
+MP-test
+MP*-cat
+MF-os.exe
+TP-ftp
+TP-sed
+TP-nl
+MP*-awk
+MF-cron.m
+MP-cat
+MF-kl.ps1
+MP-sudo
+TP*-dd
+MF-victim-shred.txt
+MP-sudo
+TP-grep
+TP*-vim
+MF-chttp.c
+MF-T1070.006-reference.txt
+MF-s.c
+MF-LinEnum.sh
+TP-ls
+MP-awk
+74
+0 1 FR
+0 2 UK
+1 3 WR
+1 4 WR
+1 5 FR
+5 3 WR
+5 4 RD
+1 6 FR
+6 3 WR
+6 4 WR
+5 6 UK
+1 7 FR
+7 3 RD
+7 4 RD
+1 8 WR
+7 8 WR
+1 9 FR
+9 3 UK
+1 10 IJ
+10 4 WR
+7 10 IJ
+10 8 WR
+1 11 IJ
+11 4 WR
+7 11 IJ
+11 8 WR
+10 11 UK
+12 4 WR
+12 8 CD
+7 13 WR
+12 13 WR
+14 4 EX
+14 8 UK
+7 15 RD
+12 15 WR
+7 16 UK
+12 17 FR
+17 13 CD
+17 15 EX
+12 18 WR
+17 18 WR
+12 19 FR
+19 13 EX
+19 15 WR
+17 19 IJ
+19 18 WR
+12 20 IJ
+20 13 RD
+20 15 WR
+17 20 IJ
+20 18 RD
+19 20 UK
+12 21 FR
+21 13 WR
+21 15 WR
+17 21 IJ
+21 18 WR
+12 22 WR
+17 22 WR
+21 22 WR
+17 23 RD
+21 23 WR
+17 24 WR
+21 24 EX
+17 25 WR
+21 25 WR
+17 26 IJ
+26 18 WR
+21 26 UK
+17 27 IJ
+27 18 WR
+27 22 RD
+27 23 WR
+27 24 UK
+

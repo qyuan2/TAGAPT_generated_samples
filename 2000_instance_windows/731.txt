@@ -1,0 +1,73 @@
+23
+MP*-DllHost.exe 
+MP-pktmon.exe
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+MP-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+MP-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+MP*-nscB9BA.tmp
+SF-C:\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe
+MF-%TEMP%\T1010.exe .\T1010\src\T1010.cs
+MF-C:\Users\admin\AppData\Local\Temp\ap
+MF-\Windows\System32\runas.exe
+MP-WMIC.exe
+MF-C:\Users\admin\AppData\Local\Temp\keygen
+MP*-auditpol.exe
+TP*-pypykatz.py
+TP-wscript.exe 
+MF-\Windows\System32\WScript.exe
+MF-%temp%\service
+MP-AnyDesk-a444ebcf.exe 
+MP-malware.exe 
+MP-default-browser-agent.exe
+MF-\Atomic-license.txt
+TF-\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_state.exe
+MP-system_file.exe 
+47
+0 1 FR
+0 2 ST
+1 2 ST
+0 3 FR
+1 3 UK
+0 4 FR
+2 4 RF
+0 5 FR
+5 2 ST
+4 5 UK
+0 6 WR
+0 7 EX
+0 8 WR
+0 9 WR
+0 10 FR
+2 10 RF
+10 6 RD
+10 7 EX
+10 8 EX
+10 9 CD
+10 11 EX
+12 2 ST
+12 6 WR
+12 7 WR
+12 8 WR
+12 9 EX
+12 11 WR
+13 6 WR
+13 7 EX
+13 8 RD
+13 9 WR
+10 13 UK
+14 6 UK
+12 15 RD
+12 16 WR
+17 8 WR
+17 9 UK
+18 11 RD
+12 18 UK
+19 11 EX
+19 15 EX
+19 16 RD
+19 20 WR
+19 21 WR
+22 15 WR
+22 16 WR
+19 22 UK
+

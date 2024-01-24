@@ -1,0 +1,56 @@
+16
+MP*-cat
+TP*-netstat
+TF-settings.php
+MF-alertConfigField.php
+TF-logrotate.c
+TP-sed
+MF-da-ks.cfg
+SF-LinEnum.sh
+MP-dd
+MP*-cat
+MF-journald.c
+MF-data.zip
+SF-T1070.004-test.txt
+MP-nl
+SF-CleaingScript.sh
+TP*-bash
+37
+0 1 IJ
+0 2 WR
+1 2 WR
+0 3 WR
+1 3 RD
+0 4 WR
+1 4 RD
+0 5 IJ
+1 5 IJ
+5 2 WR
+5 3 RD
+5 4 WR
+0 6 RD
+1 6 WR
+5 6 CD
+0 7 RD
+1 7 WR
+5 7 WR
+0 8 FR
+1 8 UK
+0 9 FR
+9 2 WR
+9 3 EX
+9 4 WR
+5 9 IJ
+9 6 EX
+9 7 EX
+0 10 WR
+5 10 WR
+9 10 EX
+5 11 UK
+9 12 RD
+13 4 UK
+9 14 WR
+15 6 RD
+15 7 RD
+9 15 UK
+

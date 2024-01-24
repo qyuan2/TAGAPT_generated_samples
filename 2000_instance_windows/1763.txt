@@ -1,0 +1,91 @@
+27
+MP*-DCRatBuild.exe
+MF-%tmp%\T1106.exe
+MF-C:\Users\admin\skmt
+TF-\Users\admin\Desktop\0IuqaJTsFmOw8k4.exe
+MP-Locker mr robot.exe 
+MP-nsD232.tmp
+MP*-C:\Program Files\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-HH8GJ.tmp
+MP-RdrCEF.exe 
+MP*-taskmgr.exe
+MF-C:\Users\admin\AppData\Roaming\SysInfoTool\data.xml
+TP-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+MP-splwow64.exe
+TP-NdSvr.exe
+MP-chrome.exe
+TF-\Users\admin\Downloads\crypto-js.js
+TP*-hh.exe 
+TF-Invoke-AppPathBypass.ps1
+TF-files\appdata\local\temp\19084.bmp
+SF-C:\Browserweb\FDQYsaUiAqx3IM0zyQT
+MF-PathToAtomicsFolder\T1546.010\src\T1546.010.r
+MP-Nnimfltstl.exe 
+MF-.\ExternalPayloads\msxsl.exe
+SF-C:\Windows\System32\WScript
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+MF-\Users\admin\AppData\Local\Temp\B70D.exe
+MP-Client.exe 
+61
+0 1 RD
+0 2 RD
+0 3 WR
+0 4 FR
+4 1 EX
+4 2 WR
+4 3 RD
+0 5 FR
+5 1 EX
+5 2 RD
+5 3 WR
+4 5 UK
+0 6 FR
+6 1 RD
+6 2 WR
+6 3 WR
+0 7 WR
+6 7 WR
+0 8 FR
+8 1 EX
+8 2 WR
+8 3 WR
+6 8 UK
+9 1 CD
+9 2 WR
+9 3 EX
+9 7 EX
+9 10 RD
+11 3 CD
+11 7 WR
+9 11 IJ
+11 10 WR
+12 7 RD
+12 10 WR
+11 12 IJ
+13 7 RD
+9 13 IJ
+13 10 WR
+11 13 IJ
+12 13 UK
+14 7 EX
+9 14 UK
+11 15 WR
+16 10 WR
+11 16 IJ
+16 15 EX
+11 17 EX
+16 17 RD
+11 18 WR
+16 18 EX
+11 19 EX
+16 19 EX
+11 20 RD
+16 20 WR
+11 21 UK
+16 22 WR
+16 23 WR
+16 24 ST
+16 25 WR
+16 26 FR
+26 17 UK
+

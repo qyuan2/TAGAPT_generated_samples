@@ -1,0 +1,50 @@
+19
+MP*-New Client.exe 
+SF-C:\Users\admin\AppData\Roaming
+SF-C:\Users\admin\AppData\Local\Temp\IXP000
+MP*-EvaPKO
+MP-SearchProtocolHost.exe
+MP*-pktmon.exe
+MF-\ProgramData\adobe\arm.dat
+TP-hh.exe
+TP*-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+MF-\Users\admin\AppData\Local\Temp\Media.vb
+MF-C:\Users\admin\AppData\Local\Temp\file
+SF-C:\ProgramData\Package Cache\{7489ba93-b668-447f-8401-7e57a6fe538d}\WindowsSensor.exe
+MF-build.exe
+TF-\Users\admin\AppData\Roaming\yonr\yonr.exe
+SO-test@corp.com
+MF-C:\Users\All Users\smss.exe
+SO-http://fbi.fund/dark.exe
+MF-Files\searches\depended.lnk
+SF-C:\Windows\SysWOW64\ytqpvkdx\vlliugwu.exe
+28
+0 1 RD
+0 2 RD
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 WR
+4 2 WR
+3 4 UK
+5 1 RD
+5 2 WR
+5 6 WR
+7 1 EX
+7 2 WR
+5 7 UK
+8 1 WR
+8 2 RD
+8 6 RD
+8 9 CD
+8 10 WR
+8 11 EX
+8 12 EX
+8 13 WR
+14 8 RF
+8 15 EX
+16 8 RF
+8 17 EX
+8 18 EX
+

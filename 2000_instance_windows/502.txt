@@ -1,0 +1,41 @@
+13
+MP*-CCleanerBugReport.exe
+MF-C:\Users\admin\Desktop\Client.exe
+MP*-Payment invoice#05450865.exe 
+SF-C:\Users\admin\AppData\Local\Temp\VRAPP
+MF-C:\Users\admin\AppData\Local\Temp\IEmode
+MF-C:\Users\admin\AppData\Local\Temp\KLSetup.exe
+MP*-danke.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Dieselmotorers.exe
+MF-C:\Windows\system32\DllHost
+MF-C:\ProgramData\anydesk
+MP*-cipher.exe
+SF-C:\Users\admin\Desktop\Paradox RAT\Updater
+MF-C:\savesdllNetdhcp\System
+25
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 WR
+2 4 WR
+0 5 WR
+2 5 RD
+0 6 FR
+6 1 WR
+2 6 UK
+0 7 WR
+0 8 WR
+0 9 WR
+0 10 FR
+10 1 EX
+10 3 RD
+10 4 EX
+10 5 CD
+10 7 WR
+10 8 WR
+10 9 EX
+10 11 WR
+10 12 UK
+

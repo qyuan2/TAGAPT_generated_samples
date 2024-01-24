@@ -1,0 +1,98 @@
+27
+MP*-RegSvcs.exe
+MF-C:\Users\Public\Videos\Sample Videos\lsass
+TP-nsA21B.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+MF-wmic.exe
+TP-Fastfoood.exe
+MP-schtasks.exe 
+MP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+SF-C:\Program files\appdata\local\temp\5275
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+MP-mozilla.exe 
+MP*-nsBB14.tmp
+SF-C:\Windows\Temp\lsass
+SF-C:\Program files\appdata\local\temp\7zsfx000
+MF-C:\Windows\System32\dllhоst
+TP-vLocalServerSetup.exe
+TP*-OriginalBuild.exe.exe 
+SF-%temp%\T1140_calc.txt
+MP*-Setup.bin.exe 
+MP-E63F.exe
+SF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo.c
+MP-XClient.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Kulicib.exe
+TP-nbtstat.exe
+MF-C:\Path\AtomicRedTeam.dll
+MP-audiodg.exe 
+MF-C:\Users\admin\AppData\Local\Temp\TRUST
+68
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 ST
+2 3 ST
+0 4 RD
+2 4 WR
+0 5 UK
+6 1 RD
+2 6 IJ
+6 3 ST
+6 4 WR
+7 1 CD
+2 7 UK
+6 8 WR
+9 6 RF
+3 10 RF
+10 4 RD
+6 10 UK
+11 3 ST
+11 4 WR
+11 8 CD
+9 11 RF
+11 12 WR
+11 13 WR
+11 14 RD
+15 8 CD
+9 15 RF
+11 15 UK
+16 8 EX
+9 16 RF
+16 12 WR
+16 13 WR
+16 14 RD
+16 17 WR
+9 18 RF
+18 12 WR
+18 13 WR
+18 14 WR
+16 18 IJ
+18 17 EX
+9 19 RF
+19 12 WR
+19 13 EX
+19 14 EX
+16 19 IJ
+19 17 RD
+18 19 UK
+16 20 WR
+21 12 WR
+21 13 WR
+21 14 WR
+16 21 IJ
+21 17 WR
+21 20 EX
+16 22 WR
+21 22 WR
+23 13 RD
+23 14 EX
+16 23 IJ
+23 17 EX
+23 20 EX
+21 23 UK
+16 24 RD
+16 25 FR
+25 17 RD
+25 20 UK
+16 26 RD
+

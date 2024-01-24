@@ -1,0 +1,33 @@
+11
+MP*-awk
+MP-tail
+MP-cat
+MF-CleaingScript.sh
+MF-ufw.log
+MF-alertConfigField.php
+SF-raw.githubusercontent.c
+MP*-rev
+MP*-sudo
+SF-resolv.c
+MP*-less
+19
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+0 4 CD
+0 5 RD
+0 6 WR
+0 7 FR
+7 3 WR
+7 4 UK
+0 8 FR
+8 3 WR
+8 5 WR
+8 6 CD
+0 9 UK
+10 3 RD
+10 5 RD
+10 6 WR
+8 10 UK
+

@@ -1,0 +1,139 @@
+42
+MP*-cronos.exe
+SO-https://download.anydesk.com/AnyDesk.exe
+SF-C:\windows\system32\cmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\bltf
+SF-C:\Program files\appdata\local\temp\19084
+SF-C:\Program Files\Bandizip\data\RegDll
+SF-C:\Windows\Temp\lsass_dump
+TP-olsptrs.exe 
+TP-VRAPP.exe 
+MP-Ziraat Bankasi Swift Mesaji.exe 
+SF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo.c
+MP-UnoSetup.exe
+MP-findstr.exe
+MP-ns996E.tmp
+MF-C:\Windows\system32\nethtsrv.exe
+MF-scanner.exe
+MP-vaultcmd.exe
+MP*-TBHD AWB 1ZY0W5038626871089.exe
+TF-RerSpacer710.exe
+MF-%userprofile%\downloads
+MP*-VRAPP.exe 
+MP-RegDll.x86.exe
+MF-c:\Users\admin\AppData\Local\Temp\CSCF236.tmp
+SF-C:\Users\admin\AppData\Local\Temp\OriginalBuild.exe
+MP-driverquery.exe 
+TP-notepad++.exe 
+TF-Users\{90140000-0018-041F-0000-0000000FF1CE}-C\SearchFilterHost.exe
+MF-C:\Users\admin\AppData\Local\Temp\LZ4
+SF-C:\Windows\system32\SearchProtocolHost.exe
+MF-C:\Windows\Temp\xordump
+TP*-setup.exe 
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+SF-C:\Users\admin\AppData\Local\Temp\is-CGSCV.tmp
+MF-%userprofile%\downloads
+MP-4900.exe
+MP-ns9F46.tmp
+MF-C:\Users\admin\AppData\Local\Temp\View
+MP-JJSploit.exe 
+MF-C:\Users\admin\Desktop\mincedcrack
+SF-C:\Windows\System32\cmd
+MF-\Users\admin\AppData\Local\Temp\KS.pdf
+TF-C:\Users\admin\Desktop\what
+94
+0 1 ST
+0 2 WR
+0 3 WR
+0 4 RD
+0 5 RD
+0 6 WR
+0 7 IJ
+7 1 ST
+7 2 UK
+0 8 FR
+8 1 ST
+8 3 WR
+8 4 WR
+8 5 WR
+8 6 RD
+0 9 UK
+8 10 RD
+11 3 RD
+11 4 CD
+11 5 RD
+11 6 WR
+8 11 UK
+12 3 WR
+12 4 RD
+12 5 UK
+13 4 RD
+13 6 WR
+13 10 WR
+13 14 WR
+13 15 WR
+16 10 WR
+13 16 UK
+17 10 RD
+17 14 EX
+17 15 RD
+17 18 WR
+17 19 WR
+20 10 WR
+20 14 WR
+20 15 WR
+20 18 RD
+20 19 WR
+21 14 RD
+21 15 RD
+17 21 UK
+20 22 RD
+20 23 EX
+24 14 RD
+24 15 RD
+24 18 WR
+24 19 RD
+24 22 WR
+24 23 WR
+25 15 WR
+25 18 WR
+25 19 WR
+20 25 IJ
+25 22 WR
+25 23 WR
+24 25 UK
+20 26 EX
+20 27 WR
+20 28 WR
+20 29 RD
+20 30 IJ
+30 22 RD
+30 23 EX
+30 26 WR
+30 27 RD
+30 28 WR
+30 29 WR
+31 30 RF
+30 32 RD
+30 33 WR
+34 26 WR
+34 27 WR
+34 28 RD
+34 29 WR
+30 34 IJ
+34 31 ST
+34 32 WR
+34 33 RD
+35 26 RD
+35 27 WR
+35 28 WR
+35 29 WR
+30 35 UK
+34 36 EX
+37 27 RD
+37 28 UK
+34 38 WR
+34 39 RD
+34 40 EX
+34 41 WR
+

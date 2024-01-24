@@ -1,0 +1,114 @@
+33
+MP*-Fastfoood.exe
+MP-ExplorerSuite.exe
+SF-C:\Program Files\Common Files\Microsoft Shared\VSTA\Pipeline
+MF-\Users\admin\AppData\Local\Temp\MDE_File_Sample_88a7f68e7ffeccdba9450ae5dc5ebed3255357385e013c8383105831ad72c9e8.zip
+MP-360TS_Setup.exe
+MF-\Users\admin\AppData\Local\Temp\0520c252-bcdc-4fcf-b657-4d4cf2b0bde1.cab
+MF-C:\Users\admin\Desktop\Screenshot
+SF-C:\Windows\Temp\Crashpad\attachments\IMEDICTUPDATE.exe
+MF-C:\Users\admin\AppData\Local\Temp\sgic_info.c
+TP*-School_Project.exe 
+TP-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+MP-ntvdm.exe 
+MP-AnyDesk-a444ebcf.exe 
+MF-C:\Windows\Temp\lsass
+MF-C:\Users\admin\AppData\Local\Temp\tmp8DB1.tmp
+MP*-regsvr32.exe
+MP-TruffleSnout.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MP-CasPol.exe
+MP-pdates.exe 
+TP*-EBDE.exe
+MF-pcwutl.dll
+MF-\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+MF-\System32\notepad.exe
+SF-C:\Users\admin\AppData\Local\Temp\file.exe
+SF-C:\Users\admin\AppData\Local\Temp\TBHD
+MP-taskhsvc.exe
+MP-wusa.exe
+MP-conhost.exe
+TF-C:\MSOCache\All Users\{90140000-0044-0411-0000-0000000FF1CE}-C\WinRAR.exe
+TF-C:\Users\admin\AppData\Local\Temp\tmp99E0.tmp
+MP-ns9492.tmp 
+MP-vlc.exe
+78
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 WR
+1 3 WR
+0 4 UK
+1 5 WR
+1 6 WR
+1 7 RD
+1 8 WR
+1 9 IJ
+9 2 WR
+9 3 RD
+9 5 EX
+9 6 EX
+9 7 CD
+9 8 WR
+1 10 IJ
+10 2 WR
+10 3 WR
+10 5 RD
+10 6 UK
+1 11 FR
+11 2 RD
+11 3 WR
+11 5 WR
+11 7 WR
+11 8 EX
+9 11 IJ
+12 2 WR
+12 3 WR
+12 5 WR
+12 7 EX
+12 8 WR
+9 12 IJ
+9 13 WR
+11 13 WR
+12 13 UK
+11 14 WR
+15 7 RD
+15 8 EX
+15 14 RD
+16 7 WR
+16 8 UK
+17 11 RF
+17 15 RF
+11 18 FR
+18 14 WR
+18 17 ST
+11 19 FR
+19 14 EX
+19 17 ST
+18 19 UK
+11 20 IJ
+20 14 WR
+15 20 IJ
+17 20 RF
+15 21 WR
+20 21 WR
+15 22 WR
+20 22 WR
+15 23 WR
+20 23 UK
+15 24 EX
+15 25 WR
+17 26 RF
+26 21 WR
+26 22 UK
+17 27 RF
+27 21 UK
+28 24 RD
+28 25 WR
+28 29 EX
+28 30 WR
+31 24 EX
+31 25 EX
+28 31 UK
+32 24 UK
+

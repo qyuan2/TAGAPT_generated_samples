@@ -1,0 +1,41 @@
+14
+MP*-cat
+SF-echo-art-fish.sh
+MP-ip
+MF-http.c
+TF-journald.c
+SO-127.0.0.1
+MP*-truncate 
+MF-http.c
+TP-tac
+MP*-ifconfig
+SO-192.168.10.128
+MF-syslog.c
+SF-2017.pl
+MP*-less
+24
+0 1 CD
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 RD
+0 4 UK
+2 5 ST
+6 1 RD
+6 3 WR
+6 5 ST
+2 7 WR
+6 7 WR
+8 1 EX
+2 8 UK
+9 1 WR
+9 3 RD
+5 9 RF
+9 7 RD
+9 10 ST
+9 11 WR
+9 12 RD
+5 13 RF
+13 7 WR
+9 13 UK
+

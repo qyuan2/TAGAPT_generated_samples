@@ -1,0 +1,54 @@
+18
+MP*-WScript.exe 
+MP-at.exe
+MF-\Users\admin\AppData\Local\Temp\winhost.exe
+MF-\System32\notepad.exe
+TF-C:\Windows\Temp\T1027
+MF-\Users\admin\AppData\Local\Temp\bltf.exe.INFECTED.dll
+MP*-nbtstat.exe
+MF-C:\Program files\appdata\local\temp\5491.bmp
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MP*-Reader_sl.exe 
+TF-\Users\admin\AppData\Local\Temp\phish_alert_sp2_2.0.0.0.eml.msg
+TP*-468C.exe
+MF-C:\Users\admin\AppData\Local\Temp\server.exe
+MF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv
+SF-C:\Windows\Temp\lsass_dump
+MF-\Users\admin\Desktop\RunDRT-Office2016.bat
+MF-C:\Users\admin\AppData\Local\Temp\Dkeyauth.exe
+MP-DIXRAT.exe 
+33
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 RD
+1 3 EX
+0 4 CD
+1 4 UK
+0 5 RD
+0 6 FR
+6 2 WR
+6 3 EX
+6 5 WR
+0 7 EX
+6 7 UK
+8 0 RF
+0 9 FR
+9 2 WR
+9 3 EX
+9 5 WR
+8 9 RF
+0 10 WR
+9 10 UK
+11 2 WR
+11 3 WR
+11 5 RD
+8 11 RF
+11 12 EX
+11 13 RD
+11 14 EX
+11 15 WR
+11 16 RD
+8 17 RF
+11 17 UK
+

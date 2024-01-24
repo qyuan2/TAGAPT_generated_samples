@@ -1,0 +1,60 @@
+14
+MP*-_vnw.exe
+TP*-z0200670.exe
+TF-C:\Program files\ntuser.dat
+MF-C:\Users\admin\AppData\Local\Temp\RESD196
+MP*-DllHost.exe
+TF-EXb2596.29160\tasksche.exe
+MF-C:\Users\admin\AppData\Local\Temp\factura.doc
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+TP-AIGeneratedRansomware.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MF-C:\vLocalServerSetup\install
+TP-radmin scanner.exe 
+MP-MSBuild.exe
+TP*-Purchase Order. 17-07-2023.exe 
+43
+0 1 IJ
+0 2 RD
+1 2 WR
+0 3 WR
+1 3 WR
+0 4 FR
+1 4 IJ
+4 2 WR
+4 3 RD
+0 5 WR
+1 5 RD
+4 5 WR
+0 6 EX
+1 6 RD
+4 6 WR
+0 7 ST
+1 7 ST
+7 4 RF
+0 8 IJ
+1 8 IJ
+8 2 WR
+8 3 WR
+4 8 IJ
+8 5 RD
+8 6 RD
+8 7 ST
+0 9 ST
+9 1 RF
+9 4 RF
+8 9 ST
+0 10 WR
+1 10 WR
+4 10 WR
+8 10 WR
+1 11 FR
+11 2 UK
+12 3 CD
+4 12 UK
+13 3 RD
+13 5 RD
+13 6 WR
+7 13 RF
+8 13 UK
+

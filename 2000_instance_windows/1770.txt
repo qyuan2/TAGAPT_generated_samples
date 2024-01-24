@@ -1,0 +1,77 @@
+21
+MP*-WinRAR.exe 
+MF-\Windows\System32\reg.exe
+MF-werconcpl.dll
+MF-C:\Users\admin\AppData\Local\Temp\Invoice
+MP-pktmon.exe
+MP-anydesk.exe
+MF-\T1010.exe
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+SF-C:\Users\admin\AppData\Local\Temp\is-HOVH3.tmp
+TP-certutil
+MF-C:\Windows\System32\DriverStore\Temp\{6753451b-a3ac-5042-907b-cb40285f5141}\Hantek2D42.c
+MP*-ns9E4A.tmp
+MP-adidnsdump.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+TF-%temp%\Windows_Defender_Verification.xml
+MP*-DriverFiles_8a39eacf3b01f2a8c3032697a9824211.exe 
+MP*-ChainRefBroker.exe  
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\IrSatorLauncher.exe
+MP-6248.exe
+MP-nmap.exe
+MP-444444.png.png.exe 
+53
+0 1 WR
+0 2 RD
+0 3 WR
+0 4 FR
+4 1 EX
+4 2 EX
+4 3 WR
+0 5 FR
+5 1 WR
+5 2 RD
+5 3 RD
+4 5 UK
+0 6 EX
+0 7 ST
+0 8 WR
+0 9 FR
+9 1 WR
+9 2 UK
+0 10 WR
+11 1 WR
+11 3 WR
+11 6 WR
+7 11 RF
+11 8 EX
+11 10 RD
+12 3 CD
+12 6 WR
+7 12 RF
+12 8 WR
+12 10 UK
+11 13 ST
+11 14 WR
+15 6 RD
+15 7 ST
+15 8 WR
+11 15 UK
+16 6 RD
+7 16 RF
+16 8 WR
+13 16 RF
+16 14 RD
+16 17 WR
+18 8 WR
+18 13 ST
+18 14 RD
+16 18 UK
+19 13 ST
+19 14 CD
+19 17 CD
+13 20 RF
+20 14 WR
+20 17 RD
+19 20 UK
+

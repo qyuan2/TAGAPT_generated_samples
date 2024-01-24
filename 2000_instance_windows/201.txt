@@ -1,0 +1,42 @@
+11
+MP*-taskmgr.exe
+MP*-AnyDesk-a444ebcf.exe 
+SF-C:\Users\admin\Downloads\PC_Cleaner__5509.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+MF-C:\Users\admin\AppData\Local\Temp\Uninstall.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+MF-Powershell.exe
+MP-update.exe
+TP*-p2602380.exe
+SF-C:\Windows\System32\mshta.exe
+MP*-RdrCEF.exe 
+28
+0 1 FR
+0 2 WR
+1 2 WR
+3 0 RF
+3 1 RF
+0 4 RD
+1 4 EX
+5 0 RF
+5 1 RF
+0 6 EX
+1 6 WR
+0 7 FR
+1 7 UK
+0 8 IJ
+8 2 EX
+3 8 RF
+8 4 WR
+8 5 ST
+8 6 WR
+0 9 WR
+8 9 WR
+0 10 FR
+10 2 WR
+10 3 ST
+10 4 WR
+10 5 ST
+10 6 RD
+8 10 UK
+

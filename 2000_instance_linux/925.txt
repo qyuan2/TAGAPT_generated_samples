@@ -1,0 +1,88 @@
+25
+MP*-sed
+SO-atomic@target.example
+MP*-grep
+TP-tac
+SO-192.168.47.155
+MP-rm
+MF-d.c
+TP-cat
+SF-alertConfigField.php
+MF-www.google.c
+MP-sed
+SF-at.a
+SO-192.168.2.102
+MP*-paste
+SO-192.168.10.128
+TP-nl
+MP*-ip
+MF-http.c
+SF-passwd.zip
+SO-192.168.159.128
+MP-sed
+MF-CleaingScript.sh
+MP-grep
+SF-raft-large-directories.txt
+MF-common.txt
+60
+1 0 RF
+0 2 FR
+1 2 RF
+0 3 FR
+3 1 ST
+2 3 IJ
+4 0 RF
+2 4 ST
+3 4 ST
+0 5 UK
+2 6 RD
+3 6 WR
+7 1 ST
+2 7 IJ
+3 7 UK
+2 8 WR
+2 9 WR
+1 10 RF
+10 4 ST
+10 6 EX
+10 8 UK
+2 11 EX
+12 2 RF
+4 13 RF
+13 6 WR
+13 9 WR
+13 11 WR
+12 13 RF
+13 14 ST
+15 6 WR
+15 9 WR
+15 11 WR
+12 15 RF
+13 15 IJ
+15 14 ST
+16 6 EX
+16 9 CD
+16 11 EX
+12 16 RF
+14 16 RF
+15 16 IJ
+13 17 CD
+15 17 WR
+16 17 RD
+13 18 EX
+15 18 WR
+16 18 WR
+13 19 ST
+19 15 RF
+19 16 RF
+20 11 WR
+12 20 RF
+13 20 UK
+15 21 WR
+16 21 RD
+12 22 RF
+14 22 RF
+15 22 UK
+16 23 WR
+16 24 UK
+

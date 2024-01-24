@@ -1,0 +1,67 @@
+21
+MP-cat
+MF-raft-large-directories.txt
+TF-bash_completion.sh
+SF-raft-large-directories.txt
+TP*-curl
+TP*-more
+SO-192.168.159.128
+MP-cat
+MF-echo-art-fish.sh
+TP-less
+TF-T1003.008.txt
+MF-cron.h
+MP-more
+MP*-bash
+SO-http://192.168.0.134/passwd
+MF-flag4.txt
+MF-raft-large-directories.txt
+TF-image.php
+MP-chmod
+MP-nl
+TP*-nl
+43
+0 1 WR
+0 2 WR
+0 3 UK
+4 1 WR
+4 2 WR
+5 2 EX
+4 5 IJ
+4 6 ST
+5 6 ST
+7 2 WR
+4 7 IJ
+5 7 UK
+4 8 RD
+9 2 UK
+4 10 RD
+4 11 WR
+4 12 IJ
+6 12 RF
+12 8 WR
+12 10 WR
+12 11 EX
+4 13 IJ
+6 13 RF
+13 8 WR
+13 10 UK
+14 12 RF
+12 15 EX
+12 16 RD
+12 17 WR
+18 8 WR
+18 11 WR
+12 18 UK
+19 11 WR
+14 19 RF
+19 15 EX
+19 16 WR
+19 17 WR
+20 11 WR
+20 14 ST
+20 15 WR
+20 16 WR
+20 17 WR
+19 20 UK
+

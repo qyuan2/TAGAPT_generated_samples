@@ -1,0 +1,47 @@
+14
+MP*-ls
+SF-p.c
+SF-chttp.c
+TP-paste
+MF-da-ks.cfg
+MP*-iptables
+MF-LinEnum.sh
+SF-cron.a
+MF-da-ks.cfg
+SO-192.168.1.1
+MP*-sh
+TF-data.tar.gz
+SF-access.htm
+MP*-tac
+30
+0 1 EX
+0 2 WR
+0 3 IJ
+3 1 WR
+3 2 UK
+0 4 WR
+0 5 FR
+5 1 EX
+5 4 WR
+0 6 CD
+5 6 EX
+0 7 EX
+5 7 WR
+0 8 RD
+5 8 RD
+9 0 RF
+10 1 WR
+10 4 WR
+10 6 EX
+10 7 EX
+10 8 WR
+10 9 ST
+10 11 WR
+10 12 RD
+13 4 RD
+13 6 RD
+13 7 WR
+13 8 EX
+13 9 ST
+10 13 UK
+

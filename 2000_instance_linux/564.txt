@@ -1,0 +1,38 @@
+11
+MP*-cat
+TP*-uname
+MF-target.example.c
+MP*-cat
+MP*-ifconfig
+TF-LinEnum.sh
+MF-1.zip
+SO-127.0.0.1:8080
+MF-ufw.c
+MP-cat
+MP-grep
+24
+0 1 IJ
+0 2 RD
+1 2 WR
+0 3 FR
+1 3 IJ
+3 2 UK
+0 4 FR
+1 4 IJ
+0 5 WR
+1 5 RD
+4 5 WR
+0 6 CD
+1 6 WR
+4 6 WR
+0 7 ST
+7 1 RF
+7 4 RF
+0 8 WR
+1 8 WR
+4 8 CD
+0 9 FR
+1 9 UK
+0 10 FR
+4 10 UK
+

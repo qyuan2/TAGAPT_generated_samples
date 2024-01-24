@@ -1,0 +1,55 @@
+17
+MP*-tail
+TF-s.c
+SF-sysctl.c
+SF-chttp.c
+MP-cat
+TP*-bash 
+MP-cat
+MP-paste
+SF-image.php
+MF-access.htm
+MF-e.c
+TF-os.exe
+SF-journald.c
+TP-grep
+MF-0*.txt
+MP*-netstat
+MP*-ip
+35
+0 1 RD
+0 2 WR
+0 3 RD
+0 4 FR
+4 1 RD
+4 2 WR
+4 3 UK
+0 5 IJ
+5 1 RD
+5 2 RD
+0 6 FR
+6 1 WR
+6 2 CD
+5 6 IJ
+0 7 FR
+7 1 EX
+7 2 RD
+5 7 UK
+0 8 UK
+6 9 RD
+6 10 CD
+6 11 RD
+6 12 WR
+6 13 IJ
+13 9 UK
+6 14 RD
+15 10 WR
+15 11 RD
+15 12 WR
+15 14 WR
+16 10 WR
+16 11 WR
+16 12 RD
+16 14 RD
+15 16 UK
+

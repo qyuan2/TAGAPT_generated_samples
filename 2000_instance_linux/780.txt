@@ -1,0 +1,53 @@
+14
+MP*-cat
+SF-e.c
+SF-on.a
+SF-system/network resources
+SO-192.168.10.135
+MF-cron.h
+TP*-rm
+TF-sysctl.c
+MP-bash
+MP*-ip
+MP*-masscan
+SF-syslog.c
+MP-awk
+MP-cat
+36
+0 1 WR
+0 2 WR
+0 3 RD
+0 4 ST
+0 5 WR
+0 6 IJ
+6 1 WR
+6 2 WR
+6 3 RD
+6 4 ST
+6 5 EX
+0 7 WR
+6 7 RD
+0 8 FR
+8 1 UK
+0 9 FR
+9 2 WR
+9 3 RD
+4 9 RF
+9 5 WR
+6 9 IJ
+9 7 WR
+0 10 FR
+10 2 EX
+10 3 WR
+10 4 ST
+10 5 WR
+6 10 IJ
+10 7 WR
+9 10 UK
+6 11 WR
+12 2 RD
+12 3 UK
+13 4 ST
+13 5 RD
+6 13 UK
+

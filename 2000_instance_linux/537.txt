@@ -1,0 +1,48 @@
+13
+MP*-tac
+SF-logrotate.c
+SF-te.c
+MP*-sed
+MP-uname
+MP*-bash
+MF-T1070.006-reference.txt
+MP-tail
+SO-192.168.47.155
+TP*-tee
+TF-cron.a
+MP-cat
+TP-tee
+32
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 WR
+4 2 WR
+3 4 UK
+0 5 FR
+5 1 WR
+5 2 WR
+0 6 RD
+5 6 RD
+0 7 FR
+7 1 UK
+0 8 ST
+5 8 ST
+0 9 FR
+9 2 WR
+5 9 IJ
+9 6 WR
+9 8 ST
+0 10 WR
+5 10 WR
+9 10 WR
+11 2 RD
+5 11 UK
+12 2 EX
+12 6 WR
+12 8 ST
+9 12 UK
+

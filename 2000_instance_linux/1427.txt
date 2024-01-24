@@ -1,0 +1,30 @@
+10
+MP*-less
+TP*-grep
+TP-grep
+MF-Discovery.sh
+SF-raj.txt
+TF-e.c
+MF-data.zip
+MP*-cat
+TP*-cat
+MF-syslog.c
+17
+0 1 IJ
+0 2 IJ
+1 2 UK
+0 3 EX
+0 4 RD
+0 5 RD
+0 6 CD
+0 7 FR
+7 3 RD
+7 4 EX
+7 5 WR
+7 6 RD
+0 8 FR
+8 3 WR
+8 4 UK
+0 9 RD
+7 9 WR
+

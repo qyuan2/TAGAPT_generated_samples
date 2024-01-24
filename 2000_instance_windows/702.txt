@@ -1,0 +1,32 @@
+11
+MP*-test de fdp.exe 
+MP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MP-nmap.exe
+MP*-nvvsvc.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Fastfoood.exe
+SF-C:\Users
+MP*-AdobeARM.ex
+MF-C:\Users\admin\AppData\Roaming\StackTrace\Entry
+TF-C:\Users\admin\AppData\Local\Temp\Heapman45.exe
+MF-C:\Users\admin\AppData\Local\Temp\msetup\360TS_Setup
+MP*-rPO59687543.exe 
+18
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 WR
+3 4 EX
+0 5 WR
+0 6 FR
+6 4 WR
+6 5 WR
+0 7 WR
+6 7 RD
+0 8 RD
+6 8 EX
+6 9 WR
+10 4 RD
+10 5 WR
+6 10 UK
+

@@ -1,0 +1,69 @@
+20
+MP*-nl
+MF-AutoSUID.sh
+MF-e2.c
+TF-target.example.c
+MF-chttp.c
+MP-rev
+SO-192.168.206.136
+MP-ftp
+MP-ls
+MP-grep
+TP*-uname
+SF-raw.githubusercontent.c
+MF-pwquality.c
+MF-ufw.c
+TP*-more
+MP*-cat
+MF-passwd.zip
+MF-data.tar.gz
+MF-alertConfigField.php
+MP-cat
+46
+0 1 WR
+0 2 WR
+0 3 RD
+0 4 RD
+0 5 FR
+5 1 UK
+0 6 ST
+0 7 FR
+7 2 WR
+7 3 EX
+7 4 WR
+7 6 ST
+0 8 FR
+8 2 WR
+8 3 WR
+8 4 WR
+6 8 RF
+7 8 UK
+0 9 FR
+9 2 WR
+9 3 UK
+0 10 FR
+10 2 WR
+10 4 WR
+10 6 ST
+10 11 EX
+10 12 EX
+10 13 WR
+14 4 EX
+14 6 ST
+10 14 IJ
+14 11 RD
+14 12 WR
+14 13 WR
+6 15 RF
+10 15 IJ
+15 11 RD
+15 12 UK
+10 16 EX
+14 16 RD
+10 17 WR
+14 17 RD
+10 18 UK
+19 11 EX
+19 13 WR
+14 19 UK
+

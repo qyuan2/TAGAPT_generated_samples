@@ -1,0 +1,43 @@
+13
+MP*-vLocalServerSetup.exe
+TF-C:\Users
+MF-\Users\Public\Videos\videotv.m3u
+MF-RAT\Updater.exe
+SF-C:\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+SF-C:\Users\admin\Downloads\MincedCrackexe_cyb3a.exe
+SF-C:\Users\admin\AppData\Local\Temp\NP232375OF1V04LRD3C096_EAWB.pdf
+MP*-nanodump.x64.exe
+TP*-test de fdp.exe 
+MF-clients2.google.c
+TF-C:\Users\admin\AppData\Roaming
+MP*-819cebc553434a1b12318d80f63ebd96.exe 
+27
+0 1 RD
+0 2 CD
+0 3 EX
+0 4 WR
+0 5 ST
+0 6 WR
+0 7 RD
+0 8 FR
+8 1 WR
+8 2 RD
+8 3 RD
+8 4 WR
+8 5 ST
+8 6 WR
+8 7 CD
+0 9 FR
+9 1 WR
+9 2 RD
+9 3 UK
+0 10 EX
+8 10 WR
+8 11 WR
+12 4 RD
+5 12 RF
+12 6 EX
+12 7 WR
+8 12 UK
+

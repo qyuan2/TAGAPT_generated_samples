@@ -1,0 +1,43 @@
+12
+MP*-iexplore.exe 
+MP-Reader_sl.exe 
+MF-C:\Windows\syswow64\regsvr32.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+MP*-vbs.exe
+MP-AppLaunch.exe
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MP-5EAD.exe
+TF-C:\Users\admin\AppData\Local\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate
+MP*-lk.exe 
+MP-SearchFilterHost.exe
+MP*-WinSat.exe
+28
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 ST
+3 1 RF
+0 4 FR
+4 2 EX
+3 4 RF
+0 5 FR
+1 5 UK
+6 0 RF
+6 4 RF
+0 7 FR
+7 2 RD
+7 3 ST
+4 7 UK
+0 8 WR
+0 9 FR
+9 2 EX
+3 9 RF
+9 6 ST
+9 8 WR
+0 10 UK
+11 2 RD
+3 11 RF
+6 11 RF
+11 8 WR
+9 11 UK
+

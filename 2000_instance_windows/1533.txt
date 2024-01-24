@@ -1,0 +1,35 @@
+12
+MP*-nsBC6C.tmp
+MF-\Windows\Temp\T1027.004.exe
+MF-\index.txt
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth.exe
+TP-ytfovlym.exe
+MP*-nsCCFE.tmp
+MP*-notepad++.exe 
+MF-\Users\admin\AppData\Local\Temp\b79gpxd8.cmd
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\d6405410.exe
+MP*-RerSpacer710.exe  
+TP-malware.exe 
+20
+0 1 RD
+0 2 CD
+0 3 FR
+3 1 CD
+3 2 CD
+0 4 WR
+3 4 WR
+0 5 UK
+6 1 CD
+6 2 UK
+7 1 WR
+7 4 EX
+3 8 EX
+7 8 RD
+3 9 WR
+7 9 WR
+10 1 WR
+3 10 UK
+11 4 RD
+7 11 UK
+

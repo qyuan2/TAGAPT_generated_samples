@@ -1,0 +1,32 @@
+9
+MP*-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+MF-\Users\admin\AppData\Roaming\Nixware.exe
+MF-%temp%\T1222.001_cacls 
+MP*-Enquiry No. 1000341492.exe 
+MP*-system_file.exe 
+MF-C:\Users\admin\AppData\Local\Temp\system_file
+MP*-shutdown.exe
+MF-\Users\admin\Desktop\OlympicDestroyer.exe
+20
+0 1 ST
+0 2 RD
+0 3 EX
+0 4 FR
+4 1 ST
+4 2 WR
+4 3 RD
+0 5 FR
+5 1 ST
+5 2 WR
+5 3 WR
+0 6 RD
+4 6 WR
+5 6 UK
+0 7 FR
+7 1 ST
+7 2 RD
+7 3 EX
+4 7 UK
+0 8 WR
+

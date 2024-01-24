@@ -1,0 +1,76 @@
+23
+MP*-cat
+MF-rockyou.txt
+SO-192.168.206.0
+MP-ls
+MP*-netstat
+SF-raft-medium-directories.txt
+MP-cat
+SO-192.168.10.135
+MF-alertConfigField.php
+MP-bash
+SO-192.168.47.134:4444
+MP-dd
+MP-bash
+TP-perl
+MP*-sed
+TF-pwquality.c
+TP*-tail
+MP-head
+MF-e.c
+MF-etc.tar.gz
+TP-grep
+TP-ip
+MP-tac
+50
+0 1 RD
+0 2 ST
+0 3 FR
+3 1 RD
+3 2 ST
+0 4 FR
+4 1 EX
+2 4 RF
+0 5 RD
+3 5 CD
+4 5 RD
+0 6 UK
+3 7 ST
+7 4 RF
+3 8 WR
+4 8 RD
+9 1 WR
+2 9 RF
+4 9 UK
+10 3 RF
+11 1 RD
+2 11 RF
+11 5 UK
+12 2 ST
+3 12 UK
+13 7 ST
+13 8 UK
+7 14 RF
+14 10 ST
+14 15 RD
+7 16 RF
+16 10 ST
+14 16 IJ
+16 15 WR
+7 17 RF
+10 17 RF
+14 17 UK
+16 18 RD
+16 19 EX
+20 10 ST
+20 15 WR
+16 20 IJ
+20 18 CD
+20 19 WR
+21 15 EX
+16 21 UK
+22 15 WR
+22 18 WR
+22 19 WR
+20 22 UK
+

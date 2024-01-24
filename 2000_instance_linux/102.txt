@@ -1,0 +1,104 @@
+30
+MP*-uname
+MP-john
+SF-1.zip
+TP-nmap
+MF-settings.php
+MP-ls
+MP-perl
+SF-atomic.log
+MF-art.sh
+TF-T1070.006-modification.txt
+SO-http://192.168.0.134/passwd
+SF-cron.m
+TF-d.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+TP-find
+MP*-paste
+SO-192.168.206.137
+MF-td.c
+SF-raft-large-directories.txt
+MF-T1070.006-reference.txt
+TP*-sh
+TP*-find
+MP-uname
+MF-passwd.zip
+MP-head
+MF-AutoSUID.sh
+MF-raft-large-directories.txt
+SO-192.168.10.130
+MF-T1070.006-modification.txt
+MP-bash 
+71
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 IJ
+1 3 UK
+0 4 WR
+0 5 FR
+5 2 WR
+5 4 WR
+0 6 FR
+6 2 RD
+6 4 CD
+0 7 WR
+5 7 WR
+6 7 WR
+0 8 RD
+5 8 WR
+6 8 WR
+0 9 WR
+5 9 RD
+6 9 WR
+0 10 ST
+10 5 RF
+10 6 RF
+5 11 EX
+6 11 UK
+5 12 EX
+5 13 ST
+14 4 WR
+5 14 UK
+15 7 WR
+15 8 WR
+15 9 EX
+10 15 RF
+15 12 RD
+13 15 RF
+15 16 ST
+15 17 RD
+15 18 RD
+15 19 WR
+20 10 ST
+20 12 WR
+13 20 RF
+15 20 IJ
+20 16 ST
+20 17 EX
+20 18 WR
+20 19 WR
+21 12 RD
+21 13 ST
+15 21 IJ
+16 21 RF
+21 17 RD
+21 18 WR
+21 19 WR
+20 21 UK
+22 12 UK
+15 23 RD
+15 24 FR
+16 24 RF
+24 17 WR
+24 18 WR
+24 19 EX
+24 23 RD
+15 25 WR
+24 25 WR
+24 26 WR
+24 27 ST
+24 28 WR
+29 23 WR
+24 29 UK
+

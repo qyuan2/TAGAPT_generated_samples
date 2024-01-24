@@ -1,0 +1,74 @@
+21
+MP*-awk
+MF-echo-art-fish.sh
+MF-test.txt
+SF-passwd.zip
+MF-s.c
+TF-cron.a
+MP-head
+SO-192.168.47.155
+MF-Users.tar.gz
+MF-apache2.c
+TP*-sed
+MP*-bash 
+TF-secret.c
+TP*-whois
+MF-syslog.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TF-art.sh
+TF-T1003.008.txt
+SF-log.c
+SF-lighttp.c
+TP-cat
+50
+0 1 WR
+0 2 RD
+0 3 WR
+0 4 WR
+0 5 RD
+0 6 FR
+6 1 RD
+6 2 RD
+0 7 ST
+0 8 RD
+0 9 WR
+10 1 WR
+10 2 EX
+10 3 WR
+10 4 EX
+10 5 EX
+10 7 ST
+10 8 EX
+10 9 RD
+11 2 EX
+11 3 WR
+11 4 RD
+11 5 RD
+7 11 RF
+11 8 WR
+11 9 WR
+10 11 IJ
+10 12 WR
+11 12 WR
+13 3 EX
+13 4 RD
+13 5 RD
+13 7 ST
+13 8 WR
+13 9 RD
+10 13 IJ
+11 13 IJ
+13 12 UK
+10 14 WR
+11 14 UK
+15 10 RF
+10 16 WR
+10 17 WR
+10 18 RD
+10 19 WR
+10 20 IJ
+20 15 ST
+20 16 WR
+20 17 RD
+20 18 UK
+

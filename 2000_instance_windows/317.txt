@@ -1,0 +1,221 @@
+54
+MP-notepad++.exe
+MF-C:\Program Files\KMSpico\scripts\Install_Task
+MP-86270699bad2681bb3f5f57f44a7094e.exe 
+MP-MpCmdRun.exe
+MF-C:\Users\admin\AppData\Local\Temp\D911.exe
+MP-findstr.exe
+TP-DllHost.exe 
+TP-sysmon.exe
+MP-msxsl.exe
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\regsvcs.exe
+MP-iexplore.exe 
+MP-wbadmin.exe
+TP-GLJBD24.tmp
+TP*-wscript.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Payroll_2022.vb
+MF-C:\Users\admin\Desktop\Wub\Wub.exe
+SF-%temp%\nanodump.dmp
+MF-download.anydesk.c
+MP-vlc.exe 
+SF-c:\Users\admin\AppData\Local\Temp\CSCD195.tmp
+SO-https://drimby.top/wndfi
+MF-\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+TP*-Xworm build.exe
+TP*-chrome.exe 
+MP-p2602380.exe
+MF-C:\Users\admin\AppData\Local\Temp\X_Net_Windows
+MP-updater.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+SO-https://access-message.top/secure-login
+MP-New order.exe 
+MP-vds.exe
+MP-WinAPIOverride 6.9.1.tmp
+SF-C:\Windows\System32\rundll32.exe
+TP-taskkill.exe
+TP-360TS_Setup.exe
+SO-https://class.malware.re
+MP-02867fa8b443043ec0fe6af211c852aa.exe 
+MF-\temp_T1027.zip\T1027.exe
+MF-Files\Google\Chrome\Application\chrome.exe
+MF-Viewer\PhotoViewer.dll
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+SO-https://download.anydesk.com/AnyDesk.exe
+MP*-olsptrs.exe 
+TF-C:\Users\admin\AppData\Local\Temp\msetup\operasetup.exe
+MF-explorer.exe
+TP-@WanaDecryptor@.exe 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+TF-C:\Windows\System32\taskkill.exe
+MF-C:\Program Files\Microsoft\Skype for Desktop\resources\app.a
+MF-\system32\inetsrv\defdoc.dll
+SF-C:\Program Files\CCleaner
+MF-C:\Users\admin\AppData\Local\Temp\Fastfoood
+MF-PathToAtomicsFolder\T1059.003\src\t1059.003_cmd.cmd
+TP-WinAPIOverride 6.9.1.tmp
+164
+0 1 WR
+0 2 FR
+2 1 CD
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 RD
+0 5 FR
+5 1 RD
+5 4 RD
+0 6 FR
+6 1 WR
+6 4 WR
+5 6 IJ
+0 7 IJ
+7 1 WR
+7 4 RD
+5 7 IJ
+6 7 IJ
+0 8 FR
+8 1 CD
+8 4 RD
+6 8 IJ
+7 8 UK
+0 9 WR
+5 9 WR
+6 9 WR
+0 10 FR
+10 1 UK
+11 4 WR
+6 11 UK
+12 4 RD
+5 12 UK
+13 4 RD
+13 9 EX
+13 14 RD
+13 15 WR
+13 16 RD
+13 17 WR
+18 9 WR
+13 18 IJ
+18 14 WR
+18 15 RD
+18 16 WR
+18 17 WR
+13 19 WR
+18 19 WR
+13 20 ST
+20 18 RF
+13 21 UK
+22 14 EX
+22 15 RD
+22 16 WR
+22 17 EX
+18 22 IJ
+22 19 WR
+22 20 ST
+23 14 CD
+23 15 WR
+23 16 EX
+23 17 WR
+18 23 IJ
+23 19 WR
+23 20 ST
+22 23 IJ
+24 14 WR
+24 15 UK
+18 25 WR
+22 25 EX
+23 25 RD
+26 16 UK
+18 27 ST
+27 22 RF
+27 23 RF
+18 28 ST
+28 22 RF
+23 28 ST
+29 19 WR
+29 20 ST
+22 29 IJ
+23 29 IJ
+29 25 RD
+27 29 RF
+29 28 ST
+20 30 RF
+22 30 UK
+23 31 FR
+31 25 WR
+27 31 RF
+28 31 RF
+29 31 UK
+23 32 RD
+23 33 IJ
+33 25 WR
+33 27 ST
+33 28 ST
+33 32 RD
+34 25 WR
+27 34 RF
+28 34 RF
+34 32 WR
+33 34 IJ
+33 35 ST
+34 35 ST
+27 36 RF
+28 36 RF
+36 32 WR
+33 36 IJ
+34 36 IJ
+35 36 RF
+33 37 WR
+34 37 EX
+36 37 WR
+33 38 WR
+34 38 WR
+36 38 RD
+33 39 WR
+34 39 WR
+36 39 WR
+33 40 ST
+40 34 RF
+40 36 RF
+41 33 RF
+34 41 ST
+41 36 RF
+42 32 RD
+33 42 IJ
+34 42 IJ
+42 35 ST
+42 37 EX
+42 38 WR
+42 39 WR
+42 40 ST
+42 41 ST
+33 43 WR
+34 43 WR
+36 43 EX
+42 43 WR
+34 44 RD
+36 44 UK
+45 35 ST
+45 37 WR
+45 38 WR
+45 39 WR
+40 45 RF
+45 41 ST
+42 45 IJ
+45 43 RD
+46 42 RF
+46 45 RF
+42 47 RD
+45 47 RD
+42 48 WR
+45 48 RD
+42 49 RD
+45 49 WR
+42 50 RD
+45 50 WR
+42 51 EX
+45 51 RD
+42 52 EX
+45 52 WR
+53 43 WR
+45 53 UK
+

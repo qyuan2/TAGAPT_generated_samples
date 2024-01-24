@@ -1,0 +1,43 @@
+12
+MP*-Enquiry No. 1000341492.exe 
+TF-nam10.safelinks.protection.outlook.c
+MF-%temp%\service
+MP*-mshta.exe
+SF-C:\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+MF-\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+MF-C:\Users\admin\AppData\Local\Temp\0520c252
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\y6493242.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP*-words[1].txt.exe
+SF-C:\Windows\explorer.exe
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+28
+0 1 EX
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 RD
+3 4 RD
+0 5 WR
+3 5 WR
+0 6 EX
+3 6 RD
+0 7 CD
+3 7 WR
+8 0 RF
+3 8 ST
+0 9 FR
+9 1 RD
+9 2 RD
+9 4 EX
+9 5 WR
+9 6 RD
+9 7 RD
+9 8 ST
+3 10 UK
+11 2 WR
+11 4 WR
+11 5 WR
+11 6 UK
+

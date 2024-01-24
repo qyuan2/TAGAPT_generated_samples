@@ -1,0 +1,39 @@
+11
+MP*-sed
+SO-192.168.206.0
+MF-cron.m
+TP*-uname
+MP*-grep
+MP*-ip
+SO-atomic@target.example
+SO-192.168.206.137
+MP-grep
+TF-access.txt
+MF-log.c
+25
+1 0 RF
+0 2 RD
+0 3 FR
+1 3 RF
+3 2 RD
+0 4 FR
+1 4 RF
+4 2 WR
+3 4 IJ
+0 5 FR
+5 1 ST
+5 2 UK
+6 0 RF
+3 6 ST
+6 4 RF
+7 0 RF
+7 3 RF
+4 7 ST
+0 8 FR
+1 8 RF
+3 8 UK
+0 9 RD
+4 9 WR
+0 10 WR
+4 10 UK
+

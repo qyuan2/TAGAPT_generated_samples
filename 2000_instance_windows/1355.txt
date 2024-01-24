@@ -1,0 +1,129 @@
+30
+MP-cat
+MF-v.c
+MF-resolv.c
+MP*-sudo
+MF-robots.txt
+TP*-cat
+SO-192.168.47.134:4444
+TP*-cat
+SF-victim-shred.txt
+MF-resolv.c
+MF-inetd.c
+MF-cron.a
+SF-access.txt
+SO-192.168.206.136
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-T1027-004-test.c
+MP-tee
+SO-192.168.206.0
+MP-cat
+TP-cat
+SF-syslog.c
+MF-settings.php
+MF-at.a
+TP*-cat
+MF-os.exe
+SF-atomic.sh
+MP-systemd
+MF-T1070.004-test.txt
+MP-cat
+MF-art.sh
+96
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 EX
+3 4 RD
+0 5 IJ
+5 1 WR
+5 2 RD
+3 5 IJ
+5 4 WR
+6 0 RF
+3 6 ST
+5 6 ST
+0 7 FR
+7 1 WR
+7 2 CD
+3 7 IJ
+7 4 WR
+5 7 IJ
+7 6 ST
+0 8 WR
+3 8 WR
+5 8 WR
+7 8 RD
+0 9 WR
+3 9 EX
+5 9 EX
+7 9 EX
+0 10 EX
+3 10 RD
+5 10 WR
+7 10 WR
+3 11 WR
+5 11 WR
+7 11 WR
+3 12 WR
+5 12 WR
+7 12 WR
+13 7 RF
+7 14 ST
+7 15 WR
+7 16 FR
+16 8 EX
+16 9 CD
+16 10 EX
+16 11 EX
+16 12 WR
+16 13 ST
+14 16 RF
+16 15 EX
+16 17 ST
+18 9 WR
+18 10 UK
+19 11 EX
+19 12 WR
+13 19 RF
+19 14 ST
+19 15 RD
+16 19 IJ
+19 17 ST
+16 20 WR
+19 20 RD
+16 21 WR
+19 21 WR
+16 22 WR
+19 22 WR
+23 13 ST
+23 14 ST
+23 15 WR
+16 23 IJ
+23 17 ST
+19 23 IJ
+23 20 WR
+23 21 WR
+23 22 RD
+16 24 WR
+19 24 WR
+23 24 EX
+16 25 RD
+19 25 EX
+23 25 RD
+16 26 FR
+26 17 ST
+19 26 IJ
+26 20 EX
+26 21 EX
+26 22 WR
+23 26 UK
+19 27 RD
+19 28 IJ
+28 20 WR
+28 21 CD
+28 22 UK
+19 29 RD
+

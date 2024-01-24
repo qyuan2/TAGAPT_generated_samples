@@ -1,0 +1,88 @@
+23
+MP*-explorer.exe
+TF-C:\Users\admin\AppData\Local\Temp\yapars
+SF-C:\Windows\sysnative\cmd
+SF-C:\Program files\cronos
+TP-SSLplus.exe
+MP*-CasPol.exe
+TP-test.exe 
+MP-file.exe
+MF-PLAZMA.htm
+MF-\nanodump.x64.exe
+MP-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+MP*-RdrCEF.exe
+SF-C:\Windows\system32\cacls
+MP-SSLplus.exe
+MP-cmdkey.exe
+TP*-MicrosoftUpdate.exe 
+MF-C:\Users\admin\Documents\DS
+MF-C:\Users\admin\AppData\Local\Temp\rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe
+MP-setup.exe
+MP-fltmc.exe
+MP-WISPTIS.EXE
+TP-appcmd.exe
+MP-is-Q2MHB.tmp
+62
+0 1 CD
+0 2 RD
+0 3 WR
+0 4 IJ
+4 1 WR
+4 2 RD
+4 3 WR
+0 5 FR
+5 1 WR
+5 2 CD
+5 3 RD
+4 5 IJ
+0 6 IJ
+6 1 RD
+6 2 WR
+6 3 RD
+4 6 UK
+0 7 FR
+7 1 EX
+7 2 CD
+7 3 EX
+0 8 RD
+5 8 RD
+7 8 WR
+0 9 EX
+5 9 RD
+7 9 RD
+0 10 FR
+10 1 WR
+10 2 WR
+10 3 WR
+5 10 UK
+11 1 EX
+11 2 WR
+11 3 WR
+11 8 WR
+11 9 RD
+7 12 UK
+13 3 UK
+14 8 WR
+14 9 CD
+15 8 WR
+15 9 WR
+11 15 IJ
+14 15 IJ
+11 16 WR
+14 16 EX
+15 16 RD
+11 17 WR
+14 17 WR
+15 17 WR
+18 8 UK
+19 9 WR
+14 19 UK
+11 20 FR
+15 20 UK
+11 21 FR
+21 16 WR
+21 17 EX
+22 16 RD
+22 17 RD
+21 22 UK
+

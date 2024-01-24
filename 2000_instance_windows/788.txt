@@ -1,0 +1,30 @@
+11
+MP*-WScript.exe 
+TF-00019.txt
+SF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64.sys
+MP*-Locker mr robot.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+MP*-wscript.exe 
+SF-C:\Users\admin\AppData\Local\Temp\468C
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe
+SF-C:\Windows\apppatch\Custom\T1546
+SF-C:\Program Files (x86)\UltraViewer\UltraViewer_Desktop
+MP*-jsIXhU
+16
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 ST
+4 3 RF
+0 5 FR
+5 1 RD
+5 2 WR
+3 5 UK
+0 6 WR
+0 7 RD
+0 8 WR
+0 9 UK
+10 1 UK
+

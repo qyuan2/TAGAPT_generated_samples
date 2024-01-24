@@ -1,0 +1,132 @@
+33
+MP*-EBDE.exe
+SF-C:\Users\admin\Desktop\SERVIPAGrecibo.m
+MF-Files\Java\jre1.8.0_92\bin\javaw.exe
+MP*-PURCHASE ORDER 091020.exe 
+MF-C:\Users\admin\AppData\Local\Temp\jojo11
+TP-Client.exe 
+MP-Scanned_file_PO23_Jan.exe 
+SF-C:\Users\admin\AppData\Local\Temp\phish_alert_iocp_v1
+TP-LogTransport2.exe
+MF-C:\Users\admin\AppData\Roaming\JavaNetworkServices86\javaw.exe
+MP-WINWORD.EXE
+MF-Downloader_LIT-Qg1.exe
+MF-\Users\admin\Downloads\MDE_File_Sample_bc548dd6003002ec5d288b30d1802e3bb6bcbfde4d8d8a40fc7fb5a9e21a3c09.zip
+MF-Report.pdf
+MP-bitsadmin.exe
+TF-\Users\User\8527.ico.vb
+MF-485240_2023_.rar
+MP-PC_Cleaner__5509.exe 
+TP*-dkeyauth.exe 
+SF-C:\Users\admin\Desktop
+MP*-cipher.exe
+MP-SearchProtocolHost.exe
+MF-\Users\Public\Music\mediatv.mov
+MF-Client\filezilla.exe
+MF-\Users\admin\AppData\Local\Temp\tmpCD64.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+MF-pcalua.exe
+MP-OperaSetup_UNO.exe
+MF-PathToAtomicsFolder\T1218.011\src\index.hta
+MP-jww825a.exe 
+MP-system_file.exe 
+MF-C:\Windows\System32\regsvr32.exe
+TP-jww825a.tmp
+96
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 WR
+3 4 RD
+0 5 FR
+5 1 WR
+5 2 WR
+3 5 IJ
+5 4 RD
+0 6 FR
+6 1 WR
+6 2 RD
+3 6 UK
+0 7 WR
+5 7 RD
+0 8 IJ
+8 1 RD
+8 2 WR
+8 4 WR
+5 8 IJ
+8 7 UK
+0 9 WR
+5 9 WR
+0 10 FR
+10 1 CD
+10 2 RD
+10 4 EX
+5 10 IJ
+10 9 RD
+5 11 RD
+10 11 WR
+5 12 CD
+10 12 WR
+5 13 WR
+10 13 WR
+14 4 WR
+5 14 UK
+10 15 WR
+10 16 WR
+17 9 WR
+17 11 WR
+17 12 EX
+17 13 WR
+17 15 WR
+17 16 WR
+18 9 EX
+10 18 IJ
+18 11 WR
+18 12 WR
+18 13 EX
+18 15 RD
+18 16 RD
+17 18 UK
+10 19 UK
+20 11 WR
+20 12 WR
+20 13 WR
+20 15 WR
+20 16 EX
+21 11 RD
+21 12 WR
+21 13 RD
+21 15 UK
+20 22 RD
+20 23 RD
+20 24 WR
+20 25 ST
+20 26 WR
+20 27 FR
+27 22 CD
+27 23 EX
+27 24 WR
+27 25 ST
+27 26 RD
+20 28 WR
+27 28 EX
+20 29 FR
+29 22 WR
+29 23 WR
+29 24 UK
+20 30 FR
+30 22 WR
+30 23 RD
+30 25 ST
+30 26 WR
+30 28 WR
+27 31 UK
+32 22 RD
+32 23 WR
+25 32 RF
+32 26 EX
+32 28 EX
+30 32 UK
+

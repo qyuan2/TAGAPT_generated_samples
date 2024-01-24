@@ -1,0 +1,46 @@
+11
+MP*-find
+MF-alertConfigField.php
+SO-192.168.10.128
+TP-sh
+MF-flag4.txt
+MP*-less
+SF-f.r
+MP-cat
+MF-os.exe
+TP*-uname
+MP*-head
+32
+0 1 WR
+2 0 RF
+0 3 FR
+3 1 RD
+2 3 RF
+0 4 WR
+3 4 WR
+0 5 FR
+5 1 WR
+5 2 ST
+3 5 IJ
+5 4 WR
+0 6 WR
+3 6 UK
+0 7 FR
+7 1 WR
+7 2 ST
+7 4 EX
+0 8 WR
+5 8 RD
+7 8 RD
+0 9 FR
+9 1 EX
+9 2 ST
+9 4 WR
+5 9 IJ
+7 9 UK
+0 10 FR
+10 1 RD
+2 10 RF
+10 4 CD
+5 10 UK
+

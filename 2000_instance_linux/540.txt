@@ -1,0 +1,136 @@
+33
+MP-bash
+MP-grep
+SF-T1070.006-modification.txt
+MP-less
+SO-64.192.168.80
+SO-192.168.47.155
+TP-nl
+SO-192.168.0.134
+SO-192.168.10.128
+MP-sftp
+TP-iptables
+MF-log.c
+MF-sysctl.c
+TP*-wget 
+MP*-git
+SF-user.r
+MP-bash
+MP*-pr
+MP*-ifconfig
+MF-raw.githubusercontent.c
+MP-uname
+MP-more
+TP-bash
+MF-target.example.c
+MP-cat
+MP-echo
+MF-raft-medium-directories.txt
+MP-ls
+MP-tail
+TF-alertConfigField.php
+MF-victim-shred.txt
+MP-sed
+MP-uname
+100
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 FR
+1 3 UK
+4 0 RF
+0 5 ST
+0 6 IJ
+6 2 EX
+4 6 RF
+5 6 RF
+7 0 RF
+7 6 RF
+0 8 ST
+6 8 ST
+0 9 FR
+9 2 CD
+4 9 RF
+5 9 RF
+6 9 IJ
+9 7 ST
+8 9 RF
+0 10 IJ
+10 2 CD
+4 10 RF
+10 5 ST
+6 10 IJ
+7 10 RF
+10 8 ST
+9 10 IJ
+6 11 RD
+9 11 WR
+10 11 WR
+6 12 WR
+9 12 EX
+10 12 WR
+4 13 RF
+5 13 RF
+6 13 IJ
+13 7 ST
+8 13 RF
+9 13 IJ
+10 13 IJ
+13 11 WR
+13 12 WR
+14 4 ST
+14 5 ST
+6 14 IJ
+14 7 ST
+14 8 ST
+9 14 UK
+6 15 WR
+10 15 WR
+13 15 RD
+6 16 FR
+16 7 ST
+8 16 RF
+10 16 UK
+17 7 ST
+8 17 RF
+17 11 WR
+17 12 WR
+13 17 IJ
+17 15 CD
+18 8 ST
+18 11 RD
+18 12 RD
+13 18 IJ
+18 15 WR
+17 18 UK
+13 19 WR
+20 11 WR
+20 12 RD
+13 20 UK
+21 11 CD
+21 12 UK
+22 15 CD
+22 19 EX
+22 23 WR
+24 15 WR
+24 19 WR
+22 24 UK
+25 15 RD
+25 19 RD
+25 23 CD
+25 26 WR
+27 19 RD
+27 23 RD
+25 27 UK
+28 19 WR
+28 23 EX
+28 26 EX
+28 29 WR
+28 30 EX
+31 23 RD
+31 26 WR
+31 29 UK
+32 23 RD
+32 26 RD
+28 32 UK
+

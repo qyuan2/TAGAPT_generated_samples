@@ -1,0 +1,53 @@
+16
+MP*-awk
+MF-T1070.004-test.txt
+MP-pr
+MF-os.exe
+SF-da-ks.cfg
+MF-te.c
+MP*-sed
+TP-cat
+MP-sed
+MP*-bash
+TP*-sed
+MF-T1003.008.txt
+TF-inetd.c
+SF-CleaingScript.sh
+TP-less
+MP-sed
+34
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 WR
+0 4 UK
+2 5 RD
+6 1 CD
+6 3 RD
+6 5 WR
+7 1 WR
+2 7 IJ
+7 3 UK
+8 1 WR
+8 5 EX
+6 8 UK
+9 1 RD
+9 5 RD
+10 1 RD
+2 10 IJ
+10 5 RD
+9 10 IJ
+2 11 EX
+9 11 WR
+10 11 WR
+2 12 RD
+9 12 RD
+10 12 WR
+9 13 UK
+14 5 WR
+10 14 IJ
+14 11 UK
+15 5 WR
+10 15 UK
+

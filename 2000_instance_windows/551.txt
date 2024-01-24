@@ -1,0 +1,43 @@
+12
+MP*-updater.exe
+MP*-Radmin.exe
+TP*-сsrss.exe 
+SF-c:\Users\admin\AppData\Local\Temp\CSCF2B3
+MF-C:\Windows\Temp\atomicNotificationPackage
+MP-Reg.exe
+MF-test.png
+MF-C:\Program Files\Windows Photo Viewer\PhotoViewer.dll
+SO-https://filetransfer.io/data-package/UR2whuBv/download
+SF-C:\Program Files\Windows Media Player\wmpnscfg
+TP*-saves.exe
+MP-danke.exe 
+28
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 WR
+1 3 WR
+2 3 CD
+0 4 WR
+1 4 RD
+2 4 WR
+0 5 FR
+1 5 UK
+0 6 WR
+2 6 UK
+0 7 WR
+8 0 RF
+0 9 WR
+0 10 IJ
+10 3 WR
+10 4 RD
+10 7 WR
+10 8 ST
+10 9 WR
+11 3 WR
+11 4 WR
+11 7 RD
+11 8 ST
+11 9 RD
+10 11 UK
+

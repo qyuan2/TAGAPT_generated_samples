@@ -1,0 +1,63 @@
+19
+MP*-regsvr32 .exe
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe
+MP-PCCleaner.exe
+MP-control.exe
+TP-taskmgr.exe
+MP-at.exe
+MF-C:\Users\admin\AppData\Local\Temp\qgcrmeck
+MP-setup_avrokeyboard_5.6.0.exe
+MP-nanodump.x64.exe
+TP-qgcrmeck.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+MF-\System32\notepad.exe
+MP*-fsutil.exe
+MF-files\appdata\local\temp\26012.bmp
+MP-test de fdp.exe 
+TF-C:\Users\admin\AppData\Local\Temp\splwow64
+MF-\Users\admin\AppData\Local\Temp\EF98.exe
+MP*-renamer-7.5.exe
+MP*-c9923098.exe
+41
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 EX
+2 3 UK
+0 4 IJ
+4 1 RD
+0 5 UK
+4 6 WR
+7 1 WR
+4 7 IJ
+7 6 UK
+8 1 WR
+4 8 IJ
+9 1 WR
+4 9 UK
+8 10 ST
+8 11 WR
+8 12 FR
+12 10 ST
+12 11 RD
+8 13 RD
+12 13 RD
+8 14 FR
+10 14 RF
+14 11 RD
+8 15 RD
+12 15 EX
+8 16 WR
+12 16 UK
+8 17 FR
+10 17 RF
+17 11 WR
+17 13 WR
+17 15 RD
+10 18 RF
+18 11 RD
+18 13 EX
+18 15 WR
+17 18 UK
+

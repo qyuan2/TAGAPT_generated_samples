@@ -1,0 +1,39 @@
+12
+MP-bash
+MP*-tail
+SF-os.exe
+MP-ls
+SF-T1070.006-reference.txt
+MF-T1074.001_discovery.log
+TP*-netstat
+SO-192.168.37.130
+MP*-sftp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP*-bash
+TF-'index.dat
+24
+0 1 FR
+1 2 RD
+1 3 FR
+3 2 WR
+1 4 WR
+3 4 RD
+1 5 EX
+3 5 UK
+1 6 IJ
+6 2 RD
+6 4 WR
+7 1 RF
+6 7 ST
+1 8 FR
+8 2 EX
+8 4 RD
+6 8 UK
+1 9 ST
+1 10 FR
+10 2 RD
+10 4 RD
+10 7 ST
+10 9 ST
+10 11 UK
+

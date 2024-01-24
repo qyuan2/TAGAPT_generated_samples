@@ -1,0 +1,46 @@
+14
+MP*-cat
+TF-raj.txt
+TF-atomic.log
+MF-robots.txt
+SO-192.168.47.155
+SF-cron.h
+MP*-ip
+MP*-su
+SF-syslog.c
+MF-anaconda-ks.cfg
+MF-etc.tar.gz
+MF-image.php
+MF-p.c
+MP*-cp
+29
+0 1 WR
+0 2 WR
+0 3 WR
+0 4 ST
+0 5 WR
+0 6 FR
+6 1 RD
+6 2 RD
+6 3 WR
+4 6 RF
+6 5 WR
+0 7 FR
+7 1 WR
+7 2 WR
+7 3 WR
+4 7 RF
+7 5 RD
+0 8 EX
+6 8 WR
+7 8 UK
+0 9 WR
+6 9 WR
+0 10 WR
+6 10 RD
+6 11 WR
+6 12 WR
+4 13 RF
+13 5 WR
+6 13 UK
+

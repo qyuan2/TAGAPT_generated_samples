@@ -1,0 +1,60 @@
+17
+MP*-cat
+SF-echo-art-fish.sh
+MP*-uname
+MP-cat
+MF-Users.tar.gz
+TP-sed
+SF-subprocess.c
+TF-access.htm
+SF-T1070.006-reference.txt
+TF-os.sys
+TP*-awk
+MP*-nl
+TP-tail
+MP-dd
+TP-more
+MP-pr
+MF-atomic.sh
+40
+0 1 CD
+0 2 FR
+2 1 CD
+0 3 FR
+3 1 EX
+0 4 WR
+2 4 RD
+3 4 WR
+0 5 FR
+5 1 RD
+2 5 IJ
+3 5 UK
+0 6 WR
+2 6 RD
+0 7 WR
+2 7 RD
+2 8 WR
+2 9 UK
+10 1 WR
+10 4 EX
+10 6 WR
+10 7 WR
+10 8 WR
+11 4 EX
+11 6 WR
+11 7 CD
+11 8 WR
+10 11 UK
+12 4 WR
+12 6 WR
+12 7 CD
+12 8 WR
+13 4 WR
+13 6 UK
+14 7 WR
+14 8 RD
+12 14 UK
+15 7 EX
+15 8 RD
+15 16 UK
+

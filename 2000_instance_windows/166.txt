@@ -1,0 +1,87 @@
+28
+MP*-nsA0C0.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\Outstanding
+SF-C:\Users\admin\AppData\Local\Temp\card
+MP*-Tags.exe 
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+MF-\CrackMapExecWin\crackmapexec.exe
+MF-C:\Program files\appdata\local\temp\5491.bmp
+TF-C:\Users\admin\Desktop\Remittance_1021395_092023_111928
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+MF-\Users\admin\AppData\Local\Temp\hf1ji2lv.cmd
+MP-MpCmdRun.exe
+SF-C:\Program Files\CCleaner\CCleanerBugReport
+SF-C:\Users\admin\AppData\Local\Temp\KS
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9AE8.tmp
+SF-C:\Windows\System32\NOTEPAD
+TP*-d6405410.exe
+MF-Plan.ppt
+MP*-lk.exe 
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=jsp
+MF-C:\Users\admin\AppData\Local\Temp\D911.exe
+MF-C:\Users\admin\AppData\Local\Temp\xx.vb
+MF-C:\Users\admin\Downloads\PC_Cleaner__5509
+MP-OperaSetup_UNO.exe
+MF-aug23-1.zip
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+SO-https://drimby.top/wndfi
+SF-C:\vLocalServerSetup\install.bat
+MF-\windows\system32\calc.exe
+56
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 UK
+0 4 ST
+0 5 WR
+0 6 RD
+0 7 EX
+8 0 RF
+0 9 WR
+0 10 FR
+10 2 RD
+10 4 ST
+10 5 EX
+10 6 WR
+10 7 WR
+8 10 RF
+10 9 RD
+10 11 EX
+10 12 WR
+10 13 EX
+10 14 CD
+15 6 RD
+15 7 WR
+8 15 RF
+15 9 WR
+15 11 RD
+15 12 WR
+15 13 WR
+15 14 EX
+15 16 WR
+8 17 RF
+17 9 WR
+17 11 RD
+17 12 RD
+17 13 WR
+17 14 RD
+15 17 IJ
+17 16 EX
+18 15 RF
+17 18 ST
+15 19 WR
+17 19 WR
+15 20 WR
+17 20 RD
+15 21 WR
+17 21 WR
+22 13 UK
+15 23 WR
+17 23 WR
+24 15 RF
+17 24 ST
+25 15 RF
+25 17 RF
+17 26 RD
+17 27 WR
+

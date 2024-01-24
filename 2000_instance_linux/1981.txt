@@ -1,0 +1,78 @@
+19
+MP*-nl
+MF-LinEnum.sh
+MP*-find
+MP-dd
+MF-resolv.c
+MF-alertConfigField.php
+TP-cat
+TP-cat
+MP*-ssh
+MF-AutoSUID.sh
+MF-at.a
+MP-awk
+SF-2017.pl
+SO-192.168.1.1
+MP-nl
+MP*-find
+MF-password-hash.sh
+MP-more
+TP-dpkg
+56
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 CD
+0 4 EX
+2 4 WR
+3 4 WR
+0 5 RD
+2 5 WR
+3 5 UK
+0 6 FR
+6 1 WR
+2 6 IJ
+6 4 WR
+0 7 FR
+7 1 RD
+2 7 UK
+0 8 FR
+8 1 WR
+8 4 EX
+6 8 IJ
+0 9 EX
+6 9 WR
+8 9 WR
+0 10 EX
+6 10 WR
+8 10 RD
+11 1 WR
+11 4 WR
+6 11 IJ
+11 9 WR
+11 10 WR
+6 12 RD
+8 12 WR
+11 12 RD
+13 6 RF
+8 13 ST
+11 13 ST
+14 4 RD
+6 14 IJ
+8 14 UK
+6 15 FR
+15 9 RD
+15 10 RD
+15 12 EX
+15 13 ST
+6 16 EX
+11 16 WR
+15 16 WR
+17 9 EX
+17 10 UK
+18 9 EX
+18 12 WR
+18 13 ST
+15 18 UK
+

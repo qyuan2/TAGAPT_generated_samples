@@ -1,0 +1,88 @@
+23
+MP*-mknod
+MF-lighttp.c
+TP-tee
+MP-cat
+MP-wpscan
+MF-td.c
+SF-resolv.c
+MF-data.zip
+MP-arp-scan
+MP*-less
+SO-123.6.44.67
+MF-httpd.c
+TP*-head
+MF-alertConfigField.php
+MP-grep
+MF-httpd.c
+MP-grep
+MF-lighttpd.c
+MP-dnsdomainname
+TP*-nl
+SO-192.168.10.129
+TF-flag4.txt
+TP-cat
+62
+0 1 CD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 CD
+2 3 UK
+0 4 FR
+4 1 WR
+0 5 RD
+4 5 RD
+0 6 WR
+4 6 RD
+0 7 RD
+4 7 WR
+0 8 FR
+8 1 RD
+4 8 UK
+0 9 FR
+9 1 WR
+9 5 EX
+9 6 WR
+9 7 RD
+0 10 ST
+10 9 RF
+9 11 EX
+12 5 WR
+12 6 WR
+12 7 WR
+12 10 ST
+12 11 WR
+12 13 RD
+14 5 UK
+12 15 WR
+16 7 RD
+16 10 ST
+16 11 RD
+12 16 IJ
+16 13 RD
+16 15 WR
+12 17 CD
+16 17 RD
+18 10 ST
+18 11 RD
+12 18 IJ
+18 13 WR
+18 15 EX
+16 18 UK
+19 10 ST
+19 11 EX
+12 19 IJ
+19 13 CD
+19 15 WR
+19 17 WR
+12 20 ST
+20 19 RF
+12 21 RD
+19 21 CD
+12 22 IJ
+22 13 WR
+22 15 EX
+22 17 EX
+19 22 UK
+

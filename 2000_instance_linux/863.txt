@@ -1,0 +1,56 @@
+19
+MP*-cat
+MP-go
+TF-pd.c
+MP-awk
+MF-secret.c
+MP*-cat
+MP-rev
+MP*-cat
+MP-ls
+MF-v.c
+MP-sed
+MP-dmesg
+MP-cat
+MP*-sed
+SF-access.txt
+SO-123.6.44.67
+MF-AutoSUID.sh
+SF-settings.php
+MP-paste
+34
+0 1 FR
+0 2 RD
+1 2 RD
+0 3 UK
+1 4 RD
+1 5 FR
+5 2 WR
+5 4 EX
+1 6 FR
+6 2 EX
+6 4 UK
+1 7 FR
+7 2 RD
+1 8 FR
+8 2 RD
+5 8 UK
+1 9 WR
+7 9 WR
+1 10 FR
+10 2 WR
+7 10 UK
+1 11 FR
+11 2 RD
+11 9 WR
+12 2 WR
+12 9 WR
+11 12 UK
+13 9 RD
+13 14 RD
+13 15 ST
+13 16 WR
+13 17 WR
+18 9 EX
+13 18 UK
+

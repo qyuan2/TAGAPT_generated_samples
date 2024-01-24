@@ -1,0 +1,245 @@
+65
+MP-sudo
+TP-cat
+MP-sed
+MF-CleaingScript.sh
+TP*-rev
+MP-awk
+TF-s.c
+MF-settings.php
+MP-uname
+TP-sed
+MF-www.google.c
+MP-find
+SF-flag3.txt
+SF-ron.a
+SF-chttp.c
+TP-touch
+TP*-tee
+MP-bash
+MF-os.exe
+SO-192.168.0.134
+MP-less
+MF-2017.pl
+MF-T1574.006.c
+MF-raj.txt
+MP-less
+TP-cat
+MF-lighttp.c
+TP-uname
+MP*-sed
+TP-curl
+MP-vim
+MF-settings.php
+MP-nl
+MF-os.exe
+MF-s.c
+SF-C : \Users\ADMINI~W\AppData\Local\Temp\XKNqbpzl.txt
+SO-192.168.10.133
+MP-ls
+MP-sed
+TP*-less
+MF-echo-art-fish.sh
+TP-nl
+MP-sed
+MF-pwquality.c
+MF-T1027-004-test.c
+MP-grep
+MF-LinEnum.sh
+SF-T1027-004-test.c
+MP-cat
+SO-192.168.10.133
+TF-Users.tar.gz
+TP-ls
+SF-chttp.c
+MF-apache2.c
+SF-AutoSUID.sh
+TF-www.google.c
+TP-perl
+MF-ufw.c
+SO-atomic@target.example
+TP-less
+MP-sed
+MP-head
+MF-art.sh
+TP-sh
+MP-tee
+177
+0 1 FR
+0 2 UK
+1 3 CD
+1 4 IJ
+4 3 WR
+1 5 FR
+5 3 WR
+4 5 IJ
+1 6 WR
+4 6 EX
+5 6 UK
+1 7 WR
+4 7 WR
+1 8 FR
+8 3 EX
+4 8 IJ
+8 7 WR
+1 9 IJ
+9 3 WR
+4 9 IJ
+9 7 EX
+8 9 IJ
+1 10 WR
+4 10 RD
+8 10 EX
+9 10 RD
+1 11 FR
+11 3 RD
+4 11 IJ
+11 7 RD
+8 11 UK
+4 12 RD
+9 12 RD
+4 13 WR
+9 13 RD
+4 14 WR
+9 14 WR
+15 7 WR
+9 15 UK
+16 7 WR
+16 10 WR
+16 12 RD
+16 13 WR
+16 14 EX
+17 7 WR
+17 10 RD
+17 12 WR
+17 13 WR
+17 14 WR
+16 17 IJ
+16 18 EX
+17 18 RD
+19 16 RF
+17 19 ST
+20 10 RD
+20 12 UK
+16 21 WR
+17 21 RD
+16 22 RD
+17 22 EX
+16 23 WR
+17 23 WR
+24 14 WR
+16 24 IJ
+24 18 UK
+16 25 UK
+17 26 WR
+17 27 IJ
+19 27 RF
+27 21 RD
+27 22 RD
+27 23 WR
+27 26 WR
+28 19 ST
+28 21 WR
+28 22 WR
+28 23 WR
+28 26 WR
+27 28 IJ
+19 29 RF
+29 21 WR
+29 22 RD
+29 23 WR
+29 26 WR
+27 29 IJ
+28 29 IJ
+30 21 WR
+30 22 RD
+30 23 RD
+30 26 WR
+27 30 IJ
+29 30 UK
+27 31 RD
+28 31 EX
+32 22 WR
+32 23 UK
+27 33 WR
+28 33 RD
+27 34 RD
+28 34 RD
+27 35 WR
+28 35 WR
+27 36 ST
+28 36 ST
+27 37 IJ
+28 37 UK
+38 31 WR
+38 33 EX
+38 34 WR
+38 35 WR
+36 38 RF
+39 31 RD
+39 33 WR
+39 34 WR
+39 35 EX
+36 39 RF
+38 39 IJ
+38 40 EX
+39 40 WR
+41 31 RD
+41 33 WR
+41 34 WR
+41 35 EX
+41 36 ST
+38 41 UK
+42 33 RD
+42 34 EX
+42 35 WR
+42 36 ST
+39 42 IJ
+42 40 WR
+39 43 UK
+42 44 RD
+45 35 UK
+42 46 WR
+42 47 WR
+48 40 RD
+48 44 RD
+48 46 WR
+48 47 RD
+42 49 ST
+48 49 ST
+42 50 WR
+48 50 WR
+42 51 UK
+48 52 WR
+48 53 WR
+48 54 EX
+48 55 RD
+56 46 RD
+56 47 WR
+48 56 IJ
+56 49 ST
+56 50 RD
+56 52 WR
+56 53 WR
+56 54 RD
+56 55 WR
+48 57 UK
+58 56 RF
+59 49 ST
+59 50 UK
+60 52 RD
+60 53 RD
+60 54 RD
+60 55 RD
+56 60 UK
+61 52 WR
+61 53 WR
+61 54 RD
+61 55 WR
+58 61 RF
+61 62 WR
+63 54 RD
+63 55 UK
+64 58 ST
+61 64 UK
+

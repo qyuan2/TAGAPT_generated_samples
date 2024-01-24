@@ -1,0 +1,52 @@
+16
+MP*-WMIC.exe 
+MF-%TEMP%\T1010.exe .\T1010\src\T1010.cs
+MP-taskkill.exe
+MF-\Windows\explorer.exe
+MF-DC\Reader\LogTransport2.exe
+TP-avi_previewer_demo.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp8DB1.tmp
+MF-C:\Windows\SysWOW64\tolkqfys\qgcrmeck.exe
+TP*-system_file.exe 
+MF-\Users\admin\Desktop\RunDRT-Office2016.bat
+TF-\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd.zip
+SF-C:\Windows\system32\icacls.exe
+MP*-Nixware.exe
+MF-C:\Users\admin\Desktop\tasksche.exe
+MF-wuauclt.exe
+TP*-UninsHs.exe
+33
+0 1 EX
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 EX
+0 4 WR
+2 4 WR
+0 5 IJ
+5 1 RD
+2 5 UK
+0 6 WR
+0 7 WR
+8 1 WR
+8 3 EX
+8 4 WR
+8 6 WR
+8 7 WR
+8 9 WR
+8 10 WR
+8 11 UK
+12 3 WR
+12 4 WR
+12 6 WR
+12 7 WR
+12 9 RD
+12 10 WR
+12 13 WR
+12 14 EX
+15 6 RD
+15 7 RD
+15 9 RD
+15 10 WR
+12 15 UK
+

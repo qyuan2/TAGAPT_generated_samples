@@ -1,0 +1,42 @@
+13
+MP-p1075250.exe
+MP*-nsD0E9.tmp
+MP-Sunset.exe 
+SO-192.168.5.25
+MF-\Windows\System32\inetsrv\appcmd.exe
+MP*-Reader_sl.exe 
+MP*-d6405410.exe
+TP-wmic.exe
+TP*-FACTURA COMERCIAL_70051.pdf.exe
+MP-444444.png.png.exe 
+MF-\Users\admin\AppData\Local\Temp\r.rar
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+TP-CE5F.exe
+26
+0 1 FR
+0 2 UK
+3 1 RF
+1 4 WR
+1 5 FR
+3 5 RF
+5 4 RD
+1 6 FR
+6 3 ST
+6 4 EX
+1 7 FR
+3 7 RF
+7 4 WR
+5 7 UK
+1 8 FR
+8 3 ST
+8 4 WR
+6 8 IJ
+3 9 RF
+9 4 WR
+6 9 UK
+8 10 WR
+8 11 ST
+3 12 RF
+12 4 RD
+8 12 UK
+

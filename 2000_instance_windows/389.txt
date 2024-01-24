@@ -1,0 +1,49 @@
+15
+MP*-msiexec.exe
+TF-C:\Users\admin\AppData\Local\Temp\Locker
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MP*-Ayuaey.exe 
+SF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+TP*-Scanned_file_PO23_Jan.exe 
+TP-LZ4-SOFT.exe 
+MF-%logonserver%\sysvol\
+MF-C:\Users\admin\AppData\Local\Temp\GLJBD24.tmp
+MP-pestudio.exe 
+TP*-pr2.exe 
+TF-Notice.pdf
+MF-C:\Users\admin\AppData\Local\Temp\nsf91FB.tmp
+MP-build2.exe 
+MP-FISCALIA GENERAL DE LA NACION --.exe 
+31
+0 1 WR
+2 0 RF
+0 3 FR
+3 1 WR
+2 3 RF
+0 4 WR
+3 4 WR
+0 5 FR
+5 1 WR
+5 2 ST
+3 5 IJ
+5 4 RD
+0 6 UK
+3 7 WR
+5 7 WR
+3 8 RD
+5 8 WR
+9 1 WR
+2 9 RF
+9 4 RD
+5 9 UK
+10 1 WR
+2 10 RF
+3 10 IJ
+10 4 RD
+10 7 RD
+10 8 UK
+3 11 EX
+3 12 WR
+3 13 UK
+14 4 UK
+

@@ -1,0 +1,50 @@
+17
+MP*-cat
+SF-at.a
+TP-nl
+MP*-ifconfig
+MP*-paste
+SF-ufw.c
+MF-e.c
+MF-2017.pl
+TP-id
+MF-apache2.c
+SO-192.168.206.0
+TP*-git
+MF-access.txt
+MF-alertConfigField.php
+MF-access.txt
+TP-cat
+SF-f.r
+30
+0 1 WR
+0 2 UK
+3 1 RD
+4 1 WR
+3 5 RD
+4 5 WR
+3 6 RD
+4 6 WR
+3 7 EX
+4 7 EX
+8 1 EX
+3 8 UK
+4 9 RD
+10 4 RF
+11 1 WR
+4 11 IJ
+11 5 WR
+11 6 WR
+11 7 RD
+11 9 WR
+11 10 ST
+4 12 WR
+11 12 WR
+4 13 WR
+11 13 WR
+4 14 RD
+11 14 WR
+15 5 RD
+15 6 UK
+11 16 UK
+

@@ -1,0 +1,40 @@
+11
+MP*-cat
+TF-ret.c
+SO-atomic@target.example
+SF-resolv.c
+TP*-tee
+TP-grep
+TP*-less
+SF-bash_completion.sh
+MF-rockyou.txt
+MP-w
+MP*-sed
+26
+0 1 WR
+0 2 ST
+0 3 EX
+0 4 FR
+4 1 WR
+4 2 ST
+4 3 RD
+0 5 IJ
+5 1 WR
+2 5 RF
+5 3 WR
+4 5 IJ
+0 6 IJ
+6 1 RD
+2 6 RF
+6 3 WR
+4 6 UK
+0 7 WR
+5 7 EX
+0 8 EX
+5 8 WR
+0 9 UK
+10 1 WR
+10 2 ST
+10 3 WR
+5 10 UK
+

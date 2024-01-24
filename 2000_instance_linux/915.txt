@@ -1,0 +1,59 @@
+17
+MP*-wfuzz
+TP*-head
+SF-syslog.c
+TF-settings.php
+MF-data.zip
+SF-T1003.008.txt
+SF-backsup.sh
+MF-f.r
+TP-bash 
+TP*-tac
+SF-lighttp.c
+TF-access.htm
+MF-inetd.c
+TP*-curl
+MF-secret.c
+TF-chttp.c
+MP-grep
+39
+0 1 IJ
+0 2 WR
+1 2 WR
+0 3 WR
+1 3 WR
+0 4 RD
+1 4 WR
+0 5 RD
+1 5 EX
+0 6 EX
+1 6 EX
+0 7 CD
+1 7 WR
+0 8 FR
+1 8 UK
+0 9 IJ
+9 2 EX
+9 3 WR
+9 4 RD
+9 5 WR
+9 6 CD
+9 7 WR
+0 10 CD
+9 10 RD
+9 11 WR
+9 12 WR
+13 3 WR
+13 4 WR
+13 5 EX
+13 6 RD
+13 7 WR
+9 13 IJ
+13 10 CD
+13 11 UK
+9 14 EX
+9 15 WR
+16 6 CD
+16 7 WR
+9 16 UK
+

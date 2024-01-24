@@ -1,0 +1,40 @@
+13
+MP*-ls
+MP*-less
+SF-backups.sh
+MF-sysctl.c
+SO-192.168.206.136
+MF-2017.pl
+SF-test.txt
+MF-robots.txt
+MF-art.sh
+MP-dd
+MP*-less
+SO-192.168.47.155
+MP*-nl
+24
+0 1 FR
+0 2 WR
+1 2 UK
+0 3 WR
+4 0 RF
+0 5 RD
+0 6 WR
+0 7 RD
+0 8 CD
+0 9 UK
+10 3 RD
+10 4 ST
+10 5 WR
+10 6 WR
+10 7 WR
+10 8 EX
+10 11 ST
+12 3 RD
+12 4 ST
+12 5 WR
+12 6 RD
+12 7 WR
+12 8 EX
+10 12 UK
+

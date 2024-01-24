@@ -1,0 +1,104 @@
+29
+MP*-cat
+TP*-more
+TP-cat
+SO-192.168.37.130
+MF-settings.php
+SF-image.php
+TF-logrotate.c
+SF-backsup.sh
+TF-v.c
+MP-cat
+MF-Users.tar.gz
+MP-bash
+MF-Anti virus service.lnk
+MF-T1574.006.c
+MP-less
+TF-on.a
+MP-uname
+TP-less
+MP*-wget
+MF-T1070.004-test.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+TP*-more
+MF-flag4.txt
+TP-setenforce 
+MF-Users.tar.gz
+MP-bash
+SF-anaconda-ks.cfg
+SO-192.168.206.0
+MF-v.c
+72
+0 1 IJ
+0 2 FR
+1 2 IJ
+0 3 ST
+3 1 RF
+3 2 RF
+0 4 CD
+1 4 RD
+2 4 EX
+0 5 WR
+1 5 WR
+2 5 WR
+0 6 CD
+1 6 RD
+2 6 WR
+0 7 WR
+1 7 WR
+2 7 WR
+0 8 WR
+1 8 WR
+2 8 WR
+0 9 FR
+1 9 IJ
+2 9 IJ
+3 9 RF
+9 4 UK
+1 10 WR
+2 10 WR
+2 11 IJ
+11 3 ST
+11 5 WR
+11 6 WR
+11 7 EX
+11 8 RD
+11 10 CD
+11 12 RD
+11 13 RD
+14 5 UK
+11 15 RD
+16 7 WR
+16 8 WR
+16 10 WR
+16 12 UK
+17 8 RD
+17 10 UK
+11 18 FR
+18 13 WR
+18 15 RD
+11 19 WR
+18 19 WR
+11 20 ST
+18 20 ST
+11 21 FR
+21 13 RD
+21 15 WR
+18 21 IJ
+21 19 WR
+21 20 ST
+18 22 RD
+21 22 EX
+23 13 WR
+23 15 RD
+18 23 UK
+21 24 RD
+25 15 EX
+25 19 RD
+25 20 ST
+21 25 IJ
+25 22 UK
+21 26 RD
+27 21 RF
+21 28 UK
+

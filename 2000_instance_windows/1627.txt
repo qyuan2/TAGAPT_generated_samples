@@ -1,0 +1,133 @@
+36
+MP*-ns967A.tmp
+MP-SearchFilterHost.exe
+MF-.\ExternalPayloads\T1551.006_timestomp.txt
+MP-cacls.exe
+MP-regsvcs.exe
+TF-amend.rar
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns96F8.tmp
+SO-https://access-message.top/secure-login
+MP-setup_avrokeyboard_5.6.0.exe
+MP*-MpCmdRun.exe
+TF-C:\Program files\appdata\local\temp\5275
+TP-SearchFilterHost.exe
+TF-.\ExternalPayloads\x64\mimikatz.exe
+TP-DllHost.exe 
+TP*-FISCALIA GENERAL DE LA NACION --.exe 
+TP*-Entry.exe 
+TP-cronos.exe
+SF-C:\Users\admin\AppData\Local\Temp\msetup\operasetup.exe
+MP-POWERPNT.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\a8b069ef9d76cd42e873c6e8ded9db8c17d9d0ce234b5e7c9a126b4d514c6f72
+MP-RegDll.x86.exe
+TP-jww825a.exe 
+MP-cronos.exe
+TF-\Users\admin\AppData\Local\Temp\ps.ps1
+MF-IE1.jpg
+TP-468C.exe
+TP-saBSI.exe
+MP-nsA299.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt','Default_File_Path.ps1');IEX((-Join([IO.File]::ReadAllBytes('Default_File_Path.ps1')|ForEach-Object{[Char]$_
+TF-C:\Users\admin\AppData\Roaming\damianoh68951.exe
+SO-http://192.168.10.11/test.ps1
+MP-sysmon.exe
+MF-\Browserweb\csrss.exe
+MF-C:\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b
+SO-0.0.0.0
+94
+0 1 FR
+0 2 RD
+1 2 EX
+0 3 FR
+3 2 CD
+0 4 FR
+4 2 WR
+3 4 UK
+0 5 EX
+1 5 RD
+0 6 WR
+1 6 RD
+0 7 ST
+1 7 ST
+0 8 UK
+9 2 WR
+9 5 RD
+9 6 WR
+9 7 ST
+9 10 EX
+11 2 RD
+11 5 EX
+11 6 WR
+7 11 RF
+9 11 IJ
+11 10 RD
+9 12 RD
+11 12 RD
+13 5 RD
+13 6 WR
+7 13 RF
+9 13 IJ
+13 10 WR
+11 13 UK
+14 5 WR
+14 6 CD
+14 7 ST
+9 14 IJ
+14 10 WR
+14 12 WR
+15 6 WR
+15 7 ST
+9 15 IJ
+15 10 RD
+15 12 WR
+14 15 IJ
+16 7 ST
+9 16 UK
+14 17 WR
+15 17 RD
+18 10 WR
+18 12 EX
+14 18 IJ
+15 18 IJ
+18 17 WR
+14 19 CD
+15 19 WR
+18 19 WR
+20 10 WR
+20 12 WR
+14 20 IJ
+15 20 UK
+21 12 WR
+14 21 IJ
+21 17 WR
+18 21 UK
+22 12 WR
+14 22 IJ
+22 17 UK
+14 23 RD
+14 24 WR
+25 19 WR
+25 23 RD
+25 24 RD
+26 19 WR
+26 23 RD
+26 24 UK
+27 19 EX
+27 23 WR
+25 27 IJ
+25 28 ST
+27 28 ST
+29 25 RF
+27 29 ST
+25 30 WR
+27 30 EX
+25 31 ST
+31 27 RF
+32 23 RD
+25 32 IJ
+27 32 UK
+25 33 WR
+25 34 WR
+25 35 ST
+

@@ -1,0 +1,42 @@
+12
+MP*-nl
+MP*-more
+SF-td.c
+SO-192.168.159.128
+SF-v.c
+TP*-head
+MF-access.htm
+MP*-grep
+MF-T1003.008.txt
+MF-www.google.c
+SO-192.168.47.155
+SF-raw.githubusercontent.c
+27
+0 1 FR
+0 2 RD
+1 2 RD
+3 0 RF
+3 1 RF
+0 4 WR
+1 4 WR
+0 5 IJ
+1 5 IJ
+5 2 RD
+5 3 ST
+5 4 RD
+0 6 WR
+1 6 WR
+5 6 WR
+0 7 FR
+7 2 WR
+3 7 RF
+7 4 RD
+5 7 UK
+0 8 CD
+1 8 EX
+0 9 CD
+1 9 WR
+0 10 ST
+1 10 ST
+1 11 WR
+

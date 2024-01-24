@@ -1,0 +1,174 @@
+43
+MP*-keygen.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+MF-\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023.pdf
+MP-OlympicDestroyer.exe 
+SF-C:\Users\admin\AppData\Local\Temp\819cebc553434a1b12318d80f63ebd96.exe
+MP-IEmode.exe 
+MP-xordump.exe 
+MP-setup_avrokeyboard_5.6.0.exe
+TF-amend.rar
+SO-192.168.10.11
+MP-RegDll.x86.exe
+TP-nsBC6C.tmp
+MP-OperaSetup_UNO.exe
+MP-where.exe
+MP-T1027.exe
+TP*-0b358566ef3d811318615ad96c082cf1.exe 
+SF-C:\Windows\Temp\xordump.exe
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MF-.\ExternalPayloads\TruffleSnout.exe
+TF-\Users\admin\AppData\Local\Temp\6248.exe
+TF-%systemdrive%\Users\Public\Desktop
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+TP-WinAPIOverride 6.9.1.tmp
+MF-syssetup.dll
+MF-msftesql.exe
+SO-hxxp://68.183.9[.]9/get.php
+MP*-VRAPP.exe 
+MF-\Windows\System32\windowspowershell\v1.0\powershell.exe
+MF-network.m
+MP-MSBuild.exe
+MP-sc.exe
+SF-C:\vLocalServerSetup\VPlugin.dll
+MP-regsvr32 .exe
+SF-C:\Users\admin\AppData\Local\Temp\is-AQ9QP.tmp
+MF-C:\Program Files\CCleaner\LOG
+TP*-ns958E.tmp 
+MP-MicrosoftEdgeWebview2Setup.exe
+TF-\Users\admin\AppData\Local\Temp\444444.png.png.exe
+MF-C:\Users\admin\AppData\Local\Temp\keygen.exe
+MP-wscript.exe
+MF-\Users\admin\AppData\Local\fvjhioojuu.vb
+MP-LogTransport2.exe
+128
+1 0 RF
+0 2 WR
+0 3 FR
+3 1 ST
+3 2 WR
+0 4 WR
+3 4 WR
+0 5 FR
+1 5 RF
+5 2 WR
+5 4 WR
+0 6 FR
+1 6 RF
+6 2 RD
+6 4 RD
+5 6 UK
+0 7 FR
+7 1 ST
+7 2 RD
+7 4 WR
+0 8 CD
+3 8 WR
+7 8 WR
+0 9 ST
+9 3 RF
+7 9 ST
+0 10 FR
+10 1 ST
+10 2 RD
+10 4 EX
+7 10 UK
+11 1 ST
+11 2 WR
+3 11 IJ
+11 4 WR
+11 8 RD
+11 9 ST
+12 2 WR
+12 4 RD
+12 8 RD
+12 9 ST
+11 12 UK
+3 13 UK
+14 4 RD
+14 8 EX
+14 9 ST
+15 8 RD
+9 15 RF
+14 15 IJ
+14 16 RD
+15 16 WR
+14 17 RD
+15 17 EX
+18 14 RF
+18 15 RF
+14 19 CD
+15 19 WR
+14 20 WR
+15 20 WR
+14 21 UK
+15 22 ST
+15 23 FR
+23 16 RD
+23 17 WR
+23 18 ST
+23 19 CD
+23 20 EX
+23 22 ST
+15 24 RD
+23 24 WR
+23 25 RD
+23 26 ST
+27 17 RD
+27 18 ST
+27 19 RD
+27 20 WR
+22 27 RF
+23 27 IJ
+27 24 RD
+27 25 RD
+27 26 ST
+23 28 RD
+27 28 RD
+23 29 EX
+27 29 WR
+30 20 RD
+22 30 RF
+23 30 IJ
+30 24 RD
+30 25 WR
+30 26 ST
+30 28 RD
+30 29 RD
+31 22 ST
+23 31 UK
+27 32 WR
+30 32 WR
+33 24 WR
+33 25 EX
+26 33 RF
+27 33 UK
+30 34 RD
+30 35 EX
+26 36 RF
+36 28 WR
+36 29 WR
+30 36 IJ
+36 32 WR
+36 34 WR
+36 35 RD
+37 28 EX
+37 29 EX
+30 37 UK
+36 38 RD
+36 39 EX
+40 32 RD
+40 34 RD
+40 35 WR
+36 40 IJ
+40 38 WR
+40 39 RD
+36 41 UK
+42 32 RD
+42 34 EX
+42 35 RD
+42 38 RD
+42 39 WR
+40 42 UK
+

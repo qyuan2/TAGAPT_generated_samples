@@ -1,0 +1,50 @@
+14
+MP*-operasetup.exe
+MF-C:\ProgramData\Oracle\Java
+TP-softwarelagswitchc.exe 
+MP-WISPTIS.EXE
+MF-C:\Users\admin\Desktop\DCRatBuild.exe
+TP*-rundll32.exe 
+MF-C:\Users\admin\AppData\Local\Temp\06ad76f4b19be8706f98441d926142af824bd2983217f6c2c02201dbb07d0224
+MF-C:\Users\admin\Desktop\5bc24af72c243ca1617a8e0125d75cb45b93cd82
+MP*-0IuqaJTsFmOw8k4.exe
+SO-https://pasalaganando.com/?utm_source=crm&utm_medium=email&utm_campaign=bancolombia_10_pct_facturacion
+SF-C:\Windows\system32\vssvc
+MF-C:\Windows\System32\runas.exe
+MP*-PDQDeployConsole.exe
+MP-OUTLOOK.EXE
+33
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 WR
+0 5 IJ
+5 1 RD
+5 4 RD
+0 6 WR
+5 6 WR
+0 7 WR
+5 7 RD
+0 8 FR
+8 1 WR
+8 4 WR
+5 8 IJ
+8 6 WR
+8 7 EX
+0 9 ST
+5 9 ST
+9 8 RF
+0 10 WR
+5 10 RD
+8 10 UK
+5 11 WR
+12 4 WR
+5 12 IJ
+12 6 WR
+12 7 UK
+13 4 WR
+5 13 UK
+

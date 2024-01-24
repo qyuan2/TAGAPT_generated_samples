@@ -1,0 +1,43 @@
+12
+MP*-nsA317.tmp
+SF-C:\Users\admin\AppData\Local\Temp\lrQaRWyjWLDaiWJBCg\jNRtlw
+MP*-AdFind.exe
+SO-45.63.100.72
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+MP-prevhost.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmpA6C1.tmp
+MF-C:\Users\admin\Downloads\Scanned_file_PO23_Jan.exe
+MF-.*\.sys
+TP*-bcdedit.exe
+TP-Xd.exe
+MP*-a6302410.exe
+28
+0 1 RD
+0 2 FR
+2 1 RD
+3 0 RF
+3 2 RF
+0 4 ST
+2 4 ST
+0 5 FR
+5 1 WR
+2 5 UK
+0 6 RD
+0 7 RD
+0 8 WR
+0 9 FR
+9 1 WR
+9 3 ST
+9 4 ST
+9 6 WR
+9 7 WR
+9 8 WR
+0 10 FR
+10 1 UK
+11 3 ST
+11 4 ST
+11 6 WR
+11 7 WR
+11 8 WR
+9 11 UK
+

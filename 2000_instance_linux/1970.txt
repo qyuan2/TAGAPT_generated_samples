@@ -1,0 +1,49 @@
+16
+MP*-xwd
+TP*-ps
+MF-http.c
+MF-flag4.txt
+MF-raw.githubusercontent.c
+MF-raj.txt
+TP*-ls
+MF-1.zip
+MP-grep
+MF-td.c
+MF-etc.tar.gz
+MF-shell.cgi
+MF-T1003.008.txt
+MF-1.zip
+TF-test.txt
+MP*-nl
+30
+0 1 IJ
+0 2 RD
+1 2 WR
+0 3 EX
+1 3 EX
+0 4 RD
+1 4 WR
+0 5 RD
+1 5 RD
+0 6 IJ
+1 6 IJ
+6 2 WR
+6 3 RD
+6 4 EX
+6 5 RD
+0 7 WR
+1 7 WR
+6 7 RD
+0 8 UK
+1 9 RD
+6 9 WR
+1 10 EX
+6 10 WR
+1 11 WR
+6 11 WR
+6 12 EX
+6 13 RD
+6 14 RD
+15 5 WR
+6 15 UK
+

@@ -1,0 +1,93 @@
+25
+MP-chmod
+TP*-su
+MP-find
+MP-cat
+MF-linux.txt
+MF-atomic.sh
+SO-192.168.2.102
+MF-syslog.c
+MF-LinEnum.sh
+MP-cat
+MF-user.r
+TP-uname
+MP*-dirb
+MP-less
+SF-pwquality.c
+MP*-sed
+SF-image.php
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP-tail
+MP-netstat
+MF-victim-shred.txt
+MP*-more
+MF-www.google.c
+SF-cron.a
+MF-2017.pl
+65
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 UK
+1 4 WR
+2 4 WR
+1 5 RD
+2 5 WR
+6 1 RF
+6 2 RF
+1 7 RD
+2 7 RD
+1 8 RD
+2 8 WR
+1 9 FR
+2 9 UK
+1 10 EX
+1 11 IJ
+11 4 WR
+11 5 RD
+11 6 ST
+11 7 WR
+11 8 WR
+11 10 WR
+12 4 WR
+12 5 RD
+6 12 RF
+12 7 WR
+12 8 RD
+12 10 WR
+11 12 IJ
+13 4 WR
+13 5 WR
+13 6 ST
+13 7 RD
+13 8 WR
+13 10 WR
+11 13 UK
+12 14 WR
+15 5 WR
+6 15 RF
+15 7 WR
+15 8 RD
+15 10 WR
+15 14 EX
+12 16 RD
+15 16 RD
+12 17 ST
+15 17 ST
+18 8 WR
+18 10 WR
+12 18 UK
+19 10 RD
+19 14 UK
+15 20 WR
+15 21 FR
+21 16 WR
+17 21 RF
+21 20 EX
+15 22 EX
+21 22 RD
+15 23 WR
+21 23 EX
+15 24 RD
+21 24 UK
+

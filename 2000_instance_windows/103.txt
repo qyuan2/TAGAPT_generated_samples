@@ -1,0 +1,118 @@
+36
+MP-E63F.exe
+MP-dpinst.exe 
+MP-ProcessHacker.exe 
+SF-HKLM\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
+MF-C:\Users\admin\AppData\Local\Temp\Untitled
+MF-explorer.exe
+MP-bfsvc.exe
+MP*-863e7c22c771e4005197ae28363584f8.exe 2620
+TP-crypted.exe 
+TF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04
+MF-C:\Users\admin\AppData\Local\Temp\p
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+MF-\Windows\system32\regsvr32.exe
+SF-C:\Users\User\8527
+MF-\Users\admin\AppData\Local\Temp\SecuriteInfo.com.Gen.Variant.Nemesis.22774.29638.5440.exe
+MF-\Users\admin\AppData\Roaming\damianoh68951.exe
+MF-1.exe
+TP-system_file.exe 
+TP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+TP*-ns9318.tmp
+TP-powershell.exe
+MP-system_file.exe 
+SF-C:\Users\admin\Desktop\untitled
+SF-C:\Users\admin\AppData\Local\Temp\SUNATfacturanopagada
+MF-Files\AsLocal\2.0.0\NetDisk.dll
+SF-HKLM\SOFTWARE\Policies\Microsoft\Windows
+MF-\programdata\asc.txt
+MP*-z9673002.exe
+TP-Xd.exe
+TF-C:\Users\admin\AppData\Local\Temp\dav
+MF-C:\Users\admin\AppData\Local\Temp\sample
+TF-files\appdata\local\temp\19084.bmp
+SF-C:\Users\admin\AppData\Local\Temp\fast1nject
+TP-ExplorerSuite.tmp
+SF-C:\Windows\System32\cscript
+MP-dvRzzWRPw.exe
+79
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 WR
+0 5 WR
+0 6 UK
+7 3 EX
+7 4 WR
+7 5 CD
+8 3 RD
+8 4 WR
+8 5 CD
+7 8 IJ
+7 9 RD
+8 9 UK
+7 10 WR
+11 3 RD
+11 4 EX
+11 5 WR
+11 10 EX
+7 12 WR
+11 12 RD
+7 13 WR
+11 13 WR
+7 14 WR
+11 14 WR
+7 15 EX
+11 15 RD
+7 16 WR
+11 16 RD
+7 17 IJ
+17 10 WR
+11 17 IJ
+17 12 WR
+17 13 WR
+17 14 RD
+17 15 UK
+18 10 RD
+11 18 UK
+19 10 WR
+19 12 RD
+19 13 WR
+19 14 EX
+19 16 WR
+20 10 RD
+20 12 EX
+20 13 RD
+20 14 RD
+20 16 RD
+19 20 IJ
+21 12 EX
+21 13 RD
+21 14 WR
+21 16 WR
+19 21 UK
+20 22 WR
+20 23 EX
+20 24 WR
+20 25 RD
+20 26 CD
+20 27 FR
+27 22 EX
+27 23 RD
+27 24 CD
+27 25 EX
+27 26 RD
+20 28 UK
+27 29 RD
+27 30 WR
+27 31 WR
+27 32 CD
+33 24 WR
+33 25 EX
+33 26 UK
+27 34 WR
+35 29 RD
+35 30 WR
+35 31 UK
+

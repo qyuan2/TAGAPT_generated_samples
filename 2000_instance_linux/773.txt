@@ -1,0 +1,103 @@
+25
+MP*-more
+MP-tee
+SF-ron.a
+MP-perl
+MF-apache2.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP-perl
+TP-cat
+SO-192.168.206.137
+MP-su
+MF-atomic.log
+MP*-cat
+SF-image.php
+TP*-less
+SF-d.c
+MP*-uname
+TF-T1070.004-test.txt
+SO-192.168.10.128
+MF-ufw.c
+SO-192.168.206.0
+MF-e.c
+MP-tail
+MF-art.sh
+SO-192.168.10.130
+MP-wpscan
+75
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+3 2 WR
+0 4 WR
+1 4 RD
+3 4 RD
+5 0 RF
+1 5 ST
+5 3 RF
+0 6 UK
+1 7 FR
+7 2 RD
+3 7 IJ
+7 4 WR
+5 7 RF
+8 1 RF
+3 8 ST
+8 7 RF
+1 9 FR
+9 2 WR
+3 9 UK
+1 10 EX
+7 10 WR
+1 11 FR
+11 2 RD
+11 4 RD
+5 11 RF
+7 11 IJ
+11 8 ST
+11 10 RD
+7 12 WR
+11 12 UK
+13 4 EX
+5 13 RF
+7 13 IJ
+8 13 RF
+13 10 WR
+7 14 WR
+13 14 WR
+15 5 ST
+7 15 IJ
+8 15 RF
+15 10 RD
+13 15 IJ
+15 14 EX
+7 16 WR
+13 16 RD
+15 16 WR
+7 17 ST
+13 17 ST
+15 17 ST
+13 18 WR
+15 18 WR
+19 13 RF
+15 19 ST
+13 20 RD
+15 20 UK
+13 21 IJ
+21 14 EX
+21 16 WR
+17 21 RF
+21 18 RD
+19 21 RF
+13 22 EX
+21 22 WR
+13 23 ST
+21 23 ST
+24 14 WR
+24 16 WR
+17 24 RF
+24 18 WR
+19 24 RF
+21 24 UK
+

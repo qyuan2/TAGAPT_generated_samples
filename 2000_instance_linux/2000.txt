@@ -1,0 +1,47 @@
+15
+MP*-netstat
+MP-cat
+MP-sed
+MF-settings.php
+TP-sed
+MP*-cat
+MF-Discovery.sh
+MP-awk
+MP-netstat
+MP*-cat
+TF-at.a
+MP*-ls
+MP-head
+MF-atomic.log
+MP-sed
+29
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 FR
+4 3 RD
+0 5 FR
+5 3 WR
+4 5 IJ
+0 6 EX
+4 6 EX
+5 6 EX
+0 7 UK
+8 3 WR
+4 8 IJ
+8 6 CD
+9 3 WR
+4 9 IJ
+5 9 UK
+4 10 WR
+8 10 UK
+11 3 EX
+4 11 IJ
+11 6 WR
+12 3 CD
+4 12 UK
+11 13 WR
+14 6 CD
+11 14 UK
+

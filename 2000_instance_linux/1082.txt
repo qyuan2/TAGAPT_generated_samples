@@ -1,0 +1,54 @@
+16
+MP*-cat
+SF-s.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-e2.c
+MP*-bash
+MF-ufw.log
+SO-192.168.159.128
+SO-http://192.168.10.128/shell.cgi
+MP*-pr
+MF-victim-shred.txt
+MF-1.zip
+TP*-perl
+TF-target.example.c
+MF-flag4.txt
+MF-victim-gzip.txt
+MP-tee
+35
+0 1 WR
+0 2 ST
+0 3 EX
+0 4 FR
+4 1 RD
+2 4 RF
+4 3 WR
+0 5 RD
+4 5 CD
+6 0 RF
+6 4 RF
+0 7 ST
+4 7 ST
+0 8 FR
+8 1 RD
+8 2 ST
+8 3 WR
+8 5 RD
+8 6 ST
+8 7 ST
+0 9 EX
+4 9 EX
+8 9 RD
+0 10 RD
+4 10 WR
+8 10 CD
+2 11 RF
+11 3 WR
+4 11 UK
+8 12 CD
+8 13 WR
+8 14 WR
+6 15 RF
+7 15 RF
+8 15 UK
+

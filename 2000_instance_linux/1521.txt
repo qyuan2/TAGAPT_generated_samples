@@ -1,0 +1,54 @@
+13
+MP*-vim
+TP*-ls
+MF-image.php
+TF-robots.txt
+SF-ttpd.c
+SO-192.168.10.131
+MP*-cat
+MP-wfuzz
+TP*-sed
+MP-cat
+MF-Discovery.sh
+MF-T1027-004-test.c
+MP-grep
+38
+0 1 IJ
+0 2 WR
+1 2 RD
+0 3 WR
+1 3 CD
+0 4 RD
+1 4 WR
+5 0 RF
+1 5 ST
+0 6 FR
+1 6 IJ
+6 2 WR
+6 3 CD
+6 4 WR
+6 5 ST
+0 7 FR
+1 7 IJ
+7 2 WR
+7 3 RD
+7 4 WR
+7 5 ST
+6 7 UK
+0 8 FR
+1 8 IJ
+8 2 WR
+8 3 WR
+8 4 WR
+8 5 ST
+0 9 UK
+1 10 WR
+8 10 CD
+1 11 EX
+8 11 WR
+12 2 RD
+12 3 WR
+12 4 WR
+5 12 RF
+8 12 UK
+

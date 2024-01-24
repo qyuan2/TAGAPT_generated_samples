@@ -1,0 +1,128 @@
+35
+MP*-bash 
+SO-192.168.10.130
+SF-e2.c
+MF-Users.tar.gz
+MF-inetd.c
+MF-target.example.c
+MP-ps
+SF-v.c
+TF-te.c
+TP-bash
+MP-cat
+TP-cat
+MP-cat
+MP*-bash 
+MF-access.htm
+MF-raj.txt
+SO-192.168.10.133
+TF-v.c
+MF-password-hash.sh
+MF-www.google.c
+SO-192.168.10.129
+TP-uname
+MP-tee
+SO-192.168.10.135
+MP*-bash
+TP-uname
+TF-ret.c
+MP-sh
+MF-ron.a
+TP-php
+MP*-grep
+SF-flag3.txt
+MF-resolv.c
+MF-T1070.006-reference.txt
+MP-tail
+90
+0 1 ST
+0 2 EX
+0 3 CD
+0 4 RD
+0 5 WR
+0 6 FR
+1 6 RF
+6 2 EX
+6 3 CD
+6 4 RD
+6 5 RD
+0 7 UK
+6 8 EX
+1 9 RF
+9 2 WR
+9 3 RD
+9 4 EX
+9 5 WR
+6 9 UK
+10 1 ST
+10 2 WR
+10 3 WR
+10 4 WR
+10 5 WR
+10 8 WR
+11 1 ST
+11 2 WR
+11 3 RD
+11 4 WR
+11 5 WR
+11 8 RD
+10 11 UK
+12 2 WR
+12 3 UK
+13 4 RD
+13 5 WR
+13 8 WR
+13 14 WR
+13 15 WR
+16 13 RF
+13 17 WR
+13 18 WR
+13 19 RD
+20 13 RF
+13 21 IJ
+21 14 WR
+21 15 EX
+21 16 ST
+21 17 WR
+21 18 UK
+13 22 FR
+22 14 WR
+22 15 RD
+22 16 ST
+22 17 RD
+22 19 CD
+22 20 ST
+23 13 RF
+22 23 ST
+24 14 WR
+24 15 RD
+16 24 RF
+24 17 CD
+24 19 WR
+20 24 RF
+22 24 UK
+25 15 WR
+25 16 ST
+25 17 EX
+25 19 RD
+25 20 ST
+23 25 RF
+25 26 UK
+27 17 RD
+27 19 RD
+20 27 RF
+23 27 RF
+27 28 RD
+29 19 WR
+29 20 ST
+23 29 RF
+27 29 UK
+30 20 ST
+23 30 RF
+30 28 RD
+30 31 WR
+30 32 WR
+30 33 WR
+34 28 WR
+30 34 UK
+

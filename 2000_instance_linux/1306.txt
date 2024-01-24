@@ -1,0 +1,130 @@
+36
+MP*-cat
+MF-www.google.c
+MF-da-ks.cfg
+TF-access.htm
+SF-secret.c
+MP*-tail
+SF-image.php
+MF-image.php
+TP*-sh
+MF-flag4.txt
+TF-Users.tar.gz
+MP-tail
+MP-tail
+TF-www.google.c
+MF-0*.txt
+TP-sed
+MF-e.c
+TP*-less
+MF-target.example.c
+MF-pwquality.c
+MP-vim
+MF-raft-large-directories.txt
+MF-syslog.c
+MF-cron.m
+MP-curl
+TP-sed
+MP-uname
+SO-123.6.44.67
+MP-bash
+MF-data.tar.gz
+MP-cat
+MF-www.google.c
+MF-victim-shred.txt
+MF-subprocess.c
+TP-truncate 
+SO-192.168.206.136
+91
+0 1 RD
+0 2 EX
+0 3 EX
+0 4 WR
+0 5 FR
+5 1 RD
+5 2 RD
+5 3 RD
+5 4 RD
+0 6 WR
+5 6 WR
+0 7 RD
+5 7 RD
+0 8 FR
+8 1 WR
+8 2 WR
+8 3 WR
+8 4 WR
+5 8 IJ
+8 6 WR
+8 7 RD
+0 9 WR
+5 9 RD
+8 9 EX
+0 10 EX
+5 10 WR
+8 10 WR
+11 1 WR
+11 2 UK
+12 3 RD
+12 4 WR
+5 12 UK
+8 13 EX
+8 14 RD
+15 6 RD
+15 7 EX
+8 15 IJ
+15 9 CD
+15 10 UK
+8 16 RD
+17 7 EX
+8 17 IJ
+17 9 WR
+17 13 RD
+17 14 WR
+17 16 EX
+8 18 WR
+17 18 RD
+17 19 WR
+20 13 WR
+20 14 WR
+20 16 CD
+17 20 IJ
+20 18 WR
+20 19 WR
+17 21 EX
+20 21 CD
+17 22 UK
+20 23 WR
+24 14 WR
+24 16 WR
+24 18 WR
+24 19 RD
+24 21 WR
+24 23 RD
+25 16 RD
+25 18 WR
+25 19 RD
+20 25 IJ
+25 21 EX
+25 23 WR
+24 25 IJ
+26 16 EX
+26 18 RD
+26 19 RD
+20 26 UK
+27 24 RF
+25 27 ST
+28 18 UK
+24 29 RD
+25 29 WR
+30 21 RD
+30 23 WR
+24 30 UK
+25 31 EX
+25 32 WR
+25 33 RD
+25 34 FR
+34 27 ST
+34 29 UK
+25 35 ST
+

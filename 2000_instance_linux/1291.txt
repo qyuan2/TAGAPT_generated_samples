@@ -1,0 +1,102 @@
+27
+MP*-cp
+TF-e2.c
+MF-alertConfigField.php
+MF-T1074.001_discovery.log
+MP-awk
+MP-cat
+MP-dd
+TP-grep
+MF-test.txt
+MP-bash
+MP-tail
+MP*-pr
+MP*-teehee
+MF-io.r
+MF-io.r
+SF-2017.pl
+MF-inetd.c
+TP-less
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+TP*-find
+SF-test.txt
+MP-awk
+MP-awk
+SF-f.r
+SO-192.168.1.1
+SF-pwquality.c
+MP-ip
+72
+0 1 WR
+0 2 RD
+0 3 EX
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 WR
+0 5 FR
+5 1 WR
+5 2 EX
+5 3 WR
+4 5 UK
+0 6 FR
+6 1 RD
+6 2 RD
+6 3 RD
+0 7 FR
+7 1 RD
+7 2 WR
+7 3 EX
+6 7 UK
+0 8 WR
+0 9 FR
+9 1 RD
+9 2 CD
+9 3 EX
+9 8 RD
+0 10 FR
+10 1 EX
+10 2 RD
+10 3 WR
+10 8 RD
+9 10 UK
+11 1 WR
+11 2 WR
+11 3 WR
+11 8 EX
+12 2 WR
+12 3 WR
+12 8 RD
+11 13 WR
+12 13 EX
+11 14 WR
+12 14 EX
+11 15 WR
+12 15 WR
+11 16 WR
+12 16 RD
+17 8 WR
+11 17 IJ
+12 17 IJ
+17 13 UK
+18 11 RF
+18 12 RF
+11 19 IJ
+12 19 IJ
+19 14 RD
+19 15 CD
+19 16 RD
+19 18 ST
+11 20 RD
+12 20 CD
+19 20 RD
+11 21 FR
+12 21 UK
+22 14 UK
+19 23 WR
+19 24 ST
+19 25 WR
+26 16 EX
+18 26 RF
+19 26 UK
+

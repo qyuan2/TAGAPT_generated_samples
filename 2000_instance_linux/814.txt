@@ -1,0 +1,94 @@
+25
+MP*-whoami
+TF-passwd.zip
+TP*-sed
+MF-data.zip
+MP-cat
+TP-awk
+MP-who
+MP-netstat
+SO-192.168.206.137
+MF-subprocess.c
+MP-nl
+MP-bash
+MP-cat
+MF-s.c
+SO-192.168.2.102
+MF-T1070.006-access.txt
+SO-192.168.47.155
+SO-192.168.47.155
+MP-paste
+MP*-rev
+TP*-cat
+SF-2017.pl
+MP-tac
+SF-atomic.sh
+MP-cat
+66
+0 1 RD
+0 2 IJ
+2 1 WR
+0 3 WR
+2 3 RD
+0 4 FR
+4 1 WR
+2 4 IJ
+4 3 WR
+0 5 FR
+5 1 EX
+2 5 IJ
+5 3 EX
+4 5 IJ
+0 6 UK
+7 1 WR
+2 7 UK
+4 8 ST
+8 5 RF
+4 9 WR
+5 9 WR
+10 1 WR
+4 10 UK
+5 11 FR
+11 8 ST
+11 9 RD
+5 12 FR
+12 8 ST
+12 9 RD
+5 13 UK
+11 14 ST
+12 14 ST
+11 15 WR
+12 15 WR
+16 11 RF
+12 16 ST
+17 11 RF
+12 17 ST
+18 9 RD
+11 18 UK
+12 19 FR
+19 14 ST
+19 15 WR
+16 19 RF
+17 19 RF
+12 20 FR
+20 14 ST
+20 15 EX
+20 16 ST
+20 17 ST
+19 20 IJ
+12 21 EX
+19 21 WR
+20 21 RD
+12 22 FR
+14 22 RF
+22 15 RD
+16 22 RF
+22 17 ST
+19 22 UK
+20 23 RD
+24 14 ST
+24 15 WR
+16 24 RF
+24 17 ST
+20 24 UK
+

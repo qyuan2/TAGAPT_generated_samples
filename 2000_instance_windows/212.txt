@@ -1,0 +1,42 @@
+12
+MP*-CE5F.exe
+MF-C:\Users\admin\AppData\Local\Temp\042da877d3\yiueea
+TP*-nsA19D.tmp
+MF-C:\Program Files\RerSpacer710\RerSpacer710.exe
+SO-10.0.0.00000
+TF-files\appdata\local\temp\19084.bmp.vb
+MF-script1.vb
+MP*-nsBC6C.tmp
+TF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42AMD64
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MF-window.c
+MP*-wscript.exe 
+27
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 RD
+4 0 RF
+2 4 ST
+0 5 RD
+2 5 WR
+0 6 RD
+2 6 UK
+0 7 FR
+7 1 WR
+7 3 RD
+4 7 RF
+7 5 RD
+0 8 EX
+7 8 WR
+0 9 ST
+9 7 RF
+0 10 CD
+7 10 WR
+11 1 EX
+11 3 WR
+11 4 ST
+11 5 WR
+7 11 UK
+

@@ -1,0 +1,83 @@
+25
+MP*-bash
+TP-echo
+MP-uname
+MF-target.example.c
+TP*-cat
+MF-flag3.txt
+MF-linux.txt
+MP*-echo
+MF-cron.a
+TP*-nl
+MP-arp
+MP-grep
+MF-2017.pl
+MP-more
+TF-os.exe
+MP-less
+MP-awk
+SF-raj.txt
+MP-cat
+MF-2017.pl
+MF-p.c
+MF-alertConfigField.php
+SF-Users.tar.gz
+MF-raft-large-directories.txt
+MP-paste
+55
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 FR
+4 3 EX
+0 5 WR
+4 5 RD
+0 6 EX
+4 6 CD
+0 7 FR
+7 3 RD
+4 7 IJ
+7 5 WR
+7 6 RD
+0 8 RD
+4 8 WR
+7 8 RD
+0 9 FR
+9 3 RD
+4 9 IJ
+9 5 WR
+9 6 EX
+7 9 IJ
+9 8 WR
+0 10 FR
+10 3 WR
+4 10 UK
+11 3 RD
+11 5 RD
+11 6 EX
+7 11 UK
+9 12 UK
+13 3 WR
+13 5 WR
+13 6 WR
+13 8 RD
+13 14 WR
+15 5 WR
+15 6 WR
+15 8 RD
+13 15 UK
+16 6 WR
+16 8 WR
+16 14 WR
+16 17 UK
+18 8 RD
+18 14 RD
+18 19 WR
+18 20 WR
+18 21 CD
+18 22 WR
+18 23 WR
+24 14 WR
+18 24 UK
+

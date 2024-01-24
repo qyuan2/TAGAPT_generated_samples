@@ -1,0 +1,44 @@
+12
+MP*-less
+TP*-tail
+MF-AutoSUID.sh
+MF-e.c
+MF-httpd.c
+TP-less
+MF-user.r
+SF-ttpd.c
+MF-T1574.006.c
+TF-T1070.004-test.txt
+MP*-grep
+MP*-bash
+29
+0 1 IJ
+0 2 RD
+1 2 RD
+0 3 EX
+1 3 WR
+0 4 WR
+1 4 RD
+0 5 FR
+1 5 UK
+0 6 WR
+0 7 CD
+0 8 WR
+0 9 WR
+0 10 FR
+10 2 WR
+10 3 WR
+10 4 EX
+10 6 WR
+10 7 EX
+10 8 RD
+10 9 EX
+11 2 WR
+11 3 EX
+11 4 WR
+11 6 EX
+11 7 RD
+11 8 WR
+11 9 WR
+10 11 UK
+

@@ -1,0 +1,68 @@
+21
+MP*-vlc.exe
+MF-C:\Users\admin\Desktop\Paradox RAT\Updater
+MP*-ExplorerSuite.exe
+MF-github.c
+MP-vssadmin.exe
+SF-C:\Users\admin\AppData\Local\Temp\Redline
+MP-cmdkey.exe
+SF-%systemdrive%\Users\Public\Desktop
+TP*-C:\Windows\System32\msiexec.exe
+MF-c:\Users\admin\AppData\Local\Temp\CSCF350
+MP-RegSvcs.exe
+MP-CasPol.exe
+MF-C:\Users\admin\AppData\Local\Temp\ebb444342c\legosa
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe
+TP-WinRAR.exe
+MF-C:\Users\admin\AppData\Local\Temp\CreateStudio_Setup.tar
+MP*-DllHost.exe
+MF-\*.b
+MF-C:\Users\admin\AppData\Local\Temp\Cookies3
+SF-C:\Program Files\Windows Defender\MpCmdRun
+MF-C:\Users\admin\AppData\Local\Temp\8be41efd6e6ace53b8c59344be2ba91fe41003987a8e38484b20760d7c400a42.zip
+44
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 WR
+0 4 FR
+4 1 WR
+2 4 UK
+0 5 RD
+0 6 FR
+6 1 EX
+6 3 UK
+0 7 WR
+0 8 IJ
+8 1 EX
+8 5 RD
+8 7 WR
+0 9 WR
+8 9 UK
+0 10 FR
+10 1 RD
+10 5 RD
+10 7 WR
+11 1 WR
+11 5 CD
+11 7 UK
+10 12 WR
+10 13 WR
+14 5 WR
+10 14 IJ
+14 12 RD
+14 13 UK
+10 15 WR
+10 16 FR
+16 12 RD
+16 15 WR
+10 17 WR
+16 17 EX
+10 18 WR
+16 18 WR
+10 19 WR
+16 19 WR
+10 20 WR
+16 20 UK
+

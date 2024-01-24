@@ -1,0 +1,30 @@
+13
+MP*-nsD62C.tmp
+SF-C:\Users\admin\AppData\Local\Temp\Overdue
+MF-\temp\atomictestfile.txt
+MP-KMSpico_setup.exe
+MP*-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+MF-pitshopautopartsus.c
+TF-Files\Google\Chrome\Application\chrome.exe
+MF-C:\Users\admin\AppData\Local\Temp\1.bat
+MF-\GnuPG\bin\gpg.exe
+MF-C:\Users\admin\AppData\Local\Temp\onepkg
+MF-C:\Users\admin\AppData\Local\Temp\getadmin
+MP*-Psiphon.exe
+MP*-BFB9.exe
+14
+0 1 WR
+0 2 WR
+0 3 UK
+4 1 WR
+4 2 WR
+4 5 RD
+4 6 WR
+4 7 WR
+4 8 WR
+4 9 WR
+4 10 WR
+11 2 WR
+4 11 UK
+12 5 UK
+

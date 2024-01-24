@@ -1,0 +1,132 @@
+37
+MP*-Proforma Invoice and Bank swift-REG.PI-0086547654.exe
+TF-C:\Users\admin\AppData\Roaming\file
+MP-BFB9.exe
+TP-сsrss.exe 
+SF-C:\Users\admin\AppData\Local\Temp\KMSpico_setup
+MP-sc.exe
+MF-C:\Program Files\searches\depended
+MF-C:\Program files\29630
+TP-nbtstat.exe
+MP-LogTransport2.exe
+MF-cmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\Overbygningsuddannelsens.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/DumpWCM.ps1
+MF-C:\Windows\System32\Curl.exe
+MF-sc.exe
+SO-test@corp.com
+MP*-msiexec.exe 
+MP-hh.exe 
+MP*-splwow64.exe
+MF-\Windows\System32\regsvr32.exe
+SO-http://gc2siv9geletsu4.orgweave.com/bXRpQG10aS5odQ
+SO-162.252.214.4
+TP-MadInjector\MadInjector.exe 
+MP-gpresult.exe
+TF-fdp.exe
+TP-8cc2d4575163a5e3dc7a56face3644e9.exe 
+MP*-msiexec.exe
+MF-Exproler.exe
+MP-ns921C.tmp
+TP-Order specification.exe
+MP-gsecdump.exe
+SF-C:\Users\admin\AppData\Local\Temp\msetup\operasetup.exe
+MF-\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+MF-Files\Bandizip\Bandizip.exe
+MP-vbc.exe
+MP-Entry.exe 
+MF-00027.pdf
+92
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 IJ
+3 1 WR
+2 3 IJ
+0 4 WR
+2 4 RD
+3 4 RD
+0 5 UK
+2 6 RD
+3 6 RD
+2 7 RD
+3 7 WR
+8 1 WR
+2 8 IJ
+3 8 IJ
+8 4 WR
+8 6 WR
+8 7 RD
+9 1 RD
+2 9 UK
+3 10 WR
+8 10 RD
+3 11 WR
+8 11 WR
+12 3 RF
+8 12 ST
+3 13 WR
+8 13 WR
+8 14 RD
+8 15 ST
+16 6 WR
+16 7 WR
+8 16 IJ
+16 10 WR
+16 11 WR
+12 16 RF
+16 13 WR
+16 14 RD
+15 16 RF
+17 7 WR
+8 17 IJ
+17 10 UK
+8 18 FR
+18 11 EX
+18 12 ST
+18 13 WR
+18 14 RD
+18 15 ST
+16 19 WR
+18 19 WR
+20 16 RF
+20 18 RF
+21 16 RF
+21 18 RF
+12 22 RF
+22 13 WR
+22 14 UK
+23 13 WR
+23 15 ST
+16 23 UK
+18 24 WR
+15 25 RF
+18 25 UK
+26 19 WR
+20 26 RF
+26 21 ST
+26 24 EX
+26 27 RD
+28 19 RD
+20 28 RF
+28 21 ST
+28 24 RD
+28 27 WR
+29 19 WR
+29 20 ST
+21 29 RF
+29 24 WR
+26 29 IJ
+29 27 UK
+21 30 RF
+30 24 RD
+28 30 UK
+26 31 EX
+26 32 WR
+26 33 WR
+26 34 UK
+35 31 WR
+35 32 EX
+35 33 EX
+35 36 UK
+

@@ -1,0 +1,67 @@
+18
+MP*-LogTransport2.exe
+MF-\Microsoft\Edge\Application\msedge.exe
+MP-java.exe
+MP*-msxsl.exe
+MF-\Users\User\29630.ico
+TP*-nsA12F.tmp
+MF-\Windows\System32\mshta.exe
+MF-C:\Windows\system32\MsiExec
+MF-Userinit.exe
+TP-gjarow.exe 
+MF-.\ExternalPayloads\T1003.004\bin\PsExec.exe
+TF-arianat.r
+TF-\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d.zip
+MP*-OUTLOOK.EXE 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+MP-сsrss.exe 
+MP-CompPkgSrv.exe
+46
+0 1 EX
+0 2 FR
+2 1 UK
+0 3 FR
+0 4 CD
+3 4 EX
+0 5 IJ
+3 5 IJ
+5 4 EX
+0 6 RD
+3 6 EX
+5 6 WR
+0 7 WR
+3 7 WR
+5 7 RD
+0 8 EX
+3 8 RD
+5 8 WR
+0 9 UK
+3 10 WR
+5 10 WR
+3 11 WR
+5 11 EX
+5 12 UK
+13 4 WR
+13 6 WR
+13 7 WR
+13 8 WR
+13 10 WR
+13 11 WR
+14 13 RF
+15 6 WR
+15 7 WR
+15 8 WR
+15 10 WR
+15 11 WR
+13 15 UK
+16 7 WR
+16 8 EX
+16 10 RD
+16 11 WR
+14 16 RF
+17 10 WR
+17 11 RD
+17 14 ST
+16 17 UK
+

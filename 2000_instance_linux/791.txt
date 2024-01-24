@@ -1,0 +1,33 @@
+11
+MP*-bash
+SF-lighttpd.c
+MP*-uname
+MP-pr
+MF-os.exe
+MP*-less
+SF-www.google.c
+TF-echo-art-fish.sh
+SF-settings.php
+MP*-sudo
+TP-cat
+19
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 WR
+5 1 RD
+5 4 RD
+5 6 WR
+5 7 EX
+5 8 RD
+9 1 WR
+9 4 CD
+9 6 RD
+9 7 RD
+9 8 UK
+10 4 WR
+5 10 UK
+

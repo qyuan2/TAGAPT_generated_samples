@@ -1,0 +1,39 @@
+13
+MP*-nsD4D4.tmp
+TF-C:\Users\admin\AppData\Local\Temp\Protected
+MP*-jsc.exe
+MP-Dkeyauth.exe
+SO-https://8.8.8.8/resolve?name=atomicredteam.$(Get-Random
+SO-8.100.0.203
+MP*-ntvdm.exe
+TF-C:\Users\admin\AppData\Local\Temp\C3B1
+MP-xnoobx.cc.exe 
+MP*-regasm.exe
+SF-C:\Program files\appdata\local\temp\3893.bmp
+TP-javaw.exe 
+MP-certutil.exe
+23
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 ST
+5 0 RF
+0 6 FR
+6 1 CD
+6 4 ST
+5 6 RF
+0 7 RD
+6 7 UK
+0 8 UK
+9 1 WR
+9 4 ST
+5 9 RF
+9 10 RD
+11 1 UK
+12 4 ST
+12 5 ST
+9 12 UK
+

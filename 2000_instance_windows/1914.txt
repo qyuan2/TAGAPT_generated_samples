@@ -1,0 +1,34 @@
+10
+MP*-Notepad.exe
+SF-C:\Windows\System32\regsvr32.exe
+MF-C:\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+MP*-Nixware.exe
+MF-Users\{90140000-00A1-0412-0000-0000000FF1CE}-C\services.exe
+SF-C:\Users\User\29630.ico
+SO-0.0.0.0
+MP*-02867fa8b443043ec0fe6af211c852aa.exe 
+MP*-yonr.exe 
+SO-1.2.840.113556
+21
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 EX
+0 4 WR
+0 5 EX
+6 0 RF
+0 7 FR
+7 1 WR
+7 2 WR
+7 4 RD
+7 5 WR
+7 6 ST
+0 8 FR
+8 1 WR
+8 2 RD
+8 4 WR
+8 5 RD
+8 6 ST
+7 8 UK
+0 9 ST
+

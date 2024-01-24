@@ -1,0 +1,92 @@
+24
+MP*-PEPlusLauncher_V2.exe 
+TP-ns9DCC.tmp 
+SF-C:\Users\admin\AppData\Local\Microsoft\Edge\User
+MP-schtasks.exe
+SF-C:\Users\admin\AppData\Local\Temp\xobpf7op.cmd
+MF-C:\Windows\System32\cmd.exe
+MF-scanner.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-Package.htm.htm
+TP*-AdFind.exe 
+MF-C:\Users\admin\Downloads\crypto
+MF-C:\Users\admin\AppData\Local\Temp\62f0e2de
+TP*-vlliugwu.exe 
+MF-AllTheThingsx64.dll
+MP-NOTEPAD.EXE
+MF-Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64.sys
+MF-C:\Users\admin\AppData\Roaming\CareUEyes\CareUEyes
+MP*-DllHost.exe 
+MP-Tags.exe 
+MF-C:\Users\admin\Desktop\readme.xml
+MP-AdobeTray.exe
+TF-\Users\admin\AppData\Local\Temp\tmp8520.tmp
+SF-C:\Windows\system32\WinSat
+MP-468C.exe
+65
+0 1 IJ
+0 2 WR
+1 2 RD
+0 3 FR
+1 3 UK
+0 4 RD
+0 5 WR
+0 6 WR
+7 0 RF
+0 8 WR
+0 9 IJ
+9 2 WR
+9 4 WR
+9 5 WR
+9 6 WR
+7 9 RF
+9 8 EX
+0 10 WR
+9 10 RD
+9 11 CD
+12 2 EX
+12 4 EX
+12 5 WR
+12 6 WR
+12 7 ST
+12 8 RD
+9 12 IJ
+12 10 WR
+12 11 EX
+9 13 RD
+12 13 RD
+14 4 EX
+14 5 WR
+14 6 WR
+7 14 RF
+14 8 RD
+9 14 IJ
+14 10 UK
+9 15 WR
+12 15 WR
+9 16 WR
+12 16 RD
+17 7 ST
+17 8 WR
+9 17 IJ
+17 11 RD
+12 17 IJ
+17 13 RD
+17 15 EX
+17 16 WR
+18 8 WR
+9 18 IJ
+18 11 WR
+12 18 IJ
+18 13 RD
+18 15 UK
+9 19 WR
+12 19 RD
+17 19 WR
+20 11 WR
+12 20 UK
+17 21 EX
+17 22 RD
+23 16 WR
+17 23 UK
+

@@ -1,0 +1,153 @@
+40
+MP-awk
+SO-123.6.44.67
+MP-cat
+MP-perl
+MP-curl
+MP-tail
+MP-ls
+TF-password-hash.sh
+MP-sed
+SO-192.168.1.1
+MP-ifconfig
+TP*-tee
+MF-data.zip
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP-sed
+MF-Users.tar.gz
+SO-8.8.8.8
+MP*-tail
+MF-flag4.txt
+MP-cat
+TP-dd
+MP*-bash
+SF-ufw.c
+MF-T1070.006-modification.txt
+MP-cat
+TP-less
+MP-pr
+MF-journald.c
+SO-192.168.0.134
+TP*-whois
+MF-da-ks.cfg
+SF-flag4.txt
+SF-resolv.c
+MF-access.txt
+MF-os.exe
+MF-0*.txt
+MP-nl
+TF-access.txt
+MP-ln 
+SO-192.168.2.102
+110
+1 0 RF
+0 2 FR
+1 2 RF
+0 3 FR
+3 1 ST
+0 4 FR
+4 1 ST
+2 4 UK
+0 5 FR
+5 1 ST
+0 6 FR
+1 6 RF
+3 6 UK
+0 7 WR
+5 7 EX
+0 8 UK
+5 9 ST
+10 1 ST
+5 10 UK
+1 11 RF
+11 7 WR
+11 9 ST
+11 12 WR
+11 13 ST
+14 7 UK
+11 15 EX
+11 16 ST
+17 9 ST
+11 17 IJ
+17 12 RD
+17 13 ST
+17 15 WR
+16 17 RF
+11 18 RD
+17 18 RD
+19 9 ST
+11 19 IJ
+19 12 WR
+19 13 ST
+19 15 WR
+19 16 ST
+17 19 UK
+11 20 IJ
+20 12 RD
+13 20 RF
+20 15 UK
+11 21 FR
+21 12 WR
+13 21 RF
+21 16 ST
+21 18 WR
+21 22 WR
+21 23 RD
+24 16 ST
+24 18 RD
+21 24 UK
+25 16 ST
+25 18 WR
+25 22 RD
+25 23 RD
+26 16 ST
+26 18 RD
+26 22 WR
+26 23 WR
+25 26 IJ
+25 27 WR
+26 27 WR
+28 25 RF
+28 26 RF
+29 22 WR
+29 23 RD
+25 29 IJ
+26 29 IJ
+29 27 WR
+29 28 ST
+25 30 WR
+26 30 WR
+29 30 WR
+25 31 WR
+26 31 WR
+29 31 EX
+25 32 WR
+26 32 WR
+29 32 WR
+25 33 EX
+26 33 RD
+29 33 RD
+25 34 RD
+26 34 UK
+25 35 WR
+29 35 WR
+36 27 EX
+36 28 ST
+29 36 IJ
+36 30 RD
+36 31 WR
+36 32 RD
+36 33 WR
+36 35 WR
+29 37 CD
+36 37 WR
+38 28 ST
+29 38 IJ
+38 30 RD
+38 31 WR
+38 32 WR
+38 33 RD
+38 35 WR
+36 38 UK
+39 29 RF
+

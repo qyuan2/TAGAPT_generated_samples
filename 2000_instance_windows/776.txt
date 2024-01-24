@@ -1,0 +1,28 @@
+10
+MP*-splwow64.exe
+MF-Files\Microsoft\Edge\Application\109.0.1518.115\BHO\ie_to_edge_stub.exe
+MP*-notepad++.exe
+MP*-notepad++.exe 
+MP*-ns9F46.tmp
+TF-%windir%\system32\cmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\Heapman45
+MF-C:\Users\admin\AppData\Local\Temp\CE5F.exe
+SF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild
+MP-DataSvcUtil.exe
+15
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 FR
+4 1 EX
+0 5 WR
+4 5 CD
+0 6 RD
+4 6 UK
+0 7 EX
+0 8 WR
+0 9 UK
+

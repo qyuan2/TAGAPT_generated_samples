@@ -1,0 +1,74 @@
+19
+MP*-ExplorerSuite.tmp
+TF-C:\Windows\System32\Notepad
+TP-Notepad.exe
+TP-AdobeARM.ex
+TP-z0200670.exe
+SF-C:\Users\admin\Desktop\disallowedcert
+MP*-svchost.exe
+MF-C:\IDontExist
+MF-C:\Recovery\345b46fe-a9f9-11e7-a83c-e8a4f72b1d33\IMEDICTUPDATE.exe
+SF-C:\Program Files\KMSpico\UninsHs
+MF-c:\users\public\music\allthethingsx64
+MF-C:\Users\admin\AppData\Local\Temp\is-Q8VQL.tmp
+MP*-system_file.exe 
+TP*-keygen.exe
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MP-explorer.exe 
+SF-C:\windows\system32\notepad.exe
+MF-C:\Windows\system32\SearchIndexer.exe
+TP-EF98.exe
+52
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 IJ
+3 1 CD
+2 3 UK
+0 4 IJ
+4 1 CD
+0 5 UK
+6 1 WR
+4 6 IJ
+4 7 WR
+6 7 CD
+4 8 WR
+6 8 RD
+4 9 WR
+6 9 RD
+4 10 RD
+6 10 WR
+4 11 RD
+6 11 CD
+4 12 IJ
+12 7 EX
+12 8 RD
+12 9 WR
+12 10 WR
+12 11 EX
+4 13 FR
+6 13 IJ
+13 7 EX
+13 8 RD
+13 9 EX
+13 10 WR
+13 11 RD
+12 13 UK
+4 14 ST
+14 6 RF
+6 15 FR
+15 7 WR
+15 8 EX
+15 9 WR
+15 10 RD
+15 11 RD
+15 14 ST
+6 16 WR
+15 16 WR
+15 17 WR
+18 9 WR
+18 10 RD
+18 11 WR
+18 14 ST
+15 18 UK
+

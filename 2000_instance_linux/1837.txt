@@ -1,0 +1,60 @@
+19
+MP*-ps
+MP*-sudo
+SF-flag3.txt
+SO-192.168.10.135
+TF-sysctl.c
+MP-tail
+MP-less
+MF-syslog.c
+TP-more
+SO-192.168.2.102
+MF-raft-large-directories.txt
+MF-io.r
+SO-192.168.159.128
+MP*-awk
+MF-httpd.c
+SO-atomic@target.example
+MF-shell.cgi
+MF-T1074.001_discovery.log
+MP*-uname
+38
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 ST
+1 3 ST
+0 4 WR
+1 4 WR
+0 5 UK
+1 6 FR
+6 2 WR
+3 6 RF
+6 4 EX
+1 7 WR
+6 7 WR
+1 8 IJ
+8 2 WR
+8 3 ST
+8 4 WR
+6 8 IJ
+8 7 WR
+9 1 RF
+9 6 RF
+9 8 RF
+1 10 UK
+6 11 WR
+8 11 WR
+6 12 ST
+12 8 RF
+13 3 ST
+13 4 RD
+6 13 UK
+8 14 EX
+8 15 ST
+8 16 EX
+8 17 WR
+8 18 IJ
+18 9 ST
+18 11 UK
+

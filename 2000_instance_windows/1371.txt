@@ -1,0 +1,95 @@
+28
+MP*-python.exe
+MP-setup.exe 
+MP-EasyValorant.exe 
+TP*-rundll32.exe 
+TP-ns9EC8.tmp 
+TP-nsD62C.tmp
+MP-NOTEPAD.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\RESF360.tmp
+TP-EvaPKO
+SO-192.168.10.11
+MF-\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+MF-C:\Browserweb\MDCD8H1
+TP-xordump.exe 
+MP*-hh.exe
+TP-c3c6a5675d32fe330b83debceb63d60e.exe 
+SF-C:\Users\admin\AppData\Local\Temp\farmhand
+MP-wbadmin.exe
+MP*-wmic.exe
+MF-File.htm.htm
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\d6405410.exe
+SF-C:\Program files\appdata\local\temp\5275
+MF-C:\Program Files\Mozilla Firefox\default-browser-agent.exe
+MP-DllHost.exe 
+TP-prevhost.exe
+TP-ngen.exe
+MF-C:\Users\admin\Desktop\SHIPPING
+TP-z1Emir.exe 
+MP-wmpnscfg.exe
+64
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 IJ
+0 4 FR
+3 4 IJ
+0 5 IJ
+3 5 IJ
+4 5 IJ
+0 6 FR
+3 6 IJ
+4 6 IJ
+5 6 UK
+0 7 RD
+3 7 EX
+4 7 WR
+0 8 FR
+3 8 IJ
+4 8 IJ
+8 7 EX
+3 9 ST
+4 9 ST
+9 8 RF
+3 10 UK
+4 11 EX
+8 11 WR
+4 12 IJ
+12 7 WR
+8 12 UK
+4 13 IJ
+13 7 RD
+13 9 ST
+13 11 RD
+14 7 WR
+9 14 RF
+14 11 UK
+13 15 EX
+16 7 EX
+16 9 ST
+13 16 UK
+9 17 RF
+17 15 WR
+17 18 RD
+17 19 CD
+17 20 WR
+17 21 UK
+22 15 WR
+22 18 WR
+22 19 EX
+22 20 WR
+23 15 WR
+23 18 WR
+23 19 RD
+23 20 RD
+22 23 UK
+24 15 RD
+24 18 CD
+24 19 WR
+24 20 RD
+24 25 WR
+26 18 UK
+27 19 RD
+27 20 WR
+24 27 UK
+

@@ -1,0 +1,53 @@
+15
+MP*-more
+MP-sed
+SO-atomic@target.example
+MP-sed
+SO-192.168.206.137
+MF-2017.pl
+MP*-less
+MP*-awk
+SO-atomic@target.example
+MF-T1003.008.txt
+MF-T1003.008.txt
+SF-td.c
+MP*-tac
+TP-less
+MP-cat
+35
+0 1 FR
+0 2 ST
+0 3 FR
+3 2 ST
+0 4 ST
+4 3 RF
+0 5 RD
+0 6 FR
+6 2 ST
+6 4 ST
+6 5 WR
+0 7 FR
+7 2 ST
+4 7 RF
+7 5 RD
+8 0 RF
+8 6 RF
+8 7 RF
+6 9 CD
+7 9 WR
+6 10 WR
+7 10 CD
+6 11 UK
+4 12 RF
+12 5 EX
+12 8 ST
+12 9 WR
+12 10 RD
+13 5 RD
+8 13 RF
+13 9 UK
+14 5 WR
+14 8 ST
+14 10 EX
+12 14 UK
+

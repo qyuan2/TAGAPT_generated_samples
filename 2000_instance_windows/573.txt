@@ -1,0 +1,61 @@
+15
+MP*-Ziraat Bankasi Swift Mesaji.exe 
+SF-C:\Users\admin\Desktop\mincedcrack.exe
+MP*-OneDrive.exe 
+SF-C:\Users\admin\AppData\Local\Temp\de6a9b27
+MF-band.xml
+MF-DC\Reader\Reader_sl.exe
+TF-data_decoder.m
+TP*-KMSpico_setup.exe 
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\ServiceModelReg.exe
+MP-control.exe
+MP-conhost.exe
+MF-\Users\admin\AppData\Local\Temp\Test.exe
+MP-SSLplus.exe
+MP*-Driver Talent Pro.exe 
+MP-CE5F.exe
+43
+0 1 EX
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 WR
+0 4 RD
+2 4 WR
+0 5 WR
+2 5 RD
+0 6 CD
+2 6 WR
+0 7 FR
+7 1 WR
+2 7 IJ
+7 3 RD
+7 4 EX
+7 5 RD
+7 6 WR
+0 8 RD
+2 8 WR
+7 8 RD
+0 9 FR
+9 1 CD
+2 9 UK
+0 10 FR
+10 1 WR
+10 3 RD
+10 4 UK
+7 11 WR
+12 3 WR
+12 5 WR
+12 6 WR
+7 12 UK
+13 3 RD
+13 5 WR
+13 6 WR
+13 8 WR
+13 11 WR
+14 5 RD
+14 6 RD
+14 8 WR
+14 11 WR
+13 14 UK
+

@@ -1,0 +1,24 @@
+10
+MP*-INV 88000354.exe 
+TP-ns9A6A.tmp 
+MP-ns9E4A.tmp
+MP*-bebulnhx.exe
+MP-wmpnscfg.exe
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsCFA0.tmp
+MP-pktmon.exe
+MP*-chrome.exe
+MF-C:\Users\admin\Desktop\mincedcrack
+MP*-ls
+11
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 UK
+3 5 RD
+3 6 UK
+7 5 EX
+7 8 WR
+9 5 WR
+7 9 UK
+

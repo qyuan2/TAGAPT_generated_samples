@@ -1,0 +1,43 @@
+12
+MP*-arp-scan
+TF-T1070.006-modification.txt
+MP*-touch
+MF-passwd.zip
+MF-flag3.txt
+MP-nl
+MF-flag3.txt
+TP*-bash 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MP-ftp
+MF-settings.php
+MP*-grep
+28
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 RD
+0 4 RD
+2 4 WR
+0 5 FR
+5 1 RD
+2 5 UK
+0 6 WR
+0 7 IJ
+7 1 WR
+7 3 WR
+7 4 WR
+7 6 WR
+8 0 RF
+7 8 ST
+0 9 FR
+9 1 RD
+9 3 WR
+9 4 UK
+0 10 WR
+7 10 WR
+11 1 WR
+11 3 WR
+11 6 WR
+7 11 UK
+

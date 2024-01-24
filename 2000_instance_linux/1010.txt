@@ -1,0 +1,91 @@
+20
+MP*-dirb
+SF-alertConfigField.php
+MP*-cat
+TF-access.htm
+SO-192.168.37.130
+TP-last
+SO-192.168.159.128
+MP-netstat
+MF-logrotate.c
+TP-bash
+MF-f.r
+MF-robots.txt
+MP-rpm
+MF-LinEnum.sh
+TP*-cat
+MP*-cat
+MP-nmap
+TF-T1003.008.txt
+MP-tail
+MP-find
+68
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 RD
+2 3 WR
+0 4 ST
+4 2 RF
+0 5 IJ
+5 1 WR
+2 5 IJ
+5 3 RD
+5 4 ST
+6 0 RF
+6 2 RF
+6 5 RF
+0 7 FR
+7 1 WR
+7 3 RD
+4 7 RF
+5 7 IJ
+7 6 ST
+0 8 WR
+2 8 WR
+5 8 WR
+7 8 RD
+0 9 FR
+9 1 WR
+2 9 IJ
+9 3 EX
+9 4 ST
+5 9 IJ
+6 9 RF
+7 9 IJ
+9 8 WR
+0 10 WR
+2 10 CD
+5 10 RD
+7 10 WR
+9 10 CD
+2 11 RD
+5 11 RD
+7 11 RD
+9 11 WR
+2 12 UK
+5 13 EX
+7 13 RD
+9 13 EX
+4 14 RF
+5 14 IJ
+14 6 ST
+7 14 UK
+5 15 IJ
+6 15 RF
+15 8 RD
+9 15 UK
+16 6 ST
+16 8 RD
+16 10 RD
+16 11 WR
+16 13 EX
+16 17 RD
+18 8 RD
+18 10 RD
+18 11 RD
+18 13 UK
+19 10 WR
+19 11 WR
+16 19 UK
+

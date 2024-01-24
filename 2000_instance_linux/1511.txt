@@ -1,0 +1,79 @@
+24
+MP*-tcpdump 
+MP-tail
+MP-clang++
+MF-logrotate.c
+MF-1.zip
+TP*-grep
+MP-paste
+TF-cron.a
+MP-uname
+TP-ps
+MP-ftp
+MF-T1003.008.txt
+MP-bash
+TF-flag4.txt
+MP-cat
+MP*-tee
+MF-passwd.zip
+MP*-docker
+SF-os.exe
+MF-T1003.008.txt
+MP-less
+MF-LinEnum.sh
+MP-uname
+MP-touch
+52
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 EX
+0 4 WR
+0 5 IJ
+5 3 WR
+5 4 EX
+0 6 FR
+6 3 WR
+6 4 RD
+5 6 IJ
+0 7 WR
+5 7 RD
+6 7 RD
+0 8 FR
+8 3 WR
+8 4 RD
+5 8 IJ
+6 8 UK
+0 9 IJ
+9 3 WR
+9 4 WR
+5 9 UK
+0 10 FR
+10 3 RD
+10 4 WR
+10 7 WR
+10 11 RD
+12 3 WR
+12 4 WR
+12 7 UK
+10 13 EX
+14 4 RD
+10 14 UK
+15 11 WR
+15 13 RD
+15 16 WR
+17 11 WR
+17 13 WR
+17 16 WR
+15 18 WR
+17 18 RD
+15 19 WR
+17 19 WR
+20 11 EX
+20 13 CD
+15 20 UK
+17 21 WR
+22 13 UK
+23 16 EX
+17 23 UK
+

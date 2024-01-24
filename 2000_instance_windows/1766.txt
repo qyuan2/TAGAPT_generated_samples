@@ -1,0 +1,55 @@
+17
+MP-cmd.exe 
+MP-IrSatorLauncher.exe 
+TP-cmd.exe
+TP*-AutoPico.exe
+SF-C:\Windows\SysWOW64\сsrss.exe
+TF-C:\Program files\appdata\local\temp\5275.bmp
+MF-C:\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost
+SF-C:\Users\admin\AppData\Local\Temp\B47C
+MF-C:\Users\admin\AppData\Roaming\006700e5a2ab05\clip64
+SO-https://drimby.top/wndfi
+MP*-procdump.exe
+MP-iexplore.exe
+TF-pasalaganando.c
+TF-files\appdata\local\temp\19084.bmp.vb
+MP-wevtutil.exe
+MP*-tshark.exe
+MP*-jerkoff.exe 
+35
+0 1 FR
+0 2 UK
+1 3 IJ
+1 4 RD
+3 4 WR
+1 5 RD
+3 5 CD
+1 6 WR
+3 6 RD
+1 7 UK
+3 8 RD
+9 3 RF
+3 10 IJ
+10 4 WR
+10 5 EX
+10 6 EX
+10 8 RD
+9 10 RF
+3 11 FR
+11 4 RD
+11 5 UK
+3 12 WR
+10 12 EX
+3 13 CD
+10 13 RD
+14 4 UK
+15 6 WR
+15 8 WR
+9 15 RF
+15 12 WR
+15 13 UK
+16 6 WR
+16 8 WR
+16 9 ST
+10 16 UK
+

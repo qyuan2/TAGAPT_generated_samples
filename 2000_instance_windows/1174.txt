@@ -1,0 +1,62 @@
+20
+MP*-p2602380.exe
+TP-RdrCEF.exe 
+MP-ns9EC8.tmp 
+MP-timeout.exe
+SF-C:\Users\admin\Desktop\softwarelagswitchc
+MP-863e7c22c771e4005197ae28363584f8.exe 
+MF-C:\Windows\Temp\lsass_dump.dmp
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP-nbtstat.exe
+TP-vssvc.exe
+MF-C:\Program files\appdata\roaming\battery\battery.cmd
+MP-softwarelagswitchc.exe 
+MF-C:\Users\admin\AppData\Roaming\yonr\yonr.exe
+MP*-ytfovlym.exe
+MP*-TruffleSnout.exe
+TF-C:\Users\admin\AppData\Local\Temp\RESF360
+TF-C:\Users\admin\Downloads\crypto
+MP*-ns9AE8.tmp
+MF-%windir%\System32\notepad.exe
+MF-C:\Users\Public\coinmarketcap\1.bat
+39
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 WR
+3 4 UK
+0 5 FR
+0 6 EX
+5 6 WR
+0 7 ST
+5 7 ST
+0 8 UK
+5 9 FR
+9 6 RD
+9 7 ST
+5 10 WR
+9 10 RD
+5 11 UK
+9 12 RD
+13 6 WR
+13 7 ST
+9 13 IJ
+13 10 RD
+13 12 EX
+14 6 WR
+7 14 RF
+9 14 IJ
+14 10 WR
+14 12 UK
+9 15 WR
+13 15 WR
+9 16 WR
+13 16 WR
+17 7 ST
+9 17 IJ
+17 10 WR
+13 17 UK
+9 18 WR
+9 19 WR
+

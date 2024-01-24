@@ -1,0 +1,68 @@
+17
+MP*-ls
+SF-T1574.006.c
+SF-2017.pl
+TP*-cat
+TP-uname
+SF-AutoSUID.sh
+MP*-echo 
+MP-cat
+MF-AutoSUID.sh
+TF-pwquality.c
+MF-shell.cgi
+MP-bash
+MF-linux.txt
+MP*-truncate 
+MF-/etc/sudoers file
+MF-ufw.log
+MP-cat
+48
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 RD
+4 2 EX
+3 4 IJ
+0 5 WR
+3 5 WR
+4 5 UK
+0 6 FR
+6 1 CD
+6 2 WR
+3 6 IJ
+0 7 FR
+7 1 RD
+7 2 WR
+3 7 IJ
+0 8 WR
+3 8 WR
+6 8 WR
+7 8 CD
+0 9 EX
+3 9 CD
+6 9 WR
+7 9 WR
+0 10 WR
+3 10 WR
+6 10 WR
+7 10 UK
+11 1 WR
+11 2 WR
+3 11 UK
+6 12 RD
+6 13 FR
+13 8 RD
+13 9 WR
+13 12 WR
+6 14 CD
+13 14 WR
+6 15 WR
+13 15 WR
+16 8 RD
+16 9 EX
+16 12 WR
+13 16 UK
+

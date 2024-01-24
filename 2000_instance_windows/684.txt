@@ -1,0 +1,40 @@
+12
+MP*-ns9FC4.tmp
+MF-C:\Program Files\Microsoft Office\Office14\WINWORD
+TF-C:\Users\admin\Desktop\Setup\Installer
+MF-files\data.exe
+MP*-ns967A.tmp 
+MF-C:\Program Files\Microsoft\Skype for Desktop\Skype
+SF-C:\Users\admin\AppData\Local\Temp\hh.exe
+MP-IEmode.exe 
+TP*-icacls.exe
+MF-\Windows\system32\reg.exe
+MF-C:\Users\admin\AppData\Local\Temp\Invoice.exe
+TP*-vds.exe
+25
+0 1 RD
+0 2 WR
+0 3 RD
+0 4 FR
+4 1 RD
+4 2 RD
+4 3 WR
+0 5 RD
+4 5 CD
+0 6 UK
+7 1 WR
+7 2 WR
+7 3 WR
+4 7 UK
+8 1 EX
+8 2 WR
+8 3 EX
+8 5 EX
+8 9 WR
+8 10 EX
+11 1 EX
+11 2 RD
+11 3 RD
+11 5 CD
+8 11 UK
+

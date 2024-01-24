@@ -1,0 +1,61 @@
+16
+MP*-saBSI.exe
+MP-7za.exe
+TP-yiueea.exe 
+MP-keygen.exe
+MF-C:\Users\admin\AppData\Local\Temp\Fwd_
+MF-C:\Program Files\Common Files\Microsoft Shared\EQUATION\EQNEDT32
+MP*-wbengine.exe
+MF-C:\savesdllNetdhcp\dwm
+MF-C:\programdata\asc.txt
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+MP-863e7c22c771e4005197ae28363584f8.exe 2620
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+TP-anydesk.exe
+MP*-MSBuild.exe
+MP-damianoh68951.exe
+MP-csc.exe
+42
+0 1 FR
+0 2 IJ
+1 2 IJ
+0 3 UK
+1 4 WR
+2 4 RD
+1 5 EX
+2 5 CD
+1 6 FR
+2 6 IJ
+6 4 CD
+6 5 EX
+2 7 WR
+6 7 RD
+2 8 RD
+6 8 CD
+2 9 ST
+6 9 ST
+2 10 FR
+10 4 WR
+10 5 WR
+6 10 UK
+2 11 ST
+12 5 RD
+12 7 RD
+12 8 EX
+9 12 RF
+11 12 RF
+13 7 RD
+13 8 WR
+9 13 RF
+13 11 ST
+12 13 UK
+14 7 EX
+14 8 WR
+14 9 ST
+11 14 RF
+15 7 RD
+15 8 WR
+15 9 ST
+15 11 ST
+14 15 UK
+

@@ -1,0 +1,54 @@
+16
+MP*-less
+MP*-bash
+MF-v.c
+SF-flag4.txt
+SF-art.sh
+MP*-cat
+TP-tee
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-flag4.txt
+MF-raw.githubusercontent.c
+MF-Users.tar.gz
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-anaconda-ks.cfg
+SF-e.c
+TP*-cat
+MF-data.zip
+35
+0 1 FR
+0 2 RD
+1 2 EX
+0 3 UK
+1 4 RD
+1 5 FR
+5 2 RD
+5 4 WR
+1 6 FR
+6 2 CD
+6 4 RD
+5 6 IJ
+7 1 RF
+5 7 ST
+7 6 RF
+1 8 WR
+5 8 CD
+6 8 WR
+1 9 RD
+5 9 EX
+6 9 RD
+1 10 WR
+5 10 EX
+6 10 RD
+11 1 RF
+11 5 RF
+6 11 ST
+5 12 EX
+6 12 WR
+5 13 WR
+6 13 WR
+14 4 WR
+5 14 IJ
+6 14 UK
+5 15 WR
+

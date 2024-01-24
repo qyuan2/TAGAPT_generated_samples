@@ -1,0 +1,68 @@
+17
+MP*-system_file.exe 
+MP-KLSetup.exe.scr
+SF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2
+MF-C:\Program Files (x86)\RerSpacer710\RerSpacer710.exe
+MF-\Users\admin\skmt-bankinter-003-03588993232059560257100458.jar
+MP-WinRAR.exe 
+TP*-taskmgr.exe
+MP*-MsBuild.exe
+TP*-sc.exe
+MP-wevtutil.exe
+TP-LaZagne.exe
+MP-ns9EC8.tmp 
+MF-\Windows\System32\regsvr32.exe
+MF-C:\IDontExist
+MF-pasalaganando.c
+TP-nsA0C0.tmp 
+MP-WinRAR.exe
+48
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 WR
+1 3 RD
+0 4 RD
+1 4 WR
+0 5 FR
+1 5 UK
+0 6 IJ
+6 2 WR
+6 3 EX
+6 4 WR
+0 7 FR
+7 2 WR
+7 3 WR
+7 4 EX
+6 7 IJ
+0 8 FR
+8 2 EX
+8 3 RD
+8 4 WR
+6 8 IJ
+7 8 IJ
+0 9 FR
+9 2 RD
+9 3 WR
+9 4 WR
+6 9 IJ
+7 9 UK
+0 10 IJ
+10 2 UK
+11 3 WR
+11 4 WR
+6 11 IJ
+8 11 UK
+6 12 WR
+6 13 EX
+6 14 RD
+6 15 IJ
+15 12 WR
+15 13 RD
+15 14 WR
+6 16 IJ
+16 12 RD
+16 13 WR
+16 14 CD
+15 16 UK
+

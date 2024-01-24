@@ -1,0 +1,30 @@
+10
+MP*-lsass.exe
+MF-AllTheThings.dll
+TP-sdiagnhost.exe
+MP*-attrib.exe
+TF-C:\Program files\appdata\local\temp\22333.doc
+MP*-DriverFiles_8a39eacf3b01f2a8c3032697a9824211.exe 
+SF-C:\Program files\appdata\local\temp\3893
+MF-C:\Windows\System32\powercfg
+MF-C:\Users\admin\Desktop\c2dbd1f560dba5050031499cc921b3b7
+MP*-EvaPKO
+17
+0 1 RD
+0 2 FR
+2 1 CD
+0 3 FR
+3 1 RD
+2 3 IJ
+0 4 RD
+2 4 RD
+3 4 WR
+5 1 WR
+2 5 IJ
+3 5 UK
+2 6 WR
+2 7 RD
+2 8 RD
+9 1 RD
+2 9 UK
+

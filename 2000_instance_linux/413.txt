@@ -1,0 +1,48 @@
+14
+MP*-bash
+TF-secret.c
+SO-192.168.206.0
+TP*-rev
+MP*-cat
+MF-raft-large-directories.txt
+SF-cron.h
+SO-192.168.159.128
+MF-subprocess.c
+SO-http://192.168.206.137:8080/robots.txt
+MP-echo
+MP*-cat
+SO-192.168.47.155
+MF-image.php
+31
+0 1 WR
+0 2 ST
+0 3 IJ
+3 1 WR
+3 2 ST
+0 4 FR
+4 1 WR
+2 4 RF
+3 4 IJ
+0 5 WR
+3 5 CD
+4 5 RD
+0 6 WR
+3 6 RD
+4 6 RD
+7 0 RF
+7 3 RF
+4 7 ST
+0 8 WR
+3 8 RD
+4 8 WR
+9 0 RF
+3 9 ST
+9 4 RF
+0 10 UK
+11 1 WR
+11 2 ST
+3 11 IJ
+4 11 UK
+3 12 ST
+3 13 EX
+

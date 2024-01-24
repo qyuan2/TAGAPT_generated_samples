@@ -1,0 +1,95 @@
+32
+MP*-cat
+SF-http.c
+TP-cat
+MF-cron.m
+MF-syslog.c
+MP*-sudo
+TP-awk
+MF-td.c
+MP-head
+MF-LinEnum.sh
+SF-secret.c
+MF-settings.php
+MF-da-ks.cfg
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-dd
+MP-cat
+SO-192.168.10.128
+MF-secret.c
+TF-rockyou.txt
+SO-192.168.10.130
+MF-etc.tar.gz
+MF-adobeupdate.dat
+MF-T1574.006.c
+MP-ufw
+MP*-grep
+MF-AutoSUID.sh
+MF-T1070.004-test.txt
+MF-cron.h
+TF-LinEnum.sh
+SF-T1574.006.c
+MP-cat
+MP-vim
+60
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 WR
+0 4 WR
+2 4 EX
+0 5 FR
+5 1 WR
+2 5 IJ
+5 3 WR
+5 4 WR
+0 6 IJ
+6 1 RD
+2 6 UK
+0 7 WR
+5 7 WR
+0 8 FR
+8 1 CD
+8 3 WR
+8 4 CD
+8 7 UK
+0 9 WR
+5 9 WR
+0 10 WR
+5 10 RD
+5 11 RD
+5 12 WR
+13 5 RF
+14 4 RD
+14 9 WR
+14 10 WR
+14 11 EX
+14 12 WR
+13 14 RF
+5 15 UK
+14 16 ST
+14 17 RD
+14 18 CD
+14 19 ST
+14 20 WR
+14 21 WR
+14 22 RD
+23 13 ST
+14 23 UK
+24 16 ST
+24 17 WR
+24 18 WR
+24 19 ST
+24 20 RD
+24 21 RD
+24 22 WR
+24 25 WR
+24 26 WR
+24 27 WR
+24 28 WR
+24 29 WR
+30 21 UK
+31 22 WR
+24 31 UK
+

@@ -1,0 +1,51 @@
+16
+MP*-less
+MP-cat
+SF-raj.txt
+MP-cat
+MP-python
+MF-art.sh
+SO-http://192.168.0.134/passwd
+MF-s.c
+MP*-systemd
+MP*-pr
+MF-e.c
+MP*-chmod
+MP-ifconfig
+TF-art.sh
+MF-T1074.001_discovery.log
+MP-netstat
+32
+0 1 FR
+0 2 RD
+1 2 RD
+0 3 FR
+1 3 UK
+0 4 FR
+4 2 UK
+0 5 RD
+6 0 RF
+0 7 EX
+0 8 FR
+8 5 WR
+8 6 ST
+8 7 WR
+0 9 FR
+9 5 RD
+6 9 RF
+9 7 WR
+8 9 UK
+0 10 RD
+11 5 RD
+11 6 ST
+11 7 WR
+11 10 WR
+12 5 RD
+6 12 RF
+12 7 UK
+11 13 WR
+11 14 WR
+15 6 ST
+15 10 CD
+11 15 UK
+

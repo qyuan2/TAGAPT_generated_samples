@@ -1,0 +1,86 @@
+22
+MP*-ns9CE0.tmp
+MF-C:\Windows\System32\Curl
+TP-06e0e36f91e621e79712673923e57daf3fcf232bb3151c122891ded30466293a.exe 
+MP-shutdown.exe
+MP-AdFind.exe
+MF-\Users\admin\AppData\Local\Temp\is-Q8VQL.tmp\jww825a.tmp
+SF-C:\Users\admin\AppData\Roaming\yonr\yonr
+MF-C:\Users\admin\AppData\Local\Temp\D911.exe
+MP-D911.exe
+MP*- ldifde.exe 
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-C:\Users\admin\AppData\Local\Temp\Setup.zip
+TP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+MF-C:\Users\admin\skmt-bankinter-003-03588993232059560257100458.jar
+MF-C:\Program files\appdata\local\temp\3893
+MP-Outflank-Dumpert.exe
+MF-\Users\admin\AppData\Local\Temp\msetup\operasetup.exe
+MP-ursnif.exe
+TP*-Powershell.exe
+SO-https://clients2.google.com/cr/report
+TF-C:\Program files\appdata\local\temp\7zsfx000
+TP-bb.exe 
+61
+0 1 CD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 CD
+2 3 UK
+0 4 FR
+4 1 WR
+0 5 RD
+4 5 RD
+0 6 WR
+4 6 RD
+0 7 RD
+4 7 WR
+0 8 FR
+8 1 RD
+4 8 UK
+0 9 FR
+9 1 WR
+9 5 EX
+9 6 WR
+9 7 RD
+0 10 ST
+10 9 RF
+9 11 EX
+12 5 WR
+12 6 WR
+12 7 WR
+12 10 ST
+12 11 WR
+12 13 RD
+12 14 WR
+15 7 RD
+15 10 ST
+15 11 RD
+12 15 IJ
+15 13 RD
+15 14 WR
+12 16 CD
+15 16 RD
+17 10 ST
+17 11 RD
+12 17 IJ
+17 13 WR
+17 14 EX
+15 17 UK
+18 10 ST
+18 11 EX
+12 18 IJ
+18 13 CD
+18 14 WR
+18 16 WR
+12 19 ST
+19 18 RF
+12 20 RD
+18 20 CD
+12 21 IJ
+21 13 WR
+21 14 EX
+21 16 EX
+18 21 UK
+

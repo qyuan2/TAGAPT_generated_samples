@@ -1,0 +1,60 @@
+17
+MP-ls
+SF-v.c
+MP*-sftp
+TP-bash
+TP-cat
+MP-sed
+SO-192.168.2.102
+MF-user.r
+MP*-sudo
+MP-find
+SF-data.zip
+MP*-nl
+MP-lsof
+TP*-bash
+SO-8.8.8.8
+MP-timeout
+TP-bash 
+40
+0 1 WR
+2 1 WR
+3 1 EX
+2 3 IJ
+4 1 UK
+2 5 UK
+3 6 ST
+3 7 RD
+3 8 FR
+8 6 ST
+8 7 RD
+3 9 FR
+6 9 RF
+9 7 WR
+8 9 UK
+3 10 RD
+3 11 IJ
+6 11 RF
+11 7 WR
+11 10 RD
+3 12 FR
+6 12 RF
+12 7 WR
+12 10 WR
+3 13 IJ
+6 13 RF
+13 7 RD
+13 10 CD
+11 13 IJ
+12 13 IJ
+14 11 RF
+14 12 RF
+14 13 RF
+15 6 ST
+15 7 WR
+15 10 RD
+11 15 UK
+16 7 RD
+16 10 EX
+13 16 UK
+

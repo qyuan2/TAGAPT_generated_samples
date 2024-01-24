@@ -1,0 +1,66 @@
+19
+MP*-setup_avrokeyboard_5.6.0.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug
+MF-C:\Users\admin\AppData\Local\Temp\peplus
+MP*-cmd.exe
+SO-http://gc2siv9geletsu4.orgweave.com/bXRpQG10aS5odQ
+MF-C:\Users\admin\AppData\Local\Temp\a8b069ef9d76cd42e873c6e8ded9db8c17d9d0ce234b5e7c9a126b4d514c6f72
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP*-services.exe
+MF-\Users\admin\AppData\Roaming\CareUEyes\CareUEyes.exe
+MF-C:\Users\admin\AppData\Local\Temp\GfQBLiiemEPjpaWCZk\DnaohH
+MF-C:\Users\admin\AppData\Local\Temp\de6a9b27
+SF-C:\Windows\Temp\atomicNotificationPackage.dll
+MP*-server.exe 
+MF-C:\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+MF-C:\Program Files\FileZilla FTP Client\filezilla.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+TP-ONENOTE.EXE
+SF-C:\Windows\system32\DllHost.exe
+SF-C:\Users\admin\AppData\Local\Temp\winhost.exe
+44
+0 1 CD
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 ST
+3 4 ST
+0 5 WR
+3 5 RD
+6 0 RF
+3 6 ST
+0 7 FR
+7 1 RD
+7 2 WR
+7 4 ST
+7 5 WR
+6 7 RF
+0 8 RD
+3 8 WR
+7 8 WR
+0 9 CD
+3 9 EX
+7 9 WR
+0 10 EX
+3 10 WR
+7 10 RD
+3 11 RD
+7 11 WR
+12 2 UK
+3 13 WR
+7 13 WR
+7 14 RD
+15 7 RF
+16 6 ST
+7 16 IJ
+16 8 WR
+16 9 WR
+16 10 WR
+16 11 RD
+16 13 WR
+16 14 RD
+16 15 ST
+7 17 UK
+16 18 UK
+

@@ -1,0 +1,65 @@
+22
+MP*-Spora.exe 
+SO-hxxp://fiordan.ru/FILM.html
+TF-C:\Windows\system32\SearchIndexer.exe
+MF-\windows\system32\msiexec.exe
+MP-ns99EC.tmp
+MF-C:\Windows\System32\cscript
+SF-C:\Users\admin\AppData\Local\Temp\MDE_File_Sample_88a7f68e7ffeccdba9450ae5dc5ebed3255357385e013c8383105831ad72c9e8
+MP*-Powershell.exe
+MP-LaZagne.exe
+MP-WinRAR.exe 
+TF-C:\Windows\System32\DriverStore\Temp
+MP*-PDQDeployConsole.exe
+MP-regsvr32.exe
+SF-C:\Users\admin\AppData\Local\Temp\qgcrmeck.exe
+MP-df1f94243f99b25fea44d17750d24d04.exe 
+MP-aspnet_compiler.exe
+MP*-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+MP-avi_previewer_demo.exe
+MF-Invoke-Mimikatz.ps1
+SF-C:\Users\admin\Desktop\HxDSetup.exe
+MF-C:\Users\admin\Desktop\Thursday.htm
+MF-Explorer\iexplore.exe
+40
+0 1 ST
+0 2 RD
+0 3 CD
+0 4 FR
+1 4 RF
+4 2 UK
+0 5 EX
+0 6 RD
+0 7 FR
+7 1 ST
+7 3 WR
+7 5 WR
+7 6 WR
+0 8 FR
+1 8 RF
+8 3 UK
+0 9 UK
+7 10 EX
+11 1 ST
+11 5 WR
+11 6 RD
+11 10 EX
+12 6 WR
+7 12 UK
+11 13 RD
+14 6 RD
+14 10 WR
+11 14 UK
+15 6 RD
+15 10 WR
+15 13 WR
+16 10 WR
+16 13 WR
+17 10 EX
+17 13 WR
+15 17 UK
+16 18 EX
+16 19 WR
+16 20 WR
+16 21 UK
+

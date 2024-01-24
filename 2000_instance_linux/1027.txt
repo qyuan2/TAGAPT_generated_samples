@@ -1,0 +1,33 @@
+13
+MP*-bash
+TP*-sed
+MP*-less
+MP-find
+MP-wget
+MF-e2.c
+MP-cat
+SO-192.168.206.136
+TP*-cat
+MF-d.c
+MF-raft-medium-directories.txt
+TF-echo-art-fish.sh
+MF-T1574.006.c
+17
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 UK
+1 4 UK
+2 5 WR
+2 6 FR
+6 5 WR
+2 7 ST
+7 6 RF
+2 8 IJ
+8 5 WR
+6 8 UK
+2 9 EX
+2 10 WR
+2 11 RD
+2 12 EX
+

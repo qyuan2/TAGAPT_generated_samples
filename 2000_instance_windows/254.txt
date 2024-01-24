@@ -1,0 +1,77 @@
+24
+MP*-Setup.exe
+MF-\Users\admin\AppData\Local\Temp\Fileovzam1_2023-08-07_05_35_56.378.zip
+TP*-ns9510.tmp
+MF-C:\Windows\System32\runas.exe
+MF-C:\Users\admin\AppData\Local\Temp\runn452.bat
+MP-SearchFilterHost.exe
+SF-C:\Users\admin\AppData\Local\Temp\Media
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+TF-\Users\admin\AppData\Local\Temp\444444.png.png.exe
+MF-\Users\admin\AppData\Local\Temp\SUNATfacturanopagada.zip
+MP-prism-0.8-win32.exe 
+MP-MsBuild.exe
+MP*-net.exe
+MF-C:\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV
+TF-\Recovery\345b46fe-a9f9-11e7-a83c-e8a4f72b1d33\WinRAR.exe
+MF-C:\Windows\system32\verclsid
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe
+MF-C:\Users\admin\AppData\Local\Temp\Electronic
+MP-EQNEDT32.EXE
+MP*-damianocrnofj6793.exe
+MF-\Users\admin\AppData\Local\Temp\RunDRT-Office2016.bat.7z
+SF-C:\Users\admin\AppData\Local\Temp\E63F.exe
+MF-C:\Users\admin\AppData\Local\Temp\RtkBtManServ
+MP-procdump.exe
+50
+0 1 EX
+0 2 IJ
+2 1 RD
+0 3 WR
+2 3 WR
+0 4 RD
+2 4 WR
+0 5 FR
+5 1 RD
+2 5 IJ
+5 3 RD
+5 4 WR
+0 6 WR
+2 6 UK
+0 7 ST
+7 5 RF
+0 8 WR
+5 8 RD
+0 9 RD
+5 9 WR
+0 10 UK
+11 1 WR
+11 3 CD
+11 4 EX
+5 11 UK
+12 3 EX
+12 4 WR
+12 7 ST
+12 8 EX
+12 9 WR
+12 13 WR
+12 14 WR
+12 15 WR
+12 16 WR
+12 17 RD
+18 8 RD
+18 9 EX
+12 18 UK
+19 14 RD
+19 15 WR
+19 16 RD
+19 17 CD
+19 20 WR
+19 21 EX
+19 22 WR
+23 14 RD
+23 15 WR
+23 16 WR
+23 17 WR
+19 23 UK
+

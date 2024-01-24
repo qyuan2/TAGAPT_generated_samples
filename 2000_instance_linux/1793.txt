@@ -1,0 +1,52 @@
+14
+MP*-bash
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-e2.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP-awk
+MF-anaconda-ks.cfg
+TP*-bash
+MP*-vim
+MP-cat
+MP*-cat
+SF-etc.tar.gz
+MF-journald.c
+MP-cat
+TF-sysctl.c
+35
+1 0 RF
+0 2 WR
+0 3 ST
+0 4 FR
+4 1 ST
+4 2 RD
+4 3 ST
+0 5 CD
+4 5 RD
+0 6 IJ
+1 6 RF
+6 2 WR
+3 6 RF
+4 6 IJ
+6 5 WR
+0 7 FR
+7 1 ST
+7 2 EX
+7 3 ST
+7 5 WR
+6 7 IJ
+0 8 UK
+1 9 RF
+9 2 WR
+9 3 ST
+9 5 WR
+6 9 IJ
+7 9 UK
+6 10 EX
+6 11 WR
+3 12 RF
+12 5 WR
+6 12 IJ
+12 10 UK
+6 13 UK
+

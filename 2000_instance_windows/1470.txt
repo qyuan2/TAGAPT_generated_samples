@@ -1,0 +1,31 @@
+13
+MP*-DATOS DE ARCHIVOS No 7879746161364.exe
+MP*-msbuild.exe
+TP-a6302410.exe
+MP*-@WanaDecryptor@.exe 
+TF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2
+TP-AdobeARM.ex
+MP*-sitool.exe
+MP-v6621467.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64
+SO-10.0.0.00000
+TF-%windir%\System32\notepad.exe
+SF-C:\Users\admin\Desktop\installer
+MF-\Users\admin\AppData\Local\Temp\IMG_4096.HEIC.jpg
+15
+0 1 FR
+0 2 IJ
+1 2 UK
+0 3 FR
+0 4 WR
+3 4 RD
+0 5 UK
+3 6 FR
+6 4 RD
+3 7 UK
+6 8 WR
+6 9 ST
+6 10 RD
+6 11 WR
+6 12 UK
+

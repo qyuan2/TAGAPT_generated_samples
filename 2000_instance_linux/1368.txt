@@ -1,0 +1,127 @@
+36
+MP*-sed
+MP-echo
+MF-ufw.log
+SF-backsup.sh
+MF-1.zip
+SO-atomic@target.example
+SF-etc.tar.gz
+TP-bash
+MP-netstat
+MF-Users.tar.gz
+SO-192.168.10.135
+TP-cat
+TP*-tee
+MF-2017.pl
+MP-sed
+MP-cat
+SO-192.168.10.131
+MP-sed
+MP-ls
+MP-nl
+MP*-pr
+MF-1.zip
+SF-victim-shred.txt
+SF-user.r
+MF-rockyou.txt
+MF-T1027-004-test.c
+TP*-awk
+MF-syslog.c
+SO-192.168.10.130
+TF-te.c
+SO-192.168.10.133
+MF-syslog.c
+MF-T1574.006.c
+MF-0*.txt
+MP-grep
+MP-netstat
+88
+0 1 FR
+0 2 WR
+1 2 UK
+0 3 WR
+0 4 RD
+5 0 RF
+0 6 RD
+0 7 FR
+7 3 RD
+7 4 WR
+5 7 RF
+7 6 WR
+0 8 FR
+8 3 WR
+8 4 WR
+5 8 RF
+8 6 WR
+7 8 UK
+0 9 WR
+0 10 ST
+11 3 RD
+11 4 UK
+12 3 WR
+5 12 RF
+12 6 RD
+12 9 EX
+10 12 RF
+12 13 WR
+14 5 ST
+14 6 WR
+14 9 RD
+10 14 RF
+12 14 IJ
+14 13 RD
+5 15 RF
+15 6 RD
+15 9 EX
+15 10 ST
+12 15 IJ
+15 13 WR
+14 15 UK
+12 16 ST
+17 9 WR
+10 17 RF
+12 17 IJ
+17 13 WR
+17 16 ST
+18 9 WR
+10 18 RF
+12 18 IJ
+18 13 EX
+18 16 ST
+17 18 UK
+19 9 RD
+19 10 ST
+12 19 UK
+20 10 ST
+20 13 EX
+20 16 ST
+20 21 CD
+20 22 WR
+20 23 WR
+20 24 WR
+20 25 RD
+16 26 RF
+20 26 IJ
+26 21 WR
+26 22 RD
+26 23 WR
+26 24 WR
+26 25 WR
+20 27 RD
+26 27 CD
+28 20 RF
+26 28 ST
+20 29 WR
+26 29 WR
+30 20 RF
+30 26 RF
+26 31 WR
+26 32 WR
+26 33 WR
+34 24 RD
+34 25 WR
+26 34 IJ
+34 27 UK
+35 25 WR
+26 35 UK
+

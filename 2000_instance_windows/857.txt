@@ -1,0 +1,64 @@
+17
+MP*-assoc.exe
+MP-lsass.exe
+MF-C:\Users\User\appdata\local\temp\rpvbh.jar
+MP-hh.exe
+TP-cmd.exe 
+MF-C:\Users\admin\AppData\Local\Temp\UpdateService
+TP-EXCEL.EXE
+TP*-AcroRd32.exe
+MF-C:\Users\admin\Desktop\SERVIPAGrecibo
+MP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+TP-nsA299.tmp
+MF-gpj.exe
+TP*-olsptrs.exe 
+MF-\IDontExist.dll
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+TP-notepad++.exe
+44
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+3 2 EX
+0 4 FR
+1 4 IJ
+4 2 EX
+3 4 UK
+0 5 WR
+1 5 WR
+0 6 FR
+1 6 UK
+0 7 FR
+7 2 WR
+7 5 RD
+0 8 WR
+7 8 RD
+0 9 FR
+9 2 RD
+9 5 RD
+7 9 IJ
+9 8 WR
+0 10 UK
+7 11 WR
+9 11 WR
+12 2 EX
+12 5 WR
+7 12 IJ
+12 8 EX
+9 12 IJ
+12 11 WR
+7 13 RD
+9 13 WR
+12 13 WR
+7 14 ST
+9 14 ST
+12 14 ST
+15 7 RF
+12 15 ST
+7 16 IJ
+16 8 EX
+16 11 RD
+12 16 UK
+

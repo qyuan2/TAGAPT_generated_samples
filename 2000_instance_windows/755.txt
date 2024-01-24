@@ -1,0 +1,63 @@
+15
+MP*-86270699bad2681bb3f5f57f44a7094e.exe 
+TP-Redline Activate.exe 
+SF-C:\Users\admin\Desktop\authroot
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\DataSvcUtil.exe
+TF-C:\Users\admin\AppData\Local\Temp\buidl.exe
+MP*-GST debit note -june.exe 
+MP-Rar.exe
+MP*-ns9EC8.tmp 
+TP*-pestudio.exe 
+SF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth.exe
+MP-IrSatorLauncher.exe 
+TP-EQNEDT32.EXE
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\cvtres.exe
+TP-ls
+TP-ns99EC.tmp
+45
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 WR
+1 3 WR
+0 4 WR
+1 4 RD
+0 5 FR
+1 5 IJ
+5 2 RD
+5 3 WR
+5 4 CD
+0 6 UK
+1 7 IJ
+7 2 WR
+7 3 EX
+7 4 WR
+1 8 FR
+8 2 WR
+8 3 RD
+8 4 WR
+5 8 IJ
+7 8 IJ
+1 9 EX
+5 9 RD
+7 9 RD
+8 9 UK
+1 10 IJ
+10 2 WR
+10 3 EX
+10 4 EX
+5 10 UK
+1 11 IJ
+11 2 EX
+11 3 WR
+11 4 WR
+7 11 IJ
+7 12 WR
+11 12 WR
+13 3 RD
+13 4 RD
+7 13 IJ
+11 13 UK
+14 4 WR
+7 14 UK
+

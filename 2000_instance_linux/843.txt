@@ -1,0 +1,56 @@
+14
+MP*-cat
+SF-s.c
+TF-s.c
+SO-http://192.168.10.128/shell.cgi
+MF-journald.c
+MF-victim-shred.txt
+MP*-cat
+SF-rockyou.txt
+SF-pwquality.c
+MP*-bash 
+SO-192.168.2.102
+MP*-cat
+MF-AutoSUID.sh
+MP-awk
+39
+0 1 EX
+0 2 WR
+3 0 RF
+0 4 RD
+0 5 WR
+0 6 FR
+6 1 RD
+6 2 WR
+3 6 RF
+6 4 CD
+6 5 EX
+0 7 WR
+6 7 RD
+0 8 WR
+6 8 RD
+0 9 FR
+9 1 RD
+9 2 WR
+3 9 RF
+9 4 WR
+9 5 EX
+9 7 WR
+9 8 EX
+0 10 ST
+10 6 RF
+10 9 RF
+11 1 WR
+11 2 WR
+11 3 ST
+11 4 WR
+11 5 EX
+6 11 UK
+9 12 WR
+3 13 RF
+13 4 WR
+13 5 EX
+13 7 WR
+13 8 WR
+9 13 UK
+

@@ -1,0 +1,77 @@
+23
+MP-ls
+MF-httpd.c
+MF-1.txt
+MP-grep
+TP*-cat
+MP-sh
+SF-T1574.006.c
+MF-ufw.log
+MP-grep
+SO-127.0.0.1
+TP-bash
+TP-ls
+MF-e.c
+MF-CleaingScript.sh
+MP*-netstat
+TF-logrotate.c
+MP*-cat
+MP*-sh
+MF-subprocess.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+TF-at.a
+SF-s.c
+TP-ls
+51
+0 1 RD
+0 2 WR
+0 3 UK
+4 1 EX
+4 2 RD
+5 1 RD
+5 2 RD
+4 5 IJ
+4 6 RD
+5 6 WR
+4 7 WR
+5 7 RD
+8 1 EX
+8 2 WR
+4 8 IJ
+5 8 UK
+4 9 ST
+10 1 WR
+10 2 WR
+4 10 IJ
+10 6 RD
+10 7 CD
+10 9 ST
+11 1 UK
+4 12 UK
+10 13 WR
+14 6 WR
+14 7 EX
+9 14 RF
+10 14 IJ
+14 13 EX
+10 15 CD
+14 15 RD
+16 7 RD
+16 9 ST
+10 16 IJ
+16 13 WR
+14 16 UK
+17 9 ST
+10 17 IJ
+17 13 EX
+17 15 EX
+10 18 RD
+17 18 WR
+10 19 ST
+17 19 ST
+17 20 RD
+17 21 WR
+22 13 WR
+22 15 WR
+17 22 UK
+

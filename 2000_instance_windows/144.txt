@@ -1,0 +1,126 @@
+34
+MP*-schtasks.exe
+TP*-help.exe
+TP-svchost.exe
+MP-AcroRd32.exe
+MP-Nikki Project.scr
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-%temp%\sam
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Mshta_calc.sct").Exec();close
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+MF-\Windows_Defender_Cache_Maintenance.xml
+SF-C:\Users\admin\AppData\Local\Temp\Dropper
+MF-\Users\admin\AppData\Local\Temp\Dropper.exe
+MP*-CareUEyes.exe
+SF-C:\Users\admin\AppData\Local\Temp\Bill
+SF-C:\Users\admin\AppData\Local\Temp\4
+MF-\Users\admin\AppData\Local\Temp\CSCF350.tmp
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+TF-\Users\admin\AppData\Local\Temp\is-4LLB1.tmp\ExplorerSuite.tmp
+MF-rump_private.jpg
+MP-control.exe
+MP*-wevtutil.exe
+TP-desktopimgdownldr.exe
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MP-Entry.exe 
+SF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\jsestartup
+MP-putty.exe
+MP-saves.exe
+MP-E63F.exe
+MP-nsC7AA.tmp
+MP-360TS_Setup.exe
+MP-EdmGen.exe
+MP-Kulicib.exe 
+MF-%USERPROFILE%\desktop\T1037.001
+SF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt
+89
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 FR
+1 3 IJ
+2 3 UK
+0 4 FR
+1 4 IJ
+5 0 RF
+5 1 RF
+5 4 RF
+0 6 WR
+1 6 RD
+4 6 UK
+0 7 ST
+7 1 RF
+0 8 ST
+8 1 RF
+0 9 WR
+1 9 CD
+0 10 RD
+1 10 WR
+1 11 WR
+5 12 RF
+7 12 RF
+8 12 RF
+12 9 EX
+12 10 WR
+12 11 RD
+12 13 WR
+12 14 WR
+12 15 RD
+16 12 RF
+12 17 WR
+12 18 WR
+19 9 CD
+19 10 WR
+19 11 RD
+12 19 UK
+20 10 WR
+20 11 RD
+20 13 WR
+20 14 WR
+20 15 WR
+20 16 ST
+20 17 UK
+21 11 WR
+21 13 RD
+21 14 CD
+21 15 RD
+16 21 RF
+21 18 WR
+21 22 ST
+23 13 RD
+23 14 EX
+23 15 EX
+23 16 ST
+23 18 RD
+21 23 IJ
+23 22 ST
+21 24 EX
+23 24 RD
+25 15 UK
+16 26 RF
+26 18 RD
+21 26 IJ
+22 26 RF
+23 26 UK
+27 18 WR
+21 27 IJ
+27 22 ST
+27 24 WR
+28 18 WR
+21 28 IJ
+28 22 ST
+28 24 WR
+27 28 UK
+21 29 IJ
+22 29 RF
+29 24 WR
+21 30 IJ
+30 22 ST
+30 24 RD
+21 31 FR
+22 31 RF
+31 24 RD
+29 31 UK
+30 32 WR
+30 33 UK
+

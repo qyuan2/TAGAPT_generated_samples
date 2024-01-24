@@ -1,0 +1,51 @@
+15
+MP*-ns996E.tmp
+MF-c:\windows\system32\cmstp
+MF-C:\Users\admin\AppData\Local\Temp\AnyDesk
+MP*-WScript.exe 
+MP-jsc.exe
+MP-Protected.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+TF-C:\Windows\system32\icacls
+MP*-control.exe
+TP*-CareUEyes.exe
+MP-certutil.exe
+TF-C:\Users\All Users\audiodg.exe
+MF-C:\Windows\System32\control.exe
+MP-EasyValorant.exe 
+MP-setup_avrokeyboard_5.6.0.exe
+33
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 CD
+3 2 EX
+0 4 FR
+4 1 WR
+4 2 RD
+0 5 UK
+6 3 RF
+4 6 ST
+3 7 WR
+4 7 EX
+8 1 RD
+8 2 RD
+3 8 UK
+9 1 EX
+9 2 WR
+4 9 IJ
+6 9 RF
+9 7 EX
+10 1 WR
+10 2 RD
+4 10 UK
+9 11 RD
+9 12 UK
+6 13 RF
+13 7 EX
+13 11 RD
+6 14 RF
+14 7 WR
+14 11 WR
+13 14 UK
+

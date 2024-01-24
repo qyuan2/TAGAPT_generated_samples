@@ -1,0 +1,31 @@
+11
+MP*-netstat
+MF-T1074.001_discovery.log
+MP-cat
+TP*-xwd
+SF-shell.cgi
+TP*-cat
+MF-T1074.001_discovery.log
+TP*-cat
+MF-loot.txt
+SF-raj.txt
+TP-less
+17
+0 1 WR
+0 2 UK
+3 1 RD
+3 4 RD
+5 1 RD
+3 5 IJ
+5 4 RD
+3 6 WR
+5 6 RD
+7 1 RD
+3 7 IJ
+7 4 UK
+3 8 CD
+5 8 UK
+3 9 WR
+10 1 WR
+3 10 UK
+

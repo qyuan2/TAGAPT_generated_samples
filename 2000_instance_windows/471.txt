@@ -1,0 +1,51 @@
+16
+MP*-PO 345678.exe 
+SO-test@corp.com
+MP-keygen.exe
+MF-C:\Users\admin\AppData\Local\Temp\sample
+MP-vssvc.exe
+MP*-at.exe
+MP-mimikatz.exe
+MP-setup.exe
+MP*-blinkofj6793781.exe
+MP*-nsA12F.tmp
+TF-C:\Windows\System32\mshta.exe
+MF-\Users\admin\AppData\Roaming\qhf.lA.tK.exe
+SF-C:\Windows\Temp\xordump
+TF-compile.bat
+MP-dvRzzWRPw.exe
+TP-RdrCEF.exe
+32
+1 0 RF
+0 2 FR
+1 2 RF
+0 3 EX
+2 3 WR
+0 4 FR
+4 1 ST
+2 4 UK
+0 5 FR
+5 1 ST
+5 3 WR
+0 6 FR
+1 6 RF
+6 3 UK
+0 7 FR
+7 1 ST
+5 7 UK
+0 8 FR
+8 1 ST
+0 9 FR
+1 9 RF
+0 10 EX
+8 10 CD
+9 10 WR
+8 11 RD
+9 11 UK
+8 12 WR
+8 13 RD
+8 14 UK
+15 10 RD
+15 12 EX
+15 13 UK
+

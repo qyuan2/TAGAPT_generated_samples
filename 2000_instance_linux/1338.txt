@@ -1,0 +1,37 @@
+13
+MP*-cat
+SF-1.zip
+MP*-sed
+TP*-head
+MP*-echo
+TF-ufw.c
+TF-raft-large-directories.txt
+SF-cron.h
+TF-T1070.006-modification.txt
+MF-on.a
+MF-da-ks.cfg
+SO-192.168.47.155
+MF-pwquality.c
+21
+0 1 EX
+0 2 FR
+2 1 RD
+0 3 IJ
+3 1 WR
+2 3 UK
+0 4 FR
+4 1 WR
+0 5 WR
+4 5 WR
+0 6 WR
+4 6 EX
+0 7 WR
+4 7 EX
+0 8 WR
+4 8 WR
+0 9 EX
+4 9 EX
+4 10 WR
+4 11 ST
+4 12 UK
+

@@ -1,0 +1,122 @@
+35
+MP*-netstat
+MP*-less
+MF-cron.m
+MF-p.c
+MF-ttpd.c
+TP*-vim
+TF-os.exe
+MF-CleaingScript.sh
+MF-chttp.c
+MP-curl
+MF-evil.bin
+MF-log.c
+MP-rev
+TP-cat
+TF-common.txt
+MP-find
+MP-uname
+MP-du
+MF-anaconda-ks.cfg
+TF-alertConfigField.php
+MP-awk
+SF-cron.a
+MP-tshark
+SF-d.c
+MP*-tac
+MP-sed
+SO-127.0.0.1:8080
+TF-f.r
+MF-robots.txt
+MP-awk
+TP-scp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-td.c
+MP-tee
+TP-pr
+84
+0 1 FR
+0 2 RD
+1 2 RD
+0 3 WR
+1 3 WR
+0 4 RD
+1 4 WR
+0 5 IJ
+1 5 IJ
+5 2 WR
+5 3 RD
+5 4 RD
+0 6 RD
+1 6 WR
+5 6 WR
+0 7 EX
+1 7 WR
+5 7 WR
+0 8 WR
+1 8 RD
+5 8 RD
+0 9 FR
+9 2 UK
+0 10 RD
+1 10 WR
+5 10 WR
+1 11 WR
+5 11 RD
+12 3 WR
+12 4 RD
+5 12 IJ
+12 6 RD
+12 7 WR
+12 8 WR
+12 10 WR
+12 11 RD
+13 3 WR
+13 4 WR
+5 13 UK
+12 14 WR
+15 6 UK
+16 7 RD
+16 8 WR
+16 10 RD
+16 11 UK
+17 7 WR
+17 8 RD
+17 10 UK
+12 18 EX
+12 19 WR
+12 20 FR
+20 14 WR
+20 18 WR
+20 19 EX
+12 21 RD
+20 21 CD
+12 22 UK
+20 23 UK
+24 14 WR
+24 18 WR
+24 19 WR
+24 21 RD
+25 18 WR
+25 19 UK
+24 26 ST
+24 27 WR
+24 28 UK
+29 21 WR
+26 29 RF
+29 27 RD
+30 21 WR
+26 30 RF
+30 27 WR
+29 30 IJ
+31 29 RF
+30 31 ST
+29 32 WR
+30 32 WR
+26 33 RF
+33 27 RD
+30 33 UK
+34 26 ST
+34 27 WR
+29 34 UK
+

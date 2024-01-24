@@ -1,0 +1,42 @@
+13
+MP-dnsdomainname
+SO-atomic@target.example
+SO-192.168.159.128
+MF-cron.a
+MP-whois
+MP*-awk
+MP*-sed
+TF-echo-art-fish.sh
+SF-rockyou.txt
+MP-touch
+MF-test.txt
+MP*-sed
+MP*-cat
+26
+1 0 RF
+2 0 RF
+0 3 WR
+0 4 UK
+1 5 RF
+5 2 ST
+5 3 WR
+6 1 ST
+6 2 ST
+6 3 RD
+5 7 WR
+6 7 CD
+5 8 RD
+6 8 EX
+9 1 ST
+2 9 RF
+9 3 WR
+5 9 UK
+6 10 CD
+1 11 RF
+11 2 ST
+11 3 WR
+6 11 UK
+2 12 RF
+12 3 WR
+12 7 UK
+

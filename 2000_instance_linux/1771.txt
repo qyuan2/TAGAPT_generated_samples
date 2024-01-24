@@ -1,0 +1,106 @@
+29
+MP*-grep
+SF-T1070.006-modification.txt
+MP-prel
+MP-grep
+SO-atomic@target.example
+MF-0*.txt
+MF-e.c
+MF-at.a
+MP*-rev
+MP-systemd
+MP*-paste
+MF-T1070.004-test.txt
+TF-access.txt
+TP-cat
+SF-inetd.c
+MF-journald.c
+MP-bash
+MF-access.htm
+MF-ron.a
+MF-user.r
+MP*-bash
+SO-192.168.10.130
+TF-cron.m
+MF-raw.githubusercontent.c
+MF-cron.a
+MP-cat
+MP-iptables
+MF-logrotate.c
+MP-grep
+74
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 ST
+0 5 RD
+0 6 EX
+0 7 CD
+0 8 FR
+8 1 RD
+8 4 ST
+8 5 RD
+8 6 RD
+8 7 WR
+0 9 UK
+10 1 WR
+10 4 ST
+10 5 RD
+10 6 WR
+10 7 WR
+8 11 RD
+10 11 RD
+8 12 EX
+10 12 WR
+4 13 RF
+13 5 EX
+13 6 WR
+13 7 WR
+8 13 UK
+10 14 RD
+10 15 WR
+16 6 WR
+16 7 WR
+16 11 EX
+16 12 WR
+16 14 WR
+16 15 RD
+10 17 RD
+16 17 EX
+10 18 EX
+16 18 RD
+10 19 RD
+16 19 WR
+20 11 WR
+20 12 WR
+20 14 WR
+20 15 WR
+20 17 RD
+20 18 EX
+20 19 WR
+21 20 RF
+20 22 WR
+20 23 WR
+20 24 EX
+25 17 WR
+25 18 RD
+25 19 WR
+20 25 UK
+26 17 RD
+26 18 WR
+26 19 WR
+26 21 ST
+26 22 EX
+26 23 EX
+26 24 WR
+26 27 WR
+28 19 WR
+28 21 ST
+28 22 CD
+28 23 EX
+28 24 RD
+26 28 UK
+

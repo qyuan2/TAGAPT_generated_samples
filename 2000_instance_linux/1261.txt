@@ -1,0 +1,94 @@
+27
+MP-vim
+MP-dd
+TF-te.c
+MP-grep
+MP-cat
+MP-paste
+MF-sysctl.c
+MF-Users.tar.gz
+MF-at.a
+MF-e.c
+MP-cat
+MF-journald.c
+MP*-dd
+MP-less
+MP*-bash
+SF-access.htm
+TF-rockyou.txt
+SF-2017.pl
+MF-f.r
+SF-raft-large-directories.txt
+MF-T1027-004-test.c
+SO-192.168.159.128
+TF-backsup.sh
+MP*-sed
+MF-Users.tar.gz
+MP-vim
+TP*-bash
+64
+0 1 FR
+0 2 EX
+1 2 CD
+0 3 UK
+1 4 UK
+5 2 RD
+5 6 WR
+5 7 WR
+5 8 WR
+5 9 RD
+10 2 EX
+10 6 EX
+10 7 RD
+10 8 CD
+10 9 UK
+5 11 WR
+5 12 FR
+12 6 CD
+12 7 EX
+12 8 EX
+12 11 WR
+5 13 UK
+14 6 WR
+14 7 WR
+14 8 EX
+14 11 WR
+12 15 RD
+14 15 RD
+12 16 WR
+14 16 RD
+12 17 EX
+14 17 RD
+12 18 WR
+14 18 RD
+12 19 WR
+14 19 WR
+12 20 WR
+14 20 WR
+21 12 RF
+14 21 ST
+12 22 WR
+14 22 RD
+14 23 FR
+23 15 WR
+23 16 RD
+23 17 RD
+23 18 WR
+23 19 WR
+23 20 WR
+23 21 ST
+23 22 WR
+14 24 RD
+23 24 WR
+25 15 WR
+25 16 EX
+25 17 RD
+25 18 UK
+26 16 WR
+26 17 WR
+26 19 RD
+26 20 RD
+26 21 ST
+26 22 EX
+23 26 UK
+

@@ -1,0 +1,61 @@
+16
+MP*-Test.exe 
+MP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+MF-C:\Users\User\appdata\local\temp\deprive
+TP-setup_avrokeyboard_5.6.0.exe
+TF-C:\Users\admin\AppData\Local\Temp\pure
+MP-is-3DL5P.tmp
+MP*-MicrosoftEdgeUpdate.exe 
+MF-C:\Program files\appdata\local\temp\20342.bmp
+MP-ytfovlym.exe
+MP*-TrustedInstaller.exe
+SF-C:\Users\admin\Desktop\Attachment_94259849.zip
+MF-C:\Windows\system32\wbengine
+TF-\Users\admin\AppData\Local\Temp\is-Q8VQL.tmp\jww825a.tmp
+MP-jww825a.exe 
+SF-C:\Windows\system32\vssvc
+MP-pnputil.exe
+42
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 FR
+1 3 IJ
+3 2 RD
+0 4 RD
+1 4 WR
+3 4 WR
+0 5 FR
+1 5 UK
+0 6 FR
+6 2 WR
+3 6 IJ
+6 4 WR
+3 7 WR
+6 7 WR
+8 2 WR
+3 8 IJ
+8 4 EX
+6 8 UK
+9 2 RD
+3 9 IJ
+9 4 WR
+9 7 RD
+3 10 EX
+9 10 EX
+3 11 WR
+9 11 WR
+3 12 WR
+9 12 RD
+13 4 RD
+13 7 EX
+13 10 RD
+13 11 WR
+13 12 WR
+9 14 UK
+15 7 WR
+15 10 WR
+15 11 WR
+15 12 EX
+13 15 UK
+

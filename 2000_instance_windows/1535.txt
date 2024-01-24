@@ -1,0 +1,43 @@
+14
+MP*-is-Q2MHB.tmp
+SF-C:\Users\admin\AppData\Local\Temp\Locker
+MP*-VRAPP.exe 
+SF-C:\Users\admin\Desktop\OlympicDestroyer.exe
+MP-Navicat_Keygen_Patch_v3.7.exe 
+MF-C:\Program Files\Google\Chrome\Application\chrome
+MP*-ma grosse bite.exe 
+MF-7-ZIP.htm
+TF-c:\Program Files\Wireshark\tshark
+SF-C:\Users\admin\AppData\Local\Temp\ursnif.exe
+MF-postgres.exe
+MP*-Bandizip.exe
+MF-C:\Users\admin\AppData\Local\Temp\soft4bro
+SF-C:\Users\admin\Desktop\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7.doc
+26
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 WR
+0 4 FR
+4 1 EX
+2 4 UK
+0 5 RD
+0 6 FR
+6 1 WR
+6 3 WR
+6 5 WR
+0 7 WR
+6 7 EX
+0 8 UK
+6 9 CD
+6 10 WR
+11 3 EX
+11 5 RD
+11 7 RD
+11 9 WR
+11 10 WR
+6 12 WR
+11 12 WR
+11 13 UK
+

@@ -1,0 +1,105 @@
+26
+MP*-uname
+TF-httpd.c
+MF-AutoSUID.sh
+TP-cat
+SF-td.c
+SF-p.c
+MP-tac
+TP-rm
+MF-Users.tar.gz
+MF-T1003.008.txt
+SF-cron.h
+MP-halt
+MF-T1003.008.txt
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-da-ks.cfg
+MF-CleaingScript.sh
+TP*-tee
+MF-raw.githubusercontent.c
+MF-anaconda-ks.cfg
+MP*-ls
+MF-target.example.c
+MF-passwd.zip
+MF-s.c
+MP*-cat
+MF-raft-large-directories.txt
+SF-test.txt
+76
+0 1 WR
+0 2 EX
+0 3 IJ
+3 1 RD
+3 2 WR
+0 4 WR
+3 4 RD
+0 5 WR
+3 5 UK
+0 6 FR
+6 1 RD
+6 2 WR
+6 4 WR
+0 7 IJ
+7 1 RD
+7 2 EX
+7 4 WR
+6 7 IJ
+0 8 EX
+6 8 WR
+7 8 WR
+0 9 RD
+6 9 WR
+7 9 WR
+0 10 WR
+6 10 WR
+7 10 EX
+11 1 WR
+11 2 WR
+11 4 EX
+7 11 IJ
+11 8 WR
+11 9 RD
+11 10 UK
+6 12 RD
+7 12 WR
+13 6 RF
+13 7 RF
+6 14 RD
+7 14 WR
+6 15 WR
+7 15 RD
+6 16 IJ
+7 16 IJ
+16 8 WR
+16 9 RD
+16 12 RD
+13 16 RF
+16 14 CD
+16 15 WR
+7 17 RD
+16 17 WR
+16 18 WR
+19 9 RD
+19 12 WR
+13 19 RF
+19 14 WR
+19 15 WR
+16 19 IJ
+19 17 EX
+19 18 CD
+16 20 WR
+19 20 RD
+16 21 CD
+19 21 EX
+16 22 WR
+19 22 RD
+13 23 RF
+23 14 WR
+23 15 RD
+16 23 IJ
+23 17 WR
+23 18 WR
+19 23 UK
+16 24 WR
+16 25 WR
+

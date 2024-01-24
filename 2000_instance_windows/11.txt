@@ -1,0 +1,29 @@
+10
+MP*-pypykatz.py
+MP-Curl.exe
+SF-c:\windows\system32
+MP*-ns9D4E.tmp
+SF-C:\Users\admin\AppData\Roaming\damianocrnofj6793.exe
+TP-csc.exe 
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86.sys
+MP*-attrib.exe
+MP*-makecab.exe
+MP-pr2.exe 
+16
+0 1 FR
+0 2 UK
+1 3 FR
+1 4 WR
+3 4 EX
+1 5 FR
+3 5 UK
+1 6 WR
+1 7 FR
+7 4 RD
+7 6 UK
+1 8 FR
+8 4 WR
+1 9 FR
+9 4 WR
+8 9 UK
+

@@ -1,0 +1,57 @@
+19
+MP*-grep
+MF-settings.php
+SO-192.168.159.128
+MP-cat
+MP-rpm
+MF-lighttpd.c
+MP*-pr
+SO-192.168.1.1
+MP-cat
+MF-StartupParameters.plist
+MF-inetd.c
+MP*-netstat
+MP*-rpm
+MF-T1070.004-test.txt
+MF-apache2.c
+MF-alertConfigField.php
+SO-http://192.168.0.134/passwd
+MF-2017.pl
+MP-dd
+35
+0 1 EX
+0 2 ST
+0 3 FR
+3 1 RD
+3 2 ST
+0 4 FR
+4 1 CD
+4 2 ST
+3 4 UK
+0 5 RD
+0 6 FR
+6 1 WR
+6 2 ST
+6 5 RD
+0 7 ST
+7 6 RF
+0 8 FR
+8 1 UK
+6 9 WR
+6 10 WR
+11 2 ST
+11 5 RD
+6 11 UK
+12 5 WR
+7 12 RF
+12 9 WR
+12 10 WR
+12 13 WR
+12 14 WR
+12 15 WR
+12 16 ST
+12 17 WR
+18 9 EX
+18 10 WR
+12 18 UK
+

@@ -1,0 +1,141 @@
+41
+MP-Reader_sl.exe 
+TF-96.zip
+MP-crack.exe 
+MF-Fixtures.rar
+MP-some_malicious_file.bin.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MP-ns9E4A.tmp
+TP*-CompPkgSrv.exe
+MF-C:\Windows\System32\WScript.exe
+MF-\Users\User\8527.ico.vb
+MP-secedit.exe
+TP-OUTLOOK.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\script.ps1
+SO-hxxp://sacramentos[.]ru/get.php'))|powershell
+MP-attrib.exe
+TF-C:\Program files\appdata\local\temp\17634
+TP-keygen.exe
+MP-dvRzzWRPw.exe
+MP-regsvr32 .exe
+TP*-opera.exe 
+TP-assoc.exe
+TP-desktopimgdownldr.exe
+MF-\Users\admin\AppData\Local\Temp\E63F.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp8520.tmp
+MP*-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+TF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\nsA12F.tmp
+MF-\Users\admin\Desktop\installer.exe
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe
+SF-C:\Program Files\Notepad
+MF-C:\Program Files\Hantek2xx2\STDFU
+MP*-cvtres.exe
+SO-10.0.0.00000
+SF-C:\Users\admin\AppData\Roaming\expo.exe
+MP-ping.exe
+TF-C:\Users\admin\AppData\Local\Temp\iphoneanalyzer
+MF-\Users\Public\coinmarketcap\coinmarketcap.vb
+SF-C:\Windows\System32\regsvr32
+MP-NilfiskServiceTool.exe
+MP-operasetup.exe
+MP-regsvr32.exe
+MF-class.malware.r
+97
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 UK
+5 2 RF
+6 1 EX
+2 6 UK
+7 1 EX
+7 3 WR
+7 5 ST
+7 8 WR
+7 9 RD
+10 1 EX
+10 3 RD
+10 5 ST
+7 10 IJ
+10 8 RD
+10 9 WR
+11 1 RD
+11 3 WR
+11 5 ST
+7 11 IJ
+11 8 WR
+11 9 CD
+10 11 IJ
+7 12 UK
+10 13 ST
+13 11 RF
+14 5 ST
+14 8 WR
+14 9 EX
+11 14 IJ
+14 13 ST
+10 15 CD
+11 15 RD
+14 15 RD
+16 8 RD
+16 9 RD
+10 16 UK
+17 8 EX
+17 9 WR
+11 17 UK
+18 8 WR
+18 9 UK
+13 19 RF
+14 19 IJ
+19 15 RD
+13 20 RF
+14 20 IJ
+20 15 WR
+19 20 IJ
+21 13 ST
+14 21 IJ
+21 15 EX
+19 21 IJ
+20 21 UK
+14 22 WR
+19 22 UK
+14 23 WR
+14 24 FR
+24 15 WR
+24 23 RD
+24 25 WR
+24 26 WR
+24 27 WR
+24 28 RD
+24 29 WR
+30 23 CD
+30 25 WR
+30 26 RD
+30 27 EX
+30 28 EX
+30 29 WR
+31 24 RF
+30 31 ST
+24 32 WR
+30 32 EX
+33 23 WR
+24 33 UK
+30 34 CD
+30 35 RD
+30 36 UK
+37 27 RD
+37 28 RD
+37 29 WR
+37 31 ST
+37 32 CD
+37 34 RD
+37 35 UK
+38 28 UK
+39 29 WR
+39 31 ST
+39 32 WR
+39 34 WR
+39 40 UK
+

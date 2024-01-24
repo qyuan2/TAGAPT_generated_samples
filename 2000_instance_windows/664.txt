@@ -1,0 +1,44 @@
+14
+MP*-Tags.exe 
+MP-main_bin.exe 
+MP-is-Q2MHB.tmp
+MF-22731610.pdf
+SF-C:\Users\admin\Desktop\pestudio.exe
+SO-https://uploaddeimagens.com.br/images/004/559/510/original/rump_private.jpg?1690504129';$webClient
+MF-files\appdata\local\temp\5491.bmp
+MF-c:\windows\win.ini
+TP-CyberSeal_Crypter_Cracked.exe 
+TP*-сsrss.exe 
+SO-https://vision.fn-pz.com
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+TP*-GLJC215.tmp
+TP*-hh.exe
+27
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+0 4 WR
+0 5 ST
+0 6 WR
+0 7 RD
+0 8 UK
+9 3 RD
+9 4 WR
+5 9 RF
+9 6 EX
+9 7 RD
+10 9 RF
+11 9 RF
+12 3 WR
+12 4 RD
+12 5 ST
+12 6 EX
+12 7 RD
+9 12 UK
+13 3 EX
+13 4 WR
+13 5 ST
+13 6 EX
+13 7 UK
+

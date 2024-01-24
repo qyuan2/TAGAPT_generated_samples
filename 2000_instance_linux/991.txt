@@ -1,0 +1,105 @@
+29
+MP-tee
+MP-ps
+MF-2017.pl
+MP-ftp
+MP-tac
+MP-curl
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-2017.pl
+SF-T1070.004-test.txt
+MP-cat
+MP*-tr
+TF-www.google.c
+TP*-grep
+MP-less
+MP-bash
+MP-cat
+MF-echo-art-fish.sh
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+SO-atomic@target.example
+MF-access.htm
+MF-secret.c
+MP-grep
+MF-ufw.c
+MP*-tee
+MP*-grep
+MF-v.c
+MF-da-ks.cfg
+SO-192.168.10.129
+TF-Users.tar.gz
+73
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+1 3 UK
+0 4 FR
+4 2 WR
+0 5 FR
+5 2 WR
+4 5 UK
+0 6 ST
+0 7 RD
+0 8 WR
+0 9 FR
+9 2 RD
+6 9 RF
+9 7 WR
+10 2 RD
+6 10 RF
+10 7 RD
+10 8 WR
+10 11 EX
+6 12 RF
+12 7 WR
+12 8 RD
+10 12 IJ
+12 11 WR
+6 13 RF
+13 7 WR
+13 8 EX
+10 13 UK
+14 6 ST
+14 7 WR
+14 8 WR
+14 11 WR
+12 14 IJ
+6 15 RF
+15 7 RD
+15 8 RD
+15 11 WR
+12 15 IJ
+14 15 UK
+12 16 WR
+17 12 RF
+18 12 RF
+12 19 WR
+12 20 EX
+21 11 RD
+12 21 IJ
+21 16 WR
+21 17 ST
+21 18 ST
+21 19 RD
+21 20 WR
+12 22 WR
+21 22 WR
+23 16 WR
+23 17 ST
+18 23 RF
+23 19 RD
+23 20 RD
+23 22 WR
+24 16 RD
+17 24 RF
+24 18 ST
+24 19 WR
+24 20 WR
+24 22 WR
+23 24 UK
+21 25 WR
+21 26 WR
+21 27 ST
+21 28 WR
+

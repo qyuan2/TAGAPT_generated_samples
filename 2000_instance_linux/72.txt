@@ -1,0 +1,67 @@
+20
+MP*-cat
+SO-atomic@target.example
+MP-sed
+MF-ron.a
+MF-echo-art-fish.sh
+TP-ls
+MF-subprocess.c
+MP-find
+MP-rm
+MP*-dd
+TP*-lsof
+MF-journald.c
+MP-bash 
+MP-find
+MP-less
+SO-atomic@target.example
+SO-192.168.159.128
+MP*-whoami
+SO-192.168.10.135
+TP-dd
+44
+1 0 RF
+0 2 FR
+1 2 RF
+0 3 CD
+2 3 EX
+0 4 RD
+2 4 WR
+0 5 IJ
+5 1 ST
+2 5 UK
+0 6 UK
+1 7 RF
+7 3 WR
+8 1 ST
+8 3 WR
+7 8 UK
+1 9 RF
+9 3 WR
+10 1 ST
+10 3 EX
+9 10 IJ
+9 11 EX
+10 11 RD
+12 3 EX
+10 12 IJ
+12 11 RD
+9 13 FR
+10 13 UK
+9 14 FR
+14 11 WR
+12 14 UK
+9 15 ST
+9 16 ST
+9 17 FR
+17 11 WR
+15 17 RF
+16 17 RF
+9 18 ST
+17 18 ST
+9 19 FR
+19 11 WR
+15 19 RF
+19 16 ST
+17 19 UK
+

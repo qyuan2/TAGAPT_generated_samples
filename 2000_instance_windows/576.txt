@@ -1,0 +1,43 @@
+11
+MP*-EQNEDT32.EXE
+SF-C:\Users\admin\AppData\Local\Temp\042da877d3\yiueea.exe
+MF-files\appdata\local\temp\14612.bmp
+TP*-OUTLOOK.EXE
+TF-C:\Users\admin\AppData\LocalLow\Microsoft\Internet Explorer\DOMStore\reviewref_protected.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MP-ngen.exe
+TP*-mozilla.exe 
+TP-java.exe
+TF-\baby\baby.dat
+MP*-danke.exe 
+29
+0 1 CD
+0 2 WR
+0 3 IJ
+3 1 RD
+3 2 WR
+0 4 RD
+3 4 WR
+0 5 ST
+5 3 RF
+0 6 FR
+6 1 WR
+6 2 RD
+3 6 UK
+0 7 IJ
+7 1 EX
+7 2 RD
+7 4 RD
+5 7 RF
+0 8 IJ
+8 1 RD
+8 2 RD
+8 4 UK
+0 9 RD
+7 9 RD
+0 10 FR
+10 1 WR
+10 2 RD
+5 10 RF
+7 10 UK
+

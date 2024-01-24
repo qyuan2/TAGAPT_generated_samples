@@ -1,0 +1,101 @@
+30
+MP-dd
+TP*-curl
+SO-192.168.10.130
+MP-dd
+TP-cat
+MF-T1074.001_discovery.log
+MF-cron.h
+MP-sed
+TP*-wpscan
+MP-ls
+MP*-cat
+TP*-logname
+MP-uname
+MP-cat
+TP-paste
+MP-uname
+TP-cat
+TP-cat
+TF-t.c
+TP-tail
+SF-te.c
+MF-apache2.c
+TF-os.sys
+MP-sed
+MP-tail
+MF-www.google.c
+MP-less
+MF-secret.c
+SF-backsup.sh
+MF-flag4.txt
+68
+0 1 FR
+2 0 RF
+2 1 RF
+0 3 UK
+1 4 IJ
+4 2 ST
+1 5 WR
+4 5 WR
+1 6 WR
+4 6 WR
+1 7 IJ
+7 2 ST
+4 7 IJ
+7 5 UK
+1 8 FR
+2 8 RF
+4 8 IJ
+8 6 RD
+1 9 IJ
+2 9 RF
+4 9 IJ
+9 6 WR
+8 9 IJ
+1 10 FR
+10 2 ST
+4 10 IJ
+10 6 WR
+8 10 UK
+1 11 IJ
+2 11 RF
+4 11 IJ
+11 6 RD
+9 11 UK
+12 2 ST
+4 12 IJ
+12 6 WR
+4 13 FR
+13 6 WR
+4 14 FR
+14 6 WR
+12 14 UK
+15 6 EX
+13 15 UK
+16 6 WR
+16 17 IJ
+16 18 UK
+17 19 FR
+17 20 EX
+19 20 RD
+17 21 RD
+19 21 WR
+17 22 RD
+19 22 RD
+17 23 UK
+19 24 FR
+24 20 RD
+24 21 WR
+24 22 WR
+19 25 CD
+24 25 EX
+19 26 IJ
+26 20 EX
+26 21 RD
+26 22 WR
+24 26 UK
+19 27 WR
+19 28 WR
+19 29 WR
+

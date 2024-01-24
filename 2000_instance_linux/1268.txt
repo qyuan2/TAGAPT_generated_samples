@@ -1,0 +1,50 @@
+17
+MP*-python3
+MF-raw.githubusercontent.c
+MF-T1074.001_discovery.log
+MP*-nl
+SO-192.168.206.0
+MF-www.google.c
+SF-access.txt
+TP*-more
+MF-at.a
+MP-sed
+MP-bash
+MP*-vim
+TP-rm
+MF-pwquality.c
+SF-syslog.c
+MF-cron.m
+TP-nl
+30
+0 1 EX
+0 2 RD
+0 3 FR
+3 1 RD
+3 2 WR
+4 0 RF
+3 4 ST
+0 5 WR
+3 5 RD
+0 6 RD
+3 6 WR
+0 7 FR
+7 1 WR
+7 2 WR
+3 7 UK
+0 8 RD
+0 9 UK
+10 1 CD
+10 2 UK
+11 4 ST
+11 5 WR
+11 6 WR
+11 8 WR
+12 4 ST
+12 5 UK
+11 13 RD
+11 14 RD
+11 15 WR
+16 8 CD
+11 16 UK
+

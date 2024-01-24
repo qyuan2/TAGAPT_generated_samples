@@ -1,0 +1,74 @@
+21
+MP*-ip
+MF-io.r
+MF-T1074.001_discovery.log
+MF-T1574.006.c
+SO-192.168.159.128
+MP-less
+SF-AutoSUID.sh
+MF-chttp.c
+MF-cron.a
+SO-192.168.37.130
+MF-raft-large-directories.txt
+MP-sed
+MP*-tail
+MF-lighttp.c
+MP-cat
+TP*-cat
+MF-secret.c
+SO-192.168.10.129
+MP-sed
+SF-chttp.c
+MP*-zip
+50
+0 1 RD
+0 2 RD
+0 3 WR
+0 4 ST
+0 5 FR
+5 1 CD
+5 2 WR
+5 3 RD
+5 4 ST
+0 6 WR
+5 6 RD
+0 7 WR
+5 7 WR
+0 8 RD
+5 8 WR
+9 0 RF
+5 9 ST
+0 10 UK
+11 1 RD
+11 2 RD
+11 3 RD
+4 11 RF
+11 6 CD
+11 7 RD
+11 8 EX
+9 11 RF
+12 2 WR
+12 3 WR
+4 12 RF
+12 6 WR
+12 7 RD
+12 8 UK
+5 13 RD
+11 13 WR
+14 4 ST
+5 14 UK
+15 6 WR
+15 7 CD
+15 9 ST
+11 15 IJ
+15 13 EX
+11 16 EX
+15 16 CD
+17 11 RF
+15 17 ST
+9 18 RF
+11 18 UK
+15 19 EX
+20 13 WR
+15 20 UK
+

@@ -1,0 +1,117 @@
+33
+MP-file.exe
+MF-\Users\admin\AppData\Local\Temp\tmpB7A8.tmp
+MF-C:\Program Files\FileZilla FTP Client\filezilla
+TP*-TBHD AWB 1ZY0W5038626871089.exe
+MF-cryptext.dll
+MP-Entry.exe 
+SF-C:\Program files\appdata\local\temp\20342.bmp
+MF-\Users\admin\AppData\Local\Temp\GLJC215.tmp
+MF-C:\Program Files\appdata\roaming\reflect.rar
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+TP*-WinRAR.exe 
+MF-robot.exe
+MP-OIS.EXE
+MF-\Users\admin\Downloads\Scanned_file_PO23_Jan.exe
+SF-C:\Users\admin\Desktop\0IuqaJTsFmOw8k4.exe
+MF-uploaddeimagens.com.b
+SO-hxxp://194.180.174[.]73/1.txt
+MF-C:\Users\Public\coinmarketcap\coinmarketcap
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsD62C.tmp
+MF-Kfc.vb
+MP*-msxsl.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+TP-pdates.exe 
+SO-https://clients2.google.com/cr/report
+MP-Uninstall.exe 
+MP*-KMSpico_setup.exe 
+MF-ping.exe
+MP-ns9492.tmp 
+MP-PURCHASE ORDER 091020.exe 
+MP-prevhost.exe
+MP-EBDE.exe
+MP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+MP-xqGqlVXkyPJD.exe 
+81
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 WR
+3 4 WR
+0 5 UK
+3 6 WR
+3 7 WR
+3 8 WR
+9 3 RF
+10 1 WR
+10 2 EX
+3 10 IJ
+10 4 RD
+10 6 RD
+10 7 RD
+10 8 RD
+9 10 RF
+3 11 WR
+10 11 EX
+12 2 RD
+3 12 UK
+10 13 WR
+10 14 WR
+10 15 WR
+10 16 ST
+10 17 WR
+10 18 RD
+10 19 WR
+10 20 FR
+20 11 EX
+20 13 RD
+20 14 EX
+20 15 EX
+20 16 ST
+20 17 WR
+20 18 WR
+20 19 RD
+21 20 RF
+22 13 WR
+22 14 EX
+22 15 WR
+22 16 ST
+22 17 RD
+22 18 WR
+22 19 UK
+23 20 RF
+24 14 RD
+24 15 WR
+24 16 ST
+24 17 WR
+24 18 WR
+20 24 UK
+25 15 WR
+25 16 ST
+25 17 EX
+25 18 CD
+25 21 ST
+23 25 RF
+25 26 RD
+27 17 EX
+27 18 EX
+21 27 RF
+27 23 ST
+25 27 UK
+28 18 RD
+28 21 ST
+28 23 ST
+28 26 RD
+29 21 ST
+29 23 ST
+29 26 UK
+30 21 ST
+23 30 RF
+28 30 UK
+31 21 ST
+23 31 RF
+23 32 RF
+31 32 UK
+

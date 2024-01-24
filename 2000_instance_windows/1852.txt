@@ -1,0 +1,385 @@
+99
+MP-Curl.exe
+MF-\Users\admin\AppData\Roaming\.exe
+MP-nsA042.tmp
+MP-wusa.exe
+SF-C:\Users\admin\AppData\Local\Temp\EasyValorant
+SF-C:\Windows\SysWOW64\ytqpvkdx\vlliugwu
+MP-findstr.exe
+MF-\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+MF-Order2023.doc
+MF-use.txt
+MF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04.exe
+MP-KMSpico_setup.exe
+MP*-rPO59687543.exe 
+SO-hxxp://194.180.174[.]73/1.txt
+MP-wscript.exe
+SO-hxxp://155.138.252[.]221/get.php
+SF-C:\Program files\appdata\local\temp\10805
+MF-C:\Program Files\Orcus\Orcus
+SO-hxxp://157.245.99[.]132/get.php
+MF-DC\Reader\AcroCEF\RdrCEF.exe
+MP-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+TP-PowerShell.exe
+TP*-BFB9.exe
+MF-C:\Windows\System32\bitsadmin.exe
+TP*-Uninstall.exe 
+TF-%tmp%\T1218.009.dll
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\regsvcs.exe
+MF-\Users\admin\AppData\Local\Temp\Client.pdf
+MF-Confirmation.exe
+MP*-verclsid.exe
+MF-C:\Windows\SysWOW64\ytqpvkdx\vlliugwu.exe
+TP-chrome.exe 
+SO-hxxp://avirona.ru/7-ZIP.html
+TF-C:\Users\admin\AppData\Local\Temp\XClient.rar
+MF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04.exe
+SF-C:\Windows\explorer.exe
+MF-C:\Users\admin\AppData\Local\Temp\dav
+SF-C:\Users\admin\AppData\Local\Temp\FastLane
+MF-C:\Users\admin\AppData\Local\Temp\Setup
+TP-ns9492.tmp 
+MP-ns9B66.tmp 
+SF-C:\Users\admin\Desktop\OlympicDestroyer.exe
+MF-\windows\system32\msiexec.exe
+SF-C:\Users\admin\Desktop\Attachment_94259849.zip
+MF-C:\Windows\debug\WIA\wininit.exe
+MP-taskhsvc.exe
+MP-pdates.exe 
+MP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+MF-\Users\admin\AppData\Local\Temp\authrootstl.cab
+MP-Scan20230717_newshipment 202333pdf.exe
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+TP-bozon.exe 
+TP-nmap.exe
+MF-\Windows\sysnative\cmd.exe
+SO-45.63.100.72
+TF-atiacmxx.dll
+SF-C:\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost.exe
+MP-Dieselmotorers.exe
+TP-msxsl.exe
+SF-C:\Users\admin\AppData\Local\Temp\JAVA
+MP-PAGO DE FACTURA PENDIENTE.bin.exe 
+SF-C:\Users\admin\AppData\Local\Temp\bfsvc
+MF-\Users\admin\AppData\Local\Temp\dav.bat
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MP-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+MF-PDF.exe
+MF-C:\Users\admin\AppData\Local\Temp\UpdateService.bat
+MP-B47C.exe
+TP-SSLplus.exe
+MP-certutil.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+SF-C:\Users\admin\AppData\Local\Temp\9215.tmp
+MF-C:\Users\admin\AppData\Local\Temp\5033182378119.js
+MF-C:\Users\admin\AppData\Roaming\JavaNetworkServices86\javaw
+MP-filezilla.exe 
+MP-MicrosoftEdgeUpdate.exe
+SF-C:\Program Files\Mozilla Firefox\default-browser-agent.exe
+MF-regsvr32.exe
+MP-javaw.exe
+MP-where.exe
+SO-10.0.0.00000
+MF-7.1.exe
+SO-hxxp://sacramentos[.]ru/get.php'))|powershell
+MP-Ziraat Bankasi Swift Mesaji.exe 
+TF-schtasks.exe
+MP-saves.exe
+MP-operasetup.exe
+MF-attached.htm
+MP-RtkBtManServ.exe
+TP-firefox.exe 
+TF-C:\Users\admin\AppData\Roaming\q5qw3\VP1T1deRx1
+MF-TaskData\Tor\taskhsvc.exe
+MF-C:\Program Files\AsLocal\2
+MP-nltest.exe
+MP-hh.exe
+MP-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+MP-chrome.exe 
+TF-CSIDL_COMMON_APPDATA\anydesk.exe
+MP-Ziraat Bankasi Swift Mesaji.exe 
+283
+0 1 CD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+0 4 RD
+2 4 WR
+3 4 EX
+0 5 EX
+2 5 EX
+3 5 UK
+0 6 FR
+6 1 WR
+6 4 WR
+0 7 WR
+2 7 WR
+6 7 WR
+0 8 WR
+2 8 WR
+6 8 WR
+0 9 RD
+2 9 RD
+6 9 WR
+2 10 EX
+6 10 RD
+2 11 FR
+11 4 WR
+11 7 RD
+11 8 WR
+11 9 WR
+11 10 RD
+12 4 WR
+12 7 WR
+12 8 WR
+12 9 EX
+12 10 RD
+13 6 RF
+11 13 ST
+12 13 ST
+6 14 UK
+11 15 ST
+15 12 RF
+11 16 WR
+12 16 RD
+11 17 WR
+12 17 EX
+18 11 RF
+12 18 ST
+11 19 CD
+12 19 WR
+20 10 RD
+11 20 UK
+12 21 FR
+13 21 RF
+21 15 ST
+21 16 RD
+21 17 UK
+12 22 IJ
+13 22 RF
+15 22 RF
+22 16 WR
+22 18 ST
+22 19 WR
+22 23 WR
+24 15 ST
+24 16 RD
+24 18 ST
+24 19 WR
+22 24 IJ
+24 23 RD
+22 25 RD
+24 25 WR
+22 26 RD
+24 26 WR
+22 27 RD
+24 27 WR
+22 28 CD
+24 28 WR
+29 19 RD
+22 29 IJ
+29 23 RD
+24 29 IJ
+29 25 WR
+29 26 RD
+29 27 WR
+29 28 RD
+22 30 WR
+24 30 WR
+29 30 CD
+22 31 IJ
+31 23 EX
+24 31 IJ
+31 25 RD
+31 26 WR
+31 27 RD
+31 28 EX
+29 31 IJ
+31 30 WR
+22 32 ST
+32 24 RF
+32 29 RF
+32 31 RF
+24 33 WR
+29 33 RD
+31 33 UK
+24 34 WR
+29 34 WR
+29 35 WR
+29 36 WR
+29 37 CD
+29 38 EX
+29 39 FR
+39 30 RD
+32 39 RF
+39 34 WR
+39 35 WR
+39 36 WR
+39 37 WR
+39 38 WR
+40 30 RD
+32 40 RF
+40 34 WR
+40 35 EX
+40 36 EX
+40 37 WR
+40 38 EX
+39 40 IJ
+39 41 RD
+40 41 WR
+39 42 RD
+40 42 EX
+39 43 WR
+40 43 RD
+39 44 WR
+40 44 RD
+45 35 WR
+45 36 RD
+45 37 RD
+45 38 WR
+39 45 UK
+46 36 EX
+46 37 CD
+46 38 WR
+46 41 RD
+46 42 WR
+46 43 EX
+46 44 WR
+47 37 RD
+47 38 WR
+40 47 UK
+46 48 WR
+49 41 WR
+49 42 WR
+49 43 CD
+49 44 RD
+49 48 WR
+46 50 ST
+50 49 RF
+51 41 RD
+51 42 WR
+51 43 UK
+52 42 WR
+52 44 WR
+46 52 UK
+49 53 WR
+54 49 RF
+49 55 WR
+49 56 CD
+57 48 WR
+49 57 UK
+58 48 WR
+50 58 RF
+58 53 WR
+54 58 RF
+58 55 WR
+58 56 WR
+58 59 EX
+60 50 ST
+60 53 WR
+54 60 RF
+60 55 RD
+60 56 RD
+58 60 IJ
+60 59 WR
+58 61 WR
+60 61 WR
+58 62 WR
+60 62 RD
+58 63 ST
+63 60 RF
+64 54 ST
+64 55 WR
+64 56 CD
+58 64 IJ
+64 59 UK
+58 65 WR
+60 65 WR
+58 66 RD
+60 66 RD
+58 67 IJ
+60 67 UK
+58 68 IJ
+68 61 RD
+68 62 EX
+63 68 RF
+68 65 WR
+68 66 WR
+69 61 RD
+69 62 RD
+63 69 RF
+69 65 WR
+69 66 EX
+68 69 IJ
+70 68 RF
+70 69 RF
+68 71 EX
+69 71 WR
+68 72 CD
+69 72 WR
+68 73 EX
+69 73 RD
+74 65 WR
+74 66 UK
+75 65 CD
+68 75 UK
+69 76 WR
+69 77 WR
+69 78 FR
+70 78 RF
+78 71 WR
+78 72 EX
+78 73 WR
+78 76 EX
+78 77 WR
+69 79 UK
+80 78 RF
+78 81 WR
+82 78 RF
+83 73 WR
+83 76 UK
+78 84 EX
+85 77 WR
+78 85 UK
+86 77 RD
+86 80 ST
+86 81 WR
+82 86 RF
+86 84 WR
+86 87 WR
+88 80 ST
+88 81 WR
+82 88 RF
+88 84 EX
+88 87 EX
+80 89 RF
+89 81 CD
+89 82 ST
+89 84 UK
+86 90 RD
+88 90 WR
+86 91 EX
+88 91 WR
+86 92 WR
+88 92 WR
+86 93 FR
+93 87 EX
+93 90 RD
+93 91 RD
+93 92 RD
+86 94 UK
+95 87 WR
+95 90 EX
+95 91 WR
+95 92 CD
+96 87 EX
+96 90 UK
+88 97 CD
+93 97 WR
+95 97 WR
+88 98 FR
+98 91 RD
+98 92 WR
+93 98 UK
+

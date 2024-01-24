@@ -1,0 +1,72 @@
+21
+MP*-searchsploit
+MP-grep
+MF-apache2.c
+MF-ttpd.c
+TF-art.sh
+MP-bash
+MP*-arp
+MP-cat
+SO-64.192.168.80
+MP-cat
+TP*-bash
+MF-T1070.006-reference.txt
+MP-cat
+SO-192.168.10.130
+MP-sh
+MP*-python
+TP-sudo
+MP-sudo
+MP-python
+MF-httpd.c
+MP-dd
+48
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 WR
+1 3 WR
+0 4 WR
+1 4 RD
+0 5 UK
+1 6 FR
+6 2 WR
+6 3 WR
+6 4 RD
+1 7 FR
+7 2 EX
+7 3 WR
+7 4 WR
+6 7 UK
+1 8 ST
+1 9 UK
+10 2 WR
+10 3 RD
+10 4 WR
+8 10 RF
+10 11 WR
+12 2 WR
+12 3 EX
+12 4 UK
+10 13 ST
+8 14 RF
+14 11 WR
+13 14 RF
+15 8 ST
+15 11 WR
+15 13 ST
+14 15 UK
+16 8 ST
+16 11 WR
+16 13 ST
+8 17 RF
+17 11 WR
+17 13 ST
+16 17 UK
+18 11 WR
+18 13 ST
+18 19 WR
+20 11 WR
+13 20 RF
+18 20 UK
+

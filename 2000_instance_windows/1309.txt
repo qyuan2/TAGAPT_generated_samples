@@ -1,0 +1,110 @@
+32
+MP*-dd
+MF-flag3.txt
+MF-bash_completion.sh
+MP-awk
+SO-192.168.159.128
+MF-on.a
+MP-hydra
+MP-cat
+SO-192.168.10.128
+SF-raw.githubusercontent.c
+MF-backsup.sh
+MP-netstat
+TP*-bash
+SF-at.a
+TP-last
+SF-T1070.004-test.txt
+SO-192.168.10.131
+MF-flag3.txt
+TF-lighttpd.c
+MF-victim-shred.txt
+TF-cron.m
+SF-subprocess.c
+MP-sed
+TP*-cat
+MF-Microsoft created .msc files
+MF-lighttpd.c
+MF-locale.c
+MF-Users.tar.gz
+MP*-sed
+MP-who
+MF-access.htm
+MP-grep
+75
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 RD
+3 2 WR
+4 0 RF
+3 4 ST
+0 5 RD
+3 5 WR
+0 6 UK
+7 1 WR
+7 2 RD
+4 7 RF
+7 5 WR
+8 3 RF
+7 8 ST
+3 9 EX
+7 9 RD
+3 10 WR
+7 10 WR
+11 2 WR
+3 11 UK
+12 4 ST
+12 5 WR
+7 12 IJ
+12 8 ST
+12 9 WR
+12 10 WR
+7 13 WR
+12 13 RD
+14 5 EX
+7 15 WR
+12 15 WR
+16 7 RF
+16 12 RF
+7 17 EX
+12 17 WR
+12 18 WR
+12 19 WR
+12 20 RD
+12 21 WR
+12 22 FR
+22 13 UK
+23 15 WR
+23 16 ST
+23 17 CD
+23 18 RD
+23 19 WR
+23 20 EX
+23 21 EX
+23 24 EX
+23 25 RD
+23 26 RD
+23 27 EX
+28 18 RD
+28 19 WR
+28 20 EX
+28 21 WR
+23 28 IJ
+28 24 WR
+28 25 EX
+28 26 EX
+28 27 EX
+29 19 WR
+29 20 EX
+29 21 WR
+23 29 IJ
+29 24 EX
+29 25 WR
+29 26 RD
+29 27 RD
+28 29 UK
+23 30 RD
+31 21 WR
+23 31 UK
+

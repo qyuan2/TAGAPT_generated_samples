@@ -1,0 +1,46 @@
+15
+MP*-grep
+MF-CleaingScript.sh
+MF-common.txt
+MF-password-hash.sh
+SF-T1070.006-modification.txt
+MF-Users.tar.gz
+MP*-clang
+MF-data.zip
+SO-192.168.10.129
+MP*-setenforce 
+MF-T1070.006-reference.txt
+MF-victim-shred.txt
+SO-192.168.10.128
+SO-http://192.168.10.129/image.php?FUZZ=something
+TP*-less
+28
+0 1 CD
+0 2 WR
+0 3 WR
+0 4 EX
+0 5 WR
+0 6 FR
+6 1 WR
+6 2 RD
+6 3 RD
+6 4 UK
+0 7 EX
+0 8 ST
+0 9 FR
+9 1 EX
+9 2 WR
+9 3 RD
+9 5 WR
+9 7 EX
+9 8 ST
+0 10 RD
+9 10 WR
+9 11 WR
+9 12 ST
+9 13 ST
+14 5 EX
+14 7 RD
+14 8 ST
+9 14 UK
+

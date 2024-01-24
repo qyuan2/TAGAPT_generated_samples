@@ -1,0 +1,116 @@
+32
+MP-cronos.exe
+TP-CareUEyes.exe
+MF-C:\Windows\Temp\lsass
+MP*-AnyDesk-a444ebcf.exe 
+SF-C:\Users\admin\Desktop\EXE_temp2.exe
+MP-AcroRd32.exe 
+SO-10.0.0.00000
+MP-sysmon.exe
+MP-cacls.exe 
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\y6493242.exe
+MF-C:\Users\admin\AppData\Local\Temp\Client.pdf
+MF-C:\Users\admin\AppData\Local\Temp\OriginalBuild.exe
+TF-.\ExternalPayloads\T1219_NetSupport.exe
+MF-files\cronos.exe
+TP-procdump.exe
+MF-robot.exe
+MF-\Windows\debug\WIA\wininit.exe
+MP-mofcomp.exe
+TP*-nvvsvc.exe 
+MP*-Dkeyauth.tmp 
+MP-XClient.exe 
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+TP*-Curl.exe
+MP-bitsadmin.exe
+MF-C:\MSOCache\All Users\{90140000-002C-0410-0000-0000000FF1CE}-C\lsass.exe
+TF-C:\Users\admin\AppData\Local\Temp\764A8FDA682D69AD7E1ABC4D66028BF9.dll
+MP-ns9510.tmp
+MF-Files\Wireshark\tshark.exe
+TP-net.exe
+SF-C:\Users\admin\AppData\Local\Temp\yapars.zip
+MF-nwc.h
+MP-schtasks.exe 
+81
+0 1 IJ
+0 2 RD
+1 2 UK
+0 3 FR
+0 4 WR
+3 4 RD
+0 5 UK
+6 3 RF
+3 7 FR
+7 4 UK
+3 8 FR
+8 6 ST
+3 9 WR
+8 9 EX
+3 10 RD
+8 10 UK
+3 11 CD
+3 12 WR
+3 13 WR
+14 6 ST
+14 9 WR
+14 11 WR
+14 12 WR
+14 13 RD
+14 15 EX
+14 16 RD
+17 9 WR
+17 11 RD
+17 12 WR
+17 13 RD
+14 17 UK
+18 9 CD
+18 11 EX
+18 12 WR
+18 13 EX
+18 15 RD
+18 16 RD
+19 9 WR
+19 11 EX
+19 12 WR
+19 13 WR
+19 15 RD
+19 16 WR
+18 19 IJ
+20 11 WR
+20 12 RD
+20 13 RD
+20 15 RD
+20 16 EX
+18 20 UK
+21 19 RF
+22 12 RD
+22 13 WR
+22 15 WR
+22 16 WR
+19 22 IJ
+21 22 RF
+23 13 RD
+23 15 WR
+23 16 UK
+19 24 RD
+22 24 EX
+19 25 RD
+22 25 RD
+19 26 FR
+21 26 RF
+22 26 IJ
+26 24 UK
+19 27 WR
+22 27 RD
+19 28 IJ
+21 28 RF
+22 28 IJ
+28 25 RD
+28 27 UK
+19 29 WR
+22 29 RD
+22 30 UK
+21 31 RF
+31 25 EX
+31 29 UK
+

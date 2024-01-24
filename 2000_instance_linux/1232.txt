@@ -1,0 +1,145 @@
+35
+MP*-more
+SF-shell.cgi
+TP-bash 
+MF-pwquality.c
+SO-192.168.159.128
+MP-cat
+MF-s.c
+TP*-uname
+MF-ufw.c
+MF-settings.php
+TF-linux.txt
+MF-LinEnum.sh
+MF-inetd.c
+SF-cron.h
+MP*-bash
+MP-bash
+MP-sed
+MP-awk
+SF-subprocess.c
+SO-192.168.2.102
+TP-bash
+SO-192.168.206.137
+SF-ttpd.c
+MF-shell.cgi
+MP*-less
+TP-grep
+MF-flag3.txt
+SO-192.168.206.0
+SO-192.168.10.133
+MF-1.zip
+MF-robots.txt
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP-ls
+MP-sed
+TP-cat
+107
+0 1 EX
+0 2 FR
+2 1 CD
+0 3 RD
+2 3 WR
+0 4 ST
+4 2 RF
+0 5 FR
+5 1 WR
+2 5 IJ
+5 3 RD
+4 5 RF
+0 6 CD
+2 6 WR
+5 6 EX
+0 7 IJ
+7 1 WR
+2 7 IJ
+7 3 RD
+7 4 ST
+5 7 IJ
+7 6 WR
+0 8 EX
+2 8 WR
+5 8 WR
+7 8 CD
+0 9 RD
+2 9 RD
+5 9 WR
+7 9 WR
+0 10 WR
+2 10 WR
+5 10 WR
+7 10 UK
+2 11 WR
+5 11 CD
+5 12 WR
+5 13 WR
+5 14 FR
+14 6 WR
+14 8 RD
+14 9 WR
+14 11 CD
+14 12 RD
+14 13 WR
+15 6 UK
+16 8 RD
+16 9 WR
+16 11 WR
+16 12 WR
+16 13 WR
+14 16 UK
+17 8 RD
+17 9 RD
+17 11 RD
+17 12 RD
+17 13 RD
+17 18 RD
+17 19 ST
+20 11 WR
+20 12 WR
+20 13 EX
+17 20 IJ
+20 18 CD
+19 20 RF
+21 17 RF
+21 20 RF
+17 22 RD
+20 22 RD
+17 23 WR
+20 23 WR
+17 24 FR
+24 18 RD
+24 19 ST
+20 24 IJ
+24 21 ST
+24 22 WR
+24 23 RD
+17 25 IJ
+25 18 WR
+25 19 ST
+20 25 UK
+17 26 RD
+24 26 EX
+27 17 RF
+27 24 RF
+24 28 ST
+24 29 RD
+24 30 EX
+31 24 RF
+32 22 RD
+32 23 WR
+32 26 EX
+32 27 ST
+28 32 RF
+32 29 WR
+32 30 CD
+31 32 RF
+33 23 EX
+33 26 EX
+27 33 RF
+28 33 RF
+33 29 WR
+33 30 WR
+33 31 ST
+32 33 UK
+24 34 UK
+

@@ -1,0 +1,56 @@
+18
+MP-cat
+TF-lighttp.c
+MP-uname
+MP-sed
+MP-more
+MP-paste
+MP-more
+TP*-tee
+MF-chttp.c
+TP*-less
+TF-passwd.zip
+MF-secret.c
+SF-T1070.004-test.txt
+MP-crontab
+MP*-awk
+MP*-ls
+SO-127.0.0.1:8080
+SO-192.168.10.131
+35
+0 1 CD
+0 2 UK
+3 1 WR
+4 1 WR
+3 4 UK
+5 1 WR
+6 1 WR
+5 6 UK
+7 1 CD
+7 8 WR
+9 1 WR
+7 9 IJ
+9 8 WR
+7 10 WR
+9 10 WR
+7 11 WR
+9 11 WR
+7 12 RD
+9 12 RD
+7 13 FR
+13 8 RD
+9 13 UK
+7 14 IJ
+14 8 CD
+14 10 RD
+14 11 WR
+14 12 EX
+7 15 FR
+15 8 RD
+15 10 CD
+15 11 WR
+15 12 EX
+14 15 UK
+7 16 ST
+7 17 ST
+

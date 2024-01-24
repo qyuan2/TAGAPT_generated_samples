@@ -1,0 +1,190 @@
+47
+MP*-ftp
+MP-less
+SO-192.168.206.136
+MF-pd.c
+TF-T1070.004-test.txt
+SF-te.c
+MP-vi
+MP*-scp
+MF-T1070.006-modification.txt
+TP-sed
+MP-ftp
+MP-bash
+SF-d.c
+MF-at.a
+SF-syslog.c
+SO-192.168.206.0
+TF-inetd.c
+MP-less
+MP-dd
+TP-uname
+MP-ls
+MP-rm
+MP-sed
+MF-user.r
+MP-cat
+MP*-uname
+SF-log.c
+SF-etc.tar.gz
+TF-at.a
+MP-find
+MF-T1003.008.txt
+MP-more
+SO-192.168.0.134
+TP-bash 
+TF-sysctl.c
+TP*-ls
+MF-log.c
+TP-clang
+SF-secret.c
+SF-ttpd.c
+MF-common.txt
+MP-echo
+SO-192.168.10.129
+SF-raw.githubusercontent.c
+SF-secret.c
+MF-atomic.sh
+MP-cat
+140
+0 1 FR
+2 0 RF
+1 2 ST
+0 3 RD
+1 3 WR
+0 4 WR
+1 4 WR
+0 5 RD
+1 5 RD
+0 6 FR
+1 6 UK
+0 7 FR
+2 7 RF
+7 3 WR
+7 4 WR
+7 5 WR
+0 8 RD
+7 8 EX
+0 9 FR
+2 9 RF
+9 3 RD
+9 4 RD
+9 5 WR
+7 9 IJ
+9 8 WR
+0 10 FR
+2 10 RF
+10 3 WR
+10 4 EX
+10 5 EX
+7 10 UK
+11 2 ST
+11 3 WR
+11 4 RD
+11 5 RD
+11 8 UK
+9 12 RD
+9 13 WR
+9 14 RD
+15 9 RF
+9 16 WR
+9 17 FR
+17 12 WR
+17 13 EX
+17 14 UK
+9 18 FR
+18 12 WR
+18 13 EX
+18 15 ST
+18 16 WR
+9 19 FR
+19 12 RD
+19 13 RD
+19 15 ST
+19 16 WR
+18 19 IJ
+20 12 RD
+20 13 WR
+15 20 RF
+20 16 EX
+18 20 UK
+21 12 RD
+21 13 WR
+21 15 ST
+21 16 WR
+19 21 IJ
+22 12 CD
+22 13 WR
+15 22 RF
+22 16 WR
+19 22 UK
+21 23 WR
+24 15 ST
+24 16 WR
+21 24 UK
+25 15 ST
+25 16 RD
+25 23 WR
+25 26 WR
+25 27 WR
+25 28 RD
+29 23 RD
+29 26 RD
+29 27 RD
+29 28 WR
+25 30 WR
+29 30 WR
+31 23 RD
+31 26 WR
+31 27 EX
+31 28 RD
+31 30 EX
+32 25 RF
+32 29 RF
+32 31 RF
+33 23 WR
+25 33 IJ
+33 26 RD
+33 27 WR
+33 28 WR
+29 33 UK
+25 34 WR
+31 34 RD
+25 35 IJ
+35 26 WR
+35 27 RD
+35 28 CD
+35 30 WR
+31 35 IJ
+35 32 ST
+35 34 CD
+31 36 EX
+35 36 WR
+37 27 RD
+37 28 WR
+37 30 RD
+31 37 UK
+35 38 WR
+35 39 RD
+35 40 WR
+41 32 ST
+41 34 EX
+35 41 IJ
+41 36 RD
+41 38 WR
+41 39 RD
+41 40 RD
+42 35 RF
+42 41 RF
+35 43 WR
+41 43 WR
+35 44 EX
+41 44 WR
+35 45 WR
+41 45 RD
+46 36 WR
+46 38 WR
+46 39 CD
+46 40 WR
+41 46 UK
+

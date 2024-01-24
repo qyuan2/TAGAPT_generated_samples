@@ -1,0 +1,50 @@
+13
+MP*-wscript.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+SO-edcb@topsoe.com
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+TP*-build3.exe 
+SF-C:\Users\admin\Desktop\softwarelagswitchc.exe
+MP-schtasks.exe
+MF-C:\Program Files\Windows Defender\MpCmdRun
+TP*-Xd.exe
+SF-C:\Program Files\Bandizip\Bandizip.exe
+SF-%tmp%\mimikatz\x64\mimikatz.exe 
+MP*-cmstp.exe
+MP-Entry.exe 
+34
+1 0 RF
+2 0 RF
+0 3 ST
+0 4 FR
+1 4 RF
+2 4 RF
+3 4 RF
+0 5 RD
+4 5 WR
+0 6 FR
+1 6 RF
+2 6 RF
+3 6 RF
+4 6 UK
+0 7 WR
+0 8 FR
+1 8 RF
+2 8 RF
+8 3 ST
+8 5 UK
+0 9 WR
+0 10 RD
+11 1 ST
+11 2 ST
+11 3 ST
+11 7 WR
+11 9 EX
+11 10 RD
+2 12 RF
+12 3 ST
+12 7 CD
+12 9 CD
+12 10 RD
+11 12 UK
+

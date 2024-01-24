@@ -1,0 +1,40 @@
+15
+MP*-OriginalBuild.exe.exe 
+MP-WinAPIOverride 6.9.1.exe
+TF-C:\Program Files\Windows Defender\MpCmdRun
+TP-KMSpico_setup.exe 
+MP-Heapman45.exe 
+MP*-WerFault.exe
+MP-server.exe 
+MF-C:\Users\admin\AppData\Local\Temp\tmp961C
+TP*-Ayuaey.exe 
+MP*-468C.exe
+MP-runas.exe
+MP-dpinst.exe 
+MP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\misc.r
+MF-\Users\admin\AppData\Local\Temp\setup_avrokeyboard_5.6.0.exe
+22
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 UK
+1 4 UK
+5 2 RD
+6 2 UK
+5 7 WR
+5 8 IJ
+8 7 WR
+5 9 FR
+9 7 RD
+8 9 IJ
+5 10 FR
+10 7 UK
+5 11 FR
+8 11 IJ
+9 11 UK
+5 12 FR
+8 12 UK
+5 13 WR
+5 14 WR
+

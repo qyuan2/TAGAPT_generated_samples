@@ -1,0 +1,93 @@
+23
+MP*-rev
+MP*-bash
+MF-apache2.c
+MF-cron.m
+MF-s.c
+MF-www.google.c
+SO-192.168.1.1
+MF-apache2.c
+MF-shell.cgi
+SF-ret.c
+SO-192.168.47.155
+MP-wpscan
+TP*-cat
+MP-rev
+MP*-grep
+MF-resolv.c
+MP-sed
+TP-awk
+MF-p.c
+SF-f.r
+MP-finger
+MF-lighttpd.c
+MF-art.sh
+67
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 WR
+1 3 RD
+0 4 WR
+1 4 WR
+0 5 WR
+1 5 WR
+0 6 ST
+1 6 ST
+0 7 EX
+1 7 WR
+0 8 RD
+1 8 WR
+0 9 UK
+10 1 RF
+1 11 FR
+11 2 RD
+11 3 WR
+11 4 WR
+11 5 WR
+6 11 RF
+11 7 RD
+11 8 WR
+11 10 ST
+12 2 RD
+12 3 RD
+12 4 RD
+12 5 WR
+6 12 RF
+12 7 RD
+12 8 WR
+12 10 ST
+11 12 UK
+13 3 WR
+13 4 WR
+13 5 EX
+13 6 ST
+13 7 RD
+13 8 RD
+10 13 RF
+14 4 RD
+14 5 RD
+14 6 ST
+14 7 WR
+14 8 WR
+10 14 RF
+13 15 WR
+14 15 RD
+16 6 ST
+16 7 WR
+16 8 WR
+16 10 ST
+16 15 WR
+17 7 EX
+17 8 RD
+10 17 RF
+13 17 UK
+14 18 WR
+16 18 CD
+14 19 RD
+16 19 RD
+20 10 ST
+14 20 UK
+16 21 WR
+16 22 UK
+

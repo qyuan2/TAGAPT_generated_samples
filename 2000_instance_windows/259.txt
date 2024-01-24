@@ -1,0 +1,57 @@
+18
+MP*-PsExec.exe
+MF-C:\Users\admin\AppData\Local\Temp\sample-store-survey-questionnaire-retail.zip
+MP*-PING.EXE
+MP-WinRAR.exe 
+MF-C:\Users\admin\AppData\Local\Temp\sentinelone
+MF-C:\Users\admin\AppData\Local\Temp\what
+MP-ns99EC.tmp
+MF-C:\Windows\Temp\Crashpad\reports\winlogon.exe
+MP-ns921C.tmp
+SF-C:\Users\admin\AppData\Local\Temp\OriginalMessage.txt
+MP-msdt.exe
+MF-C:\Users\admin\AppData\Local\Temp\6248
+MF-C:\windows\temp\vr3ud24r
+MP*-del.exe
+MF-6.9.1\license.txt
+MF-\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+SF-C:\Users\Public\Pictures\deep
+TP*-p2602380.exe
+36
+0 1 RD
+0 2 FR
+2 1 EX
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 RD
+0 5 RD
+0 6 FR
+6 1 WR
+6 4 RD
+6 5 WR
+0 7 WR
+6 7 RD
+0 8 UK
+6 9 RD
+10 1 WR
+10 4 WR
+10 5 UK
+6 11 RD
+6 12 WR
+13 4 WR
+13 7 WR
+13 9 EX
+13 11 WR
+13 12 WR
+6 14 EX
+13 14 RD
+6 15 EX
+13 15 RD
+6 16 WR
+13 16 WR
+17 9 WR
+17 11 WR
+17 12 WR
+13 17 UK
+

@@ -1,0 +1,134 @@
+36
+MP*-SearchFilterHost.exe
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\regsvcs.exe
+TP-Overbygningsuddannelsens.exe
+MF-atiacmxx.dll
+SF-%tmp%\mimikatz\x64\mimikatz.exe 
+SF-C:\Windows\System32\rundll32
+MP-PC_Cleaner__5509.exe 
+SO-https://www.youtube.com/@Omnidev_
+MF-Get-UsoClientDLLSystem.ps1
+SF-C:\Users\admin\AppData\Local\Temp\lk
+TP-vlc.exe
+MP-MpCmdRun.exe
+SF-C:\Windows\system32\SearchProtocolHost
+MP*-DllHost.exe
+MP-DataSvcUtil.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MP-Explorer.EXE
+MF-C:\Users\admin\AppData\Roaming\1
+TF-C:\Users\admin\AppData\Local\Temp\819cebc553434a1b12318d80f63ebd96.exe
+MF-\Users\admin\AppData\Local\Temp\bltf.exe.INFECTED.dll
+TP-PC_Cleaner__5509.exe 
+TP*-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+TF-C:\Users\admin\AppData\Local\Temp\\badempty.cmd
+MP*-Request a quote UC202308-17TH·pdf.exe 
+MF-rundll32.exe
+MF-C:\Users\admin\AppData\Local\Temp\Edge
+MP-ns9AE8.tmp
+MP-nethtsrv.exe
+MF-saves.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/mshta.sct').Exec();close
+TP-takeown.exe
+MF-C:\Edge
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+SF-C:\Users\admin\Downloads\MDE_File_Sample_bc548dd6003002ec5d288b30d1802e3bb6bcbfde4d8d8a40fc7fb5a9e21a3c09.zip
+MP-cmdkey.exe
+95
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 EX
+0 4 RD
+2 4 EX
+0 5 RD
+2 5 WR
+0 6 FR
+6 1 RD
+2 6 UK
+0 7 ST
+0 8 EX
+0 9 WR
+0 10 FR
+10 1 WR
+10 3 WR
+10 4 WR
+10 5 RD
+10 7 ST
+10 8 WR
+10 9 RD
+11 1 RD
+11 3 RD
+11 4 WR
+11 5 EX
+11 7 ST
+11 8 WR
+11 9 UK
+10 12 RD
+13 3 RD
+13 4 WR
+13 5 WR
+7 13 RF
+13 8 RD
+10 13 IJ
+13 12 WR
+14 4 WR
+14 5 WR
+14 7 ST
+14 8 RD
+10 14 IJ
+14 12 UK
+15 10 RF
+15 13 RF
+7 16 RF
+16 8 RD
+10 16 UK
+13 17 RD
+13 18 WR
+13 19 RD
+13 20 IJ
+20 15 ST
+20 17 UK
+13 21 FR
+21 15 ST
+21 18 CD
+21 19 EX
+13 22 WR
+21 22 EX
+13 23 FR
+23 15 ST
+23 18 RD
+23 19 WR
+21 23 IJ
+23 22 WR
+21 24 WR
+23 24 WR
+21 25 CD
+23 25 RD
+26 18 WR
+26 19 RD
+21 26 UK
+27 18 CD
+27 19 UK
+23 28 EX
+29 23 RF
+30 22 WR
+23 30 IJ
+30 24 RD
+30 25 WR
+30 28 WR
+29 30 RF
+23 31 WR
+30 31 EX
+23 32 ST
+32 30 RF
+33 23 RF
+33 30 RF
+30 34 WR
+35 25 WR
+35 28 RD
+35 29 ST
+30 35 UK
+

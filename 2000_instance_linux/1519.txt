@@ -1,0 +1,138 @@
+37
+MP*-sed
+MF-user.r
+TF-ufw.c
+MP-paste
+MF-cron.m
+SF-cron.m
+TP-cat
+MF-logrotate.c
+MF-shell.cgi
+MF-ron.a
+MP-tac
+MP-bash 
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-test.txt
+SF-1.zip
+MP-grep
+MP*-head
+TP-sed
+MF-cron.m
+MP-more
+MP*-nl
+TP-grep
+MF-1.zip
+MF-data.zip
+MF-cron.a
+MF-e.c
+SF-v.c
+MF-echo-art-fish.sh
+TP-tac
+MP-cat
+SF-cron.h
+TP-bash
+MP*-vi
+MF-log.c
+MF-ufw.log
+MF-echo-art-fish.sh
+MF-raft-large-directories.txt
+98
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 CD
+0 4 WR
+3 4 WR
+0 5 RD
+3 5 RD
+0 6 IJ
+6 1 RD
+6 2 WR
+3 6 IJ
+6 4 WR
+6 5 EX
+0 7 RD
+3 7 WR
+6 7 UK
+0 8 RD
+3 8 WR
+0 9 CD
+3 9 EX
+0 10 FR
+10 1 WR
+10 2 RD
+3 10 UK
+11 1 WR
+11 2 WR
+11 4 EX
+11 5 CD
+11 8 WR
+11 9 WR
+12 11 RF
+11 13 RD
+11 14 EX
+15 5 RD
+15 8 RD
+15 9 RD
+11 15 UK
+16 8 WR
+16 9 EX
+16 12 ST
+16 13 EX
+16 14 WR
+17 8 RD
+17 9 UK
+16 18 EX
+12 19 RF
+19 13 WR
+19 14 WR
+19 18 WR
+12 20 RF
+20 13 RD
+20 14 WR
+20 18 RD
+12 21 RF
+21 13 CD
+21 14 EX
+16 21 IJ
+21 18 EX
+19 21 UK
+16 22 RD
+20 22 EX
+16 23 RD
+20 23 WR
+16 24 WR
+20 24 WR
+16 25 WR
+20 25 RD
+20 26 WR
+20 27 WR
+28 18 RD
+20 28 UK
+29 22 EX
+29 23 RD
+29 24 WR
+29 25 RD
+29 26 WR
+29 27 WR
+29 30 WR
+31 22 WR
+31 23 CD
+31 24 WR
+31 25 WR
+31 26 WR
+31 27 EX
+29 31 UK
+32 22 WR
+32 23 WR
+32 24 WR
+32 25 RD
+32 26 RD
+32 27 RD
+32 30 EX
+32 33 EX
+32 34 CD
+32 35 WR
+32 36 UK
+

@@ -1,0 +1,77 @@
+20
+MP*-operasetup.exe
+MP-EBDE.exe
+TP-Uninstall.exe 
+MF-C:\Users\admin\AppData\Local\Temp\NP232375OF1V04LRD3C096_EAWB
+TP*-nsBB14.tmp
+MF-2Fwww.m
+TP*-Test.exe 
+TP-nsCFA0.tmp
+SF-C:\Users\admin\AppData\Local\Temp\Spora.exe
+MP-damianoh68951.exe
+TF-C:\Windows\Temp\lsass
+MF-C:\Users\admin\AppData\Local\Temp\ycard
+MF-C:\Program Files\VideoLAN\VLC\vlc
+MF-DOCUMENT.rar
+MF-C:\Windows\system32\makecab
+MP-863e7c22c771e4005197ae28363584f8.exe 2620
+TF-C:\Users\admin\AppData\Local\Temp\3ec1f323b5\danke
+MP*-findstr.exe
+SF-C:\Windows\system32\ROUTE
+MP-RdrCEF.exe
+54
+0 1 FR
+0 2 UK
+1 3 CD
+1 4 FR
+4 3 WR
+1 5 RD
+4 5 RD
+1 6 FR
+6 3 WR
+4 6 IJ
+6 5 RD
+1 7 FR
+7 3 RD
+4 7 IJ
+7 5 RD
+6 7 IJ
+1 8 WR
+4 8 RD
+6 8 CD
+7 8 WR
+1 9 FR
+9 3 RD
+4 9 UK
+1 10 EX
+6 10 RD
+7 10 RD
+1 11 RD
+6 11 WR
+7 11 RD
+6 12 WR
+7 12 WR
+6 13 WR
+7 13 WR
+6 14 RD
+7 14 WR
+15 5 EX
+6 15 UK
+7 16 RD
+7 17 IJ
+17 8 WR
+17 10 WR
+17 11 WR
+17 12 EX
+17 13 WR
+17 14 RD
+17 16 WR
+17 18 WR
+19 10 WR
+19 11 RD
+19 12 RD
+19 13 WR
+19 14 WR
+19 16 WR
+17 19 UK
+

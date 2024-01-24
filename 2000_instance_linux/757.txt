@@ -1,0 +1,66 @@
+15
+MP*-tee
+TP*-stat
+SO-192.168.206.0
+TF-http.c
+SF-0*.txt
+MF-flag4.txt
+MP*-awk
+SO-192.168.10.131
+TP*-uname
+MF-victim-shred.txt
+MF-LinEnum.sh
+MF-access.txt
+TP-echo
+MP-systemctl
+MP-tee
+48
+0 1 FR
+0 2 ST
+2 1 RF
+0 3 EX
+1 3 WR
+0 4 WR
+1 4 RD
+0 5 WR
+1 5 RD
+0 6 FR
+1 6 IJ
+2 6 RF
+6 3 WR
+6 4 EX
+6 5 RD
+7 0 RF
+7 1 RF
+6 7 ST
+0 8 FR
+1 8 IJ
+2 8 RF
+8 3 WR
+8 4 WR
+8 5 WR
+6 8 IJ
+8 7 ST
+0 9 WR
+1 9 WR
+6 9 WR
+8 9 WR
+0 10 WR
+1 10 RD
+6 10 WR
+8 10 WR
+1 11 RD
+6 11 EX
+8 11 UK
+2 12 RF
+12 3 WR
+12 4 WR
+12 5 UK
+13 3 RD
+13 4 WR
+7 13 RF
+13 9 WR
+13 10 UK
+14 4 WR
+6 14 UK
+

@@ -1,0 +1,77 @@
+20
+MP*-echo
+MF-lighttp.c
+MF-sysctl.c
+TF-te.c
+TF-data.zip
+MF-secret.c
+MF-ret.c
+SO-192.168.0.134
+SO-192.168.1.1
+MP-bash
+TP-bash
+MF-raw.githubusercontent.c
+SO-http://192.168.10.128/shell.cgi
+MF-io.r
+MP*-netstat
+MF-at.a
+MF-p.c
+MP-nl
+MP*-paste
+TP*-wpscan
+54
+0 1 WR
+0 2 RD
+0 3 WR
+0 4 WR
+0 5 WR
+0 6 WR
+0 7 ST
+0 8 ST
+0 9 FR
+9 1 EX
+9 2 WR
+9 3 RD
+9 4 WR
+9 5 WR
+9 6 WR
+7 9 RF
+8 9 RF
+0 10 FR
+10 1 WR
+10 2 WR
+10 3 EX
+10 4 WR
+10 5 RD
+10 6 RD
+10 7 ST
+8 10 RF
+9 10 IJ
+9 11 WR
+10 11 WR
+12 9 RF
+12 10 RF
+9 13 WR
+10 13 RD
+14 4 WR
+14 5 CD
+14 6 RD
+14 7 ST
+14 8 ST
+9 14 UK
+10 15 WR
+10 16 WR
+8 17 RF
+10 17 UK
+18 11 RD
+18 12 ST
+18 13 WR
+18 15 RD
+18 16 WR
+19 11 WR
+12 19 RF
+19 13 WR
+19 15 CD
+19 16 WR
+18 19 UK
+

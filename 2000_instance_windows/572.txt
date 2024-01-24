@@ -1,0 +1,64 @@
+17
+MP-pnputil.exe
+TP*-WScript.exe 
+MF-C:\Users\admin\AppData\Local\Temp\tmp4503.tmp
+MF-C:\Program Files\Hantek2xx2\Driver\Others\Hantek2D42X86.sys
+TF-C:\Users\admin\AppData\Roaming\obiokmgf6.exe
+MP-D911.exe
+MF-%temp%\art.bat
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+TP-vLocalServerSetup.exe
+TP*-SecuriteInfo.com
+MP*-Order Confirmation.exe 
+TF-C:\Windows\system32\vssvc
+MP*-AdobeARM.exe
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce
+MF-C:\Users\admin\AppData\Local\Temp\OneDrive.exe
+TF-\Users\admin\AppData\Local\Temp\UAV.zip
+MP-test.exe 
+44
+0 1 FR
+0 2 RD
+1 2 CD
+0 3 WR
+1 3 WR
+0 4 WR
+1 4 WR
+0 5 UK
+1 6 CD
+7 1 RF
+1 8 IJ
+8 2 RD
+8 3 RD
+8 4 RD
+8 6 EX
+7 8 RF
+1 9 FR
+9 2 RD
+9 3 WR
+9 4 WR
+9 6 WR
+7 9 RF
+8 9 UK
+1 10 IJ
+10 2 WR
+10 3 RD
+10 4 RD
+10 6 WR
+10 7 ST
+1 11 WR
+10 11 WR
+12 2 WR
+12 3 RD
+12 4 RD
+12 6 CD
+12 7 ST
+12 11 WR
+10 13 WR
+12 13 EX
+12 14 WR
+12 15 RD
+16 7 ST
+16 11 WR
+12 16 UK
+

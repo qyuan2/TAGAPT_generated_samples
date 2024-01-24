@@ -1,0 +1,119 @@
+33
+MP*-MsBuild.exe
+MF-C:\Program Files\Common Files\Microsoft Shared\EQUATION\EQNEDT32
+MF-\Users\admin\AppData\Local\Temp\emotet_exe_e4_8fb2c48223952ffa157c8a0b9ab98e9f8b2924f7b8aa1faef94f3adc91eb8b61_2022-03-17__084608.exe
+MF-\Windows\SysWow64\regsvr32.exe
+TP-wmpnscfg.exe
+MF-sandbox.txt
+MF-C:\Users\admin\AppData\Roaming\damianoh68951
+TP*-MicrosoftEdgeUpdate.exe
+MP-buidl.exe 
+MP-SearchProtocolHost.exe
+TF-C:\Users\admin\AppData\Roaming\damianoh68951
+MF-\Users\admin\AppData\Local\Temp\tmp91F1.tmp
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MF-C:\Users\admin\AppData\Local\Temp\fast1nject
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32
+MP-_vnw.exe
+MP-explorer.exe 
+TF-\Users\admin\AppData\Local\Temp\34.zip
+TP-MicrosoftEdgeUpdate.exe
+SF-C:\Program Files\Microsoft\Skype for Desktop\Skype
+SO-https://www.youtube.com/@Omnidev_
+SF-C:\Users\admin\AppData\Local\Temp\rPO59687543
+MF-\Users\admin\AppData\Roaming\damianocrnofj6793.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MP-CareUEyes_setup.exe
+TP-Dkeyauth.tmp 
+MP-Fastfoood.exe
+MP-nsA12F.tmp
+MF-Get-CreateProcessSystemBind.ps1
+MP*-ns9C62.tmp
+TF-data_decoder.m
+MP*-nsA19D.tmp
+TF-\Users\admin\Desktop\0IuqaJTsFmOw8k4.exe
+83
+0 1 RD
+0 2 EX
+0 3 WR
+0 4 FR
+4 1 UK
+0 5 WR
+0 6 RD
+0 7 IJ
+7 2 WR
+7 3 WR
+7 5 RD
+7 6 RD
+0 8 FR
+8 2 RD
+8 3 RD
+8 5 WR
+8 6 WR
+7 8 UK
+0 9 FR
+9 2 WR
+9 3 WR
+9 5 WR
+9 6 RD
+0 10 UK
+9 11 EX
+9 12 ST
+9 13 WR
+9 14 EX
+15 5 EX
+15 6 UK
+9 16 FR
+16 11 RD
+12 16 RF
+16 13 EX
+16 14 WR
+9 17 WR
+16 17 WR
+9 18 FR
+18 11 WR
+12 18 RF
+18 13 CD
+18 14 WR
+16 18 IJ
+18 17 EX
+9 19 EX
+16 19 WR
+18 19 WR
+16 20 ST
+20 18 RF
+16 21 EX
+18 21 WR
+16 22 WR
+18 22 WR
+23 16 RF
+18 23 ST
+24 14 WR
+24 17 UK
+16 25 FR
+18 25 IJ
+25 19 RD
+20 25 RF
+25 21 RD
+25 22 WR
+25 23 ST
+16 26 UK
+18 27 UK
+25 28 RD
+29 19 RD
+20 29 RF
+29 21 WR
+29 22 WR
+23 29 RF
+25 29 IJ
+29 28 WR
+25 30 WR
+29 30 WR
+31 21 WR
+31 22 WR
+31 23 ST
+25 31 IJ
+31 28 RD
+29 31 UK
+25 32 UK
+

@@ -1,0 +1,33 @@
+13
+MP*-dd
+SF-anaconda-ks.cfg
+TP*-dpkg
+MP-sed
+MP-echo
+TP*-cat
+MF-CleaingScript.sh
+MF-AutoSUID.sh
+MP*-iptables
+SF-raw.githubusercontent.c
+MP-cat
+MF-f.r
+MP-sed
+17
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 UK
+5 1 RD
+5 6 EX
+5 7 UK
+8 1 WR
+8 6 WR
+8 9 RD
+10 1 WR
+10 6 UK
+8 11 CD
+8 12 UK
+

@@ -1,0 +1,44 @@
+14
+MP*-less
+MF-shell.cgi
+MF-T1574.006.c
+SF-data.tar.gz
+SF-2017.pl
+MF-on.a
+MF-raw.githubusercontent.c
+TP-less
+MP*-sh
+SF-ufw.log
+SO-192.168.37.130
+TP*-bash
+MF-shell.cgi
+MP*-sed
+27
+0 1 RD
+0 2 WR
+0 3 EX
+0 4 RD
+0 5 WR
+0 6 EX
+0 7 FR
+7 1 UK
+0 8 FR
+8 2 EX
+8 3 WR
+8 4 WR
+8 5 RD
+8 6 RD
+0 9 WR
+8 9 RD
+10 0 RF
+8 10 ST
+11 2 RD
+11 3 WR
+11 4 RD
+11 5 WR
+11 6 UK
+8 12 WR
+13 4 RD
+13 5 WR
+8 13 UK
+

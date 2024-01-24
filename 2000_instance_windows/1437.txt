@@ -1,0 +1,61 @@
+20
+MP*-819cebc553434a1b12318d80f63ebd96.exe 
+MP-WinRAR.exe 
+MP-HxDSetup.exe 
+MF-PathToAtomicsFolder\T1090.003\src\Psiphon.bat
+MF-\Users\admin\AppData\Local\Temp\setup.exe
+SO-http://fbi.fund/dark.exe
+MF-\Users\admin\AppData\Local\Temp\Spora.exe
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\Crash
+MP-reg.exe
+TP*-runas.exe
+TF-aug23-3.zip
+MF-\Users\admin\AppData\Local\Temp\4game_supp.exe
+TF-PsExec.exe
+MP*-wbengine.exe
+MF-C:\Users\admin\AppData\Local\Temp\GLJBD24
+MF-\Users\admin\AppData\Local\Temp\sechex-spoofy.zip
+MF-xxxFile.cs
+MP*-iexplore.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Cookies3
+TF-LICENSE.txt
+38
+0 1 FR
+0 2 UK
+1 3 RD
+1 4 WR
+1 5 ST
+1 6 WR
+1 7 EX
+1 8 FR
+8 3 RD
+8 4 EX
+8 5 ST
+8 6 EX
+8 7 RD
+1 9 FR
+9 3 WR
+9 4 UK
+1 10 EX
+8 10 WR
+1 11 RD
+8 11 WR
+8 12 EX
+13 3 WR
+13 5 ST
+13 6 RD
+13 7 RD
+13 10 EX
+13 11 WR
+13 12 EX
+8 14 EX
+13 14 WR
+8 15 WR
+13 15 WR
+8 16 WR
+13 16 WR
+17 7 WR
+8 17 UK
+13 18 WR
+13 19 UK
+

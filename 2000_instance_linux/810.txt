@@ -1,0 +1,49 @@
+12
+MP*-head
+SO-192.168.37.130
+SF-atomic.sh
+MF-v.c
+MF-T1003.008.txt
+TP*-find
+MP-head
+SO-192.168.10.128
+MP*-cat
+SO-192.168.37.130
+MF-shell.cgi
+MP*-awk
+34
+1 0 RF
+0 2 RD
+0 3 WR
+0 4 EX
+0 5 FR
+1 5 RF
+5 2 WR
+5 3 WR
+5 4 WR
+0 6 FR
+6 1 ST
+6 2 WR
+6 3 WR
+6 4 RD
+5 6 IJ
+0 7 ST
+5 7 ST
+7 6 RF
+0 8 FR
+1 8 RF
+8 2 WR
+8 3 WR
+8 4 WR
+5 8 IJ
+6 8 UK
+9 0 RF
+9 5 RF
+0 10 WR
+5 10 WR
+11 1 ST
+11 2 RD
+11 3 RD
+11 4 EX
+5 11 UK
+

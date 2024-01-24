@@ -1,0 +1,36 @@
+12
+MP*-xwd
+TP*-bash 
+MF-d.c
+MP-sed
+MF-alertConfigField.php
+MF-CleaingScript.sh
+TP*-uname
+TF-art.sh
+SF-raj.txt
+SO-192.168.10.135
+MF-subprocess.c
+MP*-nl
+21
+0 1 FR
+0 2 RD
+1 2 EX
+0 3 UK
+1 4 WR
+1 5 WR
+1 6 IJ
+6 2 WR
+6 4 WR
+6 5 WR
+1 7 RD
+6 7 RD
+1 8 EX
+6 8 WR
+1 9 ST
+9 6 RF
+1 10 UK
+11 2 EX
+11 4 WR
+11 5 RD
+6 11 UK
+

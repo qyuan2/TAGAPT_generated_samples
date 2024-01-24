@@ -1,0 +1,32 @@
+9
+MP*-Cleaner.exe 
+MF-\Windows\system32\taskmgr.exe
+MF-C:\programdata\asc
+SF-C:\Users\admin\AppData\Local\Temp\b79gpxd8
+MP*-WINWORD.EXE
+MF-C:\Windows\System32\bitsadmin
+MF-C:\Windows\system32\msiexec
+MP*-pnputil.exe
+TP*-AdobeARM.ex
+20
+0 1 WR
+0 2 RD
+0 3 RD
+0 4 FR
+4 1 EX
+4 2 RD
+4 3 RD
+4 5 RD
+4 6 EX
+7 1 WR
+7 2 CD
+7 3 WR
+7 5 EX
+7 6 RD
+8 1 RD
+8 2 WR
+8 3 WR
+8 5 CD
+8 6 WR
+7 8 UK
+

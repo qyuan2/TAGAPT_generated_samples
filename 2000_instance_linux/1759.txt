@@ -1,0 +1,78 @@
+20
+MP*-bash 
+MP-dd
+TF-raft-large-directories.txt
+MF-data.zip
+SF-T1027-004-test.c
+SO-http://192.168.206.137:8080/robots.txt
+TP-dd
+MF-td.c
+MP-clang++
+SF-e.c
+SF-v.c
+MF-logrotate.c
+MP-ls
+MP-awk
+MF-secret.c
+TP*-less
+SF-td.c
+MP*-cat
+MP*-ls
+MP-ftp
+55
+0 1 FR
+0 2 RD
+1 2 EX
+0 3 RD
+1 3 WR
+0 4 RD
+1 4 WR
+0 5 ST
+5 1 RF
+0 6 IJ
+1 6 IJ
+6 2 RD
+6 3 RD
+6 4 RD
+5 6 RF
+0 7 UK
+1 8 FR
+8 2 WR
+8 3 RD
+8 4 WR
+8 5 ST
+6 8 IJ
+1 9 UK
+6 10 RD
+8 10 RD
+6 11 WR
+8 11 WR
+12 2 UK
+13 3 WR
+13 4 WR
+5 13 RF
+6 13 UK
+8 14 RD
+15 5 ST
+8 15 IJ
+15 10 RD
+15 11 CD
+15 14 WR
+8 16 RD
+15 16 WR
+8 17 FR
+17 10 WR
+17 11 EX
+17 14 EX
+15 17 UK
+8 18 FR
+18 10 WR
+18 11 EX
+18 14 WR
+18 16 WR
+19 10 WR
+19 11 WR
+19 14 WR
+19 16 RD
+18 19 UK
+

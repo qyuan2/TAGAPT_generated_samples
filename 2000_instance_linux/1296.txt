@@ -1,0 +1,115 @@
+28
+MP*-head
+MF-subprocess.c
+TP-uname
+TF-T1574.006.c
+SF-/etc/sudoers
+TF-atomic.log
+MP-less
+MF-user.r
+MP-bash
+MF-www.google.c
+TP*-sed
+TP*-cat
+MP-bash
+SF-d.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-lighttpd.c
+MP*-uname
+MP-uname
+MF-anaconda-ks.cfg
+MP-cat
+TP-uname
+MF-settings.php
+MF-target.example.c
+MF-httpd.c
+MF-Discovery.sh
+MF-CleaingScript.sh
+TP-netstat
+MP-ls
+84
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 WR
+0 4 RD
+2 4 WR
+0 5 WR
+2 5 CD
+0 6 UK
+2 7 WR
+8 1 EX
+2 8 IJ
+8 3 WR
+8 4 RD
+8 5 RD
+8 7 RD
+2 9 WR
+8 9 EX
+2 10 FR
+10 3 RD
+10 4 WR
+10 5 WR
+10 7 WR
+8 10 IJ
+10 9 WR
+2 11 IJ
+11 3 EX
+11 4 WR
+11 5 RD
+11 7 WR
+8 11 IJ
+11 9 WR
+10 11 IJ
+12 3 WR
+12 4 WR
+12 5 UK
+8 13 WR
+10 13 UK
+8 14 ST
+14 11 RF
+8 15 RD
+11 15 RD
+8 16 FR
+16 9 EX
+11 16 IJ
+16 14 ST
+16 15 WR
+17 9 WR
+11 17 IJ
+14 17 RF
+17 15 UK
+11 18 WR
+16 18 EX
+11 19 FR
+19 14 ST
+19 18 WR
+11 20 IJ
+20 14 ST
+16 20 IJ
+20 18 WR
+19 20 IJ
+16 21 WR
+19 21 WR
+20 21 WR
+16 22 WR
+19 22 RD
+20 22 WR
+16 23 WR
+19 23 WR
+20 23 WR
+16 24 WR
+19 24 UK
+16 25 EX
+20 25 RD
+16 26 FR
+26 18 CD
+20 26 IJ
+26 21 WR
+26 22 WR
+26 23 RD
+26 25 UK
+27 18 WR
+20 27 UK
+

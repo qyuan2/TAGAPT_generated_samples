@@ -1,0 +1,42 @@
+13
+MP*-cronos.exe
+MP-ONENOTE.EXE
+MF-%temp%\bitsadmin1_flag.ps1
+SO-https://globalmanysoft.com/services.exe
+MP*-bozon.exe 
+MP-444444.png.png.exe 
+SF-C:\Windows\System32\WindowsUpdate
+SO-1.2.840.113556
+TP*-PEPlusLauncher_V2.exe 
+TF-\Windows_Defender_Cleanup.xml
+MF-C:\Users\admin\Desktop\x86\ProcessHacker.exe
+SF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo
+TP*-assoc.exe
+26
+0 1 FR
+0 2 RD
+1 2 RD
+3 0 RF
+1 3 ST
+0 4 FR
+4 2 RD
+4 3 ST
+0 5 FR
+1 5 UK
+0 6 WR
+4 6 WR
+7 0 RF
+0 8 IJ
+8 2 WR
+8 3 ST
+8 6 WR
+8 7 ST
+0 9 WR
+8 9 CD
+8 10 RD
+8 11 EX
+3 12 RF
+12 6 WR
+12 7 ST
+8 12 UK
+

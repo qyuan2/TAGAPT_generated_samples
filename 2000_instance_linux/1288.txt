@@ -1,0 +1,41 @@
+12
+MP*-uname
+MP*-less
+MF-p.c
+MF-p.c
+MF-pwquality.c
+MP*-cat
+TP*-sudo
+MF-access.txt
+MF-cron.m
+SO-192.168.10.128
+MF-pwquality.c
+TP-cat
+26
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 WR
+1 3 WR
+0 4 CD
+1 4 WR
+0 5 FR
+5 2 WR
+5 3 WR
+5 4 RD
+0 6 FR
+1 6 IJ
+6 2 CD
+6 3 WR
+6 4 RD
+5 6 UK
+0 7 RD
+1 7 WR
+0 8 RD
+1 8 EX
+9 0 RF
+1 9 ST
+0 10 WR
+1 10 EX
+1 11 UK
+

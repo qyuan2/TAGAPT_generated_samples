@@ -1,0 +1,61 @@
+17
+MP*-AkrienBeta.exe 
+MF-\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe
+TP-cvtres.exe
+MP-powershell.exe
+MP-schtasks.exe
+MF-C:\Windows\system32\regsvr32
+SF-C:\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67
+MF-C:\Users\admin\Desktop\tasksche.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmp4503.tmp
+MF-C:\Users\admin\AppData\Local\Temp\radmin
+SF-C:\Windows\System32\wbem\WMIC.exe
+MF-C:\Users\admin\AppData\Local\Temp\4CA9
+MP*-crypted.exe 
+MP*-PsExec.exe
+MP*-WsatConfig.exe
+MP-New Client.exe
+MP-chrome.exe
+41
+0 1 WR
+0 2 IJ
+2 1 UK
+0 3 FR
+0 4 UK
+3 5 RD
+3 6 EX
+3 7 WR
+3 8 RD
+3 9 WR
+3 10 WR
+3 11 WR
+12 5 WR
+12 6 WR
+12 7 WR
+12 8 EX
+12 9 RD
+12 10 CD
+12 11 WR
+13 5 WR
+13 6 WR
+13 7 RD
+13 8 WR
+13 9 WR
+13 10 RD
+13 11 RD
+12 13 UK
+14 5 RD
+14 6 WR
+14 7 RD
+14 8 EX
+14 9 WR
+14 10 WR
+14 11 WR
+15 6 WR
+15 7 UK
+16 8 WR
+16 9 WR
+16 10 WR
+16 11 WR
+14 16 UK
+

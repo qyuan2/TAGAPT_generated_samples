@@ -1,0 +1,160 @@
+47
+MP-grep
+MF-raw.githubusercontent.c
+MF-atomic.log
+MP-nmap
+TP-more
+SO-http://192.168.10.129/image.php?FUZZ=something
+SO-192.168.37.130
+TF-common.txt
+MP*-cat
+TP-vim
+MF-robots.txt
+MF-cron.m
+MP-netstat
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-resolv.c
+TF-rockyou.txt
+MF-art.sh
+MF-td.c
+MP-tail
+MF-flag4.txt
+SO-8.8.8.8
+TF-chttp.c
+MF-v.c
+MP-cat
+MP-uname
+MP-less
+MP*-less
+MF-echo-art-fish.sh
+TP*-rev
+MP-dnsdomainname
+MP*-uname
+MF-flag4.txt
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP-bash
+MP-head
+MP-ls
+MF-secret.c
+MF-cron.m
+MP-tac
+SF-echo-art-fish.sh
+MF-robots.txt
+MP-pr
+MP-uname
+MP-pr
+SO-http://192.168.10.129/image.php?FUZZ=something
+TP-tee
+MP-more
+110
+0 1 RD
+0 2 WR
+0 3 UK
+4 1 WR
+4 2 WR
+5 4 RF
+4 6 ST
+4 7 UK
+8 1 RD
+8 2 RD
+8 5 ST
+6 8 RF
+9 1 WR
+9 2 RD
+5 9 RF
+9 6 ST
+8 9 IJ
+8 10 RD
+9 10 WR
+8 11 WR
+9 11 WR
+12 2 RD
+12 5 ST
+12 6 ST
+8 12 UK
+9 13 ST
+9 14 RD
+9 15 RD
+9 16 CD
+9 17 WR
+9 18 IJ
+18 10 CD
+18 11 RD
+13 18 RF
+18 14 WR
+18 15 WR
+18 16 WR
+18 17 RD
+9 19 WR
+18 19 WR
+18 20 ST
+18 21 WR
+18 22 WR
+23 13 ST
+23 14 RD
+23 15 WR
+23 16 WR
+23 17 UK
+24 14 CD
+24 15 WR
+24 16 WR
+24 19 CD
+24 20 ST
+24 21 WR
+24 22 UK
+25 15 RD
+25 16 EX
+18 25 UK
+26 16 RD
+26 19 RD
+26 20 ST
+26 21 WR
+26 27 RD
+28 19 WR
+28 20 ST
+28 21 RD
+26 28 IJ
+28 27 RD
+29 19 EX
+29 20 ST
+29 21 WR
+26 29 UK
+20 30 RF
+30 21 RD
+30 27 RD
+28 30 IJ
+28 31 RD
+30 31 RD
+32 28 RF
+32 30 RF
+33 27 WR
+28 33 IJ
+30 33 UK
+34 27 WR
+28 34 UK
+35 27 WR
+35 31 WR
+32 35 RF
+35 36 RD
+35 37 UK
+38 31 WR
+32 38 RF
+38 36 RD
+38 39 CD
+38 40 WR
+41 31 EX
+41 32 ST
+41 36 WR
+38 41 UK
+42 32 ST
+42 36 RD
+42 39 WR
+42 40 WR
+43 36 UK
+42 44 ST
+45 39 RD
+45 40 WR
+42 45 UK
+46 39 WR
+46 40 UK
+

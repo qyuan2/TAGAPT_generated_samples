@@ -1,0 +1,34 @@
+11
+MP*-bash
+SO-192.168.2.102
+MF-data.zip
+TP-cat
+MP*-cat
+MP-cat
+MP*-grep
+SF-T1070.004-test.txt
+TP*-ftp
+TP-ifconfig
+MF-syslog.c
+20
+0 1 ST
+0 2 WR
+0 3 IJ
+3 1 ST
+3 2 UK
+0 4 FR
+4 1 ST
+0 5 UK
+1 6 RF
+4 7 RD
+6 7 RD
+1 8 RF
+4 8 IJ
+6 8 IJ
+8 7 WR
+9 1 ST
+4 9 IJ
+9 7 WR
+8 9 UK
+4 10 EX
+

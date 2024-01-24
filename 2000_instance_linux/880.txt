@@ -1,0 +1,157 @@
+43
+MP*-uname
+SF-passwd.zip
+MP-cat
+MP-more
+MP-ls
+MF-T1070.006-modification.txt
+MP-nl
+SO-192.168.1.1
+MP-ls
+MP-netstat
+MP-vi
+SF-passwd.zip
+TF-T1070.006-modification.txt
+SO-192.168.10.129
+MP-bash
+MP-cat
+MP*-sed
+MP*-nl
+MF-raj.txt
+SO-192.168.10.135
+TP*-uname
+SF-access.txt
+TF-syslog.c
+MF-image.php
+MP-cat
+MP-grep
+SO-192.168.159.128
+TF-flag3.txt
+MP-lsof
+MP-grep
+MF-resolv.c
+SF-e.c
+MF-os.exe
+MP-ifconfig
+MP-ls
+SF-raft-medium-directories.txt
+SF-rockyou.txt
+TP-cat
+MF-os.exe
+SO-192.168.37.130
+MP-more
+TP-cat
+MF-raft-large-directories.txt
+111
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 UK
+0 4 FR
+0 5 WR
+2 5 WR
+4 5 WR
+0 6 FR
+2 6 UK
+7 0 RF
+7 4 RF
+0 8 FR
+4 8 UK
+0 9 FR
+9 5 RD
+9 7 ST
+0 10 FR
+10 5 RD
+7 10 RF
+9 11 WR
+10 11 WR
+9 12 WR
+10 12 WR
+9 13 ST
+10 13 ST
+14 5 RD
+14 7 ST
+9 14 UK
+15 5 WR
+15 7 ST
+10 15 UK
+7 16 RF
+16 11 WR
+16 12 CD
+13 16 RF
+17 7 ST
+17 11 RD
+17 12 RD
+17 13 ST
+16 18 WR
+17 18 WR
+19 16 RF
+17 19 ST
+20 11 WR
+20 12 WR
+20 13 ST
+16 20 IJ
+17 20 IJ
+20 18 CD
+19 20 RF
+16 21 WR
+17 21 WR
+20 21 WR
+16 22 EX
+17 22 RD
+20 22 EX
+16 23 WR
+17 23 WR
+20 23 RD
+16 24 UK
+17 25 FR
+25 18 RD
+25 19 ST
+20 25 IJ
+25 21 WR
+25 22 RD
+25 23 RD
+17 26 ST
+26 20 RF
+25 26 ST
+17 27 RD
+20 27 RD
+25 27 RD
+28 18 WR
+28 19 ST
+20 28 IJ
+28 21 CD
+28 22 EX
+28 23 EX
+26 28 RF
+28 27 WR
+19 29 RF
+20 29 UK
+25 30 UK
+28 31 RD
+28 32 WR
+33 23 WR
+26 33 RF
+33 27 RD
+28 33 UK
+26 34 RF
+34 27 WR
+34 31 WR
+34 32 RD
+34 35 WR
+34 36 WR
+37 27 UK
+34 38 RD
+39 34 RF
+40 31 WR
+40 32 WR
+34 40 UK
+41 31 WR
+41 32 RD
+41 35 EX
+41 36 RD
+41 38 CD
+39 41 RF
+41 42 UK
+

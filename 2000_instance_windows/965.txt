@@ -1,0 +1,49 @@
+19
+MP*-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+MF-\Users\admin\AppData\Local\Temp\b79gpxd8.cmd
+TP*-Updater.exe 
+TF-C:\Program Files\VideoLAN\VLC\vlc.exe
+MP-vr3ud24r.inf
+MF-\Users\admin\AppData\Local\Temp\6248.exe
+TP-0IuqaJTsFmOw8k4.exe
+TP-HxD.exe
+MP-at.exe
+MP-is-Q2MHB.tmp
+MP*-CareUEyes.exe
+MP*-6248.exe
+MP-suifsc.exe 
+MF-Files\Adobe\ARM\1.0\AdobeARM.exe
+MP-avi_previewer_demo.exe
+SF-C:\Users\admin\AppData\Local\Temp\Invoice
+TF-\Users\admin\AppData\Local\Temp\GLJBD24.tmp
+MF-pcwutl.dll
+TP-GLJC215.tmp
+27
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 RD
+0 4 FR
+4 1 UK
+0 5 WR
+2 5 WR
+0 6 UK
+2 7 UK
+8 3 UK
+9 5 RD
+10 5 EX
+11 5 WR
+12 5 RD
+9 12 UK
+10 13 RD
+11 13 EX
+14 5 WR
+10 14 UK
+11 15 RD
+11 16 RD
+11 17 WR
+11 18 IJ
+18 13 EX
+18 15 UK
+

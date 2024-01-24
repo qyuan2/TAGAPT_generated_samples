@@ -1,0 +1,78 @@
+21
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+MF-C:\Users\admin\AppData\Local\Temp\FAVELA
+SF-C:\Users\admin\Desktop
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+TP-Redline Activate.exe 
+SF-C:\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863
+MP*-NdSvr.exe
+TP-nvvsvc.exe 
+TF-\T1010.exe
+SF-C:\Windows\system32\msiexec
+MP*-nsA299.tmp
+MP-winword.exe
+MF-C:\Users\All Users\smss.exe
+MP-runas.exe
+SO-test@poscoplantec.co
+TP-SearchIndexer.exe
+MP*-xcopy.exe
+SO-test@poscoplantec.co
+SF-C:\Windows\System32\calc
+MF-C:\Program Files (x86)\adobe\arm
+MP-installd.exe
+54
+0 1 WR
+0 2 EX
+3 0 RF
+0 4 IJ
+4 1 UK
+0 5 EX
+0 6 FR
+6 2 WR
+3 6 RF
+6 5 RD
+0 7 IJ
+7 2 WR
+7 3 ST
+7 5 WR
+6 7 IJ
+0 8 RD
+6 8 WR
+7 8 WR
+0 9 WR
+6 9 WR
+7 9 WR
+0 10 FR
+10 2 RD
+3 10 RF
+10 5 WR
+7 10 IJ
+10 8 EX
+10 9 RD
+11 2 UK
+6 12 CD
+7 12 RD
+10 12 WR
+3 13 RF
+13 5 WR
+7 13 UK
+14 6 RF
+14 10 RF
+15 5 WR
+6 15 IJ
+15 8 WR
+15 9 WR
+10 15 IJ
+15 12 WR
+15 14 ST
+6 16 FR
+16 8 WR
+16 9 WR
+10 16 UK
+17 15 RF
+15 18 RD
+15 19 WR
+20 12 RD
+20 14 ST
+15 20 UK
+

@@ -1,0 +1,74 @@
+23
+MP*-Payment invoice#05450865.exe 
+MF-\Users\admin\AppData\Roaming\obiokmgf6.exe
+MP*-obiokmgf6.exe
+TP*-CasPol.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+MP*-DCRatBuild.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-\Users\admin\AppData\Local\Temp\xx.vb
+MP-nsCA5C.tmp
+SF-C:\Users\admin\AppData\Local\Temp\OneDrive.exe
+MF-\Users\admin\AppData\Local\Temp\EBDE.exe
+MF-C:\Users\admin\AppData\Roaming\.exe
+TP-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+SF-C:\Windows\system32\SearchFilterHost
+MF-temp\psexec.exe
+SO-https://filetransfer.io/data-package/UR2whuBv/download
+MF-\Users\admin\AppData\Local\Temp\Heapman45.exe
+MF-C:\Users\admin\Desktop\AIGeneratedRansomware.exe
+SF-C:\Users\Public\Videos\videotv
+MF-C:\Users\admin\AppData\Local\Temp\View
+MF-\Users\admin\AppData\Roaming\Nixware.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+MF-C:\Program Files\Notepad
+48
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+2 3 IJ
+4 0 RF
+2 4 ST
+3 4 ST
+0 5 FR
+5 1 RD
+3 5 IJ
+5 4 ST
+0 6 ST
+2 6 ST
+3 6 ST
+6 5 RF
+0 7 WR
+2 7 WR
+3 7 WR
+5 7 CD
+0 8 UK
+2 9 WR
+3 9 WR
+5 9 WR
+2 10 RD
+3 10 WR
+5 10 UK
+2 11 CD
+3 11 WR
+2 12 IJ
+3 12 IJ
+4 12 RF
+6 12 RF
+12 7 WR
+12 9 WR
+12 11 EX
+3 13 RD
+12 13 EX
+12 14 EX
+15 12 RF
+12 16 WR
+12 17 WR
+12 18 RD
+12 19 RD
+12 20 WR
+21 12 RF
+12 22 CD
+

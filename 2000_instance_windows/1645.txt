@@ -1,0 +1,45 @@
+15
+MP*-Updater.exe 
+SF-C:\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613
+MP-Payment invoice#05450865.exe 
+MF-C:\Users\admin\AppData\Local\Temp\819cebc553434a1b12318d80f63ebd96
+MF-C:\Users\admin\AppData\Roaming\.exe
+MP-MSBuild.exe
+MF-\Users\admin\AppData\Local\Temp\is-SLD5O.tmp
+SO-https://access-message.top/secure-login
+MF-\Users\admin\AppData\Local\Temp\vLocalServerSetup.exe
+MP*-CCleanerBugReport.exe
+TP-ursnif.exe
+MP*-microsoft.workflow.compiler.exe
+MF-PDF.r
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\IrSatorLauncher
+MP*-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+27
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 WR
+2 4 RD
+0 5 UK
+2 6 WR
+7 2 RF
+2 8 WR
+9 1 CD
+2 9 UK
+10 1 WR
+10 3 EX
+10 4 UK
+11 1 RD
+11 3 RD
+11 6 WR
+7 11 RF
+11 8 WR
+11 12 WR
+11 13 WR
+14 6 EX
+14 7 ST
+14 8 WR
+11 14 UK
+

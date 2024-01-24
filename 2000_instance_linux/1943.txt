@@ -1,0 +1,40 @@
+13
+MP*-nl
+MF-inetd.c
+MF-test.txt
+TP*-dpkg
+MF-password-hash.sh
+TF-p.c
+MP*-sed
+MF-robots.txt
+SO-8.8.8.8
+MP*-head
+MF-httpd.c
+SF-common.txt
+MF-LinEnum.sh
+24
+0 1 WR
+0 2 WR
+0 3 IJ
+3 1 WR
+3 2 WR
+0 4 EX
+3 4 WR
+0 5 UK
+6 1 WR
+6 2 WR
+3 6 IJ
+6 4 RD
+3 7 EX
+6 7 CD
+3 8 ST
+8 6 RF
+9 1 EX
+9 2 RD
+3 9 IJ
+9 4 EX
+6 9 UK
+3 10 WR
+3 11 RD
+3 12 UK
+

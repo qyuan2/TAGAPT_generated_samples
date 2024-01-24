@@ -1,0 +1,26 @@
+9
+MP*-ServiceModelReg.exe
+MP-taskmgr.exe
+TP-Skype.exe 
+SF-C:\Windows\system32\SearchIndexer
+MP*-Запрос цен.exe
+MP*-Backstab64.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp6B8.tmp
+SF-C:\Users\admin\Desktop\Запрос
+MP*-Exloader_Installer.vmp.exe 
+14
+0 1 FR
+0 2 IJ
+1 2 UK
+0 3 RD
+0 4 FR
+4 3 RD
+0 5 FR
+5 3 RD
+4 5 UK
+0 6 RD
+0 7 WR
+0 8 FR
+8 3 WR
+8 6 UK
+

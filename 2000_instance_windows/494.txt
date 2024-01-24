@@ -1,0 +1,110 @@
+28
+MP*-nscB9BA.tmp
+MF-C:\Users\admin\AppData\Local\Temp\pure
+SF-C:\Windows\SysWOW64\svchost.exe
+TP-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+TF-C:\Users\admin\AppData\Local\Temp\znKToHKMQmKzmtaVpk\jsIXhU
+MF-data_decoder.m
+TF-\Windows_Defender_Cleanup.xml
+TP-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+SF-C:\Users\admin\AppData\Local\Temp\ExplorerSuite
+TP-system_file.exe 
+SF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d.zip
+SF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus
+MP*-Nixware.exe
+MP-iexplore.exe 
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+TP-wmpnscfg.exe
+MP-crackmapexec.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+SO-fd11f1ad1fb99b1c9eae6f7f8d72af3f5c134f652b62df41e6d41dccb5bc172b@basitsanas.co
+MF-C:\Users\admin\AppData\Local\Temp\Files\Obfuscate.bat
+SF-C:\Users\admin\AppData\Local\Temp\h12x3j3920.pdf
+MP-NOTEPAD.EXE 
+TP*-renamer-7.5.exe
+MP*-Kulicib.exe 
+SO-hxxp://157.245.99[.]132/get.php
+MF-\Users\admin\AppData\Local\Temp\upP.vbs.txt
+MP-csc.exe
+MP-W32tm
+79
+0 1 CD
+0 2 RD
+0 3 IJ
+3 1 WR
+3 2 RD
+0 4 RD
+3 4 EX
+0 5 EX
+3 5 WR
+0 6 WR
+3 6 RD
+0 7 FR
+7 1 WR
+7 2 CD
+3 7 IJ
+7 4 RD
+7 5 WR
+7 6 WR
+0 8 UK
+9 1 WR
+9 2 WR
+3 9 IJ
+9 4 WR
+9 5 WR
+9 6 RD
+7 9 UK
+3 10 RD
+3 11 WR
+12 2 RD
+3 12 IJ
+12 4 WR
+12 5 WR
+12 6 WR
+12 10 EX
+12 11 EX
+3 13 UK
+12 14 ST
+15 5 WR
+15 6 WR
+15 10 RD
+15 11 RD
+12 15 UK
+16 6 WR
+16 10 RD
+16 11 WR
+14 16 RF
+16 17 ST
+18 16 RF
+16 19 RD
+16 20 WR
+21 11 WR
+21 14 ST
+16 21 UK
+22 14 ST
+22 17 ST
+18 22 RF
+22 19 RD
+22 20 WR
+14 23 RF
+23 17 ST
+18 23 RF
+23 19 WR
+23 20 RD
+22 23 IJ
+22 24 ST
+24 23 RF
+22 25 EX
+23 25 WR
+26 17 ST
+26 18 ST
+26 19 CD
+26 20 WR
+22 26 IJ
+23 26 UK
+27 17 ST
+18 27 RF
+27 19 EX
+27 20 WR
+22 27 UK
+

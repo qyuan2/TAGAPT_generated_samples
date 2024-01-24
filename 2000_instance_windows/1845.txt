@@ -1,0 +1,86 @@
+23
+MP-MsiExec.exe
+MP-damianocrnofj6793.exe
+SF-C:\Users\admin\AppData\Local\Temp\program2
+SO-hxxp://avirona.ru/7-ZIP.html
+MP-procdump.exe
+TP-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+TP-oneetx.exe
+SO-hxxp://motoristo[.]ru/get.php'))|powershell
+MF-C:\Users\admin\Adobe\AdobeTray
+SF-C:\Users\admin\AppData\Local\Temp\Protected
+MP*-setup.exe
+SO-199.247.25.79
+TP-cscript.exe
+TP*-Xworm build.exe
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MF-%tmp%\v
+MF-C:\Program Files\Hantek2xx2\Driver\Others\Hantek2D42X86.sys
+MF-\Windows\Temp\lsass_dump.dmp
+TP*-pktmon.exe
+MP-EBDE.exe
+SO-199.247.25.79
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MP*-obiokmgf6.exe
+60
+0 1 FR
+0 2 EX
+1 2 CD
+3 0 RF
+3 1 RF
+0 4 FR
+1 4 UK
+0 5 FR
+5 2 WR
+3 5 RF
+0 6 IJ
+6 2 WR
+6 3 ST
+5 6 UK
+7 0 RF
+0 8 EX
+0 9 EX
+0 10 FR
+10 2 EX
+3 10 RF
+7 10 RF
+10 8 WR
+10 9 CD
+10 11 ST
+12 2 WR
+12 3 ST
+7 12 RF
+12 8 CD
+12 9 RD
+10 12 IJ
+12 11 ST
+13 3 ST
+7 13 RF
+13 8 WR
+13 9 RD
+10 13 UK
+12 14 ST
+12 15 EX
+12 16 RD
+12 17 RD
+18 8 WR
+18 9 WR
+11 18 RF
+12 18 IJ
+14 18 RF
+18 15 UK
+19 9 WR
+11 19 RF
+12 19 IJ
+19 14 ST
+19 16 EX
+19 17 EX
+12 20 ST
+19 20 ST
+12 21 ST
+21 19 RF
+14 22 RF
+22 16 EX
+22 17 EX
+19 22 UK
+

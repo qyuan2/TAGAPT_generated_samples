@@ -1,0 +1,94 @@
+28
+MP*-tac
+MF-ufw.c
+MF-s.c
+TF-shell.cgi
+TP*-more
+MF-te.c
+TF-f.r
+MP-more
+SO-192.168.10.128
+MP-cat
+MF-atomic.sh
+MF-T1027-004-test.c
+MF-T1003.008.txt
+SF-http.c
+MF-apache2.c
+TP*-grep
+SF-T1027-004-test.c
+SF-atomic.sh
+TP-wfuzz
+MP*-ls
+MP-cat
+MF-settings.php
+TP-pr
+MF-victim-shred.txt
+SF-www.google.c
+TP-ftp
+TF-alertConfigField.php
+MF-logrotate.c
+63
+0 1 EX
+0 2 EX
+0 3 CD
+0 4 FR
+4 1 EX
+4 2 WR
+4 3 RD
+0 5 RD
+4 5 WR
+0 6 WR
+4 6 WR
+0 7 FR
+7 1 CD
+7 2 WR
+7 3 RD
+4 7 IJ
+7 5 RD
+7 6 RD
+0 8 ST
+8 4 RF
+8 7 RF
+0 9 UK
+4 10 WR
+7 10 EX
+4 11 WR
+7 11 RD
+7 12 WR
+7 13 WR
+7 14 WR
+15 8 ST
+15 10 EX
+15 11 CD
+15 12 RD
+15 13 WR
+15 14 RD
+15 16 WR
+15 17 RD
+18 10 WR
+18 11 WR
+18 12 RD
+18 13 RD
+18 14 EX
+15 18 UK
+19 11 WR
+19 12 RD
+19 13 WR
+19 14 WR
+19 16 RD
+19 17 WR
+20 12 RD
+20 13 WR
+20 14 WR
+20 16 UK
+19 21 WR
+22 13 RD
+22 14 RD
+22 17 UK
+19 23 WR
+19 24 CD
+19 25 IJ
+25 21 UK
+19 26 EX
+19 27 EX
+

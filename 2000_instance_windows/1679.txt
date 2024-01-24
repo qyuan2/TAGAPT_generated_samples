@@ -1,0 +1,42 @@
+12
+MP*-buidl.exe 
+SO-https://mindigital-shde.gr
+TP*-o0575127.exe
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+TP*-vLocalServerSetup.tmp
+MF-C:\Users\admin\Desktop\jerkoff.exe
+MP-MSBuild.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-LETVB.tmp
+MP-DnaohH
+TF-C:\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b
+MP-adidnsdump.exe
+MP*-Tudehluxjc.exe 
+27
+1 0 RF
+0 2 FR
+2 1 ST
+3 0 RF
+3 2 RF
+0 4 FR
+4 1 ST
+2 4 IJ
+3 4 RF
+0 5 WR
+2 5 WR
+4 5 EX
+0 6 FR
+1 6 RF
+2 6 IJ
+3 6 RF
+4 6 UK
+0 7 RD
+2 7 WR
+0 8 FR
+8 1 ST
+2 8 UK
+0 9 EX
+0 10 UK
+1 11 RF
+11 3 ST
+11 5 UK
+

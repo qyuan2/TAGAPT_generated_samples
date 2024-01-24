@@ -1,0 +1,72 @@
+21
+MP*-Caspol.exe
+MP-B70D.exe
+MF-\Users\admin\AppData\Local\Temp\CE5F.exe
+MF-C:\Users\admin\AppData\Roaming\damianoh68951.exe
+TF-C:\Users\admin\Desktop\MS
+MP-forfiles.exe
+MP*-rundll32.exe
+MP-taskmgr.exe
+SO-http://www.velux.de/ueber-velux/datenschutz
+MP-svchost.exe
+TP*-DataSvcUtil.exe
+MF-C:\Users\admin\AppData\Local\Temp\program2
+MP-Protected.exe
+SO-https://pasalaganando.com/?utm_source=crm&utm_medium=email&utm_campaign=bancolombia_10_pct_facturacion
+MP-GLJC215.tmp
+MP*-net.exe
+TP-Bandizip.exe
+MP-ns9396.tmp
+MP-chrome.exe 
+MF-C:\Users\admin\AppData\Local\Temp\tmp8DB1
+MP-shun2463.txt.exe 
+48
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 WR
+1 3 WR
+0 4 WR
+1 4 RD
+0 5 UK
+1 6 FR
+6 2 WR
+6 3 WR
+6 4 RD
+1 7 FR
+7 2 EX
+7 3 WR
+7 4 WR
+6 7 UK
+1 8 ST
+1 9 UK
+10 2 WR
+10 3 RD
+10 4 WR
+8 10 RF
+10 11 WR
+12 2 WR
+12 3 EX
+12 4 UK
+10 13 ST
+8 14 RF
+14 11 WR
+13 14 RF
+15 8 ST
+15 11 WR
+15 13 ST
+14 15 UK
+16 8 ST
+16 11 WR
+16 13 ST
+8 17 RF
+17 11 WR
+17 13 ST
+16 17 UK
+18 11 WR
+18 13 ST
+18 19 WR
+20 11 WR
+13 20 RF
+18 20 UK
+

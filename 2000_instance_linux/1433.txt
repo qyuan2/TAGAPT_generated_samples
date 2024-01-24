@@ -1,0 +1,64 @@
+19
+MP*-head
+SO-192.168.47.134:4444
+SO-192.168.206.137
+MF-log.c
+MF-raw.githubusercontent.c
+TF-victim-shred.txt
+TP*-tee
+SO-192.168.10.128
+MP*-cat
+MF-e2.c
+TF-ufw.log
+MP-vim
+MP*-cat
+SF-ron.a
+MP-ifconfig
+SF-e2.c
+TF-cron.m
+MF-settings.php
+MP-ifconfig
+42
+0 1 ST
+2 0 RF
+0 3 RD
+0 4 WR
+0 5 WR
+0 6 IJ
+6 1 ST
+6 2 ST
+6 3 EX
+6 4 UK
+0 7 ST
+0 8 FR
+8 1 ST
+2 8 RF
+8 3 WR
+8 5 RD
+7 8 RF
+0 9 EX
+8 9 WR
+0 10 WR
+8 10 RD
+1 11 RF
+2 11 RF
+11 3 WR
+11 5 RD
+11 7 ST
+8 11 UK
+2 12 RF
+12 3 WR
+12 5 WR
+12 7 ST
+12 9 RD
+12 10 WR
+12 13 WR
+14 5 RD
+7 14 RF
+14 9 UK
+12 15 RD
+12 16 WR
+12 17 WR
+18 10 RD
+12 18 UK
+

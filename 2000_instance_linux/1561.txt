@@ -1,0 +1,92 @@
+25
+MP*-uname
+SO-192.168.37.130
+MF-syslog.c
+MF-access.htm
+MP-ls
+MF-httpd.c
+TP-awk
+TF-v.c
+MF-at.a
+MF-www.google.c
+SF-p.c
+MF-os.exe
+MP*-gobuster
+TP-find
+SF-settings.php
+SF-CleaingScript.sh
+MP*-cd
+MF-www.google.c
+SO-192.168.10.128
+MP-crontab
+TP*-netstat
+SO-8.8.8.8
+SO-192.168.47.155
+MF-logrotate.c
+SF-os.exe
+64
+0 1 ST
+0 2 WR
+0 3 RD
+0 4 FR
+1 4 RF
+4 2 EX
+4 3 EX
+0 5 EX
+4 5 WR
+0 6 IJ
+6 1 ST
+6 2 WR
+6 3 RD
+4 6 IJ
+6 5 WR
+0 7 WR
+4 7 WR
+6 7 WR
+0 8 RD
+4 8 RD
+6 8 WR
+0 9 WR
+4 9 RD
+6 9 WR
+0 10 RD
+4 10 EX
+6 10 EX
+4 11 RD
+6 11 WR
+12 2 RD
+12 3 RD
+12 5 WR
+6 12 IJ
+12 7 WR
+12 8 UK
+13 3 WR
+4 13 UK
+6 14 WR
+6 15 WR
+6 16 FR
+16 7 RD
+16 9 CD
+16 10 CD
+16 11 RD
+16 14 RD
+16 15 WR
+16 17 CD
+18 16 RF
+19 9 WR
+19 10 WR
+19 11 WR
+19 14 WR
+19 15 RD
+16 19 UK
+20 10 WR
+20 11 WR
+20 14 WR
+20 15 RD
+20 17 EX
+20 18 ST
+21 20 RF
+20 22 ST
+20 23 WR
+20 24 UK
+

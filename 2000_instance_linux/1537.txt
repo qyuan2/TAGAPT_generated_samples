@@ -1,0 +1,46 @@
+12
+MP*-tee
+MP*-netstat
+MF-pd.c
+SF-AutoSUID.sh
+MF-ufw.c
+MF-log.c
+MP*-find
+TF-raj.txt
+MF-te.c
+SO-192.168.47.134:4444
+MF-echo-art-fish.sh
+MP*-cat
+31
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 WR
+1 3 RD
+0 4 WR
+1 4 WR
+0 5 RD
+1 5 WR
+0 6 FR
+6 2 WR
+6 3 WR
+6 4 WR
+6 5 CD
+0 7 WR
+1 7 RD
+6 7 WR
+0 8 WR
+1 8 WR
+6 8 RD
+0 9 ST
+1 9 ST
+6 9 ST
+0 10 WR
+1 10 WR
+6 10 RD
+11 2 WR
+11 3 WR
+11 4 WR
+11 5 RD
+6 11 UK
+

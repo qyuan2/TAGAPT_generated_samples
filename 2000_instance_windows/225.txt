@@ -1,0 +1,36 @@
+10
+MP*-jww825a.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\VUIlNoZNzEFwsrIkpa\EvaPKO
+SF-C:\Users\admin\Desktop\Swift_copy_0019276537783563
+TP*-Payment invoice#05450865.exe 
+TP-hh.exe 
+TF-C:\Users\admin\AppData\Local\Temp\tmp28A8.tmp
+MF-\Windows\SysWOW64\cmd.exe
+MP*-hh.exe 
+MP*-LZ4-SOFT.exe 
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+23
+0 1 EX
+0 2 RD
+0 3 IJ
+3 1 EX
+3 2 EX
+0 4 FR
+4 1 WR
+4 2 WR
+3 4 UK
+0 5 RD
+0 6 WR
+0 7 FR
+7 1 WR
+7 2 WR
+7 5 EX
+7 6 WR
+0 8 FR
+8 1 RD
+8 2 EX
+8 5 WR
+8 6 RD
+7 8 UK
+0 9 ST
+

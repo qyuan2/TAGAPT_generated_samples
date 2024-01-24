@@ -1,0 +1,92 @@
+26
+MP*-cacls.exe
+MF-\Windows\System32\calc.exe
+MF-\Users\Public\Music\mediatv.mov
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe
+MF-C:\Users\admin\AppData\Local\Temp\Request
+MP-B47C.exe
+MP-slui.exe
+MP-taskmgr.exe
+MP-WinRAR.exe
+TP*-oneetx.exe
+TP-attrib.exe
+SF-C:\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Wmic_calc.xsl
+TF-1.txt
+TF-C:\Users\admin\Desktop\tokertokertoker
+TF-C:\Users\admin\AppData\Local\Temp\authrootstl.cab
+SF-C:\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928
+TP*-Bandizip.exe
+MF-EXb1648.38642\XClient.exe
+TF-\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539.doc
+SO-http://192.168.10.11/test.ps1
+TP*-nsA0C0.tmp 
+MP-taskmgr.exe
+TP-conhost.exe
+MP-POWERPNT.EXE
+MP-radmin scanner.exe 
+63
+0 1 WR
+0 2 EX
+0 3 RD
+0 4 WR
+0 5 FR
+5 1 UK
+0 6 FR
+6 2 WR
+6 3 WR
+6 4 WR
+0 7 UK
+8 2 RD
+8 3 WR
+8 4 WR
+6 8 UK
+9 2 RD
+9 3 WR
+9 4 RD
+10 2 EX
+10 3 RD
+10 4 WR
+9 10 IJ
+9 11 RD
+10 11 WR
+12 9 RF
+10 12 ST
+9 13 RD
+10 13 WR
+9 14 CD
+10 14 EX
+9 15 WR
+10 15 RD
+9 16 UK
+10 17 FR
+17 11 CD
+12 17 RF
+17 13 WR
+17 14 WR
+17 15 RD
+10 18 WR
+17 18 WR
+10 19 WR
+17 19 EX
+20 10 RF
+20 17 RF
+21 11 RD
+12 21 RF
+21 13 WR
+21 14 WR
+21 15 CD
+17 21 UK
+12 22 RF
+22 13 UK
+23 14 RD
+23 15 UK
+24 14 RD
+24 18 WR
+24 19 RD
+20 24 RF
+25 18 WR
+25 19 EX
+25 20 ST
+24 25 UK
+

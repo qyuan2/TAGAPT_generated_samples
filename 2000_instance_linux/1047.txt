@@ -1,0 +1,23 @@
+8
+MP*-wget
+TF-data.zip
+MF-cron.m
+MP-awk
+MP*-cat
+MP*-grep
+MF-cron.h
+MP*-find
+12
+0 1 RD
+0 2 RD
+0 3 UK
+4 1 WR
+4 2 RD
+5 1 RD
+5 2 WR
+4 6 WR
+5 6 RD
+7 1 RD
+7 2 CD
+4 7 UK
+

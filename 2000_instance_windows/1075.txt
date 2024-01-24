@@ -1,0 +1,95 @@
+28
+MP-dvRzzWRPw.exe
+MF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth
+MF-C:\Windows\system32\schtasks
+MP*-filezilla.exe 
+MP-Overbygningsuddannelsens.exe
+SO-https://download.anydesk.com/AnyDesk.exe
+MF-C:\Program files\appdata\local\temp\5491
+TP-86270699bad2681bb3f5f57f44a7094e.exe 
+MF-\Users\admin\Desktop\script.js
+MP-Request a quote UC202308-17TH·pdf.exe 
+MP*-RegAsm.exe
+SF-%temp%\SAMvss
+TF-C:\Users\admin\AppData\Local\Temp\Spora
+MF-C:\Users\admin\AppData\Local\Temp\IBM_Centosi
+MP-nsD62C.tmp
+MF-C:\Users\admin\AppData\Local\Temp\is
+MP*-C3B1.exe
+MP*-pr2.exe 
+MF-AllTheThings.dll
+MF-%windir%\system32\cmd.exe
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\7za.exe
+TF-C:\Users\admin\AppData\Roaming\olsptrs\olsptrs.exe
+TF-\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67.exe
+SO-192.168.10.11
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MF-windir\WinSxS\x86_microsoft-windows-errorreportingfaults_31bf3856ad364e35_4.0.9600.16384_none_a13f7e283339a050\WerFault.exe
+MP-cvtres.exe
+MP-MsiExec.exe
+64
+0 1 WR
+0 2 UK
+3 1 EX
+4 1 WR
+3 5 ST
+5 4 RF
+3 6 UK
+7 1 WR
+4 7 IJ
+7 5 ST
+4 8 WR
+7 8 WR
+9 1 WR
+4 9 UK
+10 1 EX
+5 10 RF
+7 10 IJ
+10 8 WR
+7 11 WR
+10 11 WR
+7 12 RD
+10 12 CD
+7 13 RD
+10 13 WR
+14 5 ST
+7 14 IJ
+14 8 WR
+10 14 UK
+7 15 RD
+7 16 IJ
+16 8 EX
+16 11 WR
+16 12 RD
+16 13 WR
+16 15 EX
+7 17 FR
+17 8 WR
+17 11 WR
+17 12 RD
+17 13 EX
+17 15 CD
+16 18 WR
+17 18 WR
+16 19 WR
+17 19 WR
+16 20 WR
+17 20 WR
+16 21 WR
+17 21 RD
+16 22 RD
+17 22 WR
+16 23 ST
+17 23 ST
+16 24 ST
+24 17 RF
+16 25 WR
+17 25 EX
+16 26 FR
+17 26 UK
+27 18 WR
+27 19 WR
+27 20 EX
+27 21 WR
+27 22 UK
+

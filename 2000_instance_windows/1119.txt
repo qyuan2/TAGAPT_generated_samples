@@ -1,0 +1,95 @@
+25
+MP-firefox.exe
+SO-0.0.0.0
+MF-C:\Windows\system32\ntvdm
+MF-C:\Users\admin\AppData\Local\Google\Chrome\User
+MP-MicrosoftEdgeUpdate.exe
+MP-Nnimfltstl.exe 
+TP*-softwarelagswitchc.exe 
+MP-jsIXhU
+SO-http://email.getsailebot.net/c/eJwkzsFqxCAQgOGnMbcMOpqNHjwUSkpvpX2AMlnHTSDRsOOy0KcvaS__7YM_xdFQotRxNJdgnR9t0N0Sk_MhGW2I5zHNFCgE53OY8zA4uqDt1ogarfbWGKvDoMGn6zxkHp1D7zijcvrGTWjdeK4NCrdui0trhyj7onBSOD2kf7K0HvvjXtN__gDvtG4kwk16sSAWaKefWugpcK27wmnd6caicEKN-P32-vEJ7yVX-Do5HCl390ilwDmgnN6W0wE9fgMAAP__TlVK2g
+SF-C:\Windows\system32\WinSat.exe
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+TP-SSLplus.exe
+TP*-WScript.exe 
+SF-C:\Users\admin\AppData\Local\Temp\EFT
+MF-Notice.pdf
+MF-C:\Windows\system32\prevhost.exe
+MF-C:\Users\All Users\smss.exe
+MF-conhost.exe
+MF-C:\Windows\system32\ntvdm
+TF-C:\Users\admin\AppData\Local\Temp\oldplayer
+MP*-ChainRefBroker.exe  
+SO-hxxp://motoristo[.]ru/get.php'))|powershell
+MP*-conhost.exe
+MF-C:\Users\admin\AppData\Local\Temp\TRUST
+MP-runas.exe
+67
+0 1 ST
+0 2 EX
+0 3 EX
+0 4 FR
+4 1 ST
+4 2 RD
+4 3 RD
+0 5 UK
+6 1 ST
+6 2 WR
+6 3 RD
+4 6 IJ
+1 7 RF
+7 2 RD
+7 3 WR
+6 7 IJ
+8 4 RF
+8 6 RF
+7 8 ST
+4 9 RD
+6 9 UK
+4 10 ST
+7 10 ST
+1 11 RF
+11 2 CD
+11 3 RD
+4 11 UK
+12 2 WR
+12 3 WR
+7 12 IJ
+8 12 RF
+10 12 RF
+7 13 RD
+12 13 RD
+7 14 RD
+12 14 EX
+7 15 WR
+12 15 WR
+7 16 WR
+12 16 RD
+12 17 EX
+12 18 WR
+12 19 RD
+12 20 FR
+20 13 WR
+20 14 CD
+20 15 WR
+20 16 EX
+20 17 WR
+20 18 RD
+20 19 UK
+12 21 ST
+22 13 WR
+22 14 WR
+22 15 WR
+22 16 WR
+22 17 RD
+22 18 RD
+21 22 RF
+22 23 WR
+24 14 RD
+24 15 WR
+24 16 WR
+24 17 WR
+24 18 WR
+21 24 RF
+22 24 UK
+

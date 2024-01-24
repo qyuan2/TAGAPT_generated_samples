@@ -1,0 +1,58 @@
+17
+MP*-nl
+MF-settings.php
+SF-raft-large-directories.txt
+TP-cat
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP-dd
+MP-paste
+SF-v.c
+MP-less
+MF-ufw.log
+MF-victim-shred.txt
+MP*-nl
+TP*-uname
+MF-CleaingScript.sh
+MF-anaconda-ks.cfg
+TF-echo-art-fish.sh
+MP*-python
+38
+0 1 WR
+0 2 WR
+0 3 IJ
+3 1 RD
+3 2 WR
+0 4 ST
+4 3 RF
+0 5 UK
+6 1 RD
+6 2 WR
+3 6 IJ
+4 6 RF
+3 7 WR
+6 7 RD
+8 1 RD
+8 2 UK
+3 9 RD
+6 9 WR
+3 10 CD
+6 10 WR
+11 1 RD
+3 11 UK
+12 4 ST
+6 12 IJ
+12 7 WR
+12 9 EX
+12 10 CD
+6 13 CD
+12 13 WR
+6 14 WR
+12 14 WR
+6 15 WR
+12 15 RD
+6 16 FR
+16 7 WR
+16 9 WR
+16 10 WR
+12 16 UK
+

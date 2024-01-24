@@ -1,0 +1,45 @@
+16
+MP*-hh.exe 
+TP*-AutoRun.exe 
+MP-malware.exe 
+MP*-TEMP.Veles
+TP-Dkeyauth.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\D18C
+MF-\Users\admin\AppData\Local\Temp\Dieselmotorers.exe
+SF-C:\ServerComponenthostNet\y8AbEfIUrNeOped31GfZIB6Fx
+MP-Client.exe 
+MP-renamer-7.5.exe 
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MF-github.c
+SF-C:\Users\admin\AppData\Local\Temp\finance.exe
+MF-\Users\admin\AppData\Local\Temp\yapars.zip
+MP*-pestudio.exe 
+MF-C:\Windows\system32\cacls
+26
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 IJ
+3 4 IJ
+0 5 EX
+3 5 UK
+0 6 WR
+4 6 WR
+0 7 RD
+4 7 EX
+0 8 FR
+4 8 IJ
+8 6 RD
+8 7 RD
+0 9 FR
+4 9 UK
+10 0 RF
+8 10 ST
+8 11 WR
+8 12 WR
+8 13 WR
+14 6 WR
+14 7 UK
+8 15 WR
+

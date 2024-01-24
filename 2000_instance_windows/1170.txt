@@ -1,0 +1,115 @@
+28
+MP-p2602380.exe
+TP-jerkoff.exe 
+MF-\Users\admin\AppData\Local\Temp\server.exe
+MF-%windir%\System32\notepad.exe
+MF-C:\Windows\Temp\lsass_dump.dmp
+MP-java.exe
+MP*-jNRtlw
+TP*-v4130410.exe 
+TF-C:\Windows\Temp\lsass_dump.dmp
+MF-RAT\Updater.exe
+MF-C:\windows\temp\vr3ud24r
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MF-C:\Windows\system32\schtasks.exe
+MF-C:\Users\admin\AppData\Local\Temp\update
+TP-powershell.exe
+MF-C:\Users\admin\AppData\Local\Temp\4CA9.dll
+TF-\Users\admin\AppData\Local\fvjhioojuu.vb
+TF-C:\Program files\appdata\local\temp\19084
+TP*-ns9510.tmp
+TP*-operasetup.exe
+SF-C:\Users\admin\AppData\Local\Temp\lk.exe
+MP-Ziraat Bankasi Swift Mesaji.exe 
+MF-C:\Users\admin\AppData\Roaming\expo
+MF-\Users\admin\AppData\Local\Temp\xx.vb
+MP-Dkeyauth.tmp
+MP-ns9A6A.tmp 
+MP-nsBDC5.tmp
+MP-mmc.exe
+84
+0 1 FR
+0 2 WR
+1 2 UK
+0 3 WR
+0 4 WR
+0 5 UK
+6 3 RD
+6 4 WR
+7 3 WR
+7 4 CD
+6 7 IJ
+6 8 RD
+7 8 RD
+6 9 EX
+7 9 WR
+6 10 WR
+7 10 RD
+6 11 ST
+7 11 ST
+6 12 WR
+7 12 WR
+6 13 EX
+7 13 EX
+14 4 RD
+6 14 IJ
+7 14 IJ
+14 8 WR
+14 9 EX
+14 10 WR
+11 14 RF
+14 12 EX
+14 13 WR
+6 15 WR
+7 15 EX
+14 15 WR
+6 16 UK
+7 17 WR
+14 17 CD
+18 8 RD
+18 9 EX
+18 10 RD
+11 18 RF
+18 12 WR
+18 13 WR
+14 18 IJ
+18 15 WR
+18 17 EX
+19 9 CD
+19 10 WR
+19 11 ST
+19 12 RD
+19 13 CD
+14 19 IJ
+19 15 WR
+19 17 WR
+18 19 UK
+14 20 CD
+21 11 ST
+21 12 RD
+21 13 RD
+14 21 IJ
+21 15 WR
+21 17 WR
+21 20 RD
+14 22 EX
+21 22 UK
+14 23 WR
+14 24 FR
+24 15 WR
+24 17 RD
+24 20 RD
+24 23 RD
+25 15 WR
+25 17 WR
+25 20 WR
+25 23 RD
+24 25 UK
+26 17 RD
+26 20 WR
+26 23 EX
+27 17 WR
+27 20 WR
+27 23 CD
+26 27 UK
+

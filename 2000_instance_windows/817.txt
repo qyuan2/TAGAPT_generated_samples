@@ -1,0 +1,103 @@
+30
+MP*-auditpol.exe
+MF-C:\Program files\appdata\local\temp\deprive
+MF-\Windows\system32\SearchProtocolHost.exe
+TP-schtasks.exe
+SO-42.021.871.591
+MP-fltmc.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MF-C:\Windows\system32\prevhost
+MP*-softwarelagswitchc.exe 
+MF-C:\Program Files\Windows Media Player\wmpnscfg
+MF-C:\Browserweb\csrss.exe
+MP-DIXRAT.exe 
+MP-NOTEPAD.EXE
+MP-GLJBD24.tmp
+MF-C:\Users\admin\AppData\Local\Temp\MV
+MP*-MicrosoftEdgeUpdate.exe
+SO-hxxp://fiordan.ru/FILM.html
+MF-C:\Users\admin\AppData\Local\Temp\8be41efd6e6ace53b8c59344be2ba91fe41003987a8e38484b20760d7c400a42
+MP-ns996E.tmp
+MP-New Client.exe 
+TP-ns9D4E.tmp
+MF-\Windows\System32\msiexec.exe
+MF-C:\Users\admin\AppData\Local\Temp\Ekstre
+MP*-ping.exe
+MF-\Users\admin\AppData\Local\Temp\fast1nject.exe
+SF-C:\Users\admin\AppData\Local\Temp\5EAD.exe
+MF-C:\Users\admin\AppData\Local\Temp\tb.ps1
+MP-Reg.exe
+MP-Psiphon.exe
+MP-SearchProtocolHost.exe
+70
+0 1 CD
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 WR
+4 0 RF
+4 3 RF
+0 5 FR
+5 1 CD
+5 2 WR
+3 5 UK
+6 0 RF
+0 7 RD
+8 1 RD
+8 2 WR
+8 4 ST
+8 6 ST
+8 7 WR
+8 9 WR
+8 10 WR
+11 2 RD
+4 11 RF
+11 6 ST
+11 7 WR
+8 11 UK
+4 12 RF
+6 12 RF
+12 7 WR
+12 9 WR
+12 10 UK
+13 4 ST
+13 6 ST
+13 7 RD
+13 9 CD
+13 14 CD
+15 6 ST
+15 7 WR
+15 9 RD
+15 14 RD
+16 13 RF
+15 16 ST
+13 17 WR
+15 17 RD
+18 9 WR
+18 14 WR
+16 18 RF
+18 17 WR
+19 9 WR
+13 19 UK
+20 14 EX
+15 20 UK
+18 21 RD
+18 22 WR
+23 14 WR
+23 16 ST
+23 17 RD
+23 21 WR
+23 22 EX
+18 24 WR
+23 24 CD
+18 25 RD
+23 25 WR
+18 26 WR
+23 26 WR
+18 27 UK
+28 21 RD
+28 22 RD
+23 28 UK
+29 21 WR
+29 22 UK
+

@@ -1,0 +1,38 @@
+12
+MP*-setup.exe
+MP*-OUTLOOK.EXE
+TF-\Users\User\appdata\local\temp\rpvbh.jar
+MP-WinSat.exe
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+TF-\Users\admin\AppData\Local\Temp\NP232375OF1V04LRD3C096_EAWB.pdf
+MP*-KMSpico_setup.tmp
+MP-Kulicib.exe 
+SF-C:\Windows\system32\net
+MP-goose_goose_duck_free.exe 
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Skype
+TP-RegDll.x86.exe
+23
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+1 3 UK
+0 4 FR
+4 2 RD
+0 5 WR
+4 5 WR
+0 6 FR
+6 2 RD
+6 5 RD
+0 7 FR
+7 2 WR
+4 7 UK
+0 8 WR
+6 8 EX
+0 9 FR
+9 2 UK
+0 10 EX
+6 10 WR
+11 5 RD
+6 11 UK
+

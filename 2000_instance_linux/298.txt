@@ -1,0 +1,63 @@
+17
+MP*-cat
+MF-chttp.c
+TP-df
+SO-192.168.2.102
+MF-lighttp.c
+MF-chttp.c
+MF-secret.c
+TF-s.c
+MF-settings.php
+TP*-awk
+MF-T1574.006.c
+MF-logrotate.c
+MF-pwquality.c
+MP*-ls
+MF-raft-large-directories.txt
+SF-td.c
+MP*-less
+43
+0 1 RD
+0 2 IJ
+2 1 EX
+3 0 RF
+3 2 RF
+0 4 RD
+2 4 WR
+0 5 WR
+2 5 WR
+0 6 WR
+2 6 WR
+0 7 WR
+2 7 WR
+0 8 WR
+2 8 RD
+0 9 FR
+9 1 RD
+2 9 IJ
+9 3 ST
+9 4 WR
+9 5 EX
+9 6 RD
+9 7 WR
+9 8 WR
+0 10 WR
+2 10 WR
+9 10 WR
+2 11 WR
+9 11 CD
+2 12 WR
+9 12 WR
+13 4 RD
+13 5 WR
+13 6 CD
+13 7 WR
+13 8 WR
+9 13 IJ
+13 10 RD
+13 11 UK
+9 14 WR
+9 15 WR
+16 8 RD
+9 16 UK
+

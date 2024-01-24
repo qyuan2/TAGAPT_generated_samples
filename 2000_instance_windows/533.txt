@@ -1,0 +1,41 @@
+13
+MP*-wmic.exe
+MF-files\appdata\local\temp\7zsfx000.cmd
+MF-C:\Windows\System32\control.exe
+MP*-MadInjector\MadInjector.exe 
+MP*-Notepad.exe
+MP*-sdbinst.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+TF-C:\Windows\system32\WinSat.exe
+MF-fi.b
+MP-slui.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+SF-C:\Users\admin\AppData\Local\Temp\rPedidodeOfertadePre__o_USP2307
+MP-PAGO DE FACTURA PENDIENTE.bin.exe 
+25
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 WR
+4 2 WR
+0 5 FR
+5 1 EX
+5 2 EX
+3 5 UK
+0 6 ST
+6 4 RF
+0 7 RD
+4 7 WR
+0 8 CD
+4 8 WR
+0 9 FR
+9 1 UK
+10 0 RF
+4 10 ST
+4 11 WR
+12 2 WR
+4 12 UK
+

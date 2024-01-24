@@ -1,0 +1,47 @@
+14
+MP*-reg.exe
+TP-Windows Defender Protection.exe
+MF-\Windows\system32\reg.exe
+MF-\Users\admin\Desktop\jerkoff.exe
+MP-Ziraat Bankasi Swift Mesaji.exe 
+MF-\Users\admin\AppData\Local\Temp\5503.bat
+MP-MicrosoftEdgeUpdate.exe 
+TP*-wmpnscfg.exe
+TP-vssvc.exe
+MF-C:\windows\System32\comsvcs
+MP-bb.exe 
+MF-C:\Users\admin\AppData\Local\Temp\yapars.zip
+MP*-d6405410.exe
+MP*-ONENOTE.EXE
+30
+0 1 IJ
+0 2 WR
+1 2 RD
+0 3 EX
+1 3 WR
+0 4 FR
+1 4 IJ
+4 2 UK
+0 5 WR
+1 5 WR
+0 6 UK
+1 7 FR
+7 3 RD
+7 5 EX
+1 8 IJ
+8 3 RD
+8 5 UK
+1 9 WR
+7 9 RD
+1 10 IJ
+10 3 WR
+7 10 UK
+1 11 RD
+12 3 RD
+12 9 RD
+12 11 WR
+13 3 WR
+13 9 WR
+13 11 RD
+12 13 UK
+

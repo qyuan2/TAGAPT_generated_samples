@@ -1,0 +1,43 @@
+12
+MP*-nltest.exe
+MF-C:\Users\admin\AppData\Local\Temp\OriginalMessage
+SO-https://mindigital-shde.gr
+SF-C:\Users\admin\Desktop\a6197937
+MF-C:\PROGRA
+MF-\Windows\System32\calc.exe
+SF-HKLM\SYSTEM\CurrentControlSet\Control\LSA
+MP*-DATOS DE ARCHIVOS No 7879746161364.exe
+MP*-VRAPP.exe 
+MF-\Users\admin\AppData\Local\Temp\D6AF.exe
+MF-\Users\admin\AppData\Local\Temp\is-BOFPB.tmp
+MP*-ie_to_edge_stub.exe
+28
+0 1 RD
+0 2 ST
+0 3 WR
+0 4 RD
+0 5 WR
+0 6 RD
+0 7 FR
+7 1 WR
+7 2 ST
+7 3 RD
+7 4 WR
+7 5 UK
+0 8 FR
+8 1 RD
+8 2 ST
+8 3 WR
+8 4 WR
+8 6 RD
+0 9 WR
+8 9 RD
+0 10 WR
+8 10 RD
+11 1 WR
+11 2 ST
+11 3 RD
+11 4 WR
+11 6 WR
+8 11 UK
+

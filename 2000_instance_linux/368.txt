@@ -1,0 +1,58 @@
+17
+MP*-nl
+MP*-bash
+MF-target.example.c
+SO-192.168.206.137:8080
+TP-cat
+MF-T1070.006-modification.txt
+TP*-head
+MF-ufw.c
+MP-uname
+MF-etc.tar.gz
+TF-settings.php
+TF-T1070.006-reference.txt
+MP*-wpscan
+TF-1.zip
+MF-cron.a
+SF-echo-art-fish.sh
+MF-apache2.c
+38
+0 1 FR
+0 2 EX
+1 2 RD
+0 3 ST
+1 3 ST
+0 4 IJ
+1 4 UK
+0 5 EX
+0 6 FR
+6 2 EX
+6 3 ST
+6 5 RD
+0 7 RD
+6 7 RD
+0 8 FR
+8 2 WR
+3 8 RF
+8 5 WR
+6 8 IJ
+8 7 RD
+0 9 WR
+6 9 WR
+8 9 WR
+0 10 EX
+6 10 EX
+8 10 EX
+6 11 WR
+8 11 WR
+12 2 WR
+12 3 ST
+12 5 RD
+6 12 IJ
+12 7 CD
+8 12 UK
+6 13 RD
+6 14 CD
+6 15 EX
+6 16 WR
+

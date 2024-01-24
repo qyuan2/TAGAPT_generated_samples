@@ -1,0 +1,35 @@
+11
+MP*-bash 
+MP*-paste
+MP-nc
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+SO-192.168.10.131
+SO-http://192.168.0.134/passwd
+MF-image.php
+MP*-cat
+SF-0*.txt
+MP*-find
+MP-tail
+21
+0 1 FR
+0 2 FR
+1 2 UK
+3 0 RF
+0 4 ST
+0 5 ST
+0 6 WR
+0 7 FR
+7 3 ST
+7 4 ST
+5 7 RF
+7 6 RD
+0 8 RD
+7 8 WR
+0 9 FR
+9 3 ST
+4 9 RF
+9 5 ST
+9 6 WR
+7 9 UK
+0 10 UK
+

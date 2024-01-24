@@ -1,0 +1,39 @@
+13
+MP*-uname
+TP*-chmod 
+SO-192.168.206.0
+MP-head
+MP-paste
+MP-grep
+MP*-grep
+MF-rockyou.txt
+MP-cat
+MP-sed
+MP*-dirb
+SF-password-hash.sh
+MP-paste
+23
+0 1 IJ
+0 2 ST
+2 1 RF
+0 3 FR
+1 3 UK
+0 4 FR
+2 4 RF
+0 5 FR
+2 5 RF
+4 5 UK
+0 6 FR
+2 6 RF
+0 7 RD
+6 7 WR
+0 8 UK
+2 9 RF
+6 9 UK
+2 10 RF
+10 7 WR
+10 11 WR
+2 12 RF
+12 7 CD
+10 12 UK
+

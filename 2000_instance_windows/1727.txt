@@ -1,0 +1,31 @@
+10
+MP*-EasyValorant.exe 
+MF-COMERCIAL_70051.pdf.exe
+TP-863e7c22c771e4005197ae28363584f8.exe 
+MF-system.sav
+SF-C:\Users\admin\Documents\DS
+MP-CyberSeal_Crypter_Cracked.exe 
+MP*-vr3ud24r.inf
+MP*-taskdl.exe
+MP*-Paranoid Checker.exe 
+MP-o0575127.exe
+18
+0 1 WR
+0 2 IJ
+2 1 WR
+0 3 RD
+2 3 EX
+0 4 RD
+2 4 EX
+0 5 UK
+6 1 WR
+2 6 IJ
+6 3 EX
+6 4 WR
+7 1 WR
+2 7 UK
+8 3 RD
+8 4 RD
+6 8 UK
+9 3 UK
+

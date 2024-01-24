@@ -1,0 +1,45 @@
+14
+MP*-ln 
+MF-access.txt
+TP-perl
+TP*-bash
+MF-LinEnum.sh
+MF-user.r
+MF-2017.pl
+MF-1.zip
+MF-te.c
+MF-backsup.sh
+TP*-cat
+MF-passwd.zip
+TP*-cat
+MP-tac
+28
+0 1 EX
+0 2 UK
+3 1 WR
+3 4 EX
+3 5 WR
+3 6 RD
+3 7 WR
+3 8 WR
+3 9 RD
+10 1 WR
+3 10 IJ
+10 4 WR
+10 5 WR
+10 6 WR
+10 7 EX
+10 8 EX
+10 9 EX
+3 11 EX
+10 11 WR
+3 12 FR
+12 4 WR
+12 5 WR
+12 6 WR
+12 7 WR
+12 8 WR
+12 9 WR
+10 12 UK
+3 13 UK
+

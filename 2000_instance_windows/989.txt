@@ -1,0 +1,46 @@
+14
+MP*-Entry.exe 
+SO-192.168.1.1
+SO-1.2.840.113556
+MP*-nsCCFE.tmp
+MP-Dkeyauth.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MF-\Users\admin\AppData\Local\Temp\is-N3R60.tmp
+SF-C:\Users\admin\AppData\Local\Temp\tmpA6C1
+MF-Files\Hantek2xx2\Driver\Others\Hantek2D42X86.sys
+TP*-tasklist.exe
+TF-.\ExternalPayloads\mimikatz\x64\mimikatz.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+MF-%temp%\deleteme_T1551.004
+MP*-Tudehluxjc.exe 
+29
+0 1 ST
+2 0 RF
+0 3 FR
+3 1 ST
+3 2 ST
+0 4 UK
+5 3 RF
+3 6 WR
+3 7 RD
+3 8 RD
+1 9 RF
+2 9 RF
+3 9 IJ
+9 5 ST
+9 6 RD
+9 7 EX
+9 8 WR
+3 10 WR
+9 10 RD
+3 11 ST
+9 11 ST
+3 12 RD
+9 12 WR
+3 13 FR
+13 5 ST
+13 6 EX
+13 7 WR
+13 8 EX
+9 13 UK
+

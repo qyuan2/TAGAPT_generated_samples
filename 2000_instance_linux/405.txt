@@ -1,0 +1,39 @@
+13
+MP*-echo
+MF-etc.tar.gz
+SF-loot.txt
+MF-at.a
+SF-sysctl.c
+MF-target.example.c
+MF-shell.cgi
+MP*-paste
+MP*-ip
+SF-backsup.sh
+MF-cron.a
+MF-raj.txt
+MP*-cat
+23
+0 1 WR
+0 2 WR
+0 3 WR
+0 4 RD
+0 5 RD
+0 6 WR
+0 7 FR
+7 1 RD
+7 2 UK
+0 8 FR
+8 1 RD
+8 3 RD
+8 4 WR
+8 5 WR
+8 6 RD
+8 9 EX
+8 10 WR
+8 11 WR
+12 3 WR
+12 4 EX
+12 5 WR
+12 6 WR
+8 12 UK
+

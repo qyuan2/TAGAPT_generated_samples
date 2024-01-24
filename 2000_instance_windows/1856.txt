@@ -1,0 +1,47 @@
+12
+MP*-MicrosoftEdgeUpdate.exe
+MF-C:\Program Files\Windows Photo Viewer\PhotoViewer.dll
+MP*-Heapman45.exe 
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+TP-Nikki Project.scr
+MF-C:\Windows\System32\WScript.exe
+SF-C:\Users\admin\AppData\Roaming\skmt
+MF-C:\Users\admin\AppData\Local\Temp\splwow64
+SF-C:\Users\User\30802.ico
+MP*-Host.exe 
+MF-sqlservr.exe
+MP*-RtkBtManServ.exe
+32
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 ST
+3 2 RF
+0 4 IJ
+4 1 EX
+2 4 IJ
+3 4 RF
+0 5 WR
+2 5 UK
+0 6 RD
+4 6 WR
+0 7 WR
+4 7 WR
+0 8 RD
+4 8 CD
+0 9 FR
+9 1 CD
+9 3 ST
+4 9 IJ
+9 6 RD
+9 7 RD
+9 8 WR
+0 10 EX
+4 10 UK
+11 1 WR
+11 3 ST
+11 6 WR
+11 7 WR
+11 8 WR
+9 11 UK
+

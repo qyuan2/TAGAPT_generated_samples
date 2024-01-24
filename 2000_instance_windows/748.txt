@@ -1,0 +1,62 @@
+18
+MP*-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+SF-C:\Users\admin\AppData\Local\Temp\script.ps1
+MF-C:\Users\admin\AppData\Local\Temp\toolspub2.exe
+MP-PC_Cleaner__5509.exe 
+MF-\Users\Public\Videos\videotv.m3u
+SF-C:\Windows\System32\DriverStore\Temp\{6753451b-a3ac-5042-907b-cb40285f5141}\Hantek2D42.c
+MF-C:\Windows\System32\powercfg.exe
+MF-C:\Users\admin\AppData\Local\Temp\5EAD.exe
+SF-C:\Users\admin\AppData\Local\Temp\Rigs
+MF-C:\Users\admin\AppData\Local\Temp\suifsc
+MF-C:\Users\admin\AppData\Local\Temp\zhoconxiryiukj
+MF-\Users\admin\skmt-bankinter-003-03588993232059560257100458.jar
+MP-863e7c22c771e4005197ae28363584f8.exe 
+TP*-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+MP*-iexplore.exe
+MF-toker.wav
+MP*-Poison.scr 
+41
+1 0 RF
+0 2 EX
+0 3 RD
+0 4 FR
+4 1 ST
+4 2 WR
+4 3 RD
+0 5 WR
+4 5 WR
+0 6 RD
+4 6 WR
+0 7 WR
+4 7 WR
+0 8 WR
+4 8 RD
+0 9 WR
+4 9 RD
+0 10 RD
+4 10 WR
+4 11 EX
+4 12 RD
+13 3 WR
+4 13 UK
+14 5 RD
+14 6 RD
+14 7 WR
+14 8 EX
+14 9 WR
+14 10 WR
+14 11 WR
+14 12 EX
+15 5 RD
+15 6 EX
+15 7 UK
+14 16 WR
+17 8 WR
+17 9 WR
+17 10 RD
+17 11 WR
+17 12 WR
+14 17 UK
+

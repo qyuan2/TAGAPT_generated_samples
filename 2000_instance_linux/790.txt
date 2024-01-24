@@ -1,0 +1,29 @@
+10
+MP*-cat
+MF-settings.php
+MP*-cat
+MP*-ls
+MP*-cat
+MP-tee
+MP-nl
+SO-123.6.44.67
+MP-cat
+MF-resolv.c
+16
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+0 4 FR
+4 1 WR
+2 4 UK
+0 5 FR
+5 1 UK
+0 6 FR
+0 7 ST
+6 7 ST
+0 8 FR
+6 8 UK
+0 9 CD
+

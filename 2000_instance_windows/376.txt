@@ -1,0 +1,64 @@
+18
+MP*-nbtstat.exe
+MF-\Users\admin\AppData\Local\Temp\PO-465514-180820.doc
+MF-c:\Users\admin\AppData\Local\Temp\CSCF350.tmp
+MF-.\T1071.004\src\T1071-dns-beacon.ps1
+TP*-mshta.exe
+TP*-C:\Windows\System32\msiexec.exe
+TP-r0571509.exe
+MP-file.exe 
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32
+TP-Notepad Soft.exe 
+MP-setup_avrokeyboard_5.6.0.exe
+TP-Setup.EXE 
+TP*-mimikatz.exe
+SF-C:\Users\admin\AppData\Local\Temp\KAT08
+SF-C:\Program Files\Notepad
+MP-cacls.exe
+MP-sc.exe
+43
+0 1 WR
+0 2 EX
+0 3 EX
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 EX
+0 5 FR
+5 1 WR
+5 2 RD
+5 3 WR
+4 5 IJ
+0 6 IJ
+6 1 WR
+6 2 UK
+0 7 FR
+7 1 WR
+7 3 RD
+4 7 UK
+0 8 ST
+5 8 ST
+0 9 EX
+5 9 WR
+0 10 UK
+11 1 WR
+11 3 RD
+5 11 IJ
+8 11 RF
+11 9 RD
+12 3 WR
+5 12 UK
+13 3 EX
+13 8 ST
+13 9 WR
+11 13 IJ
+11 14 RD
+13 14 UK
+11 15 UK
+16 8 ST
+16 9 WR
+17 8 ST
+17 9 WR
+16 17 UK
+

@@ -1,0 +1,42 @@
+13
+MP*-PEPlusLauncher_V2.exe 
+TP*-POWERPNT.EXE
+TF-c:\windows\system32\msiexec.exe
+SO-https://clients2.google.com/cr/report
+SO-hxxp://157.245.99[.]132/get.php
+MP-lsass.exe
+SF-C:\Users\admin\skmt
+TP-notepad++.exe 
+MF-c:\Backup
+MP*-cacls.exe
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MF-C:\Program Files (x86)\UltraViewer\UltraViewer_Desktop.exe
+MP*-Curl.exe
+26
+0 1 FR
+0 2 RD
+1 2 RD
+0 3 ST
+1 3 ST
+0 4 ST
+4 1 RF
+0 5 UK
+1 6 RD
+1 7 FR
+7 2 RD
+3 7 RF
+7 4 ST
+7 6 WR
+1 8 WR
+7 8 WR
+1 9 FR
+9 2 UK
+1 10 ST
+7 10 ST
+1 11 RD
+7 11 WR
+3 12 RF
+4 12 RF
+12 6 WR
+7 12 UK
+

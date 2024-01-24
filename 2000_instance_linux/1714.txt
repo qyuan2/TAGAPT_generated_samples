@@ -1,0 +1,34 @@
+13
+MP*-netstat
+TP*-wget 
+MP*-dd
+TF-atomic.sh
+TF-secret.c
+MF-inetd.c
+MP-grep
+MF-td.c
+SF-pwquality.c
+SF-chttp.c
+MP-grep
+TF-www.google.c
+MP*-head
+18
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 UK
+1 4 UK
+2 5 RD
+2 6 FR
+6 5 WR
+2 7 WR
+6 7 WR
+2 8 RD
+6 8 WR
+2 9 RD
+6 9 RD
+2 10 UK
+6 11 RD
+12 5 RD
+6 12 UK
+

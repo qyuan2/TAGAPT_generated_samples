@@ -1,0 +1,46 @@
+15
+MP*-client32.exe
+MF-avirona.r
+MF-c:\Users\admin\AppData\Local\Temp\CSCDF6A.tmp
+TF-1ZY0W5038626871089.exe
+TF-C:\Program Files\Mozilla Firefox\firefox.exe
+MP*-D911.exe
+TF-\Users\admin\AppData\Local\Temp\IXP002.TMP\a6302410.exe
+MP-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+TP*-WISPTIS.EXE
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\d6405410.exe
+MF-\Users\admin\AppData\Local\Temp\msetup\360TS_Setup_Mini_WW.OG.CPI202304_6.6.0.1054.exe
+TP*-msxsl.exe
+SF-C:\Users\admin\AppData\Local\Temp\jww825a.exe
+MF-\Windows\System32\windowspowershell\v1.0\powershell.exe
+MP-filezilla.exe 
+28
+0 1 WR
+0 2 EX
+0 3 WR
+0 4 UK
+5 1 RD
+5 2 RD
+5 3 WR
+5 6 WR
+7 1 RD
+7 2 WR
+7 3 WR
+5 7 UK
+8 1 WR
+8 2 EX
+8 3 RD
+8 6 WR
+8 9 WR
+8 10 WR
+11 1 WR
+11 2 EX
+11 3 CD
+11 6 WR
+8 11 IJ
+11 9 UK
+8 12 WR
+8 13 WR
+14 6 EX
+8 14 UK
+

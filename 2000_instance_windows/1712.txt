@@ -1,0 +1,45 @@
+16
+MP*-wbengine.exe
+TP*-MicrosoftEdge_X86_109.0.1518.115.exe 
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+MP-nltest.exe
+MP*-olsptrs.exe 
+TP-cvtres.exe
+MF-\Windows\system32\verclsid.exe
+MP-FTPServer.exe 
+MF-PDF.exe
+SF-C:\Users\admin\Desktop\readme
+MF-C:\Users\admin\AppData\Local\Temp\tmp493A
+MF-C:\Users\admin\Desktop\tasksche.exe
+SF-C:\Users\admin\AppData\Local\Temp\is
+MF-C:\Users\admin\Desktop\a6197937
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+TP*-SearchIndexer.exe
+26
+0 1 FR
+0 2 ST
+2 1 RF
+0 3 UK
+1 4 IJ
+2 4 RF
+1 5 FR
+2 5 RF
+4 5 UK
+1 6 EX
+1 7 IJ
+7 2 ST
+7 6 WR
+1 8 WR
+7 8 WR
+1 9 WR
+7 9 WR
+1 10 WR
+7 10 CD
+1 11 EX
+7 11 EX
+7 12 WR
+7 13 WR
+7 14 ST
+15 6 WR
+7 15 UK
+

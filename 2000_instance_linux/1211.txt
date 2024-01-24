@@ -1,0 +1,65 @@
+17
+MP*-ftp
+TP-less
+MP-nl
+MF-1.zip
+MF-inetd.c
+TF-raj.txt
+MF-apache2.c
+MF-access.txt
+MP*-cat
+MP-grep
+MF-lighttpd.c
+TP-cat
+MP*-netstat
+TP*-echo
+MP-sudo
+MF-target.example.c
+TP-tail
+45
+0 1 IJ
+0 2 UK
+1 3 RD
+1 4 WR
+1 5 WR
+1 6 RD
+1 7 WR
+1 8 IJ
+8 3 EX
+8 4 WR
+8 5 WR
+8 6 WR
+8 7 WR
+1 9 FR
+9 3 EX
+9 4 UK
+1 10 WR
+8 10 WR
+1 11 FR
+11 3 WR
+11 5 WR
+11 6 WR
+11 7 RD
+8 11 UK
+12 3 RD
+12 5 WR
+12 6 WR
+12 7 CD
+12 10 WR
+13 3 RD
+13 5 WR
+13 6 RD
+13 7 WR
+13 10 WR
+12 13 IJ
+14 5 WR
+14 6 WR
+14 7 WR
+14 10 CD
+12 14 UK
+13 15 WR
+16 6 RD
+16 7 WR
+16 10 WR
+13 16 UK
+

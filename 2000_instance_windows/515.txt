@@ -1,0 +1,46 @@
+15
+MP*-p2602380.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+SF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo
+MP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+SO-1.2.840.113556
+MF-C:\Program Files\Mozilla Firefox\firefox.exe
+MP*-msdtc.exe
+MF-system.net
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+SF-C:\Users\admin\AppData\Local\Temp\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7
+MF-PathToAtomicsFolder\T1546\bin\AltWinSock2DLL.dll
+MP*- ldifde.exe 
+MF-wmic.exe
+MF-C:\Users\admin\Desktop\Default_File_Path
+MF-\Users\admin\AppData\Local\Temp\ExplorerSuite.exe
+28
+0 1 ST
+0 2 RD
+0 3 FR
+3 1 ST
+3 2 WR
+4 0 RF
+3 4 ST
+0 5 CD
+3 5 RD
+0 6 FR
+1 6 RF
+6 2 EX
+3 6 UK
+0 7 WR
+8 0 RF
+0 9 WR
+0 10 WR
+1 11 RF
+11 2 WR
+11 4 ST
+11 5 WR
+11 7 WR
+11 8 ST
+11 9 RD
+11 10 CD
+11 12 WR
+11 13 WR
+11 14 UK
+

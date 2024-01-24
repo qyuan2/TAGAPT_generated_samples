@@ -1,0 +1,69 @@
+17
+MP*-rev
+MF-ufw.log
+MF-atomic.log
+MP*-john
+TP*-cat
+TP-less
+SF-inetd.c
+MF-access.txt
+MF-Users.tar.gz
+SO-192.168.0.134
+MF-T1070.006-reference.txt
+MF-target.example.c
+TP-awk
+MF-test.txt
+MP-cat
+MP*-dd
+MP-awk
+49
+0 1 EX
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 FR
+4 1 WR
+4 2 RD
+3 4 IJ
+0 5 IJ
+5 1 UK
+0 6 EX
+3 6 WR
+4 6 RD
+0 7 EX
+3 7 RD
+4 7 RD
+0 8 WR
+3 8 EX
+4 8 RD
+9 0 RF
+3 9 ST
+4 9 ST
+0 10 WR
+3 10 WR
+4 10 WR
+3 11 RD
+4 11 RD
+12 2 RD
+3 12 IJ
+4 12 UK
+3 13 WR
+14 6 CD
+14 7 WR
+14 8 RD
+14 9 ST
+14 10 WR
+14 11 CD
+14 13 EX
+15 6 WR
+15 7 RD
+15 8 WR
+9 15 RF
+15 10 RD
+15 11 WR
+15 13 WR
+14 15 UK
+16 6 RD
+16 7 UK
+

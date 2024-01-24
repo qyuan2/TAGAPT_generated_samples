@@ -1,0 +1,87 @@
+20
+MP*-cat
+TP*-paste
+SO-192.168.47.155
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MP-nl
+SO-192.168.2.102
+MP-awk
+MF-subprocess.c
+SF-raj.txt
+MP*-uname
+MP*-tar 
+MP-chmod
+SO-192.168.10.130
+TP-dmesg
+SO-192.168.206.0
+MP-nl
+TP-awk
+MP-less
+TP-cat
+TP-uname
+64
+0 1 FR
+2 0 RF
+1 2 ST
+3 0 RF
+1 3 ST
+0 4 FR
+1 4 IJ
+4 2 ST
+3 4 RF
+5 0 RF
+1 5 ST
+4 5 ST
+0 6 FR
+1 6 IJ
+2 6 RF
+6 3 ST
+4 6 UK
+0 7 EX
+1 7 RD
+0 8 WR
+1 8 WR
+0 9 FR
+1 9 IJ
+9 2 ST
+3 9 RF
+5 9 RF
+9 7 CD
+9 8 EX
+0 10 FR
+1 10 IJ
+2 10 RF
+10 3 ST
+10 5 ST
+10 7 WR
+10 8 WR
+1 11 FR
+11 2 ST
+11 3 ST
+5 11 RF
+11 7 WR
+11 8 WR
+9 11 UK
+12 10 RF
+13 3 ST
+5 13 RF
+13 7 WR
+13 8 WR
+10 13 IJ
+12 13 RF
+14 10 RF
+13 14 ST
+15 5 ST
+15 7 EX
+15 8 UK
+16 7 EX
+10 16 UK
+17 7 WR
+17 12 ST
+13 17 UK
+18 12 ST
+18 14 ST
+19 12 ST
+14 19 RF
+18 19 UK
+

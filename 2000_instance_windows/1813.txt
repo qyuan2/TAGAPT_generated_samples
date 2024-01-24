@@ -1,0 +1,40 @@
+13
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+MF-C:\Program files\appdata\local\temp\20342
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MP-School_Project.exe 
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\nsA21B.tmp
+TF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+MF-C:\ProgramData\Oracle\Java
+MF-C:\Users\admin\AppData\Local\Temp\Redline
+MP-nsBDC5.tmp
+TP*-FISCALIA GENERAL DE LA NACION --.exe 
+MP*-bcdedit.exe
+MF-\Windows\sysnative\cmd.exe
+MP*-Test.exe 
+24
+0 1 RD
+0 2 ST
+0 3 FR
+3 1 UK
+0 4 EX
+0 5 WR
+0 6 WR
+0 7 RD
+0 8 UK
+2 9 RF
+9 4 WR
+9 5 WR
+9 6 EX
+9 7 UK
+2 10 RF
+10 4 WR
+10 5 CD
+10 6 CD
+10 11 WR
+12 2 ST
+12 4 RD
+12 5 RD
+12 6 WR
+10 12 UK
+

@@ -1,0 +1,57 @@
+15
+MP*-LogTransport2.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp968B
+MF-C:\Users\admin\AppData\Local\Temp\nsf91FB.tmp
+TP*-360TS_Setup.exe
+MP-mspaint.exe
+SO-fd11f1ad1fb99b1c9eae6f7f8d72af3f5c134f652b62df41e6d41dccb5bc172b@basitsanas.co
+TF-C:\Users\admin\AppData\Local\Temp\OneDrive
+MF-\Users\admin\AppData\Local\Temp\is-G3M3S.tmp\KMSpico_setup.tmp
+TF-\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe
+MP-Dropper.exe 
+MP*-is-Q2MHB.tmp
+MF-C:\Users\User\8527.ico
+MF-C:\Users\admin\AppData\Local\Temp\5033182378119
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\regsvcs.exe
+MP*-XClient.exe 
+39
+0 1 RD
+0 2 RD
+0 3 IJ
+3 1 RD
+3 2 WR
+0 4 FR
+4 1 RD
+4 2 EX
+3 4 IJ
+0 5 ST
+5 3 RF
+5 4 RF
+0 6 CD
+3 6 EX
+4 6 RD
+0 7 WR
+3 7 RD
+4 7 RD
+0 8 WR
+3 8 WR
+4 8 RD
+0 9 FR
+9 1 WR
+9 2 WR
+3 9 UK
+0 10 FR
+10 1 WR
+10 2 RD
+10 5 ST
+10 6 WR
+10 7 UK
+4 11 EX
+4 12 WR
+4 13 WR
+4 14 FR
+14 5 ST
+14 6 RD
+14 8 WR
+14 11 UK
+

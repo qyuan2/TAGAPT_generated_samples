@@ -1,0 +1,68 @@
+19
+MP*-Nixware.exe
+TP-8cc2d4575163a5e3dc7a56face3644e9.exe 
+SF-C:\Users\admin\AppData\Local\Temp\xqGqlVXkyPJD
+MF-C:\Program files\cronos
+MF-.\ExternalPayloads\T1003.004\bin\PsExec.exe
+MF-yiueea.exe
+MP-aafg31.exe 
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MP-shun2463.txt.exe 
+TF-\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe
+MP*-ytfovlym.exe
+MF-C:\Users\admin\AppData\Local\Temp\DS
+SF-C:\Users\admin\AppData\Local\Temp\z1Emir
+MF-C:\Users\admin\AppData\Local\Temp\Tudehluxjc
+TP*-MadInjector\MadInjector.exe 
+TP-C3B1.exe
+TP*-taskdl.exe
+SF-C:\Users\admin\AppData\Local\Temp\server
+MP-vdsldr.exe
+46
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 RD
+1 3 WR
+0 4 WR
+1 4 WR
+0 5 WR
+1 5 CD
+0 6 FR
+1 6 IJ
+6 2 WR
+6 3 WR
+6 4 WR
+6 5 EX
+0 7 ST
+1 7 ST
+7 6 RF
+0 8 UK
+1 9 WR
+6 9 WR
+1 10 FR
+10 2 RD
+10 3 RD
+10 4 WR
+10 5 RD
+7 10 RF
+10 9 UK
+1 11 WR
+6 11 RD
+6 12 RD
+6 13 WR
+14 4 RD
+14 5 WR
+6 14 UK
+15 5 RD
+15 7 ST
+15 11 WR
+15 12 UK
+16 7 ST
+16 11 CD
+16 13 WR
+16 17 CD
+18 11 WR
+18 13 WR
+16 18 UK
+

@@ -1,0 +1,35 @@
+9
+MP*-Bandizip.exe
+TF-C:\Users\admin\AppData\Local\Temp\6248
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+TF-C:\Windows\SysWOW64\tolkqfys\qgcrmeck
+MP*-ping.exe
+TP*-CareUEyes_setup.exe
+TP*-keygen.exe
+MP-Dkeyauth.exe 
+TP-WtHgie
+23
+0 1 WR
+2 0 RF
+0 3 RD
+0 4 FR
+4 1 RD
+4 2 ST
+4 3 WR
+0 5 FR
+5 1 WR
+2 5 RF
+5 3 WR
+4 5 UK
+0 6 IJ
+6 1 RD
+2 6 RF
+6 3 RD
+0 7 FR
+7 1 EX
+7 2 ST
+7 3 WR
+6 7 UK
+0 8 IJ
+8 1 UK
+

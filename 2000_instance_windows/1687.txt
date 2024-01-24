@@ -1,0 +1,53 @@
+16
+MP*-ruby.exe
+TP-saves.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-3DL5P.tmp
+MP*-ONENOTE.EXE
+MP*-WerFault.exe
+TP-WISPTIS.EXE
+SF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+MP-saBSI.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+TP-DCRatBuild.exe
+TF-C:\Users\admin\AppData\Local\Temp\hh.exe
+MP-cmd.exe 
+SF-C:\Users\admin\Desktop\GREENN
+MP-installd.exe
+MP*-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+TP-update.exe
+34
+0 1 FR
+0 2 WR
+1 2 UK
+0 3 FR
+0 4 FR
+0 5 IJ
+3 5 IJ
+4 5 IJ
+0 6 WR
+3 6 RD
+4 6 RD
+5 6 WR
+0 7 FR
+3 7 UK
+8 0 RF
+8 4 RF
+5 8 ST
+0 9 IJ
+4 9 UK
+0 10 WR
+5 10 UK
+11 6 WR
+11 8 ST
+11 12 RD
+13 6 WR
+8 13 RF
+11 13 UK
+14 6 CD
+8 14 RF
+14 12 RD
+15 6 WR
+15 8 ST
+15 12 WR
+14 15 UK
+

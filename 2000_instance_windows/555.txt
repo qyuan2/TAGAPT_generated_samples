@@ -1,0 +1,42 @@
+14
+MP*-xqGqlVXkyPJD.exe 
+MP*-ie_to_edge_stub.exe
+TP-MicrosoftUpdate.exe 
+MF-RAT\Updater.exe
+SO-192.168.10.11
+TF-C:\Users\admin\AppData\Local\Temp\RtkBtManServ
+SF-C:\Users\admin\AppData\Local\Temp\tmp190.tmp
+TP*-Explorer.EXE
+MF-C:\Users\admin\AppData\Local\Temp\Fileovzam1_2023
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MF-C:\Users\admin\AppData\Local\Temp\goose_goose_duck_free.exe
+MF-C:\Program Files\Internet Explorer\iexplore
+MF-C:\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+MP*-vssadmin.exe
+25
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 EX
+0 4 ST
+0 5 RD
+0 6 WR
+0 7 IJ
+7 3 WR
+4 7 RF
+7 5 EX
+7 6 WR
+0 8 WR
+7 8 WR
+9 0 RF
+9 7 RF
+0 10 RD
+7 10 WR
+7 11 WR
+7 12 RD
+13 3 WR
+13 4 ST
+13 5 WR
+13 6 WR
+7 13 UK
+

@@ -1,0 +1,66 @@
+18
+MP*-ls
+MP*-cat
+TP-awk
+MF-log.c
+SO-192.168.37.130
+MF-at.a
+MF-os.exe
+MF-log.c
+MP*-sh
+MP*-sed
+MP-bash 
+MF-resolv.c
+MF-da-ks.cfg
+TP-systemctl
+TP-nmap
+MP-less
+TF-inetd.c
+MP-grep
+45
+0 1 FR
+0 2 UK
+1 3 RD
+4 1 RF
+1 5 RD
+1 6 WR
+1 7 WR
+1 8 FR
+8 3 WR
+8 4 ST
+8 5 WR
+8 6 WR
+8 7 WR
+1 9 FR
+9 3 WR
+9 4 ST
+9 5 EX
+9 6 EX
+9 7 RD
+1 10 UK
+8 11 EX
+9 11 RD
+8 12 RD
+9 12 RD
+13 3 WR
+13 4 ST
+13 5 WR
+13 6 RD
+13 7 EX
+8 13 UK
+14 4 ST
+14 5 WR
+14 6 WR
+14 7 EX
+9 14 UK
+15 5 WR
+15 6 EX
+15 7 EX
+15 11 WR
+15 12 RD
+15 16 WR
+17 7 EX
+17 11 EX
+17 12 WR
+15 17 UK
+

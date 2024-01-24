@@ -1,0 +1,85 @@
+20
+MP*-crackmapexec.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64
+SF-C:\Users\admin\AppData\Local\Temp\RESF237
+SF-c:\Users\admin\AppData\Local\Temp\CSCD195
+TP-finance.exe 
+TP*-AutoPico.exe
+TP*-02867fa8b443043ec0fe6af211c852aa.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1216.001/src/T1216.001.sct
+MF-\Users\admin\Desktop\DOC77412.jpg
+MF-C:\Program files\documents\jury.mp3
+MP-anydesk.exe
+MF-%USERPROFILE%\Desktop\YOUR_FILES.txt
+SF-C:\Users\admin\AppData\Local\Temp\EjEfD.exe
+TF-C:\Users\admin\AppData\Local\Temp\Ekstre
+MP-Notepad Soft.exe 
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+MF-C:\MSOCache\All Users\wmpnetwk.exe
+MP-dllhоst.exe 
+SF-C:\Users\admin\AppData\Local\Temp\vLocalServerSetup
+MP*-DataSvcUtil.exe
+62
+0 1 WR
+0 2 WR
+0 3 RD
+0 4 IJ
+4 1 RD
+4 2 WR
+4 3 EX
+0 5 IJ
+5 1 WR
+5 2 WR
+5 3 WR
+4 5 IJ
+0 6 IJ
+6 1 WR
+6 2 EX
+6 3 WR
+4 6 IJ
+5 6 IJ
+7 0 RF
+4 7 ST
+7 5 RF
+7 6 RF
+0 8 WR
+4 8 WR
+5 8 EX
+6 8 RD
+0 9 RD
+4 9 WR
+5 9 RD
+6 9 WR
+0 10 FR
+10 1 CD
+10 2 WR
+10 3 WR
+4 10 IJ
+5 10 UK
+4 11 WR
+6 11 WR
+4 12 WR
+6 12 WR
+4 13 WR
+6 13 WR
+4 14 FR
+6 14 IJ
+14 7 ST
+14 8 WR
+14 9 RD
+14 11 RD
+14 12 RD
+14 13 WR
+6 15 ST
+14 15 ST
+6 16 RD
+14 16 EX
+17 7 ST
+17 8 UK
+14 18 RD
+19 9 WR
+19 11 RD
+19 12 WR
+19 13 WR
+14 19 UK
+

@@ -1,0 +1,71 @@
+23
+MP*-cat
+MP-perl
+TF-p.c
+SO-192.168.1.1
+TP-whoami
+MF-f.r
+MP-cat
+MF-image.php
+MP*-cat
+MF-s.c
+MP-awk
+MF-1.zip
+MP*-w
+MF-user.r
+MP-cat
+MF-common.txt
+TF-access.txt
+MF-subprocess.c
+TP*-df
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP-dd
+TF-common.txt
+MF-v.c
+45
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 ST
+3 1 RF
+0 4 FR
+1 4 IJ
+4 2 UK
+0 5 EX
+1 5 RD
+0 6 FR
+1 6 UK
+0 7 WR
+0 8 FR
+8 3 ST
+8 5 CD
+8 7 WR
+0 9 WR
+8 9 WR
+0 10 UK
+8 11 RD
+3 12 RF
+12 5 RD
+12 7 RD
+12 9 WR
+12 11 RD
+8 13 WR
+12 13 RD
+14 5 WR
+14 7 RD
+8 14 UK
+12 15 RD
+12 16 CD
+12 17 EX
+18 9 WR
+18 11 CD
+18 13 WR
+18 15 WR
+18 16 WR
+18 17 RD
+18 19 ST
+20 11 RD
+20 13 UK
+18 21 RD
+18 22 UK
+

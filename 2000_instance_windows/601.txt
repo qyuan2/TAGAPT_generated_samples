@@ -1,0 +1,48 @@
+17
+MP-PO 345678.exe 
+MF-C:\Program files\appdata\local\temp\19084.bmp
+MP-PO 345678.exe 
+TP*-conhost.exe
+MP*-WinAPIOverride 6.9.1.exe
+MP*-rundll32.exe 
+MP-AcroRd32.exe
+MF-C:\Users\admin\AppData\Local\Temp\jww825a
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+MP-Pago fra.exe 
+TP*-ROUTE.EXE
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+TF-C:\Program Files (x86)\Microsoft\Edge\Application\msedge
+TP-sdiagnhost.exe
+MP-secedit.exe
+SF-C:\Windows\System32\WScript
+MP-operasetup.exe
+28
+0 1 WR
+0 2 UK
+3 1 WR
+4 1 WR
+3 4 IJ
+5 1 WR
+3 5 IJ
+6 1 RD
+3 6 UK
+4 7 WR
+5 7 WR
+8 4 RF
+5 8 ST
+9 1 EX
+9 7 UK
+10 1 WR
+4 10 IJ
+5 10 IJ
+10 8 ST
+11 1 RD
+4 11 UK
+5 12 UK
+13 8 ST
+10 13 UK
+14 8 ST
+14 15 WR
+8 16 RF
+14 16 UK
+

@@ -1,0 +1,59 @@
+17
+MP*-ns9A6A.tmp 
+MP-yiueea.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928.csv
+MP-desktopimgdownldr.exe
+MP-Overbygningsuddannelsens.exe
+MP*-Dkeyauth.tmp 
+MF-C:\Users\admin\AppData\Local\Temp\solicitud
+MF-c:\Users\admin\AppData\Local\Temp\CSCF350.tmp
+MF-C:\Users\admin\Desktop\WinAPIOverride
+TP-06e0e36f91e621e79712673923e57daf3fcf232bb3151c122891ded30466293a.exe 
+MF-\Users\admin\AppData\Local\Temp\is-3DL5P.tmp\OperaSetup_UNO.exe
+TP-Tudehluxjc.exe 
+MF-C:\Users\admin\AppData\Local\Temp\tmp8DB1
+SO-45.63.100.72
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+TP-CCleanerBugReport.exe
+TP*-KMSpico_setup.exe
+39
+0 1 FR
+0 2 RD
+1 2 EX
+0 3 FR
+3 2 UK
+0 4 UK
+1 5 FR
+1 6 EX
+5 6 EX
+1 7 EX
+5 7 EX
+1 8 RD
+5 8 EX
+1 9 FR
+5 9 IJ
+9 6 WR
+9 7 EX
+9 8 EX
+1 10 RD
+5 10 CD
+9 10 WR
+1 11 FR
+5 11 UK
+9 12 WR
+9 13 ST
+14 6 CD
+14 8 RD
+9 14 IJ
+14 10 RD
+14 12 RD
+14 13 ST
+15 6 WR
+15 8 RD
+9 15 UK
+16 8 WR
+16 10 WR
+16 12 RD
+13 16 RF
+14 16 UK
+

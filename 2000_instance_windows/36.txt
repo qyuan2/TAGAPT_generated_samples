@@ -1,0 +1,34 @@
+12
+MP*-xordump.exe 
+MF-C:\savesdllNetdhcp\dwm
+MF-sam.sav
+MP*-nsBDC5.tmp
+MF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus.exe
+MP*-Dieselmotorers.exe
+TF-\Users\admin\AppData\Local\Temp\is-NIBPL.tmp\HxDSetup.tmp
+MF-C:\Program Files\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+SO-80.0.0.0
+TF-C:\Users\admin\AppData\Roaming\fertyno12\client32
+SO-https://filetransfer.io/data-package/UR2whuBv/download
+TP*-B47C.exe
+19
+0 1 RD
+0 2 RD
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 RD
+3 4 WR
+0 5 FR
+5 1 UK
+0 6 WR
+3 6 RD
+0 7 WR
+3 7 WR
+8 0 RF
+3 8 ST
+0 9 UK
+3 10 ST
+11 2 RD
+3 11 UK
+

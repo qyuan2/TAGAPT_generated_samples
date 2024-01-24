@@ -1,0 +1,51 @@
+15
+MP*-grep
+MF-PubPrn.vbs
+MF-StartupParameters.plist
+TP-tail
+MF-alertConfigField.php
+MP-dd
+MP*-lsof
+MF-da-ks.cfg
+SO-192.168.206.0
+MP-less
+MF-d.c
+MP*-awk
+MF-art.sh
+TP-sed
+MP*-nmap
+33
+0 1 EX
+0 2 WR
+0 3 IJ
+3 1 RD
+3 2 WR
+0 4 EX
+3 4 EX
+0 5 UK
+6 1 WR
+6 2 WR
+3 6 IJ
+6 4 RD
+3 7 EX
+6 7 CD
+3 8 ST
+6 8 ST
+9 1 EX
+9 2 WR
+3 9 UK
+6 10 WR
+11 2 EX
+11 4 WR
+11 7 EX
+8 11 RF
+11 10 EX
+6 12 EX
+11 12 RD
+13 4 EX
+6 13 UK
+14 7 CD
+8 14 RF
+14 10 WR
+11 14 UK
+

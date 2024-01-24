@@ -1,0 +1,59 @@
+14
+MP*-RegSvcs.exe
+TP-ns9F46.tmp
+MF-Files\Hantek2xx2\Driver\Win10\Hantek2D42X86.sys
+MF-c:\windows\system32\calc.exe
+MP-TruffleSnout.exe
+MF-\Users\admin\AppData\Local\Hydro\Hydro.jar
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count
+SO-hxxp://motoristo[.]ru/get.php'))|powershell
+MF-C:\Users\admin\AppData\Local\Temp\Approval
+MF-firzain.htm
+MP*-net.exe
+MP*-KMSpico_setup.exe
+MP*-ns9BE4.tmp
+TP-operasetup.exe
+42
+0 1 IJ
+0 2 EX
+1 2 WR
+0 3 WR
+1 3 CD
+0 4 FR
+1 4 UK
+0 5 WR
+0 6 WR
+0 7 ST
+0 8 WR
+0 9 EX
+0 10 FR
+10 2 WR
+10 3 RD
+10 5 WR
+10 6 WR
+7 10 RF
+10 8 WR
+10 9 RD
+11 2 RD
+11 3 RD
+11 5 WR
+11 6 RD
+11 7 ST
+11 8 RD
+11 9 RD
+10 11 UK
+12 2 CD
+12 3 EX
+12 5 EX
+12 6 WR
+12 7 ST
+12 8 WR
+12 9 WR
+13 3 CD
+13 5 RD
+13 6 EX
+13 7 ST
+13 8 WR
+13 9 EX
+12 13 UK
+

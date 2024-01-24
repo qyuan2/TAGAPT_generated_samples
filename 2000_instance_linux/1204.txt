@@ -1,0 +1,55 @@
+17
+MP*-cat
+SO-192.168.10.130
+MF-2017.pl
+MF-0*.txt
+MP-netstat
+TP*-rev
+MP*-find
+MP-cat
+MF-passwd.zip
+SF-lighttp.c
+MF-Discovery.sh
+MP-uname
+MP-iptables
+MF-alertConfigField.php
+TP-head
+MP*-uname
+MP-sudo
+35
+1 0 RF
+0 2 WR
+0 3 WR
+0 4 FR
+1 4 RF
+4 2 UK
+0 5 FR
+1 5 RF
+5 3 RD
+0 6 FR
+1 6 RF
+6 3 CD
+5 6 IJ
+0 7 UK
+5 8 WR
+6 8 EX
+5 9 RD
+6 9 EX
+5 10 WR
+6 10 WR
+1 11 RF
+11 3 WR
+5 11 UK
+12 3 UK
+6 13 WR
+6 14 UK
+15 8 RD
+15 9 WR
+15 10 WR
+15 13 EX
+16 8 WR
+16 9 RD
+16 10 RD
+16 13 CD
+15 16 UK
+

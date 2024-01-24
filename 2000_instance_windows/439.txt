@@ -1,0 +1,110 @@
+30
+MP*-server.exe 
+TP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MP-PC_Cleaner__5509.exe 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+TP-RdrCEF.exe
+SF-C:\Users\User\29630.ico
+MF-C:\Users\admin\AppData\Local\Temp\tmp99E0.tmp
+MP*-RegDll.x86.exe
+MP-runas.exe
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+SO-199.247.25.79
+MP-reg.exe
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+TF-Kfc.vb
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86.sys
+MP-nsC7AA.tmp
+MP*-SSLplus.exe
+MF-C:\Program Files\Mozilla Firefox\firefox
+TP-is-Q2MHB.tmp
+TF-C:\Users\admin\AppData\Local\Temp\Exloader_Installer
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=jsp
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+SO-https://go.microsoft.com/fwlink/p/?LinkId=2124703
+SF-C:\Windows\System32\WindowsUpdate
+MP-appcmd.exe
+MF-\Windows\system32\regsvr32.exe
+SF-C:\Users\admin\AppData\Local\Temp\winhost
+MP-build2.exe 
+77
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 ST
+0 4 IJ
+4 3 ST
+0 5 RD
+4 5 EX
+0 6 RD
+4 6 CD
+0 7 FR
+7 3 ST
+4 7 IJ
+7 5 RD
+7 6 RD
+0 8 FR
+8 3 ST
+4 8 IJ
+8 5 UK
+9 0 RF
+9 4 RF
+7 9 ST
+10 0 RF
+10 4 RF
+10 7 RF
+3 11 RF
+4 11 IJ
+11 6 WR
+7 11 UK
+12 3 ST
+4 12 IJ
+12 6 WR
+12 9 ST
+10 12 RF
+4 13 WR
+12 13 WR
+4 14 RD
+12 14 UK
+15 6 WR
+9 15 RF
+15 10 ST
+15 13 WR
+16 6 WR
+9 16 RF
+16 10 ST
+16 13 WR
+15 17 RD
+16 17 RD
+9 18 RF
+10 18 RF
+18 13 WR
+15 18 UK
+16 19 WR
+16 20 ST
+21 16 RF
+22 16 RF
+16 23 ST
+24 16 RF
+16 25 WR
+26 17 RD
+26 19 WR
+26 20 ST
+26 21 ST
+22 26 RF
+26 23 ST
+26 24 ST
+26 25 EX
+26 27 RD
+26 28 RD
+29 19 RD
+29 20 ST
+29 21 ST
+29 22 ST
+23 29 RF
+29 24 ST
+29 25 WR
+26 29 UK
+

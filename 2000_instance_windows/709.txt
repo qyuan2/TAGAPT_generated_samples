@@ -1,0 +1,65 @@
+23
+MP*-OIS.EXE
+TP*-Kulicib.exe 
+MP*-CyberSeal_Crypter_Cracked.exe 
+TP-Reg.exe
+MP-сsrss.exe 
+MP-python.exe
+SF-HKLM\SOFTWARE\Microsoft\Windows
+MP-winhost.exe
+MF-\Users\admin\Desktop\shun2463.txt.exe
+TP-pcalua.exe
+MF-\Users\admin\AppData\Local\Temp\8be41efd6e6ace53b8c59344be2ba91fe41003987a8e38484b20760d7c400a42.zip
+MF-CSIDL_COMMON_APPDATA\anydesk.exe
+MP-cscript.exe
+TP-gsecdump.exe
+MP*-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+SO-test@corp.com
+MP-reviewref_protected.exe 
+SO-edcb@topsoe.com
+TP-reg.exe
+MF-www.suzhouca.c
+TF-addrs.a
+MF-C:\Windows\System32\calc
+TF-C:\Users\admin\AppData\Local\Temp\Poison.scr
+39
+0 1 IJ
+0 2 FR
+1 2 IJ
+0 3 FR
+1 3 IJ
+2 3 IJ
+0 4 FR
+1 4 IJ
+2 4 UK
+0 5 FR
+1 5 UK
+0 6 UK
+3 7 FR
+3 8 UK
+7 9 IJ
+7 10 RD
+9 10 WR
+7 11 WR
+9 11 UK
+7 12 FR
+12 10 RD
+7 13 IJ
+13 10 WR
+12 13 UK
+7 14 FR
+14 10 WR
+7 15 ST
+14 15 ST
+7 16 FR
+16 10 EX
+14 16 UK
+7 17 ST
+18 10 CD
+18 15 ST
+18 17 ST
+18 19 WR
+18 20 EX
+18 21 RD
+18 22 UK
+

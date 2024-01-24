@@ -1,0 +1,152 @@
+40
+MP-anydesk.exe
+MF-Atomic-license.txt
+MF-C:\Windows\system32\cmd
+MP-NOTEPAD.EXE 
+MP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+TP-certutil.exe
+SF-C:\Users\admin\AppData\Local\Temp\authrootstl.cab
+MP-test de fdp.exe 
+MP-CompPkgSrv.exe
+TF-C:\Windows\SYSTEM32\WISPTIS
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037
+MF-C:\Users\admin\AppData\Local\Temp\Document.pdf
+MF-C:\Users\admin\AppData\Local\Temp\tmp493A.tmp
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+MP*-secedit.exe
+MP-o0575127.exe
+MF-\Users\admin\AppData\Local\Temp\RunDRT-Office2016.bat.7z
+TP-vlliugwu.exe 
+SF-C:\Users\admin\AppData\Local\Temp\executable
+MF-C:\Users\admin\AppData\Local\Temp\upP
+MF-ReportingServicesService.exe
+SO-http://192.168.5.25/test
+MF-C:\Users\admin\AppData\Local\Temp\upP
+MP-HxDSetup.exe 
+SF-C:\Program files\29630
+MP*-olsptrs.exe 
+MF-C:\Program Files\Windows Defender\MpCmdRun.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug.log
+MF-\Users\admin\AppData\Local\Temp\D18C.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+TP*-FISCALIA GENERAL DE LA NACION --.exe 
+TP*-nsBC6C.tmp
+MF-C:\Users\admin\AppData\Local\Temp\r
+MP-WinSat.exe
+TP-installer.exe
+MP-Locker mr robot.exe 
+TF-\Users\admin\AppData\Local\Temp\is-JBJD7.tmp
+SF-C:\Users\admin\AppData\Roaming\StackTrace\Entry.exe
+MF-c:\backup
+TP-WinRAR.exe
+109
+0 1 WR
+0 2 WR
+0 3 UK
+4 1 CD
+4 2 WR
+5 1 WR
+5 2 WR
+4 5 IJ
+4 6 RD
+5 6 RD
+7 1 RD
+7 2 EX
+4 7 UK
+8 1 WR
+8 2 RD
+5 8 IJ
+8 6 WR
+5 9 RD
+8 9 CD
+5 10 UK
+8 11 WR
+8 12 WR
+13 6 RD
+8 13 UK
+14 6 RD
+14 9 EX
+14 11 WR
+14 12 RD
+15 6 EX
+15 9 RD
+15 11 CD
+15 12 WR
+14 16 RD
+15 16 RD
+17 9 RD
+17 11 RD
+17 12 RD
+14 17 IJ
+15 17 IJ
+17 16 WR
+14 18 RD
+15 18 WR
+17 18 EX
+14 19 RD
+15 19 RD
+17 19 RD
+14 20 RD
+15 20 CD
+17 20 RD
+21 14 RF
+15 21 ST
+17 21 ST
+14 22 WR
+15 22 EX
+17 22 RD
+14 23 UK
+15 24 WR
+17 24 WR
+15 25 FR
+25 16 WR
+17 25 IJ
+25 18 WR
+25 19 RD
+25 20 WR
+21 25 RF
+25 22 WR
+25 24 WR
+17 26 RD
+25 26 WR
+25 27 EX
+25 28 WR
+25 29 ST
+30 21 ST
+30 22 RD
+30 24 EX
+25 30 IJ
+30 26 RD
+30 27 WR
+30 28 WR
+30 29 ST
+31 22 RD
+31 24 WR
+25 31 IJ
+31 26 EX
+31 27 RD
+31 28 WR
+29 31 RF
+30 31 IJ
+25 32 WR
+30 32 WR
+31 32 UK
+33 24 RD
+25 33 UK
+34 26 WR
+34 27 WR
+34 28 WR
+29 34 RF
+30 34 IJ
+35 26 EX
+35 27 RD
+35 28 WR
+35 29 ST
+30 35 IJ
+34 35 UK
+30 36 WR
+30 37 WR
+30 38 WR
+29 39 RF
+30 39 UK
+

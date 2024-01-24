@@ -1,0 +1,61 @@
+17
+MP*-paste
+MF-e.c
+MP-cat
+TP-more
+SF-0*.txt
+MF-linux.txt
+TP*-john
+MF-T1070.006-reference.txt
+MP-cat
+MF-raw.githubusercontent.c
+MP*-bash
+MP*-tee
+TP-more
+TP-pr
+SF-0*.txt
+MF-httpd.c
+TP-uname
+41
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 IJ
+3 1 RD
+2 3 UK
+0 4 WR
+0 5 RD
+0 6 IJ
+6 1 RD
+6 4 RD
+6 5 WR
+0 7 WR
+6 7 WR
+0 8 FR
+8 1 WR
+8 4 WR
+8 5 WR
+6 8 UK
+0 9 RD
+0 10 FR
+10 1 EX
+10 4 RD
+10 5 RD
+10 7 RD
+10 9 RD
+11 1 RD
+11 4 WR
+11 5 WR
+11 7 WR
+11 9 WR
+10 11 UK
+12 4 UK
+13 5 WR
+13 7 WR
+13 9 RD
+13 14 RD
+13 15 WR
+16 7 WR
+16 9 WR
+13 16 UK
+

@@ -1,0 +1,143 @@
+41
+MP-7za.exe
+MF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv
+MF-C:\Users\admin\AppData\Local\Temp\New
+MF-C:\Users\admin\AppData\Local\Lluanj\eroykvous
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\form.r
+MF-\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67.exe
+SF-C:\Users\admin\AppData\Roaming\expo
+MP-DllHost.exe 
+MP-BFB9.exe
+TP-cmdkey.exe
+TP*-procdump.exe
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+TF-\Users\User\30802.ico.vb
+MP*-jsc.exe
+MP-ServiceModelReg.exe
+MP-AcroRd32.exe 
+MP-verclsid.exe
+MF-%userprofile%\downloads
+MF-\Users\admin\Desktop\poorname.rtf
+SO-https://drimby.top/wndfi
+MF-C:\Windows\System32\mshta.exe
+SF-C:\Users\admin\AppData\Local\Temp\Heapman45.exe
+MF-files\appdata\local\temp\17634.bmp
+TP*-nsA317.tmp
+MF-\Users\admin\AppData\Local\Temp\RunDRT-Office2016.bat.7z
+SF-C:\Users\admin\Desktop\CreateStudio_Setup.bat
+SF-C:\Users\admin\AppData\Local\Temp\Edge
+SO-hxxp://194.180.174[.]73/1.txt
+TP-SearchFilterHost.exe
+MP-default-browser-agent.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+MF-C:\Users\admin\AppData\Local\Temp\8
+MF-\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+SF-C:\Users\admin\AppData\Local\Temp\sgic_info
+MF-C:\Users\admin\AppData\Local\Temp\tb
+SF-C:\Windows\Temp\Crashpad\reports\winlogon
+MP-Caspol.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP*-nethtsrv.exe
+MF-\Users\admin\AppData\Local\Temp\jww825a.exe
+MP-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+99
+0 1 RD
+0 2 WR
+0 3 CD
+0 4 WR
+0 5 WR
+0 6 EX
+0 7 UK
+8 1 WR
+8 2 WR
+8 3 WR
+8 4 WR
+8 5 WR
+8 6 CD
+9 1 WR
+9 2 WR
+9 3 WR
+9 4 WR
+9 5 WR
+9 6 RD
+8 9 UK
+10 1 WR
+10 2 RD
+10 3 RD
+10 4 EX
+10 5 EX
+10 6 EX
+11 10 RF
+10 12 RD
+13 3 WR
+13 4 RD
+13 5 WR
+13 6 EX
+10 13 IJ
+11 13 RF
+13 12 RD
+14 4 WR
+14 5 WR
+14 6 EX
+10 14 UK
+15 5 WR
+15 6 WR
+11 15 RF
+15 12 RD
+16 6 WR
+11 16 RF
+16 12 UK
+13 17 RD
+13 18 WR
+13 19 ST
+13 20 WR
+13 21 WR
+13 22 EX
+23 17 WR
+23 18 RD
+19 23 RF
+23 20 WR
+23 21 WR
+23 22 RD
+23 24 RD
+23 25 CD
+23 26 WR
+27 23 RF
+28 18 WR
+28 19 ST
+28 20 WR
+28 21 WR
+28 22 EX
+23 28 UK
+19 29 RF
+29 20 CD
+29 21 WR
+29 22 WR
+29 24 RD
+29 25 RD
+29 26 WR
+29 27 ST
+29 30 ST
+29 31 WR
+29 32 WR
+29 33 WR
+29 34 WR
+29 35 CD
+29 36 FR
+30 36 RF
+36 31 EX
+36 32 UK
+29 37 ST
+30 38 RF
+38 31 WR
+38 33 WR
+38 34 RD
+38 35 WR
+38 37 ST
+38 39 WR
+40 33 RD
+40 34 RD
+40 35 RD
+40 37 ST
+38 40 UK
+

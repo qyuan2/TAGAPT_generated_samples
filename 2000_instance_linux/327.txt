@@ -1,0 +1,56 @@
+17
+MP*-cat
+MF-test.txt
+MP*-ifconfig
+MP*-sed
+MF-atomic.log
+TP-cat
+MF-2017.pl
+MP-nl
+TF-backsup.sh
+SF-data.zip
+SO-127.0.0.1:8080
+SO-192.168.206.137:8080
+MF-pwquality.c
+TF-raft-large-directories.txt
+MP*-ftp
+MF-test.txt
+MF-locale.c
+36
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 WR
+0 5 FR
+5 1 RD
+5 4 RD
+0 6 WR
+5 6 WR
+0 7 FR
+7 1 WR
+7 4 RD
+5 7 IJ
+7 6 EX
+0 8 WR
+5 8 RD
+7 8 WR
+0 9 WR
+5 9 WR
+7 9 WR
+0 10 ST
+10 5 RF
+7 10 ST
+5 11 ST
+11 7 RF
+5 12 CD
+7 12 WR
+5 13 WR
+7 13 RD
+14 4 RD
+5 14 UK
+7 15 EX
+7 16 EX
+

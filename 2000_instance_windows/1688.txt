@@ -1,0 +1,53 @@
+15
+MP*-New Client.exe 
+TF-igfxpph.dll
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MF-Files\Content.Outlook\B5XXPNDS\payload.tar
+SO-192.168.1.1
+TP*-Order Confirmation.exe 
+MF-C:\Users\admin\AppData\Local\Temp\35ee7903
+MF-C:\Windows\System32\rundll32
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\7za.exe
+MP*-AutoPico.exe
+MF-COMERCIAL_70051.pdf.exe
+TF-\Users\admin\AppData\Local\Temp\IXP000.TMP\z0200670.exe
+SO-file://C:\windows\system32\notepad.exe
+TP*-client32.exe
+MF-C:\Users\admin\AppData\Local\Temp\nscB9BA
+35
+0 1 RD
+0 2 ST
+0 3 RD
+0 4 ST
+0 5 FR
+5 1 WR
+2 5 RF
+5 3 EX
+4 5 RF
+0 6 RD
+5 6 RD
+0 7 WR
+5 7 WR
+0 8 RD
+5 8 RD
+0 9 FR
+9 1 CD
+2 9 RF
+9 3 WR
+9 4 ST
+5 9 IJ
+9 6 EX
+9 7 WR
+9 8 WR
+0 10 WR
+5 10 WR
+9 10 WR
+5 11 RD
+9 11 UK
+12 5 RF
+4 13 RF
+5 13 IJ
+13 6 CD
+13 7 UK
+5 14 WR
+

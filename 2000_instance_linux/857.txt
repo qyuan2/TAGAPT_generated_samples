@@ -1,0 +1,67 @@
+18
+MP*-awk
+MP-cat
+MF-www.google.c
+MP-ls
+TP-cat
+MF-T1003.008.txt
+TP-more
+TP*-cat
+MF-0*.txt
+MP*-cat
+TP-ifconfig
+MF-T1574.006.c
+TP*-ln 
+MF-httpd.c
+SO-192.168.10.129
+MF-ufw.c
+SO-192.168.10.131
+TP-ftp
+46
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+3 2 EX
+0 4 FR
+1 4 IJ
+4 2 EX
+3 4 UK
+0 5 WR
+1 5 WR
+0 6 FR
+1 6 UK
+0 7 FR
+7 2 WR
+7 5 RD
+0 8 WR
+7 8 RD
+0 9 FR
+9 2 RD
+9 5 RD
+7 9 IJ
+9 8 WR
+0 10 UK
+7 11 WR
+9 11 WR
+12 2 EX
+12 5 WR
+7 12 IJ
+12 8 EX
+9 12 IJ
+12 11 WR
+7 13 RD
+9 13 WR
+12 13 WR
+7 14 ST
+9 14 ST
+12 14 ST
+7 15 EX
+9 15 UK
+16 7 RF
+12 16 ST
+7 17 IJ
+17 8 EX
+17 11 RD
+12 17 UK
+

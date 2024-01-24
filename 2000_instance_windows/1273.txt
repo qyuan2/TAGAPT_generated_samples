@@ -1,0 +1,66 @@
+19
+MP*-uname
+SF-at.a
+MP*-cat
+MP-more
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+SF-secret.c
+MP-awk
+MF-test.txt
+MP-sed
+TP*-cat
+TP*-more
+TF-password-hash.sh
+TP-sed
+MF-atomic.log
+SO-192.168.37.130
+MF-at.a
+SF-raj.txt
+MF-bash_completion.sh
+TF-raj.txt
+44
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+0 4 ST
+2 4 ST
+3 4 ST
+0 5 CD
+2 5 WR
+3 5 WR
+0 6 FR
+6 1 UK
+0 7 EX
+2 7 WR
+3 7 RD
+0 8 FR
+3 8 UK
+0 9 FR
+2 9 IJ
+9 4 ST
+9 5 WR
+9 7 WR
+0 10 IJ
+2 10 IJ
+10 4 ST
+10 5 EX
+10 7 RD
+9 10 IJ
+2 11 WR
+9 11 RD
+10 11 WR
+2 12 FR
+12 4 ST
+12 5 RD
+12 7 WR
+9 12 IJ
+10 12 UK
+9 13 EX
+9 14 ST
+9 15 WR
+9 16 RD
+9 17 RD
+9 18 WR
+

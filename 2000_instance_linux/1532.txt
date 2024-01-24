@@ -1,0 +1,55 @@
+18
+MP*-curl
+SO-192.168.10.131
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-art.sh
+MP*-touch
+MF-backsup.sh
+TF-da-ks.cfg
+MF-access.htm
+TF-secret.c
+MP-who
+MP*-rev
+MF-e.c
+MP*-bash 
+MP-bash
+SF-LinEnum.sh
+MF-logrotate.c
+TF-access.htm
+MP-less
+34
+0 1 ST
+0 2 ST
+0 3 EX
+0 4 FR
+4 1 ST
+2 4 RF
+4 3 WR
+0 5 EX
+4 5 RD
+0 6 UK
+4 7 RD
+4 8 CD
+1 9 RF
+9 2 ST
+9 3 WR
+9 5 WR
+9 7 RD
+9 8 WR
+1 10 RF
+2 10 RF
+10 3 WR
+4 10 UK
+9 11 CD
+2 12 RF
+12 3 EX
+12 5 WR
+12 7 RD
+12 8 UK
+13 3 UK
+9 14 WR
+9 15 WR
+9 16 WR
+17 7 WR
+9 17 UK
+

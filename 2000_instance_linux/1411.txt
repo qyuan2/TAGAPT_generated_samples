@@ -1,0 +1,146 @@
+42
+MP-sudo
+MF-alertConfigField.php
+MF-user.r
+MF-rockyou.txt
+MF-resolv.c
+MF-f.r
+SF-AutoSUID.sh
+MP-ip
+MP-pr
+TP-cat
+TP*-chmod
+SO-192.168.2.102
+TF-e2.c
+MP*-cat
+MP-ufw
+MP-sed
+MP-cp
+MF-photo_high_re\u202Egnp.js
+MF-raft-medium-directories.txt
+MF-resolv.c
+SO-192.168.47.134:4444
+MF-raft-medium-directories.txt
+SF-test.txt
+MF-cron.h
+TP*-ls
+MF-image.php
+SF-on.a
+SF-etc.tar.gz
+SO-192.168.2.102
+TP-nl
+MP-less
+SO-192.168.10.128
+MF-CleaingScript.sh
+MF-Discovery.sh
+SF-anaconda-ks.cfg
+MF-td.c
+SF-on.a
+MP-ps
+SO-192.168.206.0
+MP*-sed
+MF-T1070.006-reference.txt
+MP-sed
+101
+0 1 RD
+0 2 WR
+0 3 CD
+0 4 WR
+0 5 WR
+0 6 EX
+0 7 UK
+8 1 WR
+8 2 WR
+8 3 WR
+8 4 WR
+8 5 WR
+8 6 CD
+9 1 WR
+9 2 WR
+9 3 WR
+9 4 WR
+9 5 WR
+9 6 RD
+8 9 UK
+10 1 WR
+10 2 RD
+10 3 RD
+10 4 EX
+10 5 EX
+10 6 EX
+11 10 RF
+10 12 RD
+13 3 WR
+13 4 RD
+13 5 WR
+13 6 EX
+10 13 IJ
+11 13 RF
+13 12 RD
+14 4 WR
+14 5 WR
+14 6 EX
+10 14 UK
+15 5 WR
+15 6 WR
+11 15 RF
+15 12 RD
+16 6 WR
+11 16 RF
+16 12 UK
+13 17 RD
+15 17 UK
+13 18 RD
+13 19 WR
+13 20 ST
+13 21 WR
+13 22 WR
+13 23 EX
+24 18 WR
+24 19 RD
+20 24 RF
+24 21 WR
+24 22 WR
+24 23 RD
+24 25 RD
+24 26 CD
+24 27 WR
+28 24 RF
+29 19 WR
+29 20 ST
+29 21 WR
+29 22 WR
+29 23 EX
+24 29 UK
+20 30 RF
+30 21 CD
+30 22 WR
+30 23 WR
+30 25 RD
+30 26 RD
+30 27 WR
+30 28 ST
+30 31 ST
+30 32 WR
+30 33 WR
+30 34 WR
+30 35 WR
+30 36 CD
+30 37 FR
+31 37 RF
+37 32 EX
+37 33 UK
+30 38 ST
+31 39 RF
+39 32 WR
+39 34 WR
+39 35 RD
+39 36 WR
+39 38 ST
+39 40 WR
+41 34 RD
+41 35 RD
+41 36 RD
+41 38 ST
+39 41 UK
+

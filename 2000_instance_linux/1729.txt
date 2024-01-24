@@ -1,0 +1,56 @@
+18
+MP*-grep
+MF-T1070.004-test.txt
+TF-ron.a
+MF-passwd.zip
+MP-echo
+TP-bash
+MF-os.exe
+MP-cp
+MP*-echo 
+MP*-cat
+MP*-grep
+MP-paste
+MF-cron.m
+MF-ron.a
+SF-journald.c
+MF-shell.cgi
+SF-art.sh
+MF-T1574.006.c
+35
+0 1 RD
+0 2 WR
+0 3 WR
+0 4 FR
+4 1 RD
+4 2 WR
+4 3 RD
+0 5 UK
+4 6 WR
+7 1 WR
+7 2 WR
+7 3 WR
+4 7 UK
+8 1 WR
+8 2 RD
+8 3 RD
+8 6 RD
+9 1 WR
+9 2 WR
+9 3 RD
+9 6 WR
+10 1 WR
+10 2 RD
+10 3 WR
+10 6 WR
+11 2 EX
+11 3 EX
+11 6 EX
+9 11 UK
+10 12 RD
+10 13 WR
+10 14 WR
+10 15 WR
+10 16 RD
+10 17 UK
+

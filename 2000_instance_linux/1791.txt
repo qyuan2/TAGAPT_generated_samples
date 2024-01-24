@@ -1,0 +1,53 @@
+14
+MP*-tac
+TF-target.example.c
+MP*-dd
+MF-common.txt
+MF-rockyou.txt
+MF-os.exe
+MF-apache2.c
+MP-grep
+MP*-sudo
+MP*-find
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-f.r
+SF-rockyou.txt
+MP-cat
+36
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 WR
+2 4 WR
+0 5 RD
+2 5 RD
+0 6 WR
+2 6 RD
+0 7 FR
+7 1 WR
+2 7 UK
+0 8 FR
+8 1 RD
+8 3 WR
+8 4 RD
+8 5 WR
+8 6 WR
+0 9 FR
+9 1 RD
+9 3 EX
+9 4 RD
+9 5 RD
+9 6 EX
+0 10 ST
+8 10 ST
+9 10 ST
+8 11 RD
+9 11 WR
+8 12 UK
+13 4 WR
+13 5 WR
+13 6 WR
+9 13 UK
+

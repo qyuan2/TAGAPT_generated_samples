@@ -1,0 +1,56 @@
+13
+MP*-PC_Cleaner__5509.exe 
+MF-cipher.exe
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+MF-C:\Windows\Temp\atomicNotificationPackage.dll
+TP*-AcroRd32.exe
+MP*-yiueea.exe 
+MF-C:\Windows\System32\sdiagnhost.exe
+SF-C:\Windows\System32\regsvr32
+TP-CCleanerBugReport.exe
+MP-pypykatz.py
+TP*-softwarelagswitchc.exe 
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+TP-ns9BE4.tmp
+40
+0 1 RD
+0 2 WR
+0 3 RD
+0 4 IJ
+4 1 WR
+4 2 WR
+4 3 RD
+0 5 FR
+5 1 RD
+5 2 RD
+5 3 EX
+4 5 IJ
+0 6 RD
+4 6 WR
+5 6 RD
+0 7 WR
+4 7 RD
+5 7 WR
+0 8 IJ
+8 1 EX
+8 2 EX
+8 3 WR
+4 8 UK
+0 9 FR
+9 1 WR
+9 2 RD
+9 3 WR
+5 9 UK
+0 10 FR
+10 1 CD
+10 2 RD
+10 3 EX
+10 6 WR
+10 7 RD
+10 11 ST
+12 2 EX
+12 3 RD
+12 6 WR
+12 7 WR
+10 12 UK
+

@@ -1,0 +1,91 @@
+24
+MP*-ns9872.tmp 
+MP-ns9872.tmp 
+SF-C:\Windows\System32\WScript.exe
+SO-test@corp.com
+MP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+MP*-ngen.exe
+TF-C:\Windows\system32\HJK
+MP*-MSBuild.exe
+MF-C:\Users\admin\AppData\Local\Temp\Keygen
+MF-calc.exe
+MF-C:\Windows\System32\msiexec.exe
+MF-PathToAtomicsFolder\T1105\src\T1105-download-file.vb
+SF-C:\Users\admin\AppData\Local\Temp\BNZ
+TF-files\29630.ico.vb
+SF-C:\Users\admin\AppData\Roaming\JavaNetworkServices86\UIrvVa6de.vb
+MP-ns9C62.tmp
+MF-AllTheThingsx64.dll
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1216.001/src/T1216.001.sct
+MP-bb.exe 
+TP-jww825a.tmp 
+MP*-OUTLOOK.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\Exloader_Installer
+MF-T1197.m
+MF-c:\windows\system32
+64
+0 1 FR
+0 2 WR
+1 2 RD
+3 0 RF
+1 3 ST
+0 4 FR
+1 4 UK
+0 5 FR
+5 2 WR
+3 5 RF
+0 6 WR
+5 6 RD
+0 7 FR
+7 2 RD
+7 3 ST
+7 6 WR
+0 8 EX
+5 8 WR
+7 8 CD
+0 9 WR
+5 9 RD
+7 9 WR
+0 10 WR
+5 10 WR
+7 10 WR
+5 11 WR
+7 11 WR
+5 12 RD
+7 12 WR
+5 13 RD
+7 13 EX
+5 14 EX
+7 14 EX
+5 15 UK
+7 16 WR
+7 17 ST
+18 8 RD
+18 9 RD
+18 10 WR
+18 11 WR
+18 12 WR
+18 13 WR
+18 14 WR
+18 16 WR
+18 17 ST
+19 9 RD
+19 10 WR
+19 11 WR
+19 12 WR
+19 13 RD
+19 14 WR
+19 16 WR
+17 19 RF
+18 19 UK
+20 10 EX
+20 11 WR
+20 12 EX
+20 13 WR
+20 14 WR
+20 16 WR
+17 20 RF
+20 21 WR
+20 22 EX
+20 23 UK
+

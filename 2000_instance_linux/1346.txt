@@ -1,0 +1,75 @@
+23
+MP*-grep
+MP-tac
+MF-alertConfigField.php
+MP-bash
+SF-f.r
+MP*-cat
+MF-e.c
+TF-log.c
+MP*-more
+SF-user.r
+MF-AutoSUID.sh
+MF-alertConfigField.php
+MP*-grep
+MP-nl
+SO-atomic@target.example
+TF-atomic.log
+MP-rm
+SO-192.168.1.1
+TF-lighttpd.c
+MF-shell.cgi
+SF-test.txt
+MP-cat
+MP-strings
+49
+0 1 FR
+0 2 CD
+1 2 WR
+0 3 FR
+1 3 UK
+0 4 RD
+0 5 FR
+5 2 RD
+5 4 CD
+0 6 RD
+5 6 RD
+0 7 WR
+5 7 WR
+0 8 FR
+8 2 WR
+8 4 RD
+8 6 WR
+8 7 WR
+0 9 WR
+5 9 WR
+8 9 WR
+0 10 WR
+5 10 WR
+8 10 EX
+5 11 WR
+8 11 WR
+12 2 RD
+12 4 RD
+5 12 UK
+13 4 WR
+13 6 EX
+13 7 UK
+8 14 ST
+8 15 CD
+8 16 FR
+16 9 WR
+16 10 WR
+16 11 WR
+14 16 RF
+16 15 WR
+17 8 RF
+16 17 ST
+16 18 WR
+16 19 WR
+16 20 WR
+21 14 ST
+21 15 UK
+22 14 ST
+16 22 UK
+

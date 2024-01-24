@@ -1,0 +1,49 @@
+13
+MP*-dmesg
+TP*-ls
+MP-chmod
+MF-d.c
+TF-backsup.sh
+MF-p.c
+SO-192.168.10.131
+TF-CleaingScript.sh
+MF-test.txt
+TP*-head
+MF-test.txt
+MP*-vim
+TP-less
+33
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 EX
+1 3 WR
+2 3 EX
+0 4 WR
+1 4 WR
+2 4 EX
+0 5 RD
+1 5 UK
+2 6 ST
+2 7 WR
+2 8 WR
+2 9 FR
+9 3 RD
+9 4 EX
+6 9 RF
+9 7 WR
+9 8 UK
+2 10 EX
+2 11 FR
+11 3 RD
+11 4 WR
+6 11 RF
+11 7 WR
+11 10 EX
+12 3 WR
+12 4 WR
+6 12 RF
+12 7 RD
+12 10 EX
+11 12 UK
+

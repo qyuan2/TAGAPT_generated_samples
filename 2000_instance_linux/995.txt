@@ -1,0 +1,52 @@
+19
+MP*-cat
+MP*-uname
+TF-common.txt
+MP-sudo
+MP*-tail
+TP*-sftp
+SO-192.168.2.102
+MF-journald.c
+TP-ls
+SO-192.168.1.1
+MF-access.htm
+SO-http://192.168.10.129/image.php?FUZZ=something
+SF-ron.a
+MF-user.r
+MF-apache2.c
+SF-raft-medium-directories.txt
+SF-art.sh
+MP-bash
+MP-awk
+30
+0 1 FR
+0 2 WR
+1 2 CD
+0 3 FR
+1 3 UK
+0 4 FR
+4 2 WR
+0 5 FR
+5 2 WR
+4 5 UK
+6 0 RF
+0 7 WR
+0 8 IJ
+8 2 WR
+8 6 ST
+8 7 WR
+0 9 ST
+8 9 ST
+0 10 CD
+8 10 WR
+8 11 ST
+8 12 EX
+8 13 WR
+8 14 WR
+8 15 WR
+8 16 CD
+17 7 RD
+8 17 UK
+9 18 RF
+18 10 UK
+

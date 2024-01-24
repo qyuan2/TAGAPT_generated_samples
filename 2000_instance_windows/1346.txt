@@ -1,0 +1,29 @@
+9
+MP*-less
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+TP-bash
+MP*-less
+MF-td.c
+MP*-less
+SF-da-ks.cfg
+MP-grep
+TP*-ifconfig
+17
+0 1 ST
+0 2 IJ
+1 2 RF
+0 3 FR
+1 3 RF
+2 3 IJ
+2 4 WR
+3 4 WR
+5 1 ST
+2 5 IJ
+3 5 UK
+2 6 WR
+7 1 ST
+2 7 UK
+1 8 RF
+8 4 RD
+8 6 UK
+

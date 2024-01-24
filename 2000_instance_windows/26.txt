@@ -1,0 +1,50 @@
+13
+MP*-Dcomcnfg.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MP*-crackmapexec.exe
+TP*-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+SF-C:\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863
+MF-C:\Users\admin\AppData\Local\Temp\G88QGQzA.htm
+SF-C:\Users\admin\AppData\Local\Temp\system_file.exe
+SF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta
+MF-C:\Users\admin\AppData\Roaming\expo
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037
+MF-C:\MSOCache\All Users\{90140000-00A1-0412-0000-0000000FF1CE}-C\services.exe
+MP-vds.exe
+34
+1 0 RF
+0 2 FR
+2 1 ST
+0 3 FR
+3 1 ST
+2 3 IJ
+0 4 WR
+2 4 RD
+3 4 UK
+0 5 RD
+2 5 CD
+0 6 WR
+2 6 WR
+0 7 RD
+2 7 EX
+0 8 EX
+2 8 WR
+0 9 FR
+1 9 RF
+9 5 WR
+9 6 EX
+9 7 RD
+9 8 WR
+0 10 WR
+2 10 WR
+9 10 WR
+2 11 RD
+9 11 EX
+2 12 FR
+12 5 WR
+12 6 WR
+12 7 RD
+12 8 WR
+9 12 UK
+

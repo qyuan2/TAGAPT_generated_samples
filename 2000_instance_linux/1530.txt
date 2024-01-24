@@ -1,0 +1,63 @@
+15
+MP*-ps
+MF-logrotate.c
+SO-http://192.168.0.134/passwd
+MF-td.c
+TP*-cat
+MP*-sed
+SO-192.168.47.155
+TF-T1574.006.c
+TP*-nl
+TF-passwd.zip
+TP-cat
+SF-accounts/credentials
+SF-AutoSUID.sh
+TP-grep
+MP-grep
+45
+0 1 WR
+2 0 RF
+0 3 EX
+0 4 IJ
+4 1 RD
+2 4 RF
+4 3 RD
+0 5 FR
+5 1 WR
+5 2 ST
+5 3 RD
+4 5 IJ
+6 0 RF
+4 6 ST
+5 6 ST
+0 7 WR
+4 7 EX
+5 7 CD
+0 8 IJ
+8 1 EX
+2 8 RF
+8 3 WR
+4 8 IJ
+5 8 IJ
+6 8 RF
+8 7 UK
+0 9 WR
+4 9 CD
+5 9 CD
+0 10 FR
+10 1 RD
+2 10 RF
+10 3 WR
+4 10 IJ
+5 10 UK
+4 11 WR
+4 12 UK
+13 3 WR
+13 6 ST
+13 9 WR
+13 11 WR
+6 14 RF
+14 9 EX
+14 11 WR
+13 14 UK
+

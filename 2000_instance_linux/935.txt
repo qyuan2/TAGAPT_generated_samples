@@ -1,0 +1,56 @@
+15
+MP*-bash
+MF-T1070.006-reference.txt
+SO-atomic@target.example
+MF-lighttp.c
+MP*-cat
+MF-victim-shred.txt
+SF-chttp.c
+MP*-cat
+SO-192.168.206.136
+MF-da-ks.cfg
+MP*-cat
+SF-secret.c
+TF-subprocess.c
+TF-T1003.008.txt
+MP-tcpdump 
+38
+0 1 WR
+0 2 ST
+0 3 WR
+0 4 FR
+4 1 WR
+2 4 RF
+4 3 WR
+0 5 WR
+4 5 WR
+0 6 WR
+4 6 RD
+0 7 FR
+7 1 EX
+7 2 ST
+7 3 EX
+7 5 CD
+7 6 RD
+8 0 RF
+8 4 RF
+7 8 ST
+0 9 RD
+4 9 WR
+7 9 UK
+10 1 WR
+10 2 ST
+10 3 EX
+10 5 RD
+10 6 CD
+10 8 ST
+4 11 WR
+10 11 RD
+4 12 WR
+10 12 WR
+4 13 UK
+14 5 WR
+14 6 WR
+14 8 ST
+10 14 UK
+

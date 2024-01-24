@@ -1,0 +1,101 @@
+27
+MP-nl
+SO-192.168.47.134:4444
+TF-data.zip
+MP-grep
+TP*-sed
+MF-raj.txt
+MP-cat
+MP-tac
+MP-cat
+TP*-echo
+MP*-nl
+TF-apache2.c
+MF-access.htm
+TF-T1074.001_discovery.log
+MF-cron.a
+MP-grep
+MF-AutoSUID.sh
+MF-T1070.006-modification.txt
+TF-shell.cgi
+TP-less
+MF-v.c
+MF-td.c
+MP*-reboot
+SF-common.txt
+TF-common.txt
+MP-curl
+MP-sudo
+71
+0 1 ST
+0 2 CD
+0 3 UK
+4 1 ST
+4 2 RD
+4 5 RD
+6 1 ST
+6 2 EX
+4 6 UK
+1 7 RF
+7 2 WR
+7 5 RD
+8 1 ST
+8 2 RD
+8 5 WR
+7 8 UK
+1 9 RF
+9 2 WR
+9 5 WR
+10 1 ST
+10 2 RD
+10 5 RD
+9 10 IJ
+9 11 RD
+10 11 RD
+9 12 WR
+10 12 WR
+9 13 RD
+10 13 EX
+9 14 WR
+10 14 EX
+15 5 WR
+9 15 IJ
+10 15 UK
+9 16 EX
+9 17 WR
+9 18 RD
+9 19 IJ
+19 11 EX
+19 12 EX
+19 13 RD
+19 14 WR
+19 16 WR
+19 17 WR
+19 18 WR
+19 20 WR
+19 21 RD
+22 12 WR
+22 13 EX
+22 14 WR
+22 16 WR
+22 17 WR
+22 18 WR
+19 22 IJ
+22 20 WR
+22 21 WR
+19 23 WR
+22 23 RD
+19 24 RD
+22 24 WR
+25 16 WR
+25 17 WR
+25 18 WR
+19 25 IJ
+25 20 WR
+25 21 WR
+22 25 UK
+26 16 RD
+26 17 RD
+26 18 RD
+19 26 UK
+

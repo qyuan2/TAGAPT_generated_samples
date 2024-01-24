@@ -1,0 +1,67 @@
+17
+MP*-WinRAR.exe 
+MF-C:\Windows\Temp\lsass_dump
+MF-C:\Users\admin\AppData\Local\Temp\sandbox-installer-windows10-home.bat
+MF-C:\Program files\appdata\local\temp\19084.bmp
+MP-ns99EC.tmp
+MF-\Users\admin\AppData\Local\Temp\GLJBD24.tmp
+MF-c:\Users\admin\AppData\Local\Temp\CSCDF6A.tmp
+MP*-Ayuaey.exe 
+MP*-819cebc553434a1b12318d80f63ebd96.exe 
+TF-C:\Users\admin\AppData\Local\Temp\system
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+TP*-AppLaunch.exe
+MF-176271690778479.bat
+MP-ns996E.tmp
+TP-WerFault.exe
+MP-takeown.exe
+TP-C3B1.exe
+47
+0 1 WR
+0 2 RD
+0 3 WR
+0 4 FR
+4 1 WR
+4 2 RD
+4 3 UK
+0 5 WR
+0 6 EX
+0 7 FR
+7 1 RD
+7 2 EX
+7 5 WR
+7 6 WR
+0 8 FR
+8 1 WR
+8 2 RD
+8 5 RD
+8 6 WR
+0 9 WR
+7 9 WR
+8 9 WR
+0 10 ST
+10 7 RF
+10 8 RF
+11 1 RD
+11 2 EX
+11 5 WR
+11 6 WR
+7 11 UK
+8 12 CD
+13 5 EX
+13 6 WR
+8 13 UK
+14 5 WR
+14 6 RD
+14 9 WR
+14 10 ST
+14 12 UK
+15 5 WR
+15 6 RD
+15 9 WR
+15 10 ST
+16 6 EX
+16 9 RD
+10 16 RF
+15 16 UK
+

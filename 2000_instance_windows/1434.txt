@@ -1,0 +1,56 @@
+16
+MP*-sdiagnhost.exe
+TF-C:\Program Files\FDRLab\Avi Previewer DEMO\avi_previewer_demo
+SF-C:\Users\admin\Desktop\Client.exe
+MP-PO 345678.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Wub_v1
+MP-OperaSetup_UNO.exe
+TF-C:\Windows\Temp
+MF-C:\Program files\documents\jury.mp3
+MF-C:\Windows\system32\ROUTE
+SF-C:\Users\admin\AppData\Local\Temp\is-P1TLT.tmp
+MP*-dkeyauth.exe 
+TF-C:\Users\admin\Desktop\Client
+MP*-renamer-7.5.exe
+TF-C:\Users\admin\AppData\Local\Temp\5158c830d2dfb8a523c3c24077e67fe792346ffa443126ebf2d09ace68f73000
+TF-Files\Hantek2xx2\Driver\Win10\Hantek2D42X86.sys
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+37
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 WR
+3 4 WR
+0 5 FR
+5 1 WR
+5 2 WR
+3 5 UK
+0 6 WR
+0 7 WR
+0 8 EX
+0 9 RD
+0 10 FR
+10 1 WR
+10 2 RD
+10 4 RD
+10 6 WR
+10 7 WR
+10 8 RD
+10 9 RD
+10 11 UK
+12 2 RD
+12 4 WR
+12 6 WR
+12 7 EX
+12 8 WR
+12 9 EX
+12 13 WR
+12 14 WR
+15 6 EX
+15 7 EX
+15 8 RD
+15 9 WR
+12 15 UK
+

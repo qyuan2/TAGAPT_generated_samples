@@ -1,0 +1,55 @@
+14
+MP*-IBM_Centosi.exe 
+MP*-notepad++.exe
+TP-splwow64.exe
+MP-help.exe
+TP*-C3B1.exe
+TF-C:\Program Files\Mozilla Firefox\firefox
+MF-\*.b
+TF-C:\Users\admin\Desktop\Client
+MF-C:\Program Files\Hantek2xx2\Driver\Others\Hantek2D42X86.sys
+TP-Paranoid Checker.exe 
+MF-C:\Users\admin\AppData\Local\Temp\capture
+MF-C:\Users\admin\AppData\Local\Microsoft\EdgeUpdate\Install\{46A0A62B-1F4F-4D54-A968-BB635F8FA37A}\EDGEMITMP_4BF74.tmp
+MP*-ping.exe
+MP-expo.exe
+38
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 FR
+2 3 UK
+0 4 IJ
+1 4 IJ
+0 5 WR
+1 5 RD
+4 5 EX
+0 6 EX
+1 6 RD
+4 6 WR
+0 7 EX
+1 7 EX
+4 7 WR
+0 8 WR
+1 8 WR
+4 8 WR
+0 9 IJ
+1 9 IJ
+4 9 UK
+0 10 RD
+1 10 WR
+1 11 RD
+12 5 EX
+12 6 EX
+12 7 EX
+12 8 WR
+12 10 RD
+12 11 WR
+13 5 WR
+13 6 WR
+13 7 WR
+13 8 WR
+13 10 WR
+13 11 RD
+12 13 UK
+

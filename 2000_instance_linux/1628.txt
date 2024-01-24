@@ -1,0 +1,99 @@
+30
+MP*-grep
+MF-T1027-004-test.c
+MP-cat
+SF-access.txt
+MP-ifconfig
+TP-uname
+MP-ip
+MF-passwd.zip
+MP-cat
+TF-linux.txt
+TP-cat
+MF-chttp.c
+MP-find
+TP*-grep
+SO-192.168.10.131
+SO-http://192.168.206.137:8080/robots.txt
+MP-cat
+SF-rockyou.txt
+TP-cat
+MF-raft-medium-directories.txt
+SF-raft-large-directories.txt
+SO-http://192.168.0.134/passwd
+SO-192.168.10.131
+SF-da-ks.cfg
+SF-T1070.006-reference.txt
+MF-LinEnum.sh
+MP-dd
+MP*-sed
+MP*-sudo
+TP-tee
+66
+0 1 EX
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 RD
+0 4 FR
+4 1 EX
+2 4 UK
+0 5 FR
+5 1 RD
+5 3 RD
+0 6 FR
+6 1 WR
+6 3 WR
+5 6 UK
+0 7 RD
+0 8 FR
+8 1 WR
+8 3 RD
+8 7 WR
+0 9 UK
+10 1 RD
+10 3 WR
+10 7 UK
+8 11 EX
+12 3 EX
+8 12 UK
+13 3 RD
+13 11 WR
+13 14 ST
+13 15 ST
+13 16 IJ
+14 16 RF
+15 16 RF
+13 17 CD
+16 17 EX
+13 18 FR
+14 18 RF
+18 15 ST
+16 18 IJ
+18 17 WR
+13 19 UK
+16 20 UK
+21 18 RF
+18 22 ST
+18 23 WR
+18 24 RD
+18 25 WR
+26 17 WR
+18 26 UK
+27 17 EX
+21 27 RF
+27 22 ST
+27 23 WR
+27 24 WR
+27 25 WR
+28 21 ST
+28 22 ST
+28 23 RD
+28 24 WR
+28 25 WR
+27 28 UK
+29 21 ST
+22 29 RF
+29 23 WR
+29 24 UK
+

@@ -1,0 +1,34 @@
+10
+MP*-Order Confirmation.exe 
+MF-Order.htm
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+MP*-Xd.exe
+TF-C:\Users\admin\AppData\Local\Temp\system_file
+MP*-nltest.exe
+MF-C:\Users\admin\Desktop\Wub\Wub.exe
+MP*-WinAPIOverride 6.9.1.tmp
+SF-C:\Users\admin\Desktop\Wub\Wub.exe
+MF-C:\Users\User\appdata\local\temp\deep
+21
+0 1 EX
+2 0 RF
+0 3 FR
+3 1 WR
+3 2 ST
+0 4 WR
+3 4 WR
+0 5 FR
+5 1 EX
+2 5 RF
+3 5 UK
+0 6 RD
+0 7 FR
+7 1 RD
+7 2 ST
+7 4 EX
+7 6 RD
+0 8 WR
+7 8 WR
+0 9 WR
+7 9 UK
+

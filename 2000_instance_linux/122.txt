@@ -1,0 +1,201 @@
+49
+MP*-ls
+MF-1.zip
+TF-settings.php
+TP*-bash
+MF-T1574.006.c
+MP-sed
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-ls
+MF-T1574.006.c
+MP-cat
+TP-cat
+MP-wget
+MF-echo-art-fish.sh
+SF-v.c
+MP-sed
+MF-atomic.log
+TF-te.c
+TP-cat
+TF-apache2.c
+TP-less
+MF-T1574.006.c
+MP-dd
+MF-v.c
+SF-s.c
+TF-data.zip
+TP-cat
+SF-passwd.zip
+SF-anaconda-ks.cfg
+TP-sh
+SO-8.8.8.8
+MP-cat
+TP*-bash
+TF-ufw.log
+MP-whoami
+SF-access.txt
+TF-v.c
+TF-resolv.c
+SO-atomic@target.example
+MP-ls
+MF-atomic.log
+SF-os.exe
+SF-inetd.c
+SF-e.c
+MF-anaconda-ks.cfg
+MP-cat
+MP-cat
+MP-cat
+TF-passwd.zip
+MP-rev
+149
+0 1 RD
+0 2 WR
+0 3 IJ
+3 1 EX
+3 2 WR
+0 4 WR
+3 4 WR
+0 5 FR
+5 1 RD
+5 2 RD
+3 5 IJ
+5 4 WR
+6 0 RF
+3 6 ST
+5 6 ST
+0 7 FR
+7 1 EX
+7 2 EX
+3 7 IJ
+7 4 RD
+7 6 ST
+0 8 RD
+3 8 WR
+5 8 WR
+7 8 WR
+0 9 FR
+9 1 RD
+9 2 RD
+3 9 IJ
+9 4 CD
+5 9 UK
+0 10 FR
+10 1 WR
+10 2 WR
+3 10 IJ
+10 4 EX
+6 10 RF
+7 10 IJ
+10 8 WR
+11 1 CD
+11 2 RD
+3 11 IJ
+11 4 RD
+11 6 ST
+11 8 EX
+10 11 UK
+3 12 CD
+7 12 WR
+3 13 WR
+7 13 WR
+14 4 WR
+6 14 RF
+14 8 WR
+14 12 WR
+14 13 UK
+7 15 WR
+7 16 RD
+7 17 IJ
+17 8 WR
+17 12 WR
+17 15 WR
+17 16 WR
+17 18 WR
+19 15 UK
+17 20 WR
+21 16 CD
+17 21 IJ
+21 18 EX
+21 20 RD
+17 22 WR
+21 22 RD
+17 23 WR
+21 23 WR
+17 24 RD
+21 24 RD
+25 16 RD
+17 25 IJ
+25 18 RD
+25 20 WR
+21 25 IJ
+25 22 WR
+25 23 WR
+25 24 RD
+17 26 WR
+21 26 EX
+25 26 WR
+21 27 RD
+25 27 CD
+28 18 EX
+28 20 WR
+21 28 IJ
+28 22 WR
+28 23 WR
+28 24 CD
+25 28 UK
+21 29 ST
+30 20 WR
+21 30 UK
+31 22 RD
+31 23 WR
+31 24 EX
+31 26 RD
+31 27 EX
+31 29 ST
+31 32 EX
+33 23 WR
+33 24 WR
+33 26 WR
+33 27 WR
+29 33 RF
+31 33 IJ
+33 32 UK
+31 34 WR
+31 35 WR
+31 36 WR
+37 31 RF
+38 29 ST
+31 38 IJ
+38 34 RD
+38 35 WR
+38 36 WR
+38 37 ST
+31 39 WR
+38 39 RD
+31 40 WR
+38 40 WR
+31 41 RD
+38 41 WR
+38 42 CD
+38 43 RD
+44 34 UK
+45 35 WR
+45 36 WR
+37 45 RF
+38 45 UK
+46 36 WR
+37 46 RF
+46 39 RD
+46 40 WR
+46 41 WR
+46 42 CD
+46 43 WR
+46 47 WR
+48 39 WR
+48 40 RD
+48 41 RD
+48 42 RD
+48 43 WR
+46 48 UK
+

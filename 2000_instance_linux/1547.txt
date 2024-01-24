@@ -1,0 +1,181 @@
+55
+MP-vim
+TP-awk
+SF-at.a
+MP-cat
+MF-www.google.c
+MF-flag3.txt
+SO-http://192.168.10.128/shell.cgi
+MP-cat
+TP-netstat
+MP-awk
+TP-sudo
+MP-cat
+MP-uname
+MP-less
+MF-atomic.log
+TP-bash
+SF-f.r
+MF-te.c
+SF-flag4.txt
+MP-awk
+MP-uname
+MP-nl
+MP-grep
+TP-cat
+MP*-dd
+MF-raj.txt
+SF-e.c
+SF-T1070.004-test.txt
+MF-td.c
+MF-cron.m
+SO-192.168.10.131
+MF-io.r
+SO-atomic@target.example
+SF-T1003.008.txt
+SF-syslog.c
+TP-cat
+MP*-touch
+SF-v.c
+MP-dd
+MP-grep
+TP-cat
+MF-LinEnum.sh
+MP*-vi
+SF-www.google.c
+SO-192.168.10.129
+SO-192.168.159.128
+MF-da-ks.cfg
+SO-192.168.206.137
+TF-echo-art-fish.sh
+MP*-grep
+TF-raft-large-directories.txt
+MF-shell.cgi
+SF-os.exe
+TF-target.example.c
+TP-echo 
+123
+0 1 IJ
+0 2 WR
+1 2 WR
+0 3 FR
+1 3 UK
+0 4 EX
+0 5 WR
+0 6 ST
+7 2 WR
+7 4 WR
+7 5 EX
+6 7 RF
+8 2 RD
+8 4 WR
+8 5 WR
+6 8 RF
+7 8 IJ
+9 2 RD
+9 4 WR
+9 5 WR
+6 9 RF
+7 9 UK
+10 2 WR
+10 4 WR
+10 5 RD
+6 10 RF
+8 10 IJ
+11 4 WR
+11 5 WR
+6 11 RF
+8 11 UK
+12 4 CD
+12 5 RD
+6 12 RF
+10 12 UK
+13 5 RD
+6 13 RF
+13 14 WR
+13 15 IJ
+15 14 UK
+13 16 RD
+13 17 EX
+13 18 UK
+19 16 RD
+19 17 UK
+20 16 RD
+21 16 RD
+22 16 RD
+20 22 UK
+23 16 WR
+21 23 UK
+24 16 WR
+24 25 WR
+24 26 WR
+24 27 WR
+24 28 WR
+24 29 EX
+24 30 ST
+24 31 EX
+32 24 RF
+24 33 EX
+24 34 RD
+35 25 RD
+35 26 WR
+35 27 RD
+35 28 RD
+35 29 RD
+30 35 RF
+35 31 WR
+35 32 ST
+35 33 WR
+35 34 RD
+36 26 RD
+36 27 EX
+36 28 WR
+36 29 WR
+36 30 ST
+36 31 WR
+36 32 ST
+36 33 RD
+36 34 RD
+35 36 IJ
+35 37 EX
+36 37 UK
+38 28 EX
+38 29 EX
+30 38 RF
+38 31 UK
+39 29 RD
+30 39 RF
+39 32 ST
+39 33 UK
+40 30 ST
+40 32 ST
+40 34 UK
+35 41 WR
+42 32 ST
+35 42 IJ
+42 41 EX
+35 43 EX
+42 43 RD
+35 44 ST
+44 42 RF
+35 45 ST
+42 45 ST
+42 46 WR
+47 42 RF
+42 48 WR
+49 41 EX
+49 43 EX
+44 49 RF
+49 45 ST
+49 46 WR
+49 47 ST
+49 48 RD
+42 50 UK
+49 51 WR
+49 52 EX
+49 53 RD
+54 46 EX
+54 47 ST
+54 48 RD
+49 54 UK
+

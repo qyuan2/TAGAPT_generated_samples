@@ -1,0 +1,165 @@
+42
+MP*-nanodump.x64.exe
+SF-%USERPROFILE%\Desktop\YOUR_FILES.txt
+MF-C:\Windows\SysWOW64\cmd.exe
+MF-C:\Program Files\Mozilla Firefox\firefox.exe
+MF-\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV.exe
+TP-nethtsrv.exe
+SO-8.8.8.8
+TP-regsvr32 .exe
+MP-schtasks.exe 
+TP*-winhost.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP-AutoPico.exe
+TF-C:\Windows\System32X86\windowspowershell\v1
+SF-C:\Windows\SysWOW64\svchost.exe
+TF-C:\Users\admin\AppData\Local\Temp\DS
+SO-https://mindigital-shde.gr
+MP-build3.exe 
+MP-nsBDC5.tmp
+MP*-WINWORD.EXE
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+MF-C:\Users\admin\AppData\Local\Temp\vLocalServerSetup.exe
+MP*-iexplore.exe
+MF-C:\Windows\system32\reg.exe
+MF-C:\Program files\8527
+TF-list.exe
+MP-mimikatz.exe
+MF-C:\Users\admin\AppData\Local\Temp\skmt-bankinter-003-03588993232059560257100458.jar
+SF-C:\Users\admin\AppData\Local\Temp\script
+SF-C:\Windows\SysWOW64\сsrss
+SF-C:\Users\admin\AppData\Local\Temp\ORDER_LIST
+TP-6248.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86.sys
+MF-C:\Users\admin\AppData\Local\Temp\lk.exe
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+MF-\Windows\system32\ntvdm.exe
+MP-CareUEyes_setup.exe
+TP-MpCmdRun.exe
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037.pdf
+MF-C:\Users\admin\AppData\Local\Google\Chrome\User Data\Crashpad
+MF-C:\Users\admin\Downloads\PC_Cleaner__5509
+TF-C:\Users\admin\AppData\Local\Temp\is
+MP-Cleaner.exe 
+120
+0 1 RD
+0 2 WR
+0 3 WR
+0 4 WR
+0 5 IJ
+5 1 WR
+5 2 WR
+5 3 RD
+5 4 RD
+0 6 ST
+6 5 RF
+0 7 FR
+7 1 WR
+7 2 WR
+7 3 WR
+7 4 RD
+5 7 IJ
+6 7 RF
+0 8 FR
+8 1 EX
+8 2 RD
+8 3 EX
+8 4 WR
+5 8 IJ
+6 8 RF
+7 8 UK
+0 9 FR
+9 1 EX
+9 2 EX
+9 3 WR
+9 4 WR
+5 9 IJ
+9 6 ST
+10 0 RF
+10 5 RF
+10 9 RF
+11 1 EX
+11 2 RD
+11 3 WR
+11 4 UK
+5 12 WR
+9 12 WR
+5 13 UK
+9 14 RD
+15 9 RF
+6 16 RF
+9 16 IJ
+16 10 ST
+16 12 WR
+16 14 EX
+15 16 RF
+9 17 IJ
+17 10 ST
+17 12 WR
+17 14 RD
+17 15 ST
+16 17 UK
+9 18 FR
+18 10 ST
+18 12 WR
+18 14 RD
+18 15 ST
+9 19 ST
+19 18 RF
+18 20 EX
+21 12 WR
+21 14 RD
+15 21 RF
+21 19 ST
+21 20 CD
+18 22 RD
+21 22 RD
+18 23 WR
+21 23 WR
+18 24 WR
+21 24 WR
+25 15 ST
+18 25 UK
+21 26 RD
+21 27 RD
+21 28 WR
+21 29 RD
+30 20 RD
+21 30 IJ
+30 22 RD
+30 23 WR
+30 24 WR
+30 26 RD
+30 27 WR
+30 28 WR
+30 29 RD
+21 31 WR
+30 31 WR
+30 32 WR
+30 33 WR
+30 34 RD
+35 26 EX
+35 27 WR
+35 28 UK
+36 26 WR
+36 27 WR
+36 29 RD
+30 36 IJ
+36 31 WR
+36 32 WR
+36 33 EX
+36 34 EX
+30 37 EX
+36 37 WR
+30 38 WR
+36 38 EX
+30 39 WR
+36 39 RD
+30 40 WR
+36 40 WR
+41 31 RD
+41 32 RD
+41 33 RD
+41 34 WR
+36 41 UK
+

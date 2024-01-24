@@ -1,0 +1,62 @@
+15
+MP*-curl
+MP-pr
+MP-cat
+TP-less
+MF-LinEnum.sh
+SO-http://192.168.0.134/passwd
+MF-log.c
+MP*-ls
+MP-ls
+MP-bash 
+MP*-clang++
+MF-cron.a
+TP*-cat
+TP-w
+MP-less
+44
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 IJ
+0 4 RD
+3 4 RD
+5 0 RF
+5 3 RF
+0 6 WR
+3 6 RD
+0 7 FR
+3 7 IJ
+7 4 RD
+7 5 ST
+7 6 WR
+0 8 FR
+3 8 IJ
+8 4 EX
+8 5 ST
+8 6 WR
+7 8 UK
+0 9 UK
+3 10 FR
+10 4 WR
+5 10 RF
+10 6 RD
+3 11 WR
+10 11 WR
+3 12 FR
+12 4 WR
+12 5 ST
+12 6 WR
+10 12 IJ
+12 11 CD
+3 13 IJ
+13 4 RD
+5 13 RF
+13 6 WR
+10 13 UK
+14 4 WR
+5 14 RF
+14 6 CD
+14 11 WR
+12 14 UK
+

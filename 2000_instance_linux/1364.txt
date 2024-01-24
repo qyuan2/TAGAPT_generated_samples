@@ -1,0 +1,47 @@
+14
+MP*-cat
+MP-curl
+MP-ip
+MF-art.sh
+MP*-iptables
+MF-lighttp.c
+MF-chttp.c
+TP-rm
+MF-data.zip
+MP*-tee
+MF-http.c
+MF-victim-shred.txt
+MP*-pr
+MP-bash
+30
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 FR
+4 3 CD
+0 5 EX
+4 5 WR
+0 6 EX
+4 6 WR
+0 7 FR
+7 3 WR
+4 7 UK
+0 8 RD
+0 9 FR
+9 3 WR
+9 5 WR
+9 6 WR
+9 8 RD
+9 10 RD
+9 11 EX
+12 3 RD
+12 5 WR
+12 6 RD
+12 8 RD
+9 12 UK
+13 5 RD
+13 6 WR
+13 8 WR
+13 10 UK
+

@@ -1,0 +1,78 @@
+19
+MP*-bash
+TP*-less
+SO-http://192.168.0.134/passwd
+MP-more
+MF-logrotate.c
+SF-cron.h
+MP-more
+MF-ufw.c
+MF-da-ks.cfg
+TP-tac
+TF-user.r
+MF-pubprn.vbs
+MF-raw.githubusercontent.c
+MF-secret.c
+MF-httpd.c
+MF-cron.a
+MP*-grep
+MP*-dirb
+MF-inetd.c
+56
+0 1 IJ
+0 2 ST
+1 2 ST
+0 3 UK
+1 4 WR
+1 5 RD
+1 6 IJ
+2 6 RF
+6 4 WR
+6 5 WR
+1 7 WR
+6 7 EX
+1 8 EX
+6 8 WR
+1 9 IJ
+9 2 ST
+9 4 RD
+9 5 RD
+6 9 IJ
+9 7 RD
+9 8 EX
+1 10 CD
+6 10 WR
+9 10 WR
+1 11 EX
+6 11 RD
+9 11 RD
+6 12 WR
+9 12 RD
+6 13 RD
+9 13 RD
+6 14 WR
+9 14 EX
+6 15 RD
+9 15 WR
+6 16 FR
+16 7 WR
+16 8 EX
+9 16 IJ
+16 10 WR
+16 11 EX
+16 12 RD
+16 13 CD
+16 14 WR
+16 15 WR
+17 7 WR
+17 8 EX
+9 17 IJ
+17 10 EX
+17 11 WR
+17 12 RD
+17 13 WR
+17 14 RD
+17 15 WR
+16 17 UK
+9 18 UK
+

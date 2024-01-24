@@ -1,0 +1,107 @@
+30
+MP*-cat
+MF-da-ks.cfg
+MF-2017.pl
+MP*-chmod
+MP-iptables
+SO-192.168.10.130
+MF-s.c
+MF-alertConfigField.php
+TF-art.sh
+MF-ttpd.c
+MF-logrotate.c
+MP*-bash
+MP-ssh
+SO-192.168.47.155:4444
+MP*-cat
+TF-httpd.c
+MF-ret.c
+TF-pd.c
+MF-access.txt
+MF-rockyou.txt
+SF-echo-art-fish.sh
+MF-passwd.zip
+SO-192.168.47.155
+MF-s.c
+MP-pr
+MP-uname
+SF-raw.githubusercontent.c
+SO-192.168.47.155:4444
+MF-at.a
+MP-nl
+74
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 WR
+4 2 CD
+5 0 RF
+3 5 ST
+5 4 RF
+0 6 CD
+3 6 RD
+4 6 WR
+0 7 EX
+3 7 WR
+4 7 UK
+0 8 RD
+3 8 WR
+0 9 RD
+3 9 RD
+3 10 RD
+11 2 EX
+11 5 ST
+11 6 WR
+11 8 WR
+11 9 WR
+11 10 EX
+3 12 UK
+13 11 RF
+14 5 ST
+14 6 RD
+14 8 RD
+14 9 RD
+14 10 WR
+14 13 ST
+11 15 RD
+14 15 WR
+11 16 WR
+14 16 WR
+11 17 RD
+14 17 RD
+11 18 WR
+14 18 WR
+11 19 RD
+14 19 EX
+11 20 CD
+14 20 RD
+11 21 RD
+14 21 EX
+22 14 RF
+14 23 WR
+14 24 FR
+24 15 WR
+24 16 RD
+24 17 WR
+24 18 WR
+24 19 EX
+24 20 RD
+24 21 WR
+24 22 ST
+24 23 WR
+25 15 RD
+25 16 WR
+25 17 WR
+25 18 WR
+25 19 UK
+24 26 WR
+24 27 ST
+24 28 WR
+29 21 CD
+29 22 ST
+29 23 WR
+24 29 UK
+

@@ -1,0 +1,152 @@
+41
+MP*-tshark
+MF-AutoSUID.sh
+SF-data.zip
+MP-tee
+MP-echo 
+MF-atomic.sh
+SO-http://192.168.206.137:8080/robots.txt
+MF-settings.php
+SF-image.php
+MP-iptables
+MP-ls
+TP-nl
+MP-clang++
+SF-syslog.c
+MP-cat
+MP-whoami
+MF-os.exe
+SO-atomic@target.example
+TP-perl
+MP-sudo
+MP-df
+TP-nmap
+MP-chmod
+TP*-bash
+TP*-cat
+SF-ufw.c
+MF-atomic.log
+TP*-sed
+MP-ls
+MP-less
+TP-ls
+MP-tac
+MF-image.php
+SO-192.168.47.155
+MF-http.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP-searchsploit
+SO-http://192.168.0.134/passwd
+MP-sed
+TP-cat
+TF-atomic.sh
+108
+0 1 CD
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 WR
+4 2 UK
+0 5 RD
+3 5 EX
+6 0 RF
+6 3 RF
+0 7 RD
+3 7 WR
+0 8 EX
+3 8 WR
+0 9 FR
+9 1 WR
+3 9 UK
+0 10 FR
+10 1 WR
+10 5 UK
+11 1 WR
+11 6 ST
+11 7 UK
+12 6 ST
+12 8 WR
+12 13 RD
+14 6 ST
+14 8 RD
+12 14 UK
+15 6 ST
+15 8 WR
+15 13 RD
+15 16 WR
+17 15 RF
+18 8 WR
+18 13 RD
+15 18 UK
+19 13 EX
+19 16 WR
+17 19 RF
+20 13 UK
+21 16 WR
+17 21 RF
+19 21 IJ
+22 16 RD
+17 22 RF
+19 22 UK
+23 16 WR
+17 23 RF
+21 23 IJ
+24 16 WR
+17 24 RF
+21 24 IJ
+23 24 IJ
+21 25 WR
+23 25 EX
+24 25 RD
+21 26 RD
+23 26 WR
+24 26 WR
+17 27 RF
+21 27 IJ
+23 27 IJ
+24 27 IJ
+27 25 RD
+27 26 WR
+21 28 FR
+23 28 IJ
+24 28 UK
+21 29 FR
+23 29 UK
+21 30 IJ
+30 25 RD
+30 26 RD
+27 30 IJ
+21 31 FR
+31 25 WR
+31 26 WR
+27 31 IJ
+30 31 IJ
+27 32 WR
+30 32 WR
+31 32 WR
+33 27 RF
+30 33 ST
+31 33 ST
+27 34 WR
+30 34 RD
+31 34 UK
+27 35 ST
+30 35 ST
+36 26 EX
+27 36 UK
+30 37 ST
+30 38 FR
+38 32 WR
+33 38 RF
+35 38 RF
+38 37 ST
+30 39 FR
+39 32 EX
+33 39 RF
+35 39 RF
+39 37 ST
+38 39 UK
+30 40 WR
+

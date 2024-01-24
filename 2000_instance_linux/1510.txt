@@ -1,0 +1,56 @@
+16
+MP-pr
+MF-raj.txt
+SF-shell.cgi
+MP*-bash
+MF-T1027-004-test.c
+TP-curl
+MF-ttpd.c
+TF-settings.php
+MF-td.c
+MP*-sudo
+MF-f.r
+MP-wfuzz
+MF-lv.c
+TP*-echo
+MP*-bash 
+MP-awk
+37
+0 1 RD
+0 2 UK
+3 1 RD
+3 4 RD
+5 1 WR
+3 5 IJ
+5 4 WR
+3 6 RD
+5 6 WR
+3 7 WR
+5 7 RD
+3 8 EX
+5 8 UK
+9 1 RD
+9 4 WR
+9 6 WR
+9 7 WR
+3 10 RD
+9 10 WR
+11 1 WR
+3 11 UK
+9 12 WR
+13 4 RD
+13 6 RD
+13 7 EX
+9 13 IJ
+13 10 RD
+13 12 WR
+14 4 RD
+14 6 WR
+14 7 EX
+14 10 WR
+14 12 WR
+13 14 UK
+15 6 WR
+15 7 WR
+9 15 UK
+

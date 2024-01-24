@@ -1,0 +1,43 @@
+13
+MP*-df1f94243f99b25fea44d17750d24d04.exe 
+TP*-test de fdp.exe 
+MF-\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d.zip
+MF-Firefox\default-browser-agent.exe
+TF-\Recovery\345b46fe-a9f9-11e7-a83c-e8a4f72b1d33\WinRAR.exe
+TP-StormKittyBuild.exe 
+MP*-nsBB14.tmp
+MP-DIXRAT.exe 
+TP-vssvc.exe
+MP*-Reg.exe
+MF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth.exe
+MP-_vnw.exe
+TP-choice.exe
+27
+0 1 IJ
+0 2 RD
+1 2 WR
+0 3 WR
+1 3 RD
+0 4 WR
+1 4 WR
+0 5 FR
+1 5 IJ
+5 2 UK
+0 6 FR
+1 6 IJ
+6 3 WR
+6 4 RD
+0 7 FR
+1 7 UK
+0 8 UK
+9 3 WR
+9 4 WR
+6 10 WR
+9 10 WR
+11 3 RD
+11 4 WR
+6 11 UK
+12 3 WR
+12 4 RD
+9 12 UK
+

@@ -1,0 +1,84 @@
+27
+MP*-сsrss.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\d6405410.exe
+MF-NamedPipeSystem.ps1
+TP*-FISCALIA GENERAL DE LA NACION --.exe 
+MF-C:\Windows\SysWOW64\ytqpvkdx\vlliugwu
+TP-dkeyauth.exe 
+MF-\Windows\System32\sdiagnhost.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmpA5B6.tmp
+TF-%tmp%\T1106.exe
+MF-C:\Users\admin\AppData\Local\Temp\bltf.exe
+MF-NamedPipeSystem.ps1
+MP*-some_malicious_file.bin.exe
+TP-mimikatz.exe
+MP-DriverFiles_8a39eacf3b01f2a8c3032697a9824211.exe 
+MF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild.exe
+MP-SearchFilterHost.exe
+SF-C:\Edge
+MP*-nsD38B.tmp
+MF-%TEMP%\test.bin
+TP-nanodump.x64.exe
+SF-C:\Users\admin\AppData\Roaming\XClient
+MP-StormKittyBuild.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037
+TF-C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Crashpad
+MF-files\30802.ico.txt
+SF-C:\Windows\System32\slui.exe
+54
+0 1 ST
+0 2 RD
+0 3 CD
+0 4 IJ
+4 1 ST
+4 2 RD
+4 3 EX
+0 5 RD
+4 5 WR
+0 6 IJ
+6 1 ST
+6 2 EX
+6 3 WR
+4 6 IJ
+6 5 RD
+0 7 RD
+4 7 WR
+6 7 WR
+0 8 WR
+4 8 RD
+6 8 WR
+0 9 RD
+4 9 WR
+6 9 WR
+0 10 WR
+4 10 UK
+6 11 RD
+12 2 WR
+12 3 EX
+12 5 RD
+6 12 IJ
+12 7 WR
+12 8 WR
+12 9 RD
+12 11 WR
+13 3 WR
+13 5 UK
+6 14 UK
+12 15 RD
+16 7 RD
+16 8 WR
+16 9 UK
+12 17 UK
+18 8 WR
+18 11 WR
+18 15 RD
+18 19 WR
+20 11 UK
+18 21 WR
+22 15 UK
+18 23 WR
+18 24 RD
+18 25 WR
+18 26 UK
+

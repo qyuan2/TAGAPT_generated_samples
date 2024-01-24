@@ -1,0 +1,58 @@
+17
+MP*-02867fa8b443043ec0fe6af211c852aa.exe 
+MF-7.1.exe
+MF-C:\Program Files\FDRLab\Avi Previewer DEMO\avi_previewer_demo.exe
+MP-gpresult.exe
+MF-\Windows\System32\cmd.exe\mshta.exe
+MP-shutdown.exe
+SF-C:\Users\admin\AppData\Local\Temp\Poison
+MF-C:\Windows\System32\cscript
+MP-Purchase_ORDERS087.scr
+TP*-AdFind.exe
+SO-https://download.anydesk.com/AnyDesk.exe
+MP*-wmic.exe
+SF-C:\Users\admin\AppData\Local\Temp\ycard.mp4
+MP*-Explorer.EXE
+MF-\Users\admin\AppData\Local\Temp\UN.php
+SO-http://199.247.25.79/get.php
+MP-services.exe
+38
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 EX
+3 2 WR
+0 4 CD
+3 4 RD
+0 5 UK
+3 6 WR
+3 7 RD
+8 1 WR
+8 2 WR
+3 8 UK
+9 1 WR
+9 2 WR
+9 4 RD
+9 6 EX
+9 7 EX
+10 9 RF
+11 1 RD
+11 2 RD
+11 4 RD
+11 6 WR
+11 7 EX
+9 11 IJ
+11 10 ST
+9 12 WR
+11 12 EX
+13 4 RD
+13 6 RD
+13 7 CD
+9 13 IJ
+13 10 ST
+11 13 UK
+9 14 WR
+15 9 RF
+16 7 WR
+9 16 UK
+

@@ -1,0 +1,30 @@
+11
+MP*-paste
+MF-cron.m
+MP*-nl
+MP*-grep
+TP*-ip
+MP-cd
+MF-www.google.c
+SO-192.168.10.129
+MF-target.example.c
+SO-192.168.10.135
+SF-da-ks.cfg
+16
+0 1 EX
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 FR
+4 1 EX
+0 5 FR
+5 1 EX
+4 5 UK
+0 6 WR
+0 7 ST
+0 8 WR
+0 9 ST
+0 10 UK
+

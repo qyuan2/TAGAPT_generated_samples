@@ -1,0 +1,68 @@
+20
+MP*-sed
+SF-ufw.log
+MP*-tail
+MP-bash
+SO-192.168.2.102
+SF-bash_completion.sh
+MP-uname
+MF-e2.c
+MP-sed
+TP*-xwd
+TP*-grep
+TF-T1070.004-test.txt
+TP-awk
+MF-locale.c
+MF-2017.pl
+SO-192.168.10.129
+MF-subprocess.c
+SF-sysctl.c
+MF-T1574.006.c
+TF-raft-medium-directories.txt
+45
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+0 4 ST
+2 4 ST
+3 4 ST
+0 5 CD
+2 5 WR
+3 5 WR
+0 6 FR
+6 1 UK
+0 7 EX
+2 7 WR
+3 7 RD
+0 8 FR
+3 8 UK
+0 9 FR
+2 9 IJ
+9 4 ST
+9 5 WR
+9 7 WR
+0 10 IJ
+2 10 IJ
+10 4 ST
+10 5 EX
+10 7 RD
+9 10 IJ
+2 11 WR
+9 11 RD
+10 11 WR
+2 12 FR
+12 4 ST
+12 5 RD
+12 7 WR
+9 12 IJ
+10 12 UK
+9 13 EX
+9 14 CD
+9 15 ST
+9 16 WR
+9 17 RD
+9 18 RD
+9 19 WR
+

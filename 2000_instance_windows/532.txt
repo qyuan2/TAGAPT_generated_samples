@@ -1,0 +1,33 @@
+11
+MP*-Order Confirmation.exe 
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+TP-pr2.exe 
+MP*-GLJBD24.tmp
+TP*-c3c6a5675d32fe330b83debceb63d60e.exe 
+TF-\Users\admin\AppData\Local\Temp\Setup.zip
+MF-C:\Windows\system32\certutil
+MP-file.exe
+MP*-nsA0C0.tmp 
+MF-C:\Program Files\Bandizip\data\RegDll
+TP-Scan20230717_newshipment 202333pdf.exe
+19
+1 0 RF
+0 2 FR
+1 2 RF
+0 3 FR
+3 1 ST
+2 3 UK
+0 4 IJ
+4 1 ST
+0 5 RD
+4 5 RD
+0 6 RD
+4 6 UK
+0 7 UK
+8 1 ST
+8 5 WR
+8 9 EX
+1 10 RF
+10 5 RD
+8 10 UK
+

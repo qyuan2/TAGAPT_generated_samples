@@ -1,0 +1,141 @@
+38
+MP*-nmap.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+TP-desktopimgdownldr.exe
+TP-aafg31.exe 
+SO-https://class.malware.re
+MF-C:\Program Files\Microsoft\Edge\Application\msedge
+MF-C:\Users\admin\AppData\Local\Temp\LZ4
+MF-\savesdllNetdhcp\QaIkP3xSjipt1.bat
+MP-Powershell.exe
+MP-vLocalServerSetup.exe
+MF-C:\Users\admin\AppData\Roaming\rPYrMQo\dvRzzWRPw.exe
+TF-C:\Program Files\KMSpico\scripts\Install_Task.cmd
+TP-SSLplus.exe
+MF-345678.exe
+SO-hxxp://68.183.9[.]9/get.php
+SF-C:\Users\admin\Desktop\WinAPIOverride
+SF-C:\Users\admin\AppData\Local\Temp\Files\Obfuscate
+MP*-InstaBotPro (1).exe 
+MP*-query.exe
+TF-\Users\admin\AppData\Local\Temp\IMG_4096.HEIC.jpg
+SF-C:\TalkWorld\talkworld
+MP*-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+MP-bb.exe 
+MF-\Windows\servicing\TrustedInstaller.exe
+MP-WinRAR.exe 
+MP-468C.exe
+MP-Poison.scr 
+TP-hh.exe 
+TP-Pago fra.exe 
+MP-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+MP-ROUTE.EXE
+SF-C:\Users\admin\Adobe\AdobeTray.exe
+MF-\Users\admin\AppData\Local\Temp\file.exe
+MF-.\ExternalPayloads\PsExec.exe
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+MP-PAGO DE FACTURA PENDIENTE.bin.exe 
+MF-\Users\admin\AppData\Local\Temp\D911.exe
+MP-damianocrnofj6793.exe
+100
+0 1 ST
+0 2 IJ
+1 2 RF
+0 3 FR
+1 3 RF
+2 3 IJ
+4 0 RF
+2 4 ST
+3 4 ST
+0 5 WR
+2 5 RD
+3 5 WR
+0 6 EX
+2 6 WR
+3 6 RD
+0 7 WR
+2 7 WR
+3 7 WR
+0 8 UK
+1 9 RF
+2 9 UK
+3 10 RD
+3 11 RD
+3 12 IJ
+4 12 RF
+12 5 RD
+12 6 WR
+12 7 WR
+12 10 WR
+12 11 RD
+12 13 WR
+14 12 RF
+12 15 WR
+12 16 EX
+17 7 RD
+17 10 WR
+17 11 WR
+12 17 IJ
+17 13 EX
+14 17 RF
+17 15 UK
+18 10 WR
+18 11 WR
+12 18 IJ
+18 13 WR
+14 18 RF
+18 16 WR
+12 19 RD
+18 19 RD
+12 20 WR
+18 20 WR
+21 11 WR
+12 21 IJ
+21 13 RD
+14 21 RF
+21 16 RD
+21 19 WR
+21 20 WR
+12 22 UK
+18 23 RD
+21 23 RD
+14 24 RF
+24 16 WR
+18 24 UK
+25 16 WR
+25 19 EX
+25 20 RD
+21 25 UK
+26 16 EX
+26 19 RD
+26 20 EX
+26 23 WR
+27 19 RD
+27 20 WR
+27 23 EX
+26 27 IJ
+28 19 UK
+29 20 WR
+29 23 CD
+26 29 UK
+30 20 WR
+30 23 WR
+27 30 IJ
+27 31 WR
+30 31 WR
+27 32 WR
+30 32 WR
+27 33 WR
+30 33 RD
+27 34 WR
+30 34 RD
+27 35 IJ
+30 35 UK
+27 36 WR
+27 37 IJ
+37 31 EX
+37 32 WR
+37 33 WR
+37 34 WR
+37 36 UK
+

@@ -1,0 +1,56 @@
+17
+MP*-bash
+TP-arp-scan
+SF-2017.pl
+TP-python
+MP*-sh
+TP-head
+MP*-uname
+SF-C : \ProgramData\ThumbNail\thumbnail.db
+TP-cat
+MF-T1070.006-reference.txt
+TF-settings.php
+MP-less
+SO-192.168.47.155
+MP*-sed
+MP-paste
+TF-password-hash.sh
+MP-dd
+36
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 UK
+1 4 IJ
+4 2 RD
+1 5 FR
+5 2 CD
+4 5 UK
+1 6 FR
+6 2 WR
+1 7 WR
+6 7 EX
+1 8 FR
+8 2 EX
+6 8 IJ
+8 7 EX
+1 9 WR
+6 9 WR
+8 9 RD
+1 10 UK
+11 2 WR
+6 11 UK
+12 8 RF
+13 7 WR
+8 13 IJ
+13 9 WR
+13 12 ST
+14 7 RD
+8 14 IJ
+14 9 RD
+12 14 RF
+13 14 UK
+8 15 WR
+16 7 RD
+8 16 UK
+

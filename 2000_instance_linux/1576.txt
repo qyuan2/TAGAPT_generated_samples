@@ -1,0 +1,70 @@
+20
+MP*-cat
+TP*-less
+SO-192.168.10.128
+MP-cat
+SF-pd.c
+MP-cat
+TF-da-ks.cfg
+MF-CleaingScript.sh
+TP-ls
+TP-cat
+TF-secret.c
+MP*-bash
+MF-T1070.004-test.txt
+MF-Users.tar.gz
+MF-raft-medium-directories.txt
+SF-robots.txt
+MF-T1003.008.txt
+MP*-ls
+TF-test.txt
+MF-T1003.008.txt
+47
+0 1 FR
+2 0 RF
+2 1 RF
+0 3 FR
+1 3 UK
+0 4 WR
+0 5 FR
+5 2 ST
+5 4 CD
+0 6 RD
+5 6 RD
+0 7 EX
+5 7 WR
+0 8 FR
+2 8 RF
+8 4 WR
+5 8 IJ
+8 6 WR
+8 7 EX
+0 9 IJ
+2 9 RF
+9 4 WR
+5 9 IJ
+9 6 WR
+9 7 WR
+8 9 IJ
+0 10 RD
+5 10 WR
+8 10 WR
+9 10 WR
+11 2 ST
+11 4 RD
+5 11 UK
+8 12 RD
+9 12 WR
+8 13 WR
+9 13 WR
+8 14 WR
+9 14 WR
+8 15 WR
+9 15 WR
+8 16 WR
+9 16 WR
+17 7 RD
+8 17 UK
+9 18 WR
+9 19 RD
+

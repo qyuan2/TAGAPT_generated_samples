@@ -1,0 +1,49 @@
+14
+MP*-bash
+MF-user.r
+MF-art.sh
+MP*-rev
+MP*-whoami
+MF-da-ks.cfg
+TF-secret.c
+MF-common.txt
+MF-lighttpd.c
+TP*-cat
+TP-bash
+MF-te.c
+SF-cron.h
+MF-flag4.txt
+32
+0 1 EX
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 RD
+0 4 FR
+4 1 EX
+4 2 RD
+0 5 WR
+3 5 RD
+4 5 RD
+0 6 WR
+3 6 WR
+4 6 RD
+0 7 WR
+3 7 WR
+4 7 UK
+0 8 WR
+3 8 WR
+0 9 IJ
+9 1 CD
+9 2 WR
+3 9 IJ
+9 5 WR
+9 6 WR
+9 8 RD
+0 10 UK
+3 11 EX
+9 11 RD
+3 12 WR
+9 12 UK
+3 13 WR
+

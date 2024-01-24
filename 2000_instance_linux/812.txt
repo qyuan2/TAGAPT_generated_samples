@@ -1,0 +1,113 @@
+32
+MP-sudo
+SF-e.c
+MF-access.txt
+MF-password-hash.sh
+SO-192.168.206.136
+MF-pd.c
+MF-0*.txt
+MP-cat
+MP*-ip
+SO-192.168.206.0
+MF-T1070.006-reference.txt
+MP-cat
+TP-tail
+MF-te.c
+TF-atomic.log
+TP-df
+TP-bash
+MF-flag3.txt
+TP-id
+MF-raw.githubusercontent.c
+MP*-grep
+TP*-rev
+MP-grep
+MP*-chmod
+MP-touch
+MF-logrotate.c
+TF-loot.txt
+MP-sh
+SF-at.a
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TP-more
+MP-more
+78
+0 1 WR
+0 2 CD
+0 3 WR
+0 4 ST
+0 5 EX
+0 6 WR
+0 7 FR
+7 1 WR
+7 2 WR
+7 3 UK
+0 8 FR
+8 1 WR
+8 2 WR
+8 4 ST
+8 5 RD
+8 6 WR
+9 0 RF
+9 8 RF
+0 10 RD
+8 10 WR
+11 1 WR
+11 2 WR
+11 4 ST
+11 5 UK
+12 2 UK
+8 13 WR
+8 14 RD
+15 6 WR
+8 15 IJ
+15 9 ST
+15 10 UK
+16 6 RD
+8 16 IJ
+9 16 RF
+16 13 WR
+16 14 WR
+8 17 WR
+16 17 WR
+8 18 UK
+16 19 WR
+20 13 WR
+20 14 WR
+16 20 IJ
+20 17 WR
+20 19 CD
+21 13 RD
+21 14 CD
+16 21 IJ
+21 17 RD
+21 19 WR
+20 21 IJ
+22 13 RD
+22 14 WR
+16 22 IJ
+22 17 EX
+22 19 UK
+23 13 EX
+23 14 WR
+16 23 IJ
+23 17 WR
+21 23 UK
+24 14 RD
+16 24 UK
+20 25 WR
+20 26 RD
+27 17 RD
+27 25 WR
+27 26 RD
+20 28 WR
+27 28 RD
+29 20 RF
+27 29 ST
+20 30 IJ
+30 25 WR
+30 26 CD
+27 30 UK
+31 25 WR
+31 26 UK
+

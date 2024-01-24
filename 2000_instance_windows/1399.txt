@@ -1,0 +1,35 @@
+12
+MP*-Heapman45.exe 
+TP-cscript.exe
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+MP-ngen.exe
+MF-C:\Users\admin\AppData\Local\Google\Chrome\User
+TP*-dllhоst.exe 
+MP*-iexplore.exe
+SF-C:\Users\admin\AppData\Local\Temp\Host
+MF-C:\Users\admin\AppData\Local\Temp\Payroll_2022
+MF-C:\Users\User\8527
+MP*-444444.png.png.exe 
+SF-C:\Users\admin\AppData\Local\Lluanj\eroykvous
+20
+0 1 IJ
+2 0 RF
+1 2 ST
+0 3 UK
+1 4 WR
+1 5 FR
+2 5 RF
+5 4 EX
+1 6 IJ
+6 2 ST
+6 4 RD
+5 6 UK
+1 7 WR
+1 8 RD
+1 9 WR
+1 10 FR
+10 2 ST
+10 4 RD
+10 7 UK
+1 11 WR
+

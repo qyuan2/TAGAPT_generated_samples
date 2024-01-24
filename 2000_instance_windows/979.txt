@@ -1,0 +1,158 @@
+49
+MP*-pdates.exe 
+TP-FISCALIA GENERAL DE LA NACION --.exe 
+SF-C:\Program files\appdata\local\temp\19084
+MP-AppLaunch.exe
+TP-prevhost.exe
+TP-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MP-Overbygningsuddannelsens.exe
+MP-Overbygningsuddannelsens.exe
+MP-mshta.exe
+TP-soa PDF.exe
+MF-C:\Windows\system32\net
+MF-C:\Windows\System32\NOTEPAD
+MP-firefox.exe
+MP-ntdsutil.exe
+SF-C:\Users\admin\skmt-bankinter-003-03588993232059560257100458.jar
+MF-C:\Program Files\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+MF-C:\Windows\SYSTEM32\WISPTIS
+MF-files\30802.ico.vb
+TP-PsExec.exe
+MP-NOTEPAD.EXE
+MP*-WINWORD.EXE
+TP*-nltest.exe
+TP-Outflank-Dumpert.exe
+MP-AppLaunch.exe
+SF-C:\Users\admin\AppData\Local\Temp\RE_PENDING
+MF-C:\Users\admin\AppData\Local\Temp\tmp99E0
+TP-GLJBD24.tmp
+MP-nsCCFE.tmp
+MF-Users\{90140000-0017-0411-0000-0000000FF1CE}-C\SearchProtocolHost.exe
+MF-C:\Program files\delve
+SF-C:\Users\admin\AppData\Local\Google\Chrome\User
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsD38B.tmp
+MP-nethtsrv.exe
+MF-C:\Windows\System32\cscript
+MF-C:\Windows\System32\msiexec
+MF-class.malware.r
+MF-\Edge.js
+MP-863e7c22c771e4005197ae28363584f8.exe 
+MP-HxDSetup.exe 
+SF-C:\Program files\appdata\local\temp\14612
+MP*-oneetx.exe
+MF-C:\Users\Public\Videos\videotv.m3u
+SF-C:\Users\admin\AppData\Local\Temp\script.js
+MF-C:\Program files\appdata\local\temp\desert
+MP-KLSetup.exe.scr
+TF-C:\Users\admin\AppData\Local\Temp\tmp15B6.tmp
+MF-pg_ctl.exe
+TP-MicrosoftEdgeUpdate.exe
+TP-msiexec.exe
+106
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 FR
+1 3 IJ
+3 2 EX
+0 4 IJ
+1 4 IJ
+4 2 WR
+3 4 IJ
+0 5 IJ
+1 5 UK
+0 6 FR
+6 2 WR
+4 6 UK
+0 7 FR
+7 2 WR
+3 7 UK
+0 8 FR
+8 2 RD
+0 9 UK
+8 10 WR
+8 11 WR
+8 12 UK
+13 10 WR
+13 11 EX
+13 14 RD
+13 15 WR
+13 16 WR
+13 17 WR
+18 10 WR
+18 11 RD
+13 18 IJ
+18 14 UK
+19 10 WR
+19 11 WR
+13 19 UK
+20 10 RD
+20 11 WR
+20 15 WR
+20 16 WR
+20 17 WR
+21 11 WR
+21 15 RD
+21 16 EX
+21 17 WR
+20 21 IJ
+22 15 UK
+23 16 CD
+23 17 RD
+20 23 UK
+21 24 WR
+21 25 WR
+26 17 UK
+21 27 FR
+27 24 RD
+27 25 CD
+21 28 WR
+27 28 RD
+21 29 RD
+27 29 RD
+21 30 WR
+27 30 WR
+27 31 RD
+32 24 WR
+32 25 EX
+27 33 RD
+27 34 RD
+27 35 RD
+27 36 RD
+27 37 FR
+37 28 WR
+37 29 WR
+37 30 UK
+38 28 CD
+38 29 WR
+38 31 WR
+38 33 RD
+38 34 WR
+38 35 RD
+38 36 WR
+38 39 WR
+40 31 WR
+40 33 WR
+40 34 WR
+40 35 WR
+40 36 EX
+40 39 WR
+38 41 EX
+40 41 WR
+38 42 WR
+40 42 RD
+38 43 RD
+40 43 RD
+44 34 RD
+44 35 RD
+44 36 WR
+38 44 UK
+40 45 EX
+40 46 WR
+47 39 RD
+40 47 UK
+48 39 WR
+48 41 WR
+48 42 EX
+48 43 UK
+

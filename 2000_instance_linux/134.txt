@@ -1,0 +1,93 @@
+30
+MP*-nl
+TF-user.r
+MF-data.zip
+TP-find
+MP-cat
+SF-victim-gzip.txt
+SF-AutoSUID.sh
+SF-d.c
+MF-lighttp.c
+SF-victim-shred.txt
+TF-inetd.c
+MP*-more
+TF-settings.php
+MF-td.c
+TP-sed
+MF-T1074.001_discovery.log
+MP-less
+MP*-awk
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+TP*-cat
+MF-T1074.001_discovery.log
+MF-f.r
+SO-192.168.10.133
+MF-art.sh
+MP-ls
+MF-rockyou.txt
+TF-www.google.c
+MF-ret.c
+SO-192.168.2.102
+TP-grep
+60
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 UK
+0 5 CD
+3 5 WR
+0 6 WR
+3 6 WR
+0 7 CD
+3 7 WR
+0 8 WR
+3 8 EX
+0 9 UK
+3 10 UK
+11 5 WR
+11 6 WR
+11 7 WR
+11 8 RD
+11 12 WR
+11 13 RD
+14 5 WR
+14 6 RD
+14 7 WR
+14 8 UK
+11 15 WR
+16 7 RD
+11 16 UK
+17 12 RD
+17 13 WR
+17 15 WR
+18 17 RF
+19 12 WR
+19 13 WR
+19 15 EX
+17 19 IJ
+19 18 ST
+17 20 WR
+19 20 WR
+17 21 WR
+19 21 RD
+22 17 RF
+19 22 ST
+17 23 RD
+19 23 WR
+24 15 EX
+17 24 UK
+19 25 WR
+19 26 RD
+19 27 EX
+28 19 RF
+29 20 WR
+29 21 WR
+29 22 ST
+29 23 RD
+29 25 RD
+29 26 WR
+29 27 UK
+

@@ -1,0 +1,43 @@
+12
+MP*-Reader_sl.exe
+TF-\Users\admin\AppData\Local\Temp\c3c6a5675d32fe330b83debceb63d60e.exe
+MP*-WinAPIOverride 6.9.1.exe
+MF-C:\Users\admin\AppData\LocalLow\Microsoft\Internet Explorer\DOMStore\reviewref_protected
+MF-22731610.pdf
+MP-saves.exe
+MF-CSIDL_COMMON_MUSIC\mediatv.mov
+TP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MP-runas.exe
+MF-C:\Program Files\Microsoft\Skype for Desktop\Skype
+MP*-Setup.exe
+28
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 RD
+0 4 RD
+2 4 WR
+0 5 FR
+5 1 RD
+2 5 UK
+0 6 WR
+0 7 IJ
+7 1 WR
+7 3 WR
+7 4 WR
+7 6 WR
+8 0 RF
+7 8 ST
+0 9 FR
+9 1 RD
+9 3 WR
+9 4 UK
+0 10 WR
+7 10 WR
+11 1 WR
+11 3 WR
+11 6 WR
+7 11 UK
+

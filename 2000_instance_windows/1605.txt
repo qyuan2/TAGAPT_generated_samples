@@ -1,0 +1,84 @@
+27
+MP*-sdbinst.exe
+MP-setspn.exe
+TP-jsIXhU
+TP*-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MF-30802.ico.vb
+MF-00002.htm
+MF-C:\Users\admin\Desktop\Thursday
+MF-C:\Users\Public\audiodg.exe
+SF-C:\Program Files\JJSploit\JJSploit.exe
+TP-gsecdump.exe
+MP-msxsl.exe
+TF-C:\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV.exe
+MF-c:\temp\atomictestfile
+TP-crackmapexec.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+MF-C:\Users\admin\AppData\Local\Temp\JAVA
+MP*-ie_to_edge_stub.exe
+MP*-MpCmdRun.exe
+TF-Downloader_Rz-OfD1.exe
+MF-C:\Users\admin\AppData\Local\Temp\C3B1
+SF-C:\Program Files\Internet Explorer\iexplore
+SO-https://vision.fn-pz.com
+MF-C:\Users\admin\AppData\Local\Temp\is-Q8VQL.tmp
+MP-file.exe 
+MF-dark.exe
+MF-7.1.exe
+MP-softwarelagswitchc.exe 
+54
+0 1 FR
+0 2 IJ
+1 2 UK
+0 3 FR
+0 4 CD
+3 4 EX
+0 5 WR
+3 5 WR
+0 6 WR
+3 6 WR
+0 7 RD
+3 7 WR
+0 8 WR
+3 8 UK
+0 9 FR
+9 4 WR
+9 5 RD
+9 6 WR
+9 7 RD
+0 10 UK
+9 11 RD
+9 12 RD
+13 4 WR
+13 5 WR
+13 6 EX
+13 7 WR
+9 13 IJ
+13 11 WR
+13 12 WR
+9 14 ST
+14 13 RF
+9 15 UK
+16 6 WR
+16 7 RD
+16 11 RD
+16 12 UK
+17 7 WR
+17 11 RD
+13 17 IJ
+17 14 ST
+13 18 RD
+17 18 WR
+13 19 WR
+17 19 WR
+13 20 WR
+17 20 WR
+13 21 ST
+17 21 ST
+13 22 RD
+17 22 WR
+13 23 UK
+17 24 CD
+17 25 EX
+17 26 UK
+

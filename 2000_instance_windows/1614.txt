@@ -1,0 +1,66 @@
+16
+MP*-regsvr32.exe
+SO-1.2.840.113556
+MP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+MP*-WinRAR.exe 
+TP-DllHost.exe
+TP-vssadmin.exe
+MF-C:\Users\Public\Libraries
+MF-files\appdata\local\temp\20342.bmp
+SF-C:\Program Files\OneDrive
+TP*-ProcessHacker.exe 
+MP*-wmpnscfg.exe
+TP-Reader_sl.exe 
+TP-rPO59687543.exe 
+MP-pdates.exe 
+SO-https://pasalaganando.com/?utm_source=crm&utm_medium=email&utm_campaign=bancolombia_10_pct_facturacion
+MP-renamer-7.5.exe
+47
+0 1 ST
+0 2 UK
+1 3 RF
+4 1 ST
+3 4 IJ
+1 5 RF
+3 5 IJ
+4 5 IJ
+3 6 RD
+4 6 RD
+5 6 WR
+3 7 RD
+4 7 RD
+5 7 RD
+3 8 WR
+4 8 WR
+5 8 EX
+9 1 ST
+3 9 IJ
+4 9 IJ
+5 9 IJ
+9 6 WR
+9 7 WR
+9 8 WR
+10 1 ST
+4 10 IJ
+5 10 IJ
+10 6 EX
+10 7 RD
+10 8 RD
+9 10 IJ
+11 1 ST
+3 11 UK
+4 12 IJ
+5 12 UK
+4 13 FR
+13 6 WR
+13 7 WR
+13 8 WR
+9 13 IJ
+10 13 UK
+4 14 ST
+14 9 RF
+15 6 RD
+15 7 WR
+15 8 WR
+9 15 UK
+

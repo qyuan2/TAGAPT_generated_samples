@@ -1,0 +1,55 @@
+14
+MP*-tail
+MF-raft-large-directories.txt
+MF-cron.h
+MF-e2.c
+MP*-awk
+SF-T1027-004-test.c
+TF-LinEnum.sh
+SF-atomic.log
+MF-flag4.txt
+MF-te.c
+MP-netstat
+MP*-ls
+MP-less
+MP*-more
+38
+0 1 WR
+0 2 WR
+0 3 RD
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 WR
+0 5 RD
+4 5 WR
+0 6 WR
+4 6 WR
+0 7 WR
+4 7 EX
+0 8 WR
+4 8 WR
+0 9 WR
+4 9 RD
+0 10 FR
+10 1 WR
+10 2 WR
+10 3 EX
+4 10 UK
+11 1 WR
+11 2 WR
+11 3 EX
+11 5 WR
+11 6 WR
+11 7 RD
+11 8 WR
+11 9 RD
+12 2 WR
+12 3 UK
+13 5 WR
+13 6 RD
+13 7 RD
+13 8 WR
+13 9 WR
+11 13 UK
+

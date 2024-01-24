@@ -1,0 +1,70 @@
+22
+MP*-wscript.exe 
+MF-C:\Windows\system32\verclsid.exe
+MP-timeout.exe
+TP-Kulicib.exe 
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+SO-80.0.0.0
+MP-OperaSetup_UNO.exe
+SF-C:\Users\admin\AppData\Local\Temp\Kulicib.exe
+SF-HKLM\security
+MP-ExplorerSuite.tmp
+TF-C:\Users\admin\AppData\Local\Temp\FastLane.m
+MF-powershell.exe
+SF-C:\Windows\system32\cmd.exe
+SO-1.2.840.113556
+MP*-Test.exe 
+MP-msiexec.exe
+MP-ns9423.tmp 
+SF-C:\Users\admin\AppData\Local\Temp\Ashraf
+MP*-setup_avrokeyboard_5.6.0.exe
+MP-MsiExec.exe
+MP*-5EAD.exe
+45
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 IJ
+3 1 EX
+2 3 UK
+0 4 WR
+0 5 ST
+6 0 RF
+0 7 FR
+7 1 RD
+7 4 RD
+5 7 RF
+6 7 RF
+0 8 WR
+7 8 EX
+0 9 RD
+7 9 WR
+0 10 UK
+7 11 CD
+7 12 EX
+7 13 RD
+14 7 RF
+15 5 ST
+15 6 ST
+7 15 UK
+6 16 RF
+16 8 CD
+16 9 WR
+16 11 EX
+16 12 WR
+16 13 WR
+14 16 RF
+17 8 UK
+16 18 UK
+19 9 WR
+19 11 WR
+19 12 RD
+19 13 WR
+19 14 ST
+20 11 UK
+21 12 WR
+21 13 WR
+21 14 ST
+19 21 UK
+

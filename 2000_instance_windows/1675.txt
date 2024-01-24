@@ -1,0 +1,37 @@
+14
+MP*-tasklist.exe
+MF-C:\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8.exe
+MP-RdrCEF.exe
+MP*-main_bin.exe 
+MF-LICENSE.txt
+MF-\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539.doc
+MF-C:\Program Files\appdata\local\temp\deep
+MP*-OneDrive.exe 
+TP-ntdsutil.exe
+MF-C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content
+MF-c:\windows\ntds\ntds
+MF-\T1106.exe
+SF-C:\Users\admin\AppData\Local\Temp\aafg31.exe
+TP*-WISPTIS.EXE
+20
+0 1 WR
+0 2 UK
+3 1 EX
+3 4 WR
+3 5 CD
+3 6 EX
+7 1 WR
+7 4 EX
+7 5 WR
+7 6 EX
+8 1 RD
+3 8 UK
+7 9 WR
+7 10 EX
+7 11 EX
+7 12 WR
+13 4 EX
+13 5 WR
+13 6 RD
+7 13 UK
+

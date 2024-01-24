@@ -1,0 +1,39 @@
+12
+MP*-WISPTIS.EXE
+MP*-cmdkey.exe
+SF-C:\Users\admin\AppData\Local\Temp\setup_avrokeyboard_5
+TP-cmd.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+MF-%temp%\nanodump.dmp
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+TP*-diskshadow.exe
+MF-C:\Windows\System32\slui
+MF-\Users\admin\AppData\Local\Temp\vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+MF-\users\public\music\allthethingsx64.dll
+MP*-msedge.exe
+24
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 IJ
+1 3 UK
+0 4 ST
+0 5 RD
+6 0 RF
+0 7 IJ
+7 2 CD
+4 7 RF
+7 5 RD
+6 7 RF
+0 8 RD
+7 8 RD
+0 9 RD
+7 9 WR
+0 10 CD
+7 10 WR
+11 2 WR
+11 4 ST
+11 5 RD
+6 11 RF
+7 11 UK
+

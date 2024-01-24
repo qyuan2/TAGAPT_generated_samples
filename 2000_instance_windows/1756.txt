@@ -1,0 +1,64 @@
+19
+MP*-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+TP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MF-C:\Windows\System32\control
+MP*-facttura.exe
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsBDC5.tmp
+MP-damianocrnofj6793.exe
+MF-C:\Users\admin\AppData\Local\Temp\Document.pdf
+SF-C:\Users\admin\AppData\Local\Temp\GLJC215.tmp
+MP*-z0340383.exe
+MP*-ExplorerSuite.tmp
+MF-C:\Users\admin\AppData\Roaming\1.bat
+MP-ns99EC.tmp
+MP-6248.exe
+TP-mimikatz.exe
+MP-ns9E4A.tmp
+TP-pypykatz.py
+SF-C:\ServerComponenthostNet\z3dzg.bat
+MF-C:\Windows\System32\regsvr32
+MP-verclsid.exe
+42
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 FR
+1 3 IJ
+3 2 WR
+0 4 RD
+1 4 RD
+3 4 EX
+0 5 UK
+1 6 WR
+3 6 UK
+1 7 WR
+1 8 FR
+8 2 RD
+8 4 EX
+8 7 CD
+1 9 FR
+9 2 WR
+9 4 EX
+9 7 CD
+1 10 WR
+8 10 WR
+9 10 WR
+1 11 UK
+12 2 WR
+12 4 UK
+13 7 WR
+8 13 IJ
+9 13 IJ
+13 10 CD
+14 7 WR
+9 14 UK
+15 7 RD
+8 15 IJ
+15 10 WR
+13 15 UK
+8 16 WR
+8 17 EX
+18 10 WR
+18 16 RD
+18 17 UK
+

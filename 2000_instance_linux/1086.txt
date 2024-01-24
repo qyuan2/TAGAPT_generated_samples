@@ -1,0 +1,31 @@
+10
+MP*-less
+MF-shell.cgi
+MF-apache2.c
+TP*-cat
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-at.a
+MP*-tee
+MP*-bash
+SF-httpd.c
+SO-192.168.2.102
+18
+0 1 RD
+0 2 RD
+0 3 IJ
+3 1 WR
+3 2 UK
+0 4 ST
+0 5 RD
+0 6 FR
+6 1 RD
+6 4 ST
+6 5 RD
+0 7 FR
+7 1 WR
+7 4 ST
+7 5 WR
+6 7 UK
+0 8 CD
+0 9 ST
+

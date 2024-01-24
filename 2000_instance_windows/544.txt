@@ -1,0 +1,81 @@
+21
+MP*-vbs.exe
+MF-igfxsrvc.dll
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+SF-C:\Windows\system32\msiexec
+MP*-InstaBotPro (1).exe 
+MF-\Users\admin\AppData\Local\Temp\GLJC215.tmp
+MF-C:\Users\admin\AppData\Roaming\JavaNetworkServices86\dKEseX3QhmleytdFWRInDTBBZv.bat
+MF-msetup\akrienbeta.rar
+TP-fltmc.exe
+MF-C:\Windows\system32\prevhost.exe
+MP*-conhost.exe
+TP-explorer.exe
+TP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+MP-kkkkk.exe 
+SO-45.63.100.72
+TP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+SF-C:\Program Files\Hantek2xx2\STDFU
+MP-p2602380.exe
+MF-C:\Users\admin\AppData\Local\Temp\P
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt','Default_File_Path.ps1');IEX((-Join([IO.File]::ReadAllBytes('Default_File_Path.ps1')|ForEach-Object{[Char]$_
+TP-ma grosse bite.exe 
+57
+0 1 RD
+2 0 RF
+0 3 WR
+0 4 FR
+4 1 WR
+2 4 RF
+4 3 WR
+0 5 WR
+4 5 WR
+0 6 CD
+4 6 EX
+0 7 WR
+4 7 EX
+0 8 FR
+8 1 EX
+2 8 RF
+8 3 CD
+4 8 UK
+0 9 WR
+0 10 FR
+10 1 RD
+2 10 RF
+10 3 RD
+10 5 WR
+10 6 RD
+10 7 WR
+10 9 WR
+11 1 UK
+2 12 RF
+12 3 RD
+12 5 WR
+12 6 RD
+12 7 WR
+12 9 RD
+10 12 IJ
+13 3 UK
+14 10 RF
+12 14 ST
+15 5 WR
+15 6 RD
+15 7 WR
+15 9 RD
+10 15 IJ
+12 15 UK
+10 16 EX
+17 7 RD
+17 9 RD
+17 14 ST
+17 16 WR
+10 18 WR
+17 18 WR
+19 10 RF
+17 19 ST
+10 20 IJ
+14 20 RF
+20 16 WR
+17 20 UK
+

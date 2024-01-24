@@ -1,0 +1,63 @@
+18
+MP*-poweroff
+TP-less
+MP-bash
+TP-cat
+MF-lighttpd.c
+TP-iptables
+SF-on.a
+MF-2017.pl
+MF-access.txt
+MP*-less
+MF-1.zip
+SF-T1574.006.c
+MF-password-hash.sh
+MF-Users.tar.gz
+MP*-cat
+MP-bash 
+MF-victim-shred.txt
+MP*-head
+42
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 IJ
+1 3 UK
+0 4 WR
+2 4 RD
+0 5 FR
+2 5 UK
+0 6 EX
+0 7 RD
+0 8 EX
+0 9 FR
+9 4 RD
+9 6 WR
+9 7 RD
+9 8 RD
+0 10 WR
+9 10 CD
+9 11 WR
+9 12 RD
+9 13 WR
+14 4 CD
+14 6 RD
+14 7 WR
+14 8 RD
+14 10 WR
+14 11 RD
+14 12 WR
+14 13 RD
+15 6 RD
+15 7 WR
+15 8 RD
+9 15 UK
+14 16 WR
+17 7 EX
+17 8 RD
+17 10 WR
+17 11 WR
+17 12 EX
+17 13 EX
+14 17 UK
+

@@ -1,0 +1,48 @@
+15
+MP*-Client.exe 
+SF-C:\Users\admin\AppData\Local\Temp\mail
+MF-6.9.1.tmp
+MF-\Users\admin\AppData\Local\Temp\RunDRT-Office2016.bat.7z
+MF-C:\Users\admin\Desktop\AIGeneratedRansomware
+MF-\Users\admin\AppData\Roaming\rPYrMQo\dvRzzWRPw.exe
+MP-TrustedInstaller.exe
+MF-C:\Users\User\appdata\local\temp\rpvbh.jar
+MP*-rundll32.exe
+TP-lk.exe 
+SO-https://drimby.top/wndfi
+MP*-expo.exe
+SF-C:\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67
+TP*-nsCCFE.tmp
+TF-\Windows\system32\prevhost.exe
+30
+0 1 EX
+0 2 WR
+0 3 RD
+0 4 RD
+0 5 WR
+0 6 FR
+6 1 RD
+6 2 RD
+6 3 WR
+6 4 EX
+6 5 RD
+0 7 WR
+6 7 WR
+0 8 FR
+8 1 UK
+0 9 UK
+6 10 ST
+11 2 WR
+11 3 WR
+11 4 RD
+11 5 WR
+11 7 RD
+10 11 RF
+6 12 WR
+11 12 RD
+13 3 EX
+13 4 WR
+13 5 WR
+6 13 UK
+11 14 UK
+

@@ -1,0 +1,56 @@
+14
+MP*-systemd
+MF-resolv.c
+TF-atomic.log
+MP*-uname
+SO-http://192.168.10.128/shell.cgi
+SF-io.r
+MF-Microsoft created .msc files
+MF-lighttp.c
+MP*-sed
+MP-cat
+TP*-head
+SF-secret.c
+MF-e2.c
+MP-uname
+39
+0 1 RD
+0 2 RD
+0 3 FR
+3 1 RD
+3 2 WR
+4 0 RF
+4 3 RF
+0 5 WR
+3 5 EX
+0 6 WR
+3 6 EX
+0 7 WR
+3 7 WR
+0 8 FR
+8 1 RD
+8 2 RD
+8 4 ST
+8 5 WR
+8 6 CD
+8 7 EX
+0 9 FR
+9 1 RD
+9 2 WR
+3 9 UK
+0 10 FR
+10 1 EX
+10 2 WR
+4 10 RF
+10 5 WR
+10 6 EX
+10 7 RD
+8 10 IJ
+8 11 RD
+10 11 UK
+8 12 WR
+13 5 WR
+13 6 WR
+13 7 WR
+8 13 UK
+

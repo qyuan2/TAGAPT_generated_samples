@@ -1,0 +1,68 @@
+18
+MP*-jww825a.tmp 
+TF-C:\Program files\appdata\local\temp\17634
+MP-MpCmdRun.exe
+MP-hostname.exe
+MP*-wevtutil.exe
+SF-HKLM\system\currentcontrolset\services
+MF-\Users\admin\AppData\Local\Temp\file.exe
+MF-\Users\admin\AppData\Local\Temp\phish_alert_sp2_2.0.0.0.eml.msg
+SF-%temp%\T1140_calc.txt 
+MP-test de fdp.exe 
+TP*-vLocalServerSetup.tmp
+SO-10.0.0.00000
+MF-C:\Users\admin\AppData\Local\Temp\3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e
+MF-audio.m
+MP-MicrosoftEdgeUpdate.exe
+TP*-ping.exe
+MF-\Users\admin\AppData\Local\Temp\tmp4503.tmp
+MP-Updater.exe 
+47
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 FR
+4 1 EX
+0 5 WR
+4 5 RD
+0 6 RD
+4 6 EX
+0 7 CD
+4 7 EX
+0 8 WR
+4 8 WR
+0 9 FR
+9 1 RD
+4 9 UK
+0 10 FR
+10 1 WR
+10 5 CD
+10 6 WR
+10 7 WR
+10 8 CD
+10 11 ST
+10 12 RD
+10 13 RD
+14 5 WR
+14 6 RD
+14 7 WR
+14 8 WR
+10 14 UK
+15 5 WR
+15 6 RD
+15 7 WR
+15 8 WR
+11 15 RF
+15 12 WR
+15 13 WR
+15 16 RD
+17 7 RD
+17 8 WR
+11 17 RF
+17 12 WR
+17 13 WR
+15 17 UK
+

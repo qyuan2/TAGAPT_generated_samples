@@ -1,0 +1,106 @@
+30
+MP*-ls
+MP-less
+SO-192.168.206.0
+MP-nc
+MF-pd.c
+SF-data.tar.gz
+MF-user.r
+SF-password-hash.sh
+MP-halt
+MP-id
+SF-journald.c
+MF-art.sh
+SO-192.168.2.102
+MP-sed
+TP*-head
+MF-user.r
+MF-0*.txt
+MF-da-ks.cfg
+SO-192.168.2.102
+MF-atomic.sh
+MP*-su
+SO-192.168.10.129
+MP*-halt
+MF-Users.tar.gz
+MF-s.c
+SF-logrotate.c
+SF-da-ks.cfg
+MF-lighttp.c
+MP-head
+TP-sudo
+73
+0 1 FR
+0 2 ST
+2 1 RF
+0 3 FR
+3 2 ST
+0 4 WR
+1 4 EX
+3 4 WR
+0 5 CD
+1 5 WR
+3 5 UK
+0 6 WR
+1 6 WR
+1 7 WR
+1 8 UK
+9 2 ST
+9 4 WR
+9 6 EX
+9 7 WR
+9 10 RD
+9 11 WR
+12 9 RF
+13 4 WR
+13 6 EX
+13 7 WR
+9 13 UK
+14 6 EX
+14 7 WR
+14 10 WR
+14 11 CD
+14 12 ST
+14 15 WR
+14 16 EX
+14 17 WR
+18 14 RF
+14 19 WR
+20 10 RD
+20 11 WR
+20 12 ST
+14 20 IJ
+20 15 WR
+20 16 WR
+20 17 WR
+20 18 ST
+20 19 WR
+14 21 ST
+21 20 RF
+22 12 ST
+14 22 IJ
+22 15 WR
+22 16 EX
+22 17 EX
+18 22 RF
+22 19 RD
+21 22 RF
+14 23 WR
+20 23 WR
+22 23 WR
+14 24 RD
+20 24 WR
+22 24 WR
+20 25 WR
+22 25 WR
+20 26 WR
+22 26 WR
+20 27 WR
+22 27 RD
+28 18 ST
+28 19 WR
+21 28 RF
+22 28 UK
+29 19 WR
+20 29 UK
+

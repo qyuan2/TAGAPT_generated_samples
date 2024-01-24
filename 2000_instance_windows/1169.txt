@@ -1,0 +1,67 @@
+18
+MP*-MsBuild.exe
+MF-\Users\admin\AppData\Local\Temp\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7.zip
+TF-C:\Users\admin\AppData\Local\Temp\DOC77412.jpg
+MP-Enquiry No. 1000341492.exe 
+MP-Scan20230717_newshipment 202333pdf.exe
+TF-C:\Program Files\appdata\local\temp\rpvbh
+TP*-vaultcmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\c3c6a5675d32fe330b83debceb63d60e
+MP-jww825a.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Test.exe
+SF-HKLM\Software\Microsoft\.NETFramework
+MP-ns9FC4.tmp
+MF-Files\Sinfor\Dkeyauth\dkeyauth.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmp4503.tmp
+TP*-468C.exe
+TF-taskdl.exe
+TP*-setup.exe
+TP-xordump.exe 
+46
+0 1 RD
+0 2 RD
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 FR
+4 1 RD
+4 2 RD
+3 4 UK
+0 5 EX
+0 6 FR
+6 1 WR
+6 2 WR
+6 5 WR
+0 7 WR
+6 7 WR
+0 8 FR
+8 1 RD
+8 2 WR
+8 5 UK
+6 9 WR
+6 10 WR
+11 2 WR
+6 11 IJ
+11 7 WR
+11 9 WR
+11 10 EX
+6 12 WR
+11 12 EX
+6 13 UK
+14 7 WR
+14 9 WR
+14 10 RD
+11 14 IJ
+14 12 WR
+11 15 WR
+14 15 EX
+16 7 EX
+16 9 RD
+16 10 WR
+11 16 IJ
+16 12 WR
+14 16 UK
+17 9 RD
+17 10 WR
+11 17 UK
+

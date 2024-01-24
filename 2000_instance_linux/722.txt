@@ -1,0 +1,80 @@
+20
+MP*-less
+TP-bash
+SO-http://192.168.0.134/passwd
+MF-T1574.006.c
+SF-2017.pl
+MF-LinEnum.sh
+MF-apache2.c
+SO-192.168.206.136
+MF-syslog.c
+MF-s.c
+SF-cron.a
+MP*-cat
+MF-flag3.txt
+MP*-nl
+TP*-cat
+TP-cat
+TF-www.google.c
+MP-grep
+MF-image.php
+MP-cat
+57
+0 1 FR
+0 2 ST
+1 2 ST
+0 3 EX
+1 3 WR
+0 4 WR
+1 4 EX
+0 5 WR
+1 5 WR
+0 6 WR
+1 6 RD
+7 0 RF
+1 7 ST
+0 8 RD
+1 8 WR
+1 9 WR
+1 10 CD
+11 2 ST
+11 3 EX
+11 4 WR
+11 5 WR
+11 6 WR
+7 11 RF
+11 8 WR
+11 9 WR
+11 10 RD
+11 12 WR
+13 4 WR
+13 5 RD
+13 6 EX
+7 13 RF
+13 8 WR
+13 9 WR
+13 10 WR
+11 13 UK
+14 5 WR
+14 6 CD
+14 7 ST
+14 8 WR
+14 9 WR
+14 10 WR
+14 12 EX
+15 6 WR
+15 7 ST
+15 8 WR
+15 9 RD
+15 10 RD
+15 12 RD
+14 15 IJ
+14 16 WR
+15 16 UK
+17 8 RD
+17 9 UK
+14 18 RD
+19 10 RD
+19 12 RD
+14 19 UK
+

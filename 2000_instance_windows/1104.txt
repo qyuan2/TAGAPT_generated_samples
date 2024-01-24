@@ -1,0 +1,44 @@
+11
+MP*-pestudio.exe 
+MP*-rundll32.exe
+SF-C:\Program Files\JJSploit\JJSploit.exe
+MF-C:\Users\admin\AppData\Local\Temp\MyAccountSummary.zip
+MF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64
+SO-80.0.0.0
+MF-\Users\admin\AppData\Roaming\file.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmpCD64
+MP-ntvdm.exe
+TP*-nethtsrv.exe
+MP*-NilfiskServiceTool.exe
+30
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 RD
+1 3 WR
+0 4 RD
+1 4 WR
+5 0 RF
+1 5 ST
+0 6 RD
+1 6 WR
+0 7 RD
+1 7 EX
+0 8 FR
+1 8 UK
+0 9 FR
+9 2 WR
+9 3 RD
+9 4 EX
+9 5 ST
+9 6 WR
+9 7 RD
+0 10 FR
+10 2 WR
+10 3 RD
+10 4 WR
+10 5 ST
+10 6 WR
+10 7 EX
+9 10 UK
+

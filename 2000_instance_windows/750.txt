@@ -1,0 +1,38 @@
+11
+MP*-AdFind.exe
+MF-Ssms.exe
+MP*-ipconfig.exe
+TP*-firefox.exe 
+MF-C:\Users\admin\AppData\Local\Temp\jww825a.exe
+MF-C:\Users\admin\AppData\Roaming\JavaNetworkServices86\javaw
+TF-C:\Users\admin\Desktop\Dkx0i5ipj
+TP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+SF-C:\Users\admin\AppData\Local\Temp\factura
+MP*-6248.exe
+MP-nbtstat.exe
+24
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 IJ
+3 1 WR
+2 3 IJ
+0 4 WR
+2 4 RD
+3 4 EX
+0 5 RD
+2 5 RD
+3 5 WR
+0 6 WR
+2 6 WR
+3 6 RD
+0 7 FR
+7 1 RD
+2 7 UK
+0 8 RD
+3 8 RD
+0 9 FR
+9 1 RD
+3 9 UK
+0 10 UK
+

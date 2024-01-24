@@ -1,0 +1,89 @@
+25
+MP*-ls
+SO-http://192.168.0.134/passwd
+SO-127.0.0.1:8080
+SF-image.php
+MF-T1574.006.c
+SF-cron.m
+MF-cron.m
+MF-common.txt
+SF-user.r
+TP-more
+SO-192.168.10.129
+TP-ip
+MP*-cat
+SF-td.c
+TP*-less
+MF-td.c
+MF-bash_completion.sh
+SO-192.168.206.136
+MP-cat
+MF-raft-large-directories.txt
+MP-paste
+MP*-curl
+MF-user.r
+SO-192.168.10.131
+TP-netstat
+61
+1 0 RF
+0 2 ST
+0 3 WR
+0 4 CD
+0 5 WR
+0 6 WR
+0 7 RD
+0 8 CD
+0 9 FR
+9 1 ST
+9 2 ST
+9 3 UK
+10 0 RF
+11 1 ST
+2 11 RF
+11 4 CD
+11 5 CD
+11 6 WR
+11 7 WR
+11 8 UK
+12 2 ST
+12 4 WR
+12 5 WR
+12 6 EX
+12 7 WR
+12 10 ST
+12 13 WR
+14 4 CD
+14 5 WR
+14 6 WR
+14 7 CD
+14 10 ST
+12 14 IJ
+14 13 WR
+12 15 RD
+14 15 EX
+12 16 WR
+14 16 UK
+17 12 RF
+10 18 RF
+18 13 WR
+18 15 WR
+17 18 RF
+12 19 WR
+18 19 WR
+20 10 ST
+20 13 WR
+20 15 WR
+17 20 RF
+18 20 UK
+12 21 FR
+21 13 WR
+21 15 WR
+17 21 RF
+21 19 WR
+21 22 WR
+21 23 ST
+24 15 WR
+17 24 RF
+24 19 EX
+21 24 UK
+

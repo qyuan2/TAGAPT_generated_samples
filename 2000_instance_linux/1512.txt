@@ -1,0 +1,87 @@
+22
+MP*-perl
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MP-cat
+MF-lighttpd.c
+MF-art.sh
+SO-64.192.168.80
+MF-raj.txt
+MP-uname
+TP-bash 
+MF-robots.txt
+MF-raw.githubusercontent.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+TP*-cat
+MP*-ls
+SF-ttpd.c
+MF-raft-large-directories.txt
+MP*-cat
+MP-curl
+SO-192.168.1.1
+MF-LinEnum.sh
+MF-0*.txt
+MP-uname
+62
+0 1 ST
+0 2 FR
+1 2 RF
+0 3 RD
+2 3 WR
+0 4 EX
+2 4 RD
+0 5 ST
+5 2 RF
+0 6 RD
+2 6 WR
+0 7 UK
+1 8 RF
+2 8 IJ
+8 3 WR
+8 4 WR
+8 5 ST
+8 6 EX
+2 9 WR
+8 9 WR
+2 10 RD
+8 10 EX
+2 11 ST
+11 8 RF
+2 12 IJ
+12 3 WR
+12 4 WR
+5 12 RF
+12 6 EX
+8 12 IJ
+12 9 WR
+12 10 RD
+11 12 RF
+13 3 WR
+13 4 EX
+13 5 ST
+13 6 RD
+8 13 IJ
+13 9 RD
+13 10 WR
+11 13 RF
+12 13 UK
+8 14 RD
+8 15 WR
+16 6 RD
+8 16 IJ
+16 9 EX
+16 10 RD
+16 11 ST
+16 14 WR
+16 15 WR
+8 17 FR
+17 9 RD
+17 10 UK
+18 8 RF
+16 18 ST
+16 19 CD
+16 20 EX
+21 11 ST
+21 14 EX
+21 15 RD
+16 21 UK
+

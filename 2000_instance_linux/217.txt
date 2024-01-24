@@ -1,0 +1,171 @@
+46
+MP*-cat
+MP-nl
+MF-chown.c
+MP-ls
+MF-flag4.txt
+TP-grep
+MF-Discovery.sh
+MP-uname
+MP*-rev
+SO-atomic@target.example
+MF-ttpd.c
+MF-target.example.c
+SF-art.sh
+MF-rc.common file
+TP-netstat
+TF-data.zip
+MP-systemd
+TP*-echo
+MF-T1003.008.txt
+MF-access.htm
+TP-openssl
+MF-logrotate.c
+TP-tee
+MP-wget 
+MF-chttp.c
+MF-common.txt
+MP-python
+MF-lighttpd.c
+MP-wpscan
+SO-192.168.206.137:8080
+MP-nl
+MP-rev
+MF-settings.php
+MF-etc.tar.gz
+TF-loot.txt
+SF-shell.cgi
+TP*-cat
+MP-chmod 
+MP-chmod
+TF-pwquality.c
+MP-rev
+MP-grep
+TP-sh
+MF-ufw.c
+MF-ufw.c
+TP-head
+122
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 FR
+3 2 WR
+0 4 EX
+1 4 WR
+3 4 WR
+0 5 FR
+1 5 UK
+0 6 WR
+3 6 RD
+0 7 FR
+7 2 RD
+3 7 UK
+0 8 FR
+8 2 RD
+8 4 EX
+8 6 RD
+0 9 ST
+8 9 ST
+0 10 RD
+8 10 WR
+8 11 WR
+8 12 WR
+8 13 RD
+14 4 CD
+14 6 WR
+8 14 IJ
+14 9 ST
+14 10 RD
+14 11 CD
+14 12 RD
+14 13 WR
+8 15 WR
+14 15 WR
+16 6 WR
+8 16 UK
+9 17 RF
+17 10 WR
+17 11 WR
+17 12 RD
+17 13 WR
+14 17 IJ
+17 15 EX
+14 18 WR
+17 18 WR
+14 19 EX
+17 19 WR
+20 10 WR
+20 11 WR
+20 12 UK
+14 21 RD
+17 21 WR
+22 13 RD
+14 22 IJ
+22 15 RD
+17 22 UK
+23 13 WR
+14 23 IJ
+23 15 WR
+23 18 RD
+23 19 WR
+23 21 WR
+14 24 WR
+23 24 WR
+23 25 RD
+26 18 RD
+26 19 RD
+26 21 CD
+26 24 WR
+26 25 WR
+23 27 UK
+28 18 WR
+28 19 EX
+28 21 UK
+29 26 RF
+30 25 WR
+26 30 UK
+31 25 WR
+29 31 RF
+31 32 WR
+31 33 WR
+31 34 WR
+31 35 WR
+36 29 ST
+31 36 IJ
+36 32 WR
+36 33 EX
+36 34 WR
+36 35 WR
+29 37 RF
+31 37 UK
+29 38 RF
+38 32 RD
+38 33 WR
+38 34 RD
+38 35 WR
+36 38 IJ
+36 39 WR
+38 39 EX
+40 32 RD
+40 33 WR
+40 34 RD
+40 35 EX
+36 40 IJ
+38 40 UK
+41 32 RD
+41 33 WR
+41 34 CD
+41 35 WR
+36 41 UK
+42 32 EX
+42 33 WR
+42 34 WR
+42 35 RD
+42 39 EX
+42 43 WR
+42 44 WR
+45 35 RD
+45 39 WR
+42 45 UK
+

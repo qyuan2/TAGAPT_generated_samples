@@ -1,0 +1,108 @@
+31
+MP-WISPTIS.EXE
+MP*-qgcrmeck.exe
+SO-42.021.871.591
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/DumpWCM.ps1
+TP-notepad++.exe 
+MP-AppLaunch.exe
+MP-spnet_state.exe
+MP*-notepad++.exe
+MP-AppLaunch.exe
+MF-C:\Users\User\29630.ico
+SF-C:\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe
+MF-C:\Program files\java\jre1
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+TF-C:\WINDOWS\system32\scrobj.dll
+MF-C:\Users\admin\AppData\Local\fvjhioojuu.vb
+MP-InfDefaultInstall.exe
+MP-ie_to_edge_stub.exe
+TP*-p2602380.exe
+MP-bozon.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Nuovo
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+MF-globalmanysoft.c
+TF-C:\Users\admin\Desktop\11492515294.zip
+SF-C:\Users\Public\Pictures\deep
+MF-C:\Users\admin\AppData\Local\Temp\upP
+MP*-pcalua.exe
+MF-C:\Users\admin\AppData\Local\Temp\QUOTATION_AUG7FIBA00541
+MF-C:\Users\admin\AppData\Local\Temp\fast1nject.exe
+MF-C:\Users\admin\AppData\Local\Temp\5503.bat
+MF-C:\Users\All Users\Documents\audiodg
+MP-WsatConfig.exe
+74
+0 1 FR
+2 0 RF
+2 1 RF
+3 0 RF
+1 3 ST
+0 4 UK
+1 5 FR
+5 2 ST
+3 5 RF
+1 6 FR
+6 2 ST
+3 6 RF
+5 6 UK
+1 7 FR
+7 2 ST
+3 7 RF
+1 8 FR
+2 8 RF
+3 8 RF
+1 9 RD
+7 9 WR
+8 9 RD
+1 10 WR
+7 10 RD
+8 10 RD
+8 11 RD
+12 8 RF
+8 13 RD
+8 14 WR
+8 15 FR
+15 9 UK
+8 16 FR
+16 10 WR
+16 11 EX
+16 12 ST
+16 13 EX
+16 14 RD
+17 10 RD
+17 11 WR
+12 17 RF
+17 13 WR
+17 14 RD
+16 17 UK
+18 10 RD
+18 11 RD
+12 18 RF
+18 13 WR
+18 14 WR
+18 19 EX
+20 18 RF
+18 21 EX
+18 22 WR
+18 23 EX
+18 24 CD
+18 25 FR
+25 19 WR
+20 25 RF
+25 21 RD
+25 22 RD
+25 23 CD
+25 24 WR
+18 26 RD
+25 26 EX
+18 27 WR
+25 27 RD
+18 28 WR
+25 28 RD
+25 29 CD
+30 20 ST
+30 21 EX
+30 22 WR
+30 23 WR
+30 24 WR
+25 30 UK
+

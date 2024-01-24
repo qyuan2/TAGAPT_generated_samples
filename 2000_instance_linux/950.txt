@@ -1,0 +1,63 @@
+19
+MP*-netstat
+MP-ftp
+MF-lighttp.c
+MP-cat
+MF-CleaingScript.sh
+TP*-uname
+MF-flag3.txt
+MP-cat
+MF-sysctl.c
+MP-rev
+TP-sed
+TP*-uname
+MF-te.c
+TP*-cat
+MP-paste
+MP-tar 
+MF-cron.h
+MF-T1070.006-reference.txt
+MP-uname
+41
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 FR
+1 3 UK
+0 4 WR
+0 5 IJ
+5 2 EX
+5 4 WR
+0 6 WR
+5 6 CD
+0 7 FR
+7 2 WR
+7 4 CD
+5 7 UK
+0 8 WR
+0 9 FR
+9 2 WR
+9 4 RD
+9 6 UK
+0 10 UK
+11 2 WR
+11 4 WR
+11 8 WR
+11 12 RD
+13 4 EX
+13 8 WR
+11 13 IJ
+13 12 WR
+14 4 EX
+14 8 WR
+11 14 UK
+15 8 RD
+15 12 RD
+13 15 IJ
+13 16 WR
+15 16 UK
+13 17 RD
+18 8 WR
+18 12 WR
+13 18 UK
+

@@ -1,0 +1,120 @@
+38
+MP-taskkill.exe
+MP-ServiceModelReg.exe
+TP-VP1T1deRx1.exe
+MP-PEPlusLauncher_V2.exe 
+MF-C:\Windows\system32\RICHTX32
+SF-C:\Users\admin\AppData\Roaming\obiokmgf6
+TP-AdobeARM.ex
+SF-C:\Users\admin\Desktop\tasksche.exe
+MP-LogTransport2.exe
+MP-nsD38B.tmp
+MP-CE5F.exe
+MP*-vssadmin.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+SF-C:\Users\admin\AppData\Local\Temp\xobpf7op.cmd
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+SF-C:\Users\admin\Desktop\DOC77412.jpg
+MP*-Bandizip.exe
+MP-ipconfig.exe
+MP-csc.exe 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MP-Order Confirmation.exe 
+MP-SSLplus.exe
+SF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\LogTransport2
+MF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe
+SO-https://download.anydesk.com/AnyDesk.exe
+MF-C:\Users\admin\AppData\Local\Temp\EjEfD.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF
+TP-WScript.exe
+MP*-IEmode.exe 
+MF-C:\Users\admin\Desktop\RunDRT
+MP*-WsatConfig.exe
+TP-query.exe
+SF-C:\Users\admin\AppData\Local\Temp\words
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns929A.tmp
+TF-C:\Users\admin\AppData\Local\Temp\Setup.b
+MF-\Users\admin\AppData\Local\Temp\lk.exe
+TF-C:\Users\admin\Desktop\RunDRT
+79
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 RD
+3 4 RD
+0 5 RD
+3 5 WR
+0 6 UK
+3 7 WR
+3 8 FR
+8 4 WR
+8 5 RD
+8 7 WR
+3 9 UK
+10 4 WR
+10 5 RD
+10 7 RD
+8 10 UK
+11 4 CD
+11 5 WR
+11 7 WR
+12 11 RF
+11 13 WR
+14 11 RF
+11 15 EX
+16 7 WR
+12 16 RF
+16 13 RD
+16 14 ST
+16 15 EX
+17 7 WR
+11 17 UK
+18 12 ST
+18 13 UK
+16 19 ST
+20 12 ST
+20 14 ST
+20 15 WR
+16 20 UK
+21 12 ST
+14 21 RF
+21 15 WR
+19 21 RF
+21 22 RD
+21 23 WR
+21 24 ST
+21 25 WR
+21 26 ST
+21 27 EX
+28 19 ST
+21 28 UK
+19 29 RF
+29 22 RD
+29 23 WR
+29 24 ST
+29 25 EX
+29 26 ST
+29 27 WR
+29 30 WR
+31 22 EX
+31 23 WR
+31 24 ST
+31 25 RD
+31 26 ST
+31 27 WR
+29 31 UK
+32 22 WR
+32 23 EX
+24 32 RF
+32 25 WR
+32 26 ST
+32 27 WR
+32 30 WR
+32 33 WR
+32 34 RD
+32 35 RD
+32 36 WR
+32 37 UK
+

@@ -1,0 +1,226 @@
+66
+MP-nsBB14.tmp
+SF-C:\Users\admin\Desktop\MS
+MP-T1027.exe
+TP-some_malicious_file.bin.exe
+MP-LZ4-SOFT.exe 
+SF-C:\Users\admin\AppData\Local\Temp\3ec1f323b5\danke.exe
+MF-\Users\admin\AppData\Local\Temp\is-NIBPL.tmp\HxDSetup.tmp
+MP-crackmapexec.exe
+TF-C:\Users\admin\AppData\Roaming\AppData\AppData.exe
+MF-C:\Windows\system32\HJK.vb
+MF-C:\Users\admin\AppData\Local\Temp\peplus.m
+MP*-nsCCFE.tmp
+SO-hxxp://68.183.9[.]9/get.php
+SF-C:\Users\admin\AppData\Local\84ef6d24-ce7f-44e4-a5ae-1d47d92bf287\build3.exe
+SO-http://gc2siv9geletsu4.orgweave.com/bXRpQG10aS5odQ
+MF-C:\Windows\System32\schtasks
+MP-pktmon.exe
+MF-CSIDL_COMMON_APPDATA\anydesk.exe
+MP-bcdedit.exe
+SF-C:\Users\admin\AppData\Local\Temp\Tudehluxjc
+SF-C:\Users\admin\AppData\Local\Temp\Cookies2
+MP*-dkeyauth.exe 
+MF-Files\Java\jre1.8.0_92\bin\java.exe
+TF-chrome.m
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\7za.exe
+MF-C:\Users\admin\AppData\Local\Temp\VALENCIA12.xls
+MF-C:\Users\admin\bebulnhx.exe
+MP-chrome.exe
+MP-Document.pdf_Slayed.scr.exe
+TP-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MP-bcdedit.exe
+MF-C:\Program files\8527
+TP-nmap.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Others\Hantek2D42X86
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MP*-mimikatz.exe
+SF-%temp%\SAMvss
+MP-DriversHood.exe
+MF-\Users\Public\Videos\videotv.m3u
+MP-installd.exe
+TF-C:\ServerComponenthostNet\ChainRefBroker.exe
+MF-\Users\admin\AppData\Local\Temp\alg.exe
+MF-\Users\admin\AppData\Local\Temp\jww825a.exe
+MP-jerkoff.exe 
+TP-Entry.exe 
+MF-C:\Program Files\Bandizip\Bandizip
+MF-C:\Users\admin\AppData\Local\Temp\phish_alert_iocp_v1
+SO-https://clients2.google.com/cr/report
+MP-AppLaunch.exe
+MP-nsBB14.tmp
+MP-PC_Cleaner__5509.exe 
+SF-%temp%\T1564.001.txt
+TF-%temp%\Windows_Defender_Verification.xml
+SO-https://download.anydesk.com/AnyDesk.exe
+SF-C:\Users\admin\AppData\Local\Temp\IBM_Centosi
+MP*-Scan20230717_newshipment 202333pdf.exe
+SF-C:\Program files\delve
+MF-\Users\admin\bebulnhx.exe
+MF-\Users\Public\coinmarketcap\coinmarketcap.ps1
+MF-\Users\admin\AppData\Local\Temp\X_Net_Windows.exe
+SF-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+SF-C:\Windows\system32\msiexec
+SF-C:\Users\admin\Desktop\installer
+MP-java.exe
+MF-\Users\admin\AppData\Local\Temp\SUNATfacturanopagada.zip
+SF-C:\Windows\SysWOW64\svchost
+157
+0 1 WR
+0 2 UK
+3 1 RD
+4 1 WR
+3 4 IJ
+3 5 WR
+4 5 WR
+3 6 CD
+4 6 RD
+7 1 WR
+3 7 UK
+4 8 WR
+4 9 RD
+4 10 UK
+11 5 CD
+11 6 EX
+11 8 RD
+11 9 RD
+11 12 ST
+11 13 RD
+14 11 RF
+11 15 WR
+16 8 RD
+16 9 WR
+12 16 RF
+16 13 WR
+16 14 ST
+16 15 RD
+11 17 WR
+16 17 RD
+18 8 WR
+18 9 RD
+11 18 UK
+16 19 WR
+16 20 WR
+21 12 ST
+21 13 WR
+21 14 ST
+21 15 RD
+21 17 WR
+21 19 WR
+21 20 WR
+16 22 EX
+21 22 RD
+16 23 WR
+21 23 WR
+16 24 WR
+21 24 CD
+16 25 WR
+21 25 WR
+16 26 RD
+21 26 WR
+27 17 WR
+27 19 WR
+27 20 WR
+27 22 WR
+27 23 WR
+27 24 WR
+27 25 EX
+27 26 WR
+28 19 UK
+29 20 WR
+21 29 UK
+30 20 WR
+30 22 EX
+30 23 WR
+30 24 WR
+30 25 CD
+30 26 WR
+27 31 RD
+30 31 WR
+32 22 WR
+32 23 EX
+32 24 WR
+32 25 WR
+32 26 WR
+27 32 UK
+30 33 WR
+34 30 RF
+35 25 WR
+35 26 RD
+35 31 RD
+35 33 RD
+35 34 ST
+30 36 UK
+37 31 WR
+37 33 RD
+37 34 ST
+35 38 WR
+37 38 WR
+39 31 RD
+39 33 RD
+34 39 RF
+39 38 RD
+35 40 EX
+37 40 WR
+39 40 RD
+35 41 WR
+37 41 WR
+39 41 EX
+35 42 CD
+37 42 WR
+39 42 WR
+43 33 WR
+43 34 ST
+43 38 RD
+39 43 UK
+34 44 RF
+35 44 UK
+37 45 RD
+37 46 RD
+47 37 RF
+48 38 RD
+48 40 RD
+48 41 RD
+48 42 WR
+48 45 WR
+48 46 RD
+47 48 RF
+49 40 RD
+49 41 RD
+49 42 WR
+49 45 EX
+49 46 RD
+49 47 ST
+48 49 UK
+50 40 RD
+50 41 WR
+50 42 WR
+50 45 WR
+50 46 RD
+47 50 RF
+50 51 RD
+50 52 WR
+50 53 ST
+50 54 WR
+55 46 WR
+47 55 RF
+55 51 WR
+55 52 WR
+55 53 ST
+55 54 WR
+55 56 WR
+55 57 EX
+55 58 RD
+55 59 EX
+55 60 WR
+55 61 WR
+55 62 UK
+63 56 RD
+63 57 WR
+63 58 RD
+63 59 RD
+63 60 RD
+63 61 RD
+63 64 WR
+63 65 UK
+

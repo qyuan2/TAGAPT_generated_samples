@@ -1,0 +1,94 @@
+26
+MP-GLJC215.tmp
+SF-C:\Users\admin\AppData\Local\Temp\8be41efd6e6ace53b8c59344be2ba91fe41003987a8e38484b20760d7c400a42.zip
+MF-C:\Windows\syswow64\regsvr32
+MP*-gsecdump.exe
+MF-C:\Windows\System32\WindowsUpdate
+SF-C:\Users\admin\AppData\Local\Temp\file.exe
+TP*-nsBDC5.tmp
+MF-C:\Users\admin\nvvsvc
+MF-C:\Users\admin\Desktop\Remittance_1021395_092023_111928.csv
+TP-yonr.exe 
+TF-EXa124.26187\SERVIPAGrecibo.m
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/mshta.sct').Exec();close
+MP-timeout.exe
+MF-C:\Users\admin\AppData\Local\Temp\X_Net_Windows
+MF-Get-CreateProcessSystemBind.ps1
+MF-files\appdata\local\temp\22333.doc
+TF-C:\Users\admin\AppData\Local\Temp\IMG_4096
+SF-C:\Windows\system32\icacls
+MF-EXa124.47721\xnoobx.cc-injector\xnoobx.cc.exe
+MP*-AppLaunch.exe
+MP*-stealc_TestBuild.exe 
+MF-C:\Windows\system32\cmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\ODA
+MF-C:\Program Files\appdata\local\temp\9140
+TF-C:\Users\admin\Desktop\jerkoff
+MP-notepad++.exe 
+65
+0 1 EX
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 CD
+3 4 WR
+0 5 RD
+3 5 WR
+0 6 FR
+6 1 EX
+6 2 WR
+3 6 IJ
+6 4 WR
+6 5 RD
+0 7 WR
+3 7 WR
+6 7 EX
+0 8 WR
+3 8 RD
+6 8 WR
+0 9 FR
+9 1 RD
+9 2 RD
+3 9 UK
+0 10 EX
+6 10 WR
+11 6 RF
+12 2 WR
+12 4 WR
+12 5 RD
+6 12 IJ
+12 7 WR
+12 8 WR
+12 10 WR
+11 12 RF
+6 13 WR
+12 13 RD
+6 14 WR
+12 14 RD
+6 15 WR
+12 15 WR
+6 16 RD
+12 16 WR
+12 17 WR
+12 18 RD
+12 19 FR
+19 13 WR
+19 15 RD
+19 16 WR
+19 17 WR
+19 18 WR
+20 13 WR
+20 15 WR
+20 16 WR
+20 17 CD
+20 18 WR
+19 21 EX
+20 21 WR
+19 22 RD
+20 22 WR
+20 23 WR
+20 24 WR
+25 18 EX
+20 25 UK
+

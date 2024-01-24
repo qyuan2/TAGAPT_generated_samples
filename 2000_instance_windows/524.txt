@@ -1,0 +1,105 @@
+31
+MP*-msiexec.exe
+SF-C:\Users\admin\AppData\Local\Temp\XClient
+MF-\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV.exe
+MF-\Users\admin\Desktop\11492515294.zip
+TP*-WinSat.exe
+MF-C:\Users\admin\AppData\Local\Temp\WannaCry
+TP-wbadmin.exe
+MF-C:\Users\admin\AppData\Local\Temp\Payroll_2022
+TP*-tasklist.exe
+TF-C:\Users\admin\AppData\Local\Temp\b79gpxd8.cmd
+MF-files\appdata\local\temp\5275.bmp
+MP-nsD62C.tmp
+MF-C:\Users\Public\audiodg
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+SF-C:\Users\admin\AppData\Local\Temp\msetup\operasetup
+TP-yiueea.exe 
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+TP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+SF-C:\Users\admin\AppData\Local\Temp\IMG_4096
+TP*-NilfiskServiceTool.exe
+SF-C:\Users\admin\AppData\Local\Temp\setup_avrokeyboard_5
+MP-ns967A.tmp 
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-C:\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928
+MF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves
+MF-C:\Users\admin\Desktop\Thursday.htm
+MF-C:\Users\admin\AppData\Local\Temp\JAVA
+MF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+MF-C:\Program files\appdata\local\temp\3893
+SF-C:\Users\admin\AppData\Local\Temp\9215.tmp
+TP-cmstp.exe
+71
+0 1 EX
+0 2 WR
+0 3 WR
+0 4 IJ
+4 1 EX
+4 2 RD
+4 3 WR
+0 5 WR
+4 5 WR
+0 6 FR
+6 1 WR
+6 2 WR
+6 3 WR
+4 6 UK
+0 7 RD
+0 8 FR
+8 1 EX
+8 2 WR
+8 3 RD
+8 5 WR
+8 7 UK
+0 9 WR
+0 10 WR
+11 1 WR
+11 2 WR
+11 3 RD
+11 5 WR
+11 9 WR
+11 10 WR
+11 12 WR
+13 11 RF
+11 14 WR
+15 5 WR
+15 9 RD
+15 10 WR
+11 15 IJ
+15 12 RD
+13 15 RF
+15 14 WR
+11 16 ST
+15 16 ST
+17 9 EX
+17 10 EX
+11 17 UK
+15 18 WR
+19 9 EX
+19 10 CD
+19 12 RD
+19 13 ST
+19 14 WR
+15 19 IJ
+16 19 RF
+19 18 EX
+15 20 CD
+19 20 WR
+21 12 RD
+21 13 ST
+21 14 RD
+15 21 UK
+19 22 ST
+19 23 WR
+19 24 RD
+19 25 WR
+19 26 EX
+19 27 WR
+19 28 WR
+19 29 RD
+30 20 RD
+22 30 RF
+30 23 CD
+30 24 UK
+

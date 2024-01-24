@@ -1,0 +1,32 @@
+12
+MP*-v6621467.exe
+TP*-nsA042.tmp
+MP*-some_malicious_file.bin.exe
+TF-\Windows\Temp\lsass-xordump.t1003.001.dmp
+TF-C:\Users\admin\AppData\Local\Temp\INV
+MF-C:\Program Files\appdata\local\temp\9140
+MP-WINWORD.EXE
+MF-Users\smss.exe
+SF-C:\Users\admin\AppData\Local\Temp\ActionList.xml
+SF-C:\Users\admin\Desktop\jerkoff.exe
+MP-Wub.exe
+MP*-Entry.exe 
+17
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 UK
+1 4 UK
+2 5 RD
+2 6 FR
+6 5 WR
+2 7 WR
+6 7 WR
+2 8 RD
+6 8 WR
+2 9 RD
+6 9 RD
+2 10 UK
+11 5 RD
+6 11 UK
+
