@@ -48,6 +48,4 @@ python generate_subgraph_CTI.py --graph_path_txt ./result --graph_txt_path_2 ./r
 
 ## 5. Generated samples 
 
-The generated samples are stored in "TAGAPT_samples"
-
-# 
+The generated samples are stored in "2000_instance_linux" and "2000_instance_windows"
