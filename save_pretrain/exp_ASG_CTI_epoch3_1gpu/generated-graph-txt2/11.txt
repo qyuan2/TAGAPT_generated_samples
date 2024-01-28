@@ -1,0 +1,22 @@
+9
+MP
+TP
+TF
+TP
+SF
+TP
+MP
+TP
+MF
+10
+0 1 FR
+0 2 EX
+1 2 UK
+0 3 FR
+0 4 RD
+3 4 RD
+0 5 UK
+3 6 UK
+7 4 RD
+7 8 UK
+

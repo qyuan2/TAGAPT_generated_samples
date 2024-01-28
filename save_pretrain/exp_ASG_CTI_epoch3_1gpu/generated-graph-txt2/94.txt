@@ -1,0 +1,34 @@
+11
+MP
+TP
+SF
+TF
+TF
+MF
+TP
+SO
+MF
+TP
+SO
+20
+0 1 FR
+0 2 WR
+1 2 UK
+0 3 WR
+0 4 WR
+0 5 EX
+0 6 FR
+6 3 RD
+6 4 CD
+6 5 WR
+0 7 ST
+6 7 ST
+0 8 EX
+6 8 CD
+0 9 FR
+9 3 CD
+9 4 WR
+9 5 RD
+6 9 UK
+0 10 ST
+

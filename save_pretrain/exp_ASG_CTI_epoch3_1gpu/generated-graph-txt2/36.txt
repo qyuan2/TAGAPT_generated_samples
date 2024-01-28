@@ -1,0 +1,44 @@
+12
+MP
+TP
+TP
+MF
+TP
+TP
+SF
+MP
+MP
+TF
+TP
+TP
+29
+0 1 IJ
+0 2 FR
+1 2 IJ
+0 3 RD
+1 3 WR
+2 3 WR
+0 4 IJ
+1 4 UK
+0 5 IJ
+2 5 IJ
+5 3 RD
+0 6 WR
+2 6 RD
+5 6 WR
+0 7 IJ
+2 7 IJ
+7 3 WR
+5 7 UK
+0 8 FR
+2 8 UK
+0 9 CD
+0 10 IJ
+10 3 CD
+10 6 CD
+10 9 CD
+11 3 EX
+11 6 CD
+11 9 RD
+10 11 UK
+

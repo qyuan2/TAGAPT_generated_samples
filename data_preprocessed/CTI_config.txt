@@ -1,0 +1,1 @@
+{'atom_list': ["MP", "TP", "MF", "SF", "TF", "SO"], 'freedom': 0, 'node_dim': 7, 'max_size': 100, 'bond_dim': 10}

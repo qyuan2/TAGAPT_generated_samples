@@ -1,0 +1,28 @@
+11
+MP
+TP
+TP
+TP
+SF
+SF
+MF
+SO
+SF
+TP
+TP
+14
+0 1 FR
+0 2 IJ
+1 2 IJ
+0 3 IJ
+1 3 IJ
+2 3 UK
+0 4 UK
+1 5 CD
+1 6 RD
+1 7 ST
+1 8 UK
+9 5 WR
+9 6 UK
+10 5 UK
+

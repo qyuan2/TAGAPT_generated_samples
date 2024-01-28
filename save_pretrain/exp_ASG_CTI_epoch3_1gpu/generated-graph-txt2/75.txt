@@ -1,0 +1,25 @@
+9
+MP
+SF
+MP
+TP
+TP
+MP
+TF
+SO
+TP
+13
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 IJ
+4 1 EX
+0 5 UK
+4 6 CD
+4 7 ST
+8 1 CD
+4 8 UK
+

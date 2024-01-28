@@ -1,0 +1,37 @@
+13
+MP
+SF
+TP
+TF
+TF
+SF
+SO
+MF
+SO
+SO
+SO
+MF
+SF
+21
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 RD
+2 4 RD
+0 5 CD
+2 5 WR
+0 6 ST
+2 6 ST
+0 7 WR
+2 7 WR
+0 8 ST
+2 8 ST
+0 9 ST
+2 9 ST
+0 10 ST
+2 10 ST
+2 11 WR
+2 12 RD
+
