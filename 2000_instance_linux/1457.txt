@@ -1,0 +1,80 @@
+22
+MP*-perl
+MF-p.c
+TP-sed
+TP-grep
+TP-less
+MF-shell.cgi
+MP*-pr
+TP*-more
+TP-ls
+TP-cat
+SF-access.htm
+MF-os.exe
+MF-atomic.sh
+TF-robots.txt
+TF-inetd.c
+TP-pr
+MF-secret.c
+TF-T1070.006-reference.txt
+SO-192.168.10.133
+MF-cron.h
+MF-0*.txt
+MP*-awk
+55
+0 1 WR
+0 2 IJ
+2 1 UK
+0 3 IJ
+0 4 UK
+3 5 RD
+3 6 FR
+6 5 WR
+3 7 IJ
+7 5 WR
+6 7 IJ
+3 8 FR
+8 5 RD
+6 8 UK
+3 9 FR
+9 5 WR
+7 9 IJ
+3 10 WR
+7 10 WR
+9 10 RD
+3 11 WR
+7 11 WR
+9 11 WR
+3 12 CD
+7 12 RD
+9 12 EX
+3 13 WR
+7 13 WR
+9 13 WR
+7 14 WR
+9 14 WR
+15 5 EX
+7 15 IJ
+9 15 IJ
+15 10 WR
+15 11 RD
+15 12 EX
+15 13 WR
+15 14 EX
+7 16 WR
+9 16 RD
+15 16 WR
+7 17 WR
+9 17 EX
+15 17 WR
+18 9 RF
+18 15 RF
+9 19 WR
+15 19 RD
+15 20 WR
+21 11 WR
+21 12 WR
+21 13 WR
+21 14 EX
+15 21 UK
+

@@ -1,0 +1,53 @@
+16
+MP*-default-browser-agent.exe
+SO-hxxp://157.245.99[.]132/get.php
+MF-\Users\admin\Desktop\Wub\Wub.exe
+TP*-Nixware.exe
+MF-C:\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV.exe
+TP*-Caspol.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=jsp
+MF-files\appdata\local\temp\19084.bmp
+TP-RegDll.x86.exe
+MP-fltmc.exe
+MP*-hh.exe
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\IrSatorLauncher
+MF-clients2.google.c
+MF-C:\Users\admin\AppData\Local\Temp\main_bin
+SF-HKLM\sam
+MP-cacls.exe 
+34
+1 0 RF
+0 2 WR
+0 3 IJ
+3 1 ST
+3 2 WR
+0 4 WR
+3 4 WR
+0 5 IJ
+5 1 ST
+5 2 EX
+3 5 IJ
+5 4 EX
+0 6 ST
+6 3 RF
+5 6 ST
+0 7 RD
+3 7 WR
+5 7 UK
+0 8 FR
+8 1 ST
+8 2 UK
+0 9 FR
+9 1 ST
+3 9 UK
+0 10 FR
+10 1 ST
+10 4 WR
+10 6 ST
+10 11 CD
+10 12 RD
+10 13 WR
+10 14 RD
+15 6 ST
+10 15 UK
+

@@ -1,0 +1,47 @@
+12
+MP*-du
+MF-s.c
+MP*-cat
+MF-cron.a
+TP*-id
+MF-te.c
+MF-subprocess.c
+SO-192.168.206.137
+MP*-cat
+MP-cat
+TF-f.r
+MP-tac
+32
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 EX
+0 4 IJ
+4 1 WR
+2 4 IJ
+4 3 EX
+0 5 RD
+2 5 RD
+4 5 RD
+0 6 RD
+2 6 EX
+4 6 UK
+0 7 ST
+7 2 RF
+0 8 FR
+8 1 WR
+8 3 EX
+8 5 WR
+8 7 ST
+0 9 FR
+9 1 RD
+2 9 UK
+0 10 EX
+8 10 WR
+11 1 WR
+11 3 WR
+11 5 EX
+7 11 RF
+8 11 UK
+

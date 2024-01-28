@@ -1,0 +1,25 @@
+9
+MP*-cat
+SF-p.c
+SF-T1003.008.txt
+SF-f.r
+MP*-sudo
+MP-rsync
+MP*-rev
+SF-T1070.006-reference.txt
+MP*-less
+13
+0 1 WR
+0 2 WR
+0 3 EX
+0 4 FR
+4 1 RD
+4 2 EX
+4 3 WR
+0 5 UK
+6 1 UK
+4 7 RD
+8 2 WR
+8 3 WR
+4 8 UK
+

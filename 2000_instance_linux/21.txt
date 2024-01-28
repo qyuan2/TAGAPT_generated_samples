@@ -1,0 +1,45 @@
+15
+MP*-nl
+MF-atomic.sh
+MF-echo-art-fish.sh
+MF-pd.c
+SF-pwquality.c
+SO-192.168.206.137
+TF-inetd.c
+MF-lighttp.c
+SO-192.168.159.128
+TF-echo-art-fish.sh
+MP-cat
+MP*-rev
+SF-flag3.txt
+SF-art.sh
+MP*-grep
+27
+0 1 RD
+0 2 RD
+0 3 RD
+0 4 EX
+0 5 ST
+0 6 WR
+0 7 RD
+0 8 ST
+0 9 EX
+0 10 UK
+11 1 WR
+11 2 WR
+11 3 WR
+11 4 WR
+5 11 RF
+11 6 WR
+11 7 WR
+8 11 RF
+11 9 RD
+11 12 WR
+11 13 RD
+14 5 ST
+14 6 RD
+14 7 CD
+14 8 ST
+14 9 WR
+11 14 UK
+

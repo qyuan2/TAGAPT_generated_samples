@@ -1,0 +1,54 @@
+16
+MP*-sed
+MF-data.zip
+MF-0*.txt
+MF-CleaingScript.sh
+MP*-ls
+MF-lighttpd.c
+SO-192.168.206.0
+MF-p.c
+MF-common.txt
+TP*-paste
+TF-httpd.c
+TF-0*.txt
+MF-Users.tar.gz
+MP-cat
+SF-password-hash.sh
+MP*-cat
+35
+0 1 WR
+0 2 EX
+0 3 RD
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 WR
+0 5 RD
+4 5 WR
+0 6 ST
+4 6 ST
+0 7 RD
+4 7 WR
+0 8 WR
+4 8 RD
+0 9 IJ
+9 1 RD
+9 2 RD
+9 3 WR
+4 9 IJ
+9 5 EX
+9 6 ST
+9 7 WR
+9 8 RD
+0 10 WR
+4 10 WR
+9 10 EX
+4 11 WR
+9 11 UK
+4 12 EX
+13 3 WR
+13 5 UK
+4 14 WR
+6 15 RF
+15 7 UK
+

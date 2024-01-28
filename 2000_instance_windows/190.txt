@@ -1,0 +1,74 @@
+19
+MP*-JJSploit.exe 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+MF-C:\Program files\appdata\local\temp\22333
+MF-\Users\admin\AppData\Roaming\AppData\AppData.exe
+SF-%temp%\nanodump.x64.exe 
+MP*-Entry.exe 
+MP*-fast1nject.exe 
+MP-notepad++.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Client
+TF-Project.scr
+TP-mshta.exe
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\IrSatorLauncher.exe
+MF-C:\Users\admin\AppData\Local\Temp\IXP002
+SO-hxxp://sacramentos[.]ru/get.php'))|powershell
+MP*-ie_to_edge_stub.exe
+MF-C:\Program Files\Internet Explorer\iexplore
+MF-C:\Windows\system32\config\system
+MP-PC_Cleaner__5509.exe 
+52
+1 0 RF
+0 2 ST
+0 3 RD
+0 4 EX
+0 5 EX
+0 6 FR
+1 6 RF
+2 6 RF
+6 3 WR
+6 4 WR
+6 5 RD
+0 7 FR
+1 7 RF
+7 2 ST
+7 3 WR
+7 4 EX
+7 5 WR
+0 8 FR
+8 1 ST
+8 2 ST
+8 3 RD
+8 4 WR
+8 5 WR
+6 8 UK
+0 9 RD
+7 9 WR
+0 10 WR
+7 10 WR
+1 11 RF
+11 2 ST
+11 3 EX
+11 4 RD
+11 5 UK
+7 12 WR
+7 13 CD
+7 14 ST
+7 15 FR
+15 9 WR
+15 10 RD
+15 12 WR
+15 13 CD
+14 15 RF
+7 16 RD
+15 16 EX
+7 17 WR
+15 17 WR
+18 9 WR
+18 10 WR
+18 12 RD
+18 13 WR
+14 18 RF
+15 18 UK
+

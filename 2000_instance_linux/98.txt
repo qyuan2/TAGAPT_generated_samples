@@ -1,0 +1,27 @@
+9
+MP*-pr
+MF-settings.php
+MP*-nl
+SF-httpd.c
+MP*-grep
+MP*-less
+SO-192.168.10.128
+SF-secret.c
+SO-atomic@target.example
+15
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 WR
+0 4 FR
+4 1 CD
+4 3 RD
+0 5 FR
+5 1 RD
+2 5 UK
+6 0 RF
+4 6 ST
+0 7 WR
+0 8 ST
+

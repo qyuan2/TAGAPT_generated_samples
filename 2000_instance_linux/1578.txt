@@ -1,0 +1,38 @@
+13
+MP*-cat
+MF-d.c
+MP-head
+MF-access.txt
+MP*-cat
+MP-head
+MF-ron.a
+MP*-dmesg
+SO-192.168.159.128
+MF-www.google.c
+MF-raft-medium-directories.txt
+MF-io.r
+MP*-grep
+22
+0 1 RD
+0 2 FR
+2 1 EX
+0 3 EX
+2 3 WR
+0 4 FR
+4 1 EX
+0 5 UK
+2 6 WR
+7 1 RD
+7 3 EX
+7 6 WR
+2 8 ST
+7 8 ST
+2 9 WR
+7 9 WR
+2 10 EX
+7 10 RD
+2 11 EX
+7 11 WR
+12 6 WR
+7 12 UK
+

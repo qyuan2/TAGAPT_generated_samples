@@ -1,0 +1,48 @@
+15
+MP-n4054738.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\Reader_sl.exe
+MP*-ytfovlym.exe
+MF-C:\Users\admin\AppData\Local\Temp\ORDER_LIST
+TP-Dkeyauth.tmp 
+TP-rundll32.exe
+MP*-default-browser-agent.exe
+SF-c:\windows\system32\wbem\mofcomp
+MF-\Windows\Microsoft.NET\Framework\v3.5\addinutil.exe
+MF-C:\Program files\appdata\local\temp\26012.bmp
+MF-C:\Users\admin\AppData\Local\Temp\solicitud
+MF-\Browserweb\csrss.exe
+MP*-net.exe
+TF-Users\{90140000-002C-0410-0000-0000000FF1CE}-C\lsass.exe
+MP*-svchost.exe
+30
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 WR
+0 4 IJ
+4 1 UK
+0 5 FR
+2 5 UK
+0 6 FR
+6 3 WR
+0 7 RD
+6 7 WR
+6 8 WR
+6 9 WR
+6 10 RD
+6 11 WR
+6 12 FR
+12 7 RD
+12 8 WR
+12 9 WR
+12 10 WR
+12 11 WR
+6 13 UK
+14 7 WR
+14 8 WR
+14 9 WR
+14 10 WR
+14 11 WR
+12 14 UK
+

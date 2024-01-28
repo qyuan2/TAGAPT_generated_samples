@@ -1,0 +1,70 @@
+19
+MP*-less
+SF-AutoSUID.sh
+SO-192.168.47.134:4444
+MP-cat
+MF-log.c
+MF-cron.a
+SO-192.168.206.136
+TP-less
+MF-loot.txt
+MF-art.sh
+MF-StartupParameters.plist
+TP*-hostname
+SO-192.168.10.129
+MP*-uname
+MF-locale.c
+MF-robots.txt
+MP*-bash
+MF-cron.m
+MP-less
+48
+0 1 WR
+0 2 ST
+0 3 FR
+3 1 WR
+2 3 RF
+0 4 WR
+3 4 WR
+0 5 WR
+3 5 UK
+0 6 ST
+0 7 FR
+7 1 RD
+2 7 RF
+7 4 RD
+7 6 ST
+7 8 RD
+7 9 WR
+7 10 EX
+2 11 RF
+11 4 EX
+11 6 ST
+7 11 IJ
+11 8 RD
+11 9 RD
+11 10 WR
+7 12 ST
+12 11 RF
+13 4 RD
+13 6 ST
+7 13 IJ
+13 8 CD
+13 9 RD
+13 10 WR
+11 13 UK
+7 14 EX
+7 15 RD
+7 16 FR
+16 8 EX
+16 9 RD
+16 10 EX
+12 16 RF
+16 14 EX
+16 15 RD
+16 17 WR
+12 18 RF
+18 14 RD
+18 15 WR
+16 18 UK
+

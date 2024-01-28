@@ -1,0 +1,62 @@
+18
+MP*-paste
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+SF-atomic.log
+MF-alertConfigField.php
+MP-bash 
+MF-etc.tar.gz
+SF-rockyou.txt
+MF-apache2.c
+MF-os.exe
+SF-password-hash.sh
+MF-image.php
+MF-AutoSUID.sh
+MF-on.a
+MP-head
+TP*-less
+MP*-paste
+MF-alertConfigField.php
+MP*-ls
+41
+1 0 RF
+0 2 EX
+0 3 RD
+0 4 FR
+4 1 ST
+4 2 WR
+4 3 RD
+0 5 WR
+4 5 WR
+0 6 RD
+4 6 WR
+0 7 WR
+4 7 WR
+0 8 WR
+4 8 RD
+0 9 WR
+4 9 RD
+0 10 RD
+4 10 WR
+4 11 EX
+4 12 RD
+13 3 WR
+4 13 UK
+14 5 RD
+14 6 RD
+14 7 WR
+14 8 EX
+14 9 WR
+14 10 WR
+14 11 WR
+14 12 EX
+15 5 RD
+15 6 EX
+15 7 UK
+14 16 WR
+17 8 WR
+17 9 WR
+17 10 RD
+17 11 WR
+17 12 WR
+14 17 UK
+

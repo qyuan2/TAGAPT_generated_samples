@@ -1,0 +1,68 @@
+16
+MP*-procdump.exe
+TP*-WinRAR.exe
+MP-nsBC6C.tmp
+MP-msxsl.exe
+MF-Temp\rootCA2.cer
+MF-\Users\admin\AppData\Local\Temp\jww825a.exe
+TP*-C3B1.exe
+TF-Files\Java\jre1.8.0_92\bin\java.exe
+MF-C:\Windows\system32\NOTEPAD
+MP*-chrome.exe
+TP-ns921C.tmp
+MP-863e7c22c771e4005197ae28363584f8.exe 
+MF-C:\Users\admin\AppData\Local\Temp\script.js
+TP-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+TP-InstaBotPro (1).exe 
+MP-n4054738.exe
+49
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 FR
+1 3 IJ
+2 3 UK
+0 4 WR
+1 4 RD
+0 5 RD
+1 5 RD
+0 6 IJ
+1 6 IJ
+6 4 RD
+6 5 WR
+0 7 WR
+1 7 WR
+6 7 EX
+0 8 CD
+1 8 WR
+6 8 EX
+0 9 FR
+1 9 IJ
+9 4 RD
+9 5 WR
+6 9 IJ
+9 7 WR
+9 8 EX
+0 10 IJ
+1 10 IJ
+10 4 WR
+10 5 RD
+6 10 UK
+1 11 UK
+9 12 RD
+13 4 RD
+13 5 WR
+13 7 WR
+13 8 EX
+9 13 UK
+14 4 WR
+14 5 EX
+14 7 WR
+14 8 WR
+14 12 WR
+15 5 EX
+15 7 WR
+15 8 CD
+15 12 RD
+14 15 UK
+

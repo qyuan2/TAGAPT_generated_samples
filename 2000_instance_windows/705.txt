@@ -1,0 +1,71 @@
+20
+MP*-msiexec.exe
+TF-gpj.exe
+MF-3893.bmp
+TP-nscB9BA.tmp
+MP-bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe 
+SF-C:\Windows\PCHEALTH\ERRORREP\QSIGNOFF\audiodg.exe
+MF-C:\Users\admin\AppData\Local\Temp\CCZZ.bat
+MF-email-icon-2x.png
+MP-at.exe
+TP*-mimikatz.exe
+MP*-vLocalServerSetup.tmp
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+SO-hxxp://motoristo[.]ru/get.php'))|powershell
+TP-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+MF-C:\Windows\system32\rundll32.exe
+MF-C:\Windows\system32\installd.exe
+SF-C:\Users\admin\Desktop\Setup\Installer.m
+MP*-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/mshta.sct').Exec();close
+MP-reg.exe
+48
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 UK
+3 5 WR
+3 6 WR
+3 7 EX
+8 1 WR
+8 2 WR
+3 8 IJ
+8 5 WR
+8 6 RD
+8 7 CD
+9 1 WR
+9 2 EX
+3 9 IJ
+9 5 RD
+9 6 WR
+9 7 UK
+10 1 WR
+10 2 RD
+3 10 IJ
+10 5 EX
+10 6 WR
+3 11 ST
+11 8 RF
+11 10 RF
+12 3 RF
+8 12 ST
+12 10 RF
+3 13 UK
+8 14 RD
+10 14 WR
+8 15 RD
+10 15 CD
+8 16 WR
+10 16 RD
+8 17 FR
+17 11 ST
+12 17 RF
+17 14 RD
+17 15 WR
+17 16 UK
+18 8 RF
+10 18 ST
+10 19 UK
+

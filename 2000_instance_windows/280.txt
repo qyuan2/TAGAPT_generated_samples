@@ -1,0 +1,39 @@
+12
+MP*-ytfovlym.exe
+MF-\Windows\System32\rundll32.exe\rundll32.exe
+SF-HKCU\Software\Policies\Microsoft\Windows\PowerShell
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+MP*-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+MP*-MMFbbhOyNS.exe
+TF-C:\Users\admin\AppData\Roaming\olsptrs\olsptrs.exe
+MF-\Users\admin\AppData\Local\Temp\Dieselmotorers.exe
+MF-aug23-1.zip
+MP*-pdates.exe 
+MF-C:\Users\admin\Desktop\0IuqaJTsFmOw8k4
+TF-calc.exe
+24
+0 1 WR
+0 2 EX
+3 0 RF
+0 4 FR
+4 1 WR
+4 2 UK
+0 5 FR
+5 1 WR
+3 5 RF
+0 6 RD
+5 6 EX
+0 7 RD
+5 7 WR
+0 8 CD
+5 8 WR
+0 9 FR
+9 1 RD
+9 3 ST
+9 6 EX
+9 7 RD
+9 8 RD
+5 10 RD
+9 10 UK
+5 11 UK
+

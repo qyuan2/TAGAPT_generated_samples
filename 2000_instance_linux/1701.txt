@@ -1,0 +1,36 @@
+13
+MP*-bash
+SO-http://192.168.0.134/passwd
+MP*-curl
+MF-passwd.zip
+MP-sed
+MP*-more
+TF-flag3.txt
+TF-log.c
+MF-common.txt
+MF-CleaingScript.sh
+MF-com.apple.loginwindow.plist
+MF-2017.pl
+MP*-pr
+20
+0 1 ST
+0 2 FR
+1 2 RF
+0 3 WR
+2 3 WR
+0 4 FR
+1 4 RF
+2 4 UK
+0 5 FR
+1 5 RF
+5 3 WR
+0 6 RD
+5 6 CD
+5 7 WR
+5 8 CD
+5 9 WR
+5 10 WR
+5 11 WR
+12 3 WR
+5 12 UK
+

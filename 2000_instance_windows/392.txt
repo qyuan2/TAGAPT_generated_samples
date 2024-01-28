@@ -1,0 +1,119 @@
+33
+MP*-nsD62C.tmp
+SO-0.0.0.0
+MF-C:\Windows\system32\pnpui.dll
+SO-file://C:\windows\system32\notepad.exe
+MF-C:\Users\User\appdata\roaming\reflect
+TP-RegAsm.exe 
+MP-Notepad.exe
+MP-Entry.exe 
+MP*-SOA FREIGHT SLIP.exe 
+MF-\Windows\Microsoft.Net\Framework\v4.0.30319\MSBuild.exe
+TF-C:\Users\admin\AppData\Local\Temp\ebb444342c\legosa.exe
+MP*-86270699bad2681bb3f5f57f44a7094e.exe 
+SO-https://go.microsoft.com/fwlink/p/?LinkId=2124703
+MF-C:\Windows\system32\prevhost.exe
+TF-C:\Users\admin\Desktop\11492515294.zip
+TP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MF-C:\Users\admin\MicrosoftUpdate.exe
+TF-PathToAtomicsFolder\T1546.010\src\T1546.010.r
+MP*-UninsHs.exe
+SF-HKCR\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\shell\open\command
+MP-AcroRd32.exe
+SF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MP-sc.exe
+MF-fiordan.r
+MF-C:\Windows\SysWOW64\tolkqfys
+MF-C:\Windows\hh
+MF-C:\Program Files\Microsoft\Skype for Desktop\resources\app
+MF-\art.bat
+MP-EXCEL.EXE
+SF-C:\CrackMapExecWin\crackmapexec
+MF-C:\Program Files\KMSpico\scripts\Install_Task.cmd
+MP-wscript.exe
+83
+1 0 RF
+0 2 WR
+3 0 RF
+0 4 WR
+0 5 IJ
+5 1 ST
+5 2 RD
+5 3 ST
+5 4 WR
+0 6 FR
+1 6 RF
+6 2 UK
+0 7 UK
+1 8 RF
+8 3 ST
+8 4 RD
+5 8 IJ
+5 9 EX
+8 9 WR
+5 10 WR
+8 10 WR
+1 11 RF
+11 3 ST
+11 4 RD
+5 11 IJ
+11 9 WR
+11 10 RD
+12 5 RF
+12 8 RF
+12 11 RF
+5 13 EX
+8 13 WR
+11 13 WR
+5 14 RD
+8 14 WR
+11 14 WR
+5 15 IJ
+8 15 UK
+11 16 WR
+11 17 WR
+18 9 WR
+18 10 WR
+12 18 RF
+18 13 WR
+18 14 RD
+18 16 RD
+18 17 WR
+11 19 WR
+18 19 RD
+20 10 UK
+11 21 RD
+18 21 RD
+22 18 RF
+23 13 WR
+23 14 WR
+23 16 RD
+23 17 RD
+23 19 RD
+23 21 RD
+22 23 RF
+18 24 WR
+23 24 WR
+18 25 EX
+23 25 WR
+18 26 CD
+23 26 WR
+18 27 WR
+23 27 WR
+18 28 WR
+23 28 WR
+29 19 RD
+29 21 WR
+29 22 ST
+29 24 WR
+29 25 WR
+29 26 WR
+29 27 RD
+29 28 EX
+23 30 WR
+29 30 UK
+23 31 WR
+32 22 ST
+23 32 UK
+

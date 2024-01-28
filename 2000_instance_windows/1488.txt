@@ -1,0 +1,51 @@
+14
+MP*-RegAsm.exe 
+MP*-LZ4-SOFT.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MP*-6248.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MP-Notepad Soft.exe 
+MF-C:\savesdllNetdhcp\qx9KHAz9bJA4BG9Lx1IKFuftLcE.vb
+MF-%temp%\sam
+SO-https://clients2.google.com/cr/report
+MP-regasm.exe
+SF-C:\Users\admin\AppData\Local\Temp\facttura.exe
+SO-192.168.10.11
+MP*-NOTEPAD.EXE
+MP-sc.exe
+34
+0 1 FR
+2 0 RF
+1 2 ST
+0 3 FR
+2 3 RF
+4 0 RF
+4 1 RF
+3 4 ST
+0 5 UK
+1 6 EX
+3 6 WR
+1 7 WR
+3 7 RD
+1 8 ST
+3 8 ST
+1 9 FR
+2 9 RF
+3 9 UK
+1 10 WR
+1 11 ST
+12 2 ST
+4 12 RF
+12 6 EX
+12 7 RD
+12 8 ST
+12 10 RD
+11 12 RF
+4 13 RF
+13 6 WR
+13 7 WR
+8 13 RF
+13 10 RD
+13 11 ST
+12 13 UK
+

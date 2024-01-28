@@ -1,0 +1,98 @@
+26
+MP*-less
+TP-arp-scan
+SO-192.168.206.136
+TF-www.google.c
+MP-ip
+MP*-sftp
+SO-192.168.10.130
+MP-nl
+MF-secret.c
+MP-cat
+MP-cat
+TP*-tac
+MF-passwd.zip
+MP-bash
+MP-cat
+SO-192.168.47.155
+SF-pd.c
+MP*-less
+TF-apache2.c
+MF-s.c
+TP-dd
+MF-lighttp.c
+MF-T1070.006-reference.txt
+SF-LinEnum.sh
+TP-paste
+MP-whatweb
+69
+0 1 FR
+0 2 ST
+2 1 RF
+0 3 EX
+1 3 WR
+0 4 FR
+1 4 IJ
+2 4 RF
+4 3 WR
+0 5 FR
+1 5 IJ
+2 5 RF
+5 3 EX
+0 6 ST
+1 6 ST
+6 4 RF
+6 5 RF
+0 7 FR
+1 7 IJ
+2 7 RF
+7 3 EX
+4 7 UK
+0 8 WR
+1 8 RD
+5 8 WR
+0 9 FR
+1 9 IJ
+2 9 RF
+9 3 WR
+5 9 UK
+0 10 FR
+1 10 UK
+11 2 ST
+11 3 WR
+6 11 RF
+11 8 RD
+11 12 WR
+13 3 WR
+13 6 ST
+13 8 RD
+11 13 IJ
+13 12 WR
+14 6 ST
+14 8 WR
+11 14 UK
+15 13 RF
+13 16 RD
+17 8 WR
+17 12 EX
+17 15 ST
+17 16 WR
+13 18 WR
+17 18 RD
+13 19 CD
+17 19 RD
+20 12 UK
+13 21 WR
+17 21 WR
+13 22 WR
+17 22 WR
+13 23 RD
+17 23 WR
+24 15 ST
+24 16 WR
+17 24 UK
+15 25 RF
+25 16 EX
+25 18 RD
+25 19 UK
+

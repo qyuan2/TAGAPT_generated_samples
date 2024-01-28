@@ -1,0 +1,39 @@
+12
+MP*-setup.exe
+MF-C:\Users\admin\AppData\Local\Temp\bltf.exe
+TP-cmd.exe 
+SF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64.dll
+MF-Form.pdf
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MP*-jww825a.tmp
+SF-C:\Users\admin\AppData\Local\Temp\setup
+MP*-renamer-7.5.exe 
+MP*-schtasks.exe
+SF-C:\Users\admin\Desktop\2f0de5fc22a7bd943ff1f9bec2f32cab\microsoft_bluetooth_hfp_ag
+MP-is-3DL5P.tmp
+24
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 UK
+0 4 RD
+5 0 RF
+6 1 WR
+6 4 EX
+5 6 RF
+6 7 WR
+8 1 WR
+8 4 WR
+5 8 RF
+6 8 UK
+9 1 WR
+9 4 WR
+9 5 ST
+9 7 WR
+9 10 WR
+11 4 WR
+11 5 ST
+11 7 RD
+9 11 UK
+

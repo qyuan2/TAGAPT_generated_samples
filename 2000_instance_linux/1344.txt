@@ -1,0 +1,30 @@
+13
+MP*-uname
+MP*-ps
+SF-raft-large-directories.txt
+MP-tac
+TP-cat 
+MP*-dd
+MF-settings.php
+MF-d.c
+MF-common.txt
+SO-192.168.10.128
+MF-CleaingScript.sh
+MF-target.example.c
+TP*-grep
+14
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+1 3 UK
+0 4 UK
+5 2 WR
+5 6 CD
+5 7 WR
+5 8 EX
+5 9 ST
+5 10 WR
+5 11 WR
+12 2 UK
+

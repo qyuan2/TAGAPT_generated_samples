@@ -1,0 +1,65 @@
+19
+MP*-tail
+MF-password-hash.sh
+SO-192.168.10.131
+SF-www.google.c
+TF-raj.txt
+TP*-cat
+SF-at.a
+MF-T1574.006.c
+MF-atomic.sh
+TP*-cat
+SO-atomic@target.example
+MP-sudo
+MF-access.htm
+MF-httpd.c
+MF-T1027-004-test.c
+TF-passwd.zip
+MF-access.txt
+MF-Users.tar.gz
+MP*-wfuzz
+43
+0 1 RD
+2 0 RF
+0 3 RD
+0 4 CD
+0 5 FR
+5 1 EX
+2 5 RF
+5 3 WR
+5 4 EX
+0 6 WR
+5 6 WR
+0 7 EX
+5 7 WR
+0 8 WR
+5 8 WR
+0 9 IJ
+9 1 WR
+9 2 ST
+9 3 EX
+9 4 UK
+10 0 RF
+10 5 RF
+11 1 WR
+11 2 ST
+11 3 EX
+5 11 IJ
+11 6 WR
+11 7 WR
+11 8 WR
+11 10 ST
+5 12 EX
+11 12 EX
+5 13 WR
+11 13 EX
+5 14 RD
+11 14 WR
+5 15 EX
+11 15 WR
+11 16 CD
+11 17 WR
+18 8 WR
+18 10 ST
+11 18 UK
+

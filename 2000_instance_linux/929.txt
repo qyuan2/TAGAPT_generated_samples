@@ -1,0 +1,140 @@
+38
+MP*-grep
+MF-atomic.sh
+SO-192.168.0.134
+MF-anaconda-ks.cfg
+MF-T1003.008.txt
+TP-dd
+MP-less
+SO-127.0.0.1:8080
+TF-cron.a
+MF-user.r
+MP-python
+TP-bash 
+TP-awk
+TF-2017.pl
+MF-access.htm
+MP*-go
+TP-awk
+SO-8.8.8.8
+SF-T1070.006-reference.txt
+SF-rockyou.txt
+MP-head
+MF-raft-medium-directories.txt
+MP-tail
+MF-lv.c
+TP-dnsdomainname
+SO-192.168.206.0
+MP-cat
+MP*-pr
+SF-alertConfigField.php
+MP-less
+SF-anaconda-ks.cfg
+MP-cat
+SO-192.168.10.131
+TP-uname
+MP*-bash
+SF-0*.txt
+MF-journald.c
+MP-nl
+99
+0 1 EX
+2 0 RF
+0 3 WR
+0 4 WR
+0 5 IJ
+5 1 RD
+5 2 ST
+5 3 WR
+5 4 RD
+0 6 FR
+6 1 RD
+2 6 RF
+6 3 WR
+6 4 RD
+5 6 IJ
+7 0 RF
+5 7 ST
+7 6 RF
+0 8 UK
+5 9 RD
+6 9 EX
+10 1 EX
+10 2 ST
+10 3 WR
+10 4 WR
+5 10 UK
+11 1 EX
+11 2 ST
+11 3 WR
+11 4 WR
+6 11 UK
+12 2 ST
+12 3 RD
+12 4 EX
+7 12 RF
+12 9 WR
+12 13 WR
+12 14 UK
+7 15 RF
+15 9 EX
+15 13 RD
+7 16 RF
+16 9 RD
+16 13 WR
+15 16 IJ
+15 17 ST
+16 17 ST
+15 18 RD
+16 18 EX
+15 19 RD
+16 19 WR
+20 13 WR
+15 20 UK
+16 21 WR
+22 13 WR
+16 22 IJ
+22 17 ST
+22 18 RD
+22 19 WR
+22 21 CD
+16 23 WR
+22 23 WR
+16 24 FR
+17 24 RF
+24 18 EX
+24 19 RD
+24 21 WR
+22 24 UK
+25 16 RF
+16 26 UK
+27 17 ST
+27 18 RD
+27 19 WR
+27 21 EX
+27 23 WR
+27 25 ST
+27 28 WR
+29 19 WR
+29 21 WR
+29 23 EX
+29 25 ST
+29 28 WR
+27 30 RD
+29 30 WR
+31 21 WR
+31 23 WR
+31 25 ST
+27 31 UK
+29 32 ST
+33 23 UK
+25 34 RF
+34 28 WR
+34 30 RD
+34 32 ST
+34 35 EX
+34 36 WR
+37 30 WR
+32 37 RF
+34 37 UK
+

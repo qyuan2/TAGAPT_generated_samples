@@ -1,0 +1,71 @@
+20
+MP*-n4054738.exe
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt
+SO-https://onapsis.com/onapsis-platform
+MF-C:\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928
+TP*-shutdown.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+TP-pktmon.exe
+MF-C:\Users\admin\AppData\Local\Temp\authrootstl
+MF-\Users\Public\Videos\videotv.m3u
+MP-IBM_LINUX.exe 
+MP-CareUEyes_setup.exe
+SF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF
+MF-Files\VideoLAN\VLC\vlc.exe
+MF-\Windows\system32\SearchIndexer.exe
+MF-C:\Users\admin\AppData\Local\Temp\jww825a
+MF-C:\Users\admin\AppData\Local\Temp\is-Q02DK.tmp
+MP*-taskkill.exe
+SF-C:\Users\admin\AppData\Local\Hydro\Hydro
+MP*-desktopimgdownldr.exe
+MF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv.bat
+48
+0 1 WR
+2 0 RF
+0 3 WR
+0 4 IJ
+4 1 RD
+4 2 ST
+4 3 EX
+5 0 RF
+4 5 ST
+0 6 FR
+6 1 UK
+0 7 RD
+4 7 WR
+0 8 WR
+4 8 WR
+0 9 UK
+10 2 ST
+10 3 RD
+4 10 IJ
+5 10 RF
+10 7 WR
+10 8 WR
+4 11 RD
+10 11 WR
+4 12 RD
+10 12 WR
+4 13 RD
+10 13 RD
+4 14 RD
+10 14 WR
+10 15 CD
+16 7 WR
+16 8 WR
+16 11 WR
+16 12 RD
+16 13 EX
+16 14 WR
+16 15 CD
+10 17 RD
+16 17 RD
+18 8 EX
+18 11 RD
+18 12 RD
+18 13 WR
+18 14 WR
+18 15 EX
+16 18 UK
+10 19 WR
+

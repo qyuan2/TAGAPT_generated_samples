@@ -1,0 +1,43 @@
+13
+MP*-W32tm
+TP*-shutdown.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+MF-C:\Program files\appdata\local\temp\deprive
+MF-DOWNLOAD.doc
+TF-C:\Users\admin\AppData\Local\Temp\IEmode
+MF-\Users\admin\Desktop\Setup\Installer.m
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+MF-chrome.m
+TP*-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+TF-contoso.c
+MF-fltmc.exe
+TP*-reviewref_protected.exe 
+27
+0 1 IJ
+0 2 ST
+1 2 ST
+0 3 RD
+1 3 WR
+0 4 EX
+1 4 RD
+0 5 UK
+1 6 WR
+1 7 ST
+1 8 WR
+1 9 IJ
+9 2 ST
+9 3 WR
+9 4 CD
+9 6 WR
+9 7 ST
+9 8 WR
+1 10 UK
+9 11 EX
+12 2 ST
+12 3 WR
+12 4 RD
+12 6 EX
+7 12 RF
+12 8 WR
+9 12 UK
+

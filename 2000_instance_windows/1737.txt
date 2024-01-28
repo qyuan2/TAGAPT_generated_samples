@@ -1,0 +1,110 @@
+29
+MP*-UninsHs.exe
+MF-C:\Users\admin\Desktop\script.js
+MP-Heapman45.exe 
+TF-\windows\System32\comsvcs.dll
+MF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild
+TF-C:\Windows\system32\config\system
+MF-windir\system32\mshta.exe
+MF-C:\Users\admin\MicrosoftUpdate
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+SF-C:\Windows\system32\net1
+SF-C:\Users\admin\AppData\Local\Temp\nsf91FB.tmp
+MF-C:\Users\admin\AppData\Local\Temp\8cc2d4575163a5e3dc7a56face3644e9.exe
+SF-c:\Users\admin\AppData\Local\Temp\CSCD195
+MP-regsvr32.exe
+TP*-talkworld.exe 
+TP*-Spora.exe 
+MP*-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLED.EXE
+MF-ondertekend.vb
+MP-rundll32.exe
+TP-ns9AE8.tmp
+MF-\Users\admin\AppData\Local\Temp\B70D.exe
+SF-%temp%\Windows_Defender_Cache_Maintenance.xml
+MP-PowerShell.exe
+TF-C:\Users\admin\Desktop\NikkiBeach Project ADS\Nikki
+MF-www.suzhouca.c
+SO-http://74.50.94.156/MSHTML_C7/start.xml
+MP-DllHost.exe
+MF-C:\Users\admin\AppData\Roaming\yonr\yonr.exe
+MP-keygen.exe
+78
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 WR
+2 4 WR
+0 5 WR
+2 5 EX
+0 6 WR
+2 6 RD
+0 7 WR
+2 7 WR
+8 0 RF
+8 2 RF
+0 9 EX
+2 9 RD
+0 10 RD
+2 10 WR
+2 11 WR
+2 12 WR
+13 3 WR
+13 4 WR
+13 5 UK
+14 4 EX
+14 6 WR
+14 7 WR
+8 14 RF
+14 9 WR
+14 10 WR
+14 11 RD
+14 12 RD
+15 6 RD
+15 7 RD
+15 8 ST
+15 9 RD
+15 10 WR
+15 11 RD
+15 12 WR
+14 15 IJ
+16 6 WR
+16 7 WR
+16 8 ST
+16 9 WR
+16 10 WR
+16 11 WR
+16 12 WR
+14 16 IJ
+15 16 IJ
+14 17 RD
+15 17 WR
+16 17 UK
+18 8 ST
+18 9 EX
+18 10 UK
+19 9 WR
+19 11 WR
+19 12 CD
+14 19 IJ
+15 19 IJ
+14 20 WR
+15 20 RD
+19 20 WR
+14 21 UK
+22 12 UK
+15 23 WR
+19 23 EX
+15 24 WR
+19 24 UK
+25 15 RF
+26 20 WR
+26 23 RD
+25 26 RF
+26 27 WR
+28 20 EX
+28 23 RD
+28 25 ST
+26 28 UK
+

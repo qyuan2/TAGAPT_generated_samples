@@ -1,0 +1,60 @@
+17
+MP*-operasetup.exe
+TF-CradleTest.txt
+MP*-C3B1.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug
+SF-C:\Windows\System32\cmd
+MF-\Users\admin\AppData\Local\Temp\is-HH8GJ.tmp\Dkeyauth.tmp
+TP-ns9872.tmp 
+MF-files\ntuser.dat.tmcontainer.a
+SF-C:\Users\admin\AppData\Local\Temp\RESF237.tmp
+TP*-vlliugwu.exe 
+SF-C:\Users\User\appdata\local\temp\deep
+SF-C:\Windows\system32\DllHost.exe
+MP-hh.exe 
+MP*-wscript.exe
+MF-C:\Users\admin\AppData\Local\Temp\Client.pdf
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+MF-C:\Windows\System32\Curl
+40
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 CD
+0 4 EX
+2 4 WR
+0 5 EX
+2 5 EX
+0 6 IJ
+6 1 RD
+2 6 IJ
+6 3 WR
+6 4 RD
+6 5 WR
+0 7 WR
+2 7 UK
+0 8 WR
+6 8 RD
+0 9 IJ
+9 1 RD
+9 3 RD
+9 4 WR
+9 5 RD
+6 9 IJ
+9 8 UK
+0 10 WR
+6 10 RD
+6 11 CD
+12 3 CD
+12 4 RD
+12 5 UK
+13 3 WR
+13 4 WR
+6 13 IJ
+13 10 EX
+13 11 UK
+6 14 RD
+15 6 RF
+6 16 RD
+

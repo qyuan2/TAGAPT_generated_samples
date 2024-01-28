@@ -1,0 +1,56 @@
+18
+MP-MadInjector\MadInjector.exe 
+TF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\LogTransport2.exe
+MP-gsecdump.exe
+MP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MP-Setup.exe
+MP-z9673002.exe
+MP-WinAPIOverride 6.9.1.tmp
+TP*-D18C.exe
+MF-\Users\admin\AppData\Local\Temp\is-N3R60.tmp
+TP*-fsutil.exe
+TF-C:\Users\All Users\Documents\audiodg.exe
+MF-.\ExternalPayloads\rubeus.exe
+SF-C:\Windows\Temp\T1027
+MP-ns9318.tmp
+MP*-pestudio.exe 
+MP*-is-Q2MHB.tmp
+SO-https://crashstats-collector.opera.com/collector/submit
+SO-45.63.100.72
+35
+0 1 CD
+0 2 UK
+3 1 WR
+4 1 WR
+3 4 UK
+5 1 WR
+6 1 WR
+5 6 UK
+7 1 CD
+7 8 WR
+9 1 WR
+7 9 IJ
+9 8 WR
+7 10 WR
+9 10 WR
+7 11 WR
+9 11 WR
+7 12 RD
+9 12 RD
+7 13 FR
+13 8 RD
+9 13 UK
+7 14 IJ
+14 8 CD
+14 10 RD
+14 11 WR
+14 12 EX
+7 15 FR
+15 8 RD
+15 10 CD
+15 11 WR
+15 12 EX
+14 15 UK
+7 16 ST
+7 17 ST
+

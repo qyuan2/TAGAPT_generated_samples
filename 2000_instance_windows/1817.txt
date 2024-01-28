@@ -1,0 +1,61 @@
+16
+MP*-mshta.exe
+TF-C:\Users\admin\Desktop\authroot
+MF-C:\Users\admin\AppData\Local\Temp\script
+TP*-JJSploit.exe 
+MP*-ns967A.tmp 
+MF-%temp%\T1222.001_cacls 
+MF-C:\Users\admin\AppData\Local\Temp\b79gpxd8.cmd
+MF-Powershell.exe
+TF-C:\Windows\System32\reg
+TF-\Windows\Temp\atomicNotificationPackage.dll
+MP-DllHost.exe 
+TP-WinRAR.exe
+TP*-HxDSetup.tmp
+MP-is-3DL5P.tmp
+MP-InstallUtil.exe
+MF-C:\Users\admin\AppData\Local\Temp\xobpf7op.cmd
+42
+0 1 EX
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 RD
+4 2 EX
+3 4 IJ
+0 5 RD
+3 5 EX
+4 5 RD
+0 6 WR
+3 6 RD
+4 6 WR
+0 7 WR
+3 7 RD
+4 7 RD
+0 8 WR
+3 8 EX
+4 8 UK
+0 9 RD
+3 9 WR
+0 10 FR
+10 1 WR
+10 2 WR
+3 10 UK
+11 1 WR
+11 2 WR
+11 5 UK
+12 2 WR
+12 6 WR
+12 7 WR
+12 9 WR
+13 6 WR
+13 7 WR
+13 9 WR
+12 13 UK
+14 6 EX
+14 7 WR
+14 9 WR
+14 15 UK
+

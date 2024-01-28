@@ -1,0 +1,49 @@
+15
+MP*-Invoice.exe 
+TP-WtHgie
+TP*-D911.exe
+SF-C:\Users\admin\Desktop\complexmove
+MF-.\ExternalPayloads\T1003.004\bin\PsExec.exe
+MP-pdates.exe 
+MP-SearchIndexer.exe
+MP-PC_Cleaner__5509.exe 
+TP*-MadInjector\MadInjector.exe 
+MP*-nslookup.exe
+TP-C3B1.exe
+MP-CareUEyes_setup.exe
+SF-C:\Users\admin\Downloads\malware
+SO-hxxp://194.180.174[.]73/1.txt
+TP-CareUEyes_setup.exe
+31
+0 1 FR
+1 2 IJ
+1 3 WR
+2 3 RD
+1 4 WR
+2 4 RD
+1 5 FR
+2 5 UK
+1 6 IJ
+6 3 WR
+6 4 WR
+1 7 FR
+7 3 WR
+7 4 WR
+6 7 UK
+1 8 FR
+8 3 WR
+8 4 RD
+1 9 IJ
+9 3 WR
+9 4 RD
+8 9 IJ
+1 10 UK
+11 3 WR
+11 4 WR
+8 11 IJ
+9 11 UK
+8 12 WR
+13 8 RF
+14 4 WR
+8 14 UK
+

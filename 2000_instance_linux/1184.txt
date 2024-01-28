@@ -1,0 +1,87 @@
+24
+MP-python
+SF-secret.c
+TF-lighttpd.c
+MF-cron.m
+TF-Discovery.sh
+MP-uname
+SF-flag4.txt
+MF-rockyou.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+SO-atomic@target.example
+MF-apache2.c
+MP*-awk
+MP-less
+MP*-netstat
+MF-image.php
+SF-http.c
+SF-CleaingScript.sh
+SF-raw.githubusercontent.c
+MF-cron.h
+TF-lighttp.c
+SO-192.168.206.136
+MP*-arp-scan
+MP*-cat
+MF-resolv.c
+60
+0 1 WR
+0 2 RD
+0 3 EX
+0 4 WR
+0 5 FR
+5 1 UK
+0 6 WR
+0 7 WR
+0 8 ST
+0 9 ST
+0 10 WR
+11 2 WR
+11 3 WR
+11 4 EX
+11 6 RD
+11 7 WR
+8 11 RF
+11 9 ST
+11 10 RD
+12 2 WR
+12 3 WR
+12 4 EX
+12 6 EX
+12 7 RD
+12 8 ST
+9 12 RF
+12 10 WR
+11 12 UK
+13 3 RD
+13 4 RD
+13 6 WR
+13 7 WR
+8 13 RF
+9 13 RF
+13 10 RD
+13 14 RD
+13 15 EX
+13 16 WR
+13 17 RD
+13 18 WR
+13 19 WR
+13 20 ST
+13 21 FR
+21 14 RD
+21 15 WR
+21 16 WR
+21 17 CD
+21 18 RD
+21 19 EX
+20 21 RF
+13 22 FR
+22 14 WR
+22 15 WR
+22 16 RD
+22 17 RD
+22 18 WR
+22 19 RD
+22 20 ST
+21 22 UK
+13 23 WR
+

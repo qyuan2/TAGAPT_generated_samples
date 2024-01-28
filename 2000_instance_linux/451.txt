@@ -1,0 +1,40 @@
+11
+MP*-grep
+MF-access.txt
+TP*-cat
+TP*-cat
+MP-more
+MF-Users.tar.gz
+MF-apache2.c
+MP*-ls
+MF-syslog.c
+MP-echo
+MP-grep
+26
+0 1 WR
+0 2 IJ
+2 1 EX
+0 3 FR
+3 1 WR
+2 3 IJ
+0 4 FR
+4 1 RD
+2 4 UK
+0 5 RD
+3 5 WR
+0 6 WR
+3 6 UK
+0 7 FR
+7 1 WR
+7 5 WR
+0 8 WR
+7 8 WR
+0 9 FR
+9 1 RD
+9 5 WR
+7 9 UK
+0 10 FR
+10 1 WR
+10 5 RD
+10 8 UK
+

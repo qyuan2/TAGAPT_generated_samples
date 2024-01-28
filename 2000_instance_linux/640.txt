@@ -1,0 +1,46 @@
+11
+MP*-curl
+SO-192.168.37.130
+MF-test.txt
+MF-AutoSUID.sh
+MP*-less
+TP*-bash 
+MP-bash
+TP*-dd
+MF-shell.cgi
+MP-ifconfig
+MP-ftp
+32
+0 1 ST
+0 2 WR
+0 3 RD
+0 4 FR
+4 1 ST
+4 2 WR
+4 3 RD
+0 5 IJ
+1 5 RF
+5 2 EX
+5 3 RD
+4 5 IJ
+0 6 FR
+1 6 RF
+6 2 WR
+6 3 WR
+5 6 IJ
+0 7 IJ
+7 1 ST
+7 2 CD
+7 3 WR
+4 7 IJ
+5 7 IJ
+6 7 UK
+0 8 WR
+4 8 WR
+5 8 WR
+0 9 UK
+10 1 ST
+10 2 EX
+10 3 EX
+4 10 UK
+

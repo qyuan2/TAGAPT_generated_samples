@@ -1,0 +1,39 @@
+13
+MP*-cat
+MP*-cat
+MF-access.htm
+MP-echo
+MF-evil.bin
+MF-LinEnum.sh
+MP-ip
+SO-192.168.159.128
+MP-more
+TP*-grep
+MP*-cat
+SF-data.zip
+SF-cron.h
+23
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 FR
+3 2 WR
+0 4 RD
+1 4 UK
+0 5 WR
+3 5 WR
+0 6 FR
+6 2 UK
+7 0 RF
+7 3 RF
+0 8 UK
+3 9 FR
+9 5 RD
+9 7 ST
+3 10 FR
+10 5 RD
+10 7 ST
+9 10 UK
+3 11 RD
+3 12 RD
+

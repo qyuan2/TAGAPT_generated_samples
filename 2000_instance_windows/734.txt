@@ -1,0 +1,63 @@
+19
+MP*-IEmode.exe 
+MP-WinSat.exe
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MF-\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+MP-yonr.exe 
+MF-C:\Program Files\Orcus\Orcus.exe
+MP*-863e7c22c771e4005197ae28363584f8.exe 
+MF-ZOR-3261778.pdf
+SF-C:\Program Files\Google\Chrome\Application\chrome
+TP*-PDQDeployConsole.exe
+MP-k2141323.exe
+TF-atomic.exe
+TP*-WINWORD.EXE
+SO-https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object
+MF-Files\OneDrive.exe
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+TF-C:\Users\admin\AppData\Local\Temp\VUIlNoZNzEFwsrIkpa\EvaPKO
+SF-C:\Windows\System32\msiexec.exe
+MP-WinSat.exe
+41
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 FR
+4 3 WR
+0 5 WR
+4 5 UK
+0 6 FR
+6 3 RD
+0 7 WR
+6 7 WR
+0 8 WR
+6 8 WR
+0 9 IJ
+9 3 WR
+6 9 IJ
+9 7 CD
+9 8 WR
+0 10 FR
+10 3 WR
+10 7 WR
+10 8 WR
+9 10 IJ
+6 11 WR
+9 11 UK
+12 3 WR
+12 7 EX
+12 8 EX
+10 12 IJ
+13 10 RF
+13 12 RF
+10 14 RD
+12 14 RD
+15 10 RF
+15 12 RF
+10 16 WR
+12 16 RD
+10 17 RD
+12 17 UK
+10 18 UK
+

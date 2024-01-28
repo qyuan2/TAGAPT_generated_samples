@@ -1,0 +1,74 @@
+19
+MP*-g++
+SO-192.168.47.134:4444
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-0*.txt
+MF-backsup.sh
+SF-alertConfigField.php
+MP*-chmod
+MP*-less
+MP-tee
+MF-http.c
+TF-T1070.006-reference.txt
+TP-dirb
+MF-flag4.txt
+MF-image.php
+SO-192.168.10.133
+MP*-last
+MF-T1003.008.txt
+MF-secret.c
+MP-grep
+52
+1 0 RF
+0 2 ST
+0 3 RD
+0 4 EX
+0 5 EX
+0 6 FR
+1 6 RF
+2 6 RF
+6 3 WR
+6 4 WR
+6 5 RD
+0 7 FR
+1 7 RF
+7 2 ST
+7 3 WR
+7 4 EX
+7 5 WR
+0 8 FR
+8 1 ST
+8 2 ST
+8 3 RD
+8 4 WR
+8 5 WR
+6 8 UK
+0 9 RD
+7 9 WR
+0 10 WR
+7 10 WR
+1 11 RF
+11 2 ST
+11 3 EX
+11 4 RD
+11 5 UK
+7 12 WR
+7 13 CD
+7 14 ST
+7 15 FR
+15 9 WR
+15 10 RD
+15 12 WR
+15 13 CD
+14 15 RF
+7 16 RD
+15 16 EX
+7 17 WR
+15 17 WR
+18 9 WR
+18 10 WR
+18 12 RD
+18 13 WR
+14 18 RF
+15 18 UK
+

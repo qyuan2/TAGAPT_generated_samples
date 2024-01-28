@@ -1,0 +1,41 @@
+11
+MP*-sed
+MP-cat
+SO-192.168.206.136
+TF-atomic.log
+MF-f.r
+MP*-bash
+TP*-echo 
+TP*-dd
+SF-ufw.c
+SO-192.168.2.102
+MP-dd
+27
+0 1 FR
+0 2 ST
+2 1 RF
+0 3 WR
+1 3 EX
+0 4 WR
+1 4 UK
+0 5 FR
+2 5 RF
+5 3 WR
+0 6 FR
+2 6 RF
+6 3 RD
+5 6 IJ
+0 7 FR
+2 7 RF
+7 3 EX
+5 7 IJ
+6 7 UK
+0 8 RD
+5 8 CD
+0 9 ST
+5 9 ST
+0 10 FR
+10 2 ST
+10 3 RD
+5 10 UK
+

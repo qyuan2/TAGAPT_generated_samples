@@ -1,0 +1,50 @@
+13
+MP*-sudo
+SF-chttp.c
+MP-tail
+MF-secret.c
+TP-nl
+MF-settings.php
+SF-target.example.c
+SO-192.168.2.102
+SF-2017.pl
+MP*-ls
+MF-2017.pl
+MP*-ip
+MP*-tac
+34
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 RD
+0 4 IJ
+4 1 EX
+2 4 UK
+0 5 RD
+0 6 WR
+7 0 RF
+0 8 WR
+0 9 FR
+9 1 WR
+9 3 WR
+9 5 WR
+9 6 WR
+9 7 ST
+9 8 WR
+0 10 WR
+9 10 RD
+11 3 RD
+11 5 RD
+11 6 WR
+11 7 ST
+11 8 EX
+11 10 WR
+12 3 WR
+12 5 RD
+12 6 WR
+12 7 ST
+12 8 WR
+12 10 RD
+11 12 UK
+

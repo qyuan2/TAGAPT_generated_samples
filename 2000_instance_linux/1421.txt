@@ -1,0 +1,34 @@
+11
+MP*-tac
+MF-AutoSUID.sh
+TP*-more
+SF-alertConfigField.php
+MF-resolv.c
+MF-cron.m
+MP*-prel
+MF-shell.cgi
+SF-1.zip
+MP*-grep
+MF-access.htm
+20
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 WR
+0 4 WR
+2 4 RD
+0 5 RD
+2 5 WR
+0 6 FR
+6 1 RD
+2 6 UK
+0 7 WR
+0 8 WR
+0 9 FR
+9 1 RD
+9 3 WR
+9 4 EX
+9 5 UK
+0 10 WR
+

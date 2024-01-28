@@ -1,0 +1,41 @@
+11
+MP*-iexplore.exe
+MF-C:\Users\admin\AppData\Local\Temp\Lagnybussynotaires
+TF-C:\Program files\appdata\local\temp\20342
+SF-C:\Users\admin\AppData\Local\Temp\is-7OKKI.tmp
+MP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+MF-C:\Users\admin\AppData\Local\Temp\executable
+TP-nanodump.x64.exe
+MP-ns9FC4.tmp
+TP*-javaw.exe 
+MP*-SearchIndexer.exe
+MF-icacls.exe
+27
+0 1 RD
+0 2 WR
+0 3 EX
+0 4 FR
+4 1 RD
+4 2 RD
+4 3 RD
+0 5 WR
+4 5 RD
+0 6 IJ
+6 1 WR
+6 2 WR
+6 3 UK
+0 7 FR
+7 1 WR
+7 2 WR
+4 7 UK
+0 8 FR
+8 1 EX
+8 2 WR
+8 5 WR
+0 9 FR
+9 1 WR
+9 2 WR
+9 5 EX
+8 9 UK
+0 10 WR
+

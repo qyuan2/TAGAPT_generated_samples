@@ -1,0 +1,37 @@
+10
+MP*-feroxbuster
+TF-data.zip
+MF-td.c
+MP-uname
+MF-secret.c
+MP*-less
+MF-f.r
+SO-192.168.10.135
+TP*-curl
+TP*-tail
+24
+0 1 EX
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 EX
+0 4 RD
+0 5 FR
+5 1 RD
+5 2 WR
+5 4 CD
+0 6 WR
+5 6 WR
+7 0 RF
+5 7 ST
+0 8 IJ
+8 1 WR
+8 2 WR
+8 4 EX
+5 8 UK
+0 9 IJ
+9 1 CD
+9 2 CD
+9 4 RD
+9 6 UK
+

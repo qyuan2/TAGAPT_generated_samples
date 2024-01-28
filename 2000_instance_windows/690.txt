@@ -1,0 +1,43 @@
+15
+MP*-ExplorerSuite.tmp
+MF-C:\Users\admin\AppData\Local\Temp\splwow64.exe
+MP-Paranoid Checker.exe 
+SF-C:\Users\admin\AppData\Local\Temp\UN
+MP-msedge.exe
+TF-\Windows\System32\calc.exe
+MF-C:\Users\admin\AppData\Local\Temp\compile.vb
+TP*-C:\Windows\System32\msiexec.exe
+MF-C:\Users\admin\AppData\Local\Temp\alg
+SO-http://192.168.5.25/test
+MP*-slui.exe
+MF-C:\Windows\System32\reg.exe
+MF-\Users\admin\Downloads\crypto-js.js
+TF-C:\Users\admin\AppData\Local\Temp\GLJC215
+MP*-MicrosoftEdgeUpdate.exe
+25
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 UK
+2 5 RD
+2 6 WR
+7 1 RD
+2 7 IJ
+7 3 WR
+7 5 EX
+7 6 RD
+2 8 WR
+7 8 RD
+9 2 RF
+9 7 RF
+10 1 RD
+2 10 UK
+7 11 EX
+7 12 WR
+7 13 RD
+14 5 RD
+14 6 WR
+7 14 UK
+

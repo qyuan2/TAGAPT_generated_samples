@@ -1,0 +1,56 @@
+15
+MP*-nl
+MP*-nl
+MF-LinEnum.sh
+MF-syslog.c
+SO-192.168.10.128
+MP*-paste
+MF-raj.txt
+MP-bash
+SF-LinEnum.sh
+SO-192.168.10.133
+SF-/etc/passwd
+MP-whoami
+SO-192.168.47.134:4444
+MP*-dd
+MP-nl
+38
+0 1 FR
+0 2 RD
+1 2 RD
+0 3 EX
+1 3 WR
+0 4 ST
+1 4 ST
+0 5 FR
+5 2 WR
+5 3 RD
+4 5 RF
+0 6 WR
+1 6 WR
+5 6 RD
+0 7 FR
+1 7 UK
+0 8 WR
+5 8 WR
+0 9 ST
+5 9 ST
+0 10 WR
+5 10 EX
+11 2 WR
+11 3 UK
+12 5 RF
+4 13 RF
+13 6 RD
+13 8 EX
+13 9 ST
+13 10 RD
+13 12 ST
+4 14 RF
+14 6 WR
+14 8 RD
+14 9 ST
+14 10 RD
+12 14 RF
+13 14 UK
+

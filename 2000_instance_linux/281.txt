@@ -1,0 +1,64 @@
+18
+MP*-nl
+MF-CleaingScript.sh
+MP-nl
+MP-nmap
+TP-sudo
+MP-python
+MF-user.r
+MP-wfuzz
+MF-alertConfigField.php
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+TP*-chmod
+TP-cat
+MF-secret.c
+TP*-ls
+MP*-systemctl
+MP-nl
+MF-www.google.c
+TP-tail
+43
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 UK
+4 1 WR
+2 4 IJ
+5 1 WR
+2 5 UK
+4 6 RD
+7 1 EX
+4 7 IJ
+7 6 RD
+4 8 RD
+7 8 RD
+4 9 ST
+7 9 ST
+10 1 WR
+4 10 IJ
+10 6 EX
+7 10 IJ
+10 8 CD
+9 10 RF
+11 1 WR
+4 11 UK
+7 12 RD
+10 12 WR
+13 6 RD
+7 13 IJ
+13 8 WR
+13 9 ST
+10 13 UK
+14 6 RD
+14 8 RD
+9 14 RF
+14 12 WR
+15 6 UK
+7 16 WR
+14 16 RD
+7 17 IJ
+17 8 CD
+17 9 ST
+17 12 WR
+14 17 UK
+

@@ -1,0 +1,78 @@
+19
+MP*-ip
+MF-os.exe
+TP*-grep
+SO-http://192.168.10.129/image.php?FUZZ=something
+TP-hash-identifier
+TP-paste
+MF-raft-medium-directories.txt
+SO-192.168.37.130
+TF-password-hash.sh
+MP*-less
+TF-0*.txt
+MF-art.sh
+MF-2017.pl
+TP-sudo
+TP*-cat
+TF-AutoSUID.sh
+TP-more
+MP-wpscan
+TP-sudo
+56
+0 1 WR
+0 2 IJ
+2 1 CD
+0 3 ST
+2 3 ST
+0 4 FR
+4 1 RD
+2 4 IJ
+3 4 RF
+0 5 IJ
+5 1 WR
+2 5 UK
+0 6 RD
+4 6 WR
+7 0 RF
+4 7 ST
+0 8 WR
+4 8 WR
+0 9 FR
+9 1 RD
+3 9 RF
+4 9 IJ
+9 6 RD
+7 9 RF
+9 8 WR
+0 10 RD
+4 10 WR
+9 10 RD
+4 11 EX
+9 11 EX
+4 12 WR
+9 12 RD
+3 13 RF
+4 13 IJ
+13 6 WR
+13 7 ST
+13 8 EX
+9 13 IJ
+13 10 UK
+4 14 IJ
+14 6 WR
+7 14 RF
+14 8 WR
+9 14 IJ
+14 11 RD
+14 12 EX
+9 15 RD
+14 15 RD
+16 6 WR
+7 16 RF
+16 8 UK
+17 7 ST
+9 17 UK
+18 11 RD
+18 12 EX
+14 18 UK
+

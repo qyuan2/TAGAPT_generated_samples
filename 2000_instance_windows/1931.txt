@@ -1,0 +1,93 @@
+24
+MP*-secedit.exe
+MF-C:\Windows\SysWow64\regsvr32
+MP-verclsid.exe
+MP-svchost.exe
+MP*-cacls.exe
+MF-C:\Users\admin\AppData\Local\Temp\nsf91FB.tmp
+MP-New order.exe 
+SO-http://fbi.fund/dark.exe
+TF-C:\Users\admin\Desktop
+SF-C:\Users\admin\Desktop\mincedcrack
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Wmic_calc.xsl
+MF-C:\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+TP-tasklist.exe
+MF-\Users\admin\AppData\Local\Temp\Invoice.exe
+MF-\Users\admin\AppData\Local\Temp\5033182378119.js
+MP-SearchFilterHost.exe
+MF-C:\Program Files\VideoLAN\VLC\vlc
+MP*-taskmgr.exe
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+MP*-nsA19D.tmp
+TF-specification.exe
+MF-C:\Users\admin\AppData\Local\Temp\peplus.m
+MF-\Users\admin\Desktop\EXE_temp2.exe
+MP-winhost.exe
+66
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 FR
+4 1 WR
+0 5 WR
+4 5 WR
+0 6 FR
+6 1 WR
+6 5 RD
+0 7 ST
+4 7 ST
+6 7 ST
+0 8 WR
+4 8 WR
+6 8 UK
+0 9 RD
+4 9 WR
+10 0 RF
+4 10 ST
+4 11 EX
+4 12 FR
+12 5 WR
+12 7 ST
+12 9 EX
+12 10 ST
+12 11 WR
+4 13 UK
+12 14 RD
+15 5 RD
+15 7 ST
+15 9 RD
+15 10 ST
+15 11 CD
+12 15 IJ
+15 14 WR
+12 16 WR
+15 16 WR
+7 17 RF
+17 9 WR
+10 17 RF
+17 11 WR
+12 17 IJ
+17 14 WR
+15 17 UK
+18 12 RF
+19 9 RD
+10 19 RF
+19 11 WR
+12 19 IJ
+19 14 WR
+19 16 RD
+19 18 ST
+12 20 RD
+19 20 RD
+12 21 WR
+19 21 RD
+12 22 EX
+19 22 RD
+23 14 RD
+23 16 EX
+18 23 RF
+19 23 UK
+

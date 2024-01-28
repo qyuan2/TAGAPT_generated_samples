@@ -1,0 +1,71 @@
+21
+MP*-Heapman45.exe 
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MP-C3B1.exe
+MF-C:\Users\admin\AppData\Local\Temp\fcexploit.pdf
+MF-485240_2023_.rar
+TP-secedit.exe
+MF-%tmp%\mimikatz\x64\mimikatz.exe
+MP-nvvsvc.exe 
+MP-wscript.exe
+MP-runas.exe
+MP*-Mavinject.exe
+TP*-pcalua.exe
+MF-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\Office Setup Controller\Setup
+MP-takeown.exe
+MP-Outflank-Dumpert.exe
+MP-xordump.exe 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt','Default_File_Path.ps1');IEX((-Join([IO.File]::ReadAllBytes('Default_File_Path.ps1')|ForEach-Object{[Char]$_
+SO-192.168.10.11
+MP*-wbengine.exe
+SO-0.0.0.0
+TP-svchost.exe
+47
+1 0 RF
+0 2 FR
+1 2 RF
+0 3 CD
+2 3 EX
+0 4 RD
+2 4 WR
+0 5 IJ
+5 1 ST
+2 5 UK
+0 6 UK
+7 1 ST
+7 3 RD
+7 4 UK
+1 8 RF
+8 3 WR
+9 1 ST
+9 3 WR
+8 9 UK
+1 10 RF
+10 3 WR
+11 1 ST
+11 3 EX
+10 11 IJ
+10 12 EX
+11 12 RD
+13 3 EX
+11 13 IJ
+13 12 RD
+10 14 FR
+11 14 UK
+10 15 FR
+15 12 WR
+13 15 UK
+10 16 ST
+10 17 ST
+10 18 FR
+18 12 WR
+16 18 RF
+17 18 RF
+10 19 ST
+18 19 ST
+10 20 FR
+20 12 WR
+16 20 RF
+20 17 ST
+18 20 UK
+

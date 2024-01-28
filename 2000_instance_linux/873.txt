@@ -1,0 +1,37 @@
+11
+MP*-head
+MF-T1070.006-reference.txt
+MF-syslog.c
+MP*-teehee
+MP*-tac
+MF-art.sh
+TP-cat
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP*-bash
+MP-cat
+TF-user.r
+23
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 EX
+3 2 RD
+0 4 FR
+4 1 EX
+4 2 RD
+0 5 WR
+3 5 EX
+4 5 WR
+0 6 IJ
+6 1 UK
+7 0 RF
+3 7 ST
+4 7 ST
+0 8 FR
+8 2 RD
+3 8 UK
+0 9 FR
+9 2 WR
+4 9 UK
+0 10 EX
+

@@ -1,0 +1,60 @@
+18
+MP*-taskkill.exe
+MP-at.exe
+MF-C:\Users\admin\AppData\Local\Temp\GfQBLiiemEPjpaWCZk\DnaohH
+MP-ntvdm.exe
+MP-xordump.exe 
+TP-test de fdp.exe 
+MF-%tmp%\q v
+TP*-vlliugwu.exe 
+MP*-cscript.exe
+TP*-d6405410.exe
+MP-OUTLOOK.EXE
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\n4054738.exe
+TP-E63F.exe
+MF-C:\Users\admin\AppData\Local\Temp\Spora
+MP-WINWORD.EXE
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+TF-PathToAtomicsFolder\T1574.008\bin\calc.cs
+SF-C:\Users\admin\AppData\Local\Temp\5158c830d2dfb8a523c3c24077e67fe792346ffa443126ebf2d09ace68f73000.bmp
+39
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+1 3 UK
+0 4 FR
+4 2 WR
+0 5 IJ
+5 2 CD
+4 5 UK
+0 6 RD
+0 7 FR
+7 2 WR
+7 6 WR
+0 8 FR
+8 2 WR
+8 6 RD
+7 8 IJ
+0 9 IJ
+9 2 WR
+9 6 RD
+7 9 IJ
+8 9 IJ
+0 10 UK
+7 11 WR
+8 11 RD
+9 11 RD
+12 2 WR
+12 6 WR
+7 12 IJ
+8 12 UK
+7 13 CD
+9 13 RD
+14 6 EX
+7 14 IJ
+9 14 UK
+7 15 ST
+7 16 WR
+7 17 WR
+

@@ -1,0 +1,73 @@
+20
+MP*-rundll32.exe 
+SF-C:\Users\admin\AppData\Local\Temp\file.exe
+MP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+MF-C:\Windows\SysWOW64\WerFault
+MF-C:\Users\admin\AppData\Local\Temp\sechex-spoofy.zip
+MF-C:\Users\admin\AppData\Local\Temp\bltf.exe
+SF-C:\Users\admin\AppData\Local\Temp\Ransomware
+MP-setup_avrokeyboard_5.6.0.exe
+MP*-cacls.exe
+TP*-Orcus.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Saz_Injector.zip
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+SO-http://192.168.10.11/test.ps1
+MF-C:\Users\admin\Downloads\crypto
+MF-\Users\admin\AppData\Local\Temp\compile.vb
+MF-C:\Users\admin\AppData\Local\Temp\RunDRT
+TF-96.zip
+MP-ProcessHacker.exe 
+MP*-powershell.exe
+MP-filezilla.exe 
+50
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 RD
+2 4 WR
+0 5 RD
+2 5 WR
+0 6 RD
+2 6 UK
+0 7 FR
+7 1 WR
+7 3 WR
+7 4 UK
+0 8 FR
+8 1 RD
+8 3 RD
+8 5 WR
+0 9 IJ
+9 1 EX
+9 3 WR
+9 5 EX
+8 9 IJ
+0 10 WR
+8 10 WR
+9 10 WR
+11 8 RF
+9 11 ST
+12 8 RF
+9 12 ST
+8 13 RD
+9 13 EX
+8 14 RD
+9 14 UK
+8 15 RD
+8 16 WR
+8 17 FR
+17 10 UK
+18 11 ST
+18 12 ST
+18 13 WR
+18 15 WR
+18 16 EX
+11 19 RF
+19 12 ST
+19 13 RD
+19 15 WR
+19 16 RD
+18 19 UK
+

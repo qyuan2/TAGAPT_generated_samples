@@ -1,0 +1,38 @@
+13
+MP*-crack.exe 
+SO-80.0.0.0
+TF---.exe
+SO-file://C:\windows\system32\notepad.exe
+MF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d
+MP*-nsCA5C.tmp
+TP*-TBHD AWB 1ZY0W5038626871089.exe
+SO-199.247.25.79
+SF-C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content
+SF-C:\Users\Public
+SO-http://199.247.25.79/get.php
+SO-80.0.0.0
+MP*-system_file.exe 
+22
+0 1 ST
+0 2 WR
+0 3 ST
+0 4 WR
+0 5 FR
+5 1 ST
+5 2 WR
+3 5 RF
+5 4 UK
+0 6 IJ
+1 6 RF
+6 2 WR
+3 6 RF
+7 0 RF
+6 7 ST
+0 8 WR
+6 8 WR
+6 9 WR
+6 10 ST
+6 11 ST
+12 3 ST
+6 12 UK
+

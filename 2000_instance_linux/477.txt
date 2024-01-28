@@ -1,0 +1,59 @@
+15
+MP*-cat
+SF-T1070.004-test.txt
+SO-192.168.10.131
+MP*-less
+MP*-cat
+MF-CleaingScript.sh
+MF-logrotate.c
+MP-ls
+TP-cat
+MP-find
+MF-data.zip
+TP*-teehee
+MP-cat
+MF-user.r
+TF-flag4.txt
+41
+0 1 WR
+0 2 ST
+0 3 FR
+3 1 RD
+3 2 ST
+0 4 FR
+4 1 WR
+2 4 RF
+0 5 CD
+3 5 EX
+4 5 RD
+0 6 WR
+3 6 EX
+4 6 RD
+0 7 FR
+7 1 WR
+2 7 RF
+4 7 UK
+0 8 IJ
+8 1 WR
+8 2 ST
+3 8 UK
+0 9 FR
+9 1 WR
+2 9 RF
+9 5 WR
+9 6 WR
+0 10 WR
+9 10 WR
+11 1 RD
+11 2 ST
+11 5 WR
+11 6 WR
+9 11 IJ
+11 10 WR
+12 2 ST
+12 5 WR
+12 6 RD
+9 12 UK
+11 13 WR
+11 14 UK
+

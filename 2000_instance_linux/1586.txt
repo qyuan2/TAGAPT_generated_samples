@@ -1,0 +1,132 @@
+37
+MP*-id
+MF-alertConfigField.php
+SF-lighttp.c
+MF-T1003.008.txt
+MF-data.zip
+SF-at.a
+MP-netstat
+TP-netstat
+MP-paste
+MF-raft-large-directories.txt
+MF-flag4.txt
+TP-bash
+MP-whoami
+TP*-cat
+MF-journald.c
+MP-bash
+MP*-id
+MP-uname
+TP-uname
+MF-common.txt
+TF-T1027-004-test.c
+TF-logrotate.c
+TP-less
+SF-syslog.c
+MF-Users.tar.gz
+TP-whoami
+MF-subprocess.c
+MP-cat
+TF-journald.c
+MF-LinEnum.sh
+MF-CleaingScript.sh
+MP*-head
+MP-awk
+MF-atomic.sh
+SF-e.c
+MP-cat
+MP-who
+92
+0 1 RD
+0 2 WR
+0 3 RD
+0 4 WR
+0 5 RD
+0 6 FR
+6 1 UK
+0 7 UK
+8 2 RD
+8 3 WR
+8 4 RD
+8 5 WR
+8 9 CD
+8 10 EX
+11 2 RD
+11 3 UK
+12 2 WR
+12 4 RD
+12 5 CD
+8 12 UK
+13 4 WR
+13 5 WR
+13 9 WR
+13 10 RD
+13 14 WR
+15 5 EX
+15 9 RD
+15 10 UK
+16 9 RD
+13 16 IJ
+16 14 EX
+17 9 RD
+13 17 IJ
+17 14 UK
+18 9 RD
+13 18 IJ
+16 18 IJ
+13 19 EX
+16 19 WR
+18 19 RD
+13 20 WR
+16 20 EX
+18 20 RD
+13 21 EX
+16 21 CD
+18 21 RD
+13 22 IJ
+16 22 IJ
+18 22 IJ
+22 19 RD
+22 20 CD
+22 21 WR
+13 23 EX
+16 23 EX
+18 23 EX
+22 23 UK
+16 24 WR
+18 24 RD
+16 25 FR
+18 25 IJ
+25 19 RD
+25 20 RD
+25 21 RD
+25 24 RD
+16 26 CD
+18 26 RD
+25 26 WR
+18 27 UK
+25 28 WR
+25 29 WR
+25 30 WR
+31 21 CD
+31 24 WR
+25 31 IJ
+31 26 WR
+31 28 WR
+31 29 RD
+31 30 RD
+32 24 WR
+25 32 UK
+31 33 WR
+31 34 RD
+35 26 WR
+35 28 WR
+35 29 WR
+35 30 EX
+31 35 UK
+36 26 CD
+36 28 WR
+36 29 EX
+36 30 RD
+36 33 UK
+

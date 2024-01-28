@@ -1,0 +1,38 @@
+13
+MP*-nl
+MP-cat
+SF-1.zip
+SF-settings.php
+MP-grep
+MF-ufw.c
+MP*-nmap
+MP-dd
+MP*-cat
+TP*-uname
+MP-nl
+MP-grep
+TP-awk
+22
+0 1 FR
+0 2 CD
+1 2 WR
+0 3 WR
+1 3 RD
+0 4 UK
+1 5 WR
+1 6 FR
+6 2 WR
+6 3 UK
+1 7 FR
+7 2 UK
+1 8 FR
+8 5 CD
+1 9 FR
+9 5 EX
+8 9 UK
+1 10 FR
+10 5 RD
+1 11 FR
+11 5 UK
+10 12 UK
+

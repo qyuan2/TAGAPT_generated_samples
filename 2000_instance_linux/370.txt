@@ -1,0 +1,64 @@
+20
+MP*-cat
+MF-flag4.txt
+MP-dd
+MP-find
+MP-xwd
+SF-flag4.txt
+MF-journald.c
+MF-Users.tar.gz
+MF-raw.githubusercontent.c
+SF-user.r
+TF-Users.tar.gz
+TP*-paste
+MF-passwd.zip
+MP*-grep
+TP-cp
+MP*-xwd
+MP-head
+TF-T1074.001_discovery.log
+MP-paste
+MP-uname
+41
+0 1 CD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 FR
+4 1 EX
+0 5 RD
+4 5 UK
+0 6 WR
+0 7 EX
+0 8 WR
+0 9 WR
+0 10 WR
+11 1 WR
+11 6 WR
+11 7 RD
+11 8 RD
+11 9 WR
+11 10 WR
+11 12 WR
+13 7 CD
+13 8 WR
+13 9 WR
+13 10 UK
+14 7 UK
+15 8 EX
+15 9 WR
+11 15 IJ
+15 12 WR
+16 8 WR
+16 9 RD
+11 16 IJ
+16 12 EX
+15 16 UK
+11 17 UK
+18 9 WR
+18 12 WR
+19 12 CD
+18 19 UK
+

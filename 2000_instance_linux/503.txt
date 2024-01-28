@@ -1,0 +1,43 @@
+14
+MP*-find
+SF-0*.txt
+MF-atomic.log
+MF-subprocess.c
+TF-ret.c
+TP-rm
+MF-httpd.c
+MF-io.r
+TP*-cat
+SF-f.r
+TF-raw.githubusercontent.c
+SF-common.txt
+TP*-cat
+MP*-sh
+26
+0 1 RD
+0 2 WR
+0 3 WR
+0 4 WR
+0 5 IJ
+5 1 UK
+0 6 WR
+0 7 CD
+0 8 FR
+8 2 WR
+8 3 RD
+8 4 WR
+8 6 RD
+8 7 WR
+0 9 WR
+8 9 WR
+0 10 WR
+8 10 WR
+8 11 RD
+12 3 RD
+12 4 WR
+12 6 RD
+12 7 UK
+13 4 WR
+13 6 EX
+8 13 UK
+

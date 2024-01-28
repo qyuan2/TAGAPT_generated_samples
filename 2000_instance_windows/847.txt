@@ -1,0 +1,27 @@
+10
+MP*-TBHD AWB 1ZY0W5038626871089.exe
+SF-C:\Users\admin\AppData\Local\Temp\Fwd_
+MF-asset_store.m
+MF-C:\Users\admin\AppData\Local\Temp\Overdue
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+MP-POWERPNT.EXE
+MP*-vlc.exe 
+TP*-8cc2d4575163a5e3dc7a56face3644e9.exe 
+MF-C:\Users\admin\Desktop\Wub\Wub.exe
+MP*-DriverFiles_8a39eacf3b01f2a8c3032697a9824211.exe 
+14
+0 1 WR
+0 2 WR
+0 3 WR
+4 0 RF
+0 5 UK
+6 1 WR
+6 2 WR
+6 3 UK
+7 1 WR
+7 2 WR
+4 7 RF
+7 8 EX
+9 1 CD
+9 2 UK
+

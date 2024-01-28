@@ -1,0 +1,44 @@
+14
+MP*-Nixware.exe
+MF-C:\vLocalServerSetup\install
+MP-SecuriteInfo.com
+MF-PLAZMA.VIBER.ontroma.r
+TF-\Users\admin\AppData\Local\Temp\Setup.bin.exe
+TP-Updater.exe 
+MP-qgcrmeck.exe
+TP-PC_Cleaner__5509.exe 
+TP*-ping.exe
+SF-C:\Windows\system32\DllHost.exe
+MP*-damianocrnofj6793.exe
+MF-C:\Users\admin\AppData\Local\Temp\alg.exe
+MP-csc.exe 
+MP*-nmap.exe
+27
+0 1 WR
+0 2 FR
+2 1 UK
+0 3 RD
+0 4 RD
+0 5 UK
+6 3 RD
+6 4 WR
+7 3 WR
+7 4 RD
+6 7 UK
+8 3 WR
+8 4 WR
+8 9 WR
+10 3 RD
+10 4 WR
+8 10 IJ
+10 9 EX
+8 11 EX
+10 11 EX
+12 3 RD
+12 4 WR
+8 12 UK
+13 3 RD
+13 4 EX
+13 9 RD
+10 13 UK
+

@@ -1,0 +1,67 @@
+20
+MP*-nanodump.x64.exe
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\misc.r
+MP-ie_to_edge_stub.exe
+MP-Exloader_Installer.vmp.exe 
+MP-msiexec.exe
+TP-DIXRAT.exe 
+MF-C:\Users\admin\AppData\Local\Temp\admin_Passwords.txt
+MP-file.exe
+MP-NOTEPAD.EXE
+SF-C:\Recovery\345b46fe-a9f9-11e7-a83c-e8a4f72b1d33\IMEDICTUPDATE.exe
+MP-AnyDesk-a444ebcf.exe 
+TP*-taskhsvc.exe
+MP*-Explorer.EXE
+MP*-expo.exe
+SF-C:\Windows\system32\certutil.exe
+SF-C:\Users\admin\AppData\Roaming\fertyno12\client32
+MP-Test.exe 
+SF-C:\ProgramData\anydesk.exe
+MP-ns996E.tmp
+SF-C:\Users\Public\Music\mediatv.mov
+44
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 FR
+4 1 WR
+0 5 IJ
+5 1 RD
+4 5 UK
+0 6 WR
+0 7 FR
+7 1 WR
+7 6 WR
+0 8 FR
+8 1 RD
+8 6 WR
+7 8 UK
+0 9 WR
+0 10 UK
+11 1 EX
+11 6 RD
+11 9 RD
+12 6 WR
+12 9 EX
+11 12 IJ
+13 9 WR
+11 13 IJ
+11 14 RD
+12 14 WR
+13 14 RD
+11 15 WR
+12 15 EX
+13 15 WR
+16 9 EX
+11 16 IJ
+12 16 UK
+11 17 WR
+13 17 UK
+11 18 IJ
+18 14 EX
+18 15 UK
+11 19 WR
+

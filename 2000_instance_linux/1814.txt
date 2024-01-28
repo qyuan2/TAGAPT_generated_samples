@@ -1,0 +1,60 @@
+20
+MP-cat
+SF-chttp.c
+MF-flag3.txt
+MF-atomic.sh
+MP-paste
+TP-chmod
+MP*-cat
+MF-lighttpd.c
+SO-http://192.168.10.128/shell.cgi
+SO-http://192.168.10.128/shell.cgi
+MF-pwquality.c
+MF-passwd.zip
+TP-sed
+MP*-bash
+MP*-netstat
+MF-rockyou.txt
+MF-sysctl.c
+MP*-cat
+TF-secret.c
+MP-tee
+37
+0 1 RD
+0 2 WR
+0 3 RD
+0 4 UK
+5 1 UK
+6 2 RD
+6 3 EX
+6 7 WR
+6 8 ST
+9 6 RF
+6 10 WR
+6 11 EX
+12 3 WR
+6 12 UK
+13 7 WR
+8 13 RF
+9 13 RF
+13 10 RD
+13 11 WR
+14 7 RD
+8 14 RF
+14 9 ST
+14 10 WR
+14 11 RD
+13 15 RD
+14 15 CD
+13 16 WR
+14 16 WR
+17 8 ST
+17 9 ST
+17 10 WR
+17 11 RD
+14 17 UK
+13 18 EX
+19 10 WR
+19 11 RD
+13 19 UK
+

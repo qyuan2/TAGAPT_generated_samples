@@ -1,0 +1,99 @@
+22
+MP*-netsh.exe
+MF-\Users\admin\AppData\Local\Temp\is-AQ9QP.tmp\PC_Cleaner__5509.tmp
+MF-C:\Users\admin\AppData\Local\Temp\Detected_File_07A67941480C9E80209194B27284F1FA0E331246_20230901110701
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+MP-DataSvcUtil.exe
+SF-C:\Users\admin\AppData\Local\Temp\RunDRT-Office2016.bat
+MF-\Users\admin\AppData\Local\Temp\tb.png
+MP*-k2141323.exe
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug
+MP*-mshta.exe
+MF-\Users\admin\Desktop\referenceoffice.rtf
+TP-Enquiry No. 1000341492.exe 
+SF-C:\Users\admin\AppData\Local\Temp\xqGqlVXkyPJD.exe
+TP*-diskshadow.exe
+MP-fast1nject.exe 
+MP-verclsid.exe
+TP-softwarelagswitchc.exe 
+SF-C:\Users\admin\Desktop\Screenshot
+MF-C:\Users\admin\Documents\DS
+MF-\Users\admin\AppData\Local\Temp\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7.zip
+MP-Explorer.EXE
+MP-DATOS DE ARCHIVOS No 7879746161364.exe
+74
+0 1 WR
+0 2 EX
+3 0 RF
+0 4 FR
+4 1 WR
+4 2 RD
+3 4 RF
+0 5 WR
+4 5 EX
+0 6 EX
+4 6 RD
+0 7 FR
+7 1 WR
+7 2 EX
+7 3 ST
+7 5 WR
+7 6 WR
+0 8 RD
+4 8 RD
+7 8 RD
+0 9 FR
+9 1 WR
+9 2 RD
+9 3 ST
+9 5 RD
+9 6 EX
+9 8 WR
+7 10 RD
+9 10 WR
+11 2 WR
+3 11 RF
+11 5 WR
+11 6 WR
+7 11 IJ
+11 8 RD
+9 11 IJ
+11 10 WR
+7 12 RD
+9 12 RD
+11 12 EX
+13 5 WR
+13 6 CD
+7 13 IJ
+13 8 EX
+9 13 IJ
+13 10 EX
+11 13 IJ
+13 12 RD
+14 5 RD
+14 6 WR
+7 14 UK
+15 6 RD
+15 8 RD
+15 10 RD
+11 15 UK
+16 8 RD
+9 16 IJ
+16 10 CD
+16 12 RD
+13 16 IJ
+9 17 WR
+13 17 RD
+16 17 RD
+9 18 WR
+13 18 CD
+16 18 WR
+13 19 CD
+16 19 WR
+20 10 EX
+20 12 WR
+13 20 IJ
+16 20 UK
+21 12 EX
+13 21 UK
+

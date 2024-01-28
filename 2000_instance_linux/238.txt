@@ -1,0 +1,146 @@
+34
+MP*-cat
+MP-ftp
+MF-f.r
+SO-192.168.37.130
+MF-da-ks.cfg
+TP-ls
+MF-p.c
+TF-settings.php
+MP*-more
+MF-journald.c
+SO-8.8.8.8
+TP-ftp
+MF-logrotate.c
+SF-secret.c
+MF-ufw.c
+TP-hostname
+TF-raft-large-directories.txt
+MP*-arp-scan
+MP*-cat
+TP-cat
+MP-perl
+MF-f.r
+MF-v.c
+MF-AutoSUID.sh
+TP-bash
+MF-subprocess.c
+TP-awk
+SF-image.php
+TF-1.zip
+MF-backsup.sh
+TF-apache2.c
+MP-sudo
+MP-dmesg
+MP-rev
+109
+0 1 FR
+0 2 RD
+1 2 CD
+3 0 RF
+3 1 RF
+0 4 WR
+1 4 WR
+0 5 IJ
+1 5 UK
+0 6 RD
+0 7 EX
+0 8 FR
+8 2 EX
+3 8 RF
+8 4 RD
+8 6 CD
+8 7 WR
+0 9 WR
+8 9 WR
+10 0 RF
+8 10 ST
+11 2 WR
+11 3 ST
+11 4 WR
+11 6 RD
+11 7 WR
+8 11 IJ
+11 9 WR
+10 11 RF
+8 12 RD
+11 12 WR
+8 13 WR
+11 13 WR
+8 14 WR
+11 14 WR
+15 6 RD
+15 7 CD
+8 15 UK
+11 16 WR
+17 7 WR
+17 9 WR
+17 10 ST
+11 17 IJ
+17 12 EX
+17 13 WR
+17 14 RD
+17 16 RD
+18 9 WR
+18 10 ST
+11 18 IJ
+18 12 CD
+18 13 EX
+18 14 WR
+18 16 WR
+19 9 WR
+10 19 RF
+11 19 IJ
+19 12 RD
+19 13 RD
+19 14 WR
+19 16 RD
+17 19 IJ
+18 19 IJ
+20 10 ST
+11 20 UK
+17 21 CD
+18 21 WR
+19 21 RD
+17 22 RD
+18 22 RD
+19 22 WR
+17 23 WR
+18 23 RD
+19 23 RD
+24 14 WR
+24 16 WR
+17 24 IJ
+18 24 IJ
+19 24 IJ
+24 21 WR
+24 22 WR
+24 23 WR
+17 25 RD
+18 25 WR
+19 25 WR
+24 25 RD
+26 16 CD
+17 26 UK
+18 27 WR
+19 27 WR
+24 27 RD
+18 28 UK
+19 29 WR
+24 29 EX
+24 30 UK
+31 21 RD
+31 22 RD
+31 23 RD
+31 25 WR
+31 27 WR
+31 29 UK
+32 22 WR
+32 23 WR
+32 25 RD
+32 27 RD
+33 23 RD
+33 25 EX
+33 27 WR
+32 33 UK
+

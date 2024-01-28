@@ -1,0 +1,134 @@
+36
+MP-xwd
+MF-raft-large-directories.txt
+MF-shell.cgi
+MP-less
+MP*-cat
+MF-www.google.c
+MF-raft-medium-directories.txt
+SO-atomic@target.example
+SO-192.168.10.129
+TP-head
+MP-ps
+MP-grep
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-cat
+MP*-cat
+MP-tar
+MF-logrotate.c
+MP-sed
+MF-p.c
+MP-cat
+TP*-nl
+MF-f.r
+SO-192.168.1.1
+MF-httpd.c
+MF-target.example.c
+MF-settings.php
+SF-ttpd.c
+SO-123.6.44.67
+SF-logrotate.c
+SF-CleaingScript.sh
+MP-ifconfig
+MF-alertConfigField.php
+SO-192.168.2.102
+SO-192.168.10.130
+MP-cat
+MP-dd
+95
+0 1 WR
+0 2 RD
+0 3 UK
+4 1 WR
+4 2 RD
+4 5 RD
+4 6 EX
+7 4 RF
+8 4 RF
+9 1 WR
+9 2 WR
+4 9 IJ
+9 5 RD
+9 6 EX
+9 7 ST
+9 8 ST
+10 1 WR
+10 2 UK
+11 1 EX
+11 5 RD
+11 6 EX
+11 7 ST
+8 11 RF
+9 11 IJ
+4 12 ST
+12 9 RF
+11 12 ST
+4 13 FR
+13 5 CD
+13 6 WR
+7 13 RF
+13 8 ST
+9 13 IJ
+11 13 UK
+4 14 FR
+14 5 WR
+14 6 WR
+14 7 ST
+8 14 RF
+9 14 IJ
+14 12 ST
+15 6 CD
+15 7 ST
+15 8 ST
+9 15 IJ
+15 12 ST
+9 16 WR
+14 16 WR
+15 16 RD
+8 17 RF
+9 17 UK
+14 18 RD
+15 18 WR
+19 12 ST
+14 19 UK
+20 12 ST
+15 20 IJ
+20 16 EX
+20 18 EX
+15 21 WR
+20 21 WR
+15 22 ST
+22 20 RF
+15 23 WR
+20 23 EX
+15 24 WR
+20 24 RD
+15 25 WR
+20 25 WR
+20 26 RD
+20 27 ST
+20 28 WR
+20 29 RD
+20 30 IJ
+30 21 WR
+30 22 ST
+30 23 RD
+30 24 RD
+30 25 WR
+30 26 WR
+30 27 ST
+30 28 WR
+30 29 WR
+30 31 WR
+30 32 ST
+30 33 ST
+34 25 RD
+34 26 RD
+34 27 ST
+34 28 WR
+34 29 UK
+35 26 RD
+27 35 RF
+35 28 RD
+30 35 UK
+

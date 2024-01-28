@@ -1,0 +1,33 @@
+12
+MP*-paste
+MF-etc.tar.gz
+MF-CleaingScript.sh
+TF-AutoSUID.sh
+MP*-paste
+MF-data.zip
+MP*-nl
+TF-f.r
+SF-CleaingScript.sh
+SF-settings.php
+SF-chttp.c
+MP*-bash 
+18
+0 1 RD
+0 2 WR
+0 3 EX
+0 4 FR
+4 1 WR
+4 2 EX
+4 3 WR
+0 5 RD
+4 5 EX
+0 6 FR
+6 1 UK
+0 7 CD
+4 7 RD
+0 8 UK
+4 9 WR
+4 10 RD
+11 3 WR
+4 11 UK
+

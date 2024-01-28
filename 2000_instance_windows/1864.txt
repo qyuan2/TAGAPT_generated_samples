@@ -1,0 +1,51 @@
+16
+MP-r0571509.exe
+MF-\Users\admin\AppData\Local\Microsoft\EdgeUpdate\Install\{46A0A62B-1F4F-4D54-A968-BB635F8FA37A}\EDGEMITMP_4BF74.tmp\setup.exe
+TP-soa PDF.exe
+MP*-renamer-7.5.exe
+MP*-nanodump.x64.exe
+TP-Notepad Soft.exe 
+TF-%temp%\T1140_calc_decoded.exe
+MP-LaZagne.exe
+MF-\Users\admin\AppData\Local\Temp\86270699bad2681bb3f5f57f44a7094e.exe
+MF-order.zip
+MP-ytfovlym.exe
+MP-bfsvc.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+MF-\test.b
+MP*-c9923098.exe
+MP*-expo.exe
+32
+0 1 RD
+0 2 UK
+3 1 RD
+4 1 WR
+5 1 RD
+3 5 IJ
+4 5 IJ
+3 6 WR
+4 6 WR
+5 6 UK
+7 1 WR
+4 7 UK
+3 8 WR
+3 9 WR
+10 1 WR
+10 8 RD
+10 9 CD
+11 1 RD
+11 8 WR
+11 9 WR
+10 11 UK
+3 12 ST
+3 13 WR
+14 8 WR
+14 9 EX
+14 12 ST
+14 13 EX
+15 8 EX
+15 9 WR
+12 15 RF
+15 13 RD
+14 15 UK
+

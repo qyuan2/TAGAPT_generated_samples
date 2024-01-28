@@ -1,0 +1,37 @@
+11
+MP*-cp
+MF-httpd.c
+MF-T1003.008.txt
+MP-bash
+MP*-systemd
+MF-flag3.txt
+MF-raw.githubusercontent.c
+MP*-vi
+MP-wget
+MP*-netstat
+TP-ifconfig
+23
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 UK
+0 4 FR
+4 2 WR
+0 5 RD
+4 5 RD
+0 6 WR
+4 6 WR
+0 7 FR
+7 2 RD
+7 5 EX
+7 6 UK
+0 8 FR
+8 2 WR
+4 8 UK
+0 9 FR
+9 2 EX
+9 5 CD
+10 2 RD
+10 5 RD
+9 10 UK
+

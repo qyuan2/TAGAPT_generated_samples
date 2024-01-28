@@ -1,0 +1,51 @@
+14
+MP*-y6493242.exe
+SO-199.247.25.79
+TP*-DCRatBuild.exe
+MF-\Windows\system32\fvjhioojuu.vb
+MF-C:\Users\admin\AppData\Local\Temp\c3c6a5675d32fe330b83debceb63d60e
+TF-class.malware.r
+MF-C:\Users\admin\AppData\Local\Temp\000001.tmp
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\Crash
+MF-C:\Users\admin\Desktop\a6197937
+MF-C:\Users\admin\AppData\Local\Temp\Windows10
+MP-Redline Activate.exe 
+TP*-MicrosoftUpdate.exe 
+MF-C:\Users\admin\AppData\Local\Temp\AnyDesk
+MP*-bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe 
+34
+0 1 ST
+0 2 FR
+1 2 RF
+0 3 WR
+2 3 WR
+0 4 WR
+2 4 RD
+0 5 WR
+2 5 WR
+0 6 RD
+2 6 RD
+0 7 EX
+2 7 WR
+0 8 WR
+2 8 EX
+0 9 WR
+2 9 EX
+1 10 RF
+2 10 UK
+11 3 WR
+11 4 WR
+11 5 WR
+11 6 EX
+11 7 RD
+11 8 RD
+11 9 WR
+11 12 WR
+13 4 WR
+13 5 WR
+13 6 WR
+13 7 WR
+13 8 RD
+13 9 WR
+11 13 UK
+

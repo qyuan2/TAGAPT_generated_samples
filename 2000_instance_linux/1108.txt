@@ -1,0 +1,100 @@
+25
+MP*-echo
+SF-cron.a
+TF-syslog.c
+MF-settings.php
+TP-ls
+MP-cat
+MF-inetd.c
+MP-more
+SO-192.168.1.1
+TF-d.c
+MF-2017.pl
+MP-cat
+TP-nmap
+TF-f.r
+MP*-cat
+MF-secret.c
+SF-echo-art-fish.sh
+TP*-head
+TP*-ls
+TP-head
+MP-ls
+MP-ls
+MP-cat
+SF-data.zip
+TP-cat
+72
+0 1 WR
+0 2 RD
+0 3 RD
+0 4 IJ
+4 1 WR
+4 2 UK
+0 5 FR
+5 1 EX
+5 3 WR
+0 6 WR
+0 7 FR
+7 1 RD
+7 3 RD
+7 6 RD
+0 8 ST
+7 8 ST
+0 9 RD
+7 9 RD
+7 10 EX
+11 3 RD
+11 6 RD
+11 8 ST
+11 9 RD
+11 10 CD
+12 3 WR
+12 6 EX
+7 12 IJ
+12 8 ST
+12 9 WR
+12 10 EX
+11 12 UK
+7 13 RD
+14 6 RD
+8 14 RF
+14 9 WR
+14 10 WR
+14 13 WR
+7 15 RD
+14 15 WR
+7 16 WR
+14 16 WR
+7 17 IJ
+17 8 ST
+17 9 WR
+17 10 WR
+17 13 WR
+14 17 IJ
+17 15 WR
+17 16 WR
+8 18 RF
+18 9 RD
+18 10 RD
+18 13 WR
+14 18 IJ
+18 15 RD
+18 16 WR
+17 18 IJ
+19 9 WR
+19 10 WR
+19 13 WR
+14 19 IJ
+19 15 UK
+20 10 UK
+21 13 RD
+14 21 UK
+22 13 CD
+22 16 RD
+17 22 IJ
+18 22 UK
+17 23 EX
+24 16 RD
+17 24 UK
+

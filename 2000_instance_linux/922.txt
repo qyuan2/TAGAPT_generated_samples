@@ -1,0 +1,63 @@
+19
+MP*-ls
+MF-anaconda-ks.cfg
+MP*-grep
+TF-data.zip
+MF-user.r
+MP-paste
+MF-cron.m
+SF-T1070.004-test.txt
+TF-LinEnum.sh
+MP-ifconfig
+MF-echo-art-fish.sh
+TP-ifconfig
+MP*-sed
+SO-192.168.206.137
+MF-www.google.c
+MF-common.txt
+MP-head
+TP*-grep
+MP-awk
+41
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 RD
+0 4 CD
+2 4 RD
+0 5 FR
+5 1 UK
+0 6 EX
+2 6 RD
+0 7 CD
+2 7 WR
+0 8 EX
+2 8 WR
+0 9 FR
+2 9 UK
+0 10 WR
+11 3 UK
+12 4 EX
+12 6 WR
+12 7 EX
+12 8 WR
+12 10 WR
+13 12 RF
+12 14 RD
+12 15 RD
+16 7 RD
+16 8 WR
+16 10 EX
+12 16 UK
+17 8 RD
+17 10 WR
+13 17 RF
+17 14 WR
+17 15 WR
+18 10 WR
+18 13 ST
+18 14 WR
+18 15 WR
+17 18 UK
+

@@ -1,0 +1,54 @@
+14
+MP*-grep
+TF-art.sh
+MF-victim-gzip.txt
+SF-T1003.008.txt
+SF-syslog.c
+TP*-wget
+MF-s.c
+MP-bash
+MP-grep
+MP*-cat
+MP*-wget
+MF-os.exe
+MP-cat
+TF-rockyou.txt
+37
+0 1 WR
+0 2 WR
+0 3 EX
+0 4 RD
+0 5 FR
+5 1 WR
+5 2 RD
+5 3 WR
+5 4 RD
+0 6 WR
+5 6 WR
+0 7 FR
+7 1 WR
+7 2 UK
+0 8 FR
+8 1 WR
+8 3 WR
+8 4 WR
+5 8 IJ
+0 9 FR
+9 1 CD
+9 3 WR
+9 4 RD
+5 9 IJ
+9 6 WR
+10 1 RD
+10 3 RD
+10 4 WR
+5 10 IJ
+10 6 WR
+9 10 UK
+5 11 WR
+12 3 EX
+12 4 RD
+5 12 IJ
+12 6 UK
+5 13 WR
+

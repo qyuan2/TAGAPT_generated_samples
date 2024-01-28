@@ -1,0 +1,92 @@
+23
+MP-ns99EC.tmp
+MP-olsptrs.exe 
+TP-DllHost.exe 
+TP*-ns96F8.tmp
+SO-https://go.microsoft.com/fwlink/p/?LinkId=2124703
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+SF-C:\Users\User\appdata\local\temp\rpvbh.jar
+MF-C:\Users\admin\AppData\Local\Temp\Setup.b
+MF-\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+TP*-cvtres.exe
+SF-HKLM\sam
+TP*-chrome.exe 
+TP-malware.exe 
+MF-C:\Program Files\Microsoft Office\Office14\OUTLOOK
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MP-avi_previewer_demo.exe
+SF-C:\Users\admin\AppData\Local\Temp\is-170NV.tmp
+MP*-OperaSetup_UNO.exe
+TP-javaw.exe
+MF-Files\CCleaner\CCleanerBugReport.exe
+MP-wscript.exe 
+MF-\Users\Public\Pictures\deep-thoughted.ppt
+MP-Notepad.exe
+66
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+4 0 RF
+4 3 RF
+5 0 RF
+3 5 ST
+0 6 WR
+3 6 WR
+0 7 WR
+3 7 WR
+0 8 RD
+3 8 EX
+0 9 IJ
+3 9 IJ
+9 4 ST
+5 9 RF
+9 6 RD
+9 7 RD
+9 8 UK
+0 10 WR
+3 10 RD
+3 11 IJ
+11 4 ST
+11 5 ST
+11 6 WR
+11 7 EX
+11 10 WR
+3 12 IJ
+4 12 RF
+12 5 ST
+12 6 WR
+12 7 RD
+12 10 EX
+11 12 IJ
+3 13 WR
+11 13 RD
+12 13 WR
+14 11 RF
+14 12 RF
+15 5 ST
+15 6 WR
+15 7 UK
+11 16 RD
+12 16 CD
+17 10 WR
+11 17 IJ
+12 17 IJ
+17 13 WR
+17 14 ST
+17 16 WR
+18 10 RD
+11 18 IJ
+12 18 IJ
+18 13 CD
+14 18 RF
+18 16 RD
+17 18 UK
+11 19 UK
+20 10 UK
+12 21 WR
+22 13 WR
+14 22 RF
+22 16 RD
+22 21 UK
+

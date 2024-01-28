@@ -1,0 +1,108 @@
+32
+MP*-ns958E.tmp 
+MP-AdobeTray.exe
+TP-aspnet_compiler.exe
+MF-C:\Windows\SysWow64\Register
+MF-\system32\inetsrv\appcmd.exe
+MF-\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd.zip
+TP*-WMIC.exe
+MP*-Heapman45.exe 
+MP-FTPServer.exe 
+SF-C:\Users\admin\AppData\Local\Temp\ap-file-ernie.jpg
+MF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta.rar
+TP-slui.exe
+TP-Order specification.exe
+SO-80.0.0.0
+TF-C:\Users\admin\AppData\Local\Temp\factura.doc
+TP-findstr.exe
+SO-file://C:\windows\system32\notepad.exe
+SF-C:\Users\admin\AppData\Local\Temp\bfsvc
+MP-msiexec.exe
+SF-C:\Windows\syswow64\regsvr32.exe
+TP*-c3c6a5675d32fe330b83debceb63d60e.exe 
+SF-C:\Windows\system32\vssvc.exe
+MF-C:\Users\admin\Desktop\x86\ProcessHacker.exe
+TF-C:\Program Files\Microsoft\Skype for Desktop\Skype.exe
+MP-IEmode.exe 
+TP-nanodump.x64.exe
+SF-C:\Users\admin\AppData\Local\Temp\C3B1
+MF-C:\Users\admin\AppData\Local\Temp\ycard
+TP-InstaBotPro (1).exe 
+SF-C:\Users\admin\AppData\Local\Temp\upP
+MF-C:\Program files\appdata\roaming\battery\battery
+TP-Tudehluxjc.exe 
+73
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 RD
+0 5 WR
+0 6 FR
+6 3 WR
+6 4 CD
+6 5 RD
+0 7 FR
+7 3 RD
+7 4 RD
+7 5 RD
+6 7 IJ
+0 8 UK
+6 9 RD
+7 9 RD
+6 10 WR
+7 10 RD
+11 3 RD
+11 4 UK
+12 3 WR
+12 5 WR
+6 12 UK
+7 13 ST
+7 14 WR
+15 5 WR
+7 15 IJ
+15 9 EX
+15 10 EX
+15 13 ST
+15 14 WR
+16 7 RF
+15 16 ST
+7 17 RD
+15 17 EX
+18 9 EX
+18 10 WR
+13 18 RF
+18 14 WR
+16 18 RF
+18 17 WR
+18 19 UK
+20 13 ST
+20 14 WR
+20 16 ST
+20 17 RD
+20 21 RD
+20 22 WR
+20 23 CD
+24 16 ST
+24 17 WR
+20 24 IJ
+24 21 RD
+24 22 WR
+24 23 RD
+16 25 RF
+25 17 WR
+20 25 UK
+24 26 RD
+24 27 UK
+28 21 WR
+28 22 WR
+28 23 EX
+28 26 RD
+28 29 WR
+28 30 RD
+31 21 RD
+31 22 RD
+31 23 EX
+31 26 WR
+28 31 UK
+

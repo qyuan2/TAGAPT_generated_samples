@@ -1,0 +1,74 @@
+23
+MP*-more
+MF-raft-medium-directories.txt
+MP*-cat
+TP*-python
+SO-http://192.168.0.134/passwd
+MP*-ls
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-v.c
+MP-less
+SF-journald.c
+MF-secret.c
+MF-d.c
+TP-grep
+SF-cron.m
+MF-subprocess.c
+SO-192.168.10.128
+MF-1.zip
+MF-access.txt
+SF-passwd.zip
+MF-CleaingScript.sh
+MF-user.r
+SO-192.168.10.135
+MF-T1027-004-test.c
+48
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+2 3 IJ
+4 0 RF
+2 4 ST
+3 4 ST
+0 5 FR
+5 1 RD
+3 5 IJ
+5 4 ST
+0 6 ST
+2 6 ST
+3 6 ST
+6 5 RF
+0 7 WR
+2 7 WR
+3 7 WR
+5 7 CD
+0 8 UK
+2 9 WR
+3 9 WR
+5 9 WR
+2 10 RD
+3 10 WR
+5 10 UK
+2 11 CD
+3 11 WR
+2 12 IJ
+3 12 IJ
+4 12 RF
+6 12 RF
+12 7 WR
+12 9 WR
+12 11 EX
+3 13 RD
+12 13 EX
+12 14 EX
+15 12 RF
+12 16 WR
+12 17 WR
+12 18 RD
+12 19 RD
+12 20 WR
+21 12 RF
+12 22 CD
+

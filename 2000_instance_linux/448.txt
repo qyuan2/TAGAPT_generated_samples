@@ -1,0 +1,132 @@
+37
+MP*-nl
+SO-192.168.2.102
+MF-flag4.txt
+SO-http://192.168.10.128/shell.cgi
+MF-0*.txt
+MF-password-hash.sh
+MP-bash
+MF-resolv.c
+SO-192.168.0.134
+MF-apache2.c
+SF-s.c
+SF-1.txt
+MF-0*.txt
+TP*-iptables
+MP-find
+MP-netstat
+TP-whoami
+TP-cat
+MP-awk
+MF-logrotate.c
+MP*-less
+TP-tail
+MP-uname
+MF-atomic.log
+SF-d.c
+MP-uname
+MP*-cat
+MP-ifconfig
+MF-access.htm
+SF-s.c
+MF-te.c
+MF-access.txt
+MP-tac
+SF-raj.txt
+MP-sudo
+SF-s.c
+MP-awk
+92
+0 1 ST
+0 2 EX
+0 3 ST
+0 4 RD
+0 5 WR
+0 6 FR
+1 6 RF
+6 2 EX
+3 6 RF
+6 4 WR
+6 5 WR
+0 7 EX
+6 7 RD
+8 0 RF
+6 8 ST
+0 9 RD
+6 9 WR
+0 10 EX
+6 10 CD
+6 11 EX
+6 12 WR
+3 13 RF
+13 4 WR
+13 5 RD
+6 13 IJ
+13 7 WR
+8 13 RF
+13 9 RD
+13 10 WR
+13 11 EX
+13 12 WR
+14 4 RD
+14 5 WR
+6 14 UK
+15 5 WR
+15 7 WR
+15 8 ST
+15 9 UK
+16 7 WR
+16 8 ST
+16 10 RD
+16 11 WR
+16 12 WR
+13 16 IJ
+17 8 ST
+17 10 UK
+18 11 WR
+18 12 WR
+13 18 IJ
+16 18 IJ
+13 19 WR
+16 19 UK
+20 11 RD
+20 12 WR
+13 20 IJ
+18 20 UK
+21 12 RD
+13 21 IJ
+13 22 UK
+21 23 RD
+21 24 WR
+21 25 FR
+25 23 WR
+25 24 RD
+21 26 FR
+26 23 WR
+26 24 WR
+21 27 FR
+27 23 WR
+27 24 WR
+25 27 UK
+21 28 EX
+26 28 WR
+21 29 CD
+26 29 WR
+21 30 CD
+26 30 WR
+21 31 UK
+32 23 WR
+32 24 RD
+32 28 RD
+32 29 CD
+32 30 RD
+26 33 WR
+32 33 WR
+34 24 EX
+26 34 UK
+32 35 WR
+36 28 EX
+36 29 WR
+36 30 EX
+32 36 UK
+

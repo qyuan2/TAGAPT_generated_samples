@@ -1,0 +1,106 @@
+26
+MP*-dd
+MP-find
+TP-awk
+SF-raft-large-directories.txt
+SF-atomic.sh
+MF-raj.txt
+MP-uname
+SF-pwquality.c
+SF-e.c
+MP-nl
+MP-nmap
+MF-pwquality.c
+TP*-tail
+MF-settings.php
+SO-192.168.159.128
+SF-http.c
+MP-nmap
+SF-data.zip
+SO-127.0.0.1:8080
+TP-grep
+MP*-less
+MF-passwd.zip
+MF-echo-art-fish.sh
+TP*-more
+MP-systemd
+MP-less
+77
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 WR
+1 3 WR
+2 3 WR
+0 4 EX
+1 4 WR
+2 4 WR
+0 5 RD
+1 5 RD
+2 5 WR
+0 6 FR
+2 6 UK
+0 7 WR
+1 7 EX
+0 8 EX
+1 8 RD
+0 9 FR
+9 3 WR
+9 4 EX
+9 5 RD
+9 7 WR
+9 8 WR
+0 10 FR
+1 10 UK
+9 11 EX
+12 3 RD
+12 4 RD
+12 5 WR
+12 7 WR
+12 8 RD
+9 12 IJ
+12 11 RD
+9 13 WR
+12 13 RD
+9 14 ST
+12 14 ST
+9 15 WR
+12 15 WR
+16 7 RD
+16 8 UK
+9 17 EX
+12 17 WR
+9 18 ST
+12 18 ST
+9 19 UK
+20 11 RD
+12 20 IJ
+20 13 RD
+14 20 RF
+20 15 WR
+20 17 RD
+18 20 RF
+12 21 WR
+20 21 WR
+12 22 CD
+20 22 RD
+23 13 RD
+14 23 RF
+23 15 WR
+23 17 RD
+23 18 ST
+20 23 IJ
+23 21 WR
+23 22 RD
+14 24 RF
+24 15 RD
+24 17 WR
+18 24 RF
+20 24 UK
+25 15 EX
+25 17 WR
+18 25 RF
+25 21 WR
+25 22 WR
+23 25 UK
+

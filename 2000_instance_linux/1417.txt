@@ -1,0 +1,79 @@
+24
+MP*-sed
+MP-uname
+MF-logrotate.c
+MF-StartupParameters.plist
+MF-access.txt
+MF-image.php
+MP-cp
+MP-cat
+TP-cat
+MP*-more
+TP-bash 
+SO-192.168.206.137
+MP-less
+TF-test.txt
+MP-vim
+MF-0*.txt
+MF-cron.m
+TF-T1003.008.txt
+SF-access.htm
+SF-T1027-004-test.c
+MP*-netstat
+TF-raft-medium-directories.txt
+MF-raft-large-directories.txt
+MP*-cat
+52
+0 1 FR
+0 2 WR
+1 2 UK
+0 3 WR
+0 4 RD
+0 5 EX
+0 6 FR
+6 3 WR
+6 4 EX
+6 5 RD
+0 7 FR
+7 3 WR
+7 4 RD
+7 5 RD
+6 7 UK
+0 8 UK
+9 4 RD
+9 5 WR
+10 4 RD
+10 5 WR
+9 10 IJ
+9 11 ST
+10 11 ST
+12 4 RD
+12 5 WR
+10 12 IJ
+11 12 RF
+9 13 EX
+10 13 RD
+12 13 UK
+14 5 WR
+9 14 UK
+10 15 EX
+10 16 RD
+10 17 RD
+10 18 WR
+10 19 RD
+10 20 FR
+20 11 ST
+20 15 WR
+20 16 RD
+20 17 WR
+20 18 WR
+20 19 RD
+20 21 WR
+20 22 WR
+23 15 WR
+23 16 EX
+23 17 EX
+23 18 CD
+23 19 WR
+20 23 UK
+

@@ -1,0 +1,63 @@
+17
+MP*-rundll32.exe 
+MF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+MF-C:\Users\admin\AppData\Local\Temp\facttura
+MP*-xordump.exe 
+TP-schtasks.exe
+SF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d
+TP*-at.exe
+MF-C:\Users\admin\AppData\Local\Temp\468C.exe
+MP-DllHost.exe 
+SF-C:\Program files\29630
+MP-wusa.exe
+MF-C:\Program files\cronos
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MP-z0200670.exe
+TP*-vLocalServerSetup.tmp
+MP-n4054738.exe
+43
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 IJ
+4 1 WR
+4 2 WR
+3 4 IJ
+0 5 EX
+3 5 WR
+4 5 RD
+0 6 FR
+6 1 WR
+6 2 RD
+3 6 UK
+0 7 WR
+4 7 WR
+0 8 FR
+8 1 WR
+8 2 WR
+4 8 IJ
+8 5 RD
+8 7 RD
+0 9 WR
+4 9 RD
+8 9 WR
+0 10 FR
+10 1 UK
+4 11 WR
+8 11 WR
+4 12 ST
+12 8 RF
+13 4 RF
+8 13 ST
+4 14 UK
+15 5 RD
+15 7 EX
+8 15 IJ
+15 9 WR
+15 11 UK
+16 7 RD
+8 16 UK
+

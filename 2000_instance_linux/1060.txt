@@ -1,0 +1,51 @@
+15
+MP*-sed
+SF-test.txt
+MP-echo 
+MP-cat
+TP*-rev
+MF-loot.txt
+SO-192.168.206.0
+MF-locale.c
+SO-192.168.47.155
+MP*-df
+SF-rockyou.txt
+MF-secret.c
+MP*-bash
+SF-T1070.004-test.txt
+MF-backsup.sh
+33
+0 1 WR
+0 2 FR
+2 1 UK
+0 3 FR
+0 4 FR
+3 4 IJ
+0 5 UK
+6 3 RF
+6 4 RF
+3 7 EX
+4 7 EX
+8 3 RF
+4 8 ST
+3 9 FR
+4 9 IJ
+6 9 RF
+9 7 EX
+8 9 RF
+3 10 RD
+4 10 WR
+9 10 RD
+3 11 WR
+4 11 RD
+9 11 WR
+3 12 FR
+4 12 IJ
+6 12 RF
+12 7 RD
+8 12 RF
+9 12 UK
+3 13 RD
+4 13 RD
+4 14 WR
+

@@ -1,0 +1,65 @@
+15
+MP*-rundll32.exe 
+MF-TEMP\bitsadmin2_flag.ps1
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+TF-.\T1221\src\Calculator.doc
+TF-Downloader_Rz-OfD1.exe
+SF-%tmp%\q v
+MF-\Users\admin\AppData\Roaming\JavaNetworkServices86\javaw.exe
+SF-C:\Windows\system32\wbengine
+MP-@WanaDecryptor@.exe 
+TP*-5EAD.exe
+TP*-Explorer.EXE
+MP*-adidnsdump.exe
+MF-C:\Users\admin\AppData\Local\Temp\RtkBtManServ.exe
+TP-system_file.exe 
+47
+0 1 CD
+0 2 ST
+3 0 RF
+0 4 CD
+0 5 RD
+0 6 WR
+0 7 RD
+0 8 WR
+0 9 FR
+9 1 RD
+9 2 ST
+9 3 ST
+9 4 WR
+9 5 WR
+9 6 WR
+9 7 WR
+9 8 WR
+10 1 RD
+2 10 RF
+3 10 RF
+10 4 WR
+10 5 RD
+10 6 EX
+10 7 WR
+10 8 WR
+11 2 ST
+3 11 RF
+11 4 EX
+11 5 WR
+11 6 WR
+11 7 WR
+11 8 WR
+10 11 IJ
+3 12 RF
+12 4 EX
+12 5 EX
+12 6 WR
+12 7 RD
+12 8 WR
+10 12 IJ
+11 12 UK
+10 13 WR
+14 5 EX
+14 6 RD
+14 7 RD
+14 8 EX
+10 14 UK
+

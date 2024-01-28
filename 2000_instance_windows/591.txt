@@ -1,0 +1,32 @@
+12
+MP*-nanodump.x64.exe
+SO-127.0.0.1
+TP*-Tudehluxjc.exe 
+MF-C:\Windows\System32\WScript
+TP-ns967A.tmp
+MP*-csc.exe
+MF-Users\smss.exe
+TF-C:\Users\admin\Desktop\disallowedcert
+TF-C:\Users\admin\AppData\Local\Temp\IXP000
+MF-C:\Users\admin\AppData\Local\Temp\4271c36353bd89b8ddfdb8236d3cfbbe.exe
+MP*-file.exe 
+MP-nscB9BA.tmp
+17
+0 1 ST
+0 2 FR
+2 1 ST
+0 3 RD
+2 3 UK
+0 4 UK
+5 1 ST
+5 6 WR
+5 7 EX
+5 8 RD
+5 9 WR
+1 10 RF
+10 6 WR
+10 7 WR
+10 8 UK
+1 11 RF
+5 11 UK
+

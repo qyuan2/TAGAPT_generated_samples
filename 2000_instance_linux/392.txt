@@ -1,0 +1,114 @@
+32
+MP*-tac
+SO-192.168.206.0
+MF-1.txt
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-flag4.txt
+TP-whatweb
+MP-ls
+MP-cat
+MP*-grep
+MF-ufw.c
+TF-linux.txt
+MP*-cat
+SO-192.168.10.131
+MF-test.txt
+TF-T1074.001_discovery.log
+TP-sed
+MF-user.r
+TF-image.php
+MP*-cat
+SF-cron.h
+MP-less
+SF-common.txt
+MP-nl
+MF-echo-art-fish.sh
+MF-Discovery.sh
+MF-journald.c
+MF-cron.h
+MF-common.txt
+MP-sed
+SF-www.google.c
+MF-access.txt
+MP-cat
+79
+1 0 RF
+0 2 WR
+3 0 RF
+0 4 WR
+0 5 IJ
+5 1 ST
+5 2 RD
+5 3 ST
+5 4 WR
+0 6 FR
+1 6 RF
+6 2 UK
+0 7 UK
+1 8 RF
+8 3 ST
+8 4 RD
+5 8 IJ
+5 9 EX
+8 9 WR
+5 10 WR
+8 10 WR
+1 11 RF
+11 3 ST
+11 4 RD
+5 11 IJ
+11 9 WR
+11 10 RD
+12 5 RF
+12 8 RF
+12 11 RF
+5 13 EX
+8 13 WR
+11 13 WR
+5 14 RD
+8 14 WR
+11 14 WR
+5 15 IJ
+8 15 UK
+11 16 WR
+11 17 WR
+18 9 WR
+18 10 WR
+12 18 RF
+18 13 WR
+18 14 RD
+18 16 RD
+18 17 WR
+11 19 WR
+18 19 RD
+20 10 UK
+11 21 RD
+18 21 RD
+22 13 WR
+22 14 WR
+22 16 RD
+22 17 RD
+22 19 RD
+22 21 RD
+18 23 WR
+22 23 WR
+18 24 EX
+22 24 WR
+18 25 CD
+22 25 WR
+18 26 WR
+22 26 WR
+18 27 WR
+22 27 WR
+28 19 RD
+28 21 WR
+28 23 WR
+28 24 WR
+28 25 WR
+28 26 RD
+28 27 EX
+22 29 WR
+28 29 UK
+22 30 WR
+22 31 UK
+

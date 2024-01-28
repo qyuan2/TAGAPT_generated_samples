@@ -1,0 +1,88 @@
+24
+MP*-ns9FC4.tmp
+SO-45.63.100.72
+SF-C:\Users\admin\AppData\Roaming\fertyno12\client32
+TP*-makecab.exe
+MF-\Users\admin\AppData\Local\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+SF-C:\Windows\System32\vds
+MP*-javaw.exe
+MF-C:\Users\admin\AppData\Local\Temp\KS.pdf
+MF-C:\Users\Public\Pictures\deep-thoughted.ppt
+MF-C:\Users\admin\AppData\Local\Temp\tmpA6C1
+MP*-yonr.exe 
+MF-\Windows\System32\regsvr32.exe
+MP-file.exe 
+TP-wscript.exe
+TP-RegSvcs.exe
+TP-RegDll.x86.exe
+MF-\Windows\SysWOW64\ytqpvkdx\vlliugwu.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9510.tmp
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42AMD64
+MP-NdSvr.exe
+TP-xordump.exe 
+MP-RtkBtManServ.exe
+SF-C:\Windows\system32\schtasks.exe
+TP-jww825a.exe 
+61
+0 1 ST
+0 2 RD
+0 3 FR
+3 1 ST
+3 2 RD
+0 4 WR
+3 4 EX
+0 5 WR
+3 5 RD
+0 6 FR
+6 1 ST
+6 2 WR
+3 6 IJ
+6 4 WR
+6 5 WR
+0 7 RD
+3 7 WR
+6 7 RD
+0 8 RD
+3 8 EX
+6 8 RD
+0 9 EX
+3 9 EX
+6 9 WR
+0 10 FR
+1 10 RF
+10 2 EX
+3 10 IJ
+10 4 RD
+10 5 RD
+6 10 UK
+3 11 WR
+12 2 UK
+3 13 IJ
+13 4 RD
+13 5 CD
+13 7 WR
+13 8 WR
+13 9 UK
+14 4 UK
+15 5 WR
+15 7 WR
+15 8 WR
+15 11 WR
+15 16 RD
+15 17 EX
+15 18 UK
+19 11 WR
+19 16 WR
+19 17 WR
+20 11 WR
+20 16 WR
+20 17 WR
+19 20 UK
+21 11 WR
+21 16 RD
+21 17 WR
+21 22 WR
+23 16 WR
+23 17 WR
+21 23 UK
+

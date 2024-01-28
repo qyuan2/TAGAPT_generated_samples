@@ -1,0 +1,54 @@
+14
+MP*-ip
+MF-alertConfigField.php
+SF-T1074.001_discovery.log
+MP*-paste
+MP*-head
+MF-alertConfigField.php
+SO-192.168.10.133
+MP-who
+TF-logrotate.c
+MP*-cat
+MF-passwd.zip
+MF-pd.c
+MP-grep
+MP-paste
+37
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 FR
+4 1 WR
+4 2 WR
+0 5 WR
+3 5 EX
+4 5 EX
+0 6 ST
+6 3 RF
+4 6 ST
+0 7 FR
+7 1 WR
+7 2 RD
+3 7 UK
+0 8 WR
+4 8 WR
+0 9 FR
+9 1 WR
+9 2 CD
+9 5 EX
+6 9 RF
+9 8 WR
+0 10 CD
+4 10 CD
+9 10 EX
+4 11 WR
+9 11 RD
+12 2 WR
+4 12 UK
+13 5 WR
+6 13 RF
+13 8 RD
+9 13 UK
+

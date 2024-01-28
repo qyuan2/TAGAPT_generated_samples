@@ -1,0 +1,49 @@
+14
+MP-aafg31.exe 
+MF-calc.exe
+MP*-AdFind.exe 
+SO-https://slpbridge.com/storage/images/debug2.ps1
+MP-vLocalServerSetup.tmp
+TP-mspaint.exe
+SF-%temp%\nanodump.x64.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/DumpWCM.ps1
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+MP*-nslookup.exe
+MF-Msiexec.exe
+SF-C:\Users\admin\AppData\Local\Temp\factura.doc
+TP*-UninsHs.exe
+TP-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+32
+0 1 RD
+0 2 FR
+2 1 WR
+3 0 RF
+3 2 RF
+0 4 UK
+5 1 UK
+2 6 WR
+2 7 ST
+2 8 FR
+3 8 RF
+8 6 EX
+7 8 RF
+2 9 FR
+3 9 RF
+9 6 RD
+9 7 ST
+8 9 UK
+2 10 EX
+2 11 RD
+2 12 FR
+12 3 ST
+12 6 WR
+12 7 ST
+12 10 EX
+12 11 RD
+3 13 RF
+13 6 WR
+13 7 ST
+13 10 WR
+13 11 WR
+12 13 UK
+

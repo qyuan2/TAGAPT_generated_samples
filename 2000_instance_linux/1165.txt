@@ -1,0 +1,51 @@
+12
+MP*-cat
+SO-atomic@target.example
+MF-v.c
+MF-Users.tar.gz
+TF-T1027-004-test.c
+TP*-ls
+SF-test.txt
+SF-td.c
+MP*-less
+MP-more
+TF-on.a
+MP*-netstat
+36
+0 1 ST
+0 2 WR
+0 3 CD
+0 4 WR
+0 5 FR
+1 5 RF
+5 2 WR
+5 3 WR
+5 4 WR
+0 6 RD
+5 6 CD
+0 7 RD
+5 7 RD
+0 8 FR
+8 1 ST
+8 2 WR
+8 3 RD
+8 4 WR
+5 8 IJ
+8 6 EX
+8 7 WR
+0 9 FR
+9 1 ST
+9 2 EX
+9 3 RD
+9 4 WR
+5 9 UK
+0 10 WR
+8 10 EX
+1 11 RF
+11 2 WR
+11 3 RD
+11 4 EX
+11 6 WR
+11 7 EX
+8 11 UK
+

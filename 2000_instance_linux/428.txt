@@ -1,0 +1,44 @@
+12
+MP*-cat
+TF-s.c
+TF-access.htm
+SO-192.168.47.134:4444
+MP*-less
+SF-anaconda-ks.cfg
+MP-perl
+SO-192.168.10.130
+MP*-ls
+TP-awk
+MF-echo-art-fish.sh
+MP*-wget 
+29
+0 1 RD
+0 2 WR
+0 3 ST
+0 4 FR
+4 1 WR
+4 2 EX
+4 3 ST
+0 5 RD
+4 5 RD
+0 6 FR
+6 1 RD
+6 2 RD
+3 6 RF
+4 6 UK
+7 0 RF
+0 8 FR
+8 1 EX
+8 2 RD
+8 3 ST
+8 5 EX
+8 7 ST
+0 9 UK
+8 10 WR
+11 1 RD
+11 2 WR
+3 11 RF
+11 5 RD
+7 11 RF
+8 11 UK
+

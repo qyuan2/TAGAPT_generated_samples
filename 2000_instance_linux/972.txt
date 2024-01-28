@@ -1,0 +1,158 @@
+48
+MP-sed
+MP-rev
+SF-apache2.c
+MF-pd.c
+MP-sh
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+SO-192.168.10.130
+MF-td.c
+MF-art.sh
+MF-raft-large-directories.txt
+MP-grep
+SO-192.168.10.135
+MF-Office365DCOMCheck.ps1
+TP*-head
+TF-on.a
+SF-at.a
+MP-bash
+MP*-ls
+MF-v.c
+TF-0*.txt
+SO-192.168.206.137
+MP-ls
+MP*-head
+MF-secret.c
+TF-ron.a
+MF-lighttp.c
+MP-sh
+MP-nl
+MP-sed
+MP*-systemctl
+TF-backsup.sh
+MF-2017.pl
+SO-192.168.2.102
+SF-cron.h
+TP-paste
+SF-atomic.sh
+MF-bash_completion.sh
+MP-tee
+MP-ls
+SF-lighttp.c
+SO-192.168.159.128
+MP-echo
+SO-192.168.0.134
+MF-CleaingScript.sh
+SF-secret.c
+MF-raft-medium-directories.txt
+SO-atomic@target.example
+MF-cron.a
+107
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 EX
+1 3 RD
+0 4 UK
+1 5 ST
+1 6 ST
+1 7 WR
+1 8 WR
+1 9 WR
+1 10 FR
+10 2 WR
+10 3 WR
+10 5 ST
+6 10 RF
+10 7 RD
+10 8 WR
+10 9 WR
+11 1 RF
+10 11 ST
+10 12 UK
+13 3 CD
+13 5 ST
+6 13 RF
+13 7 RD
+13 8 EX
+13 9 RD
+11 13 RF
+13 14 WR
+13 15 WR
+16 6 ST
+16 7 EX
+16 8 CD
+16 9 WR
+16 11 ST
+13 16 UK
+17 7 WR
+17 8 WR
+17 9 WR
+11 17 RF
+17 14 WR
+17 15 EX
+17 18 RD
+17 19 EX
+20 17 RF
+21 11 ST
+21 14 RD
+21 15 WR
+17 21 UK
+22 14 WR
+22 15 RD
+22 18 EX
+22 19 WR
+22 20 ST
+22 23 EX
+22 24 WR
+22 25 WR
+26 18 WR
+26 19 RD
+20 26 RF
+22 26 UK
+27 18 WR
+27 19 RD
+20 27 RF
+27 23 UK
+28 19 WR
+20 28 RF
+28 24 WR
+20 29 RF
+29 24 RD
+29 25 RD
+29 30 CD
+29 31 WR
+29 32 ST
+29 33 RD
+34 25 CD
+29 34 IJ
+34 30 WR
+34 31 RD
+32 34 RF
+34 33 WR
+29 35 EX
+34 35 EX
+29 36 UK
+37 30 RD
+37 31 WR
+37 32 ST
+37 33 UK
+38 30 CD
+38 31 WR
+38 32 ST
+34 38 IJ
+38 35 EX
+34 39 CD
+38 39 RD
+34 40 ST
+40 38 RF
+41 31 WR
+32 41 RF
+34 41 UK
+38 42 ST
+38 43 EX
+38 44 RD
+38 45 CD
+38 46 ST
+38 47 EX
+

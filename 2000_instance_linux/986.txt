@@ -1,0 +1,54 @@
+15
+MP*-dd
+TP-pr
+MF-httpd.c
+MP-tee
+MP-python
+MF-T1027-004-test.c
+MF-httpd.c
+MP*-cat
+SF-ret.c
+SO-atomic@target.example
+MF-T1070.006-reference.txt
+MF-httpd.c
+TP*-grep
+MP-ifconfig
+MP*-cat
+36
+0 1 IJ
+0 2 WR
+1 2 WR
+0 3 FR
+1 3 IJ
+3 2 RD
+0 4 FR
+1 4 IJ
+4 2 WR
+3 4 UK
+0 5 WR
+1 5 WR
+0 6 WR
+1 6 UK
+0 7 FR
+7 2 WR
+7 5 WR
+0 8 WR
+7 8 EX
+7 9 ST
+7 10 EX
+7 11 EX
+12 5 WR
+7 12 IJ
+12 8 EX
+9 12 RF
+12 10 WR
+12 11 WR
+13 5 RD
+7 13 UK
+14 5 WR
+14 8 WR
+14 9 ST
+14 10 WR
+14 11 RD
+12 14 UK
+

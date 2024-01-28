@@ -1,0 +1,47 @@
+13
+MP*-Powershell.exe
+MF-svchost.exe
+MF-Files\RerSpacer710\RerSpacer710.exe
+MF-UKm.vb
+TP*-Powershell.exe
+SF-C:\Users\admin\Desktop\x86\ProcessHacker.exe
+MP*-msxsl.exe
+SF-C:\Windows\System32\WindowsPowerShell\v1
+TP-filezilla.exe 
+MF-\Users\admin\AppData\Local\Temp\vLocalServerSetup.exe
+MF-C:\Users\admin\Desktop\RunDRT
+MP-SearchIndexer.exe
+MP*-nltest.exe
+31
+0 1 RD
+0 2 EX
+0 3 RD
+0 4 FR
+4 1 WR
+4 2 EX
+4 3 WR
+0 5 RD
+4 5 WR
+0 6 FR
+6 1 CD
+6 2 WR
+6 3 RD
+4 6 IJ
+6 5 WR
+0 7 RD
+4 7 RD
+6 7 RD
+0 8 UK
+4 9 RD
+6 9 WR
+4 10 RD
+6 10 WR
+11 1 EX
+11 2 RD
+11 3 EX
+4 11 UK
+12 2 WR
+12 3 RD
+12 5 WR
+6 12 UK
+

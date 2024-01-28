@@ -1,0 +1,36 @@
+13
+MP*-less
+MP*-tail
+MP-chmod
+MF-os.exe
+MP*-cat
+SO-192.168.10.133
+TF-ufw.c
+MF-rockyou.txt
+MF-art.sh
+SO-192.168.159.128
+SF-image.php
+SF-s.c
+MP*-cat
+20
+0 1 FR
+0 2 UK
+1 3 WR
+1 4 FR
+4 3 RD
+5 1 RF
+4 5 ST
+1 6 WR
+4 6 WR
+1 7 RD
+4 7 WR
+1 8 WR
+4 8 RD
+1 9 ST
+4 9 ST
+1 10 RD
+4 10 RD
+4 11 WR
+12 3 WR
+4 12 UK
+

@@ -1,0 +1,86 @@
+23
+MP*-less
+SF-http.c
+TP*-sh
+MF-log.c
+MP-bash
+SO-192.168.10.130
+MP-uname
+MP-awk
+MF-CleaingScript.sh
+MP-cat
+MP*-more
+TF-d.c
+TP-uname
+MP*-cat
+MF-lighttpd.c
+MF-passwd.zip
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+SF-AutoSUID.sh
+MF-victim-shred.txt
+TP-cat
+SO-192.168.206.136
+TP-john
+SF-target.example.c
+60
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 RD
+2 3 WR
+0 4 FR
+4 1 RD
+2 4 IJ
+4 3 WR
+5 0 RF
+5 2 RF
+5 4 RF
+0 6 FR
+6 1 RD
+2 6 IJ
+6 3 WR
+4 6 UK
+0 7 UK
+2 8 RD
+9 1 UK
+2 10 IJ
+10 3 WR
+5 10 RF
+10 8 RD
+2 11 RD
+10 11 WR
+2 12 IJ
+12 3 WR
+5 12 RF
+12 8 RD
+10 12 IJ
+12 11 WR
+13 3 WR
+5 13 RF
+13 8 RD
+13 11 RD
+12 13 IJ
+10 14 EX
+12 14 EX
+13 14 RD
+10 15 WR
+12 15 RD
+13 15 UK
+16 10 RF
+16 12 RF
+10 17 RD
+12 17 RD
+10 18 WR
+12 18 RD
+10 19 FR
+19 11 RD
+12 19 UK
+20 10 RF
+21 11 CD
+21 14 WR
+16 21 RF
+21 17 RD
+21 18 RD
+20 21 RF
+21 22 UK
+

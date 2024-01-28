@@ -1,0 +1,98 @@
+30
+MP*-wscript.exe 
+MF-C:\Users\admin\AppData\Local\Temp\is-P1TLT.tmp
+TP-ns9A6A.tmp 
+TP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+MP-suifsc.exe 
+SF-HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile
+MP-nsCCFE.tmp
+MF-C:\Users\admin\AppData\Roaming\skmt
+MF-C:\Windows\system32\RICHTX32
+SF-C:\Windows\system32\SearchFilterHost
+MP*-putty.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86
+MF-C:\Users\admin\AppData\Local\Temp\xobpf7op.cmd
+MF-C:\Windows\system32\WinSat.exe
+TP-KMSpico_setup.tmp
+SF-C:\Program Files\Microsoft\Skype for Desktop\resources\app
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+TF-\system32\inetsrv\appcmd.exe
+TF-.\CurrentUserObject.txt
+MP-msdtc.exe
+TP-dvRzzWRPw.exe
+MF-files\appdata\local\temp\14612.bmp.vb
+MP*-Notepad.exe
+SO-http://fbi.fund/dark.exe
+MF-\Users\admin\AppData\Local\Temp\is-LETVB.tmp
+SO-162.252.214.4
+MF-C:\Users\admin\AppData\Local\Temp\Heapman45
+SF-C:\Users\admin\Desktop\Cybereason_EDR_TEST_TOOLS
+TP*-setup.exe
+TP-net.exe
+65
+0 1 EX
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+2 3 IJ
+0 4 FR
+4 1 WR
+2 4 IJ
+3 4 UK
+0 5 WR
+2 5 WR
+0 6 FR
+6 1 RD
+2 6 UK
+0 7 WR
+0 8 RD
+0 9 EX
+10 1 EX
+10 5 RD
+10 7 EX
+10 8 WR
+10 9 RD
+10 11 RD
+10 12 WR
+10 13 WR
+14 7 UK
+10 15 CD
+10 16 ST
+10 17 RD
+10 18 CD
+10 19 FR
+19 11 WR
+19 12 WR
+19 13 WR
+19 15 WR
+19 16 ST
+19 17 WR
+19 18 WR
+20 11 UK
+19 21 RD
+22 13 RD
+22 15 WR
+22 16 ST
+22 17 RD
+22 18 WR
+22 21 WR
+23 19 RF
+22 23 ST
+19 24 RD
+22 24 WR
+19 25 ST
+22 25 ST
+19 26 CD
+22 26 RD
+19 27 RD
+22 27 UK
+28 18 WR
+19 28 IJ
+28 21 EX
+23 28 RF
+28 24 RD
+25 28 RF
+28 26 UK
+29 21 UK
+

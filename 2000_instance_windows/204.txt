@@ -1,0 +1,131 @@
+41
+MP*-saves.exe
+MP-сsrss.exe 
+MF-\Users\admin\AppData\Local\Temp\BFB9.exe
+SF-C:\Users\admin\AppData\Local\Temp\EALRP
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32
+TF-\Users\admin\AppData\Local\Temp\Scan30921.htm.htm
+MP-0IuqaJTsFmOw8k4.exe
+MF-C:\Users\admin\AppData\Local\Temp\MyAccountSummary.zip
+MF-C:\Windows\system32\verclsid.exe
+SF-C:\Users\admin\Desktop
+MP-StormKittyBuild.exe 
+TP*-Dism.exe
+MF-rundll32.exe
+MF-Files\Hantek2xx2\STTubeDevice30.dll
+MF-\Users\admin\AppData\Local\Temp\xqGqlVXkyPJD.exe
+MF-1ZY0W5038626871089.exe
+SO-test@poscoplantec.co
+TF-C:\Users\admin\AppData\Local\Temp\main_bin.exe
+TP-Order specification.exe
+TP-02867fa8b443043ec0fe6af211c852aa.exe 
+MP*-cmstp.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+TF-C:\Windows\System32\vdsldr.exe
+TP-nbtstat.exe
+TP-desktopimgdownldr.exe
+MP-renamer-7.5.exe 
+MF-\Users\admin\AppData\Local\Temp\is-HH8GJ.tmp\Dkeyauth.tmp
+TF-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\Office Setup Controller\Setup.exe
+MP-MicrosoftUpdate.exe 
+TP*-Entry.exe 
+TF-C:\Users\Public\Videos\Sample Videos\lsass
+MP-CareUEyes_setup.exe
+MF-Explorer\DOMStore\reviewref_protected.exe
+TP-test de fdp.exe 
+MF-C:\Browserweb\MDCD8H1
+MF-C:\Users\User\8527
+MP-Heapman45.exe 
+MP-ONENOTE.EXE
+MF-C:\Windows\system32\regsvr32.exe
+MF-\Windows\System32\wscript.exe
+MP-schtasks.exe
+87
+0 1 FR
+0 2 EX
+1 2 WR
+0 3 WR
+1 3 RD
+0 4 EX
+1 4 EX
+0 5 WR
+1 5 EX
+0 6 FR
+1 6 UK
+0 7 EX
+0 8 WR
+0 9 WR
+10 2 RD
+10 3 RD
+10 4 UK
+11 2 RD
+11 3 RD
+11 5 WR
+11 7 EX
+11 8 WR
+11 9 WR
+11 12 RD
+11 13 RD
+11 14 WR
+11 15 EX
+11 16 ST
+11 17 WR
+18 9 WR
+11 18 IJ
+18 12 WR
+18 13 WR
+18 14 UK
+19 9 UK
+11 20 FR
+20 12 WR
+20 13 RD
+20 15 WR
+20 16 ST
+20 17 WR
+11 21 ST
+20 21 ST
+20 22 WR
+23 13 WR
+23 15 CD
+16 23 RF
+23 17 WR
+20 23 UK
+24 15 EX
+24 16 ST
+24 17 WR
+24 21 ST
+24 22 WR
+25 15 EX
+16 25 RF
+25 17 EX
+25 21 ST
+25 22 UK
+24 26 WR
+24 27 UK
+21 28 RF
+28 26 RD
+21 29 RF
+29 26 WR
+28 29 IJ
+28 30 UK
+31 21 ST
+31 26 WR
+29 31 IJ
+29 32 RD
+31 32 WR
+33 26 WR
+29 33 UK
+31 34 RD
+31 35 WR
+36 26 WR
+31 36 UK
+37 32 WR
+37 34 WR
+37 35 EX
+37 38 WR
+37 39 WR
+40 32 RD
+40 34 RD
+40 35 WR
+37 40 UK
+

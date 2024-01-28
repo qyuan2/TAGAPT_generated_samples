@@ -1,0 +1,98 @@
+33
+MP*-less
+MF-httpd.c
+MF-AutoSUID.sh
+MP-awk
+SF-victim-shred.txt
+MP-cat
+SF-etc.tar.gz
+TP-cat
+MP*-ls
+SF-d.c
+MF-chttp.c
+TP-less
+TP-ifconfig
+MF-echo-art-fish.sh
+MF-2017.pl
+MP-grep
+MP*-cat
+SO-192.168.10.133
+SF-alertConfigField.php
+MF-da-ks.cfg
+MF-art.sh
+MF-rockyou.txt
+SF-target.example.c
+MP-paste
+MP-less
+MP*-sed
+SF-logrotate.c
+MF-secret.c
+SF-os.sys
+MF-f.r
+TF-syslog.c
+TP-dd
+MF-victim-shred.txt
+62
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 WR
+3 2 EX
+0 4 RD
+3 4 RD
+0 5 FR
+5 1 RD
+5 2 RD
+3 5 UK
+0 6 RD
+0 7 FR
+7 1 UK
+0 8 FR
+8 2 WR
+8 4 EX
+8 6 WR
+0 9 RD
+8 9 WR
+0 10 EX
+8 10 WR
+11 2 RD
+11 4 EX
+11 6 WR
+8 11 IJ
+11 9 RD
+11 10 RD
+12 2 UK
+8 13 EX
+11 13 UK
+8 14 RD
+15 6 WR
+8 15 UK
+16 6 RD
+16 9 CD
+16 10 WR
+16 14 WR
+17 16 RF
+16 18 EX
+16 19 EX
+16 20 RD
+16 21 WR
+16 22 WR
+16 23 UK
+24 17 ST
+24 18 UK
+25 17 ST
+25 19 WR
+25 20 EX
+25 21 RD
+25 22 WR
+25 26 RD
+25 27 WR
+25 28 WR
+25 29 EX
+25 30 RD
+31 21 WR
+31 22 WR
+25 31 IJ
+31 26 UK
+25 32 UK
+

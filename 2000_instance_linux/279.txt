@@ -1,0 +1,44 @@
+13
+MP*-sed
+MF-sysctl.c
+MP*-grep
+SF-pwquality.c
+MF-T1070.006-modification.txt
+TP*-tac
+TF-da-ks.cfg
+MP*-cat
+MF-io.r
+TF-test.txt
+SF-T1070.006-modification.txt
+MF-access.htm
+TF-lighttpd.c
+28
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 CD
+0 4 WR
+2 4 RD
+0 5 IJ
+5 1 WR
+2 5 IJ
+5 3 WR
+5 4 WR
+0 6 RD
+2 6 WR
+5 6 RD
+0 7 FR
+7 1 WR
+7 3 WR
+7 4 WR
+5 7 UK
+0 8 CD
+2 8 WR
+0 9 WR
+2 9 EX
+0 10 WR
+2 10 WR
+2 11 WR
+2 12 WR
+

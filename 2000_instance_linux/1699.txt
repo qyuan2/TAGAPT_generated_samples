@@ -1,0 +1,68 @@
+17
+MP*-ls
+TP-netstat
+SO-192.168.159.128
+SO-192.168.206.136
+MF-p.c
+MF-inetd.c
+MF-journald.c
+MF-com.apple.loginwindow.plist
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-te.c
+MF-2017.pl
+MP-ls
+MP*-less
+MP*-more
+MP*-cp
+MP-ls
+MP-netstat
+48
+0 1 IJ
+0 2 ST
+2 1 RF
+0 3 ST
+1 3 ST
+0 4 WR
+1 4 WR
+0 5 WR
+1 5 RD
+0 6 RD
+1 6 WR
+0 7 WR
+1 7 EX
+8 0 RF
+1 8 ST
+0 9 WR
+1 9 RD
+0 10 WR
+1 10 WR
+1 11 FR
+2 11 RF
+11 3 ST
+11 4 UK
+12 2 ST
+3 12 RF
+12 5 RD
+12 6 RD
+12 7 UK
+13 3 ST
+13 5 WR
+13 6 WR
+8 13 RF
+13 9 EX
+13 10 EX
+14 5 RD
+14 6 WR
+14 8 ST
+14 9 WR
+14 10 RD
+15 6 WR
+8 15 RF
+15 9 WR
+15 10 WR
+13 15 UK
+16 8 ST
+16 9 WR
+16 10 RD
+14 16 UK
+

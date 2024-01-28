@@ -1,0 +1,50 @@
+15
+MP*-awk
+TP-find
+SF-AutoSUID.sh
+MF-flag4.txt
+MF-1.zip
+MP-perl
+MP-john
+TP*-cat
+MP*-nmap
+MP*-sed
+MF-T1574.006.c
+SO-atomic@target.example
+MF-s.c
+SF-chttp.c
+SF-echo-art-fish.sh
+32
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 WR
+1 3 EX
+0 4 EX
+1 4 WR
+0 5 FR
+1 5 IJ
+5 2 WR
+5 3 RD
+5 4 RD
+0 6 UK
+1 7 FR
+7 2 RD
+7 3 WR
+7 4 WR
+5 7 IJ
+1 8 IJ
+8 2 WR
+8 3 UK
+1 9 FR
+9 2 WR
+9 4 EX
+7 9 UK
+1 10 CD
+5 10 WR
+1 11 ST
+11 5 RF
+5 12 WR
+5 13 CD
+5 14 RD
+

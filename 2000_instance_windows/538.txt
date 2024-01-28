@@ -1,0 +1,50 @@
+16
+MP*-vlc.exe
+SF-C:\Windows\system32\ipconfig
+MP*-ns967A.tmp 
+MP*-WsatConfig.exe
+MF-nwc.h
+MP-svchost.exe
+MP*-GLJBD24.tmp
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+MF-C:\Users\admin\AppData\Local\Temp\Normes_Entreprise
+MP-WsatConfig.exe
+MP-meatspin full.exe
+MF-C:\Users\admin\AppData\Local\Temp\B70D
+MF-\Users\admin\AppData\Local\Temp\3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe
+MF-\Users\admin\AppData\Local\Temp\IMG_4096.HEIC.jpg
+MF-CompMgmtLauncher.exe
+SF-C:\Users\User\8527
+31
+0 1 WR
+0 2 FR
+2 1 CD
+0 3 FR
+3 1 WR
+0 4 RD
+2 4 WR
+3 4 WR
+0 5 FR
+5 1 EX
+2 5 UK
+0 6 FR
+6 1 RD
+6 4 WR
+0 7 RD
+3 7 WR
+6 7 EX
+0 8 CD
+3 8 WR
+6 8 WR
+0 9 FR
+9 1 WR
+9 4 UK
+0 10 FR
+10 1 WR
+3 10 UK
+6 11 CD
+6 12 CD
+6 13 EX
+6 14 EX
+6 15 WR
+

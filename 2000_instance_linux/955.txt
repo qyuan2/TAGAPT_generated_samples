@@ -1,0 +1,39 @@
+11
+MP*-useradd
+MF-chttp.c
+SO-127.0.0.1
+TP*-uname
+MP-less
+MF-ron.a
+TP-less
+MP*-ln 
+SF-T1574.006.c
+MF-access.htm
+MP*-tee
+25
+0 1 WR
+2 0 RF
+0 3 FR
+3 1 RD
+3 2 ST
+0 4 FR
+4 1 RD
+2 4 RF
+3 4 UK
+0 5 WR
+0 6 FR
+6 1 EX
+2 6 RF
+6 5 EX
+7 1 WR
+2 7 RF
+7 5 WR
+6 7 IJ
+6 8 RD
+7 8 UK
+6 9 WR
+10 1 WR
+10 2 ST
+10 5 WR
+6 10 UK
+

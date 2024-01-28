@@ -1,0 +1,60 @@
+17
+MP*-ls
+SF-alertConfigField.php
+MP*-more
+MF-raw.githubusercontent.c
+MF-test.txt
+TF-etc.tar.gz
+SO-192.168.37.130
+MF-ufw.log
+SF-atomic.sh
+MF-password-hash.sh
+SF-rockyou.txt
+SF-backsup.sh
+MF-etc.tar.gz
+MP-sed
+MP*-cat
+MP*-pr
+MP-python3
+40
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 RD
+2 3 RD
+0 4 WR
+2 4 RD
+0 5 WR
+2 5 RD
+0 6 ST
+6 2 RF
+0 7 RD
+2 7 WR
+0 8 EX
+2 8 RD
+0 9 EX
+2 9 WR
+0 10 WR
+2 10 RD
+2 11 RD
+2 12 WR
+13 3 WR
+13 4 UK
+14 5 WR
+6 14 RF
+14 7 CD
+14 8 WR
+14 9 CD
+14 10 RD
+14 11 EX
+14 12 WR
+15 6 ST
+15 7 EX
+15 8 CD
+15 9 WR
+15 10 WR
+15 11 WR
+15 12 WR
+14 15 UK
+16 7 UK
+

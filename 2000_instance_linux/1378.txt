@@ -1,0 +1,96 @@
+22
+MP*-dpkg
+SF-victim-shred.txt
+MP-nl
+SO-192.168.10.131
+MF-atomic.log
+SO-8.8.8.8
+TF-AutoSUID.sh
+TF-flag4.txt
+MF-lighttp.c
+SF-T1027-004-test.c
+TP-grep
+TP*-arp
+MF-atomic.log
+TP*-cat
+TF-atomic.sh
+MF-syslog.c
+MF-cron.m
+TP-cat
+MP*-cat
+MP-grep
+TF-at.a
+MP-find
+71
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 ST
+3 2 RF
+0 4 WR
+2 4 EX
+5 0 RF
+2 5 ST
+0 6 WR
+2 6 EX
+0 7 CD
+2 7 WR
+0 8 WR
+2 8 WR
+0 9 WR
+2 9 WR
+0 10 FR
+10 1 RD
+2 10 IJ
+3 10 RF
+10 4 WR
+10 5 ST
+10 6 WR
+10 7 WR
+10 8 RD
+10 9 WR
+11 1 WR
+2 11 IJ
+3 11 RF
+11 4 EX
+11 5 ST
+11 6 RD
+11 7 WR
+11 8 RD
+11 9 WR
+10 11 IJ
+2 12 RD
+10 12 WR
+11 12 RD
+13 3 ST
+13 4 RD
+13 5 ST
+13 6 RD
+13 7 WR
+13 8 WR
+13 9 EX
+10 13 IJ
+11 13 UK
+10 14 WR
+10 15 WR
+10 16 RD
+17 7 WR
+17 8 RD
+17 9 UK
+18 8 WR
+10 18 IJ
+18 12 WR
+18 14 RD
+18 15 RD
+18 16 RD
+10 19 IJ
+19 12 RD
+19 14 RD
+19 15 CD
+19 16 WR
+18 19 UK
+10 20 EX
+21 12 WR
+21 14 WR
+21 15 UK
+

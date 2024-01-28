@@ -1,0 +1,69 @@
+20
+MP*-T1027.exe
+SF-%temp%\temp_T1027.zip\T1027.exe
+TP*-ma grosse bite.exe 
+MP-444444.png.png.exe 
+MF-\Users\admin\AppData\Local\Temp\D18C.exe
+MF-ldifde.exe
+MF-\Users\Public\coinmarketcap\coinmarketcap.vb
+MF-\Windows\system32\certreq.exe
+SF-C:\Users\admin\AppData\Local\Temp\Edge
+TP-ExplorerSuite.exe
+SF-HKLM\Software\Microsoft\.NETFramework
+MF-c:\windows\system32\wbem\mofcomp.exe
+MF-C:\Windows\system32\fvjhioojuu
+SF-C:\Users\User\appdata\local\temp\rpvbh
+TP*-сsrss.exe 
+MF-C:\Windows\System32\rundll32.exe
+MF-c:\windows\system32
+SF-C:\Users\admin\AppData\Local\Temp\alg.exe
+MP*-Powershell.exe
+TF-C:\Users\admin\AppData\Local\Temp\meatspin
+46
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+2 3 IJ
+0 4 RD
+2 4 WR
+3 4 EX
+0 5 WR
+2 5 WR
+3 5 WR
+0 6 WR
+2 6 RD
+3 6 RD
+0 7 RD
+2 7 RD
+3 7 WR
+0 8 RD
+2 8 RD
+3 8 WR
+0 9 FR
+9 1 WR
+2 9 UK
+0 10 WR
+3 10 CD
+3 11 WR
+3 12 RD
+3 13 WR
+14 4 WR
+14 5 WR
+14 6 WR
+14 7 WR
+14 8 WR
+14 10 RD
+14 11 RD
+14 12 WR
+14 13 WR
+14 15 WR
+14 16 WR
+14 17 WR
+18 8 WR
+18 10 EX
+18 11 EX
+18 12 UK
+14 19 UK
+

@@ -1,0 +1,42 @@
+12
+MP*-fast1nject.exe 
+MF-\temp_T1027.zip\T1027.exe
+SF-C:\Users\admin\AppData\Roaming\ctfmon local files\readme
+MF-\Users\User\29630.ico.vb
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Wmic_calc.xsl
+SF-c:\temp\atomictestfile.txt
+MF-%temp%\nanodump.x64.exe 
+MP*-powercfg.exe
+MF-PathToAtomicsFolder\T1547.001\src\jsestartup.js
+MP*-WinSat.exe
+MF-C:\Windows\system32\ROUTE
+MP*-VP1T1deRx1.exe
+27
+0 1 RD
+0 2 EX
+0 3 RD
+4 0 RF
+0 5 WR
+0 6 RD
+0 7 FR
+7 1 WR
+7 2 EX
+7 3 WR
+7 4 ST
+7 5 WR
+7 6 EX
+0 8 WR
+7 8 WR
+0 9 FR
+9 1 RD
+9 2 EX
+9 3 WR
+4 9 RF
+9 5 WR
+9 6 WR
+7 9 UK
+0 10 WR
+11 1 WR
+11 2 WR
+11 3 UK
+

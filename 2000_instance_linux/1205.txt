@@ -1,0 +1,132 @@
+34
+MP*-sed
+TP-more
+TP-sed
+MF-1.zip
+TF-settings.php
+MF-victim-shred.txt
+TF-access.txt
+MP-grep
+MP-less
+MP-cat
+TP*-ifconfig
+MP-nl
+MF-log.c
+SF-test.txt
+MP-ls
+MP-ls
+MF-target.example.c
+MF-journald.c
+MF-SystemDiskClean.ps1
+MP-cat
+SO-127.0.0.1:8080
+TP-grep
+MF-pwquality.c
+MP-less
+TF-pwquality.c
+MF-te.c
+MP*-cat
+TP*-chmod
+TF-echo-art-fish.sh
+MF-logrotate.c
+MP-find
+MP-cat
+MP-more
+MP-awk
+95
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 RD
+1 3 CD
+2 3 RD
+0 4 WR
+1 4 RD
+2 4 RD
+0 5 WR
+1 5 UK
+0 6 WR
+2 6 EX
+0 7 FR
+2 7 UK
+0 8 FR
+8 3 WR
+8 4 UK
+0 9 FR
+9 3 UK
+10 6 WR
+11 6 RD
+10 11 IJ
+10 12 WR
+11 12 EX
+10 13 WR
+11 13 UK
+14 6 CD
+10 14 IJ
+14 12 WR
+15 6 WR
+10 15 IJ
+15 12 RD
+14 15 UK
+10 16 WR
+10 17 WR
+10 18 RD
+10 19 IJ
+19 12 RD
+19 16 EX
+19 17 RD
+19 18 RD
+10 20 ST
+20 19 RF
+21 12 WR
+21 16 EX
+21 17 RD
+21 18 WR
+19 21 IJ
+20 21 RF
+19 22 RD
+21 22 RD
+23 16 RD
+23 17 RD
+23 18 UK
+19 24 WR
+21 24 RD
+19 25 WR
+21 25 WR
+26 17 CD
+20 26 RF
+21 26 IJ
+26 22 WR
+26 24 WR
+26 25 RD
+20 27 RF
+21 27 IJ
+27 22 EX
+27 24 RD
+27 25 WR
+26 27 IJ
+21 28 RD
+26 28 WR
+27 28 WR
+21 29 WR
+26 29 WR
+27 29 RD
+21 30 IJ
+30 22 CD
+30 24 WR
+30 25 EX
+27 30 UK
+31 22 RD
+31 24 WR
+31 25 EX
+31 28 WR
+31 29 WR
+32 24 CD
+32 25 WR
+32 28 RD
+32 29 WR
+31 32 UK
+33 24 RD
+33 25 WR
+26 33 UK
+

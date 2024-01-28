@@ -1,0 +1,156 @@
+45
+MP-nsBC6C.tmp
+SO-https://crashstats-collector.opera.com/collector/submit
+MP-BFB9.exe
+TP-VRAPP.exe 
+MP-client32.exe
+MP-xqGqlVXkyPJD.exe 
+TF-C:\Users\admin\Desktop\fd4289d63cda962af120a59a1f3a389f
+MP-hh.exe 
+MF-C:\Windows\SysWOW64\ytqpvkdx\vlliugwu
+SF-C:\Users\admin\AppData\Local\Temp\aafg31.exe
+TP-ns9AE8.tmp
+TF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves
+TP-ping.exe
+MP-SearchIndexer.exe
+MP*-pypykatz.py
+SO-192.168.10.11
+MF-\Users\admin\AppData\Local\Temp\FTPServer.exe
+TF-tasklist.exe
+TP-468C.exe
+MF-.\ExternalPayloads\msxsl.exe
+SO-test@poscoplantec.co
+MP*-AcroRd32.exe
+MP-nsD38B.tmp
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MP-y6493242.exe
+TP*-pr2.exe 
+SF-C:\Windows\system32\prevhost
+MP-nsA317.tmp
+MF-c:\Users\admin\AppData\Local\Temp\CSCF2B3.tmp
+MF-C:\Users\admin\Desktop\OlympicDestroyer
+MF-\Users\admin\Desktop\MS-66016.r
+MP*-CareUEyes.exe
+MF-\Users\admin\AppData\Local\Temp\yapars.zip
+SF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\vbsstartup.vb
+TP-W32tm
+MP-Order specification.exe
+TP-ExplorerSuite.tmp
+MF-RerSpacer710.exe
+MF-\Users\admin\AppData\Local\Temp\Downloads.zip
+TP-MsiExec.exe
+SO-hxxp://fiordan.ru/FILM.html
+TF-sc.exe
+MF-Soft.exe
+MF-C:\Windows\system32\msiexec.exe
+MP-where.exe
+108
+1 0 RF
+0 2 FR
+1 2 RF
+0 3 FR
+1 3 RF
+2 3 UK
+0 4 FR
+1 4 RF
+0 5 UK
+4 6 WR
+1 7 RF
+7 6 WR
+4 8 WR
+7 8 RD
+4 9 CD
+7 9 EX
+10 1 ST
+4 10 UK
+7 11 UK
+12 6 RD
+12 8 WR
+12 9 WR
+13 6 UK
+14 8 WR
+14 9 CD
+12 14 IJ
+15 12 RF
+14 15 ST
+12 16 WR
+14 16 WR
+12 17 WR
+14 17 WR
+18 8 RD
+18 9 RD
+12 18 UK
+14 19 EX
+20 14 RF
+14 21 FR
+15 21 RF
+21 16 EX
+21 17 RD
+21 19 WR
+21 20 ST
+14 22 FR
+22 15 ST
+22 16 RD
+22 17 WR
+22 19 WR
+22 20 ST
+14 23 ST
+21 23 ST
+23 22 RF
+14 24 UK
+15 25 RF
+25 16 RD
+25 17 WR
+25 19 WR
+20 25 RF
+21 25 IJ
+22 25 IJ
+25 23 ST
+21 26 EX
+22 26 EX
+25 26 RD
+27 17 WR
+27 19 EX
+27 20 ST
+22 27 UK
+21 28 WR
+25 28 UK
+21 29 WR
+21 30 RD
+21 31 FR
+31 23 ST
+31 26 WR
+31 29 WR
+31 30 EX
+31 32 WR
+31 33 WR
+34 26 WR
+34 29 RD
+34 30 RD
+31 34 IJ
+34 32 EX
+34 33 RD
+35 26 RD
+35 29 WR
+35 30 EX
+31 35 UK
+36 26 WR
+36 29 WR
+36 30 UK
+34 37 WR
+34 38 WR
+39 29 WR
+39 32 WR
+39 33 WR
+34 39 IJ
+39 37 RD
+39 38 RD
+40 34 RF
+39 40 ST
+34 41 UK
+39 42 EX
+39 43 CD
+44 37 WR
+44 38 WR
+39 44 UK
+

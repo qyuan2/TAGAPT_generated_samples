@@ -1,0 +1,56 @@
+15
+MP*-ifconfig
+TF-bash_completion.sh
+MP*-cat
+MF-cron.a
+SF-te.c
+MF-raw.githubusercontent.c
+TP-cat
+MF-Users.tar.gz
+SF-art.sh
+TP*-less
+SF-password-hash.sh
+SF-flag4.txt
+MP-tac
+MP*-cat
+SO-192.168.206.0
+38
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 CD
+0 4 EX
+2 4 WR
+0 5 EX
+2 5 EX
+0 6 IJ
+6 1 RD
+2 6 IJ
+6 3 WR
+6 4 RD
+6 5 WR
+0 7 WR
+2 7 UK
+0 8 WR
+6 8 RD
+0 9 IJ
+9 1 RD
+9 3 RD
+9 4 WR
+9 5 RD
+6 9 IJ
+9 8 UK
+0 10 WR
+6 10 RD
+6 11 CD
+12 3 CD
+12 4 RD
+12 5 UK
+13 3 WR
+13 4 WR
+6 13 IJ
+13 10 EX
+13 11 UK
+14 6 RF
+

@@ -1,0 +1,91 @@
+29
+MP*-CCleanerBugReport.exe
+MP-WScript.exe 
+MF-files\30802.ico.txt
+MP-KMSELDI.exe
+MF-build.exe
+MF-C:\Users\admin\AppData\Local\Temp\ActionList.xml
+MP-Reader_sl.exe 
+MF-\Users\admin\AppData\Local\Temp\SecuriteInfo.com.Win32.MalwareX-gen.3838.1241.exe
+TP-wscript.exe 
+MF-\Users\admin\AppData\Local\Temp\3ec1f323b5\danke.exe
+TP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/DumpWCM.ps1
+TP-WannaCry.EXE 
+MF-Order2023.doc
+TF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9492.tmp
+SF-C:\Users\Public\Pictures\deep
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+MF-\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67.exe
+MP-cacls.exe
+TP*-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+TP*-WINWORD.EXE 
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsCFA0.tmp
+TF-\Users\admin\AppData\Local\XsdType\cgpswyly\Tags.exe
+MF-\Users\admin\AppData\Local\Temp\phish_alert_sp2_2.0.0.0.eml.msg
+MF-.\ExternalPayloads\T1059_003note.txt
+TF-C:\Windows\System32\WindowsPowerShell\v1
+TP-OneDrive.exe 
+MF-\Users\admin\AppData\Local\Temp\5EAD.exe
+MF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv
+59
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 FR
+1 3 UK
+0 4 WR
+0 5 WR
+0 6 FR
+6 2 CD
+6 4 UK
+0 7 WR
+0 8 IJ
+8 2 UK
+0 9 EX
+0 10 IJ
+10 5 WR
+10 7 RD
+10 9 WR
+10 11 ST
+12 5 RD
+12 7 WR
+12 9 RD
+10 12 IJ
+12 11 ST
+10 13 UK
+12 14 RD
+12 15 WR
+16 12 RF
+12 17 RD
+18 9 RD
+18 11 ST
+12 18 UK
+19 9 RD
+19 11 ST
+19 14 WR
+19 15 WR
+16 19 RF
+19 17 EX
+20 11 ST
+20 14 EX
+20 15 WR
+16 20 RF
+20 17 RD
+19 20 IJ
+19 21 WR
+20 21 WR
+19 22 WR
+20 22 WR
+19 23 EX
+20 23 EX
+19 24 CD
+20 24 CD
+19 25 UK
+26 16 ST
+26 17 WR
+20 26 IJ
+26 21 UK
+20 27 WR
+20 28 WR
+

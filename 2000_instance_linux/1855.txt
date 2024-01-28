@@ -1,0 +1,93 @@
+28
+MP*-uname
+MP-cat
+SF-pwquality.c
+MP-more
+MP*-tr
+MP-nl
+MP-cat
+TP-awk
+MP*-less
+TF-passwd.zip
+SF-os.exe
+MP-echo
+SF-chttp.c
+MP-sed
+MP-cat
+TP*-cat
+MF-flag3.txt
+MP-cat
+TP-id
+MP-bash
+SF-Discovery.sh
+MP-wfuzz
+MF-victim-shred.txt
+TF-ufw.log
+MP-masscan
+MF-target.example.c
+TF-art.sh
+MF-password-hash.sh
+62
+0 1 FR
+0 2 WR
+1 2 UK
+0 3 FR
+0 4 FR
+0 5 FR
+0 6 FR
+3 6 UK
+0 7 FR
+4 7 IJ
+5 7 IJ
+0 8 FR
+7 8 IJ
+0 9 WR
+4 9 WR
+5 9 RD
+7 9 RD
+8 9 CD
+0 10 WR
+4 10 WR
+5 10 WR
+7 10 RD
+8 10 RD
+4 11 FR
+5 11 UK
+4 12 RD
+7 12 WR
+8 12 RD
+4 13 FR
+7 13 IJ
+8 13 UK
+4 14 FR
+7 14 UK
+15 9 CD
+15 10 CD
+15 12 CD
+15 16 RD
+17 9 RD
+17 10 WR
+17 12 RD
+15 17 IJ
+17 16 EX
+18 9 UK
+19 10 RD
+19 12 WR
+15 19 IJ
+19 16 WR
+15 20 WR
+17 20 WR
+19 20 RD
+21 12 WR
+15 21 IJ
+21 16 EX
+17 21 UK
+15 22 CD
+19 22 WR
+15 23 WR
+19 23 WR
+15 24 UK
+19 25 WR
+19 26 RD
+19 27 UK
+

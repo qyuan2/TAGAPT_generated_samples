@@ -1,0 +1,46 @@
+14
+MP*-firefox.exe
+TP-vssadmin.exe
+TP-python.exe
+MP*-AppLaunch.exe
+SO-162.252.214.4
+MF-C:\Users\Administrator\Local Settings\services
+MF-\Windows\Microsoft.NET\Framework64\v2.0.50727\regasm.exe
+MP-msdt.exe
+MP*-forfiles.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+MP-saBSI.exe
+MP*-secedit.exe
+MF-\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04.exe
+MP-1.sfx.exe 
+29
+0 1 IJ
+0 2 IJ
+1 2 UK
+0 3 FR
+0 4 ST
+4 3 RF
+0 5 CD
+3 5 EX
+0 6 RD
+3 6 WR
+0 7 FR
+3 7 UK
+0 8 FR
+8 4 ST
+8 5 RD
+8 6 WR
+9 0 RF
+8 9 ST
+0 10 FR
+10 4 ST
+10 5 UK
+4 11 RF
+11 6 WR
+11 9 ST
+8 12 WR
+11 12 UK
+4 13 RF
+13 6 WR
+8 13 UK
+

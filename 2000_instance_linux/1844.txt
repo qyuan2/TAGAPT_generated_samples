@@ -1,0 +1,44 @@
+14
+MP-cat
+MP-less
+MP*-ftp
+MF-shell.cgi
+TF-os.exe
+MP-head
+MF-e.c
+MP*-curl
+MF-access.txt
+MP*-ifconfig
+MP*-awk
+MP-cat
+MF-da-ks.cfg
+MP-sed
+27
+0 1 FR
+0 2 FR
+0 3 WR
+1 3 RD
+2 3 RD
+0 4 WR
+1 4 UK
+0 5 UK
+2 6 RD
+2 7 FR
+7 3 RD
+7 6 WR
+2 8 RD
+7 8 WR
+2 9 FR
+9 3 RD
+9 6 RD
+7 9 UK
+2 10 FR
+10 3 RD
+10 6 WR
+10 8 WR
+2 11 UK
+10 12 WR
+13 6 WR
+13 8 RD
+10 13 UK
+

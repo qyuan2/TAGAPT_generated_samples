@@ -1,0 +1,147 @@
+37
+MP-certutil.exe
+MP-sdiagnhost.exe
+MP-Xenos.exe 
+SO-http://www.velux.de/kundendienstbedingungen
+MP-NOTEPAD.EXE 
+MF-C:\Users\admin\AppData\Local\Temp\stealc_TestBuild
+MF-\Windows\System32\windowspowershell\v1.0\powershell.exe
+MF-C:\Users\admin\AppData\Local\Temp\62f0e2de
+MP-anydesk.exe
+TP-ipconfig.exe
+TF-C:\Windows\System32\rundll32.exe
+MP*-LZ4-SOFT.exe 
+MP*-mshta.exe
+TP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+TF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32
+SF-C:\Users\admin\Desktop\Screenshot
+TP-o0575127.exe
+MP-WISPTIS.EXE
+MP-suifsc.exe 
+MP-MpCmdRun.exe
+TF-PLAZMA.htm
+MF-C:\Program Files\Internet Explorer\iexplore.exe
+MF-findstr.exe
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MP*-Psiphon.exe
+TP-xcopy.exe
+MP-secedit.exe
+MP-cmd.exe
+MF-C:\PROGRA
+MP-CE5F.exe
+SO-127.0.0.1
+TF-C:\Users\admin\AppData\Local\Temp\getadmin
+TP-yiueea.exe 
+MP-control.exe
+MF-\Users\admin\AppData\Local\Temp\\badempty.cmd
+MF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth.exe
+107
+0 1 FR
+0 2 FR
+1 2 UK
+3 0 RF
+0 4 FR
+3 4 RF
+0 5 WR
+4 5 EX
+0 6 WR
+4 6 RD
+0 7 WR
+4 7 WR
+0 8 FR
+8 3 ST
+4 8 UK
+0 9 FR
+3 9 RF
+9 5 RD
+9 6 EX
+9 7 WR
+0 10 WR
+9 10 RD
+3 11 RF
+11 5 RD
+11 6 RD
+11 7 WR
+9 11 IJ
+11 10 RD
+12 3 ST
+12 5 WR
+12 6 RD
+12 7 RD
+9 12 IJ
+12 10 RD
+3 13 RF
+13 5 WR
+13 6 WR
+13 7 RD
+9 13 IJ
+13 10 WR
+11 13 IJ
+12 13 IJ
+9 14 WR
+11 14 WR
+12 14 WR
+13 14 WR
+9 15 WR
+11 15 RD
+12 15 WR
+13 15 WR
+16 6 WR
+16 7 WR
+9 16 UK
+17 7 RD
+17 10 WR
+11 17 UK
+18 10 WR
+13 18 IJ
+18 14 EX
+18 15 UK
+19 10 WR
+13 19 IJ
+19 14 EX
+12 20 UK
+13 21 WR
+19 21 RD
+13 22 WR
+19 22 EX
+23 13 RF
+19 23 ST
+24 19 RF
+19 25 FR
+25 21 CD
+25 22 WR
+23 25 RF
+24 25 RF
+19 26 IJ
+26 21 WR
+26 22 WR
+23 26 RF
+26 24 ST
+25 26 IJ
+19 27 UK
+28 21 WR
+28 22 EX
+23 28 RF
+28 24 ST
+25 28 UK
+26 29 RD
+30 21 RD
+30 22 RD
+23 30 RF
+24 30 RF
+26 30 IJ
+30 29 RD
+26 31 ST
+30 31 ST
+26 32 WR
+30 32 RD
+23 33 RF
+24 33 RF
+26 33 UK
+34 29 RD
+34 31 ST
+34 32 UK
+30 35 CD
+30 36 WR
+

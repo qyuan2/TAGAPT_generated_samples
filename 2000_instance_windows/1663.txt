@@ -1,0 +1,71 @@
+21
+MP*-AkrienBeta.exe 
+TP-firefox.exe 
+MP-addinutil.exe
+SF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04
+MF-c:\Users\admin\AppData\Local\Temp\CSCF350.tmp
+MP-fltmc.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp91F1
+MP-8cc2d4575163a5e3dc7a56face3644e9.exe 
+MF-C:\windows\system32\cmd.exe
+MF-\Users\admin\AppData\Local\Temp\OneDrive.exe
+MP-k2141323.exe
+MP*-Setup.exe
+MF-Users\{90140000-002C-0410-0000-0000000FF1CE}-C\lsass.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+TP*-msedge.exe
+TF-289868063.exe
+TF-\Windows\system32\MsiExec.exe
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+TP-NOTEPAD.EXE
+TP*-PO 345678.exe 
+MP-Notepad Soft.exe 
+47
+0 1 FR
+0 2 UK
+1 3 EX
+1 4 RD
+1 5 IJ
+5 3 RD
+5 4 WR
+1 6 WR
+5 6 EX
+1 7 UK
+5 8 EX
+5 9 WR
+10 3 WR
+10 4 EX
+5 10 UK
+11 3 EX
+11 4 WR
+11 6 WR
+11 8 RD
+11 9 WR
+11 12 CD
+11 13 ST
+14 4 RD
+14 6 WR
+14 8 RD
+14 9 WR
+11 14 IJ
+14 12 CD
+14 13 ST
+11 15 WR
+14 15 WR
+11 16 RD
+14 16 WR
+17 11 RF
+14 17 ST
+18 8 RD
+18 9 RD
+11 18 UK
+19 9 RD
+19 12 CD
+13 19 RF
+14 19 IJ
+19 15 WR
+19 16 UK
+20 12 RD
+13 20 RF
+14 20 UK
+

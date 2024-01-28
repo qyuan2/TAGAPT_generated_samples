@@ -1,0 +1,34 @@
+13
+MP*-AppLaunch.exe
+MF-\Users\admin\AppData\Local\Temp\Setup.bin.exe
+SF-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Pniumj
+TP*-aspnet_compiler.exe
+SF-C:\MSOCache\All Users\cmd.exe
+MP-fltmc.exe
+MP*-talkworld.exe 
+SF-C:\Users\Public\Pictures\deep
+MF-1ZY0W5038626871089.exe
+MF-\Windows\Microsoft.NET\Framework64\v4.0.30319\regsvcs.exe
+MF-C:\Users\admin\AppData\Local\Temp\RESF237
+MP*-ExplorerSuite.tmp
+MF-test.xml
+18
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 WR
+3 4 UK
+0 5 FR
+5 1 EX
+5 2 UK
+6 1 WR
+6 7 WR
+6 8 WR
+6 9 WR
+6 10 WR
+6 11 FR
+11 7 UK
+6 12 WR
+

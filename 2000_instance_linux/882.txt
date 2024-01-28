@@ -1,0 +1,49 @@
+17
+MP*-grep
+MF-T1070.006-reference.txt
+SO-192.168.206.0
+MP-less
+MP*-awk
+MF-T1574.006.c
+TF-AutoSUID.sh
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-art.sh
+TF-data.tar.gz
+TP*-dmesg
+MF-f.r
+MF-data.zip
+MP-cat
+MP*-sed
+SF-s.c
+SF-at.a
+29
+0 1 WR
+2 0 RF
+0 3 UK
+4 1 EX
+4 2 ST
+4 5 RD
+4 6 WR
+7 4 RF
+4 8 WR
+4 9 WR
+10 1 WR
+2 10 RF
+4 10 IJ
+10 5 WR
+10 6 WR
+10 7 ST
+10 8 CD
+10 9 UK
+4 11 RD
+4 12 WR
+4 13 UK
+14 5 WR
+14 6 WR
+14 7 ST
+14 8 RD
+14 11 WR
+14 12 WR
+14 15 WR
+14 16 UK
+

@@ -1,0 +1,58 @@
+14
+MP*-nc
+TP-find
+MF-password-hash.sh
+MP*-cat
+MP*-grep
+SO-atomic@target.example
+MF-f.r
+MF-cron.m
+TF-os.exe
+MP-cat
+MF-os.sys
+TP*-grep
+TP-tee
+TP-crontab
+41
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 FR
+1 3 IJ
+3 2 RD
+0 4 FR
+1 4 IJ
+4 2 RD
+5 0 RF
+1 5 ST
+5 3 RF
+4 5 ST
+0 6 RD
+1 6 RD
+3 6 RD
+4 6 WR
+0 7 CD
+1 7 RD
+3 7 WR
+4 7 RD
+0 8 WR
+1 8 RD
+3 8 EX
+4 8 WR
+0 9 FR
+1 9 UK
+0 10 RD
+3 10 WR
+4 10 WR
+11 2 WR
+3 11 IJ
+4 11 IJ
+11 5 ST
+11 6 WR
+11 7 EX
+11 8 WR
+11 10 UK
+12 2 CD
+3 12 UK
+4 13 UK
+

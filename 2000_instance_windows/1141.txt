@@ -1,0 +1,102 @@
+27
+MP*-nanodump.x64.exe
+TF-IE1.doc
+MF-C:\Users\admin\AppData\Local\Temp\B70D
+MF-C:\Users\admin\Desktop\AkrienBeta
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MP-timeout.exe
+TP-client32.exe
+MF-C:\Users\admin\AppData\Local\Temp\IEmode
+MP-mspaint.exe
+MP-TBHD AWB 1ZY0W5038626871089.exe
+MP*-TBHD AWB 1ZY0W5038626871089.exe
+MP*-installer.exe
+MF-C:\Users\admin\Desktop\SERVIPAGrecibo.m
+MF-C:\Users\admin\AppData\Local\Temp\f8ab93332536f27e4c463bde920795e59a08898ff648f679ca15c624f39b6dc8.dll
+SF-C:\Program Files\FileZilla FTP Client\filezilla
+MF-C:\Users\admin\Desktop\what
+TP-gpresult.exe
+SO-192.168.10.11
+TP*-nsA317.tmp
+SF-C:\Users\admin\AppData\Local\Temp\Dieselmotorers
+MP-ExplorerSuite.tmp
+MP-DCRatBuild.exe
+SF-C:\Windows\system32\verclsid.exe
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+SF-C:\Users\admin\AppData\Local\Temp\lk
+MP-nvvsvc.exe 
+72
+0 1 WR
+0 2 RD
+0 3 EX
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 WR
+0 5 FR
+5 1 WR
+5 2 EX
+5 3 WR
+4 5 UK
+0 6 FR
+6 1 RD
+6 2 RD
+6 3 RD
+0 7 FR
+7 1 RD
+7 2 WR
+7 3 EX
+6 7 UK
+0 8 WR
+0 9 FR
+9 1 RD
+9 2 CD
+9 3 EX
+9 8 RD
+0 10 FR
+10 1 EX
+10 2 RD
+10 3 WR
+10 8 RD
+9 10 UK
+11 1 WR
+11 2 WR
+11 3 WR
+11 8 EX
+12 2 WR
+12 3 WR
+12 8 RD
+11 13 WR
+12 13 EX
+11 14 WR
+12 14 EX
+11 15 WR
+12 15 WR
+11 16 WR
+12 16 RD
+17 8 WR
+11 17 IJ
+12 17 IJ
+17 13 UK
+18 11 RF
+18 12 RF
+11 19 IJ
+12 19 IJ
+19 14 RD
+19 15 CD
+19 16 RD
+19 18 ST
+11 20 RD
+12 20 CD
+19 20 RD
+11 21 FR
+12 21 UK
+22 14 UK
+19 23 WR
+19 24 ST
+19 25 WR
+26 16 EX
+18 26 RF
+19 26 UK
+

@@ -1,0 +1,281 @@
+69
+MP-cat
+MF-e2.c
+MF-s.c
+MF-www.google.c
+SF-lighttpd.c
+TP-uname
+MP-cat
+MF-syslog.c
+TF-chttp.c
+TP*-cat
+MP-ls
+SF-secret.c
+MF-flag3.txt
+MF-cron.m
+SO-192.168.159.128
+MF-robots.txt
+MF-www.google.c
+MP-cat
+TP-nl
+SO-192.168.10.131
+MP-tac
+TP*-nmap
+TP-nmap
+MF-atomic.sh
+SO-192.168.1.1
+SF-target.example.c
+MF-chttp.c
+MP-awk
+MF-raft-medium-directories.txt
+MF-chttp.c
+MP-head
+TF-da-ks.cfg
+MP-less
+SF-T1070.006-modification.txt
+SO-192.168.10.131
+MF-image.php
+TP-cat
+MF-cron.m
+MF-T1070.004-test.txt
+MF-UAParser.js
+MP-cat
+MF-resolv.c
+MP-less
+TF-p.c
+MF-httpd.c
+MF-log.c
+MP-less
+TP-nl
+TF-pwquality.c
+MF-raft-large-directories.txt
+MF-T1003.008.txt
+SF-0*.txt
+MF-chttp.c
+TP*-head
+MP-gobuster
+TP-less
+MF-0*.txt
+MP*-grep
+MF-atomic.sh
+MP-teehee
+TF-T1070.004-test.txt
+MF-password-hash.sh
+MF-p.c
+TF-ufw.log
+MF-password-hash.sh
+MP-awk
+SF-log.c
+SF-T1027-004-test.c
+MP-uname
+209
+0 1 CD
+0 2 RD
+0 3 WR
+0 4 WR
+0 5 FR
+5 1 UK
+0 6 FR
+6 2 WR
+6 3 UK
+0 7 RD
+0 8 WR
+0 9 IJ
+9 2 WR
+9 4 EX
+9 7 WR
+9 8 EX
+0 10 FR
+10 2 WR
+10 4 EX
+10 7 RD
+10 8 WR
+9 10 IJ
+9 11 WR
+10 11 RD
+9 12 WR
+10 12 WR
+9 13 RD
+10 13 EX
+14 9 RF
+10 14 ST
+9 15 WR
+10 15 WR
+9 16 WR
+10 16 WR
+17 7 CD
+17 8 EX
+9 17 UK
+18 8 WR
+10 18 IJ
+18 11 WR
+18 12 EX
+18 13 WR
+14 18 RF
+18 15 WR
+18 16 RD
+10 19 ST
+18 19 ST
+10 20 FR
+20 11 EX
+20 12 EX
+20 13 RD
+20 14 ST
+20 15 RD
+20 16 WR
+18 20 UK
+21 11 WR
+21 12 WR
+21 13 WR
+21 14 ST
+21 15 WR
+21 16 RD
+19 21 RF
+22 12 WR
+22 13 EX
+22 14 ST
+22 15 RD
+22 16 EX
+22 19 ST
+21 22 IJ
+21 23 WR
+22 23 EX
+24 21 RF
+24 22 RF
+21 25 EX
+22 25 RD
+21 26 EX
+22 26 WR
+27 19 ST
+21 27 IJ
+22 27 IJ
+27 23 WR
+24 27 RF
+27 25 WR
+27 26 RD
+21 28 RD
+22 28 RD
+27 28 CD
+21 29 WR
+22 29 EX
+27 29 RD
+21 30 UK
+22 31 RD
+27 31 RD
+22 32 IJ
+32 23 WR
+32 24 ST
+32 25 RD
+32 26 WR
+32 28 WR
+32 29 RD
+32 31 WR
+27 33 WR
+32 33 WR
+27 34 ST
+34 32 RF
+27 35 WR
+32 35 CD
+36 26 WR
+27 36 IJ
+36 28 EX
+36 29 WR
+36 31 RD
+32 36 IJ
+36 33 RD
+36 34 ST
+36 35 WR
+27 37 WR
+32 37 WR
+36 37 RD
+32 38 RD
+36 38 WR
+32 39 UK
+40 31 WR
+40 33 WR
+40 34 ST
+40 35 RD
+36 40 IJ
+40 37 WR
+40 38 WR
+36 41 RD
+40 41 WR
+42 33 WR
+34 42 RF
+42 35 RD
+36 42 UK
+40 43 WR
+40 44 WR
+40 45 WR
+46 37 RD
+46 38 WR
+46 41 UK
+47 37 WR
+47 38 WR
+40 47 IJ
+47 43 RD
+47 44 RD
+47 45 CD
+40 48 RD
+47 48 WR
+40 49 RD
+47 49 WR
+40 50 WR
+47 50 RD
+47 51 WR
+47 52 WR
+53 43 CD
+53 44 WR
+53 45 EX
+47 53 IJ
+53 48 RD
+53 49 WR
+53 50 EX
+53 51 WR
+53 52 EX
+54 44 WR
+54 45 WR
+47 54 IJ
+54 48 EX
+54 49 EX
+54 50 WR
+54 51 UK
+55 45 UK
+47 56 CD
+53 56 RD
+47 57 FR
+57 48 RD
+57 49 WR
+57 50 WR
+57 52 WR
+53 57 IJ
+57 56 WR
+53 58 RD
+57 58 EX
+59 49 WR
+59 50 RD
+59 52 CD
+53 59 UK
+57 60 WR
+57 61 WR
+57 62 WR
+57 63 RD
+57 64 WR
+65 56 RD
+65 58 RD
+65 60 WR
+65 61 RD
+65 62 WR
+65 63 WR
+65 64 WR
+57 66 CD
+65 66 WR
+57 67 EX
+65 67 WR
+68 60 RD
+68 61 WR
+68 62 RD
+68 63 RD
+68 64 WR
+65 68 UK
+

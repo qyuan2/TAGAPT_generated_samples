@@ -1,0 +1,46 @@
+15
+MP*-nsA0C0.tmp 
+MF-00002.htm
+MF-C:\Users\admin\AppData\Local\Temp\nsf91FB.tmp
+MP*-gsecdump.exe
+MP*-ProcessHacker.exe 
+TF-InfDefaultInstall.exe
+MP-ntvdm.exe
+TP*-NdSvr.exe
+SF-C:\Users\admin\AppData\Local\Temp\9215
+TF-C:\Program Files\Common Files\Microsoft Shared\VSTA\Pipeline
+TF-\Windows\Microsoft.NET\Framework\v2.0.50727\cvtres.exe
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9EC8.tmp
+MP-bcdedit.exe
+TP-GLJC215.tmp
+28
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 CD
+3 2 WR
+0 4 FR
+4 1 EX
+4 2 WR
+0 5 WR
+3 5 UK
+0 6 FR
+6 1 WR
+6 2 RD
+4 6 UK
+0 7 FR
+7 1 WR
+7 2 CD
+0 8 RD
+7 8 EX
+0 9 WR
+7 9 WR
+0 10 WR
+7 10 WR
+7 11 RD
+7 12 WR
+7 13 FR
+13 8 UK
+7 14 UK
+

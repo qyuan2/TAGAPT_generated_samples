@@ -1,0 +1,72 @@
+21
+MP*-cd
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP*-uname
+MP*-bash
+SO-atomic@target.example
+MP*-whoami
+MF-test.txt
+MF-cron.h
+TP-more
+TF-anaconda-ks.cfg
+MF-apache2.c
+MF-test.txt
+TP-sudo
+MP-sh
+TP-tshark
+TF-inetd.c
+SO-192.168.2.102
+MF-td.c
+SF-raft-large-directories.txt
+TP-cat
+MP-sed
+48
+0 1 ST
+0 2 FR
+2 1 ST
+0 3 FR
+3 1 ST
+2 3 UK
+4 0 RF
+0 5 FR
+5 1 ST
+4 5 RF
+0 6 EX
+5 6 CD
+5 7 WR
+1 8 RF
+8 4 ST
+5 8 IJ
+8 6 RD
+8 7 WR
+5 9 WR
+8 9 WR
+5 10 RD
+8 10 WR
+5 11 CD
+8 11 WR
+4 12 RF
+5 12 IJ
+12 6 WR
+12 7 CD
+8 12 IJ
+12 9 WR
+12 10 RD
+12 11 WR
+13 4 ST
+5 13 UK
+14 6 UK
+8 15 WR
+12 15 WR
+8 16 ST
+12 16 ST
+8 17 WR
+12 17 CD
+8 18 RD
+12 18 WR
+19 9 WR
+19 10 WR
+19 11 UK
+20 10 WR
+12 20 UK
+

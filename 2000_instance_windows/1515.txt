@@ -1,0 +1,123 @@
+28
+MP*-sdiagnhost.exe
+MF-C:\Users\Public\WinRAR
+SF-C:\Windows\Temp\lsass
+MP-gsecdump.exe
+MP-MsiExec.exe
+MF-chrome.m
+MP*-build3.exe 
+TP*-PURCHASE ORDER 091020.exe 
+TF-C:\Windows\system32\wbengine
+TP-FISCALIA GENERAL DE LA NACION --.exe 
+TP-taskhsvc.exe
+TP*-wbadmin.exe
+MF-C:\savesdllNetdhcp\System
+TP-findstr.exe
+MF-C:\Users\admin\AppData\Local\Temp\ORDER_LIST
+MF-\Users\admin\AppData\Local\Temp\lk.exe
+MF-C:\Users\All Users\smss.exe
+MP-RtkBtManServ.exe
+MF-C:\Program Files\Mozilla Firefox\browser
+TP-Uninstall.exe 
+MF-Files\Java\jre1.8.0_92\bin\java.exe
+SF-C:\Users\admin\AppData\Local\Temp\Invoice.exe
+MF-\Windows\system32\nethtsrv.exe
+MF-C:\Program files\appdata\local\temp\26012
+MP-Caspol.exe
+MP-TeamViewer_Setup.exe
+MP-Xenos.exe 
+MP-MSBuild.exe
+92
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 CD
+3 2 WR
+0 4 FR
+4 1 WR
+4 2 WR
+3 4 UK
+0 5 WR
+0 6 FR
+6 1 WR
+6 2 WR
+6 5 EX
+0 7 FR
+7 1 RD
+7 2 RD
+7 5 RD
+6 7 IJ
+0 8 EX
+6 8 RD
+7 8 RD
+0 9 IJ
+9 1 RD
+9 2 RD
+9 5 WR
+6 9 IJ
+7 9 IJ
+9 8 EX
+0 10 IJ
+10 1 RD
+10 2 RD
+10 5 WR
+6 10 IJ
+7 10 UK
+11 1 WR
+11 2 RD
+11 5 RD
+6 11 IJ
+11 8 RD
+9 11 IJ
+6 12 RD
+9 12 WR
+11 12 RD
+13 5 UK
+6 14 WR
+9 14 RD
+11 14 RD
+6 15 WR
+9 15 RD
+11 15 WR
+6 16 WR
+9 16 WR
+11 16 WR
+17 8 WR
+9 17 IJ
+11 17 UK
+9 18 WR
+9 19 FR
+19 12 WR
+19 14 WR
+19 15 EX
+19 16 RD
+19 18 RD
+19 20 RD
+19 21 WR
+19 22 WR
+19 23 UK
+24 14 WR
+24 15 RD
+24 16 EX
+24 18 RD
+24 20 RD
+24 21 EX
+24 22 WR
+25 15 WR
+25 16 RD
+25 18 EX
+25 20 RD
+25 21 WR
+25 22 WR
+26 16 WR
+26 18 EX
+26 20 WR
+26 21 EX
+26 22 WR
+24 26 UK
+27 18 RD
+27 20 WR
+27 21 EX
+27 22 WR
+25 27 UK
+

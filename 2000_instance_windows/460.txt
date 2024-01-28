@@ -1,0 +1,59 @@
+16
+MP-makecab.exe
+MF-pdf.zip
+MP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+TP-aspnet_compiler.exe
+SO-https://go.microsoft.com/fwlink/p/?LinkId=2124703
+TP-bb.exe 
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP-timeout.exe
+MF-Viewer\PhotoViewer.dll
+MP*-PING.EXE
+MF-files\java\jre1.8.0_301\bin\javaw.exe
+TF-C:\Windows\System32\slui
+MF-lsass.exe
+MP*-OperaSetup_UNO.exe
+MP*-is-Q2MHB.tmp
+MP-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+40
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 UK
+2 4 ST
+5 1 WR
+2 5 IJ
+5 4 ST
+6 2 RF
+6 5 RF
+7 1 WR
+7 4 ST
+5 7 UK
+2 8 RD
+9 1 WR
+9 4 ST
+6 9 RF
+9 8 WR
+2 10 WR
+9 10 RD
+2 11 EX
+9 11 EX
+2 12 CD
+9 12 RD
+13 4 ST
+13 6 ST
+13 8 RD
+9 13 UK
+14 4 ST
+6 14 RF
+14 8 WR
+14 10 RD
+14 11 RD
+14 12 RD
+6 15 RF
+15 8 WR
+15 10 WR
+15 11 RD
+15 12 WR
+14 15 UK
+

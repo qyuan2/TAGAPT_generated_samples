@@ -1,0 +1,74 @@
+23
+MP*-is-Q2MHB.tmp
+TF-Files\Hantek2xx2\Driver\Win10\Hantek2D42IA64.sys
+MF-C:\Users\admin\AppData\Local\Temp\radmin
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+MP*-KMSpico_setup.exe
+SF-C:\Program Files\1691272481_0
+MF-C:\Windows\SysWOW64\svchost
+MF-C:\Users\admin\AppData\Local\Temp\f8ab93332536f27e4c463bde920795e59a08898ff648f679ca15c624f39b6dc8
+SF-C:\Users\admin\AppData\Local\Temp\alg.exe
+MF-C:\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539.doc
+MP-ns9B66.tmp 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MF-C:\Users\admin\AppData\Local\Temp\RESD196.tmp
+TF-\Users\User\30802.ico.vb
+TP*-msiexec.exe
+MP*-bitsadmin.exe
+MF-C:\Users\admin\AppData\Local\Temp\BFB9.exe
+MF-\Windows\explorer.exe
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+TF-\Windows\system32\pnpui.dll
+TF-C:\Users\admin\AppData\Local\Temp\OriginalMessage.txt
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsCFA0.tmp
+MP-p2602380.exe
+48
+0 1 WR
+0 2 RD
+0 3 ST
+0 4 FR
+4 1 EX
+4 2 WR
+3 4 RF
+0 5 WR
+4 5 WR
+0 6 WR
+4 6 WR
+0 7 EX
+4 7 RD
+0 8 WR
+4 8 RD
+0 9 WR
+4 9 UK
+0 10 FR
+10 1 WR
+10 2 RD
+3 10 RF
+10 5 WR
+10 6 WR
+10 7 RD
+10 8 EX
+10 11 ST
+10 12 WR
+10 13 RD
+14 5 CD
+14 6 RD
+14 7 EX
+14 8 WR
+10 14 IJ
+14 11 ST
+14 12 WR
+14 13 EX
+15 6 RD
+15 7 RD
+15 8 RD
+10 15 UK
+14 16 CD
+14 17 WR
+14 18 ST
+14 19 RD
+14 20 WR
+14 21 WR
+22 13 RD
+14 22 UK
+

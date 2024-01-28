@@ -1,0 +1,84 @@
+24
+MP*-cat
+TP-find
+MP-more
+MF-image.php
+SO-192.168.10.128
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-T1070.006-access.txt
+MF-cron.m
+SO-192.168.159.128
+TP-more
+TP-cat
+SO-192.168.206.0
+MF-lighttp.c
+TP*-tee
+SF-flag3.txt
+MF-chttp.c
+MF-backsup.sh
+MF-0*.txt
+TP*-cat
+MF-v.c
+MF-resolv.c
+MF-atomic.sh
+MP*-paste
+SF-secret.c
+57
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+4 0 RF
+0 5 ST
+0 6 WR
+0 7 WR
+8 0 RF
+0 9 FR
+9 3 RD
+4 9 RF
+9 5 ST
+9 6 WR
+9 7 WR
+8 9 RF
+0 10 UK
+11 9 RF
+9 12 WR
+13 3 EX
+4 13 RF
+5 13 RF
+13 6 RD
+13 7 WR
+8 13 RF
+9 13 IJ
+11 13 RF
+13 12 WR
+9 14 RD
+13 14 WR
+9 15 WR
+13 15 WR
+9 16 WR
+13 16 RD
+9 17 CD
+13 17 WR
+8 18 RF
+9 18 IJ
+11 18 RF
+18 12 RD
+13 18 IJ
+18 14 RD
+18 15 RD
+18 16 WR
+18 17 WR
+9 19 RD
+13 19 WR
+18 19 WR
+13 20 WR
+18 20 UK
+13 21 CD
+22 12 WR
+13 22 IJ
+22 14 RD
+22 15 RD
+22 16 UK
+13 23 WR
+

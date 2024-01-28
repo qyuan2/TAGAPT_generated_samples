@@ -1,0 +1,82 @@
+21
+MP*-tr
+MF-secret.c
+SF-T1574.006.c
+MF-e2.c
+TP-ls
+SF-ron.a
+SO-http://192.168.10.129/image.php?FUZZ=something
+SO-192.168.206.137
+SO-8.8.8.8
+MF-logrotate.c
+TP-bash
+TF-flag4.txt
+MP*-awk
+MF-flag3.txt
+MP-cat
+SO-192.168.10.128
+MP*-more
+TF-T1070.006-modification.txt
+MF-test.txt
+MP*-nl
+TF-victim-shred.txt
+58
+0 1 EX
+0 2 WR
+0 3 RD
+0 4 FR
+4 1 WR
+4 2 EX
+4 3 WR
+0 5 WR
+4 5 WR
+0 6 ST
+6 4 RF
+7 0 RF
+4 7 ST
+0 8 ST
+4 8 ST
+0 9 RD
+4 9 WR
+0 10 FR
+10 1 RD
+10 2 WR
+10 3 RD
+4 10 IJ
+10 5 RD
+10 6 ST
+10 7 ST
+10 8 ST
+10 9 RD
+4 11 RD
+10 11 CD
+12 2 WR
+12 3 RD
+4 12 UK
+10 13 WR
+14 5 EX
+14 6 ST
+7 14 RF
+8 14 RF
+14 9 WR
+10 14 IJ
+14 11 RD
+14 13 WR
+10 15 ST
+15 14 RF
+16 6 ST
+7 16 RF
+8 16 RF
+16 9 EX
+10 16 IJ
+16 11 UK
+10 17 WR
+14 17 WR
+10 18 WR
+14 18 EX
+19 9 WR
+10 19 IJ
+19 13 WR
+14 19 UK
+10 20 RD
+

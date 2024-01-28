@@ -1,0 +1,42 @@
+13
+MP*-gobuster
+SF-art.sh
+MF-d.c
+MF-subprocess.c
+TP-sudo
+MF-cron.a
+MF-inetd.c
+MP*-grep
+TP*-more
+MF-data.zip
+MF-at.a
+TP-tail
+MP*-cat
+26
+0 1 RD
+0 2 RD
+0 3 RD
+0 4 FR
+4 1 UK
+0 5 RD
+0 6 CD
+0 7 FR
+7 2 WR
+7 3 RD
+7 5 EX
+7 6 WR
+0 8 FR
+8 2 CD
+8 3 CD
+8 5 EX
+8 6 RD
+7 8 UK
+0 9 WR
+0 10 CD
+11 2 UK
+12 3 WR
+12 5 EX
+12 6 RD
+12 9 RD
+12 10 UK
+

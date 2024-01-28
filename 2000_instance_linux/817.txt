@@ -1,0 +1,106 @@
+31
+MP*-bash 
+MF-sysctl.c
+MF-d.c
+TP-sed
+SO-atomic@target.example
+MP-cd
+SO-192.168.2.102
+MF-os.exe
+MP*-wget
+MF-apache2.c
+MF-pd.c
+MP-echo 
+MP-bash
+MP-whois
+MF-robots.txt
+MP*-john
+SO-192.168.10.135
+MF-access.txt
+MP-awk
+MP-tac
+TP-find
+MF-user.r
+MF-alertConfigField.php
+MP*-find
+MF-subprocess.c
+MF-ufw.c
+SF-T1574.006.c
+MF-raj.txt
+MP-ufw
+MP-sed
+MP-uname
+72
+0 1 CD
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 WR
+4 0 RF
+4 3 RF
+0 5 FR
+5 1 CD
+5 2 WR
+3 5 UK
+6 0 RF
+0 7 RD
+8 1 RD
+8 2 WR
+8 4 ST
+8 6 ST
+8 7 WR
+8 9 WR
+8 10 WR
+11 2 RD
+4 11 RF
+11 6 ST
+11 7 WR
+8 11 UK
+4 12 RF
+6 12 RF
+12 7 WR
+12 9 WR
+12 10 UK
+13 4 ST
+13 6 ST
+13 7 RD
+13 9 CD
+13 14 CD
+15 6 ST
+15 7 WR
+15 9 RD
+15 14 RD
+16 13 RF
+15 16 ST
+13 17 WR
+15 17 RD
+18 9 WR
+18 14 WR
+16 18 RF
+18 17 WR
+19 9 WR
+13 19 UK
+20 14 EX
+15 20 UK
+18 21 RD
+18 22 WR
+23 14 WR
+23 16 ST
+23 17 RD
+23 21 WR
+23 22 EX
+18 24 EX
+23 24 RD
+18 25 WR
+23 25 CD
+18 26 RD
+23 26 WR
+18 27 WR
+23 27 WR
+18 28 UK
+29 21 RD
+29 22 RD
+23 29 UK
+30 21 WR
+30 22 UK
+

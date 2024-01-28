@@ -1,0 +1,75 @@
+21
+MP-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+SF-C:\Users\admin\Desktop\Paradox RAT\pr2.exe
+MP*-AcroRd32.exe 
+MP-wbadmin.exe
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Skype
+MF-C:\Users\admin\AppData\Local\Temp\5158c830d2dfb8a523c3c24077e67fe792346ffa443126ebf2d09ace68f73000.bmp
+SF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\vbsstartup
+TP-ytfovlym.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+SF-C:\Users\admin\AppData\Local\Temp\system_file
+SO-199.247.25.79
+SF-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\microphone\NonPackaged\C
+MF-C:\Windows\System32\ipconfig.exe
+TP*-ns98F0.tmp 
+TP-vlc.exe
+MP-D911.exe
+TP*-at.exe
+MP*-gpresult.exe
+MF-attached.htm
+SF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\Crash
+51
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 UK
+0 4 WR
+2 4 WR
+0 5 WR
+2 5 RD
+0 6 UK
+2 7 FR
+7 4 RD
+7 5 RD
+2 8 ST
+8 7 RF
+9 2 RF
+7 9 ST
+2 10 CD
+7 10 WR
+2 11 ST
+11 7 RF
+2 12 RD
+7 12 WR
+7 13 RD
+14 4 WR
+14 5 UK
+7 15 IJ
+15 8 ST
+15 9 ST
+15 10 RD
+11 15 RF
+15 12 CD
+15 13 WR
+7 16 UK
+8 17 RF
+9 17 RF
+17 10 WR
+17 11 ST
+17 12 WR
+17 13 WR
+15 17 IJ
+18 8 ST
+18 9 ST
+18 10 WR
+11 18 RF
+18 12 RD
+18 13 WR
+15 18 IJ
+17 18 UK
+15 19 WR
+15 20 UK
+

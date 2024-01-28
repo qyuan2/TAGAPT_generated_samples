@@ -1,0 +1,58 @@
+18
+MP*-bash
+MF-cron.a
+MP*-bash
+SO-8.8.8.8
+MF-1.zip
+MP-cat
+MF-cron.h
+TP*-cat
+SF-T1027-004-test.c
+MF-cron.a
+MF-chttp.c
+TP-grep
+MP*-cat
+SO-192.168.1.1
+MP-ip
+MP-bash
+MP-cat
+MP-ip
+37
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 ST
+3 2 RF
+0 4 WR
+2 4 CD
+0 5 FR
+5 1 EX
+2 5 UK
+0 6 WR
+0 7 IJ
+7 1 WR
+7 3 ST
+7 4 WR
+7 6 UK
+0 8 CD
+0 9 RD
+0 10 WR
+11 1 UK
+3 12 RF
+12 4 RD
+12 8 CD
+12 9 RD
+12 10 EX
+12 13 ST
+14 8 UK
+15 9 EX
+15 10 WR
+12 15 UK
+16 9 RD
+16 10 RD
+16 13 ST
+17 9 WR
+17 10 EX
+13 17 RF
+16 17 UK
+

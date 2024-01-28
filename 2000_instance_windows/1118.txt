@@ -1,0 +1,50 @@
+17
+MP*-icacls.exe
+MF-C:\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928
+MF-\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928.csv.txt
+MP*-ns996E.tmp
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+MF-C:\Users\admin\AppData\Local\Temp\Scan20230717_newshipment
+SF-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\policies\system
+TP*-cmd.exe
+MF-C:\Windows\System32\Notepad.exe
+MP-damianocrnofj6793.exe
+MP-python.exe
+MP*-mimikatz.exe
+TP-Scan20230717_newshipment 202333pdf.exe
+MF-C:\Users\admin\AppData\Local\Temp\468C
+SF-C:\Users\admin\AppData\Local\Temp\Purchase_ORDERS087.scr
+MF-.\ExternalPayloads\RemotePC.exe
+TP-BFB9.exe
+30
+0 1 EX
+0 2 RD
+0 3 FR
+3 1 RD
+3 2 WR
+4 0 RF
+3 4 ST
+0 5 WR
+3 5 RD
+0 6 RD
+3 6 WR
+0 7 FR
+7 1 WR
+7 2 WR
+3 7 UK
+0 8 RD
+0 9 UK
+10 1 CD
+10 2 UK
+11 4 ST
+11 5 WR
+11 6 WR
+11 8 WR
+12 4 ST
+12 5 UK
+11 13 RD
+11 14 RD
+11 15 WR
+16 8 CD
+11 16 UK
+

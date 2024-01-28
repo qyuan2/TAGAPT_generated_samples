@@ -1,0 +1,35 @@
+10
+MP*-z9673002.exe
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+MF-\Browserweb\MDCD8H1.bat
+TP*-msedge.exe
+MP*-ns95FC.tmp
+MP*-RtkBtManServ.exe
+SO-192.168.1.1
+MP-odbcconf.exe
+TF-C:\Users\admin\AppData\Local\Temp\IXP001
+MF-%temp%\Atomic
+22
+1 0 RF
+0 2 RD
+0 3 FR
+1 3 RF
+3 2 RD
+0 4 FR
+1 4 RF
+4 2 WR
+3 4 IJ
+0 5 FR
+5 1 ST
+5 2 UK
+6 0 RF
+6 3 RF
+4 6 ST
+0 7 FR
+1 7 RF
+3 7 UK
+0 8 RD
+4 8 WR
+0 9 WR
+4 9 UK
+

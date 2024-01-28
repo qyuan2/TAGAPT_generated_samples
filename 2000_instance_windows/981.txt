@@ -1,0 +1,37 @@
+11
+MP*-cacls.exe
+MF-C:\Users\admin\AppData\Local\Temp\Spora.exe
+MP*-chrome.exe
+TP*-сsrss.exe 
+MP-AutoPico.exe
+MP-ns9F46.tmp
+MP*-mshta.exe
+MF-C:\Windows\system32\DllHost
+SO-https://clients2.google.com/cr/report
+MF-C:\Users\admin\AppData\Local\Temp\RunDRT
+MP-863e7c22c771e4005197ae28363584f8.exe 
+23
+0 1 EX
+0 2 FR
+2 1 CD
+0 3 IJ
+3 1 RD
+2 3 IJ
+0 4 FR
+4 1 RD
+3 4 UK
+0 5 FR
+5 1 RD
+2 5 UK
+0 6 FR
+6 1 EX
+0 7 RD
+6 7 RD
+0 8 ST
+6 8 ST
+0 9 WR
+6 9 WR
+0 10 FR
+10 1 WR
+6 10 UK
+

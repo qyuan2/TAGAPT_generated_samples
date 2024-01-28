@@ -1,0 +1,86 @@
+22
+MP*-ns9BE4.tmp
+SO-0.0.0.0
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MF-C:\Users\admin\AppData\Local\Temp\server
+MF-C:\Windows\System32\regsvr32
+MF-Qz.zip
+MP-rundll32.exe
+SF-C:\Users\admin\AppData\Local\Temp\WinRAR.exe
+MP-nsBB14.tmp
+SO-192.168.1.1
+MP-driverquery.exe 
+TP*-nsCFA0.tmp
+TP-vbc.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-BOFPB.tmp
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+TP*-msdt.exe
+MF-C:\Users\admin\AppData\Local\Temp\3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e
+MP*-Wub.exe
+MP-MpCmdRun.exe
+MF-PathToAtomicsFolder\T1218.005\src\powershell.ps1
+MF-C:\Users\admin\AppData\Local\Temp\de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+TP-shutdown.exe
+61
+1 0 RF
+2 0 RF
+0 3 RD
+0 4 EX
+0 5 WR
+0 6 FR
+6 1 ST
+6 2 ST
+6 3 WR
+6 4 WR
+6 5 WR
+0 7 EX
+6 7 RD
+0 8 FR
+1 8 RF
+2 8 RF
+8 3 EX
+8 4 WR
+8 5 EX
+6 8 UK
+9 0 RF
+0 10 UK
+11 1 ST
+11 2 ST
+11 3 WR
+11 4 RD
+11 5 RD
+11 7 WR
+9 11 RF
+12 2 ST
+12 3 WR
+12 4 UK
+11 13 WR
+11 14 ST
+15 5 RD
+15 7 WR
+15 9 ST
+11 15 IJ
+15 13 RD
+14 15 RF
+11 16 CD
+15 16 RD
+17 7 EX
+9 17 RF
+11 17 IJ
+17 13 RD
+14 17 RF
+15 17 IJ
+17 16 RD
+18 9 ST
+11 18 IJ
+18 13 UK
+11 19 EX
+15 19 WR
+17 19 RD
+11 20 WR
+15 20 UK
+11 21 IJ
+14 21 RF
+21 16 EX
+17 21 UK
+

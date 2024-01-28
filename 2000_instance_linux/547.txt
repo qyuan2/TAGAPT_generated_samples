@@ -1,0 +1,67 @@
+19
+MP*-cat
+MF-chttp.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-flag4.txt
+TP*-curl
+TP-cat
+MF-CleaingScript.sh
+MF-atomic.log
+MP-awk
+MP-nl
+SF-T1027-004-test.c
+MF-logrotate.c
+MF-flag3.txt
+MF-access.txt
+MF-at.a
+MP*-tac
+SF-cron.m
+MP*-curl
+MF-flag4.txt
+45
+0 1 WR
+2 0 RF
+0 3 WR
+0 4 IJ
+4 1 RD
+4 2 ST
+4 3 EX
+0 5 FR
+5 1 UK
+0 6 RD
+4 6 WR
+0 7 WR
+4 7 WR
+0 8 UK
+9 2 ST
+9 3 RD
+4 9 IJ
+9 6 WR
+9 7 WR
+4 10 RD
+9 10 WR
+4 11 RD
+9 11 WR
+4 12 RD
+9 12 RD
+4 13 RD
+9 13 WR
+9 14 CD
+15 6 WR
+15 7 WR
+15 10 WR
+15 11 RD
+15 12 EX
+15 13 WR
+15 14 CD
+9 16 RD
+15 16 RD
+17 7 EX
+17 10 RD
+17 11 RD
+17 12 WR
+17 13 WR
+17 14 EX
+15 17 UK
+9 18 WR
+

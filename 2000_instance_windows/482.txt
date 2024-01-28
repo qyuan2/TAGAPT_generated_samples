@@ -1,0 +1,35 @@
+10
+MP*-CCleanerBugReport.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+MF-C:\Users\admin\AppData\Local\Google\Chrome\User
+MF-C:\Program Files\1691272481_0\360TS_Setup.exe
+MF-files\appdata\local\temp\19084.bmp
+MP*-vbc.exe
+SF-C:\Program Files\Hantek2xx2\STDFUFiles
+MP*-Bandizip.exe
+MP*-Powershell.exe
+MF-\Users\admin\AppData\Local\Temp\tb.ps1
+22
+0 1 ST
+0 2 RD
+0 3 WR
+0 4 WR
+0 5 FR
+5 1 ST
+5 2 WR
+5 3 WR
+5 4 EX
+0 6 RD
+5 6 WR
+7 1 ST
+7 2 WR
+7 3 WR
+7 4 WR
+5 7 UK
+1 8 RF
+8 2 WR
+8 3 EX
+8 4 WR
+8 6 RD
+8 9 UK
+

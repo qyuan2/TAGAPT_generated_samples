@@ -1,0 +1,47 @@
+12
+MP*-CareUEyes_setup.exe
+SF-C:\Program Files\Hantek2xx2\STTubeDevice30.dll
+MF-fdlauncher.exe
+MF-C:\Windows\System32\schtasks
+SF-C:\Windows\system32\taskmgr.exe
+MP*-wbengine.exe
+MP*-nltest.exe
+SF-C:\Windows\system32\certreq.exe
+MP*-some_malicious_file.bin.exe
+MF-C:\Users\admin\AppData\Local\Temp\Keygen.a
+SF-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+MP-javaw.exe 
+32
+0 1 RD
+0 2 WR
+0 3 WR
+0 4 WR
+0 5 FR
+5 1 RD
+5 2 WR
+5 3 RD
+5 4 WR
+0 6 FR
+6 1 CD
+6 2 WR
+6 3 CD
+6 4 RD
+0 7 WR
+5 7 WR
+6 7 WR
+0 8 FR
+8 1 EX
+8 2 WR
+8 3 WR
+8 4 RD
+5 8 UK
+0 9 CD
+6 9 RD
+0 10 RD
+6 10 WR
+11 1 RD
+11 2 WR
+11 3 WR
+11 4 WR
+6 11 UK
+

@@ -1,0 +1,99 @@
+30
+MP*-tee
+MF-access.txt
+MF-shell.cgi
+SO-192.168.159.128
+TP-cat
+MP-chmod
+TP-awk
+TF-raft-medium-directories.txt
+MF-e2.c
+MF-chttp.c
+MP-paste
+MF-s.c
+MF-image.php
+MF-shell.cgi
+MF-lighttpd.c
+TF-chttp.c
+SO-192.168.10.131
+MP*-uname
+MP-cat
+MF-cron.m
+TP*-cat
+TP*-nl
+MF-te.c
+SF-Users.tar.gz
+SF-settings.php
+MF-syslog.c
+SO-192.168.206.137
+SO-http://192.168.0.134/passwd
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MP-less
+66
+0 1 WR
+0 2 EX
+3 0 RF
+0 4 FR
+4 1 WR
+4 2 UK
+0 5 FR
+5 1 RD
+5 3 ST
+0 6 IJ
+6 1 UK
+0 7 RD
+5 7 WR
+0 8 RD
+5 8 RD
+0 9 WR
+5 9 UK
+3 10 RF
+10 7 WR
+10 8 RD
+10 11 EX
+10 12 RD
+10 13 WR
+10 14 WR
+10 15 WR
+10 16 ST
+17 7 RD
+17 8 CD
+17 11 RD
+17 12 EX
+17 13 RD
+17 14 EX
+17 15 RD
+17 16 ST
+18 8 EX
+10 18 UK
+17 19 WR
+20 11 RD
+20 12 WR
+20 13 RD
+20 14 WR
+20 15 WR
+16 20 RF
+17 20 IJ
+20 19 WR
+21 11 EX
+21 12 WR
+21 13 WR
+21 14 RD
+21 15 WR
+21 16 ST
+17 21 IJ
+21 19 WR
+20 21 IJ
+17 22 WR
+20 22 UK
+17 23 RD
+21 23 RD
+17 24 RD
+21 24 WR
+17 25 RD
+21 25 WR
+26 21 RF
+27 21 RF
+28 21 RF
+21 29 UK
+

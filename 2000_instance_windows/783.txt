@@ -1,0 +1,25 @@
+9
+MP*-ns967A.tmp
+SF-C:\Users\admin\AppData\Local\Temp\TRANSFR
+SF-C:\Users\admin\AppData\Local\Hydro\Hydro
+SF-C:\Program Files (x86)\RerSpacer710\RerSpacer710.exe
+MP*-nsD232.tmp
+MP-WScript.exe
+MP*-863e7c22c771e4005197ae28363584f8.exe 
+SF-C:\Users\admin\AppData\Local\Temp\NP232375OF1V04LRD3C096_EAWB
+MP*-WINWORD.EXE
+13
+0 1 WR
+0 2 WR
+0 3 EX
+0 4 FR
+4 1 RD
+4 2 EX
+4 3 WR
+0 5 UK
+6 1 UK
+4 7 RD
+8 2 WR
+8 3 WR
+4 8 UK
+

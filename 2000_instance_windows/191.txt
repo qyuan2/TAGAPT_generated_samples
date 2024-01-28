@@ -1,0 +1,37 @@
+13
+MP*-nsC7AA.tmp
+TF-C:\Users\admin\AppData\Local\Temp\Host
+SF-C:\Windows\Temp
+MP-cvtres.exe
+MP*-jsc.exe
+MF-.\T1218\src\Win32\T1218-2.dll
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MF-\Users\Public\coinmarketcap\1.bat
+SO-hxxp://avirona.ru/7-ZIP.html
+SF-C:\Users\admin\AppData\Local\Temp\Dieselmotorers
+MF-PDF.htm.htm
+MP*-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+TP*-SecuriteInfo.com
+21
+0 1 RD
+0 2 RD
+0 3 UK
+4 1 EX
+4 2 EX
+4 5 WR
+4 6 ST
+4 7 CD
+4 8 ST
+4 9 RD
+4 10 WR
+4 11 FR
+11 5 WR
+11 6 ST
+11 7 WR
+8 11 RF
+11 9 UK
+4 12 IJ
+12 5 WR
+12 6 ST
+12 7 UK
+

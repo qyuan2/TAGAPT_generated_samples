@@ -1,0 +1,113 @@
+29
+MP*-echo
+MF-2017.pl
+MF-cron.m
+MF-alertConfigField.php
+TF-common.txt
+MF-log.c
+MF-journald.c
+MP-cat
+MP-echo
+MF-Terminal.app program
+TP*-bash 
+MF-T1074.001_discovery.log
+SF-os.sys
+TF-locale.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP-cat
+MP-awk
+SF-T1003.008.txt
+MP-head
+MF-T1003.008.txt
+SO-192.168.10.128
+SO-192.168.37.130
+MP-bash
+MP*-sh
+TP*-paste
+MF-secret.c
+TP-ls
+SF-password-hash.sh
+TP-sudo
+81
+0 1 WR
+0 2 WR
+0 3 WR
+0 4 RD
+0 5 WR
+0 6 WR
+0 7 FR
+7 1 RD
+7 2 WR
+7 3 RD
+7 4 WR
+7 5 RD
+7 6 WR
+0 8 FR
+8 1 RD
+8 2 RD
+8 3 RD
+8 4 WR
+8 5 RD
+8 6 WR
+7 8 UK
+0 9 RD
+0 10 FR
+10 1 WR
+10 2 WR
+10 3 RD
+10 4 WR
+10 5 RD
+10 6 WR
+10 9 WR
+10 11 WR
+10 12 RD
+10 13 WR
+14 10 RF
+15 5 UK
+16 6 CD
+16 9 WR
+10 16 IJ
+16 11 WR
+16 12 WR
+16 13 WR
+16 14 ST
+10 17 RD
+16 17 EX
+18 9 WR
+10 18 IJ
+18 11 UK
+10 19 WR
+16 19 EX
+10 20 ST
+20 16 RF
+21 16 RF
+22 12 RD
+22 13 WR
+14 22 RF
+16 22 UK
+23 13 WR
+14 23 RF
+23 17 WR
+23 19 RD
+23 20 ST
+23 21 ST
+14 24 RF
+24 17 EX
+24 19 RD
+20 24 RF
+21 24 RF
+23 24 IJ
+23 25 WR
+24 25 WR
+26 17 WR
+26 19 EX
+20 26 RF
+21 26 RF
+23 26 IJ
+24 26 UK
+23 27 WR
+28 19 WR
+20 28 RF
+21 28 RF
+23 28 UK
+

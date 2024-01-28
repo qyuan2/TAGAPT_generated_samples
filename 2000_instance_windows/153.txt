@@ -1,0 +1,52 @@
+18
+MP*-Order Confirmation.exe 
+MP*-AcroRd32.exe 
+SF-C:\Users\admin\AppData\Local\Temp\is-A62RJ.tmp
+MF-c:\windows\ntds\ntds
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Skype for Desktop\Crashpad
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+SO-https://www.youtube.com/@Omnidev_
+MP-jsc.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+MF-C:\Users\admin\Desktop\265a5ffd91ee9ffc780e221ab78c655c10afb9fae8c870628155108856bc088e
+SF-C:\Users\admin\AppData\Local\Temp\C3B1.exe
+TF-C:\Windows\system32\wbengine.exe
+SF-C:\Windows\system32\wbengine.exe
+MP*-msbuild.exe
+MF-LaZagne.exe
+TP*-PsExec.exe
+MF-C:\Program files\appdata\local\temp\17634
+MP-csc.exe
+31
+0 1 FR
+0 2 UK
+1 3 EX
+1 4 WR
+1 5 ST
+1 6 ST
+1 7 FR
+7 3 WR
+7 4 WR
+7 5 ST
+7 6 ST
+1 8 ST
+7 8 ST
+1 9 WR
+7 9 RD
+1 10 EX
+7 10 WR
+7 11 WR
+7 12 WR
+13 4 UK
+7 14 WR
+6 15 RF
+7 15 IJ
+15 8 ST
+15 9 WR
+15 10 UK
+7 16 EX
+8 17 RF
+17 9 RD
+17 11 RD
+17 12 UK
+

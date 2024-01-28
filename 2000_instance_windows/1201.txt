@@ -1,0 +1,45 @@
+14
+MP*-rev
+TP*-bash
+MF-access.htm
+MP*-cat
+MP-head
+MP*-lsof
+SO-192.168.206.0
+MP-ls
+MP-uname
+MF-lv.c
+SF-LinEnum.sh
+MP-bash
+MP-ftp
+MF-common.txt
+28
+0 1 IJ
+0 2 RD
+1 2 RD
+0 3 FR
+1 3 IJ
+3 2 RD
+0 4 FR
+1 4 IJ
+4 2 UK
+0 5 FR
+1 5 IJ
+6 0 RF
+6 1 RF
+3 6 ST
+6 5 RF
+0 7 FR
+1 7 UK
+0 8 FR
+3 8 UK
+0 9 EX
+5 9 RD
+0 10 WR
+5 10 WR
+5 11 UK
+6 12 RF
+12 9 WR
+12 10 RD
+12 13 UK
+

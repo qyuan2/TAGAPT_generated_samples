@@ -1,0 +1,48 @@
+13
+MP*-less
+MF-cron.m
+MP*-nmap
+SO-192.168.47.155
+TP*-tee
+MF-lighttpd.c
+TP-sudo
+MF-1.zip
+TP-curl
+MF-password-hash.sh
+MP*-pr
+SF-apache2.c
+TP-cat
+32
+0 1 WR
+0 2 FR
+2 1 WR
+3 0 RF
+2 3 ST
+0 4 FR
+4 1 RD
+2 4 IJ
+4 3 ST
+0 5 RD
+2 5 WR
+4 5 EX
+0 6 FR
+6 1 RD
+2 6 IJ
+3 6 RF
+4 6 IJ
+6 5 WR
+0 7 RD
+2 7 WR
+4 7 EX
+6 7 WR
+0 8 UK
+2 9 EX
+4 9 RD
+6 9 RD
+10 1 WR
+2 10 UK
+4 11 RD
+6 11 WR
+3 12 RF
+4 12 UK
+

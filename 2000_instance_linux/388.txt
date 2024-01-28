@@ -1,0 +1,52 @@
+15
+MP*-php
+MP-echo
+TP-sudo
+MP-paste
+MP-less
+TF-resolv.c
+SF-etc.tar.gz
+MF-http.c
+MP*-cat
+MP*-awk
+MP-cat
+MP*-echo
+MF-te.c
+MP-sudo
+MF-target.example.c
+34
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 UK
+3 5 WR
+3 6 WR
+3 7 WR
+3 8 FR
+8 5 EX
+8 6 WR
+8 7 WR
+3 9 FR
+9 5 WR
+9 6 WR
+9 7 RD
+3 10 FR
+10 5 WR
+10 6 EX
+10 7 RD
+8 10 UK
+3 11 FR
+11 5 WR
+11 6 EX
+11 7 RD
+3 12 RD
+9 12 WR
+11 12 RD
+3 13 FR
+13 5 RD
+13 6 WR
+13 7 EX
+9 13 UK
+11 14 UK
+

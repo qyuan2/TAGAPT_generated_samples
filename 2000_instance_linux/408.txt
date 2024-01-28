@@ -1,0 +1,52 @@
+14
+MP*-ls
+MF-td.c
+MP*-more
+TF-td.c
+MP*-nl
+MF-T1574.006.c
+TF-d.c
+MP-sed
+TP-bash 
+TF-settings.php
+MP*-netstat
+TF-document.cookie
+MP-pr
+MP-bash 
+35
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 WR
+2 3 EX
+0 4 FR
+4 1 WR
+4 3 RD
+0 5 WR
+2 5 WR
+4 5 WR
+0 6 RD
+2 6 EX
+4 6 WR
+0 7 FR
+7 1 WR
+2 7 UK
+0 8 FR
+8 1 UK
+0 9 WR
+4 9 RD
+0 10 FR
+10 3 RD
+10 5 CD
+10 6 RD
+10 9 WR
+4 11 RD
+10 11 RD
+12 3 WR
+12 5 WR
+12 6 WR
+12 9 RD
+10 12 UK
+13 3 EX
+4 13 UK
+

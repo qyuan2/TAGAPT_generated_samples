@@ -1,0 +1,56 @@
+17
+MP*-ns9B66.tmp 
+MF-aug23-1.zip
+MP*-nsBC6C.tmp
+MP*-Proforma Invoice and Bank swift-REG.PI-0086547654.exe
+MF-\Users\admin\AppData\Local\Temp\is-9DRF4.tmp
+TP-vssadmin.exe
+MF-\Users\admin\AppData\Local\Temp\tmpCD64.tmp
+MP-vssadmin.exe
+TF-C:\Users\admin\AppData\Local\Temp\cDWGNAyEZAxqAyiDdJ\WtHgie
+SF-C:\Users\admin\Desktop\Span
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MF-C:\Windows\System32\rundll32.exe
+TF-C:\Windows\SysWow64\regsvr32
+MP*-dpinst.exe 
+MF-\Users\admin\AppData\Roaming\obiokmgf6.exe
+MF-\Users\admin\AppData\Local\Temp\dav.bat
+36
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 WR
+0 5 FR
+5 1 RD
+5 4 RD
+0 6 WR
+5 6 WR
+0 7 FR
+7 1 WR
+7 4 RD
+5 7 IJ
+7 6 EX
+0 8 WR
+5 8 RD
+7 8 WR
+0 9 WR
+5 9 WR
+7 9 WR
+0 10 ST
+10 5 RF
+7 10 ST
+5 11 ST
+11 7 RF
+5 12 CD
+7 12 WR
+5 13 WR
+7 13 RD
+14 4 RD
+5 14 UK
+7 15 EX
+7 16 EX
+

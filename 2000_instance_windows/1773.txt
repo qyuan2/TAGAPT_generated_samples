@@ -1,0 +1,52 @@
+17
+MP*-mshta.exe
+SF-C:\Users\admin\Desktop\93604391
+MP-HxDSetup.tmp
+TP*-renamer-7.5.exe
+TF-C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content
+MP-df1f94243f99b25fea44d17750d24d04.exe 
+SF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta.rar
+SF-C:\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539.doc
+MF-\Users\admin\AppData\Local\Temp\Setup.bin.exe
+SF-C:\Users\admin\AppData\Local\Temp\msetup\operasetup
+MP-dw20.exe
+SF-C:\Users\admin\AppData\Local\Temp\phish_alert_sp2_2
+SO-https://slpbridge.com/storage/images/debug2.ps1
+MP*-jww825a.tmp 
+MF-C:\Program files\29630
+MF-C:\Windows\system32\shell32.dll
+TP*-obiokmgf6.exe
+32
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 FR
+3 1 WR
+2 3 IJ
+0 4 WR
+2 4 WR
+3 4 WR
+0 5 FR
+5 1 WR
+3 5 UK
+0 6 UK
+2 7 WR
+2 8 WR
+2 9 WR
+10 1 UK
+2 11 WR
+2 12 ST
+13 4 EX
+13 7 RD
+13 8 WR
+13 9 WR
+13 11 RD
+12 13 RF
+13 14 WR
+13 15 WR
+16 8 WR
+16 9 RD
+16 11 RD
+16 12 ST
+13 16 UK
+

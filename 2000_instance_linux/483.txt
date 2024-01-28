@@ -1,0 +1,67 @@
+21
+MP*-ls
+TF-pd.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-http.c
+TP-cat
+MF-apache2.c
+MF-T1070.006-reference.txt
+MF-ttpd.c
+TF-user.r
+SF-access.txt
+SO-192.168.2.102
+MP*-ls
+MP*-grep
+MF-te.c
+MF-ufw.c
+TF-art.sh
+MP*-tail
+TF-raft-large-directories.txt
+TF-0*.txt
+MF-test.txt
+MP-uname
+43
+0 1 EX
+2 0 RF
+0 3 RD
+0 4 FR
+4 1 RD
+2 4 RF
+4 3 UK
+0 5 RD
+0 6 RD
+0 7 WR
+0 8 RD
+0 9 WR
+0 10 ST
+11 1 EX
+2 11 RF
+11 5 WR
+11 6 RD
+11 7 RD
+11 8 WR
+11 9 WR
+10 11 RF
+12 2 ST
+12 5 EX
+12 6 WR
+12 7 WR
+12 8 WR
+12 9 EX
+12 10 ST
+11 13 WR
+12 13 EX
+11 14 WR
+12 14 CD
+11 15 RD
+12 15 WR
+16 7 WR
+16 8 WR
+16 9 RD
+16 10 ST
+11 16 UK
+12 17 WR
+12 18 RD
+12 19 WR
+12 20 UK
+

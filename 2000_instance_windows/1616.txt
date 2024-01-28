@@ -1,0 +1,41 @@
+13
+MP*-GLJC215.tmp
+TF-C:\Program Files\Microsoft Office\Office14\WINWORD
+MP-taskmgr.exe
+TP-xordump.exe 
+MP-cronos.exe
+TP-wscript.exe
+MP-Ziraat Bankasi Swift Mesaji.exe 
+MF-C:\Users\User\appdata\local\temp\rpvbh
+SO-hxxp://avirona.ru/7-ZIP.html
+MP*-procdump.exe
+TP*-nanodump.x64.exe
+MP*-863e7c22c771e4005197ae28363584f8.exe 
+MP-IBM_LINUX.exe 
+25
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 IJ
+3 1 WR
+2 3 UK
+0 4 FR
+4 1 UK
+0 5 IJ
+0 6 FR
+5 6 UK
+0 7 WR
+0 8 ST
+0 9 FR
+9 7 CD
+9 8 ST
+0 10 IJ
+10 7 WR
+8 10 RF
+9 10 UK
+11 7 WR
+11 8 ST
+12 7 EX
+12 8 ST
+11 12 UK
+

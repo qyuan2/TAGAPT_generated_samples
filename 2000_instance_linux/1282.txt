@@ -1,0 +1,108 @@
+30
+MP*-head
+MF-linux.txt
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TP*-cat
+MP*-bash
+SO-192.168.10.129
+MF-journald.c
+MP-paste
+MP-sed
+MF-resolv.c
+TF-raft-large-directories.txt
+MF-data.zip
+TP-paste
+TF-target.example.c
+SF-secret.c
+MF-chttp.c
+MF-td.c
+MF-subprocess.c
+SF-passwd.zip
+TP-bash
+MF-2017.pl
+MF-da-ks.cfg
+MF-Users.tar.gz
+MF-0*.txt
+MF-apache2.c
+MF-locale.c
+MP*-awk
+MP-nl
+MP-dd
+MP-ls
+75
+0 1 EX
+2 0 RF
+0 3 FR
+3 1 WR
+3 2 ST
+0 4 FR
+4 1 RD
+4 2 ST
+3 4 IJ
+0 5 ST
+3 5 ST
+4 5 ST
+0 6 RD
+3 6 RD
+4 6 WR
+0 7 FR
+7 1 CD
+7 2 ST
+3 7 IJ
+4 7 UK
+0 8 UK
+3 9 RD
+3 10 WR
+3 11 UK
+12 2 ST
+5 12 RF
+12 6 WR
+12 9 CD
+12 10 WR
+12 13 WR
+12 14 RD
+12 15 RD
+12 16 EX
+12 17 EX
+12 18 RD
+19 9 WR
+19 10 WR
+12 19 IJ
+19 13 EX
+19 14 WR
+19 15 WR
+19 16 WR
+19 17 WR
+19 18 WR
+12 20 WR
+19 20 WR
+12 21 WR
+19 21 RD
+12 22 UK
+19 23 EX
+19 24 WR
+19 25 RD
+26 16 RD
+26 17 WR
+26 18 WR
+19 26 IJ
+26 20 EX
+26 21 RD
+26 23 WR
+26 24 WR
+26 25 WR
+27 17 WR
+27 18 RD
+19 27 IJ
+27 20 WR
+27 21 WR
+27 23 WR
+27 24 RD
+27 25 EX
+26 27 UK
+28 18 WR
+19 28 UK
+29 20 WR
+29 21 RD
+29 23 UK
+

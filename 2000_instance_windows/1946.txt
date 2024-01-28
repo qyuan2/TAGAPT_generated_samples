@@ -1,0 +1,58 @@
+16
+MP-ns996E.tmp
+SF-%USERPROFILE%\T1560.001
+MP*-Windows Defender Protection.exe
+TP-MSBuild.exe
+TP-makecab.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+MF-bitsadmin.exe
+MP*-client32.exe
+MP-Payment invoice#05450865.exe 
+SF-C:\Users\admin\AppData\Local\Temp\EUC0BF.tmp
+MP*-OneDrive.exe 
+MP-AdobeTray.exe
+TP*-ns9C62.tmp
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+MP-AdobeARM.exe
+TP-regsvr32 .exe
+39
+0 1 WR
+2 1 WR
+3 1 EX
+2 3 IJ
+4 1 UK
+3 5 ST
+3 6 RD
+3 7 FR
+7 5 ST
+7 6 RD
+3 8 FR
+5 8 RF
+8 6 WR
+7 8 UK
+3 9 RD
+3 10 IJ
+5 10 RF
+10 6 WR
+10 9 RD
+3 11 FR
+5 11 RF
+11 6 WR
+11 9 WR
+3 12 IJ
+5 12 RF
+12 6 RD
+12 9 CD
+10 12 IJ
+11 12 IJ
+13 10 RF
+13 11 RF
+13 12 RF
+14 5 ST
+14 6 WR
+14 9 RD
+10 14 UK
+15 6 RD
+15 9 EX
+12 15 UK
+

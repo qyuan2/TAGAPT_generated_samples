@@ -1,0 +1,35 @@
+10
+MP*-damianoh68951.exe
+MF-\Windows\System32\wusa.exe
+MF-C:\Users\admin\AppData\Local\Temp\goose_goose_duck_free.exe
+SF-C:\Users\admin\AppData\Local\Temp\B47C
+MP*-ns9BE4.tmp
+MP*-renamer-7.5.exe
+TF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64
+SF-C:\Windows\system32\reg.exe
+MP*-RdrCEF.exe
+MF-C:\Windows\Temp\T1027
+22
+0 1 WR
+0 2 WR
+0 3 EX
+0 4 FR
+4 1 EX
+4 2 WR
+4 3 RD
+0 5 FR
+5 1 WR
+5 2 RD
+5 3 RD
+0 6 WR
+4 6 RD
+5 6 UK
+0 7 WR
+4 7 RD
+0 8 FR
+8 1 WR
+8 2 WR
+8 3 WR
+4 8 UK
+0 9 EX
+

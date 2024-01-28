@@ -1,0 +1,93 @@
+29
+MP-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLED.EXE
+MF-files\appdata\local\temp\5491.bmp.vb
+MF-%temp%\bitsadmin1_flag.ps1
+MF-.\T1218.009\src\T1218.009.cs
+MP-PING.EXE
+MP*-nsBB14.tmp
+MF-C:\Program Files\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+TP-wuauclt.exe
+TP-crackmapexec.exe
+TP*-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MP-nanodump.x64.exe
+TP-Outflank-Dumpert.exe
+SF-c:\*.b
+MF-gc2siv9geletsu4.orgweave.c
+TP-secedit.exe
+SO-https://files-ld.s3.us-east-2.amazonaws.com/7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+MP-explorer.exe
+MF-\Users\admin\Desktop\11203239354\e7cfeb023c3160a7366f209a16a6f6ea5a0bc9a3ddc16c6cba758114dfe6b539.doc
+TP*-ns967A.tmp 
+MF-C:\Windows\Temp\T1027
+MF-c:\Users\admin\AppData\Local\Temp\CSCF350.tmp
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MF-C:\Users\admin\AppData\Local\Temp\RES3BD2
+SF-C:\Users\admin\Desktop\Attachment_94259849
+MP*-saBSI.exe
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
+TF-C:\Users\admin\AppData\Local\Microsoft\Edge\User
+TF-Offer.doc
+61
+0 1 WR
+0 2 RD
+0 3 WR
+0 4 UK
+5 1 WR
+5 2 RD
+5 3 EX
+5 6 EX
+7 1 WR
+7 2 WR
+7 3 EX
+5 7 UK
+8 1 EX
+8 2 WR
+8 3 UK
+9 1 RD
+9 2 WR
+9 6 WR
+10 1 RD
+10 2 RD
+10 6 RD
+9 10 IJ
+11 1 WR
+11 2 WR
+11 6 WR
+9 11 IJ
+10 11 UK
+9 12 EX
+9 13 RD
+14 6 RD
+9 14 IJ
+14 12 RD
+14 13 UK
+15 9 RF
+9 16 ST
+9 17 FR
+17 12 CD
+15 17 RF
+16 17 RF
+9 18 RD
+17 18 WR
+9 19 IJ
+19 12 WR
+19 15 ST
+19 16 ST
+17 19 IJ
+19 18 RD
+17 20 RD
+19 20 UK
+17 21 EX
+17 22 ST
+17 23 EX
+17 24 UK
+25 16 ST
+25 18 EX
+25 21 RD
+22 25 RF
+25 23 RD
+25 26 EX
+25 27 WR
+25 28 UK
+

@@ -1,0 +1,43 @@
+13
+MP*-head
+SO-192.168.206.136
+MF-pd.c
+SF-raj.txt
+MP*-less
+SO-http://192.168.0.134/passwd
+MF-log.c
+TP-uname
+TP-bash
+SF-subprocess.c
+SF-raj.txt
+TP*-awk
+MP*-tac
+27
+1 0 RF
+0 2 WR
+0 3 WR
+0 4 FR
+1 4 RF
+4 2 WR
+4 3 WR
+0 5 ST
+5 4 RF
+0 6 RD
+4 6 WR
+0 7 UK
+1 8 RF
+8 2 EX
+8 3 UK
+4 9 WR
+4 10 UK
+11 1 ST
+11 2 RD
+5 11 RF
+11 6 WR
+11 9 RD
+12 2 RD
+12 5 ST
+12 6 WR
+12 9 WR
+11 12 UK
+

@@ -1,0 +1,39 @@
+15
+MP*-hostname
+MF-os.exe
+MP-chmod
+MP*-id
+SO-192.168.47.155
+SO-192.168.206.137
+SF-inetd.c
+MF-chttp.c
+MF-chttp.c
+MF-da-ks.cfg
+MP*-cat
+TP*-wpscan
+SF-2017.pl
+SO-192.168.37.130
+MF-e.c
+21
+0 1 CD
+0 2 UK
+3 1 WR
+3 4 ST
+5 3 RF
+3 6 WR
+3 7 RD
+3 8 RD
+3 9 WR
+10 1 RD
+3 10 UK
+11 1 EX
+4 11 RF
+5 11 RF
+11 6 WR
+11 7 WR
+11 8 RD
+11 9 WR
+11 12 EX
+13 11 RF
+11 14 UK
+

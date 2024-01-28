@@ -1,0 +1,39 @@
+13
+MP*-ls
+MF-LinEnum.sh
+SF-password-hash.sh
+MP*-less
+SO-192.168.37.130
+MF-cron.a
+MF-subprocess.c
+MF-target.example.c
+SF-T1070.006-reference.txt
+TF-image.php
+MP-find
+MP*-netstat
+MP*-curl
+23
+0 1 WR
+0 2 UK
+3 1 RD
+3 4 ST
+3 5 RD
+3 6 WR
+3 7 CD
+3 8 WR
+3 9 WR
+3 10 UK
+11 4 ST
+11 5 WR
+11 6 WR
+11 7 EX
+11 8 WR
+11 9 WR
+4 12 RF
+12 5 WR
+12 6 WR
+12 7 WR
+12 8 WR
+12 9 RD
+11 12 UK
+

@@ -1,0 +1,110 @@
+32
+MP-grep
+MP*-awk
+SO-192.168.0.134
+SO-192.168.10.128
+TP-ls
+MP-sed
+MP-find
+MP*-paste
+MP-rm
+MF-T1070.006-modification.txt
+SF-raft-large-directories.txt
+MF-f.r
+MF-raw.githubusercontent.c
+SO-192.168.10.131
+TF-apache2.c
+MF-alertConfigField.php
+MP-cat
+MP-arp-scan
+TP*-cat
+MP-df
+MF-T1574.006.c
+SO-192.168.10.128
+MF-at.a
+TF-cron.a
+SF-rockyou.txt
+MF-f.r
+MP*-john
+MF-Discovery.sh
+MF-os.exe
+MF-2017.pl
+MF-test.txt
+MP-ls
+75
+0 1 FR
+2 0 RF
+2 1 RF
+3 0 RF
+1 3 ST
+0 4 UK
+1 5 FR
+5 2 ST
+3 5 RF
+1 6 FR
+6 2 ST
+3 6 RF
+5 6 UK
+1 7 FR
+7 2 ST
+3 7 RF
+1 8 FR
+2 8 RF
+3 8 RF
+1 9 RD
+7 9 WR
+8 9 RD
+1 10 WR
+7 10 RD
+8 10 RD
+7 11 UK
+8 12 RD
+13 8 RF
+8 14 RD
+8 15 WR
+8 16 FR
+16 9 UK
+8 17 FR
+17 10 WR
+17 12 EX
+17 13 ST
+17 14 EX
+17 15 RD
+18 10 RD
+18 12 WR
+13 18 RF
+18 14 WR
+18 15 RD
+17 18 UK
+19 10 RD
+19 12 RD
+13 19 RF
+19 14 WR
+19 15 WR
+19 20 EX
+21 19 RF
+19 22 EX
+19 23 WR
+19 24 EX
+19 25 CD
+19 26 FR
+26 20 WR
+21 26 RF
+26 22 RD
+26 23 RD
+26 24 CD
+26 25 WR
+19 27 RD
+26 27 EX
+19 28 WR
+26 28 RD
+19 29 WR
+26 29 RD
+26 30 CD
+31 21 ST
+31 22 EX
+31 23 WR
+31 24 WR
+31 25 WR
+26 31 UK
+

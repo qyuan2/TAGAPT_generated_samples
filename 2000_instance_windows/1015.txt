@@ -1,0 +1,86 @@
+20
+MP*-WerFault.exe 
+MF-secedit.exe
+TP*-nsBB14.tmp
+MP-Test.exe 
+SF-C:\Users\admin\Desktop\tokertokertoker
+SO-https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MF-C:\Users\admin\AppData\Local\Temp\analyssifilename
+MF-regedit.exe
+MF-fdlauncher.exe
+MP*-VRAPP.exe 
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+MF-C:\Users\admin\AppData\Local\Temp\925e7e99c5\pdates
+MF-\Users\admin\AppData\Local\Temp\FicheroAnalsis1.rar
+SO-1.2.840.113556
+MP*-winhlp32.exe
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\regsvcs.exe
+MF-\Users\admin\AppData\Local\Temp\SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe
+MP-prevhost.exe
+63
+0 1 WR
+0 2 IJ
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 IJ
+0 4 WR
+2 4 RD
+3 4 RD
+5 0 RF
+2 5 ST
+3 5 ST
+0 6 ST
+2 6 ST
+6 3 RF
+0 7 WR
+2 7 RD
+3 7 EX
+0 8 EX
+2 8 RD
+3 8 RD
+0 9 RD
+2 9 RD
+3 9 RD
+0 10 FR
+10 1 EX
+2 10 IJ
+10 4 WR
+10 5 ST
+10 6 ST
+10 7 RD
+10 8 RD
+10 9 CD
+11 2 RF
+11 3 RF
+11 10 RF
+2 12 ST
+3 12 ST
+10 12 ST
+3 13 WR
+10 13 WR
+10 14 WR
+10 15 ST
+16 6 ST
+16 7 RD
+16 8 WR
+16 9 WR
+11 16 RF
+12 16 RF
+16 13 WR
+16 14 WR
+15 16 RF
+10 17 WR
+16 17 RD
+10 18 EX
+16 18 RD
+19 9 WR
+19 11 ST
+12 19 RF
+19 13 WR
+19 14 WR
+15 19 RF
+16 19 UK
+

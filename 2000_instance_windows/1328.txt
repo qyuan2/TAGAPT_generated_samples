@@ -1,0 +1,75 @@
+22
+MP*-cat
+TP*-id
+MF-alertConfigField.php
+SF-httpd.c
+MF-raft-medium-directories.txt
+SO-192.168.159.128
+MP-cat
+MP-cat
+MF-syslog.c
+MP-sed
+MP-grep
+MP*-awk
+TP-cat
+TF-Users.tar.gz
+MF-art.sh
+MF-LinEnum.sh
+MF-rockyou.txt
+MP*-sed
+SF-etc.tar.gz
+MF-art.sh
+SF-ret.c
+SF-AutoSUID.sh
+50
+0 1 IJ
+0 2 EX
+1 2 WR
+0 3 RD
+1 3 WR
+0 4 WR
+1 4 CD
+5 0 RF
+5 1 RF
+0 6 UK
+1 7 FR
+7 2 WR
+7 3 RD
+7 4 WR
+5 7 RF
+1 8 WR
+7 8 RD
+1 9 FR
+9 2 UK
+1 10 IJ
+10 3 RD
+10 4 RD
+5 10 RF
+7 10 UK
+1 11 IJ
+11 3 WR
+11 4 WR
+5 11 RF
+11 8 EX
+12 3 WR
+12 4 WR
+5 12 RF
+12 8 WR
+11 12 IJ
+11 13 RD
+12 13 WR
+11 14 RD
+12 14 WR
+12 15 WR
+12 16 WR
+17 8 RD
+12 17 IJ
+17 13 WR
+17 14 WR
+17 15 RD
+17 16 UK
+12 18 RD
+12 19 WR
+12 20 EX
+12 21 WR
+

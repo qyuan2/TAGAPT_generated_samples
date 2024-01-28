@@ -1,0 +1,38 @@
+12
+MP*-update.exe
+MP-nvvsvc.exe 
+MF-C:\Windows\servicing\TrustedInstaller.exe
+MP-RerSpacer710.exe  
+MP*-regsvr32.exe
+MP-Paranoid Checker.exe 
+MF-EXb3868.24079\tasksche.exe
+TF-Files\appdata\roaming\reflect.rar
+MP*-iexplore.exe
+SF-C:\CrackMapExecWin\crackmapexec.exe
+SF-C:\Windows\system32\taskmgr
+TP*-Proforma Invoice and Bank swift-REG.PI-0086547654.exe
+23
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 UK
+1 4 FR
+4 2 WR
+1 5 FR
+5 2 RD
+4 5 UK
+1 6 RD
+1 7 RD
+1 8 FR
+8 2 WR
+8 6 WR
+8 7 WR
+1 9 WR
+8 9 RD
+1 10 RD
+8 10 RD
+11 2 WR
+11 6 EX
+11 7 RD
+8 11 UK
+

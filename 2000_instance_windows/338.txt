@@ -1,0 +1,86 @@
+22
+MP-WsatConfig.exe
+TP*-EBDE.exe
+MP-SecuriteInfo.com
+SF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus.exe
+MP-EasyValorant.exe 
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\regsvcs.exe
+TP-sc.exe
+TP-AcroRd32.exe 
+SO-https://uploaddeimagens.com.br/images/004/559/510/original/rump_private.jpg?1690504129';$webClient
+SF-C:\Users\admin\AppData\Local\Temp\splwow64.exe
+MF-Users\smss.exe
+MF-C:\Users\admin\AppData\Local\Temp\phish_alert_iocp_v1
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+TF-Userinit.exe
+SF-%temp%\nanodump.dmp
+MP*-SearchIndexer.exe
+MF-C:\Users\admin\AppData\Local\Temp\Setup.b
+MP*-setup.exe 
+MP*-nsBC6C.tmp
+MF-\Windows\Temp\lsass_dump.dmp
+MP-hh.exe 
+TP-Notepad Soft.exe 
+61
+0 1 IJ
+0 2 UK
+1 3 WR
+1 4 FR
+4 3 RD
+1 5 RD
+4 5 UK
+1 6 IJ
+6 3 WR
+1 7 FR
+7 3 EX
+6 7 IJ
+8 1 RF
+6 8 ST
+7 8 ST
+1 9 WR
+6 9 RD
+7 9 WR
+1 10 EX
+6 10 WR
+7 10 UK
+1 11 WR
+6 11 WR
+12 6 RF
+6 13 WR
+6 14 RD
+6 15 FR
+15 8 ST
+15 9 WR
+15 11 RD
+12 15 RF
+15 13 EX
+15 14 CD
+6 16 RD
+15 16 WR
+17 8 ST
+17 9 WR
+17 11 RD
+17 12 ST
+17 13 RD
+17 14 WR
+17 16 RD
+8 18 RF
+18 9 CD
+18 11 WR
+12 18 RF
+18 13 WR
+18 14 WR
+15 18 UK
+17 19 WR
+20 11 WR
+20 12 ST
+20 13 WR
+20 14 EX
+20 16 EX
+17 20 UK
+21 12 ST
+21 13 EX
+21 14 WR
+21 16 WR
+21 19 UK
+

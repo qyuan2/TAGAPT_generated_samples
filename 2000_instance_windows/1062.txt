@@ -1,0 +1,46 @@
+14
+MP*-ns9872.tmp 
+MP*-assoc.exe
+MF--81231.pdf
+MF-\Users\admin\AppData\Local\Temp\phish_alert_sp2_2.0.0.0.eml.msg
+SO-https://drimby.top/wndfi
+MF-files\java\jre1.8.0_301\bin\javaw.exe
+SF-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLED
+TP*-ntdsutil.exe
+MF-.\T1027.004\src\calc.cs
+MP*-AppLaunch.exe
+MP-regsvr32 .exe
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+MF-\Users\admin\AppData\Local\Temp\is-4LLB1.tmp\ExplorerSuite.tmp
+MP-LZ4-SOFT.exe 
+29
+0 1 FR
+0 2 EX
+1 2 EX
+0 3 WR
+1 3 RD
+0 4 ST
+4 1 RF
+0 5 WR
+1 5 UK
+0 6 UK
+7 2 WR
+7 3 RD
+4 7 RF
+7 8 WR
+9 2 RD
+9 3 WR
+4 9 RF
+7 9 IJ
+9 8 WR
+10 2 WR
+10 3 RD
+10 4 ST
+7 10 UK
+9 11 ST
+9 12 WR
+13 3 EX
+13 4 ST
+13 8 RD
+9 13 UK
+

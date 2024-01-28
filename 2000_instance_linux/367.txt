@@ -1,0 +1,32 @@
+11
+MP*-nl
+TP*-hostname
+MF-da-ks.cfg
+TP-head
+MP*-uname
+SF-atomic.log
+MF-atomic.log
+TP*-sed
+MP-chmod
+MF-chttp.c
+MF-os.sys
+18
+0 1 IJ
+0 2 RD
+1 2 WR
+0 3 IJ
+1 3 UK
+0 4 FR
+4 2 EX
+0 5 WR
+4 5 WR
+0 6 CD
+4 6 WR
+0 7 FR
+7 2 RD
+4 7 UK
+0 8 FR
+8 2 UK
+0 9 CD
+0 10 WR
+

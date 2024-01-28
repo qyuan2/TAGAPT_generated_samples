@@ -1,0 +1,109 @@
+29
+MP-PC_Cleaner__5509.exe 
+MP-pr2.exe 
+MF-C:\Users\admin\AppData\Local\Temp\207aa4515d\oneetx
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MF-C:\Program Files\RerSpacer710\RerSpacer710.exe
+MF-\Users\admin\AppData\Local\Temp\SUNATfacturanopagada.zip
+TP-Caspol.exe
+TP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MF-ping.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MP*-nsBB14.tmp
+TF-C:\Program Files\Sinfor\Dkeyauth\dkeyauth
+MP-Test.exe 
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+SO-hxxp://avirona.ru/7-ZIP.html
+MF-C:\Windows\System32\cscript
+MP-wuauclt.exe
+SF-C:\Program Files\Mozilla Firefox\default-browser-agent.exe
+TP-RdrCEF.exe 
+TP-net.exe
+TF-%windir%\system32\inetsrv\appcmd.exe install module 
+TP*-gsecdump.exe
+MP*-ns996E.tmp
+TF-\Users\admin\AppData\Local\Temp\4game_supp.exe
+MP-ngen.exe
+TF-Users\{90140000-00A1-0412-0000-0000000FF1CE}-C\services.exe
+MF-C:\Users\admin\Desktop\DOC77412
+MF-DC\Reader\AcroCEF\RdrCEF.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86
+77
+0 1 FR
+0 2 WR
+1 2 WR
+3 0 RF
+1 3 ST
+0 4 RD
+1 4 EX
+0 5 RD
+1 5 UK
+0 6 UK
+7 2 WR
+3 7 RF
+7 4 WR
+7 8 WR
+7 9 ST
+10 2 WR
+10 3 ST
+10 4 WR
+7 10 IJ
+10 8 EX
+10 9 ST
+7 11 WR
+10 11 WR
+12 2 RD
+12 3 ST
+12 4 RD
+7 12 IJ
+12 8 WR
+12 9 ST
+12 11 CD
+3 13 RF
+13 4 RD
+7 13 IJ
+13 8 WR
+9 13 RF
+13 11 WR
+7 14 ST
+14 10 RF
+14 12 RF
+13 14 ST
+7 15 UK
+16 8 WR
+16 9 ST
+16 11 EX
+16 14 ST
+10 17 UK
+18 8 RD
+9 18 RF
+18 11 RD
+12 18 UK
+9 19 RF
+19 11 EX
+13 19 IJ
+14 19 RF
+16 19 UK
+13 20 WR
+21 11 WR
+13 21 IJ
+21 14 ST
+21 20 RD
+13 22 FR
+22 14 ST
+22 20 WR
+21 22 IJ
+13 23 WR
+21 23 WR
+22 23 WR
+24 14 ST
+24 20 UK
+21 25 EX
+22 25 WR
+21 26 EX
+22 26 EX
+21 27 RD
+22 27 CD
+21 28 RD
+22 28 UK
+

@@ -1,0 +1,140 @@
+38
+MP*-audiodg.exe 
+MF-C:\Users\admin\AppData\Local\Temp\f8ab93332536f27e4c463bde920795e59a08898ff648f679ca15c624f39b6dc8.dll
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MF-C:\Users\admin\AppData\Local\Temp\tmp15B6
+MF-C:\Windows\SysWow64\Register
+TP-ytfovlym.exe
+MP-shutdown.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/4042cb3433bce024e304500dcfe3c5590571573a/LICENSE.txt
+TF-C:\Users\admin\AppData\Local\Hydro\Hydro
+MF-C:\Users\admin\AppData\Local\Temp\analyssifilename.doc
+MP-WtHgie
+TP-DnaohH
+TP-PC_Cleaner__5509.exe 
+TF-C:\Users\admin\AppData\Local\Temp\skmt-bankinter-003-03588993232059560257100458.jar
+MF-C:\Program Files\appdata\roaming\reflect.rar
+MP*-DHL TAX INVOICE 289868063.exe 
+TP-notepad++.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+SF-C:\Users\admin\AppData\Local\Temp\hh
+SF-C:\Users\admin\AppData\Local\Temp\B47C
+MP-DataSvcUtil.exe
+MF-Files\VideoLAN\VLC\vlc.exe
+MP-AutoRun.exe 
+MF-C:\Users\admin\AppData\Local\Temp\RtkBtManServ.exe
+TP-sc.exe
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+MP-vbc.exe
+MP*-is-JBJD7.tmp
+SF-C:\Users\admin\AppData\Local\Temp\upP
+MP-ns9872.tmp 
+SF-C:\Program files\appdata\local\temp\5275.bmp
+MP-GLJC215.tmp
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/mshta.sct').Exec();close
+TP-MicrosoftEdgeUpdate.exe
+MP*-winhlp32.exe
+SF-C:\vLocalServerSetup\VPlugin
+MF-\Users\admin\AppData\Local\Temp\KAT08-23_12_43_40.100.zip
+MP-ma grosse bite.exe 
+99
+0 1 EX
+2 0 RF
+0 3 WR
+0 4 WR
+0 5 IJ
+5 1 RD
+5 2 ST
+5 3 WR
+5 4 RD
+0 6 FR
+6 1 RD
+2 6 RF
+6 3 WR
+6 4 RD
+5 6 IJ
+7 0 RF
+5 7 ST
+7 6 RF
+0 8 UK
+5 9 RD
+6 9 EX
+10 1 EX
+10 2 ST
+10 3 WR
+10 4 WR
+5 10 UK
+11 1 EX
+11 2 ST
+11 3 WR
+11 4 WR
+6 11 UK
+12 2 ST
+12 3 RD
+12 4 EX
+7 12 RF
+12 9 WR
+12 13 WR
+12 14 UK
+7 15 RF
+15 9 EX
+15 13 RD
+7 16 RF
+16 9 RD
+16 13 WR
+15 16 IJ
+15 17 ST
+16 17 ST
+15 18 RD
+16 18 EX
+15 19 RD
+16 19 WR
+20 13 WR
+15 20 UK
+16 21 WR
+22 13 WR
+16 22 IJ
+22 17 ST
+22 18 RD
+22 19 WR
+22 21 CD
+16 23 WR
+22 23 WR
+16 24 FR
+17 24 RF
+24 18 EX
+24 19 RD
+24 21 WR
+22 24 UK
+25 16 RF
+16 26 UK
+27 17 ST
+27 18 RD
+27 19 WR
+27 21 EX
+27 23 WR
+27 25 ST
+27 28 WR
+29 19 WR
+29 21 WR
+29 23 EX
+29 25 ST
+29 28 WR
+27 30 RD
+29 30 WR
+31 21 WR
+31 23 WR
+31 25 ST
+27 31 UK
+29 32 ST
+33 23 UK
+25 34 RF
+34 28 WR
+34 30 RD
+34 32 ST
+34 35 EX
+34 36 WR
+37 30 WR
+32 37 RF
+34 37 UK
+

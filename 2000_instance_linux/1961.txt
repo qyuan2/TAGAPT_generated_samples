@@ -1,0 +1,26 @@
+10
+MP*-awk
+SF-atomic.sh
+SF-access.txt
+MF-cron.h
+MP*-nl
+TP*-cat
+MF-td.c
+SO-192.168.2.102
+MF-secret.c
+TP*-more
+13
+0 1 WR
+0 2 WR
+0 3 RD
+0 4 FR
+4 1 UK
+5 2 WR
+5 3 RD
+5 6 RD
+5 7 ST
+5 8 WR
+9 2 EX
+9 3 WR
+5 9 UK
+

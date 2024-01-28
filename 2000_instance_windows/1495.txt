@@ -1,0 +1,58 @@
+16
+MP*-nltest.exe
+MF-C:\Users\admin\Desktop\73bdfefd546d1a751a77b6de3a36460b6108a06940a1c9dc73c9dfdd78f8f649
+SO-test@poscoplantec.co
+MF-C:\Users\admin\AppData\Local\Temp\qgcrmeck.exe
+SF-C:\Users\admin\AppData\Local\Temp\keygen
+TF-\Windows\system32\rundll32.exe
+MF-\Windows\System32\taskkill.exe
+TP*-nsCA5C.tmp
+SF-C:\Users\admin\AppData\Local\Temp\C3B1.exe
+MP*-Invoice.exe 
+MP*-auditpol.exe
+TF-\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe
+TF-C:\Program Files\Hantek2xx2\STTubeDevice30.dll
+SF-HKCU\Software\Microsoft\Office\16.0\Outlook\WebView\Inbox
+MF-C:\Users\admin\AppData\Local\Temp\73bdfefd546d1a751a77b6de3a36460b6108a06940a1c9dc73c9dfdd78f8f649
+MP-WScript.exe
+39
+0 1 WR
+2 0 RF
+0 3 RD
+0 4 WR
+0 5 RD
+0 6 WR
+0 7 FR
+7 1 RD
+7 2 ST
+7 3 WR
+7 4 EX
+7 5 WR
+7 6 WR
+0 8 CD
+7 8 RD
+0 9 FR
+9 1 WR
+9 2 ST
+9 3 RD
+9 4 WR
+9 5 RD
+9 6 RD
+7 9 UK
+0 10 FR
+10 1 WR
+10 2 ST
+10 3 RD
+10 4 EX
+10 5 WR
+10 6 WR
+10 8 WR
+10 11 WR
+10 12 EX
+10 13 EX
+10 14 WR
+15 5 EX
+15 6 WR
+15 8 WR
+10 15 UK
+

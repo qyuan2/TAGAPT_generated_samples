@@ -1,0 +1,47 @@
+11
+MP*-nsD232.tmp
+MF-C:\Windows\system32\vssvc
+SF-C:\Windows\System32\NOTEPAD
+SF-C:\Users\admin\AppData\Local\Temp\Downloads.zip
+MF-C:\Users\admin\AppData\Local\Temp\winhlp32.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-Q02DK.tmp
+MP*-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+MP*-Purchase_ORDERS087.scr
+TP*-expo.exe
+TF-\Windows\system32\regsvr32.exe
+MP-ns98F0.tmp 
+33
+0 1 EX
+0 2 RD
+0 3 EX
+0 4 RD
+0 5 CD
+0 6 FR
+6 1 EX
+6 2 WR
+6 3 RD
+6 4 RD
+6 5 RD
+0 7 FR
+7 1 WR
+7 2 WR
+7 3 WR
+7 4 EX
+7 5 RD
+6 7 UK
+0 8 FR
+8 1 CD
+8 2 RD
+8 3 EX
+8 4 WR
+8 5 WR
+0 9 EX
+8 9 WR
+0 10 FR
+10 1 WR
+10 2 RD
+10 3 WR
+10 4 RD
+10 5 EX
+8 10 UK
+

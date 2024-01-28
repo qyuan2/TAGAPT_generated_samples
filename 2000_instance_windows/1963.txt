@@ -1,0 +1,33 @@
+11
+MP*-ngen.exe
+MF-C:\Users\admin\AppData\Roaming\damianocrnofj6793.exe
+SO-http://email.getsailebot.net/c/eJxskL-umzAYR5_GjMh_AQ8MudV1LjRpRGghyWYbE1wZSGNIC09fIXVp1e18n85Zfk0aI9nIJjApijihSUw4DLpUtxAaEnEIMUSS60SzKFKYIk11Ekc8sCmGmMCEIEQgZzBMGq1Ya2JKcUJNiwGFdzN5aZ1R4xQOZgpc2k3TwwOyA1gALObBz8rrp1Um_McFWDTGWb9Buf09wEIOQ7hZgELXhXrsQzkDLDCjmMZJsiGiFDGAhVlyaC47e7L55woV9vAp79Reb3f2bc3QF5vz0Cz52Hycf-p1fB1w12lSLdeSPdTCfzSkeF3xr07WaM2-P-JsuE9yL9bmkneHWni15-RWF5Puub9djvbkvL3W7KUGNylSrZmD_u_m7G69QOrjT1NmUdaLWWHGVM2RXnLeFuFSVxfz9jy158q_Dbv-aK0pSCvcrpSa32_L-1d-r0vH38fgmf5vkN8BAAD__0tnlWU
+TF-calc.exe
+MF-files\appdata\local\temp\3893.bmp.vb
+TP-oldplayer.exe 
+MP*-AkrienBeta.exe 
+MP-ntdsutil.exe
+MF-C:\Users\admin\AppData\Roaming\Opera Software\Opera Stable\crash_count
+MP*-iexplore.exe 
+MP*-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+19
+0 1 RD
+2 0 RF
+0 3 EX
+0 4 RD
+0 5 IJ
+5 1 UK
+0 6 FR
+2 6 RF
+6 3 WR
+6 4 WR
+0 7 UK
+6 8 CD
+2 9 RF
+9 3 EX
+9 4 EX
+6 9 UK
+10 2 ST
+10 3 RD
+10 4 UK
+

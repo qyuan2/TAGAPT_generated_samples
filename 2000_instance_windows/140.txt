@@ -1,0 +1,41 @@
+12
+MP*-rundll32.exe
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MP*-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+SF-C:\Users\admin\AppData\Local\Temp\is-3OMT0.tmp
+TP-fltmc.exe
+MP*-RdrCEF.exe
+SF-C:\Users\admin\Desktop\OlympicDestroyer
+MF-%temp%\temp_T1027.zip\T1027.exe
+SF-C:\Program Files\Mozilla Firefox\browser
+TP*-EasyValorant.exe 
+SF-C:\Users\admin\AppData\Local\Temp\tmp6B8.tmp
+MP-New Client.exe
+26
+0 1 ST
+0 2 FR
+2 1 ST
+0 3 WR
+2 3 RD
+0 4 IJ
+1 4 RF
+2 4 UK
+0 5 FR
+5 1 ST
+5 3 RD
+0 6 RD
+5 6 WR
+0 7 RD
+5 7 WR
+0 8 EX
+5 8 WR
+0 9 FR
+1 9 RF
+9 3 RD
+5 9 IJ
+9 6 UK
+0 10 WR
+5 10 EX
+11 3 WR
+5 11 UK
+

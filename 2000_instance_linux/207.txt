@@ -1,0 +1,91 @@
+22
+MP*-nl
+TP*-cat
+MF-raw.githubusercontent.c
+SF-0*.txt
+MF-alertConfigField.php
+MF-subprocess.c
+SO-8.8.8.8
+MF-e.c
+MP-cat
+MP*-find
+TF-T1027-004-test.c
+TP-paste
+MF-syslog.c
+MP-bash
+TF-http.c
+MP*-ip
+MF-T1070.004-test.txt
+SO-123.6.44.67
+SO-http://192.168.10.129/image.php?FUZZ=something
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+TF-LinEnum.sh
+MP-systemd
+66
+0 1 FR
+0 2 EX
+1 2 EX
+0 3 WR
+1 3 WR
+0 4 WR
+1 4 RD
+0 5 RD
+1 5 RD
+6 0 RF
+6 1 RF
+0 7 EX
+1 7 WR
+0 8 FR
+1 8 IJ
+8 2 WR
+8 3 WR
+8 4 RD
+8 5 WR
+8 6 ST
+8 7 WR
+0 9 FR
+1 9 IJ
+9 2 CD
+9 3 WR
+9 4 RD
+9 5 CD
+6 9 RF
+9 7 CD
+8 9 UK
+0 10 UK
+1 11 IJ
+11 2 WR
+11 3 WR
+11 4 WR
+11 5 WR
+6 11 RF
+11 7 EX
+11 12 EX
+13 3 WR
+13 4 WR
+13 5 WR
+6 13 RF
+13 7 CD
+11 13 IJ
+13 12 WR
+11 14 WR
+13 14 UK
+15 5 WR
+6 15 RF
+15 7 WR
+11 15 IJ
+15 12 WR
+11 16 WR
+15 16 RD
+17 11 RF
+15 17 ST
+18 11 RF
+18 15 RF
+11 19 ST
+15 19 ST
+11 20 EX
+15 20 CD
+11 21 IJ
+21 12 CD
+15 21 UK
+

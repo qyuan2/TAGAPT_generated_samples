@@ -1,0 +1,31 @@
+11
+MP-rev
+MF-syslog.c
+MP-uname
+MP*-sudo
+MF-etc.tar.gz
+MP*-sed
+MP*-dd
+MP*-bash 
+MP-dd
+MF-f.r
+MP-cat
+17
+0 1 WR
+0 2 UK
+3 1 WR
+3 4 RD
+5 1 WR
+5 4 WR
+6 1 WR
+6 4 RD
+5 6 UK
+7 1 EX
+7 4 RD
+8 1 EX
+3 8 UK
+7 9 WR
+10 1 WR
+10 4 WR
+7 10 UK
+

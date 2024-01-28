@@ -1,0 +1,114 @@
+31
+MP*-nsCA5C.tmp
+TF-fix.bat
+MP-Dkeyauth.exe 
+TP*-nsA0C0.tmp 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+SF-C:\Users\admin\Desktop\worldmother
+TP-is-3DL5P.tmp
+MP-system_file.exe 
+MP-FISCALIA GENERAL DE LA NACION --.exe 
+TP*-Spora.exe 
+MP-ns98F0.tmp 
+MF-Files\KMSpico\KMSELDI.exe
+SF-C:\Users\admin\nvvsvc.exe
+MF-C:\Program Files\Windows Defender\MpCmdRun
+MP-MsiExec.exe
+SF-C:\Users\All Users\smss
+MF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo.c
+TF-\Users\admin\AppData\Local\Temp\SecuriteInfo.com.PUA.Win32.XchouWallpaper.B.component.8575.4442.exe
+MP-RtkBtManServ.exe
+TP*-сsrss.exe 
+TP-pypykatz.py
+MP-net1.exe
+MP-NOTEPAD.EXE 
+MP-863e7c22c771e4005197ae28363584f8.exe 2620
+MF-C:\windows\system32\notepad.exe
+MF-powerview.ps1
+MP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+MF-Users\{90140000-0017-0411-0000-0000000FF1CE}-C\SearchProtocolHost.exe
+SO-https://clients2.google.com/cr/report
+MP-Kulicib.exe 
+80
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 RD
+2 3 IJ
+4 0 RF
+2 4 ST
+4 3 RF
+0 5 WR
+2 5 RD
+3 5 WR
+0 6 IJ
+6 1 UK
+0 7 FR
+2 7 UK
+0 8 FR
+3 8 IJ
+8 4 ST
+8 5 EX
+0 9 FR
+3 9 IJ
+4 9 RF
+9 5 RD
+8 9 IJ
+0 10 FR
+3 10 IJ
+10 4 ST
+10 5 EX
+8 10 UK
+3 11 CD
+9 11 RD
+3 12 WR
+9 12 CD
+3 13 WR
+9 13 WR
+14 4 ST
+14 5 RD
+9 14 IJ
+14 11 WR
+14 12 WR
+14 13 WR
+9 15 RD
+14 15 WR
+9 16 RD
+14 16 WR
+9 17 UK
+18 11 RD
+18 12 EX
+18 13 RD
+14 18 UK
+19 11 WR
+19 12 WR
+19 13 WR
+19 15 RD
+19 16 EX
+20 11 UK
+21 12 WR
+21 13 WR
+21 15 RD
+21 16 CD
+19 21 IJ
+22 12 CD
+22 13 UK
+23 15 UK
+19 24 RD
+21 24 WR
+19 25 WR
+21 25 UK
+26 16 WR
+19 26 IJ
+26 24 WR
+19 27 ST
+26 27 ST
+19 28 WR
+26 28 RD
+29 19 RF
+29 26 RF
+30 24 WR
+26 30 UK
+

@@ -1,0 +1,45 @@
+15
+MP*-less
+MF-T1070.004-test.txt
+MF-http.c
+MF-io.r
+SF-backsup.sh
+SO-192.168.10.133
+TF-test.txt
+MF-/etc/sudoers file
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+TF-data.zip
+MP-sed
+MP*-bash
+SF-raft-medium-directories.txt
+SF-secret.c
+MP*-lsof
+27
+0 1 RD
+0 2 RD
+0 3 RD
+0 4 EX
+0 5 ST
+0 6 WR
+0 7 RD
+0 8 ST
+0 9 EX
+0 10 UK
+11 1 WR
+11 2 WR
+11 3 WR
+11 4 WR
+5 11 RF
+11 6 WR
+11 7 WR
+8 11 RF
+11 9 RD
+11 12 WR
+11 13 RD
+14 5 ST
+14 6 RD
+14 7 CD
+14 8 ST
+14 9 WR
+11 14 UK
+

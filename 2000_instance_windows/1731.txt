@@ -1,0 +1,65 @@
+17
+MP*-Scan20230717_newshipment 202333pdf.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmp493A
+SF-C:\Users\admin\AppData\Local\Temp\Overdue
+TP*-schtasks.exe
+SF-C:\Users\admin\AppData\Local\Temp\yapars.zip
+MP*-DllHost.exe 
+TP-cleansweep.exe
+MF-\system32\inetsrv\defdoc.dll
+MP-msbuild.exe
+TP*-Poison.scr 
+TP-bitsadmin.exe
+MP-pypykatz.py
+SF-C:\Windows\System32\powercfg
+MF-\Users\admin\AppData\Local\Temp\runn452.bat
+TP-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+MP-is-Q2MHB.tmp
+MF-C:\Program Files\appdata\local\temp\9140
+45
+0 1 RD
+0 2 WR
+0 3 IJ
+3 1 RD
+3 2 WR
+0 4 CD
+3 4 WR
+0 5 FR
+5 1 WR
+5 2 WR
+3 5 IJ
+5 4 WR
+0 6 FR
+6 1 EX
+6 2 EX
+3 6 IJ
+6 4 WR
+5 6 UK
+0 7 EX
+3 7 WR
+0 8 FR
+8 1 RD
+8 2 WR
+3 8 UK
+0 9 IJ
+9 1 EX
+9 2 WR
+9 4 EX
+9 7 WR
+0 10 UK
+11 1 EX
+11 2 WR
+11 4 UK
+9 12 RD
+9 13 WR
+14 7 WR
+9 14 IJ
+14 12 RD
+14 13 WR
+15 7 RD
+9 15 IJ
+15 12 WR
+15 13 WR
+14 15 UK
+9 16 UK
+

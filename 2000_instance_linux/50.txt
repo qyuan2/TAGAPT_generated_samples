@@ -1,0 +1,82 @@
+24
+MP*-cat
+MP-cat
+MF-flag4.txt
+SF-raj.txt
+TF-test.txt
+MF-v.c
+SF-2017.pl
+MF-cron.h
+SF-p.c
+TF-te.c
+MP-less
+MP*-tac
+MP*-nl
+MP-vim
+SO-123.6.44.67
+MF-anaconda-ks.cfg
+MF-2017.pl
+MF-settings.php
+MF-Users.tar.gz
+MP-less
+MP-cat
+MP*-more
+MF-shell.cgi
+MP-less
+55
+0 1 FR
+0 2 RD
+1 2 RD
+0 3 WR
+1 3 WR
+0 4 UK
+1 5 EX
+1 6 WR
+1 7 WR
+1 8 WR
+1 9 RD
+1 10 FR
+10 2 WR
+10 3 RD
+10 5 WR
+10 6 WR
+10 7 WR
+10 8 WR
+10 9 CD
+11 2 WR
+11 3 CD
+11 5 WR
+11 6 WR
+11 7 UK
+12 3 WR
+12 5 WR
+12 6 RD
+12 8 RD
+12 9 RD
+13 5 UK
+14 10 RF
+14 12 RF
+10 15 CD
+12 15 RD
+10 16 EX
+12 16 WR
+10 17 WR
+12 17 WR
+10 18 RD
+12 18 WR
+19 9 WR
+12 19 UK
+10 20 FR
+20 14 ST
+20 15 UK
+21 14 ST
+21 16 WR
+21 17 WR
+21 18 WR
+21 22 WR
+23 14 ST
+23 16 WR
+23 17 WR
+23 18 WR
+21 23 UK
+

@@ -1,0 +1,77 @@
+24
+MP*-ls
+MP-tail
+MF-http.c
+SO-192.168.10.128
+SF-alertConfigField.php
+SF-common.txt
+MP-tee
+MP-ls
+TP*-curl
+MF-cron.m
+SF-sysctl.c
+MF-p.c
+MF-raj.txt
+TP*-wget
+MF-2017.pl
+MF-td.c
+MP*-tail
+SF-echo-art-fish.sh
+MF-e2.c
+MF-atomic.sh
+MF-data.zip
+SF-p.c
+SO-192.168.2.102
+SF-rockyou.txt
+50
+0 1 FR
+0 2 WR
+1 2 CD
+0 3 ST
+3 1 RF
+0 4 WR
+1 4 CD
+0 5 RD
+1 5 WR
+0 6 FR
+1 6 UK
+0 7 UK
+8 2 WR
+3 8 RF
+8 4 WR
+8 5 WR
+8 9 WR
+8 10 RD
+8 11 EX
+8 12 WR
+3 13 RF
+13 4 RD
+13 5 WR
+8 13 IJ
+13 9 EX
+13 10 EX
+13 11 EX
+13 12 WR
+8 14 EX
+13 14 RD
+8 15 WR
+13 15 RD
+8 16 FR
+16 9 WR
+16 10 WR
+16 11 WR
+16 12 RD
+13 16 IJ
+16 14 WR
+16 15 WR
+8 17 WR
+13 17 WR
+16 17 UK
+8 18 RD
+13 18 RD
+13 19 WR
+13 20 RD
+13 21 EX
+22 13 RF
+13 23 RD
+

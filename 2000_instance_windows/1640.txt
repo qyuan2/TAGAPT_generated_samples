@@ -1,0 +1,63 @@
+17
+MP*-ProcessHacker.exe 
+MP-Setup.bin.exe 
+MP-filezilla.exe 
+MP-Notepad Soft.exe 
+MF-C:\Users\admin\Desktop\SERVIPAGrecibo.m
+MF-\art.bat
+SO-https://drimby.top/wndfi
+MP*-AdobeARM.exe
+MP-tasklist.exe
+TP-KMSpico_setup.exe
+MF-SSLplus\ActivexInstaller\SSLplusInstaller.ocx
+SF-C:\Users\admin\AppData\Local\Temp\c2dbd1f560dba5050031499cc921b3b7.zip
+MF-C:\Windows\SysWow64\regsvr32
+SF-C:\Users\admin\AppData\Local\Temp\ORDER_LIST
+MP*-Nikki Project.scr
+MP-DHL TAX INVOICE 289868063.exe 
+MP*-ns9C62.tmp
+43
+0 1 FR
+0 2 FR
+0 3 FR
+1 3 UK
+2 4 RD
+2 5 WR
+2 6 ST
+2 7 FR
+7 4 RD
+7 5 WR
+6 7 RF
+2 8 FR
+8 4 RD
+8 5 RD
+8 6 ST
+2 9 FR
+9 4 WR
+9 5 WR
+9 6 ST
+7 9 IJ
+8 9 UK
+2 10 WR
+7 10 WR
+2 11 RD
+7 11 RD
+7 12 WR
+7 13 RD
+14 4 WR
+14 5 WR
+6 14 RF
+14 10 RD
+14 11 RD
+14 12 RD
+14 13 RD
+15 5 WR
+15 6 ST
+7 15 UK
+6 16 RF
+16 10 EX
+16 11 WR
+16 12 RD
+16 13 WR
+14 16 UK
+

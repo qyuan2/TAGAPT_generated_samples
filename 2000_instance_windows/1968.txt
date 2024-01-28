@@ -1,0 +1,33 @@
+11
+MP*-pnputil.exe
+MP-ns9510.tmp
+MP-is-Q2MHB.tmp
+MF-C:\Users\admin\AppData\Local\Temp\sample
+MF-C:\Program Files\appdata\local\temp\deep
+MF-C:\Users\admin\AppData\Local\Temp\IXP001
+SF-C:\Users\admin\AppData\Local\Temp\tmp4503.tmp
+MP*-ns9872.tmp 
+MP*-spnet_state.exe
+SF-C:\ServerComponenthostNet\y8AbEfIUrNeOped31GfZIB6Fx
+MP*-pnputil.exe
+19
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+0 4 CD
+0 5 RD
+0 6 WR
+0 7 FR
+7 3 WR
+7 4 UK
+0 8 FR
+8 3 WR
+8 5 WR
+8 6 CD
+0 9 UK
+10 3 RD
+10 5 RD
+10 6 WR
+8 10 UK
+

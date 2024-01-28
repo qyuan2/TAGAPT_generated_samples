@@ -1,0 +1,83 @@
+24
+MP*-damianocrnofj6793.exe
+SO-127.0.0.1
+MF-C:\Users\admin\AppData\Local\Temp\tmp8D33
+MP-B70D.exe
+SF-C:\Users\admin\AppData\Local\Temp\Agent
+TP-msedge.exe
+MP*-Windows Defender Protection.exe
+MF-C:\Users\admin\AppData\Local\Temp\fcexploit
+TP*-regsvr32.exe
+TP-ns967A.tmp
+MP*-nsBC6C.tmp
+MF-C:\Users\admin\AppData\Local\Temp\6248
+TP-query.exe
+MP-Reader_sl.exe 
+MP-del.exe
+SF-%temp%\secrets 
+MP-cscript.exe
+TF-C:\Users\admin\AppData\Local\Temp\z1Emir
+MP-iexplore.exe 
+MP-MsiExec.exe
+TP-WerFault.exe
+MF-C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Crashpad
+TP-KMSpico_setup.exe 
+MP-BFB9.exe
+56
+0 1 ST
+0 2 WR
+0 3 FR
+1 3 RF
+3 2 WR
+0 4 CD
+3 4 WR
+5 1 ST
+5 2 WR
+3 5 UK
+6 1 ST
+6 2 WR
+6 4 WR
+6 7 EX
+1 8 RF
+8 2 WR
+8 4 RD
+6 8 IJ
+8 7 RD
+1 9 RF
+9 2 CD
+9 4 WR
+6 9 UK
+1 10 RF
+10 2 RD
+10 4 WR
+10 7 WR
+8 10 IJ
+8 11 RD
+10 11 WR
+12 4 WR
+12 7 EX
+8 12 UK
+13 4 WR
+13 7 RD
+10 13 UK
+14 7 WR
+14 11 RD
+14 15 UK
+16 7 EX
+16 11 WR
+16 17 WR
+18 11 WR
+16 18 UK
+19 11 RD
+19 17 RD
+20 11 RD
+20 17 WR
+19 20 IJ
+19 21 RD
+20 21 EX
+22 17 WR
+19 22 IJ
+20 22 UK
+23 17 EX
+19 23 UK
+

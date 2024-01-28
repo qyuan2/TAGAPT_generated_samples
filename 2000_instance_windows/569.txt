@@ -1,0 +1,50 @@
+14
+MP*-nsA12F.tmp
+MF-windir\registration\04e53197-72be-4dd8-88b1-533fe6eed577.04e53197-72be-4dd8-88b1-533fe6eed577.c
+MF-hello.txt
+MP*-cvtres.exe
+TF-Users\Documents\audiodg.exe
+TP-pktmon.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+TF-C:\Users\admin\AppData\Roaming\obiokmgf6.exe
+SF-C:\Windows\system32\certutil
+SF-C:\Users\admin\AppData\Local\Temp\is-HOVH3.tmp
+MP*-installd.exe
+SF-C:\Program Files\Common Files\Microsoft Shared\VSTA\AppInfoDocument
+MP-wuauclt.exe
+MP*-Nixware.exe
+33
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 UK
+0 4 RD
+0 5 FR
+5 1 WR
+5 4 WR
+0 6 ST
+5 6 ST
+0 7 RD
+5 7 WR
+0 8 WR
+5 8 RD
+5 9 WR
+10 1 RD
+10 4 WR
+5 10 IJ
+6 10 RF
+10 7 RD
+10 8 WR
+10 9 RD
+5 11 WR
+10 11 RD
+12 4 WR
+5 12 UK
+13 4 WR
+13 6 ST
+13 7 RD
+13 8 RD
+13 9 WR
+10 13 UK
+

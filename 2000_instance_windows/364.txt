@@ -1,0 +1,123 @@
+33
+MP*-TeamViewer_Setup.exe
+TF-\Users\admin\AppData\Local\Temp\tmpA6C1.tmp.bat
+MP-vaultcmd.exe
+MP-Dkeyauth.tmp
+MF-C:\Users\admin\AppData\Local\Temp\XClient
+SF-C:\Users\admin\AppData\Local\Temp\factura
+MP*-CareUEyes_setup.exe
+MF-PathToAtomicsFolder\T1059.003\src\t1059.003_cmd.cmd
+MF-\GnuPG\bin\gpg.exe
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MP-javaw.exe
+MP-bitsadmin.exe
+MF-\T1106.exe
+MP-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+MP*-WINWORD.EXE 
+SO-http://45.63.100.72/get.php?fr=3126424&se=3089412&dl=https://meta.ua/uk/news/politics/52320-ukrayina-rozshirila-oboronnu-spivpratsyu-z-danieyu/&rm=https://meta.ua/uk/&kf=false&ts=5875621&dw=2240&dh=1951&t=2053953&s=stable&eec=3242252&po=6485826&ju=8204688&kio=false&rqm=GET')));echo
+MF-\Users\admin\AppData\Local\Temp\farmhand-2023-08-23.js
+TP-ONENOTE.EXE
+MP-schtasks.exe 
+MP*-procdump.exe
+TP-jerkoff.exe 
+MF-\Users\admin\AppData\Roaming\JavaNetworkServices86\dKEseX3QhmleytdFWRInDTBBZv.bat
+MP-control.exe
+MF-C:\Program Files\CCleaner\CCleanerBugReport
+TP-notepad++.exe 
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MF-.\ExternalPayloads\T1095\nmap-7.80\ncat.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1197/T1197.md
+MF-\Users\admin\AppData\Local\Temp\script.js.zip
+MF-\Users\admin\AppData\Local\Temp\Ransomware.RedBoot.zip
+MF-C:\Windows\system32\SearchProtocolHost
+TP-Entry.exe 
+87
+0 1 CD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 RD
+0 5 RD
+0 6 FR
+6 1 EX
+6 4 WR
+6 5 CD
+0 7 WR
+6 7 WR
+0 8 RD
+6 8 WR
+9 0 RF
+9 6 RF
+6 10 ST
+11 1 EX
+11 4 RD
+11 5 WR
+6 11 UK
+12 4 RD
+12 5 RD
+12 7 WR
+12 8 WR
+9 12 RF
+12 10 ST
+12 13 WR
+14 4 CD
+14 5 RD
+14 7 WR
+14 8 RD
+9 14 RF
+14 10 ST
+12 14 UK
+15 5 WR
+15 7 WR
+15 8 WR
+9 15 RF
+15 10 ST
+15 13 WR
+15 16 ST
+15 17 WR
+18 8 WR
+9 18 RF
+10 18 RF
+18 13 WR
+15 18 IJ
+16 18 RF
+18 17 UK
+19 9 ST
+19 10 ST
+19 13 WR
+15 19 UK
+10 20 RF
+20 13 WR
+20 16 ST
+21 13 WR
+21 16 ST
+20 21 IJ
+20 22 WR
+21 22 WR
+23 13 CD
+23 16 ST
+20 23 UK
+21 24 CD
+16 25 RF
+21 25 IJ
+25 22 WR
+25 24 WR
+26 21 RF
+26 25 RF
+21 27 WR
+25 27 CD
+28 21 RF
+28 25 RF
+21 29 WR
+25 29 WR
+21 30 WR
+25 30 WR
+21 31 RD
+25 31 RD
+32 22 WR
+32 24 CD
+25 32 UK
+

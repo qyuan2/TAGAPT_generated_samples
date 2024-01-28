@@ -1,0 +1,97 @@
+28
+MP-sed
+MF-apache2.c
+MP-feroxbuster
+MP-nmap
+MF-image.php
+MP-rev
+MP*-grep
+MF-raft-large-directories.txt
+SO-192.168.47.155
+MP-cat
+MP-cat
+MP-vim
+TP-uname
+TF-cron.a
+MP*-cat
+TP*-lsof
+MF-p.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-python3
+SF-test.txt
+SF-user.r
+MF-CleaingScript.sh
+MF-anaconda-ks.cfg
+SF-e2.c
+SO-192.168.206.0
+MF-logrotate.c
+MF-inetd.c
+SF-os.exe
+66
+0 1 EX
+0 2 FR
+2 1 WR
+0 3 UK
+2 4 WR
+5 1 RD
+2 5 UK
+6 1 WR
+6 4 WR
+6 7 WR
+6 8 ST
+9 1 WR
+9 4 RD
+6 9 UK
+10 1 WR
+10 4 WR
+10 7 WR
+8 10 RF
+11 1 WR
+11 4 WR
+11 7 RD
+8 11 RF
+10 11 UK
+12 4 RD
+12 7 RD
+8 12 RF
+12 13 WR
+14 4 WR
+14 7 WR
+14 8 ST
+12 14 IJ
+14 13 WR
+15 7 WR
+15 8 ST
+12 15 IJ
+15 13 EX
+14 15 IJ
+12 16 RD
+14 16 UK
+17 12 RF
+15 17 ST
+8 18 RF
+12 18 IJ
+18 13 RD
+15 18 IJ
+18 17 ST
+12 19 WR
+15 19 WR
+18 19 WR
+12 20 WR
+15 20 WR
+18 20 WR
+12 21 WR
+15 21 WR
+18 21 CD
+12 22 RD
+15 22 WR
+18 22 WR
+15 23 WR
+18 23 CD
+24 15 RF
+24 18 RF
+15 25 RD
+18 25 RD
+18 26 EX
+18 27 RD
+

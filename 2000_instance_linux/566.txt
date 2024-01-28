@@ -1,0 +1,153 @@
+43
+MP-awk
+MF-atomic.log
+MF-com.apple.loginwindow.plist
+MF-victim-shred.txt
+SF-ufw.log
+MF-AutoSUID.sh
+SF-robots.txt
+TP-sh
+TP*-chmod 
+TF-backsup.sh
+MP-cat
+MF-http.c
+SO-8.8.8.8
+MF-inetd.c
+MP-sed
+MF-Users.tar.gz
+SF-cron.a
+MF-f.r
+SF-alertConfigField.php
+TP-more
+MF-T1574.006.c
+MP*-cat
+TP*-netstat
+MF-rockyou.txt
+SF-Users.tar.gz
+MF-locale.c
+SO-192.168.10.130
+TF-e.c
+MF-journald.c
+MF-0*.txt
+MP-uname
+MF-lighttp.c
+MF-English.rtf
+MP*-pr
+MP-cat
+SF-raw.githubusercontent.c
+MF-access.htm
+MF-atomic.log
+MP-wpscan
+MP-more
+MF-T1003.008.txt
+SO-192.168.37.130
+MP-cat
+107
+0 1 WR
+0 2 RD
+0 3 CD
+0 4 EX
+0 5 RD
+0 6 WR
+0 7 UK
+8 1 WR
+8 2 WR
+8 3 CD
+8 4 WR
+8 5 WR
+8 6 RD
+8 9 WR
+10 1 RD
+10 2 WR
+10 3 WR
+10 4 WR
+10 5 RD
+10 6 RD
+8 10 IJ
+10 9 RD
+8 11 WR
+10 11 RD
+12 8 RF
+10 12 ST
+8 13 WR
+10 13 WR
+14 4 RD
+14 5 WR
+14 6 RD
+8 14 UK
+10 15 CD
+10 16 WR
+10 17 EX
+10 18 WR
+19 9 UK
+10 20 WR
+21 11 WR
+21 12 ST
+21 13 WR
+21 15 CD
+21 16 WR
+21 17 RD
+21 18 WR
+21 20 EX
+12 22 RF
+22 13 WR
+22 15 WR
+22 16 WR
+22 17 RD
+22 18 WR
+22 20 RD
+21 22 IJ
+21 23 RD
+22 23 WR
+21 24 CD
+22 24 RD
+21 25 EX
+22 25 WR
+26 21 RF
+26 22 RF
+21 27 WR
+22 27 EX
+21 28 WR
+22 28 EX
+21 29 WR
+22 29 WR
+30 20 EX
+21 30 UK
+22 31 WR
+22 32 WR
+33 23 EX
+33 24 WR
+33 25 WR
+26 33 RF
+33 27 WR
+33 28 CD
+33 29 RD
+33 31 EX
+33 32 RD
+34 24 WR
+34 25 WR
+26 34 RF
+34 27 WR
+34 28 RD
+34 29 WR
+34 31 WR
+34 32 UK
+33 35 WR
+33 36 WR
+33 37 RD
+38 28 WR
+38 29 WR
+38 31 WR
+33 38 UK
+39 29 RD
+39 31 RD
+39 35 WR
+39 36 EX
+39 37 WR
+39 40 EX
+39 41 ST
+42 35 RD
+42 36 RD
+42 37 WR
+39 42 UK
+

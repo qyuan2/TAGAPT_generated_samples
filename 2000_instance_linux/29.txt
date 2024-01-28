@@ -1,0 +1,84 @@
+23
+MP*-python
+MF-raft-medium-directories.txt
+MP*-nl
+TP-cat
+MP-tee
+MP-tac
+TP-uname
+SF-f.r
+MF-T1027-004-test.c
+TP-mv
+TP-less
+SF-T1574.006.c
+MF-passwd.zip
+SF-sysctl.c
+SF-T1574.006.c
+SO-192.168.206.137:8080
+SF-Users.tar.gz
+MF-p.c
+MP-less
+MP*-tac
+TP*-grep
+MP-pr
+TP-curl
+58
+0 1 RD
+0 2 FR
+2 1 EX
+0 3 FR
+3 1 WR
+2 3 IJ
+0 4 FR
+4 1 UK
+0 5 FR
+3 5 UK
+0 6 IJ
+2 6 IJ
+0 7 RD
+2 7 RD
+6 7 RD
+0 8 WR
+2 8 WR
+6 8 WR
+0 9 FR
+2 9 IJ
+6 9 UK
+0 10 IJ
+2 10 IJ
+10 7 EX
+10 8 WR
+10 11 RD
+10 12 RD
+10 13 WR
+10 14 WR
+10 15 ST
+10 16 WR
+10 17 RD
+10 18 FR
+18 11 WR
+18 12 UK
+10 19 IJ
+19 11 WR
+19 13 RD
+19 14 WR
+15 19 RF
+19 16 WR
+19 17 RD
+20 11 RD
+20 13 WR
+20 14 WR
+15 20 RF
+20 16 EX
+20 17 RD
+19 20 UK
+21 11 WR
+21 13 WR
+21 14 WR
+15 21 RF
+21 16 UK
+22 13 WR
+22 14 EX
+15 22 RF
+22 17 UK
+

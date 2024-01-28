@@ -1,0 +1,141 @@
+40
+MP-perl
+MP-last
+TP-ls
+SO-192.168.2.102
+MF-settings.php
+TP*-more
+SF-lv.c
+MF-0*.txt
+SO-http://192.168.0.134/passwd
+MF-raft-large-directories.txt
+MF-f.r
+MP-dmesg
+TF-secret.c
+MF-loot.txt
+TP-echo 
+SF-raw.githubusercontent.c
+MP*-nl
+MF-shell.cgi
+MP*-whoami
+MP-bash 
+MF-ron.a
+MP-cat
+MP-sed
+TP*-bash
+MF-os.sys
+TP-less
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+TP-cat
+MP-tee
+MP-sed
+MF-ret.c
+MP-awk
+SO-192.168.206.136
+SF-apache2.c
+MF-te.c
+MF-anaconda-ks.cfg
+MP-wfuzz
+MP-cat
+TP-vim
+MP-tee
+98
+0 1 FR
+0 2 FR
+1 2 UK
+3 0 RF
+0 4 RD
+0 5 IJ
+5 3 ST
+5 4 WR
+0 6 RD
+5 6 RD
+0 7 WR
+5 7 WR
+8 0 RF
+8 5 RF
+0 9 WR
+5 9 RD
+5 10 RD
+11 3 ST
+11 4 WR
+5 11 IJ
+11 6 RD
+11 7 UK
+5 12 WR
+5 13 WR
+5 14 FR
+14 6 WR
+14 8 ST
+14 9 WR
+14 10 WR
+14 12 RD
+14 13 EX
+14 15 WR
+16 8 ST
+16 9 EX
+16 10 RD
+16 12 RD
+16 13 RD
+14 16 IJ
+16 15 RD
+14 17 WR
+16 17 WR
+18 9 EX
+18 10 WR
+18 12 RD
+18 13 RD
+14 18 IJ
+18 15 RD
+18 17 RD
+19 10 WR
+19 12 WR
+19 13 RD
+14 19 UK
+16 20 WR
+18 20 WR
+21 12 WR
+21 13 WR
+21 15 WR
+21 17 WR
+18 21 UK
+22 12 UK
+23 15 WR
+23 17 WR
+23 20 RD
+23 24 WR
+25 17 RD
+25 20 WR
+23 25 IJ
+25 24 WR
+23 26 ST
+25 26 ST
+27 20 RD
+23 27 IJ
+27 24 RD
+25 27 UK
+28 20 WR
+23 28 UK
+29 20 WR
+29 24 WR
+29 26 ST
+29 30 UK
+31 24 WR
+31 26 ST
+31 32 ST
+31 33 RD
+31 34 WR
+31 35 RD
+36 26 ST
+31 36 UK
+32 37 RF
+37 33 WR
+37 34 UK
+38 32 ST
+38 33 WR
+38 35 WR
+39 32 ST
+39 33 WR
+39 35 WR
+38 39 UK
+

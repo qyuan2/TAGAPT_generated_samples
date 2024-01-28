@@ -1,0 +1,96 @@
+28
+MP*-cat
+MP-head
+SF-raft-large-directories.txt
+MP-less
+MP*-sed
+MF-CleaingScript.sh
+TF-d.c
+MF-T1003.008.txt
+MP-sudo
+MF-secret.c
+MP-cat
+MP*-sed
+MF-raw.githubusercontent.c
+MP-bash 
+MF-cron.a
+MP-tac
+TP*-dd
+MP-less
+MP-grep
+SO-123.6.44.67
+MF-T1070.006-reference.txt
+MF-anaconda-ks.cfg
+MF-backups.sh
+MF-T1070.004-test.txt
+TF-rockyou.txt
+MP-ip
+MP-whoami
+MP-grep
+65
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 FR
+1 3 UK
+0 4 FR
+4 2 WR
+0 5 WR
+4 5 RD
+0 6 WR
+4 6 RD
+0 7 WR
+4 7 EX
+0 8 FR
+8 2 WR
+4 8 UK
+0 9 CD
+0 10 FR
+10 2 WR
+10 5 RD
+10 6 WR
+10 7 WR
+10 9 UK
+11 2 EX
+11 5 RD
+11 6 WR
+11 7 WR
+11 12 WR
+13 5 WR
+13 6 UK
+11 14 RD
+15 5 RD
+15 7 WR
+11 15 UK
+16 7 RD
+16 12 EX
+16 14 RD
+17 7 CD
+17 12 EX
+17 14 RD
+16 17 IJ
+18 12 WR
+18 14 UK
+19 16 RF
+17 19 ST
+16 20 WR
+17 20 EX
+16 21 WR
+17 21 WR
+16 22 RD
+17 22 UK
+16 23 RD
+16 24 WR
+16 25 UK
+19 26 RF
+26 20 RD
+26 21 WR
+26 23 WR
+26 24 WR
+19 27 RF
+27 20 RD
+27 21 WR
+27 23 WR
+27 24 CD
+26 27 UK
+

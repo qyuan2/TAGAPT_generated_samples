@@ -1,0 +1,49 @@
+16
+MP*-less
+MP-uname
+TF-raft-large-directories.txt
+MP-cat
+SF-chttp.c
+MF-resolv.c
+MF-passwd.zip
+MP*-tac
+SO-192.168.1.1
+MF-AutoSUID.sh
+MP*-bash
+MP-less
+MP*-ls
+MP-dpkg
+MF-resolv.c
+MP-netstat
+30
+0 1 FR
+0 2 WR
+1 2 UK
+0 3 FR
+0 4 RD
+3 4 RD
+0 5 RD
+3 5 UK
+0 6 EX
+0 7 FR
+7 4 WR
+7 6 EX
+0 8 ST
+0 9 WR
+10 4 WR
+10 6 RD
+8 10 RF
+10 9 RD
+11 4 RD
+11 6 UK
+12 4 RD
+12 8 ST
+12 9 WR
+10 12 UK
+13 4 RD
+13 8 ST
+13 9 RD
+13 14 UK
+15 8 ST
+15 9 UK
+

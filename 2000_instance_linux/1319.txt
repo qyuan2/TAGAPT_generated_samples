@@ -1,0 +1,67 @@
+18
+MP*-cat
+MF-1.zip
+TF-user.r
+MP-grep
+MP-head
+TF-httpd.c
+TP*-bash
+MF-robots.txt
+MP-find
+SF-ufw.c
+SF-T1074.001_discovery.log
+MP-grep
+MF-p.c
+MF-inetd.c
+TP*-cat
+TF-sysctl.c
+TP*-bash
+TP-bash
+46
+0 1 RD
+0 2 RD
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 FR
+4 1 RD
+4 2 RD
+3 4 UK
+0 5 EX
+0 6 FR
+6 1 WR
+6 2 WR
+6 5 WR
+0 7 WR
+6 7 WR
+0 8 FR
+8 1 RD
+8 2 WR
+8 5 UK
+6 9 WR
+6 10 WR
+11 2 WR
+6 11 IJ
+11 7 WR
+11 9 WR
+11 10 EX
+6 12 WR
+11 12 EX
+6 13 UK
+14 7 WR
+14 9 WR
+14 10 RD
+11 14 IJ
+14 12 WR
+11 15 WR
+14 15 EX
+16 7 EX
+16 9 RD
+16 10 WR
+11 16 IJ
+16 12 WR
+14 16 UK
+17 9 RD
+17 10 WR
+11 17 UK
+

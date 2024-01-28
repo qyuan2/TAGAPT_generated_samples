@@ -1,0 +1,46 @@
+12
+MP*-whoami
+SO-192.168.10.128
+MP*-perl
+MF-0*.txt
+MF-inetd.c
+MF-secret.c
+MP*-dd
+SF-ttpd.c
+MP*-awk
+SO-192.168.0.134
+MP-dd
+MP-chmod
+31
+1 0 RF
+0 2 FR
+1 2 RF
+0 3 EX
+2 3 RD
+0 4 WR
+2 4 WR
+0 5 CD
+2 5 WR
+0 6 FR
+6 1 ST
+2 6 UK
+0 7 WR
+0 8 FR
+1 8 RF
+8 3 WR
+8 4 WR
+8 5 WR
+8 7 EX
+0 9 ST
+8 9 ST
+0 10 FR
+10 1 ST
+10 3 WR
+10 4 CD
+10 5 WR
+10 7 RD
+8 10 UK
+1 11 RF
+11 3 RD
+11 4 UK
+

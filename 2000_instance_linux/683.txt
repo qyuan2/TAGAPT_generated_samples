@@ -1,0 +1,66 @@
+19
+MP*-cat
+MF-cron.h
+MF-data.zip
+MP*-cat
+SO-192.168.206.136
+MF-CleaingScript.sh
+SO-123.6.44.67
+MP*-head
+MF-resolv.c
+MF-flag3.txt
+MF-raw.githubusercontent.c
+SF-data.zip
+MP*-nl
+MF-td.c
+MF-target.example.c
+SO-192.168.206.137
+TP-go
+SF-journald.c
+SF-2017.pl
+44
+0 1 CD
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 ST
+3 4 ST
+0 5 WR
+3 5 RD
+6 0 RF
+3 6 ST
+0 7 FR
+7 1 RD
+7 2 WR
+7 4 ST
+7 5 WR
+6 7 RF
+0 8 RD
+3 8 WR
+7 8 WR
+0 9 CD
+3 9 EX
+7 9 WR
+0 10 EX
+3 10 WR
+7 10 RD
+3 11 RD
+7 11 WR
+12 2 UK
+3 13 WR
+7 13 WR
+7 14 RD
+15 7 RF
+16 6 ST
+7 16 IJ
+16 8 WR
+16 9 WR
+16 10 WR
+16 11 RD
+16 13 WR
+16 14 RD
+16 15 ST
+7 17 UK
+16 18 UK
+

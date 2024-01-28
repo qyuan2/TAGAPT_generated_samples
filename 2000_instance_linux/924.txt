@@ -1,0 +1,156 @@
+41
+MP*-tail
+MF-robots.txt
+SO-192.168.2.102
+MF-resolv.c
+MF-ret.c
+MP-vim
+MP-ls
+TF-chttp.c
+TP-zip
+SO-http://192.168.10.129/image.php?FUZZ=something
+TP-sftp
+TP*-logname
+SO-192.168.206.0
+MF-target.example.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP*-cewl
+SF-0*.txt
+MP-cat
+MF-target.example.c
+MF-raw.githubusercontent.c
+TF-secret.c
+SF-image.php
+TP-vi
+SF-da-ks.cfg
+MP*-netstat
+MF-T1070.004-test.txt
+MF-AutoSUID.sh
+MF-flag4.txt
+TP-bash
+TF-journald.c
+TP-whatweb
+SF-image.php
+SF-user.r
+MP-sed
+SO-8.8.8.8
+MF-T1027-004-test.c
+MP-tail
+MP-echo
+SF-chttp.c
+TF-target.example.c
+MP-awk
+112
+0 1 WR
+0 2 ST
+0 3 RD
+0 4 RD
+0 5 FR
+5 1 WR
+5 2 ST
+5 3 RD
+5 4 WR
+0 6 FR
+6 1 RD
+2 6 RF
+6 3 EX
+6 4 RD
+5 6 UK
+0 7 WR
+0 8 FR
+8 1 RD
+2 8 RF
+8 3 RD
+8 4 UK
+0 9 ST
+0 10 FR
+10 1 WR
+2 10 RF
+10 3 UK
+11 1 WR
+11 2 ST
+11 7 WR
+11 9 ST
+12 11 RF
+11 13 EX
+11 14 ST
+15 7 WR
+9 15 RF
+11 15 IJ
+15 12 ST
+15 13 WR
+14 15 RF
+11 16 WR
+15 16 WR
+17 7 EX
+9 17 RF
+11 17 UK
+15 18 EX
+15 19 WR
+15 20 EX
+15 21 WR
+12 22 RF
+22 13 UK
+15 23 WR
+14 24 RF
+24 16 RD
+24 18 RD
+24 19 WR
+24 20 CD
+24 21 WR
+24 23 RD
+15 25 WR
+24 25 WR
+24 26 WR
+24 27 WR
+28 18 WR
+28 19 RD
+28 20 WR
+28 21 WR
+28 23 WR
+24 28 IJ
+28 25 RD
+28 26 EX
+28 27 WR
+24 29 RD
+28 29 WR
+30 20 RD
+30 21 WR
+30 23 RD
+24 30 IJ
+30 25 RD
+30 26 RD
+30 27 WR
+28 30 UK
+24 31 RD
+24 32 WR
+33 23 EX
+33 25 WR
+33 26 WR
+33 27 WR
+33 29 WR
+33 31 EX
+33 32 WR
+24 34 ST
+33 34 ST
+33 35 WR
+36 26 RD
+36 27 RD
+36 29 WR
+36 31 RD
+36 32 WR
+36 34 ST
+36 35 WR
+37 27 WR
+37 29 EX
+37 31 CD
+37 32 WR
+37 34 ST
+37 35 WR
+36 37 UK
+33 38 EX
+33 39 WR
+40 31 RD
+40 32 WR
+33 40 UK
+

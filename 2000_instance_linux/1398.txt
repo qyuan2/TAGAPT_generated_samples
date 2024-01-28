@@ -1,0 +1,23 @@
+8
+MP*-dd
+MF-raft-large-directories.txt
+MF-raft-large-directories.txt
+MP*-bash
+MF-ron.a
+MF-ron.a
+TP*-tac
+MP*-sed
+12
+0 1 RD
+0 2 RD
+0 3 FR
+3 1 RD
+3 2 WR
+3 4 WR
+3 5 WR
+6 1 WR
+6 2 WR
+3 6 UK
+7 1 EX
+7 2 UK
+

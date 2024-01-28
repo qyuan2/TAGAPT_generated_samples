@@ -1,0 +1,67 @@
+20
+MP*-nslookup.exe
+MP-DriverFiles_8a39eacf3b01f2a8c3032697a9824211.exe 
+MP*-T1027.exe
+SF-C:\Browserweb\csrss.exe
+TP-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+TP*-Kulicib.exe 
+TP-nsA317.tmp
+MP-v6621467.exe
+TF-\Users\admin\AppData\Local\Temp\48EF.exe
+MP-prism-0.8-win32.exe 
+MF-\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+MF-C:\Windows\system32\SearchFilterHost
+MF-C:\Users\admin\Desktop\Paradox RAT\Updater
+MF-\Users\admin\AppData\Local\Temp\authrootstl.cab
+TF-C:\Users\admin\skmt-bankinter-003-03588993232059560257100458.jar
+TP-Notepad Soft.exe 
+MP*-nsCFA0.tmp
+MF-C:\Program Files (x86)\GnuPG\bin\gpg.exe
+SF-C:\Users\admin\Documents\DS
+TP-Register-CimProvider.exe
+44
+0 1 FR
+0 2 FR
+0 3 WR
+1 3 WR
+2 3 RD
+0 4 FR
+1 4 UK
+0 5 FR
+2 5 IJ
+5 3 WR
+0 6 IJ
+2 6 IJ
+6 3 RD
+5 6 IJ
+0 7 FR
+7 3 CD
+5 7 UK
+0 8 EX
+2 8 WR
+6 8 EX
+0 9 UK
+2 10 WR
+6 10 WR
+2 11 RD
+6 11 EX
+2 12 RD
+6 12 EX
+6 13 WR
+6 14 WR
+6 15 UK
+16 8 WR
+16 10 RD
+16 11 WR
+16 12 EX
+16 13 RD
+16 14 RD
+16 17 EX
+16 18 RD
+19 10 RD
+19 11 WR
+19 12 WR
+19 13 EX
+19 14 WR
+16 19 UK
+

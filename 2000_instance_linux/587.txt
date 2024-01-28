@@ -1,0 +1,92 @@
+23
+MP*-less
+MF-raft-medium-directories.txt
+MP-ls
+TF-access.txt
+MP*-ls
+MF-Users.tar.gz
+MP-tee
+MP-ls
+TP*-bash 
+TP-scp
+MP-head
+MF-password-hash.sh
+MP-tail
+SO-192.168.0.134
+SF-raw.githubusercontent.c
+SF-cron.m
+MF-lv.c
+TP-echo
+SO-192.168.206.0
+MP-dpkg
+MF-target.example.c
+MP*-more
+TP-head
+66
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 EX
+2 3 EX
+0 4 FR
+4 1 WR
+4 3 WR
+0 5 EX
+2 5 RD
+4 5 WR
+0 6 FR
+6 1 RD
+6 3 UK
+0 7 FR
+7 1 RD
+2 7 UK
+0 8 FR
+8 1 RD
+4 8 IJ
+8 5 WR
+0 9 IJ
+9 1 CD
+4 9 IJ
+9 5 WR
+8 9 IJ
+10 1 RD
+4 10 UK
+8 11 RD
+9 11 EX
+12 5 WR
+8 12 IJ
+9 12 UK
+8 13 ST
+8 14 RD
+8 15 WR
+8 16 RD
+8 17 IJ
+17 11 RD
+13 17 RF
+17 14 EX
+17 15 WR
+17 16 EX
+18 17 RF
+19 11 WR
+19 13 ST
+19 14 CD
+19 15 EX
+19 16 WR
+17 19 IJ
+19 18 ST
+17 20 RD
+19 20 CD
+21 11 WR
+13 21 RF
+21 14 EX
+21 15 WR
+21 16 EX
+17 21 IJ
+21 18 ST
+19 21 UK
+22 13 ST
+22 14 RD
+22 15 RD
+22 16 RD
+17 22 UK
+

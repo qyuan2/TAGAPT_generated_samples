@@ -1,0 +1,53 @@
+18
+MP*-dd
+TF-inetd.c
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP-iptables
+MF-lighttp.c
+MF-bash_completion.sh
+MP*-uname
+TF-da-ks.cfg
+MP*-cat
+MP*-grep
+MF-etc.tar.gz
+SO-http://192.168.10.128/shell.cgi
+TF-alertConfigField.php
+SF-logrotate.c
+TF-e.c
+MF-e.c
+MP-tac
+MF-chttp.c
+32
+0 1 RD
+0 2 ST
+0 3 FR
+3 1 RD
+3 2 ST
+0 4 UK
+3 5 WR
+6 1 CD
+6 2 ST
+6 5 EX
+3 7 WR
+6 7 RD
+8 1 EX
+2 8 RF
+8 5 WR
+8 7 RD
+9 1 RD
+9 2 ST
+9 5 EX
+6 9 UK
+3 10 WR
+8 10 RD
+11 3 RF
+8 11 ST
+3 12 RD
+8 12 RD
+3 13 WR
+8 13 RD
+8 14 WR
+8 15 EX
+16 7 UK
+8 17 WR
+

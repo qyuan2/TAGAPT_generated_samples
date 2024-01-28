@@ -1,0 +1,65 @@
+20
+MP*-iexplore.exe
+MP*-some_malicious_file.bin.exe
+SO-https://pasalaganando.com/?utm_source=crm&utm_medium=email&utm_campaign=bancolombia_10_pct_facturacion
+MP*-Invoice.exe 
+TP*-Psiphon.exe
+TF-C:\Users\admin\AppData\Local\Temp\UpdateService.bat
+MP-AdobeARM.exe
+TP-Order specification.exe
+MF-advpack.dll
+TP-NOTEPAD.EXE
+MF-C:\vLocalServerSetup\VPlugin.dll
+SO-hxxp://68.183.9[.]9/get.php
+MF-\Users\Public\coinmarketcap\1.bat
+MP-TruffleSnout.exe
+MF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04.exe
+TF-legosa.exe
+TP-T1027.exe
+SF-C:\Users\Public\coinmarketcap\1
+MP-0IuqaJTsFmOw8k4.exe
+TP-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+42
+0 1 FR
+0 2 ST
+2 1 RF
+0 3 FR
+3 2 ST
+0 4 IJ
+1 4 IJ
+2 4 RF
+3 4 IJ
+0 5 RD
+1 5 WR
+3 5 CD
+4 5 RD
+0 6 FR
+6 2 ST
+3 6 UK
+0 7 IJ
+1 7 UK
+0 8 WR
+4 8 RD
+0 9 UK
+4 10 WR
+4 11 ST
+4 12 RD
+4 13 IJ
+13 5 WR
+13 8 CD
+13 10 WR
+13 11 ST
+13 12 RD
+4 14 RD
+13 14 WR
+13 15 RD
+16 8 EX
+16 10 RD
+11 16 RF
+16 12 UK
+13 17 EX
+18 8 WR
+18 10 UK
+19 11 ST
+13 19 UK
+

@@ -1,0 +1,182 @@
+44
+MP-grep
+MF-target.example.c
+MP-paste
+MF-raj.txt
+SF-www.google.c
+TP-dd
+SF-resolv.c
+TF-robots.txt
+TF-linux.txt
+MP*-sed
+SO-192.168.159.128
+SO-192.168.47.134:4444
+MP-sh
+MF-victim-shred.txt
+MP-curl
+MF-at.a
+MF-Discovery.sh
+TP-ssh
+MP-ls
+TP-awk
+MF-access.htm
+SO-192.168.1.1
+SO-192.168.1.1
+MP-netstat
+TF-art.sh
+TF-inetd.c
+MP-bash
+MP-cat
+TP*-less
+SO-192.168.10.128
+TP*-uname
+TF-image.php
+MF-ron.a
+MF-target.example.c
+MF-password-hash.sh
+MP-nl
+MP-bash
+TP*-head
+MP-cat
+SF-T1070.006-modification.txt
+TP-sed
+TP-ls
+MP-grep
+TP-cat
+135
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 RD
+2 3 RD
+0 4 RD
+2 4 RD
+0 5 UK
+2 6 RD
+2 7 RD
+2 8 UK
+9 1 WR
+9 3 RD
+9 4 WR
+9 6 RD
+9 7 WR
+9 10 ST
+11 9 RF
+12 3 EX
+12 4 WR
+12 6 WR
+12 7 UK
+9 13 RD
+14 4 WR
+14 6 UK
+9 15 WR
+9 16 WR
+9 17 IJ
+17 10 ST
+11 17 RF
+17 13 RD
+17 15 WR
+17 16 EX
+9 18 UK
+19 10 ST
+11 19 RF
+19 13 WR
+19 15 WR
+19 16 WR
+17 19 IJ
+17 20 RD
+19 20 WR
+21 17 RF
+19 21 ST
+22 17 RF
+19 22 ST
+23 13 RD
+23 15 WR
+23 16 UK
+17 24 WR
+19 24 RD
+17 25 RD
+19 25 WR
+17 26 FR
+19 26 IJ
+26 20 WR
+26 21 ST
+26 22 ST
+26 24 RD
+26 25 WR
+17 27 IJ
+19 27 IJ
+27 20 WR
+27 21 ST
+27 22 ST
+27 24 RD
+27 25 WR
+26 27 UK
+19 28 FR
+28 20 WR
+28 21 ST
+28 22 ST
+28 24 WR
+28 25 WR
+29 19 RF
+29 28 RF
+30 20 RD
+30 21 ST
+22 30 RF
+30 24 RD
+30 25 WR
+28 30 IJ
+29 30 RF
+28 31 RD
+30 31 WR
+28 32 WR
+30 32 CD
+28 33 WR
+30 33 EX
+28 34 WR
+30 34 WR
+35 25 RD
+28 35 IJ
+29 35 RF
+30 35 IJ
+35 31 RD
+35 32 WR
+35 33 RD
+35 34 RD
+28 36 IJ
+29 36 RF
+30 36 IJ
+36 31 WR
+36 32 CD
+36 33 EX
+36 34 EX
+35 36 UK
+28 37 IJ
+29 37 RF
+30 37 IJ
+37 31 WR
+37 32 WR
+37 33 WR
+37 34 RD
+28 38 FR
+29 38 RF
+30 38 IJ
+38 31 WR
+38 32 WR
+38 33 EX
+38 34 EX
+37 38 IJ
+30 39 WR
+37 39 WR
+38 39 EX
+30 40 UK
+41 31 WR
+41 32 WR
+41 33 EX
+41 34 WR
+37 41 UK
+42 32 UK
+43 33 RD
+43 34 WR
+38 43 UK
+

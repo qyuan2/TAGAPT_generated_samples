@@ -1,0 +1,142 @@
+40
+MP*-cat
+SF-raj.txt
+SF-on.a
+MF-pwquality.c
+SO-192.168.10.128
+MP-pr
+TP-rev
+MF-victim-shred.txt
+SF-f.r
+TP-find
+SF-cron.a
+MP-awk
+MP-nl
+TP-paste
+TP*-sftp
+SF-alertConfigField.php
+SF-cron.m
+TP-whois
+MP-find
+MF-v.c
+MP*-cat
+MF-echo-art-fish.sh
+MP-teehee
+SO-192.168.2.102
+MF-d.c
+SF-secret.c
+MF-victim-gzip.txt
+SF-os.exe
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-te.c
+SF-data.tar.gz
+TP-cat
+MP*-cat
+SF-secret.c
+MF-flag4.txt
+MP-bash
+MF-echo-art-fish.sh
+MP-cat
+MP-cat
+MP-sed
+99
+0 1 WR
+0 2 CD
+0 3 RD
+0 4 ST
+0 5 FR
+5 1 RD
+5 2 RD
+5 3 RD
+5 4 ST
+0 6 UK
+5 7 WR
+5 8 WR
+9 1 WR
+9 2 RD
+9 3 RD
+9 4 ST
+5 9 IJ
+9 7 EX
+9 8 RD
+5 10 EX
+9 10 RD
+11 1 WR
+11 2 WR
+11 3 WR
+11 4 ST
+5 11 UK
+12 2 UK
+13 3 EX
+4 13 RF
+13 7 WR
+13 8 WR
+9 13 UK
+4 14 RF
+14 7 WR
+14 8 RD
+14 10 WR
+14 15 WR
+14 16 CD
+17 7 RD
+17 8 WR
+17 10 RD
+14 17 UK
+18 8 EX
+18 10 WR
+18 15 WR
+18 16 RD
+18 19 WR
+20 10 RD
+20 15 WR
+20 16 WR
+20 19 WR
+18 21 RD
+20 21 WR
+22 15 WR
+22 16 UK
+23 18 RF
+23 20 RF
+18 24 EX
+20 24 WR
+18 25 WR
+20 25 RD
+18 26 WR
+20 26 WR
+18 27 WR
+20 27 WR
+28 18 RF
+20 28 ST
+20 29 RD
+20 30 WR
+31 21 RD
+31 23 ST
+31 24 WR
+31 25 WR
+31 26 UK
+23 32 RF
+32 24 WR
+32 25 WR
+32 27 CD
+28 32 RF
+32 29 RD
+32 30 WR
+32 33 WR
+32 34 CD
+35 27 WR
+35 28 ST
+35 29 UK
+32 36 WR
+37 28 ST
+37 30 RD
+32 37 UK
+38 30 RD
+38 33 EX
+38 34 WR
+38 36 WR
+39 30 WR
+39 33 RD
+39 34 WR
+39 36 CD
+38 39 UK
+

@@ -1,0 +1,41 @@
+12
+MP*-whoami
+MP*-chmod
+MF-password-hash.sh
+MF-settings.php
+MF-d.c
+MP-cat
+MF-data.zip
+TP*-grep
+MF-ufw.c
+TF-0*.txt
+TF-echo-art-fish.sh
+TP*-cat
+26
+0 1 FR
+0 2 EX
+1 2 RD
+0 3 WR
+1 3 WR
+0 4 EX
+1 4 EX
+0 5 FR
+1 5 UK
+0 6 RD
+0 7 IJ
+7 2 WR
+7 3 WR
+7 4 EX
+7 6 RD
+0 8 RD
+7 8 WR
+0 9 WR
+7 9 WR
+0 10 WR
+7 10 WR
+11 2 RD
+11 3 EX
+11 4 WR
+11 6 EX
+7 11 UK
+

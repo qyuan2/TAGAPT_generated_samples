@@ -1,0 +1,46 @@
+13
+MP*-csc.exe
+TP-mshta.exe
+SF-C:\Users
+MP*-Reg.exe
+SF-C:\Users\admin\AppData\Local\Temp\Keygen.a
+MF-C:\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost
+MP*-ie_to_edge_stub.exe
+SF-C:\Users\admin\AppData\Local\Temp\xx.vb
+MP-schtasks.exe
+MF-\Users\admin\AppData\Local\Temp\Ayuaey.exe
+MF-3893.bmp
+MP*-WinSat.exe
+TP-SearchProtocolHost.exe
+30
+0 1 IJ
+1 2 RD
+1 3 IJ
+3 2 EX
+1 4 WR
+3 4 EX
+1 5 WR
+3 5 WR
+1 6 IJ
+6 2 WR
+6 4 WR
+6 5 WR
+1 7 WR
+3 7 WR
+6 7 WR
+1 8 IJ
+8 2 RD
+3 8 UK
+1 9 WR
+6 9 RD
+1 10 WR
+6 10 RD
+11 2 RD
+11 4 WR
+11 5 WR
+6 11 UK
+12 2 WR
+12 4 RD
+12 5 WR
+12 7 UK
+

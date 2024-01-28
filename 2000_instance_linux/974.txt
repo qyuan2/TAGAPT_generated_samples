@@ -1,0 +1,60 @@
+19
+MP*-uname
+MP-cat
+MP-ls
+MP-dd
+MP-chmod
+MF-ufw.log
+MF-httpd.c
+MF-Users.tar.gz
+TP*-less
+SO-192.168.2.102
+TF-CleaingScript.sh
+SO-192.168.47.155
+MF-journald.c
+MP*-paste
+MP*-vi
+MP-rev
+MF-T1074.001_discovery.log
+MF-T1574.006.c
+MP-grep
+38
+0 1 FR
+0 2 FR
+0 3 FR
+1 3 UK
+0 4 FR
+2 4 UK
+0 5 WR
+0 6 WR
+0 7 WR
+0 8 FR
+8 5 WR
+8 6 WR
+8 7 RD
+9 0 RF
+9 8 RF
+0 10 WR
+8 10 WR
+11 8 RF
+8 12 RD
+13 5 EX
+13 6 WR
+13 7 RD
+8 13 UK
+14 5 WR
+14 6 WR
+14 7 WR
+14 9 ST
+14 10 WR
+14 11 ST
+14 12 RD
+15 5 UK
+14 16 EX
+14 17 EX
+18 9 ST
+18 10 EX
+18 11 ST
+18 12 RD
+14 18 UK
+

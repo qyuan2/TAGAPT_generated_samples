@@ -1,0 +1,77 @@
+26
+MP*-who
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+SO-192.168.206.136
+TP-grep
+SO-192.168.10.131
+SF-alertConfigField.php
+MP-bash
+SO-192.168.10.135
+MP-cat
+TP*-cat
+MF-da-ks.cfg
+MF-p.c
+MF-ret.c
+MP*-cat
+MP-nl
+MF-te.c
+SF-password-hash.sh
+MF-raw.githubusercontent.c
+SF-2017.pl
+MF-raw.githubusercontent.c
+SF-etc.tar.gz
+SF-loot.txt
+MF-ttpd.c
+SF-rockyou.txt
+MF-http.c
+MP*-cat
+48
+0 1 ST
+2 0 RF
+0 3 IJ
+1 3 RF
+3 2 ST
+4 0 RF
+3 4 ST
+0 5 WR
+3 5 RD
+0 6 FR
+1 6 RF
+6 2 ST
+3 6 IJ
+6 4 ST
+6 5 RD
+0 7 ST
+7 3 RF
+7 6 RF
+0 8 UK
+9 1 ST
+9 2 ST
+3 9 UK
+6 10 EX
+6 11 RD
+6 12 RD
+13 4 ST
+13 5 UK
+4 14 RF
+14 7 ST
+14 10 WR
+14 11 CD
+14 12 WR
+6 15 EX
+14 15 CD
+6 16 WR
+14 16 EX
+14 17 RD
+14 18 RD
+14 19 CD
+14 20 EX
+14 21 CD
+14 22 WR
+14 23 WR
+14 24 WR
+25 15 WR
+25 16 WR
+25 17 WR
+25 18 UK
+

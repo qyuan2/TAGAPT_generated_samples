@@ -1,0 +1,144 @@
+38
+MP*-D911.exe
+MP-rundll32.exe 
+MP-del.exe
+MP-Dkeyauth.exe 
+SF-C:\Users\admin\Desktop\softwarelagswitchc
+TP-firefox.exe
+TP-444444.png.png.exe 
+MP-AppLaunch.exe
+MF-Invoke-AppPathBypass.ps1
+MP-obiokmgf6.exe
+MP-jww825a.tmp
+TP-damianocrnofj6793.exe
+TP-mshta.exe
+MP*-setup.exe
+MF-\Users\admin\AppData\Local\Temp\is-3DL5P.tmp\360TS_Setup_Mini_RU_Omgm_CPI202204_6.6.0.1054.exe
+MF-3255.Archive.lzh.txt
+SF-C:\Users\admin\AppData\Local\Temp\tmpA6C1
+MF-%temp%\T1140_calc.txt
+MF-C:\Windows\system32\DllHost.exe
+MP-anydesk.exe
+TP-ns996E.tmp
+MP-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+TP-WtHgie
+MF-C:\Program Files\WinRAR\WinRAR
+TP*-pcalua.exe
+TP*-813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b.exe 
+SF-C:\Users\admin\AppData\Local\Temp\c3c6a5675d32fe330b83debceb63d60e
+TP-Purchase_ORDERS087.scr
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+TP-gpresult.exe
+MP-msedge.exe
+MF-files\appdata\local\temp\26012.bmp
+TP-PowerShell.exe
+MP-WISPTIS.EXE
+MF-C:\Users\admin\AppData\Local\Temp\Client
+MP-B47C.exe
+TP-rundll32.exe 
+MP-pcalua.exe
+103
+0 1 FR
+0 2 FR
+0 3 FR
+2 3 UK
+0 4 RD
+1 4 WR
+0 5 IJ
+1 5 IJ
+5 4 RD
+0 6 IJ
+1 6 UK
+0 7 UK
+5 8 WR
+9 4 RD
+5 9 IJ
+9 8 UK
+10 4 EX
+5 10 UK
+11 4 WR
+12 4 WR
+11 12 UK
+13 4 WR
+13 14 WR
+13 15 RD
+13 16 RD
+13 17 CD
+13 18 WR
+13 19 FR
+19 14 RD
+19 15 WR
+19 16 EX
+19 17 EX
+19 18 WR
+13 20 FR
+20 14 WR
+20 15 WR
+20 16 EX
+20 17 WR
+20 18 RD
+19 20 IJ
+13 21 UK
+22 14 WR
+22 15 RD
+22 16 EX
+22 17 WR
+22 18 RD
+19 22 IJ
+20 22 UK
+19 23 WR
+24 14 RD
+24 15 EX
+24 16 WR
+24 17 WR
+24 18 WR
+19 24 IJ
+24 23 WR
+25 15 WR
+25 16 WR
+25 17 EX
+25 18 WR
+19 25 IJ
+25 23 RD
+24 25 IJ
+19 26 RD
+24 26 RD
+25 26 WR
+27 17 CD
+27 18 WR
+19 27 IJ
+27 23 EX
+24 27 IJ
+25 27 UK
+19 28 ST
+28 24 RF
+19 29 FR
+29 23 WR
+24 29 IJ
+29 26 WR
+28 29 RF
+30 23 EX
+24 30 UK
+29 31 WR
+32 23 RD
+32 26 WR
+28 32 RF
+29 32 UK
+33 23 WR
+33 26 EX
+28 33 RF
+33 31 WR
+33 34 WR
+35 26 WR
+28 35 RF
+35 31 WR
+33 35 UK
+36 26 RD
+28 36 RF
+36 31 WR
+36 34 WR
+37 28 ST
+37 31 CD
+37 34 RD
+36 37 UK
+

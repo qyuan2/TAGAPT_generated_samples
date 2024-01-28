@@ -1,0 +1,105 @@
+32
+MP*-Client.exe 
+MF-vision.fn-pz.c
+MF-C:\Users\admin\AppData\Local\Temp\b
+TP-Updater.exe 
+MF-SecHex-GUI.dll
+MP-dvRzzWRPw.exe
+MP-X_Net_Windows.exe
+MF-C:\Program files\appdata\local\temp\20342
+MF-\Users\admin\AppData\Local\Temp\AB083F1294796B947DE5390EC853243E.dll.vir.exe
+MP*-Tags.exe 
+SO-https://clients2.google.com/cr/report
+MP-xnoobx.cc.exe 
+MF-AnyDesk.exe
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\d6405410.exe
+MP*-nscB9BA.tmp
+MF-C:\Users\admin\AppData\Local\Temp\3ec1f323b5\danke.exe
+MP-radmin scanner.exe 
+TF-c:\Users\admin\AppData\Local\Temp\CSCDF6A.tmp
+MF-.\T1221\src\Calculator.doc
+TP*-d6405410.exe
+SF-C:\Users\admin\Downloads\DATOS
+SF-C:\Users\admin\AppData\Local\Temp\setup_avrokeyboard_5
+SF-C:\Users\admin\AppData\LocalLow\Microsoft\Internet Explorer\DOMStore\reviewref_protected.exe
+MF-C:\Program Files\appdata\local\temp\deep
+MP-ns9D4E.tmp
+MF-C:\Users\admin\AppData\Local\Temp\farmhand-2023-08-23.js
+SF-C:\Users\admin\AppData\Local\Temp\RESF2C4
+MP-javaw.exe 
+MP-DllHost.exe
+MP-MsiExec.exe
+TF-\Users\admin\AppData\Local\Temp\B47C.exe
+TF-\Users\admin\AppData\Local\Temp\ap-file-ernie.jpg-1369564302.zip
+70
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 EX
+3 2 UK
+0 4 RD
+0 5 FR
+5 1 WR
+5 4 CD
+0 6 FR
+6 1 UK
+0 7 WR
+5 7 WR
+0 8 CD
+5 8 WR
+0 9 FR
+9 4 WR
+9 7 WR
+9 8 RD
+0 10 ST
+5 10 ST
+10 9 RF
+11 4 WR
+5 11 UK
+9 12 WR
+9 13 RD
+14 4 RD
+14 7 WR
+14 8 WR
+10 14 RF
+14 12 WR
+14 13 WR
+9 15 RD
+14 15 WR
+16 7 WR
+16 8 RD
+9 16 UK
+14 17 EX
+14 18 RD
+10 19 RF
+19 12 EX
+19 13 WR
+14 19 IJ
+19 15 RD
+19 17 EX
+19 18 EX
+14 20 RD
+19 20 WR
+14 21 EX
+19 21 EX
+14 22 RD
+19 22 RD
+14 23 WR
+19 23 RD
+14 24 FR
+24 15 UK
+19 25 RD
+19 26 WR
+27 17 WR
+27 18 RD
+19 27 UK
+28 18 UK
+29 20 WR
+29 21 EX
+29 22 CD
+29 23 RD
+29 25 RD
+29 26 WR
+29 30 CD
+29 31 UK
+

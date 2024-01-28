@@ -1,0 +1,27 @@
+10
+MP*-who
+SF-Users.tar.gz
+MF-at.a
+MF-pd.c
+SO-192.168.159.128
+MP-cat
+MP*-clang
+TP*-whoami
+MF-raft-large-directories.txt
+MP*-head
+14
+0 1 WR
+0 2 WR
+0 3 WR
+4 0 RF
+0 5 UK
+6 1 WR
+6 2 WR
+6 3 UK
+7 1 WR
+7 2 WR
+4 7 RF
+7 8 EX
+9 1 CD
+9 2 UK
+

@@ -1,0 +1,39 @@
+11
+MP*-dd
+MF-da-ks.cfg
+MP*-bash
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-image.php
+MP-sed
+TP*-echo
+MF-os.exe
+MP*-sed
+MP-who
+MP-dd
+25
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 ST
+3 2 RF
+0 4 WR
+2 4 RD
+0 5 FR
+5 1 RD
+2 5 UK
+0 6 IJ
+6 1 EX
+3 6 RF
+6 4 WR
+0 7 WR
+6 7 UK
+0 8 FR
+8 1 RD
+8 3 ST
+8 4 RD
+0 9 UK
+10 1 RD
+10 3 ST
+10 4 WR
+8 10 UK
+

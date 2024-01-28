@@ -1,0 +1,103 @@
+31
+MP*-pdates.exe 
+TP-WinRAR.exe
+MP*-MsiExec.exe
+TP-microsoft.workflow.compiler.exe
+SF-C:\Users\admin\Desktop\fd4289d63cda962af120a59a1f3a389f
+MF-softwarelagswitchc.exe
+MF-C:\Windows\System32\wbem\WMIC
+MP-ns9FC4.tmp
+MF-Downloader_Rz-OfD1.exe
+MF-\Path\AtomicRedTeam.dll
+MP*-df1f94243f99b25fea44d17750d24d04.exe
+MF-C:\Users\admin\AppData\Local\Temp\ExplorerSuite.exe
+MP-msbuild.exe
+MP-regsvcs.exe
+MP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MP-nsA19D.tmp
+MP-DATOS DE ARCHIVOS No 7879746161364.exe
+MP-msxsl.exe
+MP-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+MP*-InstallUtil.exe
+MP-Test.exe 
+TF-\Windows\system32\certreq.exe
+MF-\Users\admin\AppData\Local\Temp\bltf.exe.INFECTED.dll
+TF-\Windows\AppCompat\Appraiser\Telemetry\SearchFilterHost.exe
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86
+MF-C:\Windows\SYSTEM32\WISPTIS
+MP-bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe 
+MF-class.malware.r
+MP-EXCEL.EXE
+MF-C:\Users\admin\AppData\Local\Temp\bozon
+MP-TruffleSnout.exe
+69
+0 1 IJ
+0 2 FR
+1 2 IJ
+0 3 FR
+1 3 UK
+0 4 WR
+2 4 RD
+0 5 WR
+2 5 RD
+0 6 WR
+2 6 RD
+0 7 FR
+2 7 UK
+0 8 RD
+0 9 RD
+0 10 FR
+10 4 RD
+10 5 EX
+10 6 WR
+10 8 WR
+10 9 WR
+10 11 CD
+12 4 RD
+12 5 RD
+12 6 UK
+13 4 RD
+13 5 RD
+13 8 WR
+13 9 CD
+13 11 WR
+14 5 EX
+14 8 WR
+14 9 WR
+14 11 EX
+15 8 CD
+15 9 EX
+15 11 WR
+13 15 UK
+16 8 RD
+16 9 WR
+10 16 UK
+17 8 WR
+17 9 UK
+18 11 WR
+19 11 RD
+20 11 RD
+18 20 UK
+19 21 WR
+19 22 WR
+19 23 WR
+19 24 RD
+19 25 WR
+19 26 FR
+26 21 RD
+26 22 RD
+26 23 EX
+26 24 WR
+26 25 WR
+19 27 WR
+26 27 RD
+19 28 FR
+28 21 WR
+28 22 RD
+28 23 WR
+28 24 WR
+28 25 WR
+26 28 UK
+19 29 EX
+30 21 UK
+

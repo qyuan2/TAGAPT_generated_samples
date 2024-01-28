@@ -1,0 +1,107 @@
+30
+MP*-cat
+MP-g++
+MP-bash
+MF-chown.c
+MF-T1070.004-test.txt
+TP-sudo
+TP*-who
+SF-flag3.txt
+MP-nmap
+SF-atomic.sh
+MP-sed
+MP-tail
+MP-nl
+MP*-awk
+TP-cat
+MF-d.c
+MP-ls
+TF-s.c
+TF-linux.txt
+SF-syslog.c
+MP-cat
+SF-httpd.c
+MF-subprocess.c
+MF-chttp.c
+MP-bash
+MP*-tee
+MP-paste
+TF-td.c
+MP-grep
+MP-cp
+74
+0 1 FR
+0 2 FR
+0 3 WR
+1 3 RD
+2 3 EX
+0 4 WR
+1 4 EX
+2 4 CD
+0 5 FR
+1 5 IJ
+2 5 UK
+0 6 IJ
+1 6 IJ
+6 3 RD
+6 4 WR
+0 7 WR
+1 7 EX
+6 7 CD
+0 8 UK
+1 9 RD
+6 9 UK
+1 10 FR
+10 3 WR
+10 4 WR
+10 7 WR
+1 11 FR
+11 3 RD
+11 4 EX
+11 7 RD
+10 11 UK
+12 3 WR
+12 4 RD
+12 7 WR
+13 3 WR
+13 4 EX
+13 7 WR
+14 4 WR
+14 7 WR
+12 14 UK
+13 15 WR
+16 7 WR
+16 15 WR
+13 17 WR
+16 17 WR
+13 18 WR
+16 18 UK
+13 19 UK
+20 15 WR
+20 17 WR
+20 21 WR
+20 22 EX
+20 23 CD
+24 15 RD
+24 17 WR
+20 24 UK
+25 15 RD
+25 17 CD
+25 21 WR
+25 22 WR
+25 23 RD
+26 17 WR
+26 21 WR
+26 22 WR
+26 23 WR
+25 27 EX
+26 27 EX
+28 21 WR
+28 22 CD
+28 23 WR
+25 28 UK
+29 21 RD
+29 22 EX
+29 23 WR
+26 29 UK
+

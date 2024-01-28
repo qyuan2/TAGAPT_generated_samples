@@ -1,0 +1,265 @@
+74
+MP-timeout.exe
+SF-C:\Windows\system32\svchost
+MP-vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+MF-C:\Users\admin\AppData\Local\Microsoft\Windows\675C164A48CAABAED03C522F8DB787B373FB4DE2
+SF-C:\Users\admin\AppData\Local\Temp\LZ4
+MF-\Client.pdf
+SF-C:\Users\admin\AppData\Local\Temp\XClient
+MF-\Users\admin\AppData\Local\Temp\tmp190.tmp
+SF-C:\Windows\system32\schtasks.exe
+TF-C:\Users\admin\AppData\Local\Temp\KS
+MF-C:\Users\admin\AppData\Local\Temp\Locker
+TP*-jww825a.tmp 
+MF-c:\Users\admin\AppData\Local\Temp\CSCF236.tmp
+MP-crackmapexec.exe
+SO-http://www.velux.de/kundendienstbedingungen
+MP*-timeout.exe
+SF-C:\Users\admin\AppData\Local\Temp\GLJC215
+SO-https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1
+MF-C:\Users\admin\AppData\Local\Temp\xx
+SF-C:\Path\AtomicRedTeam.dll
+MF-\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023.pdf
+TP-jojo11.exe 
+MP-Outflank-Dumpert.exe
+MP-New Client.exe 
+MF-C:\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d.zip
+TP-ns9C62.tmp
+MF-message.msg
+MF-C:\Users\admin\AppData\Local\Temp\92132ec45279423b79399f74c5dc0a6d1009261c0dfefad17523e53e9ff8ae15.exe
+MF-C:\Users\admin\AppData\Local\Temp\Player666
+MF-Files\JJSploit\JJSploit.exe
+MP-PC_Cleaner__5509.exe 
+MP-vssvc.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+MF-C:\Users\admin\AppData\Local\Temp\RunDRT
+TP-prism-0.8-win32.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MF-\Users\admin\AppData\Local\Temp\042da877d3\yiueea.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+MF-adrestore2.exe
+MP-TBHD AWB 1ZY0W5038626871089.exe
+MP-AdFind.exe 
+MF-C:\Users\admin\AppData\Local\Temp\peplus
+MF-C:\Users\admin\AppData\Local\Temp\winhost.exe
+MP-02867fa8b443043ec0fe6af211c852aa.exe 
+TP-wbengine.exe
+SO-http://pitshopautopartsus.com
+MF-\Users\admin\AppData\Local\Temp\IXP002.TMP\p2602380.exe
+MF-install_flashplayer.exe
+MP-ns921C.tmp
+MP-AdobeTray.exe
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+MP-Xenos.exe 
+MP-updater.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+MP-MsiExec.exe
+SF-C:\Windows\System32\mshta
+SO-http://gc2siv9geletsu4.orgweave.com/bXRpQG10aS5odQ
+TP*-EQNEDT32.EXE
+MP-Scan20230717_newshipment 202333pdf.exe
+MF-\Users\admin\Downloads\beetle-cab\beetle-cab\arc.7z
+MP-filezilla.exe 
+MP-nsCA5C.tmp
+MF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+SF-C:\Users\admin\AppData\Local\Temp\RunDRT-Office2016.bat
+MP*-ns9C62.tmp
+MF-C:\ProgramData\Oracle\Java
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\regsvcs.exe
+SF-C:\ServerComponenthostNet\y8AbEfIUrNeOped31GfZIB6Fx
+MF-\Windows\system32\net.exe
+TP-bozon.exe 
+TP-OriginalBuild.exe.exe 
+TF-C:\Users\admin\AppData\Local\Temp\6dc5a5bb9bc2da02d7e51ed15915affd
+SF-C:\Users\admin\AppData\Local\Temp\601f2b22a16a96c9ddaae24e2c5611f2.exe
+MP-at.exe
+188
+0 1 RD
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 WR
+0 4 RD
+2 4 RD
+0 5 WR
+2 5 UK
+0 6 RD
+0 7 RD
+0 8 RD
+0 9 WR
+0 10 WR
+11 1 WR
+11 3 EX
+11 4 WR
+11 6 RD
+11 7 WR
+11 8 WR
+11 9 WR
+11 10 CD
+11 12 RD
+13 3 RD
+13 4 WR
+13 6 RD
+13 7 WR
+13 8 WR
+13 9 UK
+11 14 ST
+15 6 WR
+15 7 WR
+15 8 WR
+15 10 RD
+11 15 IJ
+15 12 EX
+14 15 RF
+11 16 EX
+15 16 EX
+11 17 ST
+15 17 ST
+11 18 EX
+15 18 UK
+11 19 RD
+11 20 WR
+11 21 FR
+21 12 WR
+21 14 ST
+21 16 RD
+17 21 RF
+21 19 WR
+21 20 WR
+22 12 WR
+14 22 RF
+22 16 WR
+17 22 RF
+22 19 WR
+22 20 WR
+21 22 IJ
+14 23 RF
+23 16 RD
+17 23 RF
+23 19 WR
+23 20 RD
+21 23 IJ
+22 23 UK
+21 24 EX
+25 16 WR
+17 25 RF
+25 19 RD
+25 20 UK
+21 26 WR
+21 27 WR
+21 28 WR
+21 29 RD
+21 30 FR
+30 24 WR
+30 26 UK
+21 31 IJ
+31 24 RD
+31 27 WR
+31 28 WR
+31 29 EX
+31 32 ST
+31 33 WR
+34 24 RD
+34 27 WR
+34 28 RD
+34 29 WR
+31 34 IJ
+32 34 RF
+34 33 RD
+31 35 ST
+35 34 RF
+31 36 WR
+34 36 WR
+31 37 ST
+37 34 RF
+31 38 EX
+34 38 UK
+39 29 WR
+31 39 UK
+40 32 ST
+40 33 RD
+35 40 RF
+40 36 CD
+40 37 ST
+40 41 WR
+40 42 CD
+43 33 WR
+35 43 RF
+43 36 WR
+37 43 RF
+40 43 UK
+44 35 ST
+44 36 WR
+37 44 RF
+44 41 WR
+44 42 WR
+45 44 RF
+44 46 WR
+44 47 RD
+48 41 RD
+48 42 EX
+44 48 UK
+49 41 WR
+49 42 RD
+45 49 RF
+49 46 RD
+49 47 WR
+49 50 ST
+51 41 WR
+51 42 WR
+51 45 ST
+51 46 RD
+51 47 UK
+52 42 WR
+52 45 ST
+52 46 RD
+50 52 RF
+49 53 ST
+53 52 RF
+45 54 RF
+54 46 WR
+49 54 UK
+52 55 WR
+56 52 RF
+50 57 RF
+52 57 IJ
+53 57 RF
+57 55 WR
+57 56 ST
+58 50 ST
+52 58 UK
+57 59 WR
+60 50 ST
+53 60 RF
+60 55 RD
+60 56 ST
+57 60 IJ
+60 59 WR
+61 53 ST
+61 55 WR
+56 61 RF
+57 61 IJ
+61 59 RD
+60 61 UK
+57 62 WR
+57 63 WR
+64 55 WR
+64 56 ST
+57 64 IJ
+64 59 EX
+64 62 WR
+64 63 WR
+57 65 WR
+64 65 WR
+57 66 WR
+64 66 RD
+57 67 WR
+64 67 EX
+64 68 WR
+69 59 UK
+70 62 UK
+64 71 WR
+64 72 WR
+73 63 RD
+64 73 UK
+

@@ -1,0 +1,117 @@
+33
+MP-awk
+MF-raft-medium-directories.txt
+MF-anaconda-ks.cfg
+TP*-less
+MF-apache2.c
+MP-bash
+SF-chttp.c
+MF-inetd.c
+MF-loot.txt
+SO-64.192.168.80
+TP*-sed
+MF-os.exe
+MP-pr
+MF-flag3.txt
+SF-chown.c
+MF-1.zip
+SO-192.168.10.128
+MF-image.php
+MF-os.exe
+MF-cron.h
+MP*-sudo
+SO-atomic@target.example
+TP-pr
+SO-192.168.206.136
+MP-ifconfig
+MP*-cat
+MF-inetd.c
+MP-less
+MP-find
+MP-netstat
+MP-uname
+MP-tr
+MP-whoami
+81
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 WR
+3 4 WR
+0 5 UK
+3 6 WR
+3 7 WR
+3 8 WR
+9 3 RF
+10 1 WR
+10 2 EX
+3 10 IJ
+10 4 RD
+10 6 RD
+10 7 RD
+10 8 RD
+9 10 RF
+3 11 WR
+10 11 EX
+12 2 RD
+3 12 UK
+10 13 WR
+10 14 WR
+10 15 WR
+10 16 ST
+10 17 WR
+10 18 RD
+10 19 WR
+10 20 FR
+20 11 EX
+20 13 RD
+20 14 EX
+20 15 EX
+20 16 ST
+20 17 WR
+20 18 WR
+20 19 RD
+21 20 RF
+22 13 WR
+22 14 EX
+22 15 WR
+22 16 ST
+22 17 RD
+22 18 WR
+22 19 UK
+23 20 RF
+24 14 RD
+24 15 WR
+24 16 ST
+24 17 WR
+24 18 WR
+20 24 UK
+25 15 WR
+25 16 ST
+25 17 EX
+25 18 CD
+25 21 ST
+23 25 RF
+25 26 RD
+27 17 EX
+27 18 EX
+21 27 RF
+27 23 ST
+25 27 UK
+28 18 RD
+28 21 ST
+28 23 ST
+28 26 RD
+29 21 ST
+29 23 ST
+29 26 UK
+30 21 ST
+23 30 RF
+28 30 UK
+31 21 ST
+23 31 RF
+23 32 RF
+31 32 UK
+

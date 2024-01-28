@@ -1,0 +1,37 @@
+13
+MP-less
+TF-subprocess.c
+MF-AutoSUID.sh
+TP-grep
+MP-cat
+MP*-head
+MF-syslog.c
+SF-0*.txt
+MP*-cat
+MF-access.txt
+SF-inetd.c
+MP*-cat
+MP*-cat
+21
+0 1 WR
+0 2 UK
+3 1 RD
+4 1 WR
+3 4 UK
+5 1 WR
+5 6 WR
+5 7 WR
+8 1 EX
+8 6 WR
+8 7 EX
+5 9 WR
+8 9 UK
+5 10 RD
+11 6 RD
+11 7 RD
+11 10 RD
+12 6 WR
+12 7 RD
+12 10 WR
+11 12 UK
+

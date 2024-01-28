@@ -1,0 +1,43 @@
+12
+MP*-head
+MP-sed
+MP-pr
+TF-target.example.c
+MF-d.c
+MP*-cat
+SO-192.168.206.137:8080
+SO-192.168.206.136
+MP*-tail
+TP*-grep
+TP-netstat
+MP-nl
+28
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 WR
+0 5 FR
+5 3 WR
+5 4 WR
+6 0 RF
+6 5 RF
+7 0 RF
+7 5 RF
+0 8 FR
+8 3 RD
+8 4 RD
+5 8 UK
+0 9 FR
+9 3 CD
+9 4 RD
+6 9 RF
+9 7 ST
+0 10 FR
+10 3 EX
+10 4 UK
+11 3 EX
+6 11 RF
+11 7 ST
+9 11 UK
+

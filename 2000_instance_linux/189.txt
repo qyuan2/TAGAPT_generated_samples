@@ -1,0 +1,87 @@
+27
+MP-paste
+MF-rockyou.txt
+TP-sed
+SF-secret.c
+MF-f.r
+MF-pwquality.c
+MP-cat
+MP-awk
+MP-less
+MP*-sed
+SO-atomic@target.example
+TF-http.c
+MP-ip
+MP*-less
+MF-Users.tar.gz
+SO-127.0.0.1:8080
+MP*-tac
+TP*-pr
+SF-cron.m
+SO-atomic@target.example
+MF-password-hash.sh
+MF-0*.txt
+SF-access.htm
+TF-anaconda-ks.cfg
+MF-e2.c
+SF-sysctl.c
+MP-bash 
+57
+0 1 EX
+0 2 IJ
+2 1 RD
+0 3 UK
+2 4 WR
+2 5 RD
+6 1 EX
+2 6 UK
+7 1 WR
+7 4 WR
+7 5 EX
+8 1 RD
+8 4 WR
+8 5 RD
+7 8 UK
+9 1 WR
+9 4 WR
+9 5 RD
+10 9 RF
+9 11 WR
+12 4 CD
+12 5 UK
+9 13 FR
+13 10 ST
+13 11 CD
+9 14 RD
+13 14 RD
+15 9 RF
+15 13 RF
+9 16 FR
+16 10 ST
+16 11 RD
+16 14 WR
+16 15 ST
+9 17 IJ
+17 10 ST
+17 11 RD
+13 17 IJ
+17 14 WR
+15 17 RF
+16 17 IJ
+9 18 UK
+13 19 ST
+16 19 ST
+19 17 RF
+13 20 WR
+16 20 WR
+17 20 UK
+13 21 WR
+16 21 RD
+13 22 WR
+16 22 RD
+13 23 RD
+16 23 RD
+16 24 WR
+16 25 WR
+16 26 UK
+

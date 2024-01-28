@@ -1,0 +1,39 @@
+11
+MP*-find
+MF-lighttp.c
+MP*-cat
+SF-da-ks.cfg
+MP-cp
+TP*-cat
+TF-CleaingScript.sh
+TP-cat
+MP*-w
+MP-setenforce 
+MP-more
+25
+0 1 RD
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 WR
+0 4 FR
+4 1 WR
+2 4 UK
+0 5 IJ
+5 1 WR
+5 3 RD
+0 6 RD
+5 6 WR
+0 7 FR
+7 1 EX
+7 3 WR
+5 7 UK
+8 1 RD
+8 3 RD
+8 6 WR
+9 1 CD
+9 3 RD
+9 6 UK
+10 3 WR
+8 10 UK
+

@@ -1,0 +1,52 @@
+16
+MP*-SecuriteInfo.com
+SF-C:\Users\admin\AppData\Local\Temp\file.exe
+SO-https://slpbridge.com/storage/images/debug2.ps1
+MP*-jerkoff.exe 
+MP*-PsExec.exe
+MP-WinAPIOverride 6.9.1.exe
+MP-StormKittyBuild.exe 
+MF-C:\Windows\System32\rundll32
+TF-\Browserweb\csrss.exe
+MP-444444.png.png.exe 
+SO-0.0.0.0
+MF-C:\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613
+MP*-certutil
+TP-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+MF-Settings\services.exe
+MP-xqGqlVXkyPJD.exe 
+33
+0 1 EX
+0 2 ST
+0 3 FR
+3 1 RD
+3 2 ST
+0 4 FR
+4 1 WR
+4 2 ST
+3 4 UK
+0 5 FR
+5 1 WR
+2 5 RF
+0 6 UK
+5 7 WR
+5 8 WR
+9 1 EX
+2 9 RF
+9 7 EX
+9 8 UK
+5 10 ST
+5 11 RD
+12 2 ST
+12 7 EX
+10 12 RF
+12 11 EX
+5 13 FR
+13 7 UK
+5 14 RD
+12 14 WR
+5 15 FR
+15 10 ST
+15 11 RD
+12 15 UK
+

@@ -1,0 +1,107 @@
+24
+MP-nl
+MF-at.a
+SO-192.168.10.129
+TP-tail
+MF-raw.githubusercontent.c
+TP*-ls
+SF-etc.tar.gz
+MF-raw.githubusercontent.c
+SF-art.sh
+SF-ufw.c
+MF-lighttp.c
+MP-cat
+MF-backsup.sh
+MF-os.exe
+TP-cat
+SO-192.168.10.131
+MP*-ifconfig
+SF-shell.cgi
+MF-2017.pl
+MF-at.a
+SO-http://192.168.10.128/shell.cgi
+MP-netstat
+MP*-echo 
+MP*-nl
+80
+0 1 WR
+2 0 RF
+0 3 IJ
+3 1 RD
+2 3 RF
+0 4 RD
+3 4 WR
+0 5 IJ
+5 1 EX
+5 2 ST
+3 5 IJ
+5 4 WR
+0 6 RD
+3 6 EX
+5 6 RD
+0 7 WR
+3 7 WR
+5 7 WR
+0 8 RD
+3 8 WR
+5 8 WR
+0 9 EX
+3 9 WR
+5 9 WR
+0 10 WR
+3 10 CD
+5 10 WR
+11 1 RD
+2 11 RF
+3 11 IJ
+11 4 WR
+5 11 IJ
+11 6 WR
+11 7 WR
+11 8 EX
+11 9 EX
+11 10 RD
+3 12 UK
+5 13 CD
+11 13 RD
+14 4 RD
+5 14 IJ
+14 6 RD
+14 7 RD
+14 8 CD
+14 9 RD
+14 10 EX
+11 14 IJ
+14 13 WR
+15 5 RF
+15 11 RF
+15 14 RF
+16 6 WR
+16 7 CD
+16 8 RD
+16 9 UK
+11 17 EX
+14 17 RD
+11 18 RD
+14 18 EX
+11 19 RD
+14 19 WR
+20 11 RF
+20 14 RF
+11 21 UK
+22 13 WR
+14 22 IJ
+15 22 RF
+22 17 RD
+22 18 WR
+22 19 RD
+22 20 ST
+23 13 WR
+14 23 IJ
+15 23 RF
+23 17 WR
+23 18 RD
+23 19 WR
+23 20 ST
+22 23 UK
+

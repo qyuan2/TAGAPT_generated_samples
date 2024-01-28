@@ -1,0 +1,57 @@
+18
+MP*-cronos.exe
+TP*-query.exe
+MF-C:\Users\admin\AppData\Local\Temp\Uninstall
+MF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild
+SF-C:\Windows\system32\nethtsrv.exe
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+SF-C:\Windows\system32\fvjhioojuu
+MP-AcroRd32.exe
+MF-tasklist.exe
+MP-installd.exe
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+SO-https://go.microsoft.com/fwlink/p/?LinkId=2124703
+MF-C:\Users\admin\AppData\Local\Temp\sgic_info
+SF-C:\Users\admin\Desktop\Wub\Wub.exe
+SF-C:\Users\admin\AppData\Local\Temp\jww825a
+TP*-W32tm
+MF-\temp\atomictestfile.txt
+MP*-Backstab64.exe
+36
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 CD
+1 3 WR
+0 4 RD
+1 4 WR
+5 0 RF
+1 5 ST
+0 6 RD
+1 6 WR
+0 7 FR
+1 7 UK
+0 8 RD
+0 9 FR
+9 2 WR
+9 3 RD
+9 4 RD
+5 9 RF
+9 6 WR
+9 8 RD
+10 0 RF
+9 10 ST
+11 9 RF
+9 12 RD
+9 13 WR
+9 14 WR
+15 6 RD
+15 8 WR
+9 15 IJ
+15 10 ST
+11 15 RF
+15 12 UK
+9 16 WR
+17 8 WR
+9 17 UK
+

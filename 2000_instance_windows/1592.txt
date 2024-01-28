@@ -1,0 +1,48 @@
+15
+MP*-timeout.exe
+SO-199.247.25.79
+SF-C:\MSOCache\All Users\{90140000-002C-0410-0000-0000000FF1CE}-C\lsass.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+TP*-pcalua.exe
+MP*-Reg.exe
+MP*-Dkeyauth.exe
+MP-DataSvcUtil.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns996E.tmp
+SF-HKCU\Software\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging
+TF-C:\Users\admin\Desktop\Client
+MF-C:\ServerComponenthostNet\z3dzg
+MF-C:\Users\admin\AppData\Local\Temp\G88QGQzA.htm
+MP-cmd.exe
+MF-\Users\admin\AppData\Local\Temp\jww825a.exe
+30
+0 1 ST
+0 2 EX
+0 3 ST
+0 4 FR
+4 1 ST
+4 2 WR
+4 3 ST
+0 5 FR
+5 1 ST
+5 2 EX
+5 3 ST
+4 5 IJ
+0 6 FR
+1 6 RF
+6 2 EX
+6 3 ST
+4 6 IJ
+5 6 UK
+0 7 UK
+4 8 WR
+4 9 WR
+4 10 WR
+4 11 EX
+4 12 EX
+3 13 RF
+4 13 IJ
+13 8 RD
+13 9 WR
+13 10 UK
+4 14 EX
+

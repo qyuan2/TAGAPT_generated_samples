@@ -1,0 +1,51 @@
+14
+MP*-nscB9BA.tmp
+MF-C:\Users\Public\Music\mediatv
+SO-192.168.1.1
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MF-C:\Users\admin\AppData\Local\Temp\tmp91F1.tmp
+MP*-PDQDeployConsole.exe
+MF-\Windows\Temp\lsass_dump.dmp
+MF-C:\Users\admin\AppData\Local\Temp\Scan30921.htm
+MF-\Users\admin\AppData\Local\Temp\vLocalServerSetup.exe
+MP*-EasyValorant.exe 
+MP-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MP*-Exloader_Installer.vmp.exe 
+MF-bcdedit.exe
+TP-fsutil.exe
+34
+0 1 EX
+2 0 RF
+0 3 ST
+0 4 RD
+0 5 FR
+5 1 EX
+2 5 RF
+3 5 RF
+5 4 WR
+0 6 WR
+5 6 RD
+5 7 WR
+5 8 WR
+9 1 WR
+2 9 RF
+3 9 RF
+9 4 WR
+5 9 UK
+10 1 EX
+10 2 ST
+10 3 ST
+10 4 RD
+10 6 EX
+10 7 UK
+2 11 RF
+3 11 RF
+11 4 RD
+11 6 WR
+11 8 EX
+11 12 WR
+13 4 WR
+13 6 RD
+13 8 RD
+11 13 UK
+

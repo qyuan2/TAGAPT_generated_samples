@@ -1,0 +1,63 @@
+18
+MP*-Setup.exe
+SF-C:\Windows\System32\notepad
+MF-\Users\admin\AppData\Local\Temp\is-Q8VQL.tmp\jww825a.tmp
+MF-\Windows\system32\MsiExec.exe
+TP*-Fichero Análsis 1.exe
+MF-C:\Windows\System32\Curl.exe
+MF-\Users\admin\AppData\Local\Temp\PO-REF67340982.rtf
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+TF-files\appdata\local\temp\5491.bmp.vb
+MF-C:\Windows\System32\schtasks.exe
+TP*-OneDrive.exe 
+MP-Client.exe 
+MP-SecuriteInfo.com.Trojan.NSISX.Spy.Gen.24.6304.24661.exe
+MP*-qgcrmeck.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MP-attrib.exe
+TP-filezilla.exe 
+MP-cvtres.exe
+42
+0 1 RD
+0 2 EX
+0 3 RD
+0 4 IJ
+4 1 WR
+4 2 WR
+4 3 RD
+0 5 RD
+4 5 RD
+0 6 RD
+4 6 WR
+7 0 RF
+4 7 ST
+0 8 WR
+4 8 UK
+0 9 WR
+0 10 FR
+10 1 RD
+10 2 RD
+10 3 RD
+10 5 RD
+10 6 RD
+10 7 ST
+10 9 WR
+11 1 UK
+12 2 WR
+12 3 WR
+12 5 WR
+12 6 WR
+12 7 ST
+12 9 WR
+10 12 UK
+13 3 WR
+13 5 CD
+13 6 EX
+13 7 ST
+13 9 WR
+13 14 ST
+15 5 UK
+7 16 RF
+16 9 UK
+13 17 UK
+

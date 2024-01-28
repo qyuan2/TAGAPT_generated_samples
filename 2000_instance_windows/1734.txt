@@ -1,0 +1,39 @@
+13
+MP*-bcdedit.exe
+MF-.\T1218.007\bin\T1218.007_DLL.m
+TF-C:\Windows\system32\DllHost.exe
+MF-C:\Windows\system32\WinSat
+MF-6.9.1.exe
+TF-C:\Program Files\Microsoft\Skype for Desktop\resources\app
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=elf
+MP*-makecab.exe
+MP-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+MF-\Users\admin\AppData\Local\Temp\_vnw.exe
+MP*-firefox.exe
+MF-C:\Browserweb\csrss.exe
+MP*-jerkoff.exe 
+23
+0 1 WR
+0 2 WR
+0 3 EX
+0 4 CD
+0 5 WR
+0 6 ST
+0 7 FR
+7 1 WR
+7 2 RD
+7 3 WR
+7 4 WR
+7 5 RD
+6 7 RF
+0 8 UK
+7 9 WR
+10 2 EX
+10 3 RD
+10 4 WR
+10 5 UK
+7 11 WR
+12 4 RD
+12 6 ST
+7 12 UK
+

@@ -1,0 +1,63 @@
+20
+MP*-whoami
+SO-192.168.2.102
+SF-shell.cgi
+SO-192.168.206.137
+MP-less
+MF-password-hash.sh
+MF-access.htm
+SO-192.168.206.136
+MF-td.c
+MP-timeout
+SF-AutoSUID.sh
+SF-T1027-004-test.c
+MP*-ls
+MP*-uname
+MF-victim-shred.txt
+TF-target.example.c
+TP-cat
+SF-cron.h
+MP*-ls
+SF-LinEnum.sh
+40
+1 0 RF
+0 2 WR
+0 3 ST
+0 4 FR
+4 1 ST
+4 2 EX
+3 4 RF
+0 5 WR
+4 5 UK
+0 6 WR
+0 7 ST
+0 8 RD
+0 9 FR
+9 1 ST
+9 2 RD
+3 9 RF
+9 6 WR
+9 7 ST
+9 8 WR
+0 10 WR
+9 10 WR
+9 11 RD
+12 3 ST
+12 6 WR
+7 12 RF
+12 8 RD
+9 12 UK
+13 7 ST
+13 8 WR
+13 10 RD
+13 11 WR
+13 14 WR
+13 15 EX
+16 8 UK
+13 17 UK
+18 10 RD
+18 11 WR
+18 14 WR
+18 15 WR
+18 19 UK
+

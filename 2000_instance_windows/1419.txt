@@ -1,0 +1,71 @@
+19
+MP*-PsExec.exe
+MF-C:\Program Files (x86)\UltraViewer\UltraViewer_Desktop
+TP-NOTEPAD.EXE 
+SO-file://C:\windows\system32\notepad.exe
+MF-C:\Users\admin\AppData\Local\Temp\sechex-spoofy.zip
+TF-C:\Users\admin\AppData\Local\Temp\468C
+SF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86.sys
+MF-\Users\admin\AppData\Local\Temp\VRAPP.exe
+TF-C:\Users\admin\AppData\Local\Google\Chrome\User
+MF-C:\Users\admin\AppData\Local\Temp\6248.exe
+MP*-vssadmin.exe
+TP*-nvvsvc.exe 
+MF-\Users\admin\AppData\Local\Temp\What_color_rock_lights_are_legal_in_florida_24536.zip
+MP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+TP-MicrosoftEdgeUpdate.exe
+MP*-X_Net_Windows.exe
+TP-JJSploit.exe 
+TP-taskdl.exe
+MP-takeown.exe
+49
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 ST
+2 3 ST
+0 4 WR
+2 4 WR
+0 5 WR
+2 5 WR
+0 6 UK
+2 7 WR
+2 8 RD
+2 9 EX
+10 1 WR
+2 10 IJ
+10 3 ST
+10 4 WR
+10 5 UK
+11 1 EX
+2 11 IJ
+11 3 ST
+11 4 EX
+11 7 RD
+11 8 WR
+11 9 WR
+2 12 WR
+11 12 RD
+13 3 ST
+13 4 WR
+13 7 UK
+14 4 WR
+14 8 WR
+14 9 RD
+11 14 UK
+15 8 RD
+15 9 RD
+15 12 RD
+16 8 RD
+16 9 WR
+16 12 RD
+15 16 IJ
+17 8 WR
+17 9 EX
+17 12 WR
+15 17 UK
+18 8 WR
+18 9 WR
+18 12 WR
+16 18 UK
+

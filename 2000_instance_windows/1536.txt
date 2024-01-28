@@ -1,0 +1,93 @@
+24
+MP*-firefox.exe 
+MF-Users\{90140000-0044-0411-0000-0000000FF1CE}-C\WinRAR.exe
+SO-https://protect.mimecast-offshore.com/s/ZxDEC0V7qVfQrkNDuwnJx6?domain=basitsana.co.za
+MF-C:\Users\User\29630.ico
+SO-0.0.0.0
+SF-C:\Users\admin\AppData\Local\Temp\admin_History
+MP*-mofcomp.exe
+MP*-procdump.exe
+TP*-NdSvr.exe
+SF-C:\Program Files\Windows Defender\MpCmdRun
+MF-C:\Users\admin\AppData\Local\Temp\SYSTEM
+TP-ORDER_LIST#0710023_FULLY_GLOBAL_INC_LIMITED‮gpj.exe 
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9DCC.tmp
+MF-C:\Users\admin\AppData\Roaming\AppData\AppData.exe
+MP-6248.exe
+TP-EvaPKO
+SO-45.63.100.72
+MP-del.exe
+TF-C:\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9.zip
+TP-Uninstall.exe 
+SF-C:\Users\admin\AppData\Local\Temp\tmp28A8
+MP-is-Q2MHB.tmp
+MF-Files\VideoLAN\VLC\vlc.exe
+MP-KMSpico_setup.exe
+66
+0 1 WR
+0 2 ST
+0 3 WR
+0 4 ST
+0 5 WR
+0 6 FR
+6 1 WR
+2 6 RF
+6 3 WR
+4 6 RF
+6 5 WR
+0 7 FR
+7 1 WR
+2 7 RF
+7 3 EX
+4 7 RF
+7 5 WR
+0 8 FR
+8 1 RD
+8 2 ST
+8 3 WR
+4 8 RF
+8 5 WR
+6 8 IJ
+7 8 IJ
+0 9 WR
+6 9 CD
+7 9 RD
+8 9 WR
+0 10 RD
+6 10 RD
+7 10 WR
+8 10 RD
+11 1 EX
+11 2 ST
+11 3 WR
+11 4 ST
+11 5 WR
+6 11 UK
+7 12 WR
+8 12 EX
+7 13 RD
+8 13 UK
+4 14 RF
+14 5 WR
+7 14 UK
+15 5 EX
+15 9 WR
+15 10 EX
+15 12 WR
+16 15 RF
+17 9 WR
+17 10 EX
+17 12 EX
+15 17 IJ
+16 17 RF
+15 18 WR
+17 18 WR
+19 9 UK
+15 20 WR
+17 20 RD
+21 12 RD
+15 21 UK
+17 22 EX
+23 16 ST
+17 23 UK
+

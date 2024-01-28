@@ -1,0 +1,44 @@
+11
+MP*-dd
+MP*-awk
+SF-journald.c
+MF-victim-shred.txt
+MF-Users.tar.gz
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-Users.tar.gz
+SF-loot.txt
+MP-tee
+TP*-sed
+MP*-uname
+30
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 RD
+1 3 WR
+0 4 RD
+1 4 WR
+5 0 RF
+1 5 ST
+0 6 RD
+1 6 WR
+0 7 RD
+1 7 EX
+0 8 FR
+1 8 UK
+0 9 FR
+9 2 WR
+9 3 RD
+9 4 EX
+9 5 ST
+9 6 WR
+9 7 RD
+0 10 FR
+10 2 WR
+10 3 RD
+10 4 WR
+10 5 ST
+10 6 WR
+10 7 EX
+9 10 UK
+

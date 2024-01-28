@@ -1,0 +1,111 @@
+33
+MP*-ls
+SF-ufw.log
+SF-d.c
+TP*-head
+MP-ls
+MP-uname
+MF-ufw.log
+MF-atomic.sh
+MF-pwquality.c
+TP-sed
+MF-httpd.c
+MP-bash
+TP-cat
+MP*-ls
+MF-e.c
+MF-AutoSUID.sh
+MF-ttpd.c
+TF-lighttp.c
+MF-raj.txt
+MP-more
+MP-netstat
+MF-ufw.c
+MF-shell.cgi
+MP-ls
+MP-nc
+TP*-awk
+TF-0*.txt
+SF-journald.c
+MP-awk
+TF-resolv.c
+SF-syslog.c
+MP-nl
+MP-cat
+75
+0 1 RD
+0 2 CD
+0 3 IJ
+3 1 WR
+3 2 RD
+0 4 FR
+4 1 WR
+4 2 WR
+3 4 IJ
+0 5 FR
+5 1 WR
+5 2 CD
+3 5 IJ
+0 6 WR
+3 6 RD
+4 6 RD
+5 6 UK
+3 7 CD
+4 7 RD
+3 8 UK
+9 1 UK
+4 10 WR
+11 2 WR
+4 11 UK
+12 7 CD
+12 10 UK
+13 7 WR
+13 14 WR
+13 15 EX
+13 16 WR
+13 17 RD
+13 18 WR
+13 19 FR
+19 14 CD
+19 15 RD
+19 16 UK
+13 20 FR
+20 14 RD
+20 15 RD
+20 17 WR
+20 18 UK
+13 21 RD
+13 22 WR
+13 23 FR
+23 14 WR
+23 15 WR
+23 17 RD
+23 21 RD
+23 22 CD
+24 14 WR
+24 15 EX
+24 17 CD
+24 21 EX
+24 22 WR
+23 24 UK
+25 15 RD
+25 17 EX
+25 21 WR
+25 22 RD
+25 26 RD
+25 27 CD
+28 21 EX
+28 22 RD
+25 28 IJ
+28 26 WR
+28 27 EX
+25 29 WR
+28 29 UK
+25 30 EX
+31 21 RD
+31 22 WR
+25 31 IJ
+31 26 UK
+32 22 WR
+25 32 UK
+

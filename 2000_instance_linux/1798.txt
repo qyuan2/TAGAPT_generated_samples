@@ -1,0 +1,88 @@
+24
+MP*-rev
+SF-1.zip
+MP*-nl
+MP-cat
+SF-lv.c
+MF-AutoSUID.sh
+SF-raj.txt
+MF-e.c
+MP-prel
+TP-ls
+TF-atomic.log
+MF-cron.m
+MP-shred
+TP*-sed
+MF-flag3.txt
+MP*-tshark
+MF-atomic.log
+MF-lighttpd.c
+MF-cron.h
+MP-cat
+TF-CleaingScript.sh
+TP-less
+SF-ufw.c
+TF-T1070.006-modification.txt
+61
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 EX
+0 4 RD
+2 4 EX
+3 4 WR
+0 5 EX
+2 5 WR
+3 5 RD
+0 6 RD
+2 6 RD
+3 6 WR
+0 7 CD
+2 7 RD
+3 7 RD
+0 8 FR
+8 1 UK
+0 9 UK
+2 10 WR
+3 10 CD
+2 11 WR
+3 11 WR
+2 12 FR
+3 12 UK
+13 4 WR
+13 5 WR
+13 6 EX
+13 7 WR
+13 10 WR
+13 11 CD
+13 14 RD
+15 5 WR
+15 6 RD
+15 7 WR
+15 10 WR
+15 11 WR
+13 15 IJ
+15 14 EX
+13 16 WR
+15 16 EX
+13 17 CD
+15 17 WR
+13 18 WR
+15 18 EX
+19 10 WR
+19 11 EX
+13 19 IJ
+19 14 RD
+15 19 UK
+13 20 WR
+21 11 WR
+13 21 IJ
+21 14 RD
+21 16 RD
+21 17 EX
+21 18 RD
+21 20 UK
+13 22 RD
+13 23 RD
+

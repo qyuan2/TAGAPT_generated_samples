@@ -1,0 +1,141 @@
+37
+MP-nsCFA0.tmp
+SO-hxxp://avirona.ru/7-ZIP.html
+MF-\Users\admin\AppData\Local\Temp\AB083F1294796B947DE5390EC853243E.dll.vir.exe
+SF-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun
+MP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Purchase_ORDERS087
+MP-AdFind.exe
+MP*-Kulicib.exe 
+MP-AdFind.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Kulicib.exe
+TP*-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+SF-C:\Users\admin\AppData\Local\Temp\putty
+TP-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MF-\Users\admin\AppData\Local\Temp\sample-store-survey-questionnaire-retail.zip
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1546.015/src/TreatAs.sct
+TP-msbuild.exe
+MF-C:\Windows\System32\taskkill.exe
+MF-C:\Users\admin\Desktop\Thursday.htm
+MF-\Users\admin\AppData\Local\Temp\Protected.exe
+MF-C:\Users\admin\Desktop\jerkoff
+MF-C:\Users\admin\Desktop\Paradox RAT\Updater.exe
+TP*-wscript.exe
+MP-C3B1.exe
+MP-DnaohH
+MP-schtasks.exe 
+SF-C:\Program files\appdata\roaming\battery\battery.cmd
+MF-Files\Java\jre1.8.0_92\bin\java.exe
+MF-C:\Users\admin\AppData\Local\Temp\ycard
+TF-C:\Users\admin\AppData\Roaming\mozilla
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+TP-bfsvc.exe
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+MP*-vssvc.exe
+MF-C:\Program files\30802.ico
+MP-forfiles.exe
+MP-Uninstall.exe 
+MP-explorer.exe
+101
+0 1 ST
+0 2 EX
+0 3 EX
+0 4 FR
+1 4 RF
+4 2 WR
+4 3 RD
+0 5 WR
+4 5 WR
+0 6 FR
+6 1 ST
+6 2 WR
+6 3 WR
+4 6 UK
+0 7 FR
+7 1 ST
+7 2 WR
+7 3 RD
+7 5 WR
+0 8 FR
+8 1 ST
+8 2 WR
+8 3 WR
+8 5 RD
+7 8 UK
+0 9 WR
+0 10 FR
+1 10 RF
+10 2 WR
+10 3 RD
+10 5 RD
+10 9 WR
+10 11 RD
+12 2 WR
+12 3 RD
+12 5 RD
+12 9 UK
+10 13 CD
+14 10 RF
+15 5 WR
+10 15 IJ
+15 11 WR
+15 13 WR
+14 15 RF
+10 16 WR
+15 16 EX
+10 17 RD
+15 17 WR
+10 18 WR
+15 18 WR
+10 19 UK
+15 20 WR
+21 11 RD
+21 13 RD
+14 21 RF
+15 21 IJ
+21 16 RD
+21 17 WR
+21 18 RD
+21 20 EX
+22 13 WR
+14 22 RF
+15 22 UK
+23 13 RD
+23 14 ST
+23 16 UK
+14 24 RF
+24 17 RD
+24 18 RD
+24 20 RD
+21 24 IJ
+21 25 RD
+24 25 EX
+21 26 EX
+24 26 RD
+21 27 WR
+24 27 EX
+21 28 EX
+24 28 WR
+21 29 ST
+24 29 ST
+30 20 WR
+21 30 UK
+24 31 WR
+24 32 FR
+32 25 WR
+32 26 CD
+32 27 RD
+32 28 WR
+32 29 ST
+32 31 WR
+24 33 RD
+32 33 EX
+24 34 UK
+35 25 RD
+35 26 UK
+36 27 WR
+36 28 RD
+29 36 RF
+36 31 EX
+32 36 UK
+

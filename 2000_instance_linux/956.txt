@@ -1,0 +1,168 @@
+46
+MP-cat
+SF-lighttp.c
+MP-paste
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MF-s.c
+MP-sed
+MF-2017.pl
+TP-bash
+MF-1.zip
+TP-grep
+TP-find
+SO-8.8.8.8
+MF-test.txt
+MP-systemd
+SF-v.c
+TP*-less
+MP-chmod
+MP*-paste
+MP-awk
+SO-192.168.0.134
+MF-resolv.c
+TF-cron.h
+TF-apache2.c
+TF-cron.m
+MP-awk
+MP-cat
+TP-arp-scan
+MF-T1070.006-reference.txt
+MF-flag4.txt
+TP-echo
+MF-os.sys
+SF-logrotate.c
+MF-logrotate.c
+TP*-bash
+MP-id
+MF-apache2.c
+SO-192.168.10.135
+MP*-tcpdump 
+TP-curl 
+TP-cat
+MF-passwd.zip
+MF-1.zip
+MP-sftp
+TF-T1003.008.txt
+TF-resolv.c
+TP-ifconfig
+119
+0 1 RD
+0 2 FR
+2 1 UK
+3 0 RF
+0 4 WR
+0 5 FR
+3 5 RF
+5 4 WR
+0 6 RD
+5 6 RD
+0 7 FR
+7 3 ST
+7 4 WR
+5 7 UK
+0 8 RD
+0 9 FR
+9 3 ST
+9 4 UK
+0 10 IJ
+10 3 ST
+10 6 WR
+10 8 WR
+11 10 RF
+10 12 UK
+3 13 RF
+13 6 WR
+13 8 RD
+11 13 RF
+13 14 RD
+15 6 RD
+15 8 RD
+11 15 RF
+13 15 IJ
+15 14 WR
+16 6 EX
+16 8 RD
+16 11 ST
+13 16 UK
+17 8 WR
+11 17 RF
+17 14 WR
+15 17 IJ
+18 8 WR
+11 18 RF
+18 14 EX
+15 18 UK
+17 19 ST
+17 20 RD
+17 21 WR
+17 22 WR
+17 23 WR
+24 14 EX
+17 24 UK
+25 19 ST
+25 20 RD
+25 21 WR
+25 22 UK
+19 26 RF
+26 20 WR
+26 21 CD
+26 23 WR
+26 27 RD
+26 28 WR
+19 29 RF
+29 20 WR
+29 21 WR
+29 23 EX
+26 29 IJ
+29 27 WR
+29 28 WR
+26 30 WR
+29 30 WR
+26 31 WR
+29 31 WR
+26 32 RD
+29 32 WR
+26 33 FR
+33 27 WR
+33 28 RD
+29 33 IJ
+33 30 RD
+33 31 WR
+33 32 WR
+26 34 FR
+34 27 EX
+34 28 WR
+29 34 UK
+26 35 WR
+33 35 WR
+33 36 ST
+37 28 RD
+37 30 CD
+37 31 WR
+37 32 WR
+33 37 IJ
+37 35 EX
+36 37 RF
+38 30 UK
+39 31 RD
+39 32 WR
+33 39 IJ
+39 35 WR
+36 39 RF
+37 39 IJ
+33 40 EX
+37 40 EX
+39 40 RD
+33 41 WR
+37 41 RD
+39 41 RD
+42 32 WR
+33 42 IJ
+42 35 EX
+42 36 ST
+37 42 UK
+39 43 WR
+39 44 WR
+45 36 ST
+39 45 UK
+

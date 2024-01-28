@@ -1,0 +1,79 @@
+25
+MP*-ipconfig.exe
+MP-Document.pdf_Slayed.scr.exe
+MF-C:\Users\admin\AppData\Local\Temp\B70D
+MF-tasklist.exe
+MP*-cscript.exe
+MP-slui.exe
+MF-RAT\pr2.exe
+MP-secedit.exe
+SF-C:\Users\admin\AppData\Local\Temp\B70D
+SF-C:\Users\admin\AppData\Local\Temp\06e0e36f91e621e79712673923e57daf3fcf232bb3151c122891ded30466293a.exe
+MP*-qgcrmeck.exe
+SF-C:\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+MF-..wsf
+SF-C:\Users\admin\AppData\Roaming\skmt-bankinter-003-03588993232059560257100458.jar
+MF-C:\Program Files (x86)\GnuPG\bin\gpg
+SO-file://C:\windows\system32\notepad.exe
+SO-https://8.8.8.8/resolve?name=atomicredteam.$(Get-Random
+TP-EXE_temp2.exe 
+TF-c:\Program Files\Wireshark\tshark
+MP-explorer.exe 
+SF-C:\Users\admin\AppData\Local\Temp\z1Emir.exe
+MF-\Users\admin\AppData\Local\Temp\MyAccountSummary.zip
+MF-\Users\admin\AppData\Local\Temp\RunDRT-Office2016.bat.7z
+MF-files\appdata\local\temp\17634.bmp.vb
+MP*-bozon.exe 
+51
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 WR
+1 3 WR
+0 4 FR
+4 2 WR
+4 3 RD
+0 5 FR
+1 5 UK
+0 6 RD
+4 6 RD
+0 7 FR
+7 2 WR
+7 3 CD
+4 7 UK
+0 8 RD
+0 9 WR
+0 10 FR
+10 2 CD
+10 3 RD
+10 6 WR
+10 8 CD
+10 9 WR
+10 11 RD
+10 12 EX
+10 13 WR
+10 14 WR
+15 10 RF
+16 10 RF
+17 8 WR
+17 9 RD
+10 17 IJ
+17 11 EX
+17 12 EX
+17 13 CD
+17 14 EX
+17 15 ST
+16 17 RF
+10 18 RD
+17 18 RD
+19 9 WR
+10 19 UK
+17 20 WR
+17 21 EX
+17 22 EX
+17 23 WR
+24 14 WR
+24 15 ST
+24 16 ST
+17 24 UK
+

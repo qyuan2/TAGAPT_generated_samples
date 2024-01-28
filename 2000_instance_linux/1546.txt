@@ -1,0 +1,134 @@
+33
+MP-cat
+MP-head
+MP-tac
+SF-te.c
+SO-192.168.10.130
+MP*-awk
+MP-ls
+MP-cat
+MF-v.c
+MF-lighttp.c
+MF-victim-shred.txt
+SO-192.168.206.137
+TP-cat
+MF-journald.c
+MF-e.c
+TP-nl
+MP-cat
+TP-more
+MP*-cat
+SO-192.168.10.133
+MP-head
+MF-anaconda-ks.cfg
+SO-192.168.10.130
+SF-cron.a
+MP-awk
+MP-cat
+MP*-cat
+MP*-grep
+MF-io.r
+SF-T1070.004-test.txt
+TP-echo 
+MP-ls
+MP-tail
+98
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 ST
+0 5 FR
+5 3 WR
+5 4 ST
+0 6 FR
+6 3 WR
+6 4 ST
+0 7 UK
+5 8 CD
+6 8 EX
+5 9 WR
+6 9 WR
+5 10 WR
+6 10 RD
+11 5 RF
+6 11 ST
+12 3 WR
+4 12 RF
+5 12 IJ
+6 12 UK
+5 13 CD
+5 14 WR
+5 15 IJ
+15 8 WR
+15 9 CD
+15 10 RD
+15 11 ST
+15 13 CD
+15 14 WR
+16 8 WR
+16 9 EX
+16 10 RD
+16 11 ST
+16 13 WR
+16 14 WR
+15 16 IJ
+17 8 WR
+17 9 WR
+17 10 EX
+17 11 ST
+17 13 WR
+17 14 WR
+15 17 IJ
+16 17 UK
+18 8 RD
+18 9 CD
+18 10 WR
+18 11 ST
+18 13 WR
+18 14 RD
+15 18 IJ
+19 15 RF
+19 18 RF
+20 10 WR
+11 20 RF
+20 13 WR
+20 14 UK
+15 21 RD
+18 21 WR
+22 15 RF
+18 22 ST
+15 23 WR
+18 23 WR
+15 24 IJ
+18 24 UK
+15 25 FR
+19 25 RF
+25 21 RD
+22 25 RF
+25 23 RD
+26 19 ST
+26 21 WR
+26 22 ST
+26 23 EX
+25 26 UK
+19 27 RF
+27 21 CD
+22 27 RF
+27 23 WR
+27 28 WR
+27 29 WR
+30 21 WR
+22 30 RF
+30 23 WR
+27 30 UK
+31 21 EX
+22 31 RF
+31 23 WR
+31 28 WR
+31 29 WR
+32 23 WR
+32 28 WR
+32 29 RD
+31 32 UK
+

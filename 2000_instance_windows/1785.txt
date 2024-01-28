@@ -1,0 +1,236 @@
+66
+MP*-SSLplus.exe
+MP-Host.exe 
+TP-cipher.exe
+TP-msbuild.exe
+MP-Notepad Soft.exe 
+MF-C:\Windows\System32\reg.exe
+MF-\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe
+MF-C:\Windows\SysWOW64\cmd
+MF-C:\Windows\System32\reg
+MF-\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8.exe
+TP-filezilla.exe 
+MF-\Users\admin\AppData\Roaming\Nixware.exe
+MP-o0575127.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/CradleTest.txt
+MF-C:\Users\admin\Downloads\malware.7z
+MP-anydesk.exe
+TP*-ls
+SO-127.0.0.1
+TP-schtasks.exe
+TP-MSBuild.exe
+TP-nsA19D.tmp
+SF-C:\Users\admin\AppData\Roaming\fertyno12\client32.exe
+TP-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLED.EXE
+MF-%TEMP%\T1010.exe .\T1010\src\T1010.cs
+MF-C:\Users\admin\AppData\Local\Temp\MDE_File_Sample_88a7f68e7ffeccdba9450ae5dc5ebed3255357385e013c8383105831ad72c9e8.zip
+MF-nwc.h
+MF-files\30802.ico.txt
+MF-C:\programdata\asc
+TF-\Client.pdf
+MF-\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64.dll
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+MP-StormKittyBuild.exe 
+TP-ns929A.tmp
+MP-nmap.exe
+MF-C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content
+MF-www.facebook.c
+MF-\Users\admin\AppData\Local\Temp\is-R0T56.tmp\is-Q2MHB.tmp
+MP-wscript.exe 
+MP-WScript.exe
+MP-OriginalBuild.exe.exe 
+MF-C:\Windows\system32\DllHost
+MP-Reader_sl.exe 
+SO-https://vision.fn-pz.com
+MP-SearchFilterHost.exe
+MP-02867fa8b443043ec0fe6af211c852aa.exe 
+MP-wmpnscfg.exe
+TP-regsvcs.exe
+MF-C:\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928.csv
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Cmstp_calc.sct
+MF-\Users\admin\AppData\Local\Temp\hf1ji2lv.cmd
+MP-nsA299.tmp
+MF-Package.htm.htm
+MP-EALRP - Linkvertise Downloader_Rz-OfD1.exe
+MF-amend.rar
+TP*-tshark.exe
+MP-Reader_sl.exe 
+MP*-chrome.exe
+SO-https://vision.fn-pz.com
+MF-C:\Users\admin\Desktop\readme
+MF-\Windows\System32\rundll32.exe\rundll32.exe
+SO-http://192.168.5.25/test
+SF-C:\Users\admin\AppData\Local\Temp\Notepad
+MP-gsecdump.exe
+TP-PsExec.exe
+SF-C:\Windows\System32\wscript.exe
+MP-DriversHood.exe
+167
+0 1 FR
+0 2 IJ
+1 2 UK
+0 3 IJ
+0 4 FR
+3 4 IJ
+0 5 WR
+3 5 WR
+4 5 EX
+0 6 WR
+3 6 WR
+4 6 WR
+0 7 WR
+3 7 WR
+4 7 RD
+0 8 WR
+3 8 WR
+4 8 WR
+0 9 WR
+3 9 WR
+4 9 WR
+0 10 FR
+3 10 IJ
+4 10 IJ
+10 5 WR
+10 6 WR
+10 7 CD
+10 8 WR
+10 9 EX
+3 11 RD
+4 11 UK
+3 12 UK
+13 10 RF
+10 14 UK
+15 5 RD
+15 6 WR
+15 7 UK
+16 6 RD
+16 8 EX
+16 9 WR
+16 13 ST
+17 16 RF
+18 8 WR
+18 9 EX
+13 18 RF
+16 18 IJ
+18 17 ST
+13 19 RF
+16 19 UK
+13 20 RF
+20 17 ST
+18 20 IJ
+18 21 WR
+20 21 CD
+22 13 ST
+22 17 ST
+18 22 UK
+20 23 WR
+20 24 RD
+20 25 RD
+20 26 WR
+20 27 RD
+20 28 WR
+20 29 WR
+20 30 ST
+31 21 WR
+31 23 WR
+31 24 CD
+31 25 EX
+31 26 EX
+31 27 RD
+31 28 WR
+31 29 WR
+30 31 RF
+32 23 WR
+32 24 RD
+32 25 WR
+32 26 EX
+32 27 RD
+32 28 WR
+32 29 UK
+33 23 RD
+33 24 WR
+33 25 CD
+33 26 RD
+33 27 EX
+33 28 WR
+33 30 ST
+31 34 RD
+33 34 WR
+31 35 WR
+33 35 UK
+31 36 RD
+37 27 WR
+37 28 WR
+37 30 ST
+37 34 RD
+37 36 RD
+38 28 WR
+30 38 RF
+31 38 UK
+30 39 RF
+39 34 EX
+39 36 UK
+37 40 RD
+41 34 WR
+41 40 WR
+37 42 ST
+42 41 RF
+43 34 WR
+43 40 WR
+41 43 UK
+44 34 WR
+37 44 UK
+45 40 WR
+45 42 ST
+46 40 RD
+46 42 ST
+45 46 IJ
+45 47 WR
+46 47 RD
+45 48 ST
+48 46 RF
+45 49 EX
+46 49 UK
+50 40 RD
+42 50 RF
+50 47 WR
+48 50 RF
+45 51 WR
+50 51 EX
+52 42 ST
+45 52 UK
+50 53 WR
+54 47 RD
+48 54 RF
+50 54 IJ
+54 51 WR
+54 53 EX
+55 47 RD
+55 48 ST
+50 55 UK
+56 47 CD
+48 56 RF
+56 51 WR
+56 53 WR
+54 56 IJ
+57 54 RF
+56 57 ST
+54 58 WR
+56 58 WR
+54 59 WR
+56 59 RD
+54 60 ST
+60 56 RF
+54 61 WR
+56 61 WR
+62 53 WR
+54 62 IJ
+56 62 UK
+63 53 UK
+54 64 WR
+57 65 RF
+65 58 RD
+65 59 RD
+60 65 RF
+65 61 UK
+

@@ -1,0 +1,38 @@
+10
+MP*-Invoice for shipping.exe 
+MF-C:\Users\admin\AppData\Local\Temp\b.zip
+SO-1.2.840.113556
+MF-specification.exe
+TP*-MicrosoftEdgeUpdate.exe
+TP-nsC7AA.tmp
+MF-C:\Users\admin\AppData\Local\Temp\update
+TP*-AppLaunch.exe
+MP*-msxsl.exe
+TF-\Windows\Microsoft.NET\Framework64\v4.0.30319\ServiceModelReg.exe
+25
+0 1 WR
+0 2 ST
+0 3 WR
+0 4 FR
+4 1 WR
+2 4 RF
+4 3 CD
+0 5 IJ
+5 1 RD
+2 5 RF
+5 3 WR
+4 5 UK
+0 6 WR
+0 7 IJ
+7 1 EX
+7 2 ST
+7 3 EX
+7 6 EX
+0 8 FR
+8 1 WR
+2 8 RF
+8 3 WR
+8 6 WR
+7 8 UK
+0 9 WR
+

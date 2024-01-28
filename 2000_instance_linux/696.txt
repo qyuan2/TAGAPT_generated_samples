@@ -1,0 +1,63 @@
+16
+MP*-ls
+MF-raw.githubusercontent.c
+MF-os.exe
+MP-sudo
+MF-AutoSUID.sh
+MF-T1070.006-modification.txt
+SO-192.168.47.155
+MP-cat
+MP*-cat
+SF-T1070.006-modification.txt
+TF-s.c
+MP*-id
+MP*-chmod
+MF-chttp.c
+MF-cron.m
+MP-john
+44
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 WR
+3 4 EX
+0 5 WR
+3 5 WR
+6 0 RF
+6 3 RF
+0 7 FR
+7 1 WR
+7 2 WR
+3 7 UK
+0 8 FR
+8 1 EX
+8 2 RD
+8 4 WR
+8 5 WR
+8 6 ST
+0 9 WR
+8 9 CD
+0 10 WR
+8 10 WR
+11 1 RD
+11 2 EX
+11 4 RD
+11 5 WR
+6 11 RF
+11 9 RD
+11 10 RD
+12 2 RD
+12 4 EX
+12 5 RD
+12 6 ST
+12 9 EX
+12 10 WR
+11 12 UK
+8 13 EX
+8 14 WR
+15 5 WR
+15 6 ST
+8 15 UK
+

@@ -1,0 +1,42 @@
+12
+MP*-Register-CimProvider.exe
+MF-C:\Users\admin\Desktop\Dkx0i5ipj
+MP*-nsA042.tmp
+MP-UninsHs.exe
+MF-\Users\User\29630.ico
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\Caspol.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+TF-C:\Users\admin\AppData\Local\Temp\253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613
+SF-C:\Windows\System32\windowspowershell\v1
+MF-C:\Users\admin\AppData\Local\Google\Chrome\User
+MP*-schtasks.exe
+MP*-ns99EC.tmp
+27
+0 1 RD
+0 2 FR
+2 1 EX
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 WR
+0 5 RD
+6 0 RF
+0 7 WR
+0 8 RD
+0 9 RD
+0 10 FR
+10 1 WR
+10 4 RD
+10 5 WR
+6 10 RF
+10 7 WR
+10 8 WR
+10 9 RD
+11 4 WR
+11 5 WR
+11 6 ST
+11 7 WR
+11 8 RD
+11 9 WR
+10 11 UK
+

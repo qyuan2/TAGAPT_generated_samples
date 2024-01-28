@@ -1,0 +1,38 @@
+11
+MP*-dd
+MP*-bash
+MF-raw.githubusercontent.c
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+MF-access.htm
+TF-ret.c
+MP-curl
+MP*-cat
+SF-flag3.txt
+MP-uname
+MP*-bash
+24
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 ST
+3 1 RF
+0 4 RD
+1 4 RD
+0 5 WR
+1 5 EX
+0 6 FR
+1 6 UK
+0 7 FR
+7 2 RD
+7 3 ST
+7 4 WR
+7 5 RD
+0 8 WR
+7 8 WR
+0 9 UK
+10 2 WR
+3 10 RF
+10 4 EX
+10 5 WR
+7 10 UK
+

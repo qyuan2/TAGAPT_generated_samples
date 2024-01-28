@@ -1,0 +1,126 @@
+34
+MP*-less
+MF-te.c
+MF-access.txt
+TP*-sed
+MP-cat
+MF-Users.tar.gz
+MF-raw.githubusercontent.c
+TP-bash
+MP-sudo
+SF-raft-medium-directories.txt
+MF-f.r
+TP-cat
+MF-victim-shred.txt
+SF-anaconda-ks.cfg
+MP-w
+SF-syslog.c
+MF-alertConfigField.php
+SF-td.c
+TP-sed
+MF-echo-art-fish.sh
+MF-cron.a
+MF-anaconda-ks.cfg
+SF-raft-large-directories.txt
+MF-LinEnum.sh
+SO-http://192.168.10.129/image.php?FUZZ=something
+MP*-grep
+TP*-nl
+MF-s.c
+MP-nl
+SF-T1574.006.c
+MF-atomic.log
+MF-io.r
+SF-logrotate.c
+TF-access.htm
+89
+0 1 WR
+0 2 RD
+0 3 IJ
+3 1 WR
+3 2 RD
+0 4 FR
+4 1 EX
+4 2 WR
+3 4 IJ
+0 5 RD
+3 5 UK
+0 6 WR
+4 6 WR
+0 7 IJ
+7 1 RD
+7 2 WR
+4 7 IJ
+7 6 WR
+0 8 FR
+8 1 RD
+8 2 WR
+4 8 UK
+0 9 WR
+7 9 WR
+0 10 WR
+7 10 WR
+11 1 RD
+11 2 EX
+11 6 EX
+7 11 IJ
+11 9 RD
+11 10 EX
+7 12 WR
+11 12 RD
+7 13 RD
+11 13 WR
+14 6 WR
+7 14 UK
+11 15 RD
+11 16 CD
+11 17 WR
+18 9 WR
+18 10 RD
+11 18 IJ
+18 12 WR
+18 13 WR
+18 15 WR
+18 16 EX
+18 17 RD
+11 19 WR
+18 19 WR
+11 20 UK
+18 21 RD
+18 22 WR
+18 23 RD
+18 24 ST
+25 15 WR
+25 16 WR
+25 17 WR
+18 25 IJ
+25 19 WR
+25 21 RD
+25 22 CD
+25 23 WR
+24 25 RF
+26 16 CD
+26 17 RD
+18 26 IJ
+26 19 EX
+26 21 RD
+26 22 RD
+26 23 WR
+26 24 ST
+25 26 IJ
+18 27 RD
+25 27 RD
+26 27 EX
+18 28 IJ
+28 19 EX
+28 21 WR
+28 22 WR
+28 23 RD
+28 24 ST
+26 28 UK
+25 29 CD
+25 30 WR
+25 31 WR
+25 32 WR
+25 33 WR
+

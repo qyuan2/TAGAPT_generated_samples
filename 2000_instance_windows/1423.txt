@@ -1,0 +1,51 @@
+15
+MP*-SecuriteInfo.com
+MF-C:\Users\admin\AppData\Local\Temp\C3B1
+MP*-OneDrive.exe 
+MP-taskmgr.exe
+TP*-powercfg.exe
+MF-C:\Users\admin\Adobe\AdobeTray
+MP*-Reader_sl.exe 
+MF-C:\Users\admin\Desktop\AIGeneratedRansomware
+SF-C:\Users\admin\AppData\Local\Temp\Downloads
+MP-PowerShell.exe
+TF-C:\Program Files (x86)\UltraViewer\UltraViewer_Desktop.exe
+TP-AdobeARM.exe
+MF-\Windows\system32\certutil.exe
+SF-C:\Users\admin\AppData\Local\Temp\keygen
+TP-Navicat_Keygen_Patch_v3.7.exe 
+33
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+0 4 IJ
+4 1 WR
+2 4 IJ
+3 4 UK
+0 5 RD
+2 5 WR
+0 6 FR
+6 1 WR
+6 5 WR
+0 7 RD
+2 7 WR
+6 7 RD
+0 8 WR
+2 8 WR
+6 8 WR
+0 9 FR
+9 1 RD
+2 9 UK
+0 10 WR
+6 10 RD
+11 5 WR
+6 11 IJ
+11 7 WR
+11 8 UK
+6 12 WR
+6 13 RD
+14 5 WR
+6 14 UK
+

@@ -1,0 +1,236 @@
+66
+MP*-cat
+MP-grep
+TP-sed
+TP-bash
+MP-ifconfig
+MF-LinEnum.sh
+MF-e.c
+MF-ufw.c
+MF-ufw.c
+MF-os.sys
+TP-curl
+MF-te.c
+MP-echo
+SO-192.168.206.0
+MF-raw.githubusercontent.c
+TP*-find
+SO-192.168.47.134:4444
+TP-more
+TF-victim-shred.txt
+TP-cat
+TP-less
+SF-raft-large-directories.txt
+TP-perl
+MF-raft-large-directories.txt
+MF-syslog.c
+MF-T1574.006.c
+MF-shell.cgi
+MF-AutoSUID.sh
+TF-target.example.c
+MF-alertConfigField.php
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP-echo
+TP-ifconfig
+MP-python
+MF-secret.c
+MF-0*.txt
+MF-bankofamerica.com
+MP-cat
+MP-truncate 
+MP-cat
+MF-at.a
+MP-whoami
+SO-192.168.206.0
+MP-grep
+MP-tail
+MP-cat
+TP-ls
+MF-raw.githubusercontent.c
+SO-192.168.10.128
+MF-httpd.c
+MP-bash
+MF-s.c
+MP-ls
+MF-apache2.c
+TP*-less
+MP-nl
+MP*-grep
+SO-192.168.37.130
+MF-common.txt
+MF-data.zip
+SO-atomic@target.example
+SF-access.txt
+MP-netstat
+TP-nl
+SF-td.c
+MP-cat
+167
+0 1 FR
+0 2 IJ
+1 2 UK
+0 3 IJ
+0 4 FR
+3 4 IJ
+0 5 WR
+3 5 WR
+4 5 EX
+0 6 WR
+3 6 WR
+4 6 WR
+0 7 WR
+3 7 WR
+4 7 RD
+0 8 WR
+3 8 WR
+4 8 WR
+0 9 WR
+3 9 WR
+4 9 WR
+0 10 FR
+3 10 IJ
+4 10 IJ
+10 5 WR
+10 6 WR
+10 7 CD
+10 8 WR
+10 9 EX
+3 11 RD
+4 11 UK
+3 12 UK
+13 10 RF
+10 14 UK
+15 6 RD
+15 8 EX
+15 9 WR
+15 13 ST
+16 15 RF
+17 8 WR
+17 9 EX
+13 17 RF
+15 17 IJ
+17 16 ST
+15 18 WR
+17 18 RD
+13 19 RF
+15 19 UK
+13 20 RF
+20 16 ST
+17 20 IJ
+20 18 WR
+17 21 WR
+20 21 CD
+22 13 ST
+22 16 ST
+17 22 UK
+20 23 WR
+20 24 RD
+20 25 RD
+20 26 WR
+20 27 RD
+20 28 WR
+20 29 WR
+20 30 ST
+31 21 WR
+31 23 WR
+31 24 CD
+31 25 EX
+31 26 EX
+31 27 RD
+31 28 WR
+31 29 WR
+30 31 RF
+32 23 WR
+32 24 RD
+32 25 WR
+32 26 EX
+32 27 RD
+32 28 WR
+32 29 UK
+33 23 RD
+33 24 WR
+33 25 CD
+33 26 RD
+33 27 EX
+33 28 WR
+33 30 ST
+31 34 RD
+33 34 WR
+31 35 WR
+33 35 UK
+31 36 RD
+37 27 WR
+37 28 WR
+37 30 ST
+37 34 RD
+37 36 RD
+38 28 WR
+30 38 RF
+31 38 UK
+30 39 RF
+39 34 EX
+39 36 UK
+37 40 RD
+41 34 WR
+41 40 WR
+37 42 ST
+42 41 RF
+43 34 WR
+43 40 WR
+41 43 UK
+44 34 WR
+37 44 UK
+45 40 WR
+45 42 ST
+46 40 RD
+46 42 ST
+45 46 IJ
+45 47 WR
+46 47 RD
+45 48 ST
+48 46 RF
+45 49 EX
+46 49 UK
+50 40 RD
+42 50 RF
+50 47 WR
+48 50 RF
+45 51 WR
+50 51 EX
+52 42 ST
+45 52 UK
+50 53 WR
+54 47 RD
+48 54 RF
+50 54 IJ
+54 51 WR
+54 53 EX
+55 47 RD
+55 48 ST
+50 55 UK
+56 47 CD
+48 56 RF
+56 51 WR
+56 53 WR
+54 56 IJ
+57 54 RF
+56 57 ST
+54 58 WR
+56 58 WR
+54 59 WR
+56 59 RD
+54 60 ST
+60 56 RF
+54 61 WR
+56 61 WR
+62 53 WR
+54 62 IJ
+56 62 UK
+63 53 UK
+54 64 WR
+57 65 RF
+65 58 RD
+65 59 RD
+60 65 RF
+65 61 UK
+

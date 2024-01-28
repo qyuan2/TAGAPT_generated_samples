@@ -1,0 +1,22 @@
+9
+MP*-ftp
+MP*-tac
+MP-more
+MF-s.c
+MF-e.c
+MP*-less
+MF-resolv.c
+MF-http.c
+MP*-cat
+10
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 RD
+0 5 FR
+5 3 UK
+0 6 WR
+0 7 WR
+8 4 UK
+

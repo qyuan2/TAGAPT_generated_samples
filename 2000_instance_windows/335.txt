@@ -1,0 +1,63 @@
+20
+MP*-ns9318.tmp
+MP-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLED.EXE
+MF-%temp%\sam
+MP-ls
+MP-QUOTATION_AUG7FIBA00541·PDF.scr.exe 
+TP-pcalua.exe
+MP*-ns9C62.tmp
+MP-Psiphon.exe
+TF-.\ExternalPayloads\procdump.exe
+MF-C:\Users\admin\AppData\Local\Temp\B70D
+MF-files\appdata\local\temp\20342.bmp
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+MP-ns9CE0.tmp
+SF-C:\Windows\System32\vdsldr
+TF-C:\Users\admin\AppData\Local\Temp\8cc2d4575163a5e3dc7a56face3644e9.exe
+TP*-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MF-\Users\admin\AppData\Local\Temp\de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+MF-network.m
+SO-1.2.840.113556
+MP*-New Client.exe 
+40
+0 1 FR
+0 2 EX
+1 2 RD
+0 3 UK
+1 4 FR
+4 2 RD
+1 5 IJ
+5 2 RD
+4 5 UK
+6 2 WR
+7 2 CD
+6 8 RD
+7 8 EX
+6 9 WR
+7 9 WR
+6 10 RD
+7 10 EX
+6 11 WR
+7 11 RD
+6 12 FR
+7 12 UK
+6 13 WR
+6 14 WR
+6 15 FR
+15 8 CD
+15 9 EX
+15 10 WR
+15 11 WR
+15 13 WR
+15 14 RD
+6 16 WR
+15 16 WR
+15 17 WR
+18 15 RF
+19 9 WR
+19 10 WR
+19 11 RD
+19 13 RD
+19 14 RD
+15 19 UK
+

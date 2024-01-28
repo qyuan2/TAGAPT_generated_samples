@@ -1,0 +1,86 @@
+22
+MP*-whoami
+MF-bankofamerica.com
+SF-apache2.c
+TF-p.c
+MF-atomic.sh
+MP*-cat
+MP-tail
+SF-apache2.c
+MP-tee
+SO-192.168.206.0
+MP*-awk
+TP-bash
+TF-raft-large-directories.txt
+MP*-ip
+MF-flag4.txt
+TF-at.a
+MF-CleaingScript.sh
+SF-anaconda-ks.cfg
+SF-ufw.c
+SO-192.168.47.134:4444
+SF-image.php
+SF-AutoSUID.sh
+61
+0 1 WR
+0 2 WR
+0 3 WR
+0 4 WR
+0 5 FR
+5 1 RD
+5 2 EX
+5 3 RD
+5 4 WR
+0 6 FR
+6 1 UK
+0 7 RD
+5 7 EX
+0 8 FR
+8 2 RD
+8 3 RD
+8 4 WR
+8 7 WR
+9 0 RF
+9 5 RF
+8 9 ST
+0 10 FR
+10 2 WR
+10 3 UK
+11 2 EX
+11 4 RD
+5 11 IJ
+11 7 WR
+8 11 IJ
+9 11 RF
+5 12 WR
+8 12 WR
+11 12 EX
+13 4 WR
+13 7 RD
+13 9 ST
+11 13 IJ
+13 12 WR
+5 14 RD
+8 14 EX
+11 14 EX
+13 14 WR
+5 15 RD
+8 15 WR
+11 15 WR
+13 15 WR
+8 16 RD
+11 16 WR
+13 16 EX
+8 17 RD
+11 17 RD
+13 17 WR
+8 18 RD
+11 18 WR
+13 18 RD
+11 19 ST
+13 19 ST
+11 20 EX
+13 20 WR
+11 21 WR
+13 21 UK
+

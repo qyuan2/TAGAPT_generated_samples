@@ -1,0 +1,97 @@
+26
+MP*-dd
+MF-inetd.c
+TP*-sed
+MF-secret.c
+MP*-awk
+SF-2017.pl
+TF-ufw.c
+MP*-rev
+SO-192.168.206.136
+MF-http.c
+TP-echo
+TP-dd
+SO-192.168.47.134:4444
+SF-data.zip
+MP-cat
+MP-gobuster
+SO-192.168.10.131
+SF-on.a
+MP-ls
+MP-nl
+TF-test.txt
+TP-dmesg
+MP-ls
+MP-uname
+MP-hash-identifier
+MP-cat
+68
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 FR
+4 1 WR
+2 4 IJ
+4 3 WR
+0 5 EX
+2 5 RD
+4 5 WR
+0 6 WR
+2 6 WR
+4 6 CD
+0 7 FR
+7 1 RD
+2 7 IJ
+7 3 RD
+7 5 RD
+7 6 WR
+8 0 RF
+8 2 RF
+4 8 ST
+7 8 ST
+0 9 CD
+2 9 CD
+4 9 WR
+7 9 RD
+0 10 IJ
+10 1 WR
+2 10 IJ
+10 3 WR
+4 10 UK
+11 1 RD
+2 11 UK
+12 7 RF
+7 13 WR
+14 5 WR
+14 6 WR
+7 14 UK
+15 5 EX
+15 6 WR
+15 8 ST
+15 9 RD
+12 15 RF
+15 13 EX
+16 15 RF
+15 17 UK
+18 8 ST
+18 9 WR
+12 18 RF
+18 13 EX
+16 18 RF
+19 9 UK
+18 20 WR
+21 12 ST
+21 13 WR
+21 16 ST
+18 21 UK
+12 22 RF
+22 13 UK
+16 23 RF
+23 20 RD
+16 24 RF
+24 20 UK
+16 25 RF
+23 25 UK
+

@@ -1,0 +1,78 @@
+20
+MP*-MicrosoftEdgeUpdate.exe 
+MF-www.example.c
+MF-C:\Users\admin\Desktop\pestudio.exe
+TP-softwarelagswitchc.exe 
+MF-\Users\admin\AppData\Local\ZohoMeeting\log\Connect.log
+MP-nsCFA0.tmp
+MF-\Windows\system32\SearchIndexer.exe
+MP-PDQDeployConsole.exe
+TP-regasm.exe
+SF-C:\Users\Public\audiodg.exe
+MF-files\appdata\local\temp\19084.bmp
+MP*-Notepad Soft.exe 
+MP*-pypykatz.py
+SF-C:\Program Files\Common Files\Adobe\ARM\1
+MF-C:\Users\admin\Desktop\scan
+MP*-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLED.EXE
+SF-C:\Users\admin\AppData\Local\Temp\WinRAR
+MF-\Users\admin\AppData\Local\Temp\c9ad9506bcccfaa987ff9fc11b91698d.zip
+MP-aafg31.exe 
+MP-cmdkey.exe
+55
+0 1 RD
+0 2 WR
+0 3 IJ
+3 1 WR
+3 2 RD
+0 4 WR
+3 4 WR
+0 5 FR
+5 1 RD
+5 2 WR
+3 5 UK
+0 6 WR
+0 7 FR
+7 1 RD
+7 2 UK
+0 8 FR
+8 1 WR
+8 4 EX
+8 6 RD
+0 9 EX
+8 9 WR
+0 10 RD
+8 10 WR
+11 1 WR
+11 4 WR
+11 6 RD
+8 11 IJ
+11 9 WR
+11 10 UK
+12 4 WR
+12 6 WR
+8 12 IJ
+12 9 EX
+8 13 WR
+12 13 RD
+8 14 EX
+12 14 RD
+15 6 RD
+8 15 IJ
+15 9 RD
+15 13 RD
+15 14 EX
+8 16 RD
+12 16 EX
+15 16 EX
+8 17 WR
+12 17 WR
+15 17 WR
+8 18 IJ
+18 9 EX
+12 18 UK
+19 9 RD
+19 13 WR
+19 14 RD
+15 19 UK
+

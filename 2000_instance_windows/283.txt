@@ -1,0 +1,159 @@
+42
+MP*-nsCFA0.tmp
+TP-ns9FC4.tmp
+MF-C:\Users\admin\AppData\Local\Temp\G88QGQzA
+MP*-conhost.exe
+MF-\Users\admin\AppData\Local\Temp\Client.pdf
+TF-59051691121733.bat
+SF-C:\Windows\System32\wbem\WMIC
+MF-qwinsta.exe
+MP*-reg.exe
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+MF-C:\Windows\servicing\TrustedInstaller.exe
+MP-ns9FC4.tmp
+MP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+TP-SecuriteInfo.com
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+MP-InstallUtil.exe
+MP-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+SO-http://email.getsailebot.net/c/eJxskL-umzAYR5_GjMh_AQ8MudV1LjRpRGghyWYbE1wZSGNIC09fIXVp1e18n85Zfk0aI9nIJjApijihSUw4DLpUtxAaEnEIMUSS60SzKFKYIk11Ekc8sCmGmMCEIEQgZzBMGq1Ya2JKcUJNiwGFdzN5aZ1R4xQOZgpc2k3TwwOyA1gALObBz8rrp1Um_McFWDTGWb9Buf09wEIOQ7hZgELXhXrsQzkDLDCjmMZJsiGiFDGAhVlyaC47e7L55woV9vAp79Reb3f2bc3QF5vz0Cz52Hycf-p1fB1w12lSLdeSPdTCfzSkeF3xr07WaM2-P-JsuE9yL9bmkneHWni15-RWF5Puub9djvbkvL3W7KUGNylSrZmD_u_m7G69QOrjT1NmUdaLWWHGVM2RXnLeFuFSVxfz9jy158q_Dbv-aK0pSCvcrpSa32_L-1d-r0vH38fgmf5vkN8BAAD__0tnlWU
+TP*-MicrosoftEdgeUpdate.exe 
+SF-C:\Users\admin\AppData\Local\Temp\tmp28A8
+SF-C:\Windows\SysWOW64\cmd
+MF-C:\Users\admin\Desktop\authroot
+TF-C:\Users\admin\bebulnhx.exe
+MP-aafg31.exe 
+MF-C:\Users\admin\AppData\Local\Temp\6248.exe
+MF-C:\Windows\system32\icacls.exe
+MF-C:\Windows\System32\cmd
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037.pdf
+MF-C:\Users\admin\AppData\Local\Temp\Untitled
+TP-InstallUtil.exe
+MP-ns9423.tmp 
+MF-\Users\admin\AppData\Local\Temp\92132ec45279423b79399f74c5dc0a6d1009261c0dfefad17523e53e9ff8ae15.exe
+MP-nslookup.exe
+MF-C:\Users\admin\AppData\Local\Temp\Rar
+SO-http://gc2siv9geletsu4.orgweave.com/bXRpQG10aS5odQ
+SF-C:\Windows\Microsoft
+MP-WerFault.exe
+MF-yiueea.exe
+SO-http://fbi.fund/dark.exe
+TF-%temp%\T1222.001_cacls 
+MF-C:\Users\admin\AppData\Local\Temp\G88QGQzA.htm
+MP-Client.exe 
+114
+0 1 IJ
+0 2 WR
+1 2 WR
+0 3 FR
+1 3 IJ
+3 2 WR
+0 4 RD
+1 4 RD
+3 4 WR
+0 5 RD
+1 5 EX
+3 5 WR
+0 6 WR
+1 6 UK
+0 7 RD
+3 7 WR
+0 8 FR
+8 2 RD
+8 4 WR
+8 5 WR
+8 7 EX
+0 9 ST
+9 3 RF
+8 9 ST
+0 10 CD
+3 10 WR
+8 10 UK
+11 2 WR
+11 4 RD
+11 5 UK
+12 2 WR
+12 4 WR
+12 7 WR
+9 12 RF
+3 13 FR
+13 4 RD
+13 7 WR
+9 13 RF
+12 13 IJ
+12 14 WR
+13 14 RD
+15 7 WR
+15 9 ST
+12 15 UK
+16 7 EX
+9 16 RF
+13 16 IJ
+16 14 RD
+13 17 ST
+16 17 ST
+18 9 ST
+13 18 IJ
+18 14 WR
+16 18 IJ
+17 18 RF
+13 19 WR
+16 19 WR
+18 19 WR
+13 20 WR
+16 20 RD
+18 20 WR
+13 21 RD
+16 21 RD
+18 21 EX
+13 22 RD
+16 22 UK
+13 23 IJ
+23 14 WR
+23 17 ST
+18 23 IJ
+23 19 UK
+18 24 WR
+18 25 WR
+18 26 WR
+18 27 WR
+18 28 EX
+29 20 RD
+29 21 EX
+29 24 WR
+29 25 RD
+29 26 WR
+29 27 WR
+29 28 WR
+30 20 WR
+30 21 WR
+30 24 EX
+30 25 WR
+30 26 WR
+30 27 RD
+30 28 UK
+29 31 WR
+32 24 WR
+32 25 RD
+32 26 RD
+32 27 EX
+29 32 IJ
+32 31 WR
+29 33 WR
+32 33 WR
+29 34 ST
+32 34 ST
+29 35 WR
+32 35 RD
+36 26 WR
+36 27 RD
+29 36 UK
+32 37 EX
+32 38 ST
+32 39 WR
+32 40 WR
+32 41 FR
+41 33 WR
+34 41 RF
+41 35 UK
+

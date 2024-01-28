@@ -1,0 +1,74 @@
+20
+MP*-ls
+MP*-find
+SO-192.168.159.128
+MP*-cat
+MF-LinEnum.sh
+TF-T1070.006-modification.txt
+MP-ls
+MF-da-ks.cfg
+MF-resolv.c
+MF-T1070.006-reference.txt
+MP-id
+TP-ftp
+MP*-sed
+MF-f.r
+SF-logrotate.c
+MF-at.a
+MF-subprocess.c
+MF-T1070.006-reference.txt
+MP-grep
+TP-sed
+51
+0 1 FR
+2 0 RF
+1 2 ST
+0 3 FR
+3 2 ST
+0 4 WR
+1 4 RD
+3 4 WR
+0 5 CD
+1 5 RD
+3 5 WR
+0 6 UK
+1 7 WR
+3 7 WR
+1 8 RD
+3 8 WR
+1 9 CD
+3 9 CD
+1 10 FR
+2 10 RF
+3 10 UK
+1 11 IJ
+11 2 ST
+11 4 WR
+11 5 WR
+11 7 EX
+11 8 EX
+11 9 WR
+12 2 ST
+12 4 EX
+12 5 WR
+12 7 WR
+12 8 WR
+12 9 WR
+11 12 IJ
+11 13 WR
+12 13 WR
+11 14 WR
+12 14 RD
+11 15 RD
+12 15 WR
+11 16 EX
+12 16 RD
+11 17 EX
+12 17 RD
+18 8 WR
+18 9 WR
+11 18 IJ
+12 18 UK
+19 9 WR
+11 19 UK
+

@@ -1,0 +1,53 @@
+14
+MP*-less
+MF-on.a
+MF-1.zip
+MF-passwd.zip
+TP-wget 
+MF-v.c
+TF-at.a
+TP*-uname
+SF-da-ks.cfg
+MF-common.txt
+TP-ls
+MP*-grep
+MF-user.r
+MP*-awk
+36
+0 1 EX
+0 2 CD
+0 3 EX
+0 4 IJ
+4 1 WR
+4 2 EX
+4 3 CD
+0 5 WR
+4 5 EX
+0 6 EX
+4 6 RD
+0 7 IJ
+7 1 EX
+7 2 EX
+7 3 EX
+4 7 IJ
+7 5 UK
+0 8 WR
+4 8 WR
+0 9 WR
+4 9 CD
+0 10 UK
+11 1 RD
+11 2 WR
+11 3 EX
+4 11 IJ
+11 6 RD
+11 8 WR
+11 9 WR
+4 12 WR
+11 12 EX
+4 13 FR
+13 6 WR
+13 8 WR
+13 9 WR
+11 13 UK
+

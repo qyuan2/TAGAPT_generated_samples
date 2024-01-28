@@ -1,0 +1,33 @@
+11
+MP*-RegAsm.exe 
+MP*-DllHost.exe
+TP-rundll32.exe 
+MP*-msbuild.exe
+SF-C:\Windows\system32\wbengine
+MF-C:\Program Files\CCleaner\CCleanerBugReport
+MF-.\ExternalPayloads\T1059_003note.txt
+TF-icacls.exe
+MP*-cronos.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+19
+0 1 FR
+0 2 IJ
+1 2 IJ
+0 3 FR
+2 3 IJ
+0 4 UK
+1 5 RD
+2 5 RD
+3 5 UK
+1 6 WR
+2 6 EX
+1 7 WR
+2 7 CD
+1 8 FR
+2 8 IJ
+8 6 UK
+1 9 ST
+2 9 ST
+2 10 ST
+

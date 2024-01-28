@@ -1,0 +1,47 @@
+15
+MP*-cat
+MF-common.txt
+MF-journald.c
+TP-vi
+TP*-uname
+TF-1.zip
+MF-log.c
+TP*-awk
+MP*-grep
+TF-lv.c
+MP-uname
+MF-kl.ps1
+MF-on.a
+MF-0*.txt
+MP-dd
+29
+0 1 WR
+0 2 WR
+0 3 IJ
+3 1 UK
+0 4 IJ
+4 2 WR
+0 5 EX
+4 5 RD
+0 6 WR
+4 6 UK
+0 7 FR
+7 2 WR
+7 5 WR
+0 8 FR
+8 2 WR
+8 5 RD
+7 8 IJ
+0 9 RD
+7 9 EX
+8 9 EX
+0 10 UK
+7 11 WR
+8 11 RD
+7 12 WR
+8 12 RD
+7 13 RD
+8 13 UK
+14 5 WR
+7 14 UK
+

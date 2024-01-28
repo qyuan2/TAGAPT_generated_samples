@@ -1,0 +1,58 @@
+17
+MP-BFB9.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+MP*-hh.exe
+SF-C:\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b
+TP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MF-\Users\admin\AppData\Local\Temp\SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe
+MP*-runas.exe
+MP*-taskmgr.exe
+MP*-jojo11.exe 
+TP-nsBC6C.tmp
+SO-8.100.0.203
+SF-C:\Program Files\Google\Chrome\Application\chrome.exe
+TP-rundll32.exe 
+MF-C:\Users\admin\AppData\Roaming\skmt
+TF-\Windows\System32X86\windowspowershell\v1.0\powershell.exe
+TF-\Users\admin\AppData\Local\Temp\skmt-bankinter-003-03588993232059560257100458.jar
+SF-C:\Users\admin\AppData\Local\Temp\tb
+38
+1 0 RF
+0 2 FR
+2 1 ST
+0 3 EX
+2 3 WR
+0 4 UK
+2 5 EX
+6 1 ST
+6 3 RD
+6 5 WR
+7 1 ST
+7 3 EX
+7 5 RD
+1 8 RF
+8 3 CD
+8 5 WR
+7 8 UK
+9 1 ST
+2 9 IJ
+9 3 WR
+9 5 UK
+10 2 RF
+6 10 ST
+2 11 WR
+6 11 WR
+2 12 FR
+12 3 WR
+6 12 IJ
+12 10 ST
+12 11 RD
+6 13 WR
+12 13 WR
+6 14 EX
+12 14 WR
+6 15 WR
+12 15 WR
+6 16 RD
+12 16 UK
+

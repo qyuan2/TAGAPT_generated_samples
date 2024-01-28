@@ -1,0 +1,56 @@
+17
+MP*-rm
+TF-www.google.c
+MP*-head
+MF-chttp.c
+MP-cat
+TP*-cat
+MP-less
+MF-password-hash.sh
+SF-td.c
+MF-test.txt
+MP-head
+MF-resolv.c
+SF-T1027-004-test.c
+MP*-grep
+SF-CleaingScript.sh
+SF-2017.pl
+TP-tail
+36
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 RD
+0 4 FR
+4 1 EX
+2 4 UK
+0 5 IJ
+5 1 WR
+5 3 RD
+0 6 FR
+6 1 EX
+6 3 RD
+5 6 IJ
+0 7 WR
+5 7 WR
+6 7 EX
+0 8 RD
+5 8 WR
+6 8 WR
+0 9 WR
+5 9 RD
+6 9 WR
+0 10 FR
+10 1 RD
+10 3 RD
+5 10 UK
+6 11 WR
+6 12 RD
+6 13 FR
+13 7 WR
+13 8 UK
+6 14 WR
+6 15 WR
+16 7 UK
+

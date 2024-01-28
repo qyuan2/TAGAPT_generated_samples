@@ -1,0 +1,70 @@
+17
+MP*-csc.exe
+SF-C:\Program Files\Microsoft\Skype for Desktop\resources\app
+MF-C:\Users\admin\AppData\Local\Temp\Enquiry
+MF-C:\Users\User\30802.ico
+TP-FISCALIA GENERAL DE LA NACION --.exe 
+SO-https://filetransfer.io/data-package/UR2whuBv/download
+MP*-notepad++.exe
+MP-cmdkey.exe
+MF-features.xml
+MF-C:\Users\admin\AppData\Local\Temp\7423F88C7F265F0DEFC08EA88C3BDE45_AA1E8580D4EBC816148CE81268683776
+MF-\Windows\Temp\xordump.exe
+MP*-Navicat_Keygen_Patch_v3.7.exe 
+TP*-sysmon.exe
+MF-C:\windows\system32\cmd
+MF-C:\Users\admin\AppData\Local\Temp\TagGen
+MP-601f2b22a16a96c9ddaae24e2c5611f2.exe 
+MP-IBM_LINUX.exe 
+50
+0 1 WR
+0 2 EX
+0 3 RD
+0 4 FR
+4 1 RD
+4 2 WR
+4 3 CD
+0 5 ST
+5 4 RF
+6 1 WR
+6 2 RD
+6 3 RD
+4 6 IJ
+6 5 ST
+7 1 RD
+7 2 RD
+7 3 WR
+4 7 IJ
+5 7 RF
+6 7 UK
+4 8 WR
+4 9 WR
+4 10 WR
+11 2 WR
+11 3 WR
+4 11 IJ
+5 11 RF
+11 8 WR
+11 9 RD
+11 10 RD
+12 3 WR
+4 12 IJ
+5 12 RF
+12 8 WR
+12 9 WR
+12 10 WR
+11 12 IJ
+4 13 WR
+11 13 EX
+12 13 RD
+11 14 RD
+12 14 RD
+15 8 WR
+15 9 WR
+15 10 RD
+12 15 UK
+16 8 WR
+16 9 WR
+16 10 EX
+16 13 UK
+

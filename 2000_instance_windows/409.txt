@@ -1,0 +1,99 @@
+30
+MP*-chrome.exe
+MF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64.dll
+MF-C:\Users\admin\Downloads\MDE_File_Sample_bc548dd6003002ec5d288b30d1802e3bb6bcbfde4d8d8a40fc7fb5a9e21a3c09.zip
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+TP-MicrosoftEdgeUpdate.exe 
+MP-PO 345678.exe 
+TP-X_Net_Windows.exe
+TF-C:\Users\admin\AppData\Local\Temp\PO-465514-180820.doc
+MF-class.malware.r
+MF-\Users\admin\AppData\Local\Temp\6248.exe
+MP-c9923098.exe
+MF-\Users\admin\AppData\Local\Temp\aafg31.exe
+MF-C:\Users\admin\AppData\Local\Temp\yapars.zip
+MF-C:\Users\admin\AppData\Local\Temp\renamer
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsCA5C.tmp
+TF-C:\Users\admin\AppData\Local\Temp\ODA
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+MP*-FrequencyMeasurement.exe
+MP-file.exe
+MF-\Windows\system32\wbengine.exe
+TP*-damianoh68951.exe
+TP*-Reg.exe
+MF-\CrackMapExecWin\crackmapexec.exe
+SF-C:\Windows\System32\DriverStore\Temp\{6753451b-a3ac-5042-907b-cb40285f5141}\Hantek2D42.c
+SF-C:\Users\admin\Desktop\a9e97eccd4c69c03313c425a6713103bbe256c4d888b02f6d4b2a46d090504b7.doc
+MF-C:\Users\admin\bebulnhx.exe
+SO-https://meta.ua/';$nwc.headers['Sec-Fetch-Dest']='document';$nwc.headers['Sec-Fetch-Mode']='no-cors';$nwc.headers['Sec-Fetch-Site']='cross-site';$nwc.headers['TE']='trailers';$nwc.headers['User-Agent']='Mozilla/5.0
+SO-https://clients2.google.com/cr/report
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MP-vds.exe
+66
+0 1 WR
+0 2 EX
+3 0 RF
+0 4 FR
+4 1 WR
+4 2 UK
+0 5 FR
+5 1 RD
+5 3 ST
+0 6 IJ
+6 1 UK
+0 7 RD
+5 7 WR
+0 8 RD
+5 8 RD
+0 9 WR
+5 9 UK
+3 10 RF
+10 7 WR
+10 8 RD
+10 11 EX
+10 12 RD
+10 13 WR
+10 14 WR
+10 15 WR
+10 16 ST
+17 7 RD
+17 8 CD
+17 11 RD
+17 12 EX
+17 13 RD
+17 14 EX
+17 15 RD
+17 16 ST
+18 8 EX
+10 18 UK
+17 19 WR
+20 11 RD
+20 12 WR
+20 13 RD
+20 14 WR
+20 15 WR
+16 20 RF
+17 20 IJ
+20 19 WR
+21 11 EX
+21 12 WR
+21 13 WR
+21 14 RD
+21 15 WR
+21 16 ST
+17 21 IJ
+21 19 WR
+20 21 IJ
+17 22 WR
+20 22 UK
+17 23 RD
+21 23 RD
+17 24 RD
+21 24 WR
+17 25 RD
+21 25 WR
+26 21 RF
+27 21 RF
+28 21 RF
+21 29 UK
+

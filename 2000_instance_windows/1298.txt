@@ -1,0 +1,78 @@
+21
+MP*-sed
+SO-192.168.10.129
+MF-sysctl.c
+TP-nl
+MP-rev
+SO-192.168.2.102
+MP-grep
+SO-192.168.10.128
+MP-bash
+MP*-sh
+MF-2017.pl
+MP*-cp
+MF-e2.c
+MP-less
+MP-uname
+MP*-bash
+MF-secret.c
+MF-secret.c
+TF-T1574.006.c
+MF-syslog.c
+MP-less
+54
+0 1 ST
+0 2 CD
+0 3 IJ
+1 3 RF
+3 2 RD
+0 4 FR
+4 1 ST
+4 2 WR
+3 4 IJ
+5 0 RF
+5 3 RF
+5 4 RF
+0 6 FR
+1 6 RF
+6 2 EX
+3 6 IJ
+4 6 UK
+0 7 ST
+7 3 RF
+0 8 UK
+1 9 RF
+9 2 WR
+3 9 IJ
+5 9 RF
+9 7 ST
+3 10 WR
+9 10 WR
+1 11 RF
+11 2 WR
+3 11 IJ
+5 11 RF
+11 7 ST
+11 10 UK
+3 12 EX
+9 12 EX
+3 13 IJ
+13 5 ST
+7 13 RF
+9 13 UK
+14 5 ST
+14 7 ST
+14 12 RD
+5 15 RF
+7 15 RF
+15 12 EX
+14 16 RD
+15 16 WR
+14 17 WR
+15 17 WR
+14 18 RD
+15 18 UK
+14 19 WR
+20 12 WR
+14 20 UK
+

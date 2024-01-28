@@ -1,0 +1,78 @@
+21
+MP*-find
+MF-ron.a
+MP-cat
+MP*-ls
+SO-192.168.10.131
+MF-pwquality.c
+MP-nmap
+TP-find
+MP-netstat
+MF-flag3.txt
+MF-v.c
+MF-at.a
+MP*-cat
+MP-sed
+TF-pwquality.c
+MF-apache2.c
+SO-192.168.10.128
+TF-v.c
+MP*-more
+MF-ufw.log
+MP-systemd
+54
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 CD
+0 4 ST
+4 2 RF
+4 3 RF
+0 5 WR
+2 5 RD
+3 5 EX
+0 6 FR
+6 1 WR
+2 6 UK
+0 7 IJ
+7 1 WR
+3 7 IJ
+7 4 ST
+7 5 WR
+0 8 FR
+8 1 WR
+8 4 ST
+8 5 UK
+0 9 WR
+3 9 CD
+7 9 WR
+0 10 EX
+3 10 EX
+7 10 RD
+3 11 EX
+7 11 WR
+3 12 FR
+4 12 RF
+7 12 IJ
+12 9 EX
+12 10 UK
+3 13 UK
+7 14 EX
+7 15 WR
+7 16 ST
+7 17 WR
+18 9 WR
+18 11 CD
+18 14 RD
+18 15 RD
+18 16 ST
+18 17 RD
+18 19 RD
+20 11 WR
+20 14 RD
+20 15 WR
+20 16 ST
+20 17 RD
+18 20 UK
+

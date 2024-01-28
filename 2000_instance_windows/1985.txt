@@ -1,0 +1,29 @@
+11
+MP*-EvaPKO
+MF-\Windows\System32\notepad.exe
+MP-ns9F46.tmp
+MP-Ayuaey.exe 
+MF-\Users\admin\AppData\Local\Temp\DOC77412.jpg
+MF-asset_store.m
+MP*-df1f94243f99b25fea44d17750d24d04.exe 
+TP*-appcmd.exe
+TP*-Notepad.exe
+MP-Explorer.EXE
+MF-get.php
+15
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 UK
+2 4 RD
+2 5 WR
+6 1 EX
+2 6 UK
+7 1 EX
+7 4 RD
+7 5 UK
+8 1 EX
+8 4 WR
+9 1 UK
+8 10 UK
+

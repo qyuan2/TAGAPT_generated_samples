@@ -1,0 +1,128 @@
+35
+MP*-svchost.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/UsoDLL/Get-UsoClientDLLSystem.ps1
+SF-C:\Program Files\FileZilla FTP Client\filezilla.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9423.tmp
+MF-\Browserweb\FDQYsaUiAqx3IM0zyQT.vb
+MF-C:\Windows\SysWow64\regsvr32
+MP-Reg.exe
+SF-C:\Users\admin\AppData\Local\Temp\Outstanding
+TF-C:\Users\admin\AppData\Local\Temp\C3B1.exe
+TP-T1027.exe
+MP-rundll32.exe 
+TP-Explorer.EXE
+MP-MSBuild.exe
+MP*-softwarelagswitchc.exe 
+MF-Request.pdf
+MF-C:\Users\admin\AppData\Local\Temp\_vnw
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+TF-files\appdata\local\temp\5491.bmp.vb
+MF-RemoteCertTrust.ps1
+MF-C:\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023.pdf
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+TP-NOTEPAD.EXE
+MP-system_file.exe 
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+MP*-nsA12F.tmp
+TP-dsquery.exe
+TF-C:\Windows\system32\mmc
+MP-ns9AE8.tmp
+MF-\Users\Public\coinmarketcap\imcq.ps1
+TP-02867fa8b443043ec0fe6af211c852aa.exe 
+MP*-bfsvc.exe
+SF-C:\Recovery\345b46fe-a9f9-11e7-a83c-e8a4f72b1d33\IMEDICTUPDATE.exe
+MF-\Users\admin\AppData\Local\Temp\EasyValorant.exe
+MF-C:\Users\admin\AppData\Roaming\SysInfoTool\data
+MP-server.exe 
+90
+0 1 ST
+0 2 EX
+0 3 CD
+0 4 RD
+0 5 WR
+0 6 FR
+1 6 RF
+6 2 EX
+6 3 CD
+6 4 RD
+6 5 RD
+0 7 UK
+6 8 EX
+1 9 RF
+9 2 WR
+9 3 RD
+9 4 EX
+9 5 WR
+6 9 UK
+10 1 ST
+10 2 WR
+10 3 WR
+10 4 WR
+10 5 WR
+10 8 WR
+11 1 ST
+11 2 WR
+11 3 RD
+11 4 WR
+11 5 WR
+11 8 RD
+10 11 UK
+12 2 WR
+12 3 UK
+13 4 RD
+13 5 WR
+13 8 WR
+13 14 WR
+13 15 WR
+16 13 RF
+13 17 WR
+13 18 WR
+13 19 RD
+20 13 RF
+13 21 IJ
+21 14 WR
+21 15 EX
+21 16 ST
+21 17 WR
+21 18 UK
+13 22 FR
+22 14 WR
+22 15 RD
+22 16 ST
+22 17 RD
+22 19 CD
+22 20 ST
+23 13 RF
+22 23 ST
+24 14 WR
+24 15 RD
+16 24 RF
+24 17 CD
+24 19 WR
+20 24 RF
+22 24 UK
+25 15 WR
+25 16 ST
+25 17 EX
+25 19 RD
+25 20 ST
+23 25 RF
+25 26 UK
+27 17 RD
+27 19 RD
+20 27 RF
+23 27 RF
+27 28 RD
+29 19 WR
+29 20 ST
+23 29 RF
+27 29 UK
+30 20 ST
+23 30 RF
+30 28 RD
+30 31 WR
+30 32 WR
+30 33 WR
+34 28 WR
+30 34 UK
+

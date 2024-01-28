@@ -1,0 +1,43 @@
+12
+MP*-file.exe 
+MP-cronos.exe
+MP-vssadmin.exe
+TF-C:\Users\admin\AppData\Local\Temp\New
+MF-\Windows\system32\cmd.exe
+MP*-Reg.exe
+SO-https://www.youtube.com/@Omnidev_
+SO-https://www.bing.com/ck/a?!&&p=1072ef56d1d616adJmltdHM9MTY4ODk0NzIwMCZpZ3VpZD0xZWZiYjU5Yi1jNjViLTYyNmYtMTYxZC1hNmI5YzI1YjZjZmYmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=1efbb59b-c65b-626f-161d-a6b9c25b6cff&psq=blackbyte+ransomware+iocs&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zZWN1cml0eS9ibG9nLzIwMjMvMDcvMDYvdGhlLWZpdmUtZGF5LWpvYi1hLWJsYWNrYnl0ZS1yYW5zb213YXJlLWludHJ1c2lvbi1jYXNlLXN0dWR5Lw&ntb=1
+MP*-tasklist.exe
+TP*-ns9FC4.tmp
+TP-SSLplus.exe
+MP-msxsl.exe
+28
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 WR
+0 5 FR
+5 3 WR
+5 4 WR
+6 0 RF
+6 5 RF
+7 0 RF
+7 5 RF
+0 8 FR
+8 3 RD
+8 4 RD
+5 8 UK
+0 9 FR
+9 3 CD
+9 4 RD
+6 9 RF
+9 7 ST
+0 10 FR
+10 3 EX
+10 4 UK
+11 3 EX
+6 11 RF
+11 7 ST
+9 11 UK
+

@@ -1,0 +1,47 @@
+13
+MP*-poweroff
+TP*-sed
+TF-access.htm
+MF-sysctl.c
+MF-p.c
+TF-sysctl.c
+SO-http://192.168.0.134/passwd
+MP-sed
+MF-T1574.006.c
+MP*-netstat
+SF-T1003.008.txt
+SF-T1003.008.txt
+MP*-tail
+31
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 RD
+1 3 WR
+0 4 WR
+1 4 WR
+0 5 CD
+1 5 EX
+0 6 ST
+1 6 ST
+0 7 FR
+1 7 UK
+0 8 WR
+0 9 FR
+9 2 WR
+9 3 WR
+9 4 EX
+9 5 WR
+9 6 ST
+9 8 WR
+0 10 WR
+9 10 EX
+9 11 WR
+12 2 WR
+12 3 RD
+12 4 RD
+12 5 RD
+12 6 ST
+12 8 RD
+9 12 UK
+

@@ -1,0 +1,54 @@
+18
+MP*-tcpdump 
+TF-td.c
+MF-atomic.sh
+SO-atomic@target.example
+MP*-ip
+MF-AutoSUID.sh
+MF-target.example.c
+MF-user.r
+MP*-cat
+SF-2017.pl
+TP*-systemctl
+MF-resolv.c
+SF-sysctl.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MF-e2.c
+MF-raj.txt
+MF-sysctl.c
+TP-cat
+33
+0 1 RD
+0 2 WR
+3 0 RF
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 ST
+0 5 WR
+4 5 RD
+0 6 EX
+4 6 RD
+0 7 EX
+4 7 CD
+0 8 FR
+8 1 WR
+8 2 RD
+3 8 RF
+4 8 UK
+0 9 UK
+10 1 CD
+10 2 RD
+10 3 ST
+10 5 WR
+10 6 RD
+10 7 RD
+10 11 RD
+10 12 WR
+10 13 ST
+10 14 WR
+10 15 WR
+10 16 RD
+17 7 WR
+10 17 UK
+

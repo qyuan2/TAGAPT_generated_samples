@@ -1,0 +1,54 @@
+17
+MP*-bash
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-echo-art-fish.sh
+SF-Discovery.sh
+SO-atomic@target.example
+MP-sudo
+MP*-bash
+SO-192.168.10.133
+TF-logrotate.c
+MP*-sed
+MP*-sudo
+SF-lighttp.c
+TF-1.txt
+MP-ls
+TF-da-ks.cfg
+SF-sysctl.c
+MP-ifconfig
+34
+0 1 ST
+0 2 WR
+0 3 WR
+4 0 RF
+0 5 UK
+6 1 ST
+6 2 RD
+6 3 RD
+6 4 ST
+7 6 RF
+6 8 WR
+9 1 ST
+9 2 WR
+9 3 WR
+9 4 ST
+7 9 RF
+9 8 WR
+1 10 RF
+10 2 RD
+10 3 WR
+4 10 RF
+6 10 UK
+9 11 WR
+9 12 RD
+13 3 WR
+13 4 ST
+7 13 RF
+13 8 EX
+13 11 UK
+9 14 EX
+9 15 EX
+16 7 ST
+16 8 WR
+9 16 UK
+

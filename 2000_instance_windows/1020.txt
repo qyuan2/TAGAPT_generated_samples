@@ -1,0 +1,62 @@
+16
+MP*-OlympicDestroyer.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037.pdf
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1218.007/bin/T1218.007_JScript.msi
+TP*-powercfg.exe
+SO-https://github.com/redcanaryco/atomic-red-team/raw/master/atomics/T1553.004/src/RemoteCertTrust.ps1
+MF-C:\Program Files\Internet Explorer\iexplore
+MF-C:\Program Files\Windows Photo Viewer\PhotoViewer
+MP-Curl.exe
+MF-C:\Windows\system32\certutil
+TP-schtasks.exe 
+MF-111861692783686.bat
+MP*-RegAsm.exe
+MF-C:\Users\admin\Desktop\shun2463
+MP-radmin scanner.exe 
+MP*-v4130410.exe 
+MP-468C.exe
+43
+0 1 EX
+0 2 ST
+0 3 FR
+3 1 CD
+3 2 ST
+0 4 ST
+4 3 RF
+0 5 EX
+3 5 RD
+0 6 WR
+3 6 WR
+0 7 FR
+7 1 UK
+0 8 WR
+3 8 WR
+0 9 IJ
+9 2 ST
+3 9 UK
+0 10 EX
+11 2 ST
+4 11 RF
+11 5 WR
+11 6 RD
+11 8 WR
+11 10 RD
+11 12 RD
+13 4 ST
+13 5 WR
+13 6 RD
+13 8 RD
+13 10 EX
+11 13 UK
+14 4 ST
+14 5 RD
+14 6 EX
+14 8 RD
+14 10 RD
+14 12 RD
+15 6 WR
+15 8 EX
+15 10 WR
+15 12 WR
+14 15 UK
+

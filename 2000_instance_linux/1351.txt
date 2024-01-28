@@ -1,0 +1,62 @@
+19
+MP*-nmap
+TF-flag3.txt
+TP*-head
+SF-sysctl.c
+SF-sysctl.c
+MF-T1027-004-test.c
+TP-rev
+MF-settings.php
+MF-httpd.c
+TF-sysctl.c
+MP-dd
+SO-192.168.0.134
+MP*-sh
+MF-cron.m
+MP*-finger
+MF-T1003.008.txt
+MF-T1003.008.txt
+SF-backsup.sh
+SF-resolv.c
+40
+0 1 WR
+0 2 IJ
+2 1 WR
+0 3 EX
+2 3 UK
+0 4 WR
+0 5 RD
+0 6 FR
+6 1 RD
+6 4 RD
+6 5 RD
+0 7 WR
+6 7 WR
+0 8 WR
+6 8 EX
+0 9 RD
+6 9 CD
+0 10 UK
+6 11 ST
+12 4 RD
+12 5 EX
+6 12 IJ
+12 7 RD
+12 8 EX
+12 9 WR
+12 11 ST
+6 13 RD
+12 13 WR
+14 4 RD
+14 5 WR
+6 14 IJ
+14 7 WR
+14 8 EX
+14 9 UK
+6 15 EX
+12 15 WR
+6 16 WR
+12 16 RD
+12 17 RD
+12 18 UK
+

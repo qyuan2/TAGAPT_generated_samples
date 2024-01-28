@@ -1,0 +1,39 @@
+11
+MP*-cat
+TF-art.sh
+MF-Discovery.sh
+MF-anaconda-ks.cfg
+TP*-less
+MF-echo-art-fish.sh
+MF-art.sh
+MP*-tee
+TF-alertConfigField.php
+MP*-grep
+MP-cat
+25
+0 1 EX
+0 2 WR
+0 3 EX
+0 4 IJ
+4 1 RD
+4 2 WR
+4 3 EX
+0 5 WR
+4 5 EX
+0 6 RD
+4 6 UK
+0 7 FR
+7 1 WR
+7 2 RD
+7 3 RD
+7 5 WR
+0 8 RD
+7 8 RD
+0 9 FR
+9 1 RD
+9 2 RD
+9 3 EX
+9 5 RD
+7 9 UK
+0 10 UK
+

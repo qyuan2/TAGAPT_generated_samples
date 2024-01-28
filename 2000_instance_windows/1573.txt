@@ -1,0 +1,119 @@
+34
+MP*-KMSpico_setup.exe
+SF-C:\Users\All Users\smss
+MF-C:\Windows\System32\cmd.exe
+MF-\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6.zip
+TP*-ma grosse bite.exe 
+MF-C:\Users\admin\AppData\Local\Temp\finance
+TP-nbtstat.exe
+MF-C:\Users\admin\AppData\Local\Temp\FicheroAnalsis1.rar
+MP-explorer.exe
+MF-C:\Users\admin\Desktop\WinAPIOverride
+MF-%USERPROFILE%\T1560.001
+SF-C:\Windows\system32\taskmgr.exe
+MF-\WINDOWS\system32\scrobj.dll
+MF-C:\Users\admin\AppData\Local\Temp\w2wwpl2p.cmd
+MF-C:\Users\admin\Desktop\NikkiBeach Project ADS\Nikki
+TP-msiexec.exe
+TP*-netsh.exe
+SF-C:\Windows\system32\shell32.dll
+MF-\Users\admin\AppData\Local\Temp\tmp28A8.tmp
+TP-xordump.exe 
+MP-Notepad Soft.exe 
+TP-ns9B66.tmp 
+TP-default-browser-agent.exe
+MP*-rundll32.exe 
+MF-\Users\admin\AppData\Local\Temp\5EAD.exe
+TF-\Users\admin\AppData\Local\Temp\000001.tmp
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9423.tmp
+TF-C:\Windows\System32\vdsldr
+TP-schtasks.exe 
+MP-ntvdm.exe
+MF-C:\Users\admin\AppData\Local\Temp\IMPORTANTE
+MP-AutoPico.exe
+TF-C:\Users\admin\AppData\Local\Temp\444444.png
+SF-C:\Users\admin\AppData\Local\Temp\Dieselmotorers.exe
+82
+0 1 CD
+0 2 WR
+0 3 WR
+0 4 FR
+4 1 WR
+4 2 EX
+4 3 RD
+0 5 RD
+4 5 CD
+0 6 FR
+6 1 EX
+6 2 WR
+6 3 WR
+4 6 IJ
+6 5 WR
+0 7 WR
+4 7 RD
+6 7 RD
+0 8 FR
+8 1 WR
+8 2 WR
+8 3 WR
+4 8 IJ
+8 5 WR
+6 8 UK
+0 9 WR
+4 9 WR
+0 10 RD
+4 10 RD
+4 11 RD
+4 12 WR
+4 13 RD
+4 14 CD
+15 5 CD
+15 7 RD
+15 9 WR
+15 10 CD
+15 11 RD
+15 12 WR
+15 13 UK
+16 7 WR
+16 9 WR
+16 10 WR
+16 11 WR
+16 12 RD
+16 14 WR
+16 17 CD
+16 18 WR
+19 9 WR
+19 10 WR
+19 11 UK
+20 10 WR
+20 12 WR
+20 14 RD
+16 20 IJ
+20 17 EX
+20 18 RD
+21 12 UK
+22 14 WR
+16 22 IJ
+22 17 RD
+22 18 EX
+20 22 UK
+23 14 WR
+16 23 IJ
+23 17 EX
+23 18 WR
+16 24 RD
+23 24 WR
+16 25 UK
+23 26 RD
+23 27 RD
+28 18 UK
+23 29 FR
+29 24 WR
+29 26 UK
+23 30 WR
+23 31 FR
+31 24 WR
+31 27 UK
+23 32 RD
+23 33 RD
+

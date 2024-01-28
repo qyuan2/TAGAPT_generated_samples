@@ -1,0 +1,88 @@
+26
+MP*-tee
+SF-alertConfigField.php
+SF-e.c
+TP-sed
+MF-ret.c
+MP-tail
+SF-cron.a
+MF-syslog.c
+MF-T1003.008.txt
+MP*-nl
+MF-1.txt
+SO-http://192.168.10.128/shell.cgi
+SF-Discovery.sh
+SF-e.c
+MF-p.c
+MP-tee
+SF-resolv.c
+MP-less
+MP*-nl
+MF-target.example.c
+MF-echo-art-fish.sh
+MP-ls
+MP*-grep
+TF-access.htm
+MP-more
+MP-cat
+59
+0 1 RD
+0 2 WR
+0 3 IJ
+3 1 WR
+3 2 WR
+0 4 RD
+3 4 RD
+0 5 FR
+5 1 UK
+0 6 RD
+3 6 RD
+0 7 WR
+3 7 UK
+0 8 CD
+0 9 FR
+9 2 RD
+9 4 WR
+9 6 EX
+9 8 EX
+0 10 RD
+9 10 RD
+11 9 RF
+9 12 RD
+9 13 WR
+9 14 WR
+15 6 WR
+15 8 UK
+9 16 WR
+9 17 UK
+18 10 WR
+18 11 ST
+18 12 WR
+18 13 RD
+18 14 EX
+18 16 RD
+18 19 RD
+18 20 WR
+21 11 ST
+21 12 EX
+21 13 RD
+21 14 WR
+21 16 RD
+18 21 UK
+22 12 CD
+22 13 WR
+22 14 RD
+22 16 WR
+22 19 RD
+22 20 WR
+22 23 EX
+24 14 WR
+24 16 WR
+24 19 WR
+24 20 RD
+22 24 UK
+25 16 RD
+25 19 WR
+25 20 RD
+25 23 UK
+

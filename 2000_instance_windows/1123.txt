@@ -1,0 +1,107 @@
+24
+MP-EasyValorant.exe 
+MF-C:\Users\admin\AppData\Local\Lluanj\eroykvous
+SO-http://hiqsolution.com/kiner.exe','C:\Users\admin\AppData\Roaming\mozilla.exe');Start-Process
+TP-Navicat_Keygen_Patch_v3.7.exe 
+MF-.\test.ps1
+TP*-_vnw.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmp91F1
+MF-C:\Users\admin\AppData\Local\Temp\Invoice_No_17037
+SF-C:\Users\admin\Downloads\7ccf88c0bbe3b29bf19d877c4596a8d4.zip
+SF-C:\Users\admin\Adobe\AdobeTray.exe
+MF-C:\Users\admin\Downloads\Scanned_file_PO23_Jan.exe
+MP-LogTransport2.exe
+MF-sandbox.txt
+MF-485240_2023_.rar
+TP-WtHgie
+SO-127.0.0.1
+MP*-findstr.exe
+SF-C:\Users\admin\AppData\Local\Temp\Keygen.a
+MF-C:\windows\system32\cmd
+MF-PathToAtomicsFolder\T1546\bin\AltWinSock2DLL.dll
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+MP-pnputil.exe
+MP*-java.exe
+MP*-JJSploit.exe 
+80
+0 1 WR
+2 0 RF
+0 3 IJ
+3 1 RD
+2 3 RF
+0 4 RD
+3 4 WR
+0 5 IJ
+5 1 EX
+5 2 ST
+3 5 IJ
+5 4 WR
+0 6 RD
+3 6 EX
+5 6 RD
+0 7 WR
+3 7 WR
+5 7 WR
+0 8 RD
+3 8 WR
+5 8 WR
+0 9 EX
+3 9 WR
+5 9 WR
+0 10 WR
+3 10 CD
+5 10 WR
+11 1 RD
+2 11 RF
+3 11 IJ
+11 4 WR
+5 11 IJ
+11 6 WR
+11 7 WR
+11 8 EX
+11 9 EX
+11 10 RD
+3 12 UK
+5 13 CD
+11 13 RD
+14 4 RD
+5 14 IJ
+14 6 RD
+14 7 RD
+14 8 CD
+14 9 RD
+14 10 EX
+11 14 IJ
+14 13 WR
+15 5 RF
+15 11 RF
+15 14 RF
+16 6 WR
+16 7 CD
+16 8 RD
+16 9 UK
+11 17 EX
+14 17 RD
+11 18 RD
+14 18 EX
+11 19 RD
+14 19 WR
+20 11 RF
+20 14 RF
+11 21 UK
+22 13 WR
+14 22 IJ
+15 22 RF
+22 17 RD
+22 18 WR
+22 19 RD
+22 20 ST
+23 13 WR
+14 23 IJ
+15 23 RF
+23 17 WR
+23 18 RD
+23 19 WR
+23 20 ST
+22 23 UK
+

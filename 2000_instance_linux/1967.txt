@@ -1,0 +1,131 @@
+36
+MP*-less
+TP-sh
+MP-grep
+MP-cat
+MP-searchsploit
+SO-192.168.0.134
+MP-uname
+TP-dd
+TF-Users.tar.gz
+SF-d.c
+MF-chttp.c
+MF-T1070.004-test.txt
+MP*-sed
+MP-head
+MP-chmod
+SO-192.168.10.128
+MF-v.c
+MF-chttp.c
+SO-192.168.159.128
+SO-192.168.0.134
+MF-echo-art-fish.sh
+MP*-bash
+SF-sysctl.c
+MF-1.zip
+TP-ls
+TP*-cat
+MF-f.r
+MP-cat
+SO-atomic@target.example
+MP-awk
+MF-syslog.c
+MF-f.r
+MP-bash 
+MP-cat
+MP-cat
+MP-less
+92
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 FR
+0 5 ST
+3 5 ST
+5 4 RF
+0 6 UK
+3 7 IJ
+4 7 UK
+3 8 WR
+3 9 RD
+3 10 RD
+3 11 WR
+3 12 FR
+5 12 RF
+12 8 WR
+12 9 CD
+12 10 WR
+12 11 WR
+3 13 UK
+14 5 ST
+14 8 WR
+14 9 RD
+14 10 WR
+14 11 CD
+15 12 RF
+14 15 ST
+12 16 WR
+14 16 RD
+12 17 WR
+14 17 WR
+18 12 RF
+14 18 ST
+12 19 ST
+19 14 RF
+12 20 UK
+21 11 WR
+21 15 ST
+21 16 EX
+21 17 WR
+18 21 RF
+19 21 RF
+14 22 CD
+21 22 WR
+14 23 WR
+21 23 RD
+14 24 UK
+15 25 RF
+25 16 RD
+25 17 WR
+25 18 ST
+19 25 RF
+21 25 IJ
+25 22 RD
+25 23 WR
+21 26 EX
+25 26 EX
+27 17 WR
+27 18 ST
+19 27 RF
+21 27 UK
+28 25 RF
+29 19 ST
+29 22 EX
+29 23 RD
+25 29 IJ
+29 26 WR
+28 29 RF
+25 30 WR
+29 30 EX
+25 31 RD
+29 31 RD
+32 22 WR
+32 23 WR
+25 32 IJ
+32 26 WR
+28 32 RF
+29 32 UK
+33 23 UK
+25 34 IJ
+34 26 WR
+34 28 ST
+34 30 WR
+34 31 RD
+25 35 IJ
+35 26 WR
+35 28 ST
+35 30 WR
+35 31 WR
+34 35 UK
+

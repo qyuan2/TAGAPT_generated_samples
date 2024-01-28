@@ -1,0 +1,74 @@
+21
+MP*-nl
+SF-cron.m
+TP-cat
+SF-inetd.c
+MP-ftp
+MP-openssl
+MP-uname
+MP-less
+MP-sed
+TP*-ls
+MP-cat
+MF-image.php
+MP*-bash
+TF-cron.m
+MP*-cat
+MF-echo-art-fish.sh
+MF-on.a
+TP-head
+SF-atomic.sh
+MP-cat
+MP-wfuzz
+50
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 RD
+2 3 WR
+0 4 FR
+4 1 RD
+2 4 IJ
+4 3 EX
+0 5 FR
+5 1 WR
+2 5 IJ
+5 3 EX
+4 5 UK
+0 6 UK
+7 1 WR
+2 7 IJ
+7 3 EX
+8 1 WR
+2 8 UK
+9 1 EX
+9 3 WR
+7 9 IJ
+10 1 WR
+10 3 UK
+7 11 RD
+9 11 WR
+7 12 FR
+9 12 IJ
+12 11 CD
+7 13 WR
+9 13 WR
+12 13 RD
+7 14 FR
+9 14 IJ
+14 11 EX
+14 13 RD
+7 15 WR
+9 15 WR
+12 15 RD
+14 15 CD
+7 16 RD
+9 16 UK
+7 17 IJ
+17 11 UK
+12 18 WR
+14 18 WR
+12 19 UK
+20 13 EX
+14 20 UK
+

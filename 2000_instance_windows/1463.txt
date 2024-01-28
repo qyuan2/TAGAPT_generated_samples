@@ -1,0 +1,158 @@
+40
+MP-cacls.exe 
+MP-pktmon.exe
+MP-Dieselmotorers.exe
+SF-C:\Users\admin\Desktop\a6197937
+MP-EXE_temp2.exe 
+MP-ns9F46.tmp
+TP-hostname.exe
+SF-C:\Users\admin\AppData\Local\Temp\upP
+MF-C:\Users\Public\coinmarketcap\imcq
+MP-Bill Of Lading.exe
+TP-bb.exe 
+TF-C:\Users\admin\AppData\Local\Temp\tmpA6C1
+MF-C:\Users\admin\Desktop\MS
+MF-\Users\admin\Desktop\script.js
+MF-0.7D.exe
+MP-build3.exe 
+TF-LaZagne.exe
+TP*-schtasks.exe 
+SF-C:\Users\admin\AppData\Local\84ef6d24-ce7f-44e4-a5ae-1d47d92bf287\build3.exe
+TP-attrib.exe
+MF-\Users\admin\AppData\Local\Temp\vbs.exe
+MF-C:\Users\admin\AppData\Local\Temp\20af4c29ba1c8ced4a86fc73c0ad7b7c.exe
+MF-C:\Users\admin\AppData\Local\Temp\RESDF7B.tmp
+MP-lk.exe 
+SF-C:\Program files\appdata\local\temp\19084
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/DumpWCM.ps1
+MP*-z0340383.exe
+TF-C:\Program Files (x86)\Microsoft\Edge\Application\msedge
+MF-\Users\admin\AppData\Local\Temp\nscB9BA.tmp\nsBDC5.tmp
+MF-C:\Users\All Users\Documents\audiodg
+SO-https://mindigital-shde.gr
+MP-IEmode.exe 
+MF-\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+MP-ns9EC8.tmp 
+MP*-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MF-\Users\admin\AppData\Local\Temp\Dieselmotorers.exe
+MP*-nsA0C0.tmp 
+MP-takeown.exe
+TF-C:\Users\admin\AppData\Local\Temp\E63F
+MP-cipher.exe
+115
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 WR
+0 4 FR
+4 3 RD
+0 5 UK
+6 3 RD
+4 6 IJ
+4 7 WR
+6 7 WR
+4 8 WR
+6 8 WR
+9 3 CD
+4 9 UK
+10 3 RD
+6 10 IJ
+10 7 RD
+10 8 WR
+6 11 WR
+10 11 WR
+6 12 WR
+10 12 RD
+6 13 WR
+10 13 UK
+6 14 WR
+6 15 IJ
+15 7 WR
+15 8 WR
+15 11 UK
+6 16 WR
+17 7 EX
+17 8 WR
+17 12 WR
+17 14 WR
+17 16 RD
+17 18 EX
+19 12 RD
+19 14 WR
+19 16 WR
+17 19 IJ
+19 18 EX
+17 20 RD
+19 20 WR
+17 21 WR
+19 21 WR
+17 22 WR
+19 22 RD
+23 14 WR
+23 16 RD
+17 23 IJ
+23 18 RD
+19 23 IJ
+23 20 WR
+23 21 WR
+23 22 CD
+17 24 RD
+19 24 EX
+23 24 WR
+25 17 RF
+25 19 RF
+23 25 ST
+26 16 WR
+17 26 IJ
+26 18 CD
+19 26 IJ
+26 20 WR
+26 21 WR
+26 22 WR
+26 24 RD
+25 26 RF
+17 27 EX
+19 27 RD
+23 27 RD
+26 27 WR
+19 28 WR
+23 28 WR
+26 28 EX
+19 29 WR
+23 29 EX
+26 29 RD
+23 30 ST
+30 26 RF
+31 21 RD
+31 22 RD
+23 31 UK
+26 32 EX
+33 24 UK
+25 34 RF
+34 27 WR
+34 28 RD
+34 29 RD
+30 34 RF
+34 32 WR
+26 35 WR
+34 35 RD
+26 36 FR
+36 27 EX
+36 28 RD
+36 29 WR
+36 30 ST
+36 32 WR
+36 35 RD
+37 27 WR
+37 28 WR
+37 29 WR
+37 30 ST
+37 32 WR
+37 35 WR
+36 37 UK
+34 38 WR
+39 29 EX
+30 39 RF
+39 32 WR
+34 39 UK
+

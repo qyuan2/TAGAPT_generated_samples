@@ -1,0 +1,46 @@
+14
+MP*-Invoice.exe 
+MP-WinAPIOverride 6.9.1.exe
+TF-C:\Users\admin\Desktop\f_00119a
+MF-C:\Users\admin\AppData\Local\Temp\qgcrmeck
+SF-HKLM\SYSTEM\CurrentControlSet\Control\FileSystem
+MF-C:\Windows\system32\SearchFilterHost
+MP*-del.exe
+MP*-C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLED.EXE
+MF-C:\Users\admin\AppData\Local\Temp\SecuriteInfo.c
+MF-C:\Windows\SysWOW64\cmd.exe
+MP-audiodg.exe 
+MP*-DllHost.exe 
+TF-C:\Users\admin\AppData\Local\Temp\Edge
+MP-nltest.exe
+29
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 RD
+1 3 WR
+0 4 WR
+1 4 WR
+0 5 UK
+1 6 FR
+6 2 WR
+6 3 WR
+6 4 WR
+1 7 FR
+7 2 RD
+7 3 RD
+7 4 RD
+6 7 UK
+1 8 WR
+1 9 RD
+1 10 UK
+11 2 RD
+11 3 WR
+11 4 RD
+11 8 WR
+11 9 RD
+11 12 UK
+13 4 WR
+13 8 RD
+13 9 UK
+

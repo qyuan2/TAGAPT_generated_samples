@@ -1,0 +1,83 @@
+22
+MP*-grep
+SF-pd.c
+SO-192.168.159.128
+TP*-less
+TP*-paste
+TF-te.c
+MP-tac
+MF-log.c
+MF-d.c
+MP*-cat
+MF-atomic.sh
+SO-192.168.37.130
+MF-f.r
+MF-httpd.c
+MP-sed
+MP-cat
+MF-td.c
+MP-head
+TP-tac
+MP-sed
+SO-192.168.10.133
+MP-echo
+58
+0 1 WR
+2 0 RF
+0 3 FR
+3 1 WR
+2 3 RF
+0 4 FR
+4 1 RD
+2 4 RF
+3 4 IJ
+0 5 WR
+3 5 WR
+4 5 WR
+0 6 UK
+3 7 WR
+4 7 RD
+3 8 UK
+9 1 WR
+9 2 ST
+4 9 IJ
+9 5 WR
+9 7 WR
+4 10 WR
+9 10 EX
+4 11 ST
+11 9 RF
+4 12 RD
+9 12 RD
+4 13 EX
+9 13 EX
+4 14 FR
+14 5 RD
+14 7 WR
+9 14 UK
+15 5 RD
+15 7 RD
+15 10 WR
+11 15 RF
+15 12 WR
+15 13 WR
+15 16 EX
+17 7 RD
+17 10 RD
+11 17 RF
+17 12 EX
+17 13 WR
+17 16 WR
+18 10 RD
+11 18 RF
+18 12 WR
+18 13 UK
+19 10 WR
+11 19 RF
+19 12 CD
+15 19 UK
+17 20 ST
+21 12 WR
+21 16 RD
+17 21 UK
+

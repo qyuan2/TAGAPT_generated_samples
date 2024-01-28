@@ -1,0 +1,34 @@
+13
+MP*-gobuster
+MF-/bin/sh
+MP-pr
+MF-log.c
+MF-victim-shred.txt
+MP*-clang++
+MP*-ls
+MF-ron.a
+MF-d.c
+TP-arp-scan
+MF-data.zip
+MF-d.c
+MP*-uname
+18
+0 1 RD
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 RD
+2 4 EX
+5 1 WR
+2 5 UK
+6 1 EX
+6 3 RD
+6 4 EX
+6 7 WR
+6 8 WR
+9 1 UK
+6 10 CD
+6 11 WR
+12 4 RD
+6 12 UK
+

@@ -1,0 +1,110 @@
+31
+MP*-cat
+SO-123.6.44.67
+TP-sed
+MF-subprocess.c
+SF-image.php
+MP-cat
+MF-T1574.006.c
+MF-lighttpd.c
+MP-searchsploit
+TP-cat
+SO-192.168.1.1
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1105/src/atomic.sh
+MF-victim-shred.txt
+MF-data.zip
+MF-common.txt
+MP*-curl 
+MP*-sed
+TF-e2.c
+SF-2017.pl
+MF-os.exe
+MP-more
+MP-dd
+MF-folders/files
+MP-nl
+MF-access.htm
+TP*-rev
+TF-td.c
+MF-1.txt
+TF-logrotate.c
+MF-da-ks.cfg
+MP-masscan
+76
+1 0 RF
+0 2 IJ
+1 2 RF
+0 3 RD
+2 3 EX
+0 4 RD
+2 4 CD
+0 5 FR
+5 1 ST
+2 5 IJ
+5 3 UK
+0 6 RD
+2 6 EX
+0 7 RD
+2 7 RD
+0 8 FR
+8 1 ST
+2 8 UK
+0 9 FR
+1 9 RF
+9 4 WR
+9 6 WR
+9 7 WR
+0 10 ST
+10 9 RF
+11 9 RF
+9 12 WR
+9 13 EX
+9 14 EX
+15 6 RD
+15 7 WR
+9 15 IJ
+15 10 ST
+11 15 RF
+15 12 WR
+15 13 WR
+15 14 RD
+16 6 WR
+16 7 WR
+9 16 IJ
+10 16 RF
+16 11 ST
+16 12 WR
+16 13 UK
+9 17 WR
+15 17 RD
+9 18 WR
+15 18 UK
+9 19 UK
+10 20 RF
+11 20 RF
+20 12 RD
+20 14 RD
+20 17 WR
+11 21 RF
+21 12 RD
+21 14 RD
+21 17 RD
+20 22 CD
+21 22 WR
+23 17 WR
+20 23 UK
+21 24 EX
+25 17 WR
+21 25 IJ
+25 22 WR
+25 24 EX
+21 26 EX
+25 26 RD
+21 27 WR
+25 27 RD
+25 28 EX
+25 29 WR
+30 22 WR
+30 24 WR
+25 30 UK
+

@@ -1,0 +1,53 @@
+14
+MP*-executable.3044.exe 
+TF-\Windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
+MP*-Tudehluxjc.exe 
+MF-hh.exe
+MF-\Windows\System32\schtasks.exe
+MF-EXa2972.8726\SUNATfacturanopagada.m
+MF-C:\Users\Public\coinmarketcap\imcq.ps1
+MP-oldplayer.exe 
+MP*-mimikatz.exe
+MP*-MSBuild.exe
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=code-workspace
+MF-\Users\admin\AppData\Local\Temp\Dkeyauth.exe
+SF-C:\Users\admin\AppData\Local\Temp\X_Net_Windows.exe
+MP-Dkeyauth.exe
+36
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 WR
+2 4 WR
+0 5 RD
+2 5 RD
+0 6 WR
+2 6 RD
+0 7 FR
+7 1 WR
+2 7 UK
+0 8 FR
+8 1 RD
+8 3 WR
+8 4 RD
+8 5 WR
+8 6 WR
+0 9 FR
+9 1 RD
+9 3 EX
+9 4 RD
+9 5 RD
+9 6 EX
+0 10 ST
+8 10 ST
+9 10 ST
+8 11 RD
+9 11 WR
+8 12 UK
+13 4 WR
+13 5 WR
+13 6 WR
+9 13 UK
+

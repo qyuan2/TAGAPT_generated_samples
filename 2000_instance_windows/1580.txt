@@ -1,0 +1,73 @@
+21
+MP*-buidl.exe 
+SF-C:\Users\admin\Downloads\Downloads msetup\akrienbeta
+MF-C:\Users\admin\AppData\Local\Temp\Setup
+MP*-Dkeyauth.exe
+MF-\Users\admin\Downloads\beetle-cab\beetle-cab\arc.7z
+MF-rcs.docx
+TP-444444.png.png.exe 
+MF-.\T1127.001\src\vb.xml
+MF-\Users\admin\AppData\Roaming\damianocrnofj6793.exe
+MP-LaZagne.exe
+MF-gmail.us21.list-manage.c
+MP*-d6405410.exe
+MF-C:\Program Files\VideoLAN\VLC\vlc
+SF-C:\Users\admin\AppData\Local\Temp\1
+SF-C:\Users\admin\AppData\Local\Temp\kkkkk
+MP*-wmpnscfg.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+SF-C:\Users\admin\AppData\Local\Temp\system_file.exe
+MF-C:\savesdllNetdhcp\qx9KHAz9bJA4BG9Lx1IKFuftLcE.vb
+MP-nsD62C.tmp
+MP-taskmgr.exe
+49
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 RD
+3 2 WR
+0 4 WR
+3 4 CD
+0 5 RD
+3 5 UK
+0 6 FR
+6 1 WR
+6 2 CD
+6 4 WR
+0 7 WR
+6 7 CD
+0 8 WR
+6 8 RD
+0 9 FR
+9 1 RD
+9 2 WR
+9 4 UK
+0 10 WR
+6 10 RD
+11 1 EX
+11 2 RD
+6 11 IJ
+11 7 WR
+11 8 EX
+11 10 WR
+6 12 RD
+11 12 EX
+6 13 RD
+11 13 WR
+6 14 WR
+11 14 UK
+6 15 IJ
+15 7 EX
+15 8 WR
+15 10 EX
+15 12 EX
+15 13 EX
+6 16 ST
+15 16 ST
+15 17 EX
+15 18 WR
+19 10 UK
+20 12 EX
+20 13 RD
+15 20 UK
+

@@ -1,0 +1,86 @@
+23
+MP*-awk
+MP-bash 
+MF-v.c
+MP*-sed
+MP-grep
+MP*-less
+MP-bash
+MF-etc.tar.gz
+MP-nl
+MF-os.exe
+TF-lighttp.c
+TP*-nl
+SF-rockyou.txt
+MF-raft-large-directories.txt
+SF-flag4.txt
+MP-head
+TP-cat
+TF-T1574.006.c
+TP-more
+SF-raj.txt
+SO-192.168.10.131
+MF-art.sh
+MP-less
+60
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 FR
+3 2 WR
+0 4 FR
+1 4 UK
+0 5 FR
+5 2 WR
+0 6 FR
+6 2 UK
+0 7 WR
+3 7 EX
+5 7 WR
+3 8 FR
+8 7 RD
+3 9 WR
+5 9 WR
+8 9 WR
+3 10 WR
+5 10 RD
+8 10 EX
+3 11 IJ
+5 11 IJ
+11 7 RD
+8 11 IJ
+11 9 WR
+11 10 WR
+3 12 WR
+5 12 EX
+8 12 RD
+11 12 WR
+5 13 WR
+8 13 WR
+11 13 WR
+5 14 RD
+8 14 RD
+11 14 RD
+15 7 WR
+15 9 WR
+15 10 UK
+16 7 WR
+8 16 IJ
+16 9 CD
+11 16 UK
+8 17 WR
+8 18 IJ
+18 9 WR
+18 12 WR
+18 13 WR
+18 14 RD
+18 17 WR
+18 19 WR
+20 18 RF
+18 21 WR
+22 12 EX
+22 13 WR
+22 14 EX
+22 17 RD
+18 22 UK
+

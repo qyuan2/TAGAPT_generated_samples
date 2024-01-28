@@ -1,0 +1,161 @@
+41
+MP*-ns9EC8.tmp 
+MF-\Windows\system32\taskmgr.exe
+MF-pnputil.exe
+MF-\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+MP-APP - NjRat 0.7D Moded\NjRat 0.7D.exe 
+MP-Scanned_file_PO23_Jan.exe 
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System
+MP-863e7c22c771e4005197ae28363584f8.exe 
+TP-B70D.exe
+SO-http://199.247.25.79/get.php
+MP-driverquery.exe 
+TP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+MF-C:\Users\admin\Desktop\SHIPPING
+TP-test de fdp.exe 
+MF-msmdsrv.exe
+MP-sysmon.exe
+MP*-vds.exe
+MP-WISPTIS.EXE
+MP-timeout.exe
+TP*-sysmon.exe
+MF-C:\Users\admin\AppData\Local\Temp\Host
+MF-\Users\admin\AppData\Local\Temp\88e6dde5e03da6a889feae1525551ab2.exe
+TP*-expo.exe
+MF-C:\Program Files\Java\jre1
+TP-splwow64.exe
+MP-cronos.exe
+SF-C:\Users\admin\AppData\Local\Temp\Uninstall
+MF-C:\MSOCache\All Users\{90140000-0018-041F-0000-0000000FF1CE}-C\SearchFilterHost.exe
+MF-\ServerComponenthostNet\z3dzg.bat
+SO-https://uploaddeimagens.com.br/images/004/559/510/original/rump_private.jpg?1690504129';$webClient
+MP-ExplorerSuite.exe
+MP-MMFbbhOyNS.exe
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+TP-Pago fra.exe 
+MF-REG.exe
+MF-C:\Program Files (x86)\UltraViewer\UltraViewer_Desktop.exe
+TF-C:\Browserweb\FDQYsaUiAqx3IM0zyQT.vb
+SF-C:\Program Files\Microsoft Office\Office14\EXCEL
+SF-C:\Users\admin\AppData\Local\Temp\Tudehluxjc.exe
+TP-appcmd.exe
+MP-MicrosoftEdgeUpdate.exe
+117
+0 1 WR
+0 2 RD
+0 3 WR
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 EX
+0 5 FR
+5 1 CD
+5 2 EX
+5 3 RD
+4 5 UK
+0 6 RD
+0 7 FR
+7 1 EX
+7 2 WR
+7 3 RD
+7 6 CD
+0 8 IJ
+8 1 WR
+8 2 UK
+0 9 ST
+7 9 ST
+0 10 FR
+10 1 EX
+10 3 EX
+10 6 RD
+10 9 ST
+11 1 WR
+11 3 EX
+11 6 WR
+7 11 IJ
+11 9 ST
+10 11 UK
+7 12 EX
+13 3 WR
+13 6 WR
+7 13 IJ
+13 9 ST
+13 12 WR
+7 14 RD
+13 14 UK
+15 6 WR
+9 15 RF
+15 12 RD
+16 6 RD
+16 9 ST
+16 12 WR
+7 17 FR
+17 9 ST
+17 12 EX
+15 17 UK
+18 9 ST
+18 12 WR
+9 19 RF
+19 12 WR
+16 19 IJ
+18 19 IJ
+16 20 WR
+18 20 WR
+19 20 RD
+16 21 RD
+18 21 CD
+19 21 EX
+16 22 FR
+18 22 IJ
+19 22 IJ
+22 20 RD
+22 21 RD
+16 23 WR
+18 23 RD
+19 23 RD
+22 23 WR
+16 24 FR
+18 24 UK
+16 25 FR
+19 25 IJ
+25 20 WR
+25 21 UK
+19 26 WR
+22 26 CD
+19 27 RD
+22 27 WR
+19 28 EX
+22 28 RD
+29 22 RF
+30 20 WR
+22 30 IJ
+30 23 WR
+30 26 UK
+22 31 FR
+31 23 RD
+31 27 RD
+31 28 RD
+31 29 ST
+32 22 RF
+32 31 RF
+33 23 RD
+33 27 WR
+33 28 EX
+33 29 ST
+31 33 IJ
+32 33 RF
+31 34 WR
+33 34 RD
+31 35 EX
+33 35 RD
+31 36 WR
+33 36 RD
+31 37 WR
+33 37 RD
+31 38 WR
+33 38 WR
+39 29 ST
+31 39 UK
+40 32 ST
+33 40 UK
+

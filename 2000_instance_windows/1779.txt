@@ -1,0 +1,162 @@
+44
+MP*-vssadmin.exe
+MP-pr2.exe 
+MP-mstsca.exe 
+MP-NilfiskServiceTool.exe
+MF-C:\Users\admin\AppData\Local\Temp\is-I2CKA.tmp
+MP*-vlc.exe
+MP-audiodg.exe 
+TF-C:\Windows\system32\icacls
+MF-\Users\admin\Desktop\Remittance_1021395_092023_111928.csv.txt
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+TP-Explorer.EXE
+MF-postgres.exe
+MP-MicrosoftEdgeUpdate.exe 
+MP-setup_avrokeyboard_5.6.0.exe
+MP*-EvaPKO
+MF-C:\savesdllNetdhcp\qx9KHAz9bJA4BG9Lx1IKFuftLcE
+TP*-Wub.exe
+MF-PathToAtomicsFolder\T1137.004\src\T1137.004.htm
+TP-PsExec.exe
+MF-\Windows\System32\cmd.exe\mshta.exe
+MF-C:\Program Files\Common Files\Microsoft Shared\VSTA\AppInfoDocument
+TP-MMFbbhOyNS.exe
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+SF-C:\Users\admin\AppData\Local\Temp\D911
+SF-C:\Windows\SYSTEM32\WISPTIS
+MP-rundll32.exe 
+TP-OneDrive.exe 
+MF-%userprofile%\desktop
+MP-cronos.exe
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+TP-EdmGen.exe
+TP-NdSvr.exe
+MP-WtHgie
+MF-\Windows\SysWOW64\tolkqfys\qgcrmeck.exe
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+MF-\Users\admin\AppData\Local\Temp\CSCF350.tmp
+MF-C:\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04
+SF-C:\Users\admin\AppData\Local\Lluanj\eroykvous
+SF-C:\Users\admin\AppData\Local\Temp\Request
+MF-C:\Users\admin\AppData\Local\Temp\sentinelone
+MF-\CrackMapExecWin\crackmapexec.exe
+MF-C:\Users\admin\AppData\Local\Temp\onepkg
+115
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 RD
+3 4 RD
+0 5 FR
+5 4 RD
+0 6 FR
+3 6 UK
+0 7 WR
+5 7 WR
+0 8 EX
+5 8 WR
+9 0 RF
+9 5 RF
+0 10 IJ
+10 4 RD
+5 10 IJ
+10 7 WR
+10 8 RD
+10 9 ST
+5 11 RD
+10 11 WR
+12 4 WR
+5 12 UK
+13 4 WR
+13 7 RD
+13 8 WR
+9 13 RF
+10 13 UK
+14 4 RD
+14 7 WR
+14 8 WR
+14 9 ST
+14 11 WR
+14 15 RD
+16 7 WR
+16 8 WR
+16 9 ST
+16 11 RD
+14 16 IJ
+16 15 RD
+14 17 WR
+16 17 RD
+18 8 RD
+18 9 ST
+18 11 WR
+14 18 IJ
+18 15 WR
+16 18 IJ
+18 17 RD
+14 19 WR
+16 19 RD
+18 19 WR
+14 20 WR
+16 20 UK
+21 11 WR
+14 21 IJ
+21 15 WR
+21 17 RD
+18 21 IJ
+21 19 WR
+14 22 ST
+22 18 RF
+21 22 ST
+14 23 UK
+18 24 CD
+21 24 EX
+25 15 WR
+25 17 WR
+18 25 UK
+26 17 WR
+26 19 EX
+21 26 IJ
+26 22 ST
+26 24 WR
+21 27 CD
+26 27 WR
+28 19 RD
+21 28 UK
+26 29 ST
+30 26 RF
+31 22 ST
+31 24 EX
+26 31 UK
+22 32 RF
+32 24 WR
+32 27 WR
+29 32 RF
+32 30 ST
+33 24 EX
+33 27 WR
+33 29 ST
+30 33 RF
+32 33 IJ
+32 34 WR
+33 34 CD
+32 35 RD
+33 35 WR
+32 36 ST
+36 33 RF
+32 37 EX
+33 37 RD
+32 38 EX
+33 38 EX
+32 39 WR
+33 39 WR
+32 40 RD
+33 40 EX
+32 41 RD
+33 41 RD
+32 42 WR
+33 42 EX
+33 43 WR
+

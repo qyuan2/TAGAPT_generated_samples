@@ -1,0 +1,125 @@
+38
+MP*-sed
+SF-target.example.c
+TF-shell.cgi
+MF-ron.a
+MP*-sed
+MP-bash
+TF-cron.a
+MF-at.a
+MF-lighttpd.c
+MF-shell.cgi
+TP-less
+MP*-ifconfig
+SF-flag4.txt
+MF-anaconda-ks.cfg
+MF-s.c
+MF-echo-art-fish.sh
+MF-s.c
+TF-target.example.c
+SF-access.htm
+TP*-echo
+MF-T1574.006.c
+MF-Discovery.sh
+TP-bash
+TP-dpkg
+MF-e.c
+MF-HTML ( .chm ) files
+MP-dnsdomainname
+MF-atomic.log
+SO-192.168.10.135
+MP-cat
+MF-cron.h
+SF-passwd.zip
+SF-passwd.zip
+TP-cat
+TF-at.a
+SF-raft-large-directories.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MF-httpd.c
+84
+0 1 RD
+0 2 WR
+0 3 WR
+0 4 FR
+4 1 WR
+4 2 RD
+4 3 EX
+0 5 FR
+5 1 RD
+5 2 RD
+5 3 UK
+0 6 RD
+4 6 EX
+0 7 RD
+4 7 WR
+0 8 RD
+4 8 EX
+0 9 EX
+4 9 RD
+0 10 IJ
+10 1 EX
+10 2 WR
+4 10 UK
+11 1 WR
+11 2 WR
+11 6 WR
+11 7 RD
+11 8 RD
+11 9 EX
+11 12 WR
+11 13 WR
+11 14 CD
+11 15 WR
+11 16 RD
+11 17 RD
+11 18 RD
+19 9 WR
+11 19 IJ
+19 12 WR
+19 13 WR
+19 14 RD
+19 15 WR
+19 16 WR
+19 17 WR
+19 18 WR
+11 20 WR
+19 20 CD
+11 21 EX
+19 21 RD
+22 12 RD
+22 13 WR
+22 14 EX
+22 15 RD
+22 16 WR
+22 17 EX
+22 18 UK
+23 13 RD
+23 14 RD
+23 15 EX
+23 16 WR
+23 17 UK
+19 24 WR
+19 25 EX
+26 16 WR
+19 26 IJ
+26 20 UK
+19 27 RD
+19 28 ST
+19 29 IJ
+29 21 RD
+29 24 WR
+29 25 EX
+29 27 WR
+28 29 RF
+29 30 EX
+29 31 RD
+29 32 WR
+33 24 RD
+33 25 WR
+33 27 UK
+29 34 EX
+29 35 RD
+29 36 ST
+29 37 EX
+

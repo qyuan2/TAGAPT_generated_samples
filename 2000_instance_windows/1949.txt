@@ -1,0 +1,39 @@
+11
+MP*-Order Confirmation.exe 
+SF-%TEMP%\test.bin
+MP*-Перечень юридических лиц и физических лиц в рамках уклонения, сумы уклонения.exe 
+MF-C:\Users\admin\AppData\Local\Temp\GfQBLiiemEPjpaWCZk\DnaohH
+MF-\Users\User\appdata\local\temp\rpvbh.jar
+MP-FrequencyMeasurement.exe
+MF-\Users\admin\AppData\Local\Temp\B70D.exe
+MP*-mspaint.exe
+MF-C:\Users\admin\AppData\Local\Temp\GLJBD24
+MP*-nsA12F.tmp
+MP-SearchProtocolHost.exe
+25
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 EX
+0 4 WR
+2 4 EX
+0 5 FR
+5 1 WR
+2 5 UK
+0 6 EX
+0 7 FR
+7 1 RD
+7 3 RD
+7 4 EX
+7 6 RD
+0 8 WR
+7 8 WR
+0 9 FR
+9 1 WR
+9 3 WR
+9 4 WR
+9 6 WR
+7 9 UK
+10 1 UK
+

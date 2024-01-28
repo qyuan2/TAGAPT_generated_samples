@@ -1,0 +1,177 @@
+47
+MP*-Mavinject.exe
+TP*-xnoobx.cc.exe 
+TP-cscript.exe
+MP-nethtsrv.exe
+MF-C:\Program files\8527
+MP-vaultcmd.exe
+TP-damianocrnofj6793.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+MP-fltmc.exe
+MF-C:\Users\admin\AppData\Local\Temp\system_file
+MP-finance.exe 
+TF-c:\Users\admin\AppData\Local\Temp\CSCF2B3
+MP-VRAPP.exe 
+TP-WINWORD.EXE
+MP-WannaCry.EXE 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+MP-FISCALIA GENERAL DE LA NACION --.exe 
+SF-C:\Users\admin\AppData\Local\Temp\62f0e2de
+MP*-net.exe
+MP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+SF-C:\Users\admin\AppData\Local\fvjhioojuu.vb
+MF-C:\Program files\appdata\local\temp\desert
+MF-C:\Users\admin\AppData\Local\Temp\New
+MP-aafg31.exe 
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+SO-127.0.0.1
+TP-DataSvcUtil.exe
+MP-Document.pdf_Slayed.scr.exe
+MP-vssadmin.exe
+MF-C:\Users\admin\AppData\Local\Temp\zhoconxiryiukj
+SF-C:\Users\admin\Downloads\PC_Cleaner__5509.exe
+MP-PowerShell.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MF-\Users\admin\AppData\Local\rec7A7BCB000BC471B402D1EDA1EBCA6C0FEC5D3D67.exe
+MF-C:\Program Files\searches\depended.lnk
+SF-C:\Windows\system32\rundll32
+TF-C:\Users\admin\AppData\Local\Temp\ycard
+TP*-file.exe 
+MP-talkworld.exe 
+MF-\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9.zip
+TF-%userprofile%\documents
+MP-oldplayer.exe 
+TF-\Recovery\345b46fe-a9f9-11e7-a83c-e8a4f72b1d33\WinRAR.exe
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Skype for Desktop\Crashpad
+TF-0530.zip
+MP-сsrss.exe 
+MP-dllhоst.exe 
+127
+0 1 IJ
+0 2 IJ
+1 2 IJ
+0 3 FR
+1 3 IJ
+2 3 UK
+0 4 EX
+1 4 RD
+0 5 FR
+1 5 IJ
+5 4 RD
+0 6 IJ
+1 6 IJ
+6 4 RD
+5 6 IJ
+0 7 ST
+1 7 ST
+7 5 RF
+6 7 ST
+0 8 FR
+1 8 IJ
+8 4 WR
+6 8 IJ
+8 7 ST
+0 9 RD
+1 9 WR
+5 9 RD
+6 9 WR
+8 9 UK
+0 10 FR
+1 10 UK
+5 11 RD
+6 11 RD
+5 12 FR
+6 12 UK
+5 13 FR
+13 7 ST
+13 11 WR
+14 7 ST
+14 11 WR
+13 14 IJ
+15 13 RF
+15 14 RF
+16 11 RD
+13 16 IJ
+14 16 UK
+13 17 RD
+18 11 EX
+13 18 IJ
+18 15 ST
+18 17 WR
+19 11 WR
+13 19 IJ
+19 15 ST
+19 17 WR
+18 19 UK
+13 20 WR
+13 21 WR
+13 22 WR
+15 23 RF
+23 17 WR
+23 20 EX
+23 21 WR
+23 22 RD
+23 24 ST
+25 23 RF
+26 17 WR
+26 20 WR
+26 21 WR
+26 22 WR
+23 26 IJ
+24 26 RF
+26 25 ST
+27 17 RD
+27 20 RD
+27 21 WR
+27 22 WR
+23 27 UK
+28 20 WR
+28 21 EX
+28 22 WR
+28 24 ST
+25 28 RF
+26 28 IJ
+26 29 WR
+28 29 UK
+26 30 WR
+31 21 WR
+31 22 WR
+31 24 ST
+25 31 RF
+26 31 IJ
+31 30 RD
+32 26 RF
+32 31 RF
+26 33 WR
+31 33 WR
+26 34 RD
+31 34 RD
+26 35 WR
+31 35 WR
+26 36 EX
+31 36 WR
+37 30 WR
+31 37 IJ
+32 37 RF
+37 33 WR
+37 34 RD
+37 35 WR
+37 36 RD
+38 30 UK
+31 39 WR
+37 39 WR
+31 40 RD
+37 40 WR
+31 41 FR
+41 32 ST
+41 33 UK
+37 42 WR
+37 43 CD
+37 44 EX
+45 35 RD
+45 36 EX
+37 45 UK
+46 36 RD
+46 39 RD
+46 40 UK
+

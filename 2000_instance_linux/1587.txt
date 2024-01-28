@@ -1,0 +1,49 @@
+15
+MP*-more
+MF-os.exe
+TP*-systemd
+SF-flag4.txt
+MP-cat
+SF-os.sys
+MF-log.c
+MP-ls
+SF-e.c
+SO-192.168.10.130
+TF-pwquality.c
+MP*-cat
+MF-s.c
+MF-cron.a
+MP*-paste
+31
+0 1 RD
+0 2 IJ
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 FR
+4 1 WR
+2 4 IJ
+4 3 EX
+0 5 WR
+2 5 EX
+4 5 RD
+0 6 WR
+2 6 WR
+4 6 EX
+0 7 UK
+2 8 RD
+4 8 WR
+9 2 RF
+4 9 ST
+2 10 WR
+4 10 RD
+11 1 WR
+2 11 UK
+4 12 WR
+4 13 CD
+14 5 WR
+14 6 WR
+14 8 WR
+14 9 ST
+14 10 UK
+

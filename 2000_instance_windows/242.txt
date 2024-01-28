@@ -1,0 +1,38 @@
+14
+MP*-LaZagne.exe
+MF-C:\Windows\system32\prevhost
+TP*-javaw.exe 
+SO-https://github.com/BC-SECURITY/Empire/blob/86921fbbf4945441e2f9d9e7712c5a6e96eed0f3/empire/server/data/module_source/situational_awareness/network/powerview.ps1
+SF-C:\Users\admin\Desktop\Saz Injector\Sunset.exe
+MF-C:\Users\admin\Desktop\Paradox RAT\Updater.exe
+MP-ns996E.tmp
+TP*-сsrss.exe 
+MP-dvRzzWRPw.exe
+MF-\Users\admin\AppData\Local\Temp\jojo11.exe
+MP*-pcalua.exe
+MF-AllTheThingsx64.dll
+MF-C:\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8
+MP-D18C.exe
+21
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 ST
+3 2 RF
+0 4 RD
+2 4 UK
+0 5 RD
+0 6 FR
+6 1 UK
+0 7 IJ
+7 3 ST
+7 5 WR
+0 8 UK
+7 9 WR
+10 3 ST
+10 5 UK
+7 11 EX
+7 12 RD
+13 3 ST
+7 13 UK
+

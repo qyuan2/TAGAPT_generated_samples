@@ -1,0 +1,41 @@
+14
+MP*-ytfovlym.exe
+MF-\Users\admin\AppData\Local\Temp\RESDEBF.tmp
+MP-New Client.exe 
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9872.tmp
+TF-C:\Users\admin\Desktop\DOC77412
+MF-C:\Windows\system32\svchost
+MP*-addinutil.exe
+SO-file://C:\windows\system32\notepad.exe
+MF-\Users\admin\AppData\Local\Temp\w2wwpl2p.cmd
+MP*-ns9C62.tmp
+TP*-Invoice for shipping.exe 
+MF-C:\Windows\system32\verclsid.exe
+MP-Setup.bin.exe 
+TP-appcmd.exe
+24
+0 1 RD
+0 2 FR
+2 1 WR
+0 3 CD
+2 3 WR
+0 4 UK
+2 5 WR
+6 1 EX
+6 3 WR
+6 5 EX
+2 7 ST
+7 6 RF
+2 8 RD
+6 8 WR
+9 1 WR
+9 3 WR
+9 5 WR
+6 9 UK
+10 1 WR
+2 10 IJ
+10 3 UK
+2 11 WR
+2 12 UK
+13 5 UK
+

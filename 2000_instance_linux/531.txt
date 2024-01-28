@@ -1,0 +1,46 @@
+14
+MP*-bash 
+MP-rm
+TF-anaconda-ks.cfg
+MF-secret.c
+SF-user.r
+MF-d.c
+MP*-find
+MP*-curl
+MF-raft-medium-directories.txt
+MF-t.c
+MP-cat
+MP*-bash
+TF-shell.cgi
+MP-awk
+29
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 RD
+1 3 WR
+0 4 WR
+1 4 WR
+0 5 UK
+1 6 FR
+6 2 WR
+6 3 WR
+6 4 WR
+1 7 FR
+7 2 RD
+7 3 RD
+7 4 RD
+6 7 UK
+1 8 WR
+1 9 RD
+1 10 UK
+11 2 RD
+11 3 WR
+11 4 RD
+11 8 WR
+11 9 RD
+11 12 UK
+13 4 WR
+13 8 RD
+13 9 UK
+

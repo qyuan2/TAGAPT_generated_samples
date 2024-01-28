@@ -1,0 +1,38 @@
+11
+MP*-ls
+TF-www.google.c
+MF-secret.c
+MP*-dd
+MF-common.txt
+MF-T1027-004-test.c
+SO-192.168.47.134:4444
+TF-common.txt
+SF-T1027-004-test.c
+MP*-sed
+MP*-grep
+24
+0 1 RD
+0 2 CD
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 RD
+3 4 RD
+0 5 EX
+3 5 RD
+0 6 ST
+6 3 RF
+0 7 UK
+3 8 UK
+9 1 WR
+9 2 EX
+9 4 RD
+9 5 WR
+6 9 RF
+10 1 WR
+10 2 WR
+10 4 WR
+10 5 WR
+10 6 ST
+9 10 UK
+

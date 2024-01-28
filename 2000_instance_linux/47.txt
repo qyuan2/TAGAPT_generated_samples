@@ -1,0 +1,42 @@
+12
+MP*-awk
+SF-T1574.006.c
+MP-awk
+MP-sed
+SF-subprocess.c
+MP*-cat
+MF-LinEnum.sh
+MP*-useradd
+TP*-echo
+MP-bash
+MF-0*.txt
+MP-grep
+27
+0 1 RD
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 RD
+2 3 UK
+0 4 RD
+0 5 FR
+5 1 WR
+5 4 EX
+0 6 RD
+5 6 WR
+0 7 FR
+7 1 WR
+7 4 RD
+5 7 UK
+0 8 IJ
+8 1 WR
+8 4 WR
+8 6 UK
+0 9 FR
+9 1 WR
+9 4 RD
+0 10 WR
+9 10 UK
+11 1 WR
+11 4 UK
+

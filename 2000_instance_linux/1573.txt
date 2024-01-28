@@ -1,0 +1,117 @@
+33
+MP*-less
+SF-T1003.008.txt
+MF-v.c
+MF-common.txt
+TP*-awk
+MF-apache2.c
+TP-grep
+MF-art.sh
+MP-tee
+MF-robots.txt
+MF-d.c
+SF-cron.a
+MF-image.php
+MF-raft-medium-directories.txt
+MF-rockyou.txt
+TP-cat
+TP*-awk
+SF-inetd.c
+MF-cron.m
+TP-cat
+MP-echo
+TP-dd
+TP-rm
+MP*-awk
+MF-ttpd.c
+TF-www.google.c
+MF-etc.tar.gz
+TF-logrotate.c
+TP-sed
+MP-vi
+MP-dd
+TF-2017.pl
+SF-p.c
+81
+0 1 CD
+0 2 WR
+0 3 WR
+0 4 FR
+4 1 WR
+4 2 EX
+4 3 RD
+0 5 RD
+4 5 CD
+0 6 FR
+6 1 EX
+6 2 WR
+6 3 WR
+4 6 IJ
+6 5 WR
+0 7 WR
+4 7 RD
+6 7 RD
+0 8 FR
+8 1 WR
+8 2 WR
+8 3 WR
+4 8 IJ
+8 5 WR
+6 8 UK
+0 9 WR
+4 9 WR
+0 10 RD
+4 10 RD
+4 11 RD
+4 12 WR
+4 13 RD
+4 14 CD
+15 5 CD
+15 7 RD
+15 9 WR
+15 10 CD
+15 11 RD
+15 12 WR
+15 13 UK
+16 7 WR
+16 9 WR
+16 10 WR
+16 11 WR
+16 12 RD
+16 14 WR
+16 17 CD
+16 18 WR
+19 9 WR
+19 10 WR
+19 11 UK
+20 10 WR
+20 12 WR
+20 14 RD
+16 20 IJ
+20 17 EX
+20 18 RD
+21 12 UK
+22 14 WR
+16 22 IJ
+22 17 RD
+22 18 EX
+20 22 UK
+23 14 WR
+16 23 IJ
+23 17 EX
+23 18 WR
+16 24 RD
+23 24 WR
+16 25 UK
+23 26 RD
+23 27 RD
+28 18 UK
+23 29 FR
+29 24 WR
+29 26 UK
+23 30 FR
+30 24 WR
+30 27 UK
+23 31 RD
+23 32 RD
+

@@ -1,0 +1,80 @@
+19
+MP*-tail
+MF-Users.tar.gz
+MF-anaconda-ks.cfg
+TP-uname
+MF-shell.cgi
+MP-paste
+MF-echo-art-fish.sh
+TP*-ls
+MP*-grep
+MF-access.txt
+TP*-uname
+MP-sudo
+MF-Users.tar.gz
+SO-192.168.10.130
+MF-password-hash.sh
+SO-192.168.2.102
+TF-lighttpd.c
+MP-uname
+MP-cat
+58
+0 1 RD
+0 2 WR
+0 3 IJ
+3 1 WR
+3 2 WR
+0 4 RD
+3 4 WR
+0 5 UK
+3 6 WR
+7 1 WR
+7 2 EX
+3 7 IJ
+7 4 RD
+7 6 EX
+8 1 WR
+8 2 EX
+3 8 IJ
+8 4 WR
+8 6 CD
+7 8 IJ
+3 9 EX
+7 9 WR
+8 9 RD
+10 1 EX
+10 2 WR
+3 10 IJ
+10 4 RD
+10 6 WR
+7 10 IJ
+8 10 IJ
+10 9 RD
+11 1 CD
+11 2 WR
+3 11 IJ
+11 4 WR
+11 6 WR
+7 11 IJ
+8 11 UK
+3 12 WR
+7 12 WR
+10 12 UK
+3 13 ST
+7 13 ST
+7 14 WR
+7 15 ST
+7 16 WR
+7 17 FR
+17 9 WR
+17 13 ST
+17 14 RD
+15 17 RF
+17 16 RD
+18 9 WR
+18 13 ST
+18 14 RD
+18 15 ST
+18 16 RD
+17 18 UK
+

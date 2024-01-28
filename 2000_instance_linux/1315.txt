@@ -1,0 +1,167 @@
+47
+MP-tail
+MP-more
+MF-lighttp.c
+MP-uname
+TP-find
+MF-resolv.c
+SF-test.txt
+MF-AutoSUID.sh
+TP-bash
+MP-nl
+TP*-tcpdump 
+TP-cat
+MF-1.txt
+MF-pd.c
+MF-ufw.log
+MP-localectl
+SF-syslog.c
+SO-192.168.47.134:4444
+MP-grep
+SF-cron.a
+SF-on.a
+MF-data.zip
+SO-192.168.37.130
+TP-whois
+SO-http://192.168.206.137:8080/robots.txt
+MP-tail
+TP-cat
+TP*-more
+TP-cat
+MF-alertConfigField.php
+MP-less
+MP*-python3
+MF-logrotate.c
+SF-subprocess.c
+MF-p.c
+MF-T1574.006.c
+MP*-ifconfig
+MF-da-ks.cfg
+MF-sysctl.c
+MP-sh
+MF-robots.txt
+MF-httpd.c
+MP-uname
+MF-victim-shred.txt
+MP-bash
+MF-resolv.c
+MP-bash
+117
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 UK
+1 4 IJ
+4 2 RD
+1 5 RD
+4 5 UK
+1 6 RD
+1 7 RD
+1 8 IJ
+8 2 RD
+8 6 WR
+8 7 CD
+1 9 UK
+10 2 EX
+10 6 RD
+10 7 RD
+8 10 IJ
+11 2 UK
+8 12 WR
+10 12 WR
+8 13 WR
+10 13 RD
+8 14 CD
+10 14 WR
+15 6 WR
+15 7 WR
+8 15 IJ
+10 15 IJ
+15 12 EX
+15 13 WR
+15 14 CD
+8 16 RD
+10 16 WR
+15 16 WR
+17 8 RF
+17 10 RF
+15 17 ST
+8 18 IJ
+10 18 UK
+15 19 RD
+15 20 WR
+15 21 WR
+15 22 ST
+23 13 UK
+24 15 RF
+15 25 UK
+26 16 WR
+26 17 ST
+26 19 EX
+26 20 WR
+26 21 EX
+22 26 RF
+26 24 ST
+17 27 RF
+27 19 RD
+27 20 WR
+27 21 EX
+27 22 ST
+27 24 ST
+26 27 IJ
+28 19 WR
+28 20 WR
+28 21 EX
+28 22 ST
+28 24 ST
+26 28 IJ
+27 28 UK
+26 29 UK
+30 21 EX
+22 30 RF
+30 24 ST
+31 22 ST
+24 31 RF
+31 32 EX
+31 33 RD
+31 34 RD
+31 35 RD
+31 36 FR
+36 32 WR
+36 33 EX
+36 34 WR
+36 35 WR
+31 37 WR
+36 37 WR
+31 38 RD
+36 38 WR
+31 39 FR
+39 32 RD
+39 33 WR
+39 34 WR
+39 35 WR
+39 37 RD
+39 38 WR
+31 40 WR
+36 40 RD
+39 40 UK
+31 41 RD
+36 41 WR
+42 32 WR
+42 33 RD
+42 34 WR
+42 35 WR
+42 37 WR
+42 38 WR
+42 41 EX
+36 43 WR
+42 43 WR
+44 34 RD
+44 35 RD
+36 44 UK
+42 45 WR
+46 37 RD
+46 38 RD
+46 41 WR
+42 46 UK
+

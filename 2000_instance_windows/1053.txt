@@ -1,0 +1,90 @@
+25
+MP*-AutoPico.exe
+MF-C:\Program Files (x86)\GnuPG\bin\gpg
+TP*-de6a9b27-2bca-4abb-8a20-2deeaa715179.exe
+SF-C:\Users\admin\AppData\Local\Temp\jkuvgfhkfgaympuou
+MP-Proforma Invoice and Bank swift-REG.PI-0086547654.exe 
+MF-C:\Windows\SysWOW64\tolkqfys\qgcrmeck
+MF-C:\Users\admin\AppData\Local\Temp\ycard
+MP-Invoice.exe 
+SO-https://filetransfer.io/data-package/UR2whuBv/download
+MF-C:\Program Files\PC Cleaner\PCCNotifications
+MP-cvtres.exe
+MF-C:\Windows\system32\sc.exe
+MF-\Users\admin\AppData\Local\Temp\xx.vb
+MP-chrome.exe
+SF-C:\Users\admin\AppData\Local\Temp\_vnw
+TF-\Windows\System32\taskkill.exe
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+MF-\Windows\Temp\lsass_dump.dmp
+MF-\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+TP-firefox.exe
+MP*-KMSpico_setup.exe
+MF-.\T1127.001\src\vb.xml
+SF-C:\Users\Public\coinmarketcap\imcq.ps1
+MP-nsBB14.tmp
+MP*-reg.exe
+62
+0 1 WR
+0 2 IJ
+2 1 WR
+0 3 WR
+2 3 WR
+0 4 FR
+4 1 WR
+2 4 IJ
+4 3 RD
+0 5 WR
+2 5 RD
+4 5 WR
+0 6 EX
+2 6 RD
+4 6 WR
+0 7 FR
+7 1 UK
+0 8 ST
+8 2 RF
+4 8 ST
+0 9 RD
+2 9 RD
+4 9 WR
+0 10 UK
+2 11 WR
+4 11 RD
+2 12 WR
+4 12 UK
+13 3 WR
+13 5 WR
+13 6 WR
+8 13 RF
+13 9 WR
+13 11 WR
+13 14 RD
+13 15 EX
+13 16 ST
+13 17 RD
+13 18 RD
+19 9 WR
+19 11 WR
+13 19 UK
+20 11 RD
+20 14 WR
+20 15 WR
+20 16 ST
+20 17 WR
+20 18 EX
+20 21 RD
+20 22 RD
+23 14 WR
+23 15 EX
+16 23 RF
+23 17 WR
+23 18 EX
+20 23 UK
+24 15 WR
+16 24 RF
+24 17 EX
+24 18 RD
+24 21 WR
+24 22 UK
+

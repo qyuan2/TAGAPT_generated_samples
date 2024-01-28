@@ -1,0 +1,41 @@
+14
+MP*-less
+MF-access.htm
+MP-bash 
+SF-cron.h
+MP-cat
+TF-chttp.c
+MF-td.c
+TP*-cat
+MF-chttp.c
+SO-http://192.168.206.137:8080/robots.txt
+MP*-ls
+MF-settings.php
+MF-resolv.c
+MP*-ls
+24
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 RD
+2 3 WR
+0 4 UK
+2 5 RD
+2 6 WR
+7 1 RD
+2 7 IJ
+7 3 WR
+7 5 EX
+7 6 RD
+2 8 WR
+7 8 RD
+9 2 RF
+9 7 RF
+10 1 RD
+2 10 UK
+7 11 EX
+7 12 WR
+13 5 RD
+13 6 WR
+7 13 UK
+

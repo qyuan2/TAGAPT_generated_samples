@@ -1,0 +1,49 @@
+14
+MP*-ns9B66.tmp 
+SF-C:\Users\admin\AppData\Local\Temp\nsf91FB
+MF-C:\Users\admin\AppData\Local\Temp\4CA9.dll
+MP*-test.exe 
+MF-C:\Users\admin\Desktop\265a5ffd91ee9ffc780e221ab78c655c10afb9fae8c870628155108856bc088e
+MP*-AdobeTray.exe
+MF-build.exe
+SO-hxxp://PLAZMA.VIBER.ontroma.ru/PLAZMA.html
+MF-Options\notepad.exe
+MF-C:\Program Files\Windows Defender\MpCmdRun
+SF-C:\Program files\Contacts\DriversHood.exe
+SF-C:\Users\admin\AppData\Local\Temp\813cf6a6b07c740a105cb3f82ec779318d3621a6337902878737a8d56f525e7b
+MF-C:\Users\admin\AppData\Local\Temp\601f2b22a16a96c9ddaae24e2c5611f2.exe
+MP*-c9923098.exe
+32
+0 1 EX
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 WR
+3 4 WR
+0 5 FR
+5 1 WR
+5 2 EX
+5 4 EX
+0 6 RD
+3 6 WR
+5 6 WR
+0 7 ST
+3 7 ST
+5 7 ST
+0 8 WR
+3 8 WR
+5 8 WR
+0 9 RD
+3 9 RD
+5 9 WR
+0 10 WR
+3 10 WR
+5 10 WR
+3 11 EX
+5 11 WR
+3 12 WR
+5 12 WR
+13 4 RD
+5 13 UK
+

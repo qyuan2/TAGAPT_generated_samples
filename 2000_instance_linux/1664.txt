@@ -1,0 +1,48 @@
+14
+MP*-dd
+MP-cat
+MF-access.htm
+MP-wfuzz
+TF-d.c
+MF-test.txt
+SF-T1574.006.c
+MP-cat
+MP*-cat
+SO-http://192.168.10.129/image.php?FUZZ=something
+MF-flag3.txt
+MP-cat
+MP*-ifconfig
+MP*-find
+31
+0 1 FR
+0 2 RD
+1 2 UK
+0 3 FR
+0 4 WR
+3 4 RD
+0 5 RD
+3 5 WR
+0 6 WR
+3 6 WR
+3 7 UK
+8 4 WR
+8 5 EX
+8 6 CD
+9 8 RF
+8 10 WR
+11 4 RD
+11 5 WR
+11 6 RD
+8 11 UK
+12 4 WR
+12 5 WR
+12 6 WR
+12 9 ST
+12 10 CD
+13 4 EX
+13 5 WR
+13 6 EX
+13 9 ST
+13 10 RD
+12 13 UK
+

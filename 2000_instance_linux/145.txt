@@ -1,0 +1,60 @@
+17
+MP*-awk
+MF-v.c
+MP-tail
+TP-last
+SF-common.txt
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+MP*-netstat
+MP*-cat
+MF-apache2.c
+TP*-find
+TP-id
+MF-inetd.c
+MP-zip
+MF-data.tar.gz
+MP-ls
+SF-apache2.c
+MP-pr
+40
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 EX
+5 0 RF
+0 6 FR
+6 1 WR
+6 4 RD
+6 5 ST
+0 7 FR
+7 1 WR
+7 4 EX
+7 5 ST
+6 7 UK
+0 8 EX
+0 9 FR
+9 1 RD
+9 4 WR
+5 9 RF
+9 8 RD
+0 10 IJ
+10 1 RD
+10 4 WR
+5 10 RF
+10 8 UK
+9 11 EX
+12 4 WR
+5 12 RF
+9 12 IJ
+12 11 WR
+9 13 UK
+14 4 RD
+14 5 ST
+14 11 RD
+12 15 UK
+16 11 WR
+14 16 UK
+

@@ -1,0 +1,282 @@
+82
+MP*-MicrosoftUpdate.exe 
+MP-regasm.exe
+SF-C:\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6.zip
+MF-\Users\admin\AppData\Local\Temp\EasyValorant.exe
+MP-shutdown.exe
+MF-\Users\admin\AppData\Local\Temp\CyberSeal_Crypter_Cracked.exe
+MP-MsiExec.exe
+MF-files\data.exe
+SO-10.0.0.00000
+TP-Windows Defender Protection.exe
+MF-\Users\User\29630.ico.vb
+MP-regsvr32 .exe
+MF-Report.pdf
+MP-WinRAR.exe 
+MP-oneetx.exe 
+MF-C:\Program Files\Microsoft\Skype for Desktop\Skype.exe
+MP-pdates.exe 
+MP-IBM_Centosi.exe 
+TP-Dkeyauth.exe
+MP-Uninstall.exe 
+MF-ldifde.exe
+MP-ROUTE.EXE
+TF-c:\Users\admin\AppData\Local\Temp\CSCF350.tmp
+MP-FTPServer.exe 
+MP-sc.exe
+MF-Files\JJSploit\JJSploit.exe
+SF-C:\Windows\system32\pnpui
+SO-https://raw.githubusercontent.com/skar4444/Windows-Credential-Manager/4ad208e70c80dd2a9961db40793da291b1981e01/GetCredmanCreds.ps1
+MF-Order.htm
+MF-C:\Users\admin\AppData\Local\Temp\is-4LLB1.tmp
+MP-Dkeyauth.exe
+MF-\Users\admin\AppData\Local\Temp\042da877d3\yiueea.exe
+SF-C:\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV
+MF-C:\Users\Public\Music\tvplaylist
+TF-System.EnterpriseServices.dll
+MF-C:\Users\admin\AppData\Roaming\obiokmgf6.exe
+TP-avi_previewer_demo.exe
+MF-C:\Users\admin\AppData\Local\Temp\qgcrmeck.exe
+MF-C:\Program Files\Windows Defender\MpCmdRun
+MF-\Users\admin\AppData\Roaming\Microsoft\Network\mstsca.exe
+TP*-cmd.exe
+TF-\Users\admin\Desktop\Dkx0i5ipj.README.txt
+MF-C:\Users\admin\AppData\Local\Temp\RESF360
+MF-EXb3868.24079\tasksche.exe
+MF-7.1.exe
+SF-C:\Windows\SysWOW64\cmd.exe
+MF-files\appdata\local\temp\5491.bmp.vb
+SF-C:\Program Files\Notepad
+SO-192.168.5.25
+SO-1.2.840.113556
+MP-tasklist.exe
+MP*-olsptrs.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Ayuaey.exe
+MF-C:\MSOCache\All Users\{90140000-0044-0411-0000-0000000FF1CE}-C\WinRAR.exe
+MF-\Windows\system32\wbengine.exe
+TP-jsc.exe
+MF-msmdsrv.exe
+MF-quarantine.m
+MP-crack.exe 
+MP-NOTEPAD.EXE
+MP-Order Confirmation.exe 
+MP-cmd.exe
+MP*-gsecdump.exe
+MP-MicrosoftEdgeUpdate.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Tudehluxjc.exe
+TF-igfxpph.dll
+SF-C:\Users\admin\AppData\Local\Temp\iphoneanalyzer
+MF-C:\Program Files\OneDrive.exe
+MF-taskdl.exe
+TF-C:\Users\admin\AppData\Local\Temp\alg.exe
+MP-ns9C62.tmp
+MP-CareUEyes_setup.exe
+SF-C:\Users\admin\Desktop\Thursday
+TP-msxsl.exe
+MF-C:\Windows\System32\msdtc
+TP-words[1].txt.exe
+MP-certutil
+MF-C:\Users\admin\AppData\Local\Temp\Downloads.zip
+MF-\Atomic-license.txt
+SO-45.63.100.72
+TP-fltmc.exe
+MP-goose_goose_duck_free.exe 
+197
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 RD
+1 3 WR
+0 4 FR
+1 4 UK
+0 5 EX
+0 6 FR
+6 2 RD
+6 3 WR
+6 5 WR
+0 7 RD
+6 7 WR
+8 0 RF
+8 6 RF
+0 9 IJ
+9 2 WR
+9 3 WR
+9 5 WR
+6 9 IJ
+9 7 RD
+8 9 RF
+0 10 RD
+6 10 CD
+9 10 WR
+11 2 EX
+11 3 UK
+6 12 RD
+9 12 UK
+13 5 WR
+6 13 UK
+14 5 RD
+14 7 EX
+8 14 RF
+14 10 EX
+14 15 RD
+16 7 RD
+16 8 ST
+16 10 CD
+16 15 WR
+17 8 ST
+17 10 RD
+17 15 WR
+16 17 UK
+18 10 RD
+18 15 WR
+19 10 EX
+19 15 WR
+18 19 IJ
+18 20 RD
+19 20 RD
+21 15 RD
+18 21 IJ
+19 21 UK
+18 22 EX
+23 15 RD
+18 23 UK
+24 15 EX
+24 20 RD
+24 22 WR
+24 25 WR
+24 26 WR
+27 24 RF
+24 28 WR
+24 29 WR
+30 20 WR
+30 22 WR
+30 25 WR
+30 26 WR
+27 30 RF
+30 28 WR
+30 29 EX
+24 31 WR
+30 31 WR
+24 32 RD
+30 32 WR
+24 33 WR
+30 33 EX
+24 34 UK
+30 35 WR
+36 26 WR
+27 36 RF
+36 28 EX
+36 29 UK
+30 37 WR
+30 38 WR
+30 39 EX
+30 40 IJ
+40 31 WR
+40 32 RD
+40 33 EX
+40 35 WR
+40 37 WR
+40 38 RD
+40 39 WR
+40 41 WR
+40 42 WR
+40 43 EX
+40 44 WR
+40 45 WR
+40 46 RD
+40 47 EX
+48 40 RF
+40 49 ST
+40 50 UK
+51 41 EX
+51 42 EX
+51 43 WR
+51 44 WR
+51 45 RD
+51 46 RD
+51 47 RD
+51 48 ST
+49 51 RF
+51 52 RD
+51 53 RD
+51 54 WR
+55 45 WR
+55 46 WR
+55 47 UK
+51 56 RD
+51 57 WR
+58 48 ST
+58 49 ST
+51 58 UK
+49 59 RF
+59 52 RD
+59 53 WR
+59 54 EX
+59 56 WR
+59 57 EX
+60 52 RD
+60 53 WR
+60 54 RD
+60 56 WR
+60 57 RD
+61 52 WR
+61 53 WR
+61 54 WR
+61 56 EX
+61 57 WR
+60 61 UK
+62 53 RD
+62 54 RD
+62 56 EX
+62 57 WR
+63 54 RD
+63 56 EX
+63 57 RD
+62 64 CD
+63 64 EX
+62 65 WR
+63 65 CD
+62 66 WR
+63 66 RD
+62 67 WR
+63 67 RD
+62 68 WR
+63 68 WR
+62 69 WR
+63 69 CD
+62 70 FR
+63 70 UK
+62 71 FR
+71 64 CD
+71 65 WR
+71 66 RD
+71 67 RD
+71 68 EX
+71 69 WR
+62 72 WR
+71 72 RD
+73 64 RD
+73 65 RD
+73 66 UK
+71 74 WR
+75 65 WR
+75 67 WR
+75 68 UK
+76 67 WR
+76 69 WR
+76 72 RD
+76 74 RD
+71 77 WR
+76 77 RD
+71 78 EX
+76 78 WR
+79 71 RF
+76 79 ST
+71 80 FR
+80 72 WR
+80 74 WR
+76 80 UK
+81 72 RD
+81 74 EX
+81 77 UK
+

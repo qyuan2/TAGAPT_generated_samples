@@ -1,0 +1,69 @@
+21
+MP-uname
+SO-123.6.44.67
+MP-ip
+TP*-grep
+MP-whois
+TP-head
+TP-ls
+MP*-less
+TP*-nl
+TF-ufw.c
+MF-journald.c
+SF-e2.c
+MF-atomic.log
+SF-sysctl.c
+MP-sh
+TF-image.php
+MF-1.zip
+TF-Users.tar.gz
+SF-atomic.log
+SF-atomic.log
+MP*-arp-scan
+45
+1 0 RF
+0 2 UK
+3 1 ST
+4 1 ST
+3 4 IJ
+5 1 ST
+3 5 IJ
+4 5 UK
+1 6 RF
+3 6 UK
+1 7 RF
+1 8 RF
+7 8 IJ
+7 9 WR
+8 9 WR
+7 10 WR
+8 10 RD
+7 11 RD
+8 11 WR
+7 12 EX
+8 12 EX
+7 13 WR
+8 13 RD
+7 14 FR
+8 14 IJ
+14 9 WR
+14 10 RD
+14 11 RD
+14 12 WR
+14 13 RD
+7 15 WR
+8 15 WR
+14 15 WR
+7 16 EX
+8 16 RD
+14 16 WR
+7 17 UK
+8 18 WR
+14 18 RD
+14 19 WR
+20 10 EX
+20 11 RD
+20 12 RD
+20 13 RD
+14 20 UK
+

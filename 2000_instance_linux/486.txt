@@ -1,0 +1,75 @@
+17
+MP*-echo
+MF-common.txt
+MF-lv.c
+SF-robots.txt
+SF-lv.c
+TP*-nl
+TP-ip
+MP-sudo
+MF-d.c
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+MP*-cp
+MP-less
+MP*-find
+MP-su
+TF-0*.txt
+MF-shell.cgi
+MP-netstat
+55
+0 1 RD
+0 2 WR
+0 3 EX
+0 4 RD
+0 5 FR
+5 1 RD
+5 2 WR
+5 3 WR
+5 4 RD
+0 6 FR
+6 1 RD
+6 2 EX
+6 3 RD
+6 4 RD
+5 6 IJ
+0 7 FR
+7 1 RD
+7 2 WR
+7 3 WR
+7 4 RD
+5 7 UK
+0 8 WR
+6 8 RD
+9 0 RF
+6 9 ST
+0 10 FR
+10 1 WR
+10 2 RD
+10 3 WR
+10 4 WR
+6 10 IJ
+10 8 RD
+9 10 RF
+11 1 RD
+11 2 WR
+11 3 WR
+11 4 RD
+6 11 IJ
+11 8 WR
+9 11 RF
+10 11 UK
+12 2 EX
+12 3 WR
+12 4 WR
+6 12 IJ
+12 8 WR
+9 12 RF
+13 3 WR
+13 4 WR
+6 13 UK
+12 14 RD
+12 15 WR
+16 8 WR
+16 9 ST
+12 16 UK
+

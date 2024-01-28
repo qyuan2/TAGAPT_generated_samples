@@ -1,0 +1,107 @@
+28
+MP*-ifconfig
+MP-grep
+MF-T1070.006-reference.txt
+MF-logrotate.c
+MP-pr
+TP*-tail
+SO-http://192.168.206.137:8080/robots.txt
+TP-dnsdomainname
+MF-raft-medium-directories.txt
+MP-uname
+SO-192.168.10.131
+MF-raft-medium-directories.txt
+MF-syslog.c
+MF-resolv.c
+MP*-bash
+SF-Users.tar.gz
+MP-sh
+MP*-sed
+MP-ls
+MF-da-ks.cfg
+SO-192.168.10.135
+TF-syslog.c
+MF-resolv.c
+SF-art.sh
+MF-alertConfigField.php
+TF-raft-medium-directories.txt
+MF-atomic.sh
+MP-wpscan
+76
+0 1 FR
+0 2 WR
+1 2 EX
+0 3 WR
+1 3 WR
+0 4 FR
+1 4 UK
+0 5 FR
+5 2 WR
+5 3 RD
+0 6 ST
+5 6 ST
+0 7 FR
+7 2 WR
+7 3 WR
+5 7 IJ
+6 7 RF
+0 8 RD
+5 8 EX
+7 8 WR
+0 9 UK
+10 5 RF
+7 10 ST
+5 11 RD
+7 11 RD
+5 12 RD
+7 12 WR
+5 13 WR
+7 13 WR
+5 14 FR
+6 14 RF
+7 14 IJ
+14 8 RD
+10 14 RF
+14 11 WR
+14 12 RD
+14 13 WR
+5 15 RD
+7 15 WR
+14 15 WR
+6 16 RF
+7 16 IJ
+16 8 WR
+16 10 ST
+16 11 WR
+16 12 WR
+16 13 WR
+16 15 WR
+7 17 FR
+17 8 WR
+10 17 RF
+17 11 WR
+17 12 WR
+17 13 WR
+17 15 WR
+18 8 WR
+18 10 ST
+18 11 UK
+14 19 WR
+16 19 WR
+17 19 WR
+20 14 RF
+20 16 RF
+20 17 RF
+14 21 EX
+16 21 WR
+17 21 RD
+14 22 EX
+16 22 UK
+14 23 WR
+17 23 RD
+14 24 CD
+17 24 WR
+17 25 WR
+17 26 WR
+17 27 UK
+

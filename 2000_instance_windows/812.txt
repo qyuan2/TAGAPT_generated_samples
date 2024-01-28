@@ -1,0 +1,113 @@
+32
+MP-InstallUtil.exe
+SF-HKCU\Software\Microsoft\Office\16.0\Outlook\WebView\Inbox
+MF-.\T1218.007\bin\T1218.007_DLL.m
+MF-%userprofile%\documents
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.xml');$Xml.command.a.execute
+MF-cmd.exe
+MF-C:\Program Files\Microsoft\Edge\Application\msedge.exe
+MP-timeout.exe
+MP*-suifsc.exe 
+SO-https://onapsis.com/onapsis-platform
+MF-\Users\admin\AppData\Local\Temp\4CA9.dll
+MP-RdrCEF.exe 
+TP-ytfovlym.exe
+MF-vssadmin.exe
+TF-C:\Users\admin\AppData\Local\Temp\renamer
+TP-verclsid.exe
+TP-keydlls.exe
+MF-C:\Users\admin\AppData\Local\Temp\_vnw.exe
+TP-Uninstall.exe 
+MF-\Windows\System32\schtasks.exe
+MP*-Notepad Soft.exe 
+TP*-WMIC.exe 
+MP-ns99EC.tmp
+MP*-E63F.exe
+MP-nsC7AA.tmp
+MF-C:\Users\admin\AppData\Local\Temp\factura.doc
+TF-C:\Users\admin\Desktop\mincedcrack.exe
+MP-javaw.exe
+SF-C:\Users\admin\AppData\Local\Temp\stealc_TestBuild
+SO-https://filetransfer.io/data-package/UR2whuBv/download
+TP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MP-nsC7AA.tmp
+78
+0 1 WR
+0 2 CD
+0 3 WR
+0 4 ST
+0 5 EX
+0 6 WR
+0 7 FR
+7 1 WR
+7 2 WR
+7 3 UK
+0 8 FR
+8 1 WR
+8 2 WR
+8 4 ST
+8 5 RD
+8 6 WR
+9 0 RF
+9 8 RF
+0 10 RD
+8 10 WR
+11 1 WR
+11 2 WR
+11 4 ST
+11 5 UK
+12 2 UK
+8 13 WR
+8 14 RD
+15 6 WR
+8 15 IJ
+15 9 ST
+15 10 UK
+16 6 RD
+8 16 IJ
+9 16 RF
+16 13 WR
+16 14 WR
+8 17 WR
+16 17 WR
+8 18 UK
+16 19 WR
+20 13 WR
+20 14 WR
+16 20 IJ
+20 17 WR
+20 19 CD
+21 13 RD
+21 14 CD
+16 21 IJ
+21 17 RD
+21 19 WR
+20 21 IJ
+22 13 RD
+22 14 WR
+16 22 IJ
+22 17 EX
+22 19 UK
+23 13 EX
+23 14 WR
+16 23 IJ
+23 17 WR
+21 23 UK
+24 14 RD
+16 24 UK
+20 25 WR
+20 26 RD
+27 17 RD
+27 25 WR
+27 26 RD
+20 28 WR
+27 28 RD
+29 20 RF
+27 29 ST
+20 30 IJ
+30 25 WR
+30 26 CD
+27 30 UK
+31 25 WR
+31 26 UK
+

@@ -1,0 +1,42 @@
+12
+MP*-WINWORD.EXE
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystem.ps1
+MP*-Curl.exe
+MP-C3B1.exe
+SF-C:\Path\AtomicRedTeam
+TF-PathToAtomicsFolder\T1137.004\src\T1137.004.htm
+MP*-New Client.exe
+MP-tasklist.exe
+MF-C:\Users\Public\coinmarketcap\1
+TP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+MP*-wscript.exe 
+MP-nsCFA0.tmp
+27
+0 1 ST
+0 2 FR
+2 1 ST
+0 3 FR
+1 3 RF
+2 3 UK
+0 4 RD
+0 5 RD
+0 6 FR
+1 6 RF
+6 4 WR
+6 5 EX
+0 7 FR
+1 7 RF
+7 4 UK
+0 8 WR
+6 8 WR
+0 9 IJ
+9 1 ST
+9 5 WR
+6 9 UK
+1 10 RF
+10 5 RD
+10 8 RD
+11 5 RD
+11 8 WR
+10 11 UK
+

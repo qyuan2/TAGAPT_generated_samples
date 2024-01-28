@@ -1,0 +1,54 @@
+15
+MP*-cat
+SO-192.168.206.0
+SF-e.c
+TP*-more
+SF-Users.tar.gz
+SF-apache2.c
+MF-syslog.c
+MF-access.txt
+MP*-cat
+MF-anaconda-ks.cfg
+MP-cat
+MF-syslog.c
+MP-php
+MP*-cat
+MP-ls
+36
+1 0 RF
+0 2 WR
+0 3 FR
+1 3 RF
+3 2 WR
+0 4 WR
+3 4 RD
+0 5 WR
+3 5 WR
+0 6 RD
+3 6 RD
+0 7 WR
+3 7 WR
+0 8 FR
+1 8 RF
+8 2 WR
+3 8 IJ
+8 4 WR
+8 5 CD
+8 6 WR
+8 7 WR
+0 9 RD
+3 9 EX
+8 9 WR
+0 10 UK
+3 11 EX
+8 11 WR
+12 2 WR
+3 12 UK
+13 4 WR
+13 5 EX
+13 6 WR
+13 7 WR
+8 13 UK
+14 4 WR
+14 5 UK
+

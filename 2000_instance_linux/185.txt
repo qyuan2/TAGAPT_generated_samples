@@ -1,0 +1,34 @@
+11
+MP*-cat
+SF-lighttp.c
+MF-test.txt
+MP*-grep
+TF-backsup.sh
+MP-hydra
+MP*-id
+TP*-cat
+MP-find
+SF-passwd.zip
+TP-ls
+20
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 EX
+3 4 WR
+0 5 UK
+6 1 WR
+6 2 RD
+6 4 WR
+7 1 WR
+7 2 WR
+7 4 RD
+6 7 UK
+8 1 WR
+8 2 EX
+8 4 WR
+8 9 UK
+10 1 UK
+

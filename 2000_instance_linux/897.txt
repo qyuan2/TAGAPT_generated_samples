@@ -1,0 +1,88 @@
+29
+MP-find
+SO-192.168.2.102
+MP-awk
+MP*-cat
+MF-atomic.sh
+MF-etc.tar.gz
+TF-resolv.c
+MP-cat
+TP*-find
+MP*-sed
+MP-awk
+TF-cron.m
+MF-0*.txt
+TF-user.r
+TP-cat
+MF-Winlangdb.pdb
+TF-common.txt
+MP-head
+SF-T1003.008.txt
+MP-cat
+SO-192.168.10.133
+MF-backsup.sh
+TF-common.txt
+MF-ron.a
+MF-shell.cgi
+SF-p.c
+MP*-grep
+TF-T1070.004-test.txt
+SF-v.c
+56
+1 0 RF
+0 2 UK
+3 1 ST
+3 4 WR
+3 5 RD
+3 6 RD
+7 1 ST
+3 7 UK
+1 8 RF
+8 4 EX
+8 5 WR
+8 6 RD
+1 9 RF
+9 4 RD
+9 5 WR
+9 6 RD
+8 9 IJ
+10 1 ST
+10 4 UK
+8 11 WR
+9 11 WR
+8 12 RD
+9 12 RD
+8 13 WR
+9 13 RD
+14 5 WR
+14 6 WR
+8 14 UK
+9 15 RD
+9 16 WR
+9 17 FR
+17 11 WR
+17 12 WR
+17 13 EX
+17 15 WR
+17 16 RD
+9 18 RD
+17 18 WR
+19 11 WR
+19 12 WR
+19 13 EX
+19 15 UK
+17 20 ST
+17 21 WR
+17 22 EX
+17 23 WR
+17 24 RD
+17 25 UK
+26 18 WR
+20 26 RF
+26 21 RD
+26 22 EX
+26 23 WR
+26 24 WR
+26 27 RD
+26 28 UK
+

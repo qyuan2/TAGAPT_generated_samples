@@ -1,0 +1,91 @@
+28
+MP*-is-3DL5P.tmp
+MP-keygen.exe
+SF-C:\Users\Public\coinmarketcap\imcq.ps1
+MP*-csc.exe 
+SF-C:\Users\admin\AppData\Local\Temp\msetup\360TS_Setup_Mini_WW
+MP-z9673002.exe
+TF-\Users\admin\AppData\Local\Temp\B47C.exe
+MP-appcmd.exe
+MF-\Users\admin\AppData\Local\Temp\601f2b22a16a96c9ddaae24e2c5611f2.exe
+MF-123123123.odt
+SF-C:\Users\admin\AppData\Local\Temp\UpdateService
+MF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64.dll
+MP-Register-CimProvider.exe
+MF-\Users\admin\AppData\Local\Temp\042da877d3\yiueea.exe
+MP-at.exe
+MF-\Users\admin\AppData\Local\Temp\Downloads.zip
+SF-C:\Users\admin\Desktop\abe2ccc4b4bb38f9e7af5cfe7dcc331c5a3ce286b6995b81cf26e011beba7e90
+TP-AcroRd32.exe
+MF-windir\system32\rundll32.exe
+MP-meatspin full.exe
+MP*-executable.3044.exe 
+SF-C:\Users\admin\AppData\Local\Temp\Invoice.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/test
+MF-C:\Users\admin\AppData\Local\Temp\OriginalBuild
+TF-C:\Users\admin\AppData\Local\Temp\AB083F1294796B947DE5390EC853243E
+MF-C:\Users\admin\AppData\Local\Temp\renamer
+MP*-notepad++.exe 
+MP-vlliugwu.exe 
+60
+0 1 FR
+0 2 RD
+1 2 UK
+0 3 FR
+0 4 RD
+3 4 WR
+0 5 FR
+5 4 WR
+0 6 WR
+3 6 WR
+5 6 WR
+0 7 FR
+7 4 WR
+5 7 UK
+0 8 WR
+3 8 WR
+0 9 RD
+3 9 WR
+0 10 RD
+3 10 RD
+3 11 WR
+3 12 FR
+12 4 CD
+12 6 WR
+12 8 CD
+12 9 WR
+12 10 RD
+12 11 EX
+3 13 RD
+12 13 EX
+14 4 WR
+14 6 UK
+12 15 WR
+12 16 RD
+17 8 WR
+17 9 RD
+17 10 WR
+17 11 UK
+12 18 WR
+19 9 RD
+19 10 RD
+12 19 UK
+20 10 RD
+20 13 WR
+20 15 WR
+20 16 WR
+20 18 WR
+20 21 WR
+20 22 ST
+20 23 RD
+20 24 WR
+20 25 RD
+26 18 RD
+26 21 WR
+26 22 ST
+26 23 WR
+26 24 EX
+26 25 UK
+27 18 WR
+20 27 UK
+

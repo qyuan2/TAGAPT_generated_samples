@@ -1,0 +1,38 @@
+14
+MP*-dd
+MF-secret.c
+MP-cat
+MP*-grep
+TP*-grep
+MF-settings.php
+MP*-bash
+MF-0*.txt
+SO-192.168.1.1
+SO-8.8.8.8
+MF-etc.tar.gz
+MF-s.c
+MP-nl
+MF-raft-medium-directories.txt
+21
+0 1 WR
+0 2 UK
+3 1 WR
+4 1 RD
+3 4 IJ
+3 5 WR
+4 5 RD
+6 1 UK
+3 7 RD
+4 7 CD
+8 3 RF
+4 8 ST
+3 9 ST
+9 4 RF
+3 10 EX
+4 10 EX
+3 11 EX
+4 11 EX
+3 12 FR
+4 12 UK
+3 13 EX
+

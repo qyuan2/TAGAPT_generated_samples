@@ -1,0 +1,55 @@
+16
+MP*-less
+SO-192.168.47.134:4444
+MF-e.c
+SO-http://192.168.10.128/shell.cgi
+MP*-uname
+MF-resolv.c
+TP-xwd
+MP*-less
+SF-www.google.c
+MP*-grep
+MF-apache2.c
+MF-te.c
+SF-T1027-004-test.c
+MP-paste
+MF-data.zip
+MP-tee
+36
+1 0 RF
+0 2 WR
+3 0 RF
+0 4 FR
+1 4 RF
+4 2 EX
+3 4 RF
+0 5 WR
+4 5 UK
+0 6 FR
+6 1 ST
+6 2 RD
+3 6 RF
+0 7 FR
+1 7 RF
+7 2 RD
+7 3 ST
+6 7 IJ
+0 8 WR
+6 8 WR
+7 8 WR
+9 1 ST
+9 2 EX
+3 9 RF
+6 9 IJ
+7 9 UK
+6 10 WR
+6 11 RD
+6 12 WR
+6 13 IJ
+13 8 WR
+13 10 UK
+6 14 WR
+15 8 RD
+15 11 WR
+15 12 UK
+

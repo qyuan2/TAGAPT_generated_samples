@@ -1,0 +1,45 @@
+14
+MP*-SearchFilterHost.exe
+MF-\Users\admin\AppData\Local\Temp\2023-08-17_033700.jpg
+MF-C:\Program Files\AnyDesk\AnyDesk
+MF-files\ntuser.dat.tmcontainer.a
+MP*-pypykatz.py
+SF-C:\Users\admin\AppData\Local\Temp\tmp4503.tmp
+MF-C:\Users\admin\AppData\Local\Temp\sample.doc
+MF-C:\Users\admin\AppData\Local\Temp\r
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+TP*-SearchFilterHost.exe
+MF-DOCUMENT.rar
+MF-C:\Users\Administrator\Local Settings\services.exe
+TP*-ns9E4A.tmp
+SF-C:\Users\admin\Desktop\Span.exe
+28
+0 1 RD
+0 2 WR
+0 3 CD
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 WR
+0 5 WR
+4 5 WR
+0 6 RD
+4 6 WR
+0 7 WR
+4 7 WR
+8 0 RF
+8 4 RF
+0 9 FR
+9 1 UK
+0 10 WR
+4 10 WR
+4 11 WR
+12 3 EX
+4 12 IJ
+12 5 WR
+12 6 RD
+12 7 WR
+8 12 RF
+12 10 UK
+4 13 RD
+

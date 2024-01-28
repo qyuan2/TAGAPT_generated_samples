@@ -1,0 +1,85 @@
+29
+MP*-FISCALIA GENERAL DE LA NACION --.exe 
+TF-\Users\admin\AppData\Local\Temp\EBDE.exe
+MP*-vds.exe
+MP-jsIXhU
+MP-vlliugwu.exe 
+MP-NilfiskServiceTool.exe
+TF-.\T1218.007\bin\T1218.007_DLL.m
+TP-hh.exe 
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+TP*-ipconfig.exe
+MP-netsh.exe
+SF-C:\Users\admin\Desktop\OlympicDestroyer
+MF-C:\Users\admin\AppData\Local\Temp\Setup
+SO-https://crashstats-collector.opera.com/collector/submit
+TF-Project.scr
+MF-C:\Users\admin\AppData\Local\Temp\runn452
+MF-\Users\admin\AppData\Local\Temp\Xenos_2.3.2.7z
+MF-C:\Users\admin\AppData\Local\Temp\fast1nject
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MF-\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+SF-C:\Windows\system32\mspaint
+MP-Psiphon.exe
+SF-C:\Users\admin\AppData\Local\Temp\jojo11.exe
+MF-C:\Windows\syswow64\regsvr32.exe
+MF-C:\ServerComponenthostNet\z3dzg
+MF-C:\Windows\System32\schtasks.exe
+MF-\Windows\System32\rundll32.exe
+MF-C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\LogTransport2.exe
+TP*-schtasks.exe 
+53
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+0 4 FR
+4 1 EX
+0 5 UK
+4 6 EX
+7 1 CD
+4 7 IJ
+7 6 RD
+8 4 RF
+7 8 ST
+9 1 WR
+4 9 UK
+10 1 WR
+10 6 RD
+7 10 IJ
+8 10 RF
+7 11 RD
+10 11 WR
+7 12 RD
+10 12 WR
+7 13 ST
+10 13 ST
+7 14 WR
+10 14 WR
+7 15 UK
+10 16 RD
+10 17 WR
+18 10 RF
+10 19 CD
+10 20 RD
+21 11 WR
+21 12 EX
+13 21 RF
+21 14 WR
+21 16 WR
+21 17 WR
+21 18 ST
+21 19 WR
+21 20 WR
+21 22 CD
+21 23 WR
+21 24 WR
+21 25 WR
+21 26 CD
+21 27 WR
+28 19 WR
+28 20 WR
+21 28 UK
+

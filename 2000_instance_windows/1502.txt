@@ -1,0 +1,50 @@
+13
+MP*-nsA0C0.tmp 
+SF-C:\Users\admin\AppData\Roaming\Microsoft\Network\mstsca.exe
+MP-Invoice.exe 
+MF-C:\Windows\System32\sdiagnhost.exe
+TP-hh.exe 
+MF-\Users\admin\AppData\Local\Temp\trebovanie-ck-ot-07.08.23-parol-12312312.zip
+SF-C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\MyDellService\MyDellService.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.001/src/test.ps1',$False);$comMsXml.Send();IEX
+SF-C:\Recovery\345b46fe-a9f9-11e7-a83c-e8a4f72b1d33\WinRAR.exe
+MP*-NOTEPAD.EXE
+MF-C:\Program files\appdata\local\temp\17634.bmp
+MP*-Notepad Soft.exe 
+MP*-legosa.exe 
+34
+0 1 WR
+0 2 FR
+2 1 EX
+0 3 WR
+2 3 RD
+0 4 IJ
+4 1 EX
+2 4 UK
+0 5 RD
+0 6 WR
+7 0 RF
+0 8 WR
+0 9 FR
+9 1 WR
+9 3 WR
+9 5 WR
+9 6 WR
+9 7 ST
+9 8 WR
+0 10 WR
+9 10 RD
+11 3 RD
+11 5 RD
+11 6 WR
+11 7 ST
+11 8 EX
+11 10 WR
+12 3 WR
+12 5 RD
+12 6 WR
+12 7 ST
+12 8 WR
+12 10 RD
+11 12 UK
+

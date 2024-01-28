@@ -1,0 +1,45 @@
+12
+MP*-perl
+MF-da-ks.cfg
+MP-chmod
+TF-anaconda-ks.cfg
+MP-cat
+MF-logrotate.c
+TP*-sh
+MP*-more
+MF-at.a
+MP-wpscan
+MP*-uname
+MP-tee
+30
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 WR
+0 4 FR
+4 1 WR
+2 4 UK
+0 5 RD
+0 6 IJ
+6 1 WR
+6 3 WR
+6 5 WR
+0 7 FR
+7 1 WR
+7 3 EX
+7 5 RD
+6 7 UK
+0 8 CD
+0 9 FR
+9 1 RD
+9 3 UK
+0 10 FR
+10 1 RD
+10 5 WR
+10 8 CD
+11 1 WR
+11 5 EX
+11 8 RD
+10 11 UK
+

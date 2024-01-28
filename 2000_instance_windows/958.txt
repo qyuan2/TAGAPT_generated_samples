@@ -1,0 +1,58 @@
+15
+MP*-system_file.exe 
+MP*-cmstp.exe
+SO-https://globalmanysoft.com/services.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\nsA0C0.tmp
+MP*-iexplore.exe 
+MP-Xenos.exe 
+TP-softwarelagswitchc.exe 
+MP*-ns9423.tmp 
+MF-C:\Windows\system32\icacls
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-pg_ctl.exe
+MF-\Users\admin\AppData\Local\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+MF-C:\Program files\appdata\local\temp\9140
+TF-C:\Users\admin\AppData\Local\Temp\OriginalBuild
+MP-oldplayer.exe 
+40
+0 1 FR
+0 2 ST
+2 1 RF
+0 3 CD
+1 3 WR
+0 4 FR
+2 4 RF
+4 3 WR
+0 5 FR
+1 5 UK
+0 6 IJ
+6 2 ST
+6 3 WR
+4 6 IJ
+0 7 FR
+7 2 ST
+7 3 WR
+6 7 IJ
+0 8 WR
+4 8 WR
+6 8 WR
+7 8 EX
+9 0 RF
+9 4 RF
+6 9 ST
+9 7 RF
+0 10 WR
+4 10 WR
+6 10 WR
+7 10 WR
+4 11 WR
+6 11 CD
+7 11 WR
+4 12 WR
+6 12 WR
+7 12 UK
+4 13 WR
+6 13 WR
+4 14 FR
+6 14 UK
+

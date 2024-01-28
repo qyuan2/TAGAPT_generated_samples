@@ -1,0 +1,38 @@
+11
+MP*-WScript.exe 
+TF-\Users\admin\AppData\Local\Temp\gagu4gmirt.dll.exe
+MF-C:\Users\admin\AppData\Local\Temp\5503
+MP*-nsBC6C.tmp
+MF-C:\Users\admin\Desktop\x86\ProcessHacker.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmpB7A8.tmp
+SO-https://filetransfer.io/data-package/UR2whuBv/download
+TF-\Users\admin\Downloads\Scanned_file_PO23_Jan.exe
+SF-C:\Users\admin\AppData\Local\fvjhioojuu
+MP*-ns967A.tmp 
+MP*-ExplorerSuite.exe
+24
+0 1 RD
+0 2 CD
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 RD
+3 4 RD
+0 5 EX
+3 5 RD
+0 6 ST
+6 3 RF
+0 7 UK
+3 8 UK
+9 1 WR
+9 2 EX
+9 4 RD
+9 5 WR
+6 9 RF
+10 1 WR
+10 2 WR
+10 4 WR
+10 5 WR
+10 6 ST
+9 10 UK
+

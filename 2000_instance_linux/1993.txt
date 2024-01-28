@@ -1,0 +1,147 @@
+43
+MP*-find
+SF-io.r
+MF-v.c
+MP-bash
+MF-access.txt
+MF-data.zip
+MP-id
+SO-http://192.168.206.136/administrator/alerts/alertConfigField.php
+SO-http://192.168.10.128/shell.cgi
+SF-cron.a
+MP*-sudo
+MP-cat
+SF-1.zip
+SO-192.168.37.130
+MF-T1070.004-test.txt
+TF-raj.txt
+MF-image.php
+TP*-whoami
+MF-access.txt
+MP-chmod 
+TP-cat
+TF-syslog.c
+SF-pd.c
+SF-at.a
+MF-te.c
+MP*-uname
+SF-access.txt
+MP-ls
+MP-grep
+SO-192.168.10.128
+TF-CleaingScript.sh
+MP-more
+TF-www.google.c
+SF-access.txt
+TP-cat
+MF-v.c
+TF-ttpd.c
+MF-inetd.c
+SO-192.168.206.137
+MF-T1574.006.c
+TP-uname
+MF-e2.c
+MP-uname
+101
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 EX
+0 4 EX
+3 4 UK
+0 5 WR
+0 6 FR
+6 1 WR
+6 2 RD
+6 5 WR
+0 7 ST
+7 6 RF
+8 0 RF
+6 8 ST
+0 9 WR
+6 9 RD
+0 10 FR
+10 1 WR
+10 2 EX
+10 5 WR
+10 7 ST
+8 10 RF
+10 9 WR
+11 1 WR
+11 2 RD
+11 5 RD
+6 11 UK
+10 12 WR
+13 10 RF
+10 14 RD
+10 15 WR
+10 16 CD
+8 17 RF
+17 9 WR
+17 12 WR
+13 17 RF
+17 14 CD
+17 15 RD
+17 16 WR
+17 18 RD
+19 12 WR
+19 13 ST
+19 14 WR
+19 15 WR
+19 16 WR
+17 19 IJ
+19 18 RD
+20 12 EX
+20 13 ST
+20 14 RD
+20 15 CD
+20 16 WR
+17 20 IJ
+20 18 UK
+17 21 EX
+19 21 WR
+17 22 RD
+19 22 RD
+17 23 EX
+19 23 WR
+19 24 RD
+19 25 FR
+25 21 RD
+25 22 CD
+25 23 WR
+25 24 RD
+19 26 WR
+25 26 RD
+19 27 FR
+27 21 WR
+27 22 UK
+19 28 FR
+28 21 RD
+28 23 RD
+28 24 EX
+28 26 CD
+25 29 ST
+29 28 RF
+25 30 RD
+28 30 RD
+31 23 WR
+31 24 UK
+25 32 UK
+28 33 UK
+34 26 WR
+34 29 ST
+34 30 EX
+34 35 WR
+34 36 RD
+34 37 WR
+34 38 ST
+34 39 RD
+40 30 WR
+34 40 IJ
+40 35 RD
+40 36 RD
+40 37 UK
+34 41 WR
+34 42 UK
+

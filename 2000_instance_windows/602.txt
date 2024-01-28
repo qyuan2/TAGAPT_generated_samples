@@ -1,0 +1,41 @@
+13
+MP*-chrome.exe 
+MF-C:\Users\admin\AppData\Local\Temp\GLJC215
+MF-C:\Users\admin\AppData\Local\Temp\authrootstl.cab
+MP*-MsiExec.exe
+SF-HKEY_LOCAL_MACHINE\Software\Microsoft\Internet
+SF-C:\Users\admin\AppData\Local\Temp\msetup\360TS_Setup.exe
+SF-C:\Users\admin\Desktop\sozszwYnuqgbJM5CJDQgFn
+MF-C:\Users\admin\AppData\Local\Temp\lk.exe
+MF-system.tex
+MP*-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+MF-C:\Users\admin\AppData\Local\84ef6d24-ce7f-44e4-a5ae-1d47d92bf287\build2.exe
+MF-C:\Program files\appdata\roaming\battery\battery.cmd
+MP*-vssadmin.exe
+25
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 WR
+3 4 EX
+0 5 CD
+3 5 RD
+0 6 WR
+3 6 RD
+0 7 WR
+3 7 RD
+0 8 EX
+3 8 EX
+0 9 FR
+9 1 CD
+9 2 RD
+9 4 CD
+9 5 UK
+0 10 CD
+3 10 WR
+3 11 WR
+12 2 WR
+3 12 UK
+

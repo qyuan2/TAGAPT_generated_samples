@@ -1,0 +1,91 @@
+26
+MP*-cat
+TP-reboot
+MF-image.php
+MF-log.c
+TP-tee
+MP-paste
+SO-192.168.10.131
+MF-resolv.c
+MF-shell.cgi
+TP-awk
+MP*-cat
+MF-target.example.c
+MP-sed
+TP-nl
+SF-httpd.c
+MF-os.exe
+MF-victim-shred.txt
+SO-192.168.206.136
+MF-passwd.zip
+MF-StartupParameters.plist
+TF-flag4.txt
+TP*-sed
+TF-flag3.txt
+TP*-bash
+MF-syslog.c
+MF-robots.txt
+62
+0 1 FR
+1 2 RD
+1 3 WR
+1 4 IJ
+4 2 RD
+4 3 WR
+1 5 UK
+4 6 ST
+4 7 WR
+4 8 RD
+9 2 WR
+9 3 WR
+4 9 IJ
+9 6 ST
+9 7 WR
+9 8 WR
+10 2 WR
+10 3 WR
+4 10 UK
+9 11 WR
+12 2 WR
+12 3 RD
+6 12 RF
+12 7 WR
+12 8 EX
+9 12 IJ
+12 11 CD
+13 3 UK
+9 14 RD
+12 14 EX
+9 15 WR
+12 15 WR
+9 16 RD
+12 16 WR
+9 17 ST
+12 17 ST
+9 18 RD
+12 18 RD
+9 19 WR
+12 19 WR
+12 20 WR
+21 11 EX
+12 21 IJ
+21 14 RD
+21 15 WR
+21 16 RD
+21 17 ST
+21 18 RD
+21 19 CD
+21 20 WR
+12 22 EX
+21 22 EX
+23 14 RD
+23 15 WR
+23 16 WR
+23 17 ST
+23 18 WR
+23 19 EX
+23 20 WR
+23 22 EX
+23 24 WR
+23 25 UK
+

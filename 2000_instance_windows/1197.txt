@@ -1,0 +1,97 @@
+24
+MP*-ExplorerSuite.exe
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+MF-C:\Windows\system32\rundll32.exe
+SO-80.0.0.0
+TF-C:\Windows\system32\vssvc.exe
+TP*-AkrienBeta.exe 
+TP-nltest.exe
+MF-C:\Users\admin\AppData\Local\Temp\863e7c22c771e4005197ae28363584f8
+MP-tasklist.exe
+MF-0-KRP-69032873653.pdf
+MP-ns9872.tmp 
+MP-malware.exe 
+TP*-c3c6a5675d32fe330b83debceb63d60e.exe 
+MF-.\T1218.001\src\T1218.001.c
+MF-C:\Users\admin\AppData\Local\Temp\VUIlNoZNzEFwsrIkpa\EvaPKO
+SF-C:\Windows\System32\calc.exe
+MP*-RerSpacer710.exe  
+MP-DriverFiles_8a39eacf3b01f2a8c3032697a9824211.exe 
+MP-Bandizip.exe
+MP-setup_avrokeyboard_5.6.0.exe
+MF-\Users\admin\AppData\Local\Temp\UN.php
+MF-fiordan.r
+SF-C:\Path\AtomicRedTeam.dll
+TP-02867fa8b443043ec0fe6af211c852aa.exe 
+70
+0 1 ST
+0 2 WR
+0 3 ST
+0 4 WR
+0 5 IJ
+5 1 ST
+5 2 WR
+5 3 ST
+5 4 WR
+0 6 FR
+1 6 RF
+6 2 WR
+3 6 RF
+6 4 EX
+5 6 IJ
+0 7 RD
+5 7 WR
+6 7 WR
+0 8 FR
+1 8 RF
+8 2 CD
+3 8 RF
+8 4 WR
+5 8 UK
+0 9 WR
+6 9 WR
+0 10 FR
+1 10 RF
+10 2 WR
+10 3 ST
+10 4 WR
+6 10 IJ
+10 7 WR
+10 9 EX
+1 11 RF
+11 2 RD
+11 3 ST
+11 4 UK
+12 2 WR
+12 3 ST
+6 12 IJ
+12 7 WR
+12 9 WR
+10 12 IJ
+6 13 RD
+10 13 RD
+12 13 RD
+6 14 EX
+10 14 EX
+12 14 WR
+6 15 WR
+10 15 EX
+12 15 WR
+6 16 IJ
+16 7 RD
+16 9 RD
+10 16 UK
+17 7 RD
+17 9 WR
+12 17 IJ
+17 13 RD
+17 14 RD
+17 15 WR
+18 9 RD
+12 18 UK
+19 13 UK
+17 20 CD
+17 21 WR
+17 22 EX
+17 23 UK
+

@@ -1,0 +1,47 @@
+14
+MP*-OriginalBuild.exe.exe 
+MF-\Users\admin\AppData\Local\Temp\is-LETVB.tmp
+MP-nethtsrv.exe
+MP-INV 88000354.exe 
+SO-http://www.velux.de/kundendienstbedingungen
+TF-\Users\admin\AppData\Local\Temp\rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe
+MP-nltest.exe
+TP*-anydesk.exe
+TP*-msbuild.exe
+MF-guncel.pdf
+TP-vds.exe
+MP*-nanodump.x64.exe
+MF-C:\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64.dll
+TP-executable.3044.exe 
+30
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 WR
+2 3 UK
+4 0 RF
+0 5 WR
+0 6 FR
+6 1 WR
+4 6 RF
+6 5 UK
+0 7 IJ
+7 1 WR
+4 7 RF
+0 8 IJ
+8 1 WR
+8 4 ST
+7 8 IJ
+0 9 CD
+7 9 UK
+0 10 FR
+10 1 RD
+10 4 ST
+8 10 UK
+11 1 WR
+11 4 ST
+11 12 EX
+4 13 RF
+11 13 UK
+

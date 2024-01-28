@@ -1,0 +1,48 @@
+13
+MP*-GLJC215.tmp
+MP-Reg.exe
+TP*-nsA19D.tmp
+MF-C:\Users\admin\AppData\Local\84ef6d24-ce7f-44e4-a5ae-1d47d92bf287\build2.exe
+TP*-jww825a.exe 
+MF-AnyDesk.exe
+TP-chrome.exe 
+SO-127.0.0.1
+MP-jsIXhU
+MF-C:\Windows\system32\installd
+TP-Terminal.app
+MP*-Caspol.exe
+TF-Files\Setup\Setup\setup.bat
+32
+0 1 FR
+0 2 IJ
+1 2 IJ
+0 3 WR
+1 3 WR
+2 3 WR
+0 4 IJ
+1 4 IJ
+2 4 IJ
+4 3 RD
+0 5 RD
+1 5 WR
+2 5 WR
+4 5 WR
+0 6 UK
+1 7 ST
+2 7 ST
+4 7 ST
+1 8 FR
+2 8 UK
+1 9 EX
+4 9 WR
+1 10 FR
+10 3 WR
+4 10 IJ
+10 5 WR
+7 10 RF
+10 9 WR
+1 11 FR
+11 3 EX
+4 11 UK
+10 12 UK
+

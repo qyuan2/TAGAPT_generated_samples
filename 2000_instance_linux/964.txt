@@ -1,0 +1,203 @@
+48
+MP*-head
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+SF-Users.tar.gz
+MP-sed
+TP-curl
+SF-s.c
+SO-192.168.206.0
+TP-head
+MP-cat
+MP-grep
+SO-192.168.10.130
+SF-httpd.c
+TP*-cat
+MF-te.c
+MP-cat
+TP-ls
+MF-at.a
+MP-wpscan
+MP-less
+TF-syslog.c
+MF-raft-large-directories.txt
+TP-dd
+TP-sudo
+MF-lighttp.c
+TP-bash
+MF-ufw.log
+MP-cat
+TP-cat
+MP-nl
+TF-v.c
+SF-io.r
+MP-sed
+MF-lighttp.c
+SF-image.php
+SO-127.0.0.1:8080
+TF-target.example.c
+MP-more
+TP*-ls
+MP-cat
+TP-cat
+MF-http.c
+MF-logrotate.c
+SF-te.c
+MP*-cat
+SO-192.168.1.1
+MP-grep
+SF-user.r
+MP-cat
+152
+0 1 ST
+0 2 RD
+0 3 FR
+1 3 RF
+3 2 EX
+0 4 FR
+4 1 ST
+4 2 RD
+3 4 IJ
+0 5 EX
+3 5 WR
+4 5 EX
+0 6 ST
+6 3 RF
+6 4 RF
+0 7 IJ
+1 7 RF
+7 2 WR
+3 7 IJ
+4 7 IJ
+7 5 WR
+7 6 ST
+0 8 FR
+1 8 RF
+8 2 WR
+4 8 IJ
+8 5 WR
+6 8 RF
+7 8 UK
+0 9 UK
+3 10 ST
+4 10 ST
+3 11 WR
+4 11 EX
+12 2 WR
+3 12 IJ
+4 12 IJ
+12 5 RD
+12 6 ST
+12 10 ST
+12 11 WR
+3 13 WR
+4 13 RD
+12 13 RD
+4 14 IJ
+14 5 WR
+6 14 RF
+10 14 RF
+14 11 EX
+12 14 IJ
+14 13 RD
+15 5 RD
+6 15 RF
+10 15 RF
+15 11 CD
+12 15 IJ
+15 13 RD
+14 15 UK
+12 16 WR
+10 17 RF
+17 11 RD
+12 17 IJ
+17 13 RD
+17 16 WR
+18 10 ST
+18 11 RD
+12 18 IJ
+18 13 WR
+18 16 WR
+17 18 UK
+12 19 RD
+12 20 WR
+21 11 RD
+12 21 IJ
+21 13 WR
+21 16 WR
+21 19 WR
+21 20 WR
+12 22 UK
+21 23 EX
+24 16 UK
+21 25 WR
+26 19 UK
+27 20 WR
+21 27 IJ
+27 23 WR
+27 25 WR
+28 20 EX
+21 28 UK
+27 29 WR
+27 30 WR
+31 23 WR
+31 25 WR
+27 31 IJ
+31 29 EX
+31 30 WR
+27 32 EX
+31 32 RD
+27 33 RD
+31 33 RD
+27 34 ST
+31 34 ST
+27 35 WR
+31 35 WR
+27 36 FR
+36 29 RD
+36 30 EX
+31 36 UK
+27 37 FR
+37 29 EX
+37 30 EX
+37 32 CD
+37 33 RD
+37 34 ST
+37 35 WR
+38 29 EX
+38 30 WR
+38 32 EX
+38 33 EX
+38 34 ST
+38 35 RD
+37 38 IJ
+39 29 WR
+39 30 RD
+39 32 WR
+39 33 WR
+39 34 ST
+39 35 UK
+37 40 WR
+38 40 RD
+37 41 RD
+38 41 WR
+37 42 RD
+38 42 EX
+43 33 RD
+34 43 RF
+37 43 IJ
+43 40 WR
+43 41 EX
+43 42 RD
+37 44 ST
+44 38 RF
+43 44 ST
+37 45 FR
+38 45 UK
+37 46 WR
+43 46 WR
+37 47 FR
+47 40 CD
+47 41 WR
+47 42 WR
+43 47 UK
+

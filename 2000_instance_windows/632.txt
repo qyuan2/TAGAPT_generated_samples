@@ -1,0 +1,112 @@
+30
+MP*-GUP.exe
+SO-http://www.suzhouca.com/upload/admin/20220826/fbee9953d4
+MP*-Reg.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+TP-Updater.exe 
+TF-\Users\admin\AppData\Local\Temp\IXP000.TMP\y6493242.exe
+MF-C:\Program Files\Mozilla Firefox\browser
+MF-C:\Users\admin\AppData\Local\Temp\1
+MF-C:\Users\admin\AppData\Local\Temp\sgic_info.c
+TP*-AcroRd32.exe
+MF-Files\Bandizip\Bandizip.exe
+TP*-WScript.exe 
+MP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+MF-c:\temp\atomictestfile
+MP-at.exe
+TF-Injector\Sunset.exe
+MP-test de fdp.exe 
+MP-finance.exe 
+TP-Group unlock - Linkvertise Downloader_LIT-Qg1.exe 
+SF-C:\Users\admin\AppData\Local\Temp\6248
+TF-C:\Program Files\Microsoft\Edge\Application\msedge.exe
+MF-\Users\admin\AppData\Roaming\yonr\yonr.exe
+MF-C:\Program Files\Hantek2xx2\STDFUPRT.dll
+TF-C:\Windows\system32\NOTEPAD
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+MP-tshark.exe
+TP-Outflank-Dumpert.exe
+MF-\Users\admin\AppData\Local\Temp\IXP000.TMP\n4054738.exe
+MP-pktmon.exe
+MP-Order list.exe 
+79
+0 1 ST
+0 2 FR
+1 2 RF
+0 3 ST
+3 2 RF
+0 4 IJ
+1 4 RF
+2 4 IJ
+3 4 RF
+0 5 EX
+2 5 RD
+4 5 RD
+0 6 WR
+2 6 RD
+4 6 EX
+0 7 EX
+2 7 UK
+0 8 RD
+4 8 WR
+0 9 FR
+9 1 ST
+3 9 RF
+4 9 IJ
+9 5 RD
+9 6 RD
+9 8 WR
+0 10 WR
+4 10 WR
+9 10 WR
+11 1 ST
+3 11 RF
+4 11 IJ
+11 5 WR
+11 6 WR
+11 8 UK
+12 3 ST
+4 12 IJ
+12 5 RD
+12 6 EX
+9 12 UK
+4 13 UK
+14 5 RD
+14 6 WR
+14 10 WR
+14 15 WR
+16 6 RD
+16 10 WR
+14 16 UK
+17 10 RD
+17 15 RD
+18 10 RD
+18 15 RD
+17 18 IJ
+17 19 EX
+18 19 WR
+17 20 UK
+18 21 WR
+18 22 RD
+18 23 WR
+18 24 ST
+25 15 RD
+18 25 UK
+26 19 RD
+26 21 WR
+26 22 EX
+26 23 WR
+26 24 ST
+26 27 UK
+28 19 WR
+28 21 EX
+28 22 RD
+28 23 RD
+28 24 ST
+29 19 EX
+29 21 EX
+29 22 WR
+29 23 RD
+24 29 RF
+28 29 UK
+

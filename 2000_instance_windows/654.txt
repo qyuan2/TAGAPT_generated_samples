@@ -1,0 +1,76 @@
+23
+MP*-cvtres.exe
+MF-C:\Users\admin\AppData\Roaming\Microsoft\Zulycjadyc\ytfovlym.exe
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MP-soa PDF.exe
+MP*-Powershell.exe
+SF-%temp%\vss
+MP-certutil
+SO-http://192.168.10.11/test.ps1
+MF-CradleTest.txt
+MP-regsvr32 .exe
+SO-http://192.168.10.11/test.ps1
+MP-talkworld.exe 
+MP-cmdkey.exe
+TP-firefox.exe
+MP*-forfiles.exe
+TF-C:\Users\admin\AppData\Local\Temp\reviewref_protected.exe
+TP*-chrome.exe 
+MP-OUTLOOK.EXE
+MF-\Users\admin\AppData\Local\Temp\hh.exe
+MF-C:\Program Files\Common Files\Microsoft Shared\VSTA\AppInfoDocument
+TP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+TP-bcdedit.exe
+MP-D18C.exe
+50
+0 1 RD
+0 2 ST
+0 3 FR
+3 1 RD
+3 2 ST
+0 4 FR
+4 1 EX
+2 4 RF
+0 5 RD
+3 5 CD
+4 5 RD
+0 6 UK
+3 7 ST
+7 4 RF
+3 8 WR
+4 8 RD
+9 1 WR
+2 9 RF
+4 9 UK
+10 3 RF
+11 1 RD
+2 11 RF
+11 5 UK
+12 2 ST
+3 12 UK
+13 7 ST
+13 8 UK
+7 14 RF
+14 10 ST
+14 15 RD
+7 16 RF
+16 10 ST
+14 16 IJ
+16 15 WR
+7 17 RF
+10 17 RF
+14 17 UK
+16 18 RD
+16 19 EX
+20 10 ST
+20 15 WR
+16 20 IJ
+20 18 CD
+20 19 WR
+21 15 EX
+16 21 UK
+22 15 WR
+22 18 WR
+22 19 WR
+20 22 UK
+

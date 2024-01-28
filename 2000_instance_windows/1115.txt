@@ -1,0 +1,113 @@
+35
+MP-df1f94243f99b25fea44d17750d24d04.exe 
+SF-C:\Users\admin\AppData\Local\Temp\v
+MF-www.suzhouca.c
+SF-C:\Users\admin\AppData\Local\Temp\goose_goose_duck_free
+MP-ns9AE8.tmp
+MP*-jww825a.tmp 
+TP-Wub.exe
+SF-C:\Users\admin\AppData\Local\Temp\is-LETVB.tmp
+SO-file://PathToAtomicsFolder\T1137.004\src\T1137.004.html
+SO-45.63.100.72
+SF-C:\Users\admin\AppData\Local\Temp\KS
+TF-C:\Users\admin\AppData\Local\Temp\f8ab93332536f27e4c463bde920795e59a08898ff648f679ca15c624f39b6dc8
+MP-client32.exe
+TF-C:\Users\admin\AppData\Local\84ef6d24
+TP-msbuild.exe
+TP*-expo.exe
+MF-.\ExternalPayloads\T1059_003note.txt
+TP-nsBB14.tmp
+TF-..wsf
+MP-DriversHood.exe
+MF-\Users\admin\AppData\Roaming\SysInfoTool\data.xml
+MF-C:\Users\admin\Desktop\c2dbd1f560dba5050031499cc921b3b7
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+SF-C:\Browserweb\csrss.exe
+MP*-XClient.exe 
+MF-C:\Users\admin\AppData\Local\Temp\06e0e36f91e621e79712673923e57daf3fcf232bb3151c122891ded30466293a.exe
+TF-atomic.exe
+MF-C:\Users\admin\Desktop\Thursday
+SO-192.168.5.25
+TP*-xordump.exe 
+MF-Kfc.vb
+MF-C:\Windows\SysWOW64\ytqpvkdx
+TF-C:\Windows\system32\schtasks
+MP-regsvr32 .exe
+TP-at.exe
+75
+0 1 WR
+0 2 WR
+0 3 WR
+0 4 UK
+5 1 CD
+5 2 EX
+5 3 WR
+6 1 CD
+6 2 RD
+6 3 EX
+5 6 IJ
+5 7 CD
+6 7 WR
+5 8 ST
+6 8 ST
+9 5 RF
+6 9 ST
+5 10 WR
+6 10 WR
+5 11 WR
+6 11 EX
+12 2 RD
+12 3 WR
+5 12 UK
+6 13 WR
+6 14 FR
+14 7 WR
+14 8 ST
+14 9 ST
+14 10 WR
+14 11 WR
+14 13 WR
+6 15 FR
+15 7 RD
+8 15 RF
+9 15 RF
+15 10 EX
+15 11 UK
+6 16 WR
+14 16 CD
+17 7 UK
+14 18 CD
+19 9 ST
+19 10 UK
+14 20 WR
+14 21 WR
+14 22 ST
+14 23 EX
+14 24 IJ
+24 16 WR
+24 18 EX
+24 20 WR
+24 21 WR
+22 24 RF
+24 23 WR
+24 25 RD
+24 26 WR
+24 27 WR
+28 24 RF
+29 20 WR
+29 21 WR
+29 22 ST
+29 23 RD
+29 25 WR
+29 26 RD
+29 27 WR
+28 29 RF
+29 30 RD
+29 31 WR
+29 32 RD
+33 25 UK
+34 26 RD
+34 27 WR
+28 34 RF
+29 34 UK
+

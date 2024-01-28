@@ -1,0 +1,78 @@
+22
+MP*-ip
+SF-etc.tar.gz
+MF-LinEnum.sh
+MP-find
+MP*-vim
+MP-cat
+SF-rockyou.txt
+MF-user.r
+SF-Users.tar.gz
+MF-httpd.c
+MP-cat
+MP-less
+MP*-paste
+SF-target.example.c
+TP*-less
+TP-awk
+MF-AutoSUID.sh
+SO-atomic@target.example
+MF-1.zip
+MP-pr
+TF-os.exe
+MP-ls
+53
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 FR
+4 1 EX
+4 2 WR
+0 5 FR
+5 1 RD
+5 2 RD
+3 5 UK
+0 6 RD
+4 6 WR
+0 7 WR
+4 7 WR
+0 8 CD
+4 8 WR
+0 9 RD
+4 9 WR
+0 10 FR
+10 1 WR
+10 2 WR
+10 6 UK
+11 1 RD
+11 2 RD
+4 11 UK
+12 2 WR
+12 7 WR
+12 8 WR
+12 9 WR
+12 13 RD
+14 7 WR
+14 8 CD
+14 9 RD
+12 14 IJ
+14 13 WR
+15 7 UK
+12 16 RD
+14 16 UK
+17 12 RF
+12 18 WR
+19 9 WR
+19 13 EX
+17 19 RF
+19 18 RD
+12 20 WR
+19 20 WR
+12 21 FR
+21 13 WR
+21 17 ST
+21 18 WR
+19 21 UK
+

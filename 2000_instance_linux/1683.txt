@@ -1,0 +1,66 @@
+19
+MP*-dd
+MF-rockyou.txt
+MF-settings.php
+MF-os.exe
+MP-sudo
+SF-ret.c
+MP-cat
+SF-cron.m
+SO-192.168.10.131
+MP*-vi
+MP*-cat
+MF-com.apple.loginwindow.plist
+MP*-bash 
+MF-backsup.sh
+SF-pwquality.c
+SF-test.txt
+SF-p.c
+SF-image.php
+MF-s.c
+44
+0 1 RD
+0 2 RD
+0 3 CD
+0 4 FR
+4 1 WR
+4 2 EX
+4 3 WR
+0 5 RD
+4 5 WR
+0 6 FR
+6 1 WR
+6 2 RD
+6 3 WR
+4 6 UK
+0 7 WR
+0 8 ST
+0 9 FR
+9 1 WR
+9 2 RD
+9 3 RD
+9 5 WR
+9 7 RD
+8 9 RF
+0 10 FR
+10 1 EX
+10 2 RD
+10 3 CD
+10 5 RD
+10 7 WR
+8 10 RF
+9 11 WR
+10 11 EX
+12 2 WR
+12 3 WR
+12 5 WR
+12 7 WR
+8 12 RF
+10 12 UK
+9 13 WR
+9 14 EX
+9 15 CD
+9 16 EX
+9 17 WR
+9 18 WR
+

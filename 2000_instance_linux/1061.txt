@@ -1,0 +1,38 @@
+11
+MP*-ls
+MP*-ls
+MF-backsup.sh
+SO-192.168.10.131
+MF-cron.h
+TF-data.zip
+MP-xwd
+MP*-cp
+SF-T1070.004-test.txt
+MP-git
+MP*-less
+24
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 ST
+3 1 RF
+0 4 RD
+1 4 RD
+0 5 WR
+1 5 EX
+0 6 FR
+1 6 UK
+0 7 FR
+7 2 RD
+7 3 ST
+7 4 WR
+7 5 RD
+0 8 WR
+7 8 WR
+0 9 UK
+10 2 WR
+3 10 RF
+10 4 EX
+10 5 WR
+7 10 UK
+

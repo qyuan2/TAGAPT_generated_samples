@@ -1,0 +1,32 @@
+11
+MP*-conhost.exe
+MP*-Setup.exe
+TP-tasklist.exe
+MF-C:\WINDOWS\system32\scrobj.dll
+MP*-KMSpico_setup.exe 
+MF-C:\Users\admin\AppData\Local\Temp\K66Oee5ogkXvHZErwp6nPamsgLMgz\Cleaner
+MF-C:\Users\admin\AppData\Local\Temp\468C
+MF-arianat.r
+MF-\Users\admin\AppData\Roaming\Nixware.exe
+TP*-appcmd.exe
+SF-C:\Users\admin\AppData\Local\Temp\Detected_File_07A67941480C9E80209194B27284F1FA0E331246_20230901110701
+18
+0 1 FR
+0 2 IJ
+1 2 UK
+0 3 RD
+0 4 FR
+4 3 RD
+0 5 CD
+4 5 EX
+0 6 WR
+4 6 WR
+0 7 WR
+4 7 RD
+0 8 WR
+4 8 EX
+0 9 FR
+9 3 WR
+4 9 UK
+0 10 WR
+

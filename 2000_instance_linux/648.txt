@@ -1,0 +1,49 @@
+15
+MP*-paste
+MF-art.sh
+MF-td.c
+TP*-find
+MF-ufw.c
+TF-syslog.c
+MP*-whoami
+MF-cron.m
+MF-te.c
+MF-atomic.log
+TF-www.google.c
+TF-rockyou.txt
+MP*-ftp
+MP-cat
+TF-httpd.c
+31
+0 1 WR
+0 2 WR
+0 3 IJ
+3 1 RD
+3 2 RD
+0 4 WR
+3 4 WR
+0 5 WR
+3 5 EX
+0 6 FR
+6 1 UK
+0 7 WR
+3 7 WR
+0 8 RD
+3 8 RD
+0 9 WR
+3 9 RD
+0 10 RD
+3 10 WR
+3 11 WR
+12 2 EX
+3 12 IJ
+12 4 WR
+12 5 RD
+12 7 EX
+12 8 WR
+12 9 RD
+12 10 WR
+12 11 RD
+3 13 UK
+12 14 UK
+

@@ -1,0 +1,75 @@
+20
+MP*-rev
+MF-flag3.txt
+MP-awk
+MF-resolv.c
+MF-s.c
+MF-T1070.004-test.txt
+MF-echo-art-fish.sh
+MF-ron.a
+MP*-echo
+MP-wfuzz
+TP-cat
+SF-subprocess.c
+SO-192.168.37.130
+TP-whoami
+TP*-ls
+MP*-su
+TF-LinEnum.sh
+MF-raft-large-directories.txt
+MF-passwd.zip
+MP-less
+52
+0 1 EX
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 RD
+0 4 RD
+2 4 EX
+0 5 RD
+2 5 RD
+0 6 RD
+2 6 WR
+0 7 WR
+2 7 WR
+0 8 FR
+8 1 EX
+8 3 WR
+8 4 RD
+8 5 WR
+8 6 WR
+8 7 WR
+0 9 FR
+9 1 RD
+2 9 UK
+0 10 UK
+8 11 RD
+12 8 RF
+13 3 WR
+13 4 WR
+13 5 RD
+13 6 WR
+13 7 WR
+8 13 UK
+14 4 CD
+14 5 WR
+14 6 WR
+14 7 WR
+14 11 WR
+14 12 ST
+15 5 WR
+15 6 WR
+15 7 WR
+15 11 RD
+12 15 RF
+14 15 IJ
+14 16 CD
+15 16 WR
+14 17 RD
+15 17 WR
+14 18 UK
+19 11 WR
+19 12 ST
+15 19 UK
+

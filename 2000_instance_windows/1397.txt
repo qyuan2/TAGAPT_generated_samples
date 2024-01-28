@@ -1,0 +1,82 @@
+24
+MP-ns9DCC.tmp 
+MF-Downloader_LIT-Qg1.tmp
+TP-EasyValorant.exe 
+MF-C:\Program Files\WinRAR\WinRAR
+MP-TruffleSnout.exe
+MP-notepad++.exe
+TF-\Users\admin\AppData\Local\Temp\qgcrmeck.exe
+MP-csc.exe
+TP*-nsA12F.tmp
+TP-o0575127.exe
+SO-https://crashstats-collector.opera.com/collector/submit
+MP-xnoobx.cc.exe 
+MF-C:\Users\admin\Desktop\216568
+TP-nltest.exe
+SF-C:\Windows\system32\MsiExec.exe
+TP-ns9EC8.tmp 
+SF-C:\Users\admin\AppData\Local\Temp\RE_PENDING
+MP*-ntvdm.exe
+MP-360TS_Setup.exe
+TF-C:\Windows\system32\net
+MP*-vbs.exe
+TF-C:\Windows\SysWOW64\cmd
+TP*-DataSvcUtil.exe
+MF-C:\Windows\system32\SearchProtocolHost
+55
+0 1 WR
+0 2 FR
+2 1 UK
+0 3 RD
+0 4 UK
+5 3 RD
+5 6 EX
+7 3 EX
+5 7 UK
+8 3 WR
+8 6 WR
+9 3 EX
+9 6 WR
+8 9 IJ
+10 8 RF
+9 10 ST
+11 3 WR
+11 6 CD
+8 11 IJ
+9 11 IJ
+11 10 ST
+8 12 UK
+13 3 WR
+13 6 WR
+9 13 IJ
+10 13 RF
+11 13 IJ
+9 14 RD
+11 14 WR
+13 14 WR
+15 6 WR
+9 15 UK
+11 16 WR
+13 16 WR
+17 10 ST
+13 17 IJ
+17 14 EX
+17 16 RD
+18 10 ST
+11 18 UK
+13 19 EX
+17 19 WR
+20 10 ST
+13 20 IJ
+20 14 RD
+20 16 RD
+17 20 UK
+13 21 RD
+13 22 FR
+22 14 WR
+22 16 WR
+22 19 RD
+22 21 RD
+13 23 RD
+22 23 UK
+

@@ -1,0 +1,139 @@
+35
+MP-dnsdomainname
+MF-T1003.008.txt
+MF-1.zip
+MP-uname
+MP-nl
+TF-pd.c
+SO-127.0.0.1
+MF-password-hash.sh
+SF-CleaingScript.sh
+MF-cron.h
+MP-vim
+MP-uname
+TF-data.zip
+MF-journald.c
+SF-Users.tar.gz
+MP*-pr
+MP*-grep
+MP-more
+SF-2017.pl
+MF-at.a
+SF-raw.githubusercontent.c
+SF-alertConfigField.php
+MP*-sed
+TP-more
+SO-192.168.206.0
+TF-password-hash.sh
+SF-Users.tar.gz
+SO-192.168.206.136
+MF-robots.txt
+TP*-dpkg
+TP-touch
+MF-chttp.c
+TP-dd
+MP-nl
+MP-dd
+101
+0 1 RD
+0 2 EX
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 UK
+3 5 WR
+6 3 RF
+3 7 EX
+3 8 CD
+3 9 CD
+10 1 UK
+11 2 CD
+11 5 RD
+6 11 RF
+11 7 CD
+11 8 WR
+11 9 CD
+3 12 WR
+11 12 WR
+3 13 RD
+11 13 RD
+11 14 WR
+15 5 WR
+15 6 ST
+15 7 RD
+15 8 RD
+15 9 WR
+11 15 UK
+6 16 RF
+16 7 RD
+16 8 RD
+16 9 RD
+16 12 EX
+16 13 WR
+16 14 EX
+17 7 WR
+17 8 UK
+16 18 WR
+16 19 WR
+16 20 CD
+16 21 WR
+22 12 EX
+22 13 RD
+22 14 RD
+22 18 WR
+22 19 RD
+22 20 WR
+22 21 RD
+23 14 WR
+16 23 IJ
+23 18 WR
+23 19 WR
+23 20 RD
+23 21 EX
+22 23 IJ
+16 24 ST
+24 22 RF
+24 23 RF
+16 25 WR
+22 25 WR
+23 25 RD
+22 26 RD
+23 26 CD
+27 22 RF
+23 27 ST
+22 28 RD
+23 28 CD
+29 20 RD
+29 21 RD
+22 29 IJ
+23 29 IJ
+29 24 ST
+29 25 RD
+29 26 WR
+29 27 ST
+29 28 WR
+30 21 WR
+22 30 IJ
+23 30 UK
+22 31 RD
+29 31 WR
+32 24 ST
+32 25 EX
+32 26 WR
+32 27 ST
+32 28 EX
+29 32 UK
+33 24 ST
+33 25 EX
+33 26 RD
+33 27 ST
+33 28 RD
+33 31 CD
+34 24 ST
+34 25 WR
+34 26 EX
+27 34 RF
+34 28 CD
+34 31 RD
+33 34 UK
+

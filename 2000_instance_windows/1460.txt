@@ -1,0 +1,78 @@
+22
+MP*-Dkeyauth.tmp 
+TF-C:\Users\admin\Desktop\73bdfefd546d1a751a77b6de3a36460b6108a06940a1c9dc73c9dfdd78f8f649
+SF-C:\Users\admin\AppData\Roaming\SysInfoTool\data.xml
+MF-\Users\admin\AppData\Roaming\c75c6c37b2d7a3\clip64.dll
+MP-jerkoff.exe 
+MP-danke.exe 
+MF-C:\Users\admin\AppData\Roaming\Install\Host.exe
+MP-is-3DL5P.tmp
+MP-SecuriteInfo.com
+MP-OriginalBuild.exe.exe 
+TP*-cacls.exe
+MP*-PC_Cleaner__5509.exe 
+MF-\Users\admin\AppData\Roaming\rPYrMQo\dvRzzWRPw.exe
+MF-pcalua.exe
+TP-sysmon.exe
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\7za.exe
+MP-pypykatz.py
+MP*-oneetx.exe
+MF-C:\Users\admin\AppData\Local\Temp\Ransomware
+MF-C:\Windows\system32\net
+MF-\Windows\system32\WinSat.exe
+MP-5b7fff06560c607aa96cb59870b1a39e911f5dc52f2c6e720e6758c7855b89fb.exe 
+53
+0 1 WR
+0 2 CD
+0 3 EX
+0 4 FR
+4 1 RD
+4 2 RD
+4 3 WR
+0 5 FR
+5 1 WR
+5 2 EX
+5 3 WR
+4 5 UK
+0 6 WR
+0 7 FR
+7 1 EX
+7 2 WR
+7 3 UK
+0 8 FR
+8 1 WR
+8 2 EX
+8 6 WR
+0 9 FR
+9 1 WR
+9 2 WR
+9 6 WR
+8 9 UK
+0 10 FR
+10 1 EX
+10 2 RD
+10 6 RD
+11 1 EX
+11 2 RD
+11 6 EX
+10 11 IJ
+10 12 EX
+11 12 EX
+10 13 WR
+11 13 EX
+14 6 RD
+10 14 UK
+11 15 EX
+16 6 RD
+11 16 UK
+17 12 WR
+17 13 RD
+17 15 RD
+17 18 EX
+17 19 EX
+17 20 CD
+21 12 WR
+21 13 WR
+21 15 RD
+17 21 UK
+

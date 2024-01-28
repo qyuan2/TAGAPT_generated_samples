@@ -1,0 +1,69 @@
+18
+MP*-head
+MP-less
+MF-test.txt
+TF-art.sh
+SF-io.r
+MP-tee
+MF-lighttpd.c
+TP*-dpkg
+MF-log.c
+TF-journald.c
+TP*-tail
+MF-shell.cgi
+SF-2017.pl
+MF-ret.c
+MP-head
+TP-grep
+TP*-sed
+MP-head
+48
+0 1 FR
+0 2 RD
+1 2 CD
+0 3 WR
+1 3 RD
+0 4 WR
+1 4 RD
+0 5 FR
+1 5 UK
+0 6 RD
+0 7 FR
+7 2 WR
+7 3 WR
+7 4 WR
+7 6 RD
+0 8 WR
+7 8 WR
+0 9 RD
+7 9 WR
+0 10 FR
+10 2 WR
+10 3 WR
+10 4 RD
+10 6 CD
+7 10 IJ
+10 8 WR
+10 9 WR
+7 11 WR
+10 11 WR
+7 12 RD
+10 12 WR
+7 13 WR
+10 13 UK
+14 4 WR
+14 6 WR
+7 14 UK
+15 6 WR
+15 8 RD
+15 9 WR
+15 11 UK
+16 6 WR
+16 8 WR
+16 9 EX
+16 12 RD
+17 8 RD
+17 9 CD
+17 12 RD
+16 17 UK
+

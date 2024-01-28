@@ -1,0 +1,105 @@
+25
+MP*-7d93b142ab6fca16c0be4c3720a50833.exe.vir.exe 
+MP-dkeyauth.exe 
+MP-bb.exe 
+SO-https://clients2.google.com/cr/report
+MF-\Users\admin\Desktop\installer.exe
+MP-AnyDesk-a444ebcf.exe 
+MF-\Windows\system32\reg.exe
+TP-Outflank-Dumpert.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns929A.tmp
+SO-https://class.malware.re
+TP-RtkBtManServ.exe
+MP-Locker mr robot.exe 
+TP*-where.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+MP-Dkeyauth.tmp
+MP*-radmin scanner.exe 
+TP*-d6405410.exe
+MF-C:\Program files\appdata\local\temp\20342.bmp
+MF-C:\Users\admin\AppData\Local\EsetSecurity\Перечень
+MP-86270699bad2681bb3f5f57f44a7094e.exe 
+SF-C:\Program Files\Windows Media Player\wmpnscfg
+MF-C:\Users\admin\AppData\Local\Temp\AnyDesk-a444ebcf.exe
+TF-Files\Microsoft\Edge\Application\msedge.exe
+MP-Powershell.exe
+MP-vlliugwu.exe 
+77
+0 1 FR
+0 2 FR
+0 3 ST
+1 3 ST
+3 2 RF
+0 4 EX
+1 4 WR
+2 4 RD
+0 5 FR
+1 5 UK
+0 6 WR
+2 6 EX
+0 7 IJ
+2 7 UK
+0 8 RD
+9 0 RF
+0 10 IJ
+10 3 ST
+10 4 RD
+10 6 RD
+10 8 WR
+10 9 ST
+11 3 ST
+11 4 EX
+11 6 RD
+11 8 UK
+12 3 ST
+12 4 CD
+12 6 WR
+12 9 ST
+10 12 IJ
+10 13 ST
+12 13 ST
+14 4 WR
+14 6 RD
+14 9 ST
+10 14 IJ
+12 14 IJ
+13 14 RF
+15 6 WR
+15 9 ST
+10 15 IJ
+12 15 IJ
+13 15 RF
+14 15 UK
+16 6 RD
+16 9 ST
+10 16 IJ
+12 16 IJ
+16 13 ST
+10 17 RD
+12 17 RD
+16 17 EX
+10 18 WR
+12 18 RD
+16 18 WR
+9 19 RF
+10 19 IJ
+12 19 IJ
+19 13 ST
+16 19 UK
+10 20 RD
+12 20 WR
+12 21 WR
+12 22 WR
+23 13 ST
+23 17 WR
+23 18 RD
+23 20 WR
+23 21 WR
+23 22 WR
+24 17 WR
+24 18 WR
+24 20 RD
+24 21 WR
+24 22 WR
+23 24 UK
+

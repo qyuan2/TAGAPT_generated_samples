@@ -1,0 +1,63 @@
+18
+MP*-WScript.exe
+MF-File.htm.htm
+MF-C:\Program Files\Microsoft\Skype for Desktop\Skype.exe
+MF-Client\filezilla.exe
+TP*-procdump.exe
+TP-X_Net_Windows.exe
+MF-C:\Windows\System32\cscript.exe
+MF-C:\Windows\System32\Curl.exe
+MF-\Windows\System32\notepad.exe
+TP*-Scanned_file_PO23_Jan.exe 
+MP-pestudio.exe 
+TP*-Outflank-Dumpert.exe
+TF-windir\hh.exe
+MP-nsC903.tmp
+MP-New Client.exe
+MF-C:\Users\admin\AppData\Local\Temp\bozon
+MF-\deerbrook.ppt
+TF-ProgramFiles\Connect\Connect.exe
+42
+0 1 WR
+0 2 RD
+0 3 CD
+0 4 IJ
+4 1 WR
+4 2 WR
+4 3 RD
+0 5 FR
+5 1 WR
+5 2 EX
+5 3 WR
+4 5 UK
+0 6 WR
+0 7 CD
+0 8 RD
+0 9 IJ
+9 1 WR
+9 2 WR
+9 3 WR
+9 6 WR
+9 7 RD
+9 8 WR
+0 10 FR
+10 1 EX
+10 2 UK
+11 3 WR
+11 6 RD
+11 7 WR
+11 8 RD
+9 11 IJ
+9 12 RD
+11 12 RD
+13 6 EX
+13 7 WR
+13 8 RD
+9 13 UK
+14 6 CD
+14 7 EX
+14 8 UK
+11 15 RD
+11 16 RD
+11 17 UK
+

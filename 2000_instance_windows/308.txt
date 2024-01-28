@@ -1,0 +1,63 @@
+19
+MP*-DataSvcUtil.exe
+MF-C:\Users\admin\AppData\Local\Temp\u2qkihjw.cmd
+SF-C:\Users
+TP*-n4054738.exe
+TP*-damianoh68951.exe
+MP*-msbuild.exe
+TF-C:\Users\admin\AppData\Local\Temp\DBM_Herbstaktion_2023
+MP-ns9EC8.tmp 
+MF-\Users\admin\AppData\Local\Temp\xnoobx.cc-injector.zip
+SF-C:\Users\admin\AppData\Roaming\rPYrMQo\dvRzzWRPw.exe
+TP-netsh.exe
+MP-nsCA5C.tmp
+TP-msxsl.exe
+MP-xordump.exe 
+MF-\Users\admin\AppData\Local\Temp\RESD196.tmp
+MF-C:\Users\admin\AppData\Local\Temp\000001
+MP-v6621467.exe
+MP-EFT Remittance copy.exe 
+MF-C:\Users\admin\AppData\Local\Temp\KAT08
+41
+0 1 WR
+0 2 RD
+0 3 FR
+3 1 WR
+3 2 RD
+0 4 IJ
+4 1 WR
+4 2 CD
+3 4 IJ
+0 5 FR
+5 1 EX
+5 2 WR
+3 5 IJ
+4 5 UK
+0 6 RD
+3 6 RD
+0 7 FR
+7 1 UK
+0 8 EX
+3 8 WR
+0 9 UK
+10 2 WR
+3 10 UK
+11 2 EX
+11 6 WR
+11 8 WR
+12 2 EX
+12 6 WR
+12 8 WR
+11 12 UK
+13 6 WR
+13 8 RD
+13 14 WR
+13 15 CD
+16 6 RD
+16 8 WR
+13 16 UK
+17 8 EX
+17 14 WR
+17 15 WR
+17 18 UK
+

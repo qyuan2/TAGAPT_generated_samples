@@ -1,0 +1,58 @@
+18
+MP*-renamer-7.5.exe 
+SO-test@corp.com
+MP*-jsc.exe
+MF-C:\Windows\system32\sc
+MP-fltmc.exe
+TF-.\ExternalPayloads\TruffleSnout.exe
+MP-B70D.exe
+TF-C:\Users\admin\AppData\Local\Temp\5bc875163bb76907624d97706d75b0d6.zip
+MP*-mmc.exe
+TF-C:\Users\admin\AppData\Local\Temp\InstaBotPro
+MP-cacls.exe
+MP*-cscript.exe
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+MF-\Users\admin\AppData\Local\Temp\xx.vb
+MF-\Users\admin\AppData\Roaming\c75c6c37b2d7a3\cred64.dll
+MP-PsExec.exe
+TF-%temp%\trace.etl maxsize
+MP-ns9510.tmp
+37
+1 0 RF
+0 2 FR
+2 1 ST
+0 3 RD
+2 3 WR
+0 4 FR
+1 4 RF
+4 3 RD
+0 5 WR
+2 5 UK
+0 6 FR
+1 6 RF
+6 3 RD
+4 6 UK
+0 7 RD
+0 8 FR
+8 1 ST
+8 3 WR
+8 7 RD
+0 9 WR
+8 9 RD
+0 10 UK
+11 3 WR
+11 7 WR
+11 9 CD
+11 12 WR
+11 13 RD
+11 14 RD
+15 7 WR
+15 9 WR
+15 12 RD
+15 13 WR
+15 14 UK
+11 16 WR
+17 9 EX
+17 12 EX
+17 13 UK
+

@@ -1,0 +1,83 @@
+20
+MP*-cat
+SF-Users.tar.gz
+MP*-ls
+SF-ufw.c
+MF-alertConfigField.php
+MP-bash
+SF-/etc/passwd
+SF-v.c
+SF-v.c
+TP-grep
+MF-settings.php
+MP*-ls
+MF-s.c
+MF-e.c
+SF-chttp.c
+TP*-xwd
+MP-cp
+TP-less
+MP-ls
+MP-rev
+60
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 WR
+2 3 WR
+0 4 RD
+2 4 WR
+0 5 FR
+5 1 WR
+5 3 WR
+5 4 RD
+0 6 CD
+2 6 EX
+5 6 RD
+0 7 EX
+2 7 RD
+5 7 UK
+0 8 RD
+2 8 WR
+0 9 FR
+9 1 WR
+2 9 UK
+0 10 WR
+11 1 EX
+11 3 WR
+11 4 WR
+11 6 WR
+11 8 RD
+11 10 WR
+11 12 RD
+11 13 RD
+11 14 EX
+15 6 RD
+15 8 WR
+15 10 EX
+11 15 IJ
+15 12 WR
+15 13 RD
+15 14 RD
+16 6 EX
+16 8 RD
+16 10 WR
+11 16 UK
+17 8 WR
+17 10 WR
+17 12 WR
+17 13 WR
+17 14 RD
+15 17 IJ
+18 8 WR
+18 10 RD
+18 12 CD
+18 13 EX
+18 14 RD
+15 18 UK
+19 10 WR
+19 12 WR
+19 13 WR
+19 14 WR
+17 19 UK
+

@@ -1,0 +1,69 @@
+21
+MP*-facttura.exe
+TF-C:\Users\admin\Desktop\Client.exe
+MP-firefox.exe
+MF-C:\Users\admin\AppData\Local\Temp\RESF237.tmp
+TP-mstsca.exe 
+MP*-is-HTMC5.tmp
+MF-\System32\notepad.exe
+TF-\Users\admin\AppData\Local\Temp\34.zip
+MF-C:\Program Files\Hantek2xx2\Driver\Win10\Hantek2D42X86
+MF-C:\Users\admin\Desktop\11203239354.zip
+TF-\WINDOWS\system32\scrobj.dll
+MF-C:\Windows\System32X86\windowspowershell\v1
+MP*-taskdl.exe
+MP*-EXCEL.EXE
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslscript.xsl
+TF-C:\Program files\documents\jury
+SO-192.168.1.1
+MF-C:\Users\admin\AppData\Local\Temp\6248.exe
+SF-HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce
+SF-C:\Users\Public\coinmarketcap\coinmarketcap.vb
+MF-C:\Users\admin\AppData\Local\Temp\73bdfefd546d1a751a77b6de3a36460b6108a06940a1c9dc73c9dfdd78f8f649
+45
+0 1 WR
+0 2 FR
+2 1 UK
+0 3 WR
+0 4 IJ
+4 3 RD
+0 5 FR
+5 3 RD
+4 5 IJ
+0 6 WR
+4 6 EX
+5 6 WR
+0 7 CD
+4 7 WR
+5 7 RD
+0 8 RD
+4 8 RD
+5 8 WR
+0 9 WR
+4 9 WR
+5 9 EX
+0 10 WR
+4 10 RD
+5 10 EX
+4 11 WR
+5 11 RD
+12 3 WR
+4 12 IJ
+12 6 WR
+12 7 RD
+12 8 RD
+12 9 WR
+12 10 WR
+12 11 CD
+13 3 WR
+4 13 UK
+14 5 RF
+12 14 ST
+5 15 EX
+12 15 WR
+12 16 ST
+12 17 WR
+12 18 WR
+12 19 EX
+12 20 EX
+

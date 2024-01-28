@@ -1,0 +1,90 @@
+26
+MP-cat
+MF-chttp.c
+SO-192.168.10.135
+SF-ufw.c
+MP*-nl
+MF-os.exe
+MF-access.txt
+TP-tcpdump 
+MP*-ifconfig
+MP*-cat
+SF-rockyou.txt
+SO-192.168.10.131
+TF-image.php
+MP-head
+MP*-uname
+MF-1.zip
+MF-Users.tar.gz
+MF-cron.a
+MF-robots.txt
+SO-192.168.0.134
+MP-grep
+TP-tee
+MF-victim-shred.txt
+MF-Users.tar.gz
+MF-common.txt
+MP-grep
+61
+0 1 WR
+0 2 ST
+0 3 UK
+4 1 WR
+4 2 ST
+4 5 RD
+4 6 WR
+7 1 RD
+2 7 RF
+4 7 UK
+8 1 WR
+2 8 RF
+8 5 EX
+8 6 WR
+9 1 WR
+9 2 ST
+9 5 WR
+9 6 WR
+8 10 EX
+9 10 RD
+8 11 ST
+9 11 ST
+8 12 RD
+9 12 RD
+13 5 EX
+13 6 WR
+8 13 UK
+14 5 RD
+14 6 WR
+14 10 RD
+14 11 ST
+14 12 WR
+9 15 EX
+14 15 WR
+9 16 RD
+14 16 CD
+9 17 WR
+14 17 WR
+9 18 RD
+14 18 RD
+9 19 ST
+19 14 RF
+20 10 RD
+11 20 RF
+20 12 UK
+21 11 ST
+14 21 IJ
+21 15 WR
+21 16 WR
+21 17 EX
+21 18 UK
+14 22 RD
+14 23 RD
+14 24 WR
+25 15 WR
+25 16 WR
+25 17 WR
+19 25 RF
+25 22 CD
+25 23 WR
+25 24 UK
+

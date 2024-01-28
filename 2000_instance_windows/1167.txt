@@ -1,0 +1,92 @@
+22
+MP*-863e7c22c771e4005197ae28363584f8.exe 
+SF-C:\Users\admin\Desktop\HxDSetup.exe
+MP-Dkeyauth.tmp 
+SO-hxxp://155.138.252[.]221/get.php
+MP-WinSat.exe
+MP-HxD.exe
+TF-\Users\admin\AppData\Local\Temp\Dkeyauth.exe
+MP-C:\Windows\system32\rundll32.exe
+TP*-facttura.exe
+MP-CE5F.exe
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+MP*-ns9318.tmp
+SO-0.0.0.0
+TP-Scan20230717_newshipment 202333pdf.exe
+MF-\Windows\system32\vssvc.exe
+MP-adidnsdump.exe
+MF-Powershell.exe
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9A6A.tmp
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe
+TP*-conhost.exe
+MF-\Users\admin\AppData\Local\Temp\is-HOVH3.tmp\vmware-workstation-player-5.0.0-installer_lRA-v51.tmp
+TP-Reg.exe
+67
+0 1 WR
+0 2 FR
+2 1 RD
+3 0 RF
+2 3 ST
+0 4 FR
+4 1 RD
+2 4 UK
+0 5 FR
+5 1 WR
+3 5 RF
+0 6 RD
+5 6 WR
+0 7 FR
+7 1 WR
+7 3 ST
+5 7 UK
+0 8 FR
+8 1 EX
+8 3 ST
+8 6 WR
+0 9 FR
+9 1 WR
+3 9 RF
+9 6 WR
+8 9 IJ
+10 0 RF
+10 8 RF
+9 10 ST
+11 1 CD
+3 11 RF
+11 6 WR
+8 11 IJ
+11 10 ST
+12 8 RF
+12 9 RF
+11 12 ST
+3 13 RF
+13 6 RD
+8 13 IJ
+9 13 IJ
+13 10 ST
+11 13 IJ
+13 12 ST
+8 14 RD
+9 14 WR
+11 14 WR
+13 14 RD
+15 6 RD
+8 15 UK
+9 16 WR
+11 16 UK
+9 17 RD
+13 17 EX
+9 18 RD
+13 18 WR
+9 19 IJ
+10 19 RF
+19 12 ST
+13 19 IJ
+19 14 CD
+19 17 RD
+19 18 WR
+13 20 RD
+19 20 UK
+12 21 RF
+13 21 UK
+

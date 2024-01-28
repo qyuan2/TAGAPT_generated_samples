@@ -1,0 +1,44 @@
+14
+MP*-taskmgr.exe
+MF-pnputil.exe
+TF-.\T1027.004\bin\T1027.004_DynamicCompile.exe
+SO-199.247.25.79
+SO-http://gc2siv9geletsu4.orgweave.com/bXRpQG10aS5odQ
+MP*-C:\Program Files\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+MP-Spora.exe 
+MF-C:\Users\admin\AppData\Roaming\ctfmon local files\readme
+SF-C:\Windows\System32\taskkill.exe
+MF-C:\Users\admin\AppData\Local\Temp\Poison
+TF-\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+MP*-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MP*-oneetx.exe
+TF-DC\Reader\AcroCEF\debug.log
+27
+0 1 EX
+0 2 RD
+0 3 ST
+0 4 ST
+0 5 FR
+5 1 RD
+5 2 WR
+3 5 RF
+4 5 RF
+0 6 UK
+5 7 WR
+5 8 EX
+5 9 RD
+5 10 WR
+11 1 RD
+11 2 WR
+11 3 ST
+4 11 RF
+5 11 UK
+12 2 RD
+3 12 RF
+12 4 ST
+12 7 WR
+12 8 WR
+12 9 WR
+12 10 RD
+12 13 UK
+

@@ -1,0 +1,32 @@
+12
+MP*-ls
+TF-p.c
+MF-raw.githubusercontent.c
+MP*-pr
+MF-victim-shred.txt
+SO-123.6.44.67
+MF-victim-shred.txt
+TP*-sed
+SO-192.168.2.102
+MF-0*.txt
+MF-ttpd.c
+MP*-pr
+17
+0 1 RD
+0 2 RD
+0 3 FR
+3 1 WR
+3 2 WR
+0 4 EX
+3 4 RD
+0 5 ST
+5 3 RF
+0 6 RD
+3 6 WR
+7 1 UK
+3 8 ST
+3 9 WR
+3 10 WR
+11 2 WR
+3 11 UK
+

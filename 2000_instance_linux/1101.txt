@@ -1,0 +1,161 @@
+46
+MP-cat
+MF-1.zip
+MP-less
+MF-rc.common
+MP-uname
+MP-uname
+MP*-more
+TF-LinEnum.sh
+TP-cat
+MF-access.txt
+SO-192.168.47.134:4444
+MP-sed
+SF-common.txt
+MF-folders/files
+MP-bash 
+MF-ret.c
+MP-grep
+MP-awk
+MP-grep
+MP*-cat
+MP-dd
+TP*-tail
+MP-netstat
+TP-awk
+TF-cron.a
+MF-pd.c
+MP-bash
+MP-sudo
+MF-locale.c
+MF-journald.c
+MP-vim
+MP-cat
+SF-victim-shred.txt
+MF-te.c
+MP-bash
+MP*-cat
+MP-sed
+TF-v.c
+MP-ls
+MF-pwquality.c
+MF-image.php
+MF-p.c
+MF-httpd.c
+SF-0*.txt
+MP-ftp
+MF-e.c
+112
+0 1 RD
+0 2 FR
+2 1 CD
+0 3 EX
+2 3 WR
+0 4 FR
+4 1 WR
+2 4 UK
+0 5 UK
+6 1 RD
+6 3 RD
+6 7 WR
+8 1 EX
+8 3 EX
+6 8 IJ
+8 7 EX
+6 9 WR
+8 9 RD
+6 10 ST
+10 8 RF
+11 1 RD
+11 3 RD
+11 7 WR
+8 11 IJ
+11 9 WR
+10 11 RF
+6 12 WR
+8 12 UK
+6 13 WR
+11 13 WR
+6 14 UK
+11 15 EX
+16 7 WR
+16 9 RD
+10 16 RF
+16 13 RD
+16 15 EX
+17 7 WR
+17 9 WR
+10 17 RF
+11 17 UK
+18 9 WR
+18 10 ST
+18 13 WR
+18 15 WR
+19 9 WR
+10 19 RF
+19 13 RD
+19 15 EX
+20 10 ST
+20 13 RD
+20 15 EX
+16 20 UK
+21 13 WR
+21 15 EX
+18 21 IJ
+19 21 IJ
+22 13 WR
+22 15 WR
+18 22 UK
+23 13 WR
+23 15 WR
+19 23 IJ
+21 23 IJ
+19 24 EX
+21 24 RD
+23 24 UK
+19 25 WR
+21 25 WR
+19 26 FR
+21 26 IJ
+26 25 EX
+19 27 FR
+21 27 IJ
+27 25 RD
+26 27 UK
+19 28 RD
+21 28 WR
+19 29 WR
+21 29 WR
+21 30 FR
+30 25 UK
+21 31 IJ
+31 28 WR
+31 29 EX
+31 32 WR
+31 33 WR
+34 28 WR
+34 29 WR
+31 34 UK
+35 28 WR
+35 29 WR
+35 32 WR
+35 33 RD
+36 28 WR
+36 29 UK
+35 37 WR
+38 28 EX
+38 32 UK
+35 39 RD
+35 40 EX
+35 41 WR
+35 42 WR
+35 43 RD
+35 44 FR
+44 37 EX
+44 39 RD
+44 40 WR
+44 41 EX
+44 42 WR
+44 43 RD
+44 45 UK
+

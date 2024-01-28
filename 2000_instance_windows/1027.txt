@@ -1,0 +1,33 @@
+13
+MP*-Ürünla_fiyat 10243975_formu scann..10 adet.exe
+TP*-ns9872.tmp 
+MP*-wbadmin.exe
+MP-CasPol.exe
+MP-executable.3044.exe 
+MF-C:\Users\admin\Desktop\Cybereason_EDR_TEST_TOOLS.7z
+MP-finance.exe 
+SO-10.0.0.00000
+TP*-RtkBtManServ.exe
+MF-C:\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+MF-C:\Path\AtomicRedTeam.dll
+TF-\Users\admin\AppData\Roaming\rPYrMQo\dvRzzWRPw.exe
+MF-C:\Users\admin\AppData\Local\Temp\lk
+17
+0 1 FR
+0 2 FR
+1 2 IJ
+0 3 UK
+1 4 UK
+2 5 WR
+2 6 FR
+6 5 WR
+2 7 ST
+7 6 RF
+2 8 IJ
+8 5 WR
+6 8 UK
+2 9 EX
+2 10 WR
+2 11 RD
+2 12 EX
+

@@ -1,0 +1,105 @@
+28
+MP-notepad++.exe 
+MP-CareUEyes.exe
+MP-pcalua.exe
+MF-%temp%\nanodump.dmp
+MF-\Users\admin\AppData\Local\Temp\fcexploit.pdf
+MP-WISPTIS.EXE
+MP-wusa.exe
+MP*-AdobeTray.exe
+MF-nam10.safelinks.protection.outlook.c
+TP-msxsl.exe
+TP-PEPlusLauncher_V2.exe 
+TP-nsCFA0.tmp
+MP*-bitsadmin.exe
+MF-C:\Users\admin\AppData\Local\Temp\8cc2d4575163a5e3dc7a56face3644e9.exe
+MP-Dkeyauth.exe 
+MF-\Windows\Microsoft.NET\Framework\v4.0.30319\CasPol.exe
+MP-xnoobx.cc.exe 
+TP*-cscript.exe
+MF-C:\Windows\system32\ntvdm
+MP-MicrosoftEdgeUpdate.exe
+TP-z0200670.exe
+TP*-Invoice for shipping.exe 
+MF-C:\Users\admin\AppData\Roaming\LZ4-SOFT.exe
+MF-C:\Users\admin\AppData\Local\Temp\3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe
+MF-C:\Users\admin\AppData\Local\Temp\a8b069ef9d76cd42e873c6e8ded9db8c17d9d0ce234b5e7c9a126b4d514c6f72
+MF-\Users\admin\AppData\Local\Temp\peplus.m
+TP-Outflank-Dumpert.exe
+MP-splwow64.exe
+74
+0 1 FR
+0 2 UK
+1 3 WR
+1 4 WR
+1 5 FR
+5 3 WR
+5 4 RD
+1 6 FR
+6 3 WR
+6 4 WR
+5 6 UK
+1 7 FR
+7 3 RD
+7 4 RD
+1 8 WR
+7 8 WR
+1 9 FR
+9 3 UK
+1 10 IJ
+10 4 WR
+7 10 IJ
+10 8 WR
+1 11 IJ
+11 4 WR
+7 11 IJ
+11 8 WR
+10 11 UK
+12 4 WR
+12 8 CD
+7 13 WR
+12 13 WR
+14 4 EX
+14 8 UK
+7 15 RD
+12 15 WR
+7 16 UK
+12 17 FR
+17 13 CD
+17 15 EX
+12 18 WR
+17 18 WR
+12 19 FR
+19 13 EX
+19 15 WR
+17 19 IJ
+19 18 WR
+12 20 IJ
+20 13 RD
+20 15 WR
+17 20 IJ
+20 18 RD
+19 20 UK
+12 21 FR
+21 13 WR
+21 15 WR
+17 21 IJ
+21 18 WR
+12 22 WR
+17 22 WR
+21 22 WR
+17 23 RD
+21 23 WR
+17 24 WR
+21 24 EX
+17 25 WR
+21 25 WR
+17 26 IJ
+26 18 WR
+21 26 UK
+17 27 IJ
+27 18 WR
+27 22 RD
+27 23 WR
+27 24 UK
+

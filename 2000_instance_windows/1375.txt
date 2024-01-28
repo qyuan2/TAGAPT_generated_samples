@@ -1,0 +1,174 @@
+48
+MP*-filezilla.exe 
+TP-msedge.exe
+MF-\Users\admin\AppData\Local\Temp\keygen.exe
+SF-C:\Users\admin\Desktop\Calibration_4418Shaft
+TF-C:\Windows\System32\NOTEPAD
+SO-hxxp://157.245.99[.]132/get.php
+SO-http://go.microsoft.com/fwlink/?LinkId=57426&Ext=php
+MP-nslookup.exe
+MP-cacls.exe 
+SO-hxxp://157.245.99[.]132/get.php
+MF-C:\Users\admin\AppData\Local\Temp\ORDER_LIST
+SO-https://globalmanysoft.com/services.exe
+MP*-javaw.exe
+MF-C:\Windows\Temp\lsass_dump
+TP-taskdl.exe
+MF-C:\Users\admin\AppData\Local\Temp\PO-465514-180820.doc
+MF-\Windows\system32\taskmgr.exe
+SO-hxxp://fiordan.ru/FILM.html
+TP-splwow64.exe
+MF-fix.bat
+SF-C:\Windows\System32\schtasks
+SF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug
+TP*-CasPol.exe
+MF-C:\Users\admin\AppData\Local\Temp\vLocalServerSetup
+MF-C:\Users\All Users\audiodg.exe
+SF-C:\Users\admin\AppData\Local\Temp\Tudehluxjc.exe
+MF-C:\Users\admin\AppData\Local\Temp\TagGen
+MP*-AdobeARM.exe
+TP-Backstab64.exe
+TF-system.tex
+SF-HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce
+TF-C:\Users\admin\Desktop\Biling
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MP-iexplore.exe 
+MP-spnet_state.exe
+MF-\Users\admin\AppData\Local\Temp\tmp8DB1.tmp
+TP-RegAsm.exe 
+MF-Files\Bandizip\data\RegDll.x86.exe
+MF-regsvr32.exe
+MP-863e7c22c771e4005197ae28363584f8.exe 
+SO-127.0.0.1
+MF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\jsestartup
+MP-certreq.exe
+MF-\Users\admin\AppData\Local\Temp\Remittance_1021395_092023_111928.csv.txt
+MF-\Windows\SysWOW64\cmd.exe
+MF-C:\Users\admin\AppData\Local\Temp\vmware
+MP-icacls.exe
+MF-\Users\admin\Desktop\a6197937-992f-4d8c-a192-64a545a288e7.pdf
+123
+0 1 FR
+0 2 WR
+1 2 RD
+0 3 EX
+1 3 CD
+0 4 WR
+1 4 CD
+0 5 ST
+1 5 ST
+6 0 RF
+6 1 RF
+0 7 UK
+1 8 IJ
+8 2 UK
+9 1 RF
+1 10 EX
+1 11 ST
+12 3 WR
+12 4 WR
+5 12 RF
+6 12 RF
+9 12 RF
+12 10 WR
+11 12 RF
+12 13 WR
+14 4 EX
+14 5 ST
+6 14 RF
+14 9 ST
+14 10 CD
+11 14 RF
+12 14 IJ
+14 13 WR
+12 15 WR
+14 15 EX
+12 16 WR
+14 16 EX
+12 17 ST
+14 17 ST
+9 18 RF
+18 10 RD
+11 18 RF
+12 18 IJ
+18 13 UK
+12 19 EX
+14 19 WR
+12 20 EX
+14 20 RD
+12 21 CD
+14 21 RD
+12 22 IJ
+14 22 IJ
+22 15 WR
+22 16 WR
+22 17 ST
+22 19 WR
+22 20 EX
+22 21 RD
+14 23 WR
+22 23 WR
+14 24 RD
+22 24 EX
+22 25 RD
+22 26 WR
+27 17 ST
+27 19 WR
+27 20 WR
+27 21 WR
+22 27 IJ
+27 23 WR
+27 24 WR
+27 25 RD
+27 26 WR
+28 19 WR
+28 20 RD
+28 21 EX
+22 28 IJ
+28 23 WR
+28 24 RD
+28 25 WR
+28 26 RD
+27 28 UK
+22 29 RD
+22 30 EX
+22 31 CD
+22 32 ST
+33 23 WR
+33 24 UK
+34 25 RD
+34 26 WR
+34 29 CD
+34 30 EX
+34 31 CD
+32 34 RF
+34 35 UK
+36 26 WR
+36 29 WR
+36 30 WR
+36 31 EX
+36 32 ST
+36 37 WR
+36 38 RD
+39 29 EX
+39 30 RD
+39 31 RD
+39 32 ST
+36 39 IJ
+39 37 RD
+39 38 WR
+40 36 RF
+40 39 RF
+36 41 EX
+39 41 EX
+32 42 RF
+36 42 UK
+39 43 EX
+39 44 WR
+39 45 WR
+46 37 WR
+46 38 WR
+46 40 ST
+46 41 UK
+39 47 UK
+

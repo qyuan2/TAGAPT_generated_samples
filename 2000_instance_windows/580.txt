@@ -1,0 +1,63 @@
+17
+MP*-Dkeyauth.exe 
+SO-https://access-message.top/secure-login
+MP-UninsHs.exe
+MP-B70D.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.010/src/RegSvr32.sct
+MP-Reader_sl.exe 
+MF-\Users\admin\AppData\Local\Temp\Dkeyauth.exe
+MF-C:\Program Files\Orcus\Orcus.exe
+SF-C:\Program files\appdata\local\temp\5491
+MF-MMC20.a
+TP*-vmware-workstation-player-5.0.0-installer_lRA-v51.exe
+MP*-ls
+SF-C:\Users\admin\AppData\Local\Temp\sample
+SF-C:\Users\admin\AppData\Local\Temp\tmp8DB1.tmp
+MP*-a6302410.exe
+MF-C:\Users\admin\AppData\Local\Temp\tmpF47F
+MP-saBSI.exe
+43
+0 1 ST
+0 2 FR
+2 1 ST
+0 3 FR
+3 1 ST
+2 3 UK
+4 0 RF
+0 5 FR
+5 1 ST
+5 4 ST
+0 6 WR
+5 6 WR
+0 7 WR
+5 7 UK
+0 8 CD
+0 9 WR
+0 10 FR
+10 1 ST
+10 4 ST
+10 6 WR
+10 8 EX
+10 9 RD
+11 1 ST
+11 4 ST
+11 6 RD
+11 8 WR
+11 9 WR
+10 11 IJ
+10 12 CD
+11 12 WR
+10 13 EX
+11 13 RD
+14 4 ST
+14 6 RD
+14 8 WR
+14 9 RD
+10 14 IJ
+11 14 UK
+10 15 EX
+16 6 CD
+16 8 WR
+16 9 WR
+10 16 UK
+

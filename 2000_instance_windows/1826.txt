@@ -1,0 +1,75 @@
+20
+MP*-renamer-7.5.exe
+MF-C:\Users\admin\AppData\Local\Temp\Setup
+TP*-damianocrnofj6793.exe
+SF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus.exe
+MF-C:\Users\admin\Desktop\dKEseX3QhmleytdFWRInDTBBZv
+MF-C:\Users\admin\AppData\Local\Temp\Spora
+MF-C:\Users\admin\AppData\Local\Temp\naxNP1OBQAkPtrV
+TP-TrustedInstaller.exe
+TP-NOTEPAD.EXE
+MF-C:\Users\admin\AppData\Local\Temp\EF98
+TP-Document.pdf_Slayed.scr.exe
+MP-Tags.exe 
+TP*-SecuriteInfo.com
+SF-C:\Windows\SysWOW64\сsrss
+MP*-Client.exe 
+TP-file.exe 
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-C:\Users\admin\AppData\Local\Temp\XClient.exe
+MP-nsBC6C.tmp
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+52
+0 1 WR
+0 2 FR
+2 1 RD
+0 3 RD
+2 3 WR
+0 4 WR
+2 4 RD
+0 5 WR
+2 5 WR
+0 6 WR
+2 6 WR
+0 7 FR
+7 1 WR
+2 7 UK
+0 8 FR
+8 1 WR
+8 3 RD
+8 4 UK
+0 9 WR
+0 10 IJ
+10 1 WR
+10 3 RD
+10 5 RD
+10 6 RD
+10 9 RD
+11 1 WR
+11 3 RD
+11 5 RD
+11 6 RD
+11 9 RD
+10 11 UK
+12 3 RD
+12 5 WR
+12 6 RD
+12 9 WR
+12 13 EX
+14 5 RD
+14 6 WR
+14 9 RD
+12 14 IJ
+14 13 RD
+15 5 UK
+16 12 RF
+16 14 RF
+12 17 EX
+14 17 RD
+18 9 WR
+12 18 IJ
+18 13 EX
+14 18 UK
+19 9 RD
+12 19 UK
+

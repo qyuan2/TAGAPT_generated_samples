@@ -1,0 +1,42 @@
+13
+MP-MicrosoftEdgeUpdate.exe 
+SO-https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-\Users\admin\AppData\Local\Temp\nsf91FB.tmp\ns9E4A.tmp
+MP-nsCCFE.tmp
+MP*-ns9D4E.tmp
+MP*-buidl.exe 
+TF-C:\Users\admin\Adobe\AdobeTray.exe
+SF-C:\Users\admin\AppData\Local\Temp\compile
+MP-installd.exe
+MF-C:\Users\admin\AppData\Local\Temp\444444.png
+MP*-OneDrive.exe 
+MP*-control.exe
+26
+1 0 RF
+2 0 RF
+0 3 WR
+0 4 UK
+1 5 RF
+5 2 ST
+5 3 WR
+6 1 ST
+6 2 ST
+6 3 RD
+5 7 WR
+6 7 CD
+5 8 RD
+6 8 EX
+9 1 ST
+2 9 RF
+9 3 WR
+5 9 UK
+6 10 CD
+1 11 RF
+11 2 ST
+11 3 WR
+6 11 UK
+2 12 RF
+12 3 WR
+12 7 UK
+

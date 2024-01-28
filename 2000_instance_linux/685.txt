@@ -1,0 +1,49 @@
+15
+MP-cat
+MF-raft-large-directories.txt
+MP*-perl
+TP*-ls
+MP*-awk
+MF-apache2.c
+MF-raft-medium-directories.txt
+TF-httpd.c
+SO-192.168.37.130
+MF-common.txt
+MP-less
+SF-2017.pl
+TF-LinEnum.sh
+MF-resolv.c
+MP*-less
+31
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 IJ
+3 1 WR
+2 3 IJ
+4 1 WR
+2 4 UK
+3 5 WR
+3 6 WR
+3 7 CD
+8 3 RF
+3 9 RD
+10 1 RD
+3 10 IJ
+10 5 WR
+10 6 RD
+10 7 WR
+10 8 ST
+10 9 RD
+3 11 CD
+10 11 EX
+3 12 WR
+10 12 WR
+10 13 WR
+14 5 RD
+14 6 WR
+14 7 WR
+14 8 ST
+14 9 WR
+10 14 UK
+

@@ -1,0 +1,127 @@
+32
+MP-last
+MP*-sed
+SF-http.c
+SO-192.168.10.131
+SF-lv.c
+MP-bash
+SF-httpd.c
+TP-cat
+SO-192.168.47.155
+MP-ls
+SF-flag3.txt
+TP*-dd
+SF-anaconda-ks.cfg
+MF-rockyou.txt
+SO-192.168.206.0
+TP-uname
+SF-os.exe
+SF-atomic.log
+MP-head
+MP-ifconfig
+MP-cat
+TP-cat
+TP-whoami
+MP*-grep
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1059.004/src/echo-art-fish.sh
+TP-ps
+SO-192.168.47.134:4444
+TF-te.c
+MP*-nl
+TF-flag4.txt
+MP-ip
+MP-paste
+92
+0 1 FR
+0 2 WR
+1 2 RD
+3 0 RF
+3 1 RF
+0 4 WR
+1 4 CD
+0 5 UK
+1 6 RD
+1 7 FR
+7 2 WR
+7 3 ST
+7 4 WR
+7 6 UK
+8 1 RF
+1 9 FR
+9 2 RD
+9 3 ST
+9 4 WR
+9 8 ST
+1 10 WR
+9 10 EX
+1 11 FR
+11 2 WR
+3 11 RF
+11 4 WR
+11 8 ST
+9 11 IJ
+11 10 WR
+9 12 RD
+11 12 WR
+9 13 WR
+11 13 WR
+14 9 RF
+11 14 ST
+15 8 ST
+9 15 IJ
+15 10 WR
+11 15 IJ
+15 12 WR
+15 13 WR
+14 15 RF
+9 16 RD
+11 16 WR
+15 16 WR
+9 17 WR
+11 17 WR
+15 17 EX
+8 18 RF
+9 18 UK
+19 10 WR
+11 19 IJ
+19 12 RD
+19 13 UK
+20 10 EX
+11 20 UK
+21 12 CD
+21 14 ST
+15 21 IJ
+21 16 RD
+21 17 RD
+22 12 EX
+22 14 ST
+15 22 IJ
+22 16 WR
+22 17 EX
+21 22 UK
+14 23 RF
+15 23 IJ
+23 16 CD
+23 17 WR
+24 15 RF
+24 23 RF
+15 25 FR
+25 16 WR
+25 17 RD
+23 25 IJ
+24 25 RF
+25 26 ST
+25 27 WR
+24 28 RF
+25 28 IJ
+28 26 ST
+28 27 RD
+25 29 WR
+28 29 WR
+30 24 ST
+25 30 UK
+24 31 RF
+26 31 RF
+31 27 WR
+28 31 UK
+

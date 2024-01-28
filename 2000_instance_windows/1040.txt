@@ -1,0 +1,48 @@
+14
+MP*-CMSTP.exe
+TF-sam.sav
+MP-msiexec.exe
+MF-advpack.dll
+SO-https://access-message.top/secure-login
+SF-C:\Windows\system32\certreq.exe
+MF-\Users\admin\AppData\Local\Temp\a9fbcacb2a62569888063fed2fb9b863.exe
+TF-Test.c
+TP*-cmstp.exe
+TP*-gpt4all-installer-win64.exe 
+SO-https://vision.fn-pz.com
+TF-aug23-1.zip
+MP*-Fichero Análsis 1.exe
+TF-C:\Windows\System32\Notepad
+31
+0 1 EX
+0 2 FR
+2 1 WR
+0 3 EX
+2 3 EX
+0 4 ST
+4 2 RF
+0 5 WR
+2 5 WR
+0 6 RD
+2 6 RD
+0 7 WR
+2 7 WR
+0 8 IJ
+8 1 UK
+0 9 FR
+2 9 IJ
+9 3 RD
+9 4 ST
+9 5 UK
+10 0 RF
+2 10 ST
+2 11 RD
+2 12 FR
+12 3 WR
+12 4 ST
+12 6 WR
+12 7 WR
+12 10 ST
+12 11 EX
+12 13 UK
+

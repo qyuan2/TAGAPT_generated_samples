@@ -1,0 +1,29 @@
+11
+MP*-Invoice.exe 
+MP*-OriginalBuild.exe.exe 
+MP-winhost.exe
+MP*-nltest.exe
+MF-C:\Users\admin\AppData\Local\Temp\3ec1f323b5\danke.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1197/T1197.md
+MP-SecuriteInfo.com.Win32.MalwareX-gen.3838.1241.exe 
+MP*-FrequencyMeasurement.exe
+TF-windir\system32\rundll32.exe
+MF-485240_2023_.rar
+MF-C:\Users\admin\AppData\Local\Temp\tmp99E0.tmp
+15
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 RD
+3 4 RD
+5 0 RF
+3 5 ST
+0 6 FR
+3 6 UK
+7 4 EX
+7 5 ST
+7 8 WR
+7 9 WR
+7 10 UK
+

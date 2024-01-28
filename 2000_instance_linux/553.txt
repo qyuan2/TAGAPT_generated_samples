@@ -1,0 +1,63 @@
+18
+MP-uname
+TF-etc.tar.gz
+MP-pr
+MP-touch
+MF-echo-art-fish.sh
+MP-bash
+MP*-rev
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.sh
+TP-awk
+SO-atomic@target.example
+MP-less
+MF-victim-shred.txt
+MF-1.zip
+MP*-cat
+MP-sed
+MP*-head
+MP*-less
+MP-bash 
+42
+0 1 RD
+0 2 UK
+3 1 WR
+3 4 RD
+5 1 WR
+3 5 UK
+6 1 RD
+6 4 WR
+6 7 ST
+8 1 WR
+8 4 CD
+6 8 IJ
+8 7 ST
+6 9 ST
+9 8 RF
+10 1 WR
+10 4 RD
+6 10 UK
+8 11 WR
+8 12 WR
+13 4 WR
+13 7 ST
+8 13 IJ
+13 9 ST
+13 11 WR
+13 12 RD
+14 4 WR
+7 14 RF
+8 14 UK
+7 15 RF
+9 15 RF
+15 11 WR
+15 12 WR
+13 15 UK
+16 7 ST
+16 9 ST
+16 11 RD
+16 12 WR
+17 9 ST
+17 11 WR
+17 12 RD
+16 17 UK
+

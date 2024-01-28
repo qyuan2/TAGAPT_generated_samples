@@ -1,0 +1,122 @@
+34
+MP*-cat
+TP-vi
+MF-art.sh
+MF-td.c
+MF-raw.githubusercontent.c
+MP-sh
+SF-journald.c
+MP-teehee
+MP-dnsdomainname
+TP-cat
+MF-inetd.c
+SF-ufw.log
+MP-netstat
+MP-find
+MP*-awk
+TF-te.c
+MF-te.c
+TP-find
+MP*-ls
+SO-192.168.10.131
+MF-inetd.c
+MF-AutoSUID.sh
+MF-v.c
+TP*-cat
+MP-sed
+MF-0*.txt
+MP-netstat
+MP-nl
+MF-resolv.c
+MP-cat
+MF-image.php
+MF-user.r
+MP-cp
+TP-tail
+85
+0 1 IJ
+0 2 RD
+1 2 WR
+0 3 RD
+1 3 WR
+0 4 RD
+1 4 UK
+0 5 FR
+5 2 CD
+5 3 WR
+0 6 EX
+5 6 RD
+0 7 FR
+7 2 WR
+7 3 WR
+7 6 WR
+0 8 UK
+9 2 WR
+9 3 WR
+5 9 UK
+7 10 RD
+7 11 WR
+12 2 WR
+12 3 WR
+12 6 CD
+7 12 UK
+13 3 WR
+13 6 EX
+13 10 WR
+13 11 UK
+14 6 WR
+14 10 WR
+14 15 WR
+14 16 RD
+17 10 RD
+14 17 IJ
+17 15 WR
+17 16 RD
+18 10 EX
+18 15 WR
+18 16 RD
+17 18 IJ
+19 14 RF
+17 19 ST
+19 18 RF
+14 20 EX
+17 20 EX
+18 20 WR
+14 21 WR
+17 21 UK
+14 22 WR
+18 22 WR
+14 23 IJ
+23 15 WR
+23 16 WR
+18 23 IJ
+19 23 RF
+23 20 RD
+23 22 WR
+14 24 FR
+24 15 RD
+24 16 WR
+18 24 UK
+23 25 RD
+26 16 RD
+26 19 ST
+26 20 WR
+26 22 WR
+23 26 UK
+19 27 RF
+27 20 WR
+27 22 RD
+27 25 EX
+27 28 WR
+19 29 RF
+29 20 WR
+29 22 WR
+29 25 RD
+29 28 CD
+27 30 UK
+29 31 WR
+32 22 RD
+32 25 UK
+33 28 WR
+29 33 UK
+

@@ -1,0 +1,72 @@
+20
+MP*-cronos.exe
+MP*-nethtsrv.exe
+MF-C:\Users\Public\audiodg.exe
+MF-C:\Users\admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+MF-C:\Users\admin\MicrosoftUpdate
+MP-Client.exe 
+MP*-ServiceModelReg.exe
+SF-C:\Users\admin\Desktop
+TP-avi_previewer_demo.exe
+MP*-forfiles.exe
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+MP-CareUEyes_setup.tmp
+MF-\Users\admin\AppData\Local\Temp\Media.vb
+TF-\Users\admin\AppData\Local\Temp\is-3DL5P.tmp\Ya_Setup.exe
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\csc.exe
+MP-vLocalServerSetup.exe
+SF-C:\Users\admin\AppData\Local\Temp\StormKittyBuild.exe
+MF-%temp%\T1140_calc_decoded.exe
+SO-hxxp://fiordan.ru/FILM.html
+MF-PathToAtomicsFolder\T1105\src\T1105-download-file.vb
+49
+0 1 FR
+0 2 WR
+1 2 WR
+0 3 RD
+1 3 WR
+0 4 WR
+1 4 WR
+0 5 FR
+1 5 UK
+0 6 FR
+6 2 WR
+6 3 RD
+6 4 RD
+0 7 RD
+6 7 WR
+0 8 IJ
+8 2 WR
+8 3 RD
+8 4 CD
+6 8 IJ
+8 7 RD
+0 9 FR
+9 2 WR
+9 3 RD
+9 4 UK
+10 0 RF
+6 10 ST
+8 10 ST
+11 2 WR
+11 3 WR
+11 7 RD
+8 11 IJ
+10 11 RF
+6 12 RD
+8 12 CD
+11 12 EX
+6 13 RD
+8 13 WR
+11 13 RD
+6 14 WR
+8 14 CD
+11 14 WR
+6 15 FR
+15 7 WR
+8 15 UK
+11 16 WR
+11 17 WR
+11 18 ST
+11 19 UK
+

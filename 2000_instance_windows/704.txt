@@ -1,0 +1,200 @@
+52
+MP-some_malicious_file.bin.exe
+SF-HKEY_CURRENT_USER\Software\Classes\mscfile
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MP-cronos.exe
+MP-819cebc553434a1b12318d80f63ebd96.exe 
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.011/src/T1218.011.sct").Exec();window.close
+MF-notepad.m
+MF-C:\Windows\system32\WinSat
+MP-icacls.exe
+MF-C:\Users\admin\AppData\Local\Temp\renamer
+MP-setup_avrokeyboard_5.6.0.exe
+MP*-WinSat.exe
+MP*-AdobeTray.exe
+SF-C:\Users\admin\AppData\Local\Temp\Xd
+MF-\Windows\Microsoft.NET\Framework\v2.0.50727\regsvcs.exe
+SO-hxxp://motoristo[.]ru/get.php'))|powershell
+MF-srss.exe
+MF-C:\Users\admin\AppData\Local\Temp\0520c252-bcdc-4fcf-b657-4d4cf2b0bde1.cab
+MF-\Windows\system32\SearchProtocolHost.exe
+MF-\Users\admin\AppData\Local\Temp\finance.exe
+MP-SearchProtocolHost.exe
+MP-oneetx.exe
+SO-hxxp://avirona.ru/7-ZIP.html
+TP-4900.exe
+TP-nsA042.tmp
+MP-ns9AE8.tmp
+MF-nwc.h
+MF-C:\Users\admin\AppData\Roaming\AppData\AppData
+MP-fd4289d63cda962af120a59a1f3a389f.exe.vir.exe 
+MP-New Client.exe
+MP-sc.exe
+MP*-vr3ud24r.inf
+SF-C:\Program Files\AsLocal\2
+MF-\Users\admin\Desktop\bf04d3cd12ad8928037a50eb70b0bc789480c46eab2cf9eefe3f7eb8b6e2fd4a.exe
+SF-C:\Users\admin\AppData\Local\Temp\runn452.bat
+MP-olsptrs.exe 
+TP*-net.exe
+MP-WINWORD.EXE
+MF-C:\Program Files\AnyDesk\AnyDesk
+TF-Files\HxD\HxD.exe
+SF-C:\Users\admin\Desktop\softwarelagswitchc.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-C:\Windows\SysWOW64\tolkqfys
+TP-ping.exe
+MF-C:\Users\admin\AppData\Local\Temp\Uninstall.exe
+MP-CCleanerBugReport.exe
+TP-сsrss.exe 
+SO-https://bit.ly/44au7d6#firzain.html?od=1syq64a729d938110_vl_intervl_13s4.1hqpyxs.C0000ri8c0a1wgb06f_x11432.i8c0aMTU1d3d3LTFnMnAzbnQ0x697l
+MF-\Windows\System32\wusa.exe
+MP-filezilla.exe 
+MP-OriginalBuild.exe.exe 
+MP-vmware-workstation-player-5.0.0-installer_lRA-v51.exe 
+145
+0 1 WR
+0 2 ST
+0 3 UK
+4 1 RD
+2 4 RF
+4 5 ST
+4 6 EX
+4 7 RD
+8 1 WR
+8 2 ST
+5 8 RF
+8 6 WR
+8 7 WR
+4 9 RD
+8 9 WR
+10 1 WR
+2 10 RF
+4 10 UK
+11 1 WR
+11 2 ST
+11 5 ST
+11 6 EX
+11 7 WR
+11 9 EX
+2 12 RF
+12 5 ST
+12 6 WR
+12 7 EX
+12 9 RD
+8 13 RD
+11 13 EX
+12 13 RD
+8 14 RD
+11 14 WR
+12 14 WR
+8 15 ST
+15 11 RF
+12 15 ST
+8 16 EX
+11 16 WR
+12 16 WR
+8 17 RD
+11 17 WR
+12 17 EX
+8 18 RD
+11 18 EX
+12 18 EX
+11 19 RD
+12 19 EX
+11 20 FR
+12 20 UK
+11 21 FR
+21 13 EX
+21 14 WR
+21 15 ST
+21 16 WR
+21 17 WR
+21 18 WR
+21 19 RD
+21 22 ST
+23 13 WR
+23 14 EX
+15 23 RF
+23 16 WR
+23 17 UK
+24 14 WR
+24 15 ST
+24 16 EX
+24 18 WR
+24 19 WR
+21 24 IJ
+22 24 RF
+15 25 RF
+25 16 CD
+25 18 WR
+25 19 WR
+21 25 UK
+24 26 WR
+24 27 UK
+28 19 WR
+28 22 ST
+28 26 WR
+22 29 RF
+29 26 RD
+30 22 ST
+30 26 WR
+29 30 UK
+31 22 ST
+31 26 WR
+31 32 RD
+31 33 RD
+31 34 WR
+35 26 WR
+35 32 WR
+35 33 RD
+35 34 RD
+31 36 FR
+36 32 WR
+36 33 WR
+36 34 RD
+35 36 IJ
+31 37 FR
+37 32 WR
+37 33 EX
+37 34 RD
+35 37 UK
+31 38 EX
+36 38 WR
+31 39 WR
+36 39 WR
+31 40 WR
+36 40 RD
+41 31 RF
+36 41 ST
+36 42 WR
+43 33 UK
+36 44 WR
+36 45 FR
+45 38 UK
+36 46 IJ
+46 39 RD
+46 40 WR
+41 46 RF
+46 42 RD
+46 44 CD
+47 46 RF
+46 48 WR
+49 39 WR
+49 40 EX
+49 41 ST
+49 42 WR
+49 44 RD
+46 49 UK
+50 40 RD
+50 41 ST
+50 42 WR
+50 44 EX
+50 47 ST
+50 48 RD
+41 51 RF
+51 42 WR
+51 44 WR
+51 47 ST
+51 48 WR
+50 51 UK
+

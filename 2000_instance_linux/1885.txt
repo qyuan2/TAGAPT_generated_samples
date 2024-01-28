@@ -1,0 +1,115 @@
+33
+MP*-cat
+MF-T1070.006-modification.txt
+MF-pwquality.c
+MP-more
+SO-192.168.0.134
+MF-T1070.004-test.txt
+MP-bash
+TF-Users.tar.gz
+MP-rm
+SO-192.168.159.128
+SF-atomic.log
+MF-victim-shred.txt
+MP-ifconfig
+TP*-sed
+SF-resolv.c
+TP-paste
+SF-httpd.c
+SO-192.168.2.102
+MF-p.c
+TF-2017.pl
+MF-rockyou.txt
+TF-access.htm
+SF-httpd.c
+MP-netstat
+TP*-dd
+MF-access.htm
+MF-syslog.c
+MF-s.c
+MF-logrotate.c
+MP*-dd
+MP-sed
+MF-raj.txt
+MP-less
+79
+0 1 WR
+0 2 EX
+0 3 FR
+3 1 RD
+3 2 WR
+4 0 RF
+3 4 ST
+0 5 RD
+3 5 WR
+0 6 UK
+3 7 RD
+8 1 WR
+8 2 RD
+4 8 RF
+8 5 WR
+8 7 RD
+9 3 RF
+8 9 ST
+3 10 EX
+8 10 RD
+3 11 WR
+8 11 WR
+12 2 WR
+3 12 UK
+13 4 ST
+13 5 WR
+13 7 EX
+8 13 IJ
+13 9 ST
+13 10 WR
+13 11 WR
+8 14 WR
+13 14 RD
+15 5 EX
+15 7 UK
+8 16 WR
+13 16 WR
+17 8 RF
+17 13 RF
+8 18 EX
+13 18 WR
+13 19 WR
+13 20 WR
+13 21 RD
+13 22 WR
+13 23 FR
+23 14 UK
+24 16 WR
+24 17 ST
+24 18 CD
+24 19 RD
+24 20 WR
+24 21 EX
+24 22 EX
+24 25 EX
+24 26 RD
+24 27 RD
+24 28 EX
+29 19 RD
+29 20 WR
+29 21 EX
+29 22 WR
+24 29 IJ
+29 25 WR
+29 26 EX
+29 27 EX
+29 28 EX
+30 20 WR
+30 21 EX
+30 22 WR
+24 30 IJ
+30 25 EX
+30 26 WR
+30 27 RD
+30 28 RD
+29 30 UK
+24 31 RD
+32 22 WR
+24 32 UK
+

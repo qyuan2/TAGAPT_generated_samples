@@ -1,0 +1,118 @@
+32
+MP*-jww825a.tmp 
+TP-CasPol.exe
+MF-\Users\admin\AppData\Local\Temp\winhost.exe
+SO-https://8.8.8.8/resolve?name=atomicredteam.$(Get-Random
+MF-C:\Users\admin\AppData\Local\Temp\vbs.exe
+TF-C:\Users\admin\AppData\Roaming\skmt
+MF-C:\Users\admin\Desktop\Setup\Installer.m
+MP-rPedidodeOfertadePre__o_USP2307-17BR___pdf.exe 
+MP-Nikki Project.scr
+TP-jww825a.exe 
+MP-Invoice.exe 
+SF-C:\Users\admin\AppData\Local\Temp\CreateStudio_Setup
+MF-96.zip
+MP-anydesk.exe
+MF-C:\Windows\system32\installd.exe
+MP-at.exe
+TF-\Windows\system32\pnpui.dll
+MP-Explorer.EXE
+MF-C:\Users\admin\AppData\Local\Temp\u2qkihjw
+MP-vds.exe
+TP*-PsExec.exe
+TP*-buidl.exe 
+MF-C:\Users\admin\AppData\Local\Temp\042da877d3\yiueea
+MF-\GnuPG\bin\gpg.exe
+MF-Menu\Programs\StartUp\vbsstartup.vb
+SO-http://192.168.5.25/test
+MF-PDF.r
+MP-file.exe
+MF-C:\Users\admin\AppData\Local\Temp\Files\Obfuscate
+SF-C:\Users\admin\AppData\Local\Temp\QUOTATION_AUG7FIBA00541
+MP*-ngen.exe
+SF-C:\Users\admin\AppData\Local\Temp\3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e
+83
+0 1 IJ
+0 2 WR
+1 2 WR
+0 3 ST
+1 3 ST
+0 4 CD
+1 4 RD
+0 5 WR
+1 5 WR
+0 6 EX
+1 6 RD
+0 7 FR
+1 7 IJ
+7 2 UK
+0 8 UK
+3 9 RF
+9 5 WR
+9 6 RD
+3 10 RF
+10 5 UK
+9 11 WR
+9 12 WR
+13 6 CD
+9 13 IJ
+13 11 RD
+13 12 WR
+9 14 EX
+13 14 WR
+9 15 FR
+15 11 RD
+15 12 WR
+15 14 RD
+9 16 UK
+17 11 RD
+17 12 RD
+13 17 UK
+15 18 RD
+19 11 WR
+19 12 CD
+19 14 EX
+15 19 UK
+20 11 RD
+20 12 EX
+20 14 CD
+20 18 RD
+21 11 RD
+21 12 RD
+21 14 WR
+21 18 EX
+20 21 IJ
+20 22 WR
+21 22 RD
+20 23 RD
+21 23 RD
+20 24 EX
+21 24 WR
+25 20 RF
+25 21 RF
+20 26 WR
+21 26 WR
+27 18 CD
+20 27 IJ
+21 27 IJ
+27 22 CD
+27 23 WR
+27 24 WR
+25 27 RF
+27 26 EX
+20 28 WR
+21 28 RD
+27 28 UK
+20 29 WR
+21 29 EX
+20 30 FR
+21 30 IJ
+30 22 WR
+30 23 WR
+30 24 WR
+25 30 RF
+30 26 RD
+30 29 WR
+21 31 RD
+30 31 UK
+

@@ -1,0 +1,220 @@
+58
+MP-where.exe
+MP-DllHost.exe
+SF-C:\Windows\Temp\lsass_dump
+MP-UninsHs.exe
+MF-C:\Windows\System32\rundll32
+MP-Reader_sl.exe 
+MF-C:\Users\admin\AppData\Local\Temp\C3B1
+SF-C:\Users\admin\AppData\Local\Temp\GLJC215.tmp
+TP-AcroRd32.exe 
+TP-RdrCEF.exe 
+TF-\Users\admin\AppData\Local\Temp\CSCF350.tmp
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+TF-C:\Users\admin\AppData\Roaming\rPYrMQo\dvRzzWRPw.exe
+MF-\T1106.exe
+MF-\Windows\SysWow64\regsvr32.exe
+MF-C:\Users\admin\AppData\Local\Temp\sechex-spoofy.zip
+MP-AdFind.exe
+TP-putty.exe
+MF-C:\Users\admin\AppData\Local\Temp\EF98.exe
+MP-help.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1218.005/src/mshta.sct')).Exec();close
+MF-c:\windows\ntds\ntds
+MF-C:\windows\System32\comsvcs
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-Files\Hantek2xx2\STDFU.dll
+MP*-SearchProtocolHost.exe
+MF-\Users\admin\AppData\Local\Temp\Tudehluxjc.exe
+MF-list.exe
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+MP-main_bin.exe 
+MP-SecuriteInfo.com
+TP*-runas.exe
+MF-C:\Users\admin\AppData\Local\Hydro\Hydro
+MF-C:\Windows\system32\ntvdm.exe
+MF-\Users\admin\AppData\Local\Temp\is-P1TLT.tmp\7za.exe
+TP-Notepad Soft.exe 
+SF-C:\Windows\system32\cmd
+SF-C:\ServerComponenthostNet\ChainRefBroker
+MP-pr2.exe 
+TP*-pcalua.exe
+MP*-taskdl.exe
+TP-InstaBotPro (1).exe 
+MF-C:\Users\admin\AppData\Local\84ef6d24-ce7f-44e4-a5ae-1d47d92bf287\build3.exe
+MP-ruby.exe
+TP-msxsl.exe
+SF-C:\Users\admin\Desktop\a6197937
+MF-C:\Users\admin\AppData\Local\Temp\Media
+MP-IrSatorLauncher.exe 
+TP-Spora.exe 
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+MF-C:\Users\admin\Desktop\Cybereason_EDR_TEST_TOOLS
+MP-radmin scanner.exe 
+MF-C:\Users\admin\AppData\Local\Temp\Rigs
+MF-C:\Windows\system32\regsvr32.exe
+TP-vaultcmd.exe
+TP-nsBB14.tmp
+MF-\Users\admin\AppData\Roaming\damianoh68951.exe
+MP-OUTLOOK.EXE 
+159
+0 1 FR
+0 2 RD
+1 2 WR
+0 3 FR
+1 3 UK
+0 4 WR
+0 5 FR
+5 2 WR
+5 4 CD
+0 6 UK
+5 7 CD
+8 2 WR
+8 4 WR
+5 8 UK
+9 2 WR
+9 4 RD
+9 7 EX
+9 10 WR
+11 9 RF
+9 12 RD
+9 13 RD
+9 14 RD
+9 15 WR
+16 7 WR
+9 16 IJ
+16 10 UK
+17 7 RD
+9 17 IJ
+17 11 ST
+17 12 WR
+17 13 WR
+17 14 RD
+17 15 CD
+9 18 RD
+17 18 WR
+9 19 IJ
+19 11 ST
+19 12 EX
+19 13 WR
+19 14 WR
+19 15 WR
+17 19 IJ
+19 18 UK
+20 17 RF
+17 21 WR
+17 22 WR
+17 23 ST
+17 24 RD
+25 15 RD
+17 25 IJ
+20 25 RF
+25 21 EX
+25 22 EX
+23 25 RF
+25 24 WR
+17 26 WR
+25 26 RD
+17 27 EX
+25 27 WR
+25 28 ST
+20 29 RF
+29 21 WR
+29 22 WR
+29 23 ST
+29 24 RD
+25 29 UK
+30 21 WR
+30 22 EX
+23 30 RF
+30 24 WR
+30 26 WR
+30 27 WR
+30 28 ST
+31 22 EX
+31 23 ST
+31 24 WR
+31 26 RD
+31 27 WR
+28 31 RF
+30 31 IJ
+30 32 WR
+31 32 WR
+30 33 WR
+31 33 RD
+30 34 RD
+31 34 WR
+35 26 RD
+35 27 CD
+35 28 ST
+30 35 UK
+31 36 RD
+31 37 WR
+28 38 RF
+31 38 IJ
+38 32 CD
+38 33 RD
+38 34 RD
+38 36 UK
+31 39 IJ
+39 32 WR
+39 33 WR
+39 34 WR
+39 37 EX
+31 40 IJ
+40 32 WR
+40 33 WR
+40 34 WR
+40 37 EX
+39 40 IJ
+31 41 IJ
+41 32 WR
+41 33 RD
+41 34 WR
+41 37 WR
+39 41 IJ
+40 41 IJ
+39 42 WR
+40 42 WR
+41 42 CD
+43 33 RD
+43 34 WR
+43 37 UK
+44 34 WR
+39 44 IJ
+40 44 IJ
+41 44 UK
+39 45 WR
+40 45 WR
+39 46 RD
+40 46 EX
+39 47 IJ
+47 42 CD
+47 45 UK
+39 48 IJ
+40 48 IJ
+48 42 UK
+39 49 ST
+40 49 ST
+40 50 RD
+51 46 WR
+49 51 RF
+51 50 RD
+51 52 RD
+51 53 WR
+54 46 RD
+54 49 ST
+54 50 RD
+51 54 UK
+55 46 WR
+55 49 ST
+55 50 RD
+55 52 RD
+55 53 WR
+55 56 EX
+57 49 ST
+57 50 WR
+57 52 WR
+57 53 WR
+55 57 UK
+

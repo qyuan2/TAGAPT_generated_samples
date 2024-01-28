@@ -1,0 +1,70 @@
+19
+MP*-nsA299.tmp
+MF-C:\Users\admin\AppData\Local\Temp\b40d11255d\saves
+MF-USERPROFILE\T1560-data-ps.zip
+MP*-8cc2d4575163a5e3dc7a56face3644e9.exe 
+TP*-wuauclt.exe
+SO-https://slpbridge.com/storage/images/debug2.ps1
+TF-IE1.doc
+MF-C:\Users\admin\Desktop\93604391
+MP*-pypykatz.py
+SO-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.masjidinthepark.org%2FSUNAT%2Ffactura%2F%3Fhash%3Dmwatanabe%40bcp.com.pe&data=05%7C01%7Cmwatanabe%40bcp.com.pe%7Cca75025415994757b07908db937289ac%7C5d93ebccf76943808b7e289fc972da1b%7C0%7C1%7C638265892397682484%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=E9tzPdJ5l%2F8GHfQ6zInN3Y%2BzJdJdsHKozuVHlD1dIzM%3D&reserved=0
+MF-C:\Users\admin\AppData\Local\Temp\upP.vb
+MF-CSIDL_COMMON_APPDATA\anydesk.exe
+MF-C:\Users\admin\AppData\Local\Temp\runn452.bat
+SF-C:\Users\admin\AppData\Local\Temp\analyssifilename.doc
+TP-ipconfig.exe
+TP-JJSploit.exe 
+MF-\Users\admin\AppData\Local\Temp\CareUEyes_setup.exe
+MP-7za.exe
+MP-javaw.exe
+48
+0 1 WR
+0 2 WR
+0 3 FR
+3 1 RD
+3 2 EX
+0 4 IJ
+4 1 RD
+4 2 RD
+3 4 IJ
+5 0 RF
+3 5 ST
+5 4 RF
+0 6 WR
+3 6 WR
+4 6 EX
+0 7 RD
+3 7 WR
+4 7 UK
+0 8 FR
+8 1 CD
+8 2 RD
+8 5 ST
+8 6 RD
+0 9 ST
+3 9 ST
+8 9 ST
+0 10 RD
+3 10 CD
+8 10 UK
+3 11 RD
+3 12 WR
+3 13 WR
+5 14 RF
+14 6 WR
+9 14 RF
+14 11 UK
+15 5 ST
+15 6 WR
+15 9 ST
+15 12 WR
+15 13 RD
+15 16 EX
+17 9 ST
+17 12 EX
+17 13 WR
+15 17 UK
+18 9 ST
+18 12 UK
+

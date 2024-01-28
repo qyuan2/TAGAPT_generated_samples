@@ -1,0 +1,101 @@
+30
+MP-Powershell.exe
+TP*-NOTEPAD.EXE
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+MP-ns9C62.tmp
+TP-InstaBotPro (1).exe 
+MF-\Users\admin\AppData\Local\Temp\df1f94243f99b25fea44d17750d24d04.exe
+MF-C:\Windows\system32\SearchProtocolHost
+MP-ns967A.tmp
+TP*-rundll32.exe
+MP-d6405410.exe
+MP*-253a704acd7952677c70e0c2d787791b8359efe2c92a5e77acea028393a85613.exe 
+TP*-nanodump.x64.exe
+MP-MicrosoftEdgeUpdate.exe
+MP-odbcconf.exe
+TP-where.exe
+MP-ns9872.tmp 
+TP-vaultcmd.exe
+TP-gsecdump.exe
+TF-PathToAtomicsFolder\T1547.001\src\jsestartup.js
+TP-nslookup.exe
+SF-C:\Users\admin\Desktop\Remittance_1021395_092023_111928.csv
+MF-EXa2972.8726\SUNATfacturanopagada.m
+TF-C:\Users\admin\AppData\Local\Temp\finance
+MP-wbadmin.exe
+MP-468C.exe
+MF-aug23-3.zip
+MP-EQNEDT32.EXE
+MF-Test.hta
+SF-C:\Users\admin\AppData\Local\Temp\000303773996
+MF-C:\Windows\system32\SearchProtocolHost
+68
+0 1 FR
+2 0 RF
+2 1 RF
+0 3 UK
+1 4 IJ
+4 2 ST
+1 5 WR
+4 5 WR
+1 6 WR
+4 6 WR
+1 7 IJ
+7 2 ST
+4 7 IJ
+7 5 UK
+1 8 FR
+2 8 RF
+4 8 IJ
+8 6 RD
+1 9 IJ
+2 9 RF
+4 9 IJ
+9 6 WR
+8 9 IJ
+1 10 FR
+10 2 ST
+4 10 IJ
+10 6 WR
+8 10 UK
+1 11 IJ
+2 11 RF
+4 11 IJ
+11 6 RD
+9 11 UK
+12 2 ST
+4 12 IJ
+12 6 WR
+4 13 FR
+13 6 WR
+4 14 FR
+14 6 WR
+12 14 UK
+15 6 EX
+13 15 UK
+16 6 WR
+16 17 IJ
+16 18 UK
+17 19 FR
+17 20 EX
+19 20 RD
+17 21 RD
+19 21 WR
+17 22 RD
+19 22 RD
+17 23 UK
+19 24 FR
+24 20 RD
+24 21 WR
+24 22 WR
+19 25 CD
+24 25 EX
+19 26 IJ
+26 20 EX
+26 21 RD
+26 22 WR
+24 26 UK
+19 27 WR
+19 28 WR
+19 29 WR
+

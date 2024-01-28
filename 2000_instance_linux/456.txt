@@ -1,0 +1,61 @@
+17
+MP-grep
+MF-pd.c
+MF-pwquality.c
+MF-locale.c
+TF-bash_completion.sh
+MF-art.sh
+TP*-more
+TP-wfuzz
+MF-logrotate.c
+TP-wpscan
+SO-192.168.2.102
+MP*-sed
+MF-0*.txt
+MF-f.r
+MF-flag4.txt
+TP*-whoami
+TP*-dd
+41
+0 1 RD
+0 2 EX
+0 3 RD
+0 4 RD
+0 5 WR
+0 6 IJ
+6 1 RD
+6 2 EX
+6 3 WR
+6 4 EX
+6 5 WR
+0 7 IJ
+7 1 EX
+7 2 UK
+0 8 WR
+6 8 WR
+0 9 UK
+10 6 RF
+11 1 RD
+11 3 RD
+11 4 WR
+11 5 EX
+6 11 IJ
+11 8 WR
+10 11 RF
+6 12 WR
+11 12 WR
+6 13 RD
+11 13 WR
+6 14 EX
+11 14 EX
+15 5 WR
+6 15 IJ
+15 8 WR
+15 10 ST
+11 15 IJ
+15 12 UK
+6 16 FR
+16 8 RD
+16 10 ST
+11 16 UK
+

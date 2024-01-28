@@ -1,0 +1,63 @@
+19
+MP*-ps
+SF-lighttpd.c
+MP-nl
+MP-cat
+TP-find
+MP-dd
+MF-e.c
+MP-echo 
+MP-whois
+TP-cat
+SO-192.168.159.128
+MF-access.htm
+MP*-cat
+MF-raw.githubusercontent.c
+MP-nl
+TF-art.sh
+MF-cron.h
+MP*-bash
+MP*-bash
+41
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 FR
+3 1 EX
+2 3 UK
+0 4 IJ
+4 1 RD
+0 5 UK
+4 6 WR
+7 1 WR
+4 7 IJ
+7 6 UK
+8 1 WR
+4 8 IJ
+9 1 WR
+4 9 UK
+8 10 ST
+8 11 WR
+8 12 FR
+12 10 ST
+12 11 RD
+8 13 RD
+12 13 RD
+8 14 FR
+10 14 RF
+14 11 RD
+8 15 RD
+12 15 EX
+8 16 WR
+12 16 UK
+8 17 FR
+10 17 RF
+17 11 WR
+17 13 WR
+17 15 RD
+10 18 RF
+18 11 RD
+18 13 EX
+18 15 WR
+17 18 UK
+

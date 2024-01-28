@@ -1,0 +1,38 @@
+11
+MP*-bash 
+TF-T1574.006.c
+MP*-bash
+MF-subprocess.c
+SO-192.168.2.102
+TP-cp
+TP*-ftp
+SF-raj.txt
+SO-192.168.0.134
+TP*-more
+MF-journald.c
+24
+0 1 WR
+0 2 FR
+2 1 WR
+0 3 CD
+2 3 RD
+0 4 ST
+4 2 RF
+0 5 FR
+5 1 WR
+2 5 UK
+0 6 IJ
+6 1 WR
+6 3 WR
+6 4 ST
+0 7 EX
+6 7 CD
+0 8 ST
+8 6 RF
+0 9 FR
+9 1 WR
+9 3 WR
+4 9 RF
+6 9 UK
+0 10 WR
+

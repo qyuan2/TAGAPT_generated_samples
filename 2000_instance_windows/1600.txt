@@ -1,0 +1,46 @@
+15
+MP*-file.exe 
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+MP-appcmd.exe
+TP*-wmpnscfg.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+MF-\Users\admin\Desktop\fd4289d63cda962af120a59a1f3a389f.exe.vir.exe
+SF-C:\inetpub\wwwroot
+TP-is-Q2MHB.tmp
+MF-regedit.exe
+TP-csc.exe
+MF-\Windows\SysWow64\regsvr32.exe
+MF-C:\Users\admin\AppData\Local\Temp\finance
+MP*-IrSatorLauncher.exe 
+MP*-firefox.exe 
+SF-C:\Windows\System32\wbem\WMIC.exe
+28
+0 1 WR
+0 2 FR
+2 1 UK
+0 3 IJ
+4 0 RF
+4 3 RF
+0 5 WR
+3 5 RD
+0 6 WR
+3 6 RD
+0 7 IJ
+3 7 UK
+0 8 RD
+0 9 FR
+9 4 ST
+9 5 WR
+9 6 WR
+9 8 WR
+0 10 RD
+9 10 WR
+9 11 WR
+12 4 ST
+12 5 UK
+13 6 WR
+13 8 WR
+9 13 IJ
+13 10 UK
+9 14 WR
+

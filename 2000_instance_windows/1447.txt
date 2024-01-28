@@ -1,0 +1,61 @@
+15
+MP*-Dkeyauth.exe
+MF-tasklist.exe
+TF-files\appdata\local\temp\32440.doc
+SF-C:\Program Files\Mozilla Firefox\firefox.exe
+MP*-is-3DL5P.tmp
+MF-C:\Users\admin\AppData\Local\Temp\is-Q02DK.tmp
+SF-C:\Users\admin\AppData\Local\Temp\EasyValorant
+MP-lk.exe 
+TF-C:\Users\admin\AppData\Local\Temp\Fwd_
+SF-C:\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9.zip
+SF-C:\Program Files\FutureTekICT Inc\WeGuardia SSLplus\SSLplus
+TP*-Exloader_Installer.vmp.exe 
+MP*-New Client.exe
+TP-InstaBotPro (1).exe 
+TP-Setup.bin.exe 
+43
+0 1 EX
+0 2 WR
+0 3 RD
+0 4 FR
+4 1 WR
+4 2 WR
+4 3 EX
+0 5 CD
+4 5 WR
+0 6 CD
+4 6 WR
+0 7 FR
+7 1 EX
+7 2 RD
+7 3 RD
+4 7 UK
+0 8 WR
+0 9 WR
+0 10 UK
+11 1 EX
+11 2 RD
+11 3 RD
+11 5 RD
+11 6 EX
+11 8 RD
+11 9 WR
+12 2 WR
+12 3 WR
+12 5 EX
+12 6 RD
+12 8 WR
+12 9 WR
+11 12 UK
+13 3 RD
+13 5 WR
+13 6 WR
+13 8 WR
+13 9 WR
+14 5 WR
+14 6 WR
+14 8 WR
+14 9 WR
+13 14 UK
+

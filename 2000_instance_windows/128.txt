@@ -1,0 +1,78 @@
+24
+MP*-nmap.exe
+MF-C:\Program Files\Adobe\Acrobat Reader DC\Reader\Reader_sl
+MF-\shell32.jpg
+TP*-Purchase_ORDERS087.scr
+MF-C:\Windows\system32\SearchProtocolHost.exe
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/NamedPipe/NamedPipeSystem.ps1
+SF-C:\Windows\INF\usbstor
+MF-SecHex-GUI.dll
+MF-C:\Users\admin\AppData\Local\Temp\is-U1EN3.tmp
+MP-control.exe
+SF-C:\Users\admin\AppData\Local\Temp\sechex-spoofy.zip
+TP-schtasks.exe 
+TF-C:\Users\admin\Desktop\NikkiBeach
+MP*-choice.exe
+MP-putty.exe
+MF-C:\Users\admin\AppData\Local\Temp\BLOCKED-MAILS.doc
+MP-query.exe
+MP*-3e5096359da3ff9944a9b85da8a000648c32e77d898b8966b242a332d8b30b1e.exe 
+MF-Offer.doc
+TF-\Users\admin\AppData\Local\Temp\CSCF236.tmp
+MF-nvcpl.dll
+MF-\UnoSetup.exe
+SF-C:\Users\admin\AppData\Local\Temp\tmpCD64.tmp
+MF-conhost.exe
+51
+0 1 WR
+0 2 RD
+0 3 IJ
+3 1 WR
+3 2 RD
+0 4 WR
+3 4 RD
+0 5 ST
+3 5 ST
+0 6 WR
+3 6 EX
+0 7 WR
+3 7 WR
+0 8 WR
+3 8 RD
+0 9 FR
+9 1 WR
+9 2 WR
+3 9 IJ
+9 4 RD
+5 9 RF
+9 6 WR
+9 7 EX
+9 8 RD
+0 10 WR
+3 10 RD
+9 10 RD
+11 1 UK
+3 12 EX
+9 12 WR
+3 13 IJ
+13 4 WR
+5 13 RF
+13 6 UK
+14 4 RD
+14 5 ST
+14 7 EX
+14 8 UK
+9 15 WR
+16 7 WR
+9 16 UK
+17 7 RD
+17 10 RD
+17 12 WR
+17 15 CD
+17 18 WR
+17 19 CD
+17 20 CD
+17 21 CD
+17 22 WR
+17 23 WR
+

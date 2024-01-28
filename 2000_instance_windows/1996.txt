@@ -1,0 +1,207 @@
+54
+MP-ns9872.tmp 
+SF-C:\Windows\system32\icacls.exe
+MP-timeout.exe
+MF-PathToAtomicsFolder\T1218.011\src\index.hta
+MP-SearchFilterHost.exe
+SO-https://gmail.us21.list-manage.com/track/click?u=c5edbce8886c368c0f6288564&id=20a3994999&e=e4fa9352f9
+MF-C:\Users\admin\AppData\Local\Temp\test
+MP*-net1.exe
+MP-PCCleaner.exe
+SO-hxxp://a0698649.xsph[.]ru/preparations/band.xml
+MF-C:\Windows\system32\DllHost.exe
+SO-appcenter://generic?aid=a7417433-29d9-4bc0-8826-af367733939d&iid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2&uid=ad142ee9-ecfe-4580-ec0f-259fb963ccd2
+SO-https://drimby.top/wndfi
+SO-https://github.com/redcanaryco/atomic-red-team/raw/058b5c2423c4a6e9e226f4e5ffa1a6fd9bb1a90e/atomics/T1218.010/bin/AllTheThingsx64.dll
+TP-SecuriteInfo.com.Win32.TrojanX-gen.16332.13417.exe 
+SO-http://192.168.5.25/test
+MF-C:\Users\admin\AppData\Local\Google\Chrome\User Data\Crashpad
+MP*-Overbygningsuddannelsens.exe
+SF-C:\ProgramData\anydesk.exe
+MP*-AnyDesk-a444ebcf.exe 
+TP-jww825a.exe 
+MP-Msiexec.exe
+MP-PC_Cleaner__5509.exe 
+MP-D911.exe
+MP-vdsldr.exe
+TP-pr2.exe 
+MP-Redline Activate.exe 
+MF-C:\Program Files\CCleaner\CCleanerBugReport
+MP-Skype.exe 
+MP-DIXRAT.exe 
+MF-C:\Path\AtomicRedTeam.dll
+TP-ping.exe
+MF-T1106.exe
+MP-oldplayer.exe 
+TP*-ma grosse bite.exe 
+MF-\Users\admin\Desktop\EXE_temp2.exe
+MP-Powershell.exe
+MP-MS-66016.exe 
+SO-https://abit.ly/lqy1dx#test@poscoplantec.co.kr
+SF-C:\Users\admin\AppData\Local\Temp\aafg31.exe
+MF-\Users\admin\AppData\Local\Temp\f43a100d40965fbdf724f9e6628621c9.zip
+MP-IBM_Centosi.exe 
+SF-C:\Users\admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+TP-EXCEL.EXE
+MF-network.m
+MP-Outflank-Dumpert.exe
+MF-\Users\admin\AppData\Local\Temp\Document.pdf_Slayed.scr.exe
+SO-hxxp://157.245.99[.]132/get.php
+MF-\Users\admin\AppData\Roaming\damianocrnofj6793.exe
+SO-https://github.com/op7ic/EDR-Testing-Script/blob/master/Payloads/notepad.msi?raw=true
+SO-0.0.0.0
+MP-untitled boxing game Good - Linkvertise Downloader_ns-hSm1.exe 
+MF-Checker.exe
+MF-\Users\admin\Desktop\DOC77412.jpg
+150
+0 1 EX
+0 2 FR
+2 1 WR
+0 3 CD
+2 3 WR
+0 4 FR
+4 1 RD
+2 4 UK
+0 5 ST
+0 6 WR
+0 7 FR
+7 1 WR
+7 3 RD
+5 7 RF
+7 6 WR
+0 8 UK
+7 9 ST
+7 10 WR
+11 7 RF
+7 12 ST
+7 13 ST
+5 14 RF
+14 6 WR
+7 14 IJ
+14 9 ST
+14 10 RD
+11 14 RF
+14 12 ST
+13 14 RF
+15 7 RF
+14 15 ST
+7 16 WR
+14 16 WR
+7 17 FR
+17 9 ST
+17 10 EX
+11 17 RF
+12 17 RF
+13 17 RF
+14 17 IJ
+17 15 ST
+17 16 EX
+14 18 RD
+17 18 RD
+9 19 RF
+19 10 WR
+19 11 ST
+19 12 ST
+19 13 ST
+14 19 IJ
+19 15 ST
+19 16 WR
+19 18 WR
+20 10 RD
+20 11 ST
+12 20 RF
+13 20 RF
+14 20 IJ
+15 20 RF
+20 16 WR
+17 20 IJ
+20 18 WR
+19 20 UK
+11 21 RF
+21 12 ST
+21 13 ST
+14 21 UK
+22 12 ST
+22 13 ST
+22 15 ST
+22 16 UK
+13 23 RF
+15 23 RF
+17 23 UK
+24 15 ST
+24 18 EX
+15 25 RF
+25 18 WR
+24 25 IJ
+26 18 UK
+24 27 EX
+25 27 WR
+24 28 FR
+25 28 UK
+24 29 FR
+29 27 RD
+24 30 CD
+29 30 CD
+24 31 IJ
+31 27 WR
+29 31 IJ
+31 30 EX
+24 32 EX
+29 32 WR
+31 32 WR
+24 33 FR
+33 27 WR
+33 30 UK
+34 27 WR
+29 34 IJ
+31 34 IJ
+34 32 WR
+29 35 CD
+31 35 RD
+34 35 WR
+36 27 RD
+29 36 UK
+31 37 IJ
+37 32 UK
+38 31 RF
+34 38 ST
+31 39 RD
+34 39 EX
+31 40 WR
+34 40 WR
+34 41 IJ
+41 35 RD
+38 41 RF
+41 39 WR
+41 40 WR
+34 42 RD
+41 42 UK
+34 43 FR
+43 35 CD
+43 38 ST
+43 39 EX
+43 40 RD
+34 44 EX
+43 44 WR
+45 35 WR
+45 38 ST
+45 39 WR
+45 40 RD
+43 45 IJ
+45 44 RD
+43 46 WR
+45 46 RD
+47 43 RF
+45 47 ST
+43 48 WR
+45 48 WR
+43 49 ST
+45 49 ST
+50 43 RF
+45 50 ST
+43 51 IJ
+51 44 RD
+45 51 UK
+43 52 RD
+43 53 WR
+

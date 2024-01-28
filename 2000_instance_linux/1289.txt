@@ -1,0 +1,58 @@
+17
+MP*-less
+MF-pd.c
+MF-0*.txt
+SF-httpd.c
+TF-flag4.txt
+MP*-uname
+SO-192.168.10.129
+MF-0*.txt
+MF-on.a
+TP*-cat
+TP*-cat
+SO-192.168.206.0
+TF-T1574.006.c
+SO-192.168.2.102
+MP-ls
+MF-T1027-004-test.c
+SF-T1070.004-test.txt
+38
+0 1 EX
+0 2 WR
+0 3 WR
+0 4 WR
+0 5 FR
+5 1 RD
+5 2 RD
+5 3 RD
+5 4 WR
+0 6 ST
+5 6 ST
+0 7 CD
+5 7 RD
+0 8 WR
+5 8 RD
+0 9 FR
+9 1 RD
+9 2 RD
+9 3 WR
+9 4 WR
+5 9 IJ
+9 6 ST
+9 7 EX
+9 8 RD
+0 10 FR
+10 1 CD
+10 2 WR
+10 3 RD
+10 4 WR
+5 10 UK
+9 11 ST
+9 12 EX
+13 9 RF
+14 4 CD
+6 14 RF
+14 7 UK
+9 15 RD
+9 16 RD
+

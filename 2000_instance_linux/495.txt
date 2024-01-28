@@ -1,0 +1,34 @@
+11
+MP*-touch
+MP-less
+MP-setenforce 
+MP*-head
+TP*-ifconfig
+MP-ls
+SF-ron.a
+MP*-uname
+MP-nl
+TP-less
+SO-192.168.10.128
+20
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 FR
+0 4 IJ
+3 4 IJ
+0 5 FR
+3 5 UK
+0 6 WR
+4 6 RD
+0 7 FR
+4 7 IJ
+7 6 RD
+0 8 FR
+4 8 IJ
+8 6 RD
+7 8 UK
+0 9 FR
+4 9 UK
+0 10 ST
+

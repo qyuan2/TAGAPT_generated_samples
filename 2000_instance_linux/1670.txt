@@ -1,0 +1,53 @@
+13
+MP*-head
+SO-192.168.206.137
+MF-te.c
+MF-etc.tar.gz
+MP*-ssh
+SF-passwd.zip
+MF-secret.c
+SF-cron.h
+MF-lighttpd.c
+TP*-netstat
+MP-ifconfig
+SF-lighttp.c
+MP*-arp-scan
+37
+1 0 RF
+0 2 WR
+0 3 WR
+0 4 FR
+4 1 ST
+4 2 WR
+4 3 RD
+0 5 WR
+4 5 WR
+0 6 RD
+4 6 EX
+0 7 WR
+4 7 WR
+0 8 EX
+4 8 RD
+0 9 FR
+9 1 ST
+9 2 WR
+9 3 RD
+4 9 IJ
+9 5 WR
+9 6 RD
+9 7 WR
+9 8 RD
+0 10 FR
+10 1 ST
+10 2 CD
+10 3 RD
+4 10 UK
+9 11 EX
+12 2 RD
+12 3 WR
+12 5 WR
+12 6 RD
+12 7 RD
+12 8 WR
+9 12 UK
+

@@ -1,0 +1,162 @@
+46
+MP*-pdates.exe 
+MP-msiexec.exe
+MP-Reg.exe
+MF-\Users\Public\audiodg.exe
+TP-installer.exe
+SO-https://clients2.google.com/cr/report
+MF-C:\Program Files (x86)\GnuPG\bin\gpg.exe
+MF-C:\Windows\servicing\TrustedInstaller.exe
+MP-20af4c29ba1c8ced4a86fc73c0ad7b7c.exe 
+MF-\Users\admin\AppData\Local\Temp\irknanu4.cmd
+MF-C:\Users\User\30802.ico
+TP-is-Q2MHB.tmp
+MF-C:\Users\admin\AppData\Local\Temp\suifsc.exe
+MP-RegAsm.exe 
+SF-C:\Users\admin\AppData\Local\Temp\script.js
+TF-%windir%\system32\inetsrv\defdoc.dll
+TF-C:\Users\admin\AppData\LocalLow\Microsoft\Internet Explorer\DOMStore\reviewref_protected
+SO-https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/CreateProcess/Get-CreateProcessSystemBind.ps1
+MF-C:\Path\AtomicRedTeam
+MP*-ns9E4A.tmp
+TP-taskmgr.exe
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1220/src/msxslxmlfile.xml
+TP-bcdedit.exe
+MP*-ExplorerSuite.exe
+MP-Curl.exe
+MP-df1f94243f99b25fea44d17750d24d04.exe 
+MF-C:\Windows\System32X86\windowspowershell\v1
+SO-https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt
+SF-C:\Windows\System32\calc
+MP-MSBuild.exe
+MP-cscript.exe
+MP-wscript.exe
+MF-\Users\admin\AppData\Local\Temp\is-R0T56.tmp\is-Q2MHB.tmp
+MF-C:\Users\admin\AppData\Local\Temp\KS
+MP-is-HTMC5.tmp
+MP*-hh.exe 
+MF-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\vbsstartup
+MF-C:\Users\admin\AppData\Local\Temp\a8b069ef9d76cd42e873c6e8ded9db8c17d9d0ce234b5e7c9a126b4d514c6f72
+MF-C:\savesdllNetdhcp\System
+TF-\Users\admin\AppData\Local\Temp\putty.exe
+MP-renamer-7.5.exe 
+TP-svcinstu.exe
+MP-csc.exe
+MP-wevtutil.exe
+TP-nsBB14.tmp
+TP-Heapman45.exe 
+113
+0 1 FR
+0 2 FR
+1 2 UK
+0 3 RD
+0 4 FR
+4 3 UK
+5 0 RF
+0 6 RD
+0 7 RD
+0 8 FR
+8 5 ST
+8 6 WR
+8 7 WR
+0 9 WR
+8 9 EX
+0 10 WR
+8 10 WR
+11 5 ST
+11 6 RD
+11 7 WR
+8 11 IJ
+11 9 WR
+11 10 WR
+8 12 RD
+11 12 WR
+13 5 ST
+13 6 EX
+13 7 WR
+8 13 UK
+11 14 WR
+11 15 WR
+11 16 WR
+11 17 ST
+11 18 WR
+19 9 WR
+19 10 WR
+11 19 IJ
+19 12 RD
+19 14 WR
+19 15 WR
+19 16 RD
+19 17 ST
+19 18 WR
+20 10 WR
+11 20 IJ
+20 12 RD
+20 14 RD
+20 15 WR
+20 16 WR
+20 17 ST
+20 18 WR
+19 20 UK
+11 21 ST
+22 12 UK
+23 14 WR
+23 15 RD
+23 16 RD
+23 17 ST
+23 18 WR
+23 21 ST
+24 14 RD
+24 15 WR
+24 16 UK
+25 15 UK
+23 26 WR
+23 27 ST
+23 28 WR
+21 29 RF
+29 26 WR
+29 27 ST
+29 28 UK
+30 21 ST
+23 30 UK
+31 21 ST
+31 26 RD
+31 27 ST
+31 32 RD
+31 33 WR
+34 26 EX
+27 34 RF
+31 34 UK
+35 26 EX
+35 27 ST
+35 32 WR
+35 33 WR
+35 36 RD
+35 37 EX
+35 38 CD
+35 39 EX
+40 32 EX
+40 33 WR
+35 40 UK
+41 32 WR
+41 33 UK
+42 32 WR
+42 36 WR
+42 37 WR
+42 38 WR
+42 39 WR
+43 36 WR
+43 37 WR
+43 38 WR
+43 39 WR
+42 43 UK
+44 36 RD
+44 37 WR
+44 38 WR
+44 39 WR
+45 36 WR
+45 37 RD
+45 38 RD
+45 39 CD
+44 45 UK
+

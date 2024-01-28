@@ -1,0 +1,30 @@
+10
+MP*-touch
+MF-cron.m
+MF-pwquality.c
+MP*-pr
+SO-192.168.10.131
+MF-raj.txt
+MP*-systemctl
+MF-on.a
+MP-head
+MP*-nmap
+17
+0 1 RD
+0 2 WR
+0 3 FR
+3 1 WR
+3 2 WR
+4 0 RF
+3 4 ST
+0 5 WR
+3 5 WR
+0 6 FR
+6 1 WR
+6 2 UK
+0 7 WR
+3 7 RD
+0 8 UK
+9 1 RD
+3 9 UK
+
